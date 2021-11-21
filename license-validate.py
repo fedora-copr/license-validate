@@ -1,4 +1,5 @@
 #!/usr/bin/python3
+import sys
 
 class SolveBoolean:
    def solve(self, sentence, LICENSES):
@@ -49,7 +50,6 @@ with open('approved-licenses.txt','r') as fh:
             if curline: # skip whitespace lines
                GOOD_LICENSES.append(curline.rstrip())
 
-print(GOOD_LICENSES)
 ob = SolveBoolean()
 
 # TODO read from command line using argparse
@@ -58,7 +58,7 @@ s = "MIT and (GPLv1 or BadOne)"
 result = ob.solve(s, GOOD_LICENSES)
 
 if not result:
-   # not approved licesne
+   # not approved license
    sys.exit(1)
 
 # TODO print something user friendly with -v 
