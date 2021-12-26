@@ -1,5 +1,5 @@
 Name:           license-validate
-Version:        0
+Version:        1
 Release:        1%{?dist}
 Summary:        Validate SPEC license string
 
@@ -44,5 +44,7 @@ install full-grammar.lark %{buildroot}%{_datadir}/%{name}/grammar.lark
 
 
 %changelog
+* Sun Dec 26 2021 Miroslav Suchý <msuchy@redhat.com> 1-1
+- initial package
 * Sun Dec 26 2021 msuchy <msuchy@redhat.com>
 - 
