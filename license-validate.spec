@@ -16,7 +16,7 @@ BuildRequires:  python3dist(lark-parser)
 Requires:       python3dist(lark-parser)
 
 %description
-Validate whether license string conform to Fedora Licensing.
+Validate whether the license string conforms to Fedora Licensing.
 
 %prep
 %autosetup
