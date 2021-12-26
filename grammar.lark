@@ -1,6 +1,10 @@
 start: license
 
-license: license_item | "(" license_item ")" | license_item "or" license_item | license_item "and" license_item
+license: license_item | left_parenthesis license right_parenthesis | license operator license
+
+left_parenthesis: "("
+right_parenthesis: ")"
+operator: "or"|"and"
 
 COMMENT: "#" /[^\n]/*
 %ignore COMMENT
