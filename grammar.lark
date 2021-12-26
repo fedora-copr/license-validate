@@ -1,0 +1,9 @@
+start: license
+
+license: license_item | "(" license_item ")" | license_item "or" license_item | license_item "and" license_item
+
+COMMENT: "#" /[^\n]/*
+%ignore COMMENT
+
+%import common.WS
+%ignore WS
