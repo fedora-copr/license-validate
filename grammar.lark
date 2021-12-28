@@ -6,8 +6,5 @@ left_parenthesis: "("
 right_parenthesis: ")"
 operator: "or"|"and"
 
-COMMENT: "#" /[^\n]/*
-%ignore COMMENT
-
 %import common.WS
 %ignore WS
