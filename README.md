@@ -11,7 +11,7 @@ This script does **not** check source files and does not check whether the licen
 Content:
 
  * `fedora-approved-licenses.txt` - contains list of licenses from [Fedora Licensing:Main](https://fedoraproject.org/wiki/Licensing:Main#Software_License_List). This is manually synced with the wiki. The file can contain empty lines and comments.
- * `grammar.lark` - this file contains BNF grammar for [Lark](https://lark-parser.readthedocs.io/en/latest/). It miss one line: `license_item: "MIT"|"GPLv1"|...". This line is added there dynamically by `create-grammar.py`.
+ * `grammar.lark` - this file contains BNF grammar for [Lark](https://lark-parser.readthedocs.io/en/latest/). It miss one line: `license_item: "MIT"|"GPLv1"|..."`. This line is added there dynamically by `create-grammar.py`.
  * `create-grammar.py` - read `grammar.lark` and accepts filename as argument (usually `approved-licenses.txt`) and prints complete grammar.
 
 ## Run from checkout
