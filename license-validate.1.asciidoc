@@ -1,0 +1,40 @@
+license-validate(1)
+===================
+:man source: license-validate
+:man manual: License Validate
+
+NAME
+----
+license-validate - validates the string in the License tag in the SPEC file
+
+SYNOPSIS
+--------
+
+*license-validate* [-h] [--file FILE] [--verbose] license
+
+positional arguments:
+  license        license string. E.g., ''GPL or MIT''.
+
+
+OPTIONS
+-------
+-h, --help::
+    Show help message and exit.
+--file FILE::
+    Read the grammar from this file. Default is `/usr/share/license-validate/grammar.lark`. And if this default does not exists then script reads `./full-grammar.lark`.
+--verbose, -v::
+    Print more human friendly messages. Otherwise just exits with error code zero if license is valid otherwise with error code 1 if license is invalid.
+
+
+DESCRIPTION
+-----------
+
+Validates whether license is in approved set for the distribution.
+
+This script does **not** check source files and does not check whether the license is actually correct. For this purpose you may use `licensecheck`.
+
+
+AUTHORS
+-------
+Miroslav Suchý <msuchy@redhat.com>
+

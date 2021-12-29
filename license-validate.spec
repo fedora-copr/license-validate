@@ -11,6 +11,10 @@ URL:            https://pagure.io/copr/license-validate/
 Source0:        %{name}-%{version}.tar.gz
 BuildArch:      noarch
 
+#man pages
+BuildRequires: asciidoc
+BuildRequires: libxslt
+
 #for test
 BuildRequires:  python3dist(lark-parser)
 Requires:       python3dist(lark-parser)
@@ -24,7 +28,9 @@ Validate whether the license string conforms to Fedora Licensing.
 
 %build
 ./create-grammar.py fedora-approved-licenses.txt > full-grammar.lark
-
+for i in license-validate.1.asciidoc; do
+  a2x -d manpage -f manpage "$i"
+done
 
 %install
 mkdir -p %{buildroot}%{_bindir}
@@ -32,6 +38,9 @@ install license-validate.py %{buildroot}%{_bindir}/license-validate
 
 mkdir -p %{buildroot}%{_datadir}/%{name}/
 install full-grammar.lark %{buildroot}%{_datadir}/%{name}/grammar.lark
+
+mkdir -p %{buildroot}%{_mandir}/man1
+install -m644 license-validate.1 %{buildroot}/%{_mandir}/man1/
 
 %check
 ./validate-grammar.py full-grammar.lark
@@ -41,6 +50,7 @@ install full-grammar.lark %{buildroot}%{_datadir}/%{name}/grammar.lark
 %doc README.md
 %{_bindir}/license-validate
 %{_datadir}/%{name}
+%doc %{_mandir}/man1/license-validate.1*
 
 
 %changelog
