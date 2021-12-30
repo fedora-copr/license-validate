@@ -2,7 +2,6 @@
 import argparse
 import sys
 from lark import Lark
-from lark.exceptions import UnexpectedCharacters
 
 parser = argparse.ArgumentParser(description='Validate Fedora RPM license string.')
 parser.add_argument('grammar', help='file with a grammar')
