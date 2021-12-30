@@ -3,7 +3,7 @@ import argparse
 import os.path
 import sys
 from lark import Lark
-from lark.exceptions import UnexpectedCharacters
+from lark.exceptions import LarkError
 
 parser = argparse.ArgumentParser(description='Validate Fedora RPM license string.')
 parser.add_argument('license', help='license string')
@@ -33,7 +33,7 @@ try:
     # approved license
     if opts.verbose > 0:
         print("Approved license")
-except UnexpectedCharacters as e:
+except LarkError as e:
     # not approved license
     print(e)
     if opts.verbose > 0:
