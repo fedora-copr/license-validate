@@ -1,5 +1,5 @@
 Name:           license-validate
-Version:        2
+Version:        3
 Release:        1%{?dist}
 Summary:        Validate SPEC license string
 
@@ -59,6 +59,18 @@ install -m644 license-validate.1 %{buildroot}/%{_mandir}/man1/
 
 
 %changelog
+* Wed Jan 05 2022 Miroslav Suchý <msuchy@redhat.com> 3-1
+- fixes for package review
+- code cleanup
+- catch all lark errors
+- allow bad license with or operator
+- add comment aboutlicense_item
+- add general redistributable license
+- add missing OFL license
+- add scripts to check all fedora licenses
+- add man page
+- remove COMMENTS from grammar
+
 * Sun Dec 26 2021 Miroslav Suchý <msuchy@redhat.com> 2-1
 - correctly handle parenthesis (msuchy@redhat.com)
 - grammar fixes (msuchy@redhat.com)
