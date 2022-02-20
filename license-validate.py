@@ -25,11 +25,11 @@ if not os.path.exists(filename):
 with open(filename) as f:
     grammar = f.read()
 
-parser = Lark(grammar)  # Scannerless Earley is the default
+lark_parser = Lark(grammar)  # Scannerless Earley is the default
 
 try:
     text = opts.license
-    parser.parse(text)
+    lark_parser.parse(text)
     # approved license
     if opts.verbose > 0:
         print("Approved license")
