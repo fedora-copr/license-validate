@@ -1,5 +1,5 @@
 Name:           license-validate
-Version:        3
+Version:        4
 Release:        1%{?dist}
 Summary:        Validate SPEC license string
 
@@ -61,6 +61,10 @@ install -m644 license-fedora2spdx.1 %{buildroot}/%{_mandir}/man1/
 
 
 %changelog
+* Wed Apr 06 2022 Miroslav Suchý <msuchy@redhat.com> 4-1
+- add license-fedora2spdx to package
+- add script to convert from Fedoras shortname to SPDX identifier
+
 * Wed Jan 05 2022 Miroslav Suchý <msuchy@redhat.com> 3-1
 - fixes for package review
 - code cleanup
