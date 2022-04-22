@@ -10,7 +10,7 @@ license-fedora2spdx - Converts old Fedora license string to SPDX identifier.
 SYNOPSIS
 --------
 
-*license-validate* [-h] [--file FILE] [--verbose] license
+*license-fedora2spdx* [-h] [--file FILE] [--verbose] license
 
 positional arguments:
   license        license string. E.g., ''GPL or MIT''.
