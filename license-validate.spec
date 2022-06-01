@@ -31,7 +31,10 @@ Validate whether the license string conforms to Fedora Licensing.
 
 
 %build
-./create-grammar.py fedora-approved-licenses.txt > full-grammar.lark
+./generate-shortnames.py > fedora-shortnames.txt
+./generate-spdx-ids.py > fedora-spdx.txt
+./create-grammar.py grammar.lark fedora-spdx.txt > full-grammar.lark
+./create-grammar.py grammar-shortnames.lark fedora-shortnames.txt > full-grammar-shortnames.lark
 for i in license-validate.1.asciidoc license-fedora2spdx.asciidoc; do
   a2x -d manpage -f manpage "$i"
 done
@@ -43,7 +46,8 @@ install license-validate.py %{buildroot}%{_bindir}/license-validate
 install license-fedora2spdx.py %{buildroot}%{_bindir}/license-fedora2spdx
 
 mkdir -p %{buildroot}%{_datadir}/%{name}/
-install full-grammar.lark %{buildroot}%{_datadir}/%{name}/grammar.lark
+install -m644 full-grammar.lark %{buildroot}%{_datadir}/%{name}/grammar.lark
+install -m644 full-grammar-shortnames.lark %{buildroot}%{_datadir}/%{name}/grammar-shortnames.lark
 
 mkdir -p %{buildroot}%{_mandir}/man1
 install -m644 license-validate.1 %{buildroot}/%{_mandir}/man1/
@@ -51,6 +55,7 @@ install -m644 license-fedora2spdx.1 %{buildroot}/%{_mandir}/man1/
 
 %check
 ./validate-grammar.py full-grammar.lark
+./validate-grammar.py full-grammar-shortnames.lark
 
 %files
 %license LICENSE

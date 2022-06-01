@@ -10,7 +10,7 @@ license-validate - validates the string in the License tag in the SPEC file
 SYNOPSIS
 --------
 
-*license-validate* [-h] [--file FILE] [--verbose] license
+*license-validate* [-h] [--old] [--file FILE] [--verbose] license
 
 positional arguments:
   license        license string. E.g., ''GPL or MIT''.
@@ -20,6 +20,8 @@ OPTIONS
 -------
 -h, --help::
     Show help message and exit.
+--old::
+    Validate using old Fedora's shortnames. Otherwise SPDX expression is assumed.
 --file FILE::
     Read the grammar from this file. Default is `/usr/share/license-validate/grammar.lark`. And if this default does not exists then script reads `./full-grammar.lark`.
 --verbose, -v::

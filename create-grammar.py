@@ -2,10 +2,11 @@
 import argparse
 
 parser = argparse.ArgumentParser(description='Create complete LARK grammar.')
+parser.add_argument('grammar', help='file with grammar (without licenses)')
 parser.add_argument('licenses', help='file with approved licenses')
 opts = parser.parse_args()
 
-with open("grammar.lark") as f:
+with open(opts.grammar) as f:
     grammar = f.read()
 
 ITEMS = {}

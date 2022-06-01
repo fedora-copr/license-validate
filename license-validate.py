@@ -7,12 +7,15 @@ from lark.exceptions import LarkError
 
 parser = argparse.ArgumentParser(description='Validate Fedora RPM license string.')
 parser.add_argument('license', help='license string')
+parser.add_argument('--old', help="validate using old Fedora's shortnames")
 parser.add_argument('--file', help='read the grammar from this file (default /usr/share/license-validate/grammar.lark)')
 parser.add_argument('--verbose', '-v', action='count', default=0)
 opts = parser.parse_args()
 
 if opts.file:
     filename = opts.file
+elif opts.old:
+    filename = "/usr/share/license-validate/grammar-shortnames.lark"
 else:
     filename = "/usr/share/license-validate/grammar.lark"
     if not os.path.exists(filename):

@@ -1,14 +1,10 @@
-// Specification:
-// https://spdx.github.io/spdx-spec/SPDX-license-expressions/
-// We use only subset of the full specification for now
-
 start: license
 
-license: license_item | left_parenthesis license right_parenthesis | license operator license | license "OR" bad_license | bad_license "OR" license
+license: license_item | left_parenthesis license right_parenthesis | license operator license | license "or" bad_license | bad_license "or" license
 
 left_parenthesis: "("
 right_parenthesis: ")"
-operator: "OR"|"AND"
+operator: "or"|"and"
 
 %import common.WS
 %ignore WS

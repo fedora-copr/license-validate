@@ -34,7 +34,7 @@ class T(Transformer):
 
 parser = argparse.ArgumentParser(description='Converts old Fedora license string to SPDX identifier.')
 parser.add_argument('license', help='license string')
-parser.add_argument('--file', help='read the grammar from this file (default /usr/share/license-validate/grammar.lark)')
+parser.add_argument('--file', help='read the grammar from this file (default /usr/share/license-validate/grammar-shortnames.lark)')
 parser.add_argument('--verbose', '-v', action='count', default=0)
 opts = parser.parse_args()
 
