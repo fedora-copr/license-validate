@@ -38,7 +38,7 @@ parser.add_argument('--file', help='read the grammar from this file (default /us
 parser.add_argument('--verbose', '-v', action='count', default=0)
 opts = parser.parse_args()
 
-data = json.load(open('/usr/share/rpminspect/licenses/fedora.json'))
+data = json.load(open('/usr/share/fedora-license-data/licenses/fedora-licenses.json'))
 LICENSES={}
 COUNT={}
 VARIATIONS={}
@@ -60,6 +60,8 @@ with open(filename) as f:
 # read data from rpminspect-data-fedora and poplate LICENSES, COUNT and VARIATIONS
 for l in data.keys():
     if "spdx_abbrev" in data[l]:
+        if data[l].get("approved") != "yes":
+            continue
         LICENSES[data[l]["fedora_abbrev"]] = data[l]["spdx_abbrev"]
         COUNT[data[l]["fedora_abbrev"]] = COUNT.get(data[l]["fedora_abbrev"], 0) + 1
         spdx = data[l]["spdx_abbrev"]

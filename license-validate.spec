@@ -11,7 +11,7 @@ URL:            https://pagure.io/copr/license-validate/
 Source0:        %{name}-%{version}.tar.gz
 BuildArch:      noarch
 
-Requires:       rpminspect-data-fedora
+Requires:       fedora-license-data
 
 # man pages
 BuildRequires:  asciidoc
