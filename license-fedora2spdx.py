@@ -57,7 +57,7 @@ if not os.path.exists(filename):
 with open(filename) as f:
     grammar = f.read()
 
-# read data from rpminspect-data-fedora and poplate LICENSES, COUNT and VARIATIONS
+# read data from rpminspect-data-fedora and populate LICENSES, COUNT and VARIATIONS
 for l in data.keys():
     if "spdx_abbrev" in data[l]:
         if data[l].get("approved") != "yes":
