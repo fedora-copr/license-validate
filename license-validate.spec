@@ -1,5 +1,5 @@
 Name:           license-validate
-Version:        6
+Version:        7
 Release:        1%{?dist}
 Summary:        Validate SPEC license string
 
@@ -69,6 +69,9 @@ install -m644 license-fedora2spdx.1 %{buildroot}/%{_mandir}/man1/
 
 
 %changelog
+* Sat Jun 04 2022 Miroslav Suchý <msuchy@redhat.com> 7-1
+- BR fedora-license-data (msuchy@redhat.com)
+
 * Sat Jun 04 2022 Miroslav Suchý <msuchy@redhat.com> 6-1
 - add rawhide releaser
 - validate using SPDX and introduce --old for previous behaviour
