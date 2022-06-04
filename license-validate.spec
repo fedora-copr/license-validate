@@ -1,5 +1,5 @@
 Name:           license-validate
-Version:        5
+Version:        6
 Release:        1%{?dist}
 Summary:        Validate SPEC license string
 
@@ -68,6 +68,12 @@ install -m644 license-fedora2spdx.1 %{buildroot}/%{_mandir}/man1/
 
 
 %changelog
+* Sat Jun 04 2022 Miroslav Suchý <msuchy@redhat.com> 6-1
+- add rawhide releaser
+- validate using SPDX and introduce --old for previous behaviour
+- migrate to fedora-license-data
+- add helpers to generate list of licenses from fedora-license-data
+
 * Fri Apr 22 2022 Miroslav Suchý <msuchy@redhat.com> 5-1
 - 2077908 - add missing requires on rpminspect-data-fedora (msuchy@redhat.com)
 - fix man page (msuchy@redhat.com)
