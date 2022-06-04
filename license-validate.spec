@@ -12,6 +12,7 @@ Source0:        %{name}-%{version}.tar.gz
 BuildArch:      noarch
 
 Requires:       fedora-license-data
+BuildRequires:  fedora-license-data
 
 # man pages
 BuildRequires:  asciidoc
