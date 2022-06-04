@@ -46,7 +46,7 @@ VARIATIONS={}
 if opts.file:
     filename = opts.file
 else:
-    filename = "/usr/share/license-validate/grammar.lark"
+    filename = "/usr/share/license-validate/grammar-shortnames.lark"
     if not os.path.exists(filename):
         filename = 'full-grammar.lark'
 
