@@ -1,5 +1,5 @@
 Name:           license-validate
-Version:        8
+Version:        9
 Release:        1%{?dist}
 Summary:        Validate SPEC license string
 
@@ -69,6 +69,9 @@ install -m644 license-fedora2spdx.1 %{buildroot}/%{_mandir}/man1/
 
 
 %changelog
+* Mon Jul 18 2022 Miroslav Suchý <msuchy@redhat.com> 9-1
+- 2108165 - upper case AND/OR in resulting SPDX formula (msuchy@redhat.com)
+
 * Sat Jun 04 2022 Miroslav Suchý <msuchy@redhat.com> 8-1
 - do not require param for --old
 
