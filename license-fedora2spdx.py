@@ -25,8 +25,10 @@ class T(Transformer):
             if COUNT[token] > 1:
                 print("Warning: more options how to interpret {}. Possible options: {}".format(
                         token, VARIATIONS[token]))
-        elif token in ["and", "or", "(", ")"]:
+        elif token in ["(", ")"]:
             pass
+        elif token in ["and", "or"]:
+            token.value = token.upper()
         else:
             print("Warning: we do not have SPDX identifier for {}".format(token))
         return token.value
