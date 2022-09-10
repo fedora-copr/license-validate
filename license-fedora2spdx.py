@@ -85,7 +85,7 @@ try:
         print("Approved license")
 except LarkError as e:
     # not approved license
-    print(e)
+    print("Not a valid license string. Pass '--verbose' to get full parser error.")
     if opts.verbose > 0:
-        print("Not a valid license string")
+        print(e)
     sys.exit(1)
