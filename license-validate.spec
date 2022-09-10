@@ -1,5 +1,5 @@
 Name:           license-validate
-Version:        9
+Version:        10
 Release:        1%{?dist}
 Summary:        Validate SPEC license string
 
@@ -69,6 +69,10 @@ install -m644 license-fedora2spdx.1 %{buildroot}/%{_mandir}/man1/
 
 
 %changelog
+* Sat Sep 10 2022 Miroslav Suchý <msuchy@redhat.com> 10-1
+- fix text of the license
+- be more friendly when user pass invalid license
+
 * Mon Jul 18 2022 Miroslav Suchý <msuchy@redhat.com> 9-1
 - 2108165 - upper case AND/OR in resulting SPDX formula (msuchy@redhat.com)
 
