@@ -12,7 +12,7 @@ data = json.load(file_data)
 
 licenses_list = []
 for license in data.values():
-        if license.get("approved") == "yes":
+        if (license.get("approved") == "yes") and ("fedora_abbrev" in license):
                 licenses_list.append(license.get("fedora_abbrev"))
 
 print('\n'.join(licenses_list))

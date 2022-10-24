@@ -64,6 +64,8 @@ for l in data.keys():
     if "spdx_abbrev" in data[l]:
         if data[l].get("approved") != "yes":
             continue
+        if "fedora_abbrev" not in data[l]:
+            continue
         LICENSES[data[l]["fedora_abbrev"]] = data[l]["spdx_abbrev"]
         COUNT[data[l]["fedora_abbrev"]] = COUNT.get(data[l]["fedora_abbrev"], 0) + 1
         spdx = data[l]["spdx_abbrev"]
