@@ -3,7 +3,8 @@
 ### Takes package-license.txt as positional argument
 
 while read line; do
-        echo Testing $(echo $line | cut -d':' -f1 )
-        license-validate "$(echo $line | cut -d':' -f2 )"
+        package="$(echo $line | cut -d':' -f1 )"
+        #echo "Testing $package"
+        license-validate "$(echo $line | cut -d':' -f2 )" >/dev/null || echo "$package"
 done < "$1"
 
