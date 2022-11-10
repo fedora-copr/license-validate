@@ -72,7 +72,8 @@ for l in data.keys():
         if not spdx:
             spdx = "no-spdx-yet ({})".format(l)
         if VARIATIONS.get(data[l]["fedora_abbrev"]):
-            VARIATIONS[data[l]["fedora_abbrev"]].append(spdx)
+            if spdx not in VARIATIONS[data[l]["fedora_abbrev"]]:
+                VARIATIONS[data[l]["fedora_abbrev"]].append(spdx)
         else:
             VARIATIONS[data[l]["fedora_abbrev"]] = [spdx]
 
