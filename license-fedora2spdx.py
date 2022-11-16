@@ -23,6 +23,7 @@ class T(Transformer):
         if token.value in LICENSES:
             token.value = LICENSES[token]
             if COUNT[token] > 1:
+                token.value = "{{{{pick {} choice}}}}".format(token)
                 print("Warning: more options on how to interpret {}. Possible options: {}".format(
                         token, VARIATIONS[token]))
         elif token in ["(", ")"]:
