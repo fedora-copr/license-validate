@@ -3,9 +3,9 @@
 curl https://src.fedoraproject.org/lookaside/rpm-specs-latest.tar.xz > rpm-specs-latest.tar.xz
 tar axf rpm-specs-latest.tar.xz
 grep '^License:' rpm-specs/*spec | cut '-d:' -f1,3- > package-license.txt
-cut '-d:' -f2 < package-license.txt > license.txt
+cut '-d:' -f2 < package-license.txt | awk '{$1=$1;print}' | sort -u > license.txt
 
-echo <<EOF
+cat <<EOF
 Spec files are in ./rpm-specs/
 package-license.txt - contains package-name:license
 license.txt - contains just the licenses
