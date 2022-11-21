@@ -20,7 +20,7 @@ else
         if license-validate "$LICENSE" >/dev/null; then
                 true;
         else
-                echo "$1 warning: not valid as calaway nor as SPDX, please check"
+                echo "$1 warning: not valid neither as Callaway nor as SPDX, please check"
         fi
 fi
 
