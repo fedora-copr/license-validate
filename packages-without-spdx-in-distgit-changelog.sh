@@ -1,5 +1,5 @@
 #!/usr/bin/bash
 
-for package in $(cat packages-without-spdx-in-spec-changelog.txt); do
+while read -r package; do
        print-distgit-log.sh "$package" |grep -i spdx >/dev/null || echo "$package"
 done
