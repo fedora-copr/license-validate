@@ -51,15 +51,9 @@ adobe-afdko
 adobe-mappings-cmap
 adobe-mappings-pdf
 adobe-source-code-pro-fonts
-adobe-source-han-code-jp-fonts
-adobe-source-han-mono-fonts
 adobe-source-han-sans-cn-fonts
-adobe-source-han-sans-jp-fonts
-adobe-source-han-sans-kr-fonts
 adobe-source-han-sans-tw-fonts
 adobe-source-han-serif-cn-fonts
-adobe-source-han-serif-jp-fonts
-adobe-source-han-serif-kr-fonts
 adobe-source-han-serif-tw-fonts
 adobe-source-sans-pro-fonts
 adobe-source-serif-pro-fonts
@@ -137,6 +131,7 @@ alsamixergui
 alsa-plugins
 alsa-sof-firmware
 alsa-tools
+alsa-ucm-asahi
 alsa-utils
 altermime
 alure
@@ -151,7 +146,6 @@ amg4psblas
 amiri-fonts
 aml
 amoebax
-amora
 amor
 ampache_browser
 amprd
@@ -205,7 +199,6 @@ ansible-pcp
 ansible
 ansifilter
 ant-antunit
-anthy
 antimicrox
 antiword
 antlr-maven-plugin
@@ -549,7 +542,6 @@ bcc
 bcd
 bcel
 bcftools
-bcg729
 bcm283x-firmware
 bcm43xx-fwcutter
 bcrypt
@@ -648,7 +640,6 @@ blogilo
 blosc
 bltk
 blt
-blueberry
 bluebird
 bluecurve-classic-metacity-theme
 bluecurve-gnome-theme
@@ -880,7 +871,6 @@ cc1541
 cc65
 cdac-sakal-marathi-fonts
 cdargs
-cdbs
 cdcollect
 cd-discid
 cdi-api
@@ -893,7 +883,6 @@ cdrdao
 cdrkit
 cdsclient
 cdw
-cegui
 cegui06
 cekit
 celestia
@@ -920,7 +909,6 @@ CGAL
 cgdb
 cgit
 cglib
-cgnslib
 c-graph
 cgreen
 CGSI-gSOAP
@@ -976,7 +964,6 @@ clawsker
 claws-mail
 clazy
 clc
-cldr-emoji-annotation
 cld2
 cleanfeed
 clearlooks-compact-gnome-theme
@@ -1031,7 +1018,6 @@ cmpfit
 cmrc
 cm_rgb
 cmrt
-cntlm
 coan
 cobbler
 coccinelle
@@ -1101,7 +1087,6 @@ ColPack
 colrdx
 combblas
 comic-neue-fonts
-commissaire-client
 commit-stream
 commoncpp2
 common-lisp-controller
@@ -1204,7 +1189,6 @@ cppmyth
 cpprest
 cpptest
 cpptoml
-cppunit
 cpputest
 cppzmq
 cproto
@@ -1306,7 +1290,6 @@ cvechecker
 cvise
 cvsps
 cvs
-cvsutils
 cvs2cl
 cwdaemon
 cwm
@@ -1342,7 +1325,6 @@ datagrepper
 datalog
 datamash
 datanommer-commands
-datanommer
 dataquay
 datefudge
 date
@@ -1393,7 +1375,6 @@ deal
 debbuild
 debconf
 debhelper
-debian-keyring
 debmirror
 debootstrap
 debugedit
@@ -1462,7 +1443,6 @@ device-mapper-persistent-data
 DevIL
 devilspie2
 devio
-devscripts
 devtodo
 dev86
 dex-autostart
@@ -1476,7 +1456,6 @@ dgae
 dgit
 dhall-json
 dhall
-dh-autoreconf
 dhcpcd
 dhcpd-pools
 dhcpdump
@@ -1659,107 +1638,7 @@ drraw
 drumkv1
 drumstick
 drumstick0
-drupal7-active_tags
-drupal7-addressfield
-drupal7-admin_language
-drupal7-admin_menu
-drupal7-admin_theme
-drupal7-advanced_help
-drupal7-auto_nodetitle
-drupal7-backup_migrate
-drupal7-block_class
-drupal7-boxes
-drupal7-calendar
-drupal7-cck
-drupal7-ckeditor
-drupal7-context
-drupal7-crumbs
-drupal7-cs_adaptive_image
-drupal7-ctools
-drupal7-date_ical
-drupal7-date
-drupal7-diff
-drupal7-domain_locale
-drupal7-domain
-drupal7-domain_views
-drupal7-drafty
-drupal7-drush_language
-drupal7-ds
-drupal7-email
-drupal7-entity
-drupal7-entity_translation
-drupal7-eva
-drupal7-features_extra
-drupal7-features
-drupal7-feeds
-drupal7-fences
-drupal7-field_permissions
-drupal7-file_entity_inline
-drupal7-file_entity
-drupal7-fivestar
-drupal7-flexifilter
-drupal7-footnotes
-drupal7-google_analytics
-drupal7-honeypot
-drupal7-chosen
-drupal7-i18n_boxes
-drupal7-i18n
-drupal7-i18nviews
-drupal7-job_scheduler
-drupal7-jquery_update
-drupal7-lang_dropdown
-drupal7-language_cookie
-drupal7-languageicons
-drupal7-language_switcher
-drupal7-libraries
-drupal7-link
-drupal7-locale_auto_import
-drupal7-locale_cookie
-drupal7-login_destination
-drupal7-l10n_client
-drupal7-l10n_pconfig
-drupal7-l10n_server
-drupal7-l10n_update
-drupal7-markdown
-drupal7-mediawiki_api
-drupal7-menu_token
-drupal7-metatag
-drupal7-migrate
-drupal7-module_filter
-drupal7-panels
-drupal7-pathauto
-drupal7-path_breadcrumbs
-drupal7-potx
-drupal7-profiler
-drupal7-rules
-drupal7-site_map
 drupal7
-drupal7-stringoverrides
-drupal7-strongarm
-drupal7-taxonomy_access_fix
-drupal7-theme-adaptivetheme
-drupal7-theme-ninesixty
-drupal7-theme-zen
-drupal7-title
-drupal7-tmgmt
-drupal7-token
-drupal7-translation_helpers
-drupal7-translation_overview
-drupal7-translation_table
-drupal7-transliteration
-drupal7-uuid
-drupal7-variable
-drupal7-views_bulk_operations
-drupal7-views_rss
-drupal7-views_slideshow
-drupal7-views
-drupal7-votingapi
-drupal7-webform
-drupal7-workbench_moderation
-drupal7-workbench
-drupal7-xmlsitemap
-drush
-DSDP
 dSFMT
 dsniff
 dsp
@@ -1810,7 +1689,6 @@ dwz
 dxcc
 dxf2gcode
 dxpc
-dx
 dxvk-native
 dymo-cups-drivers
 dynaconf
@@ -1828,7 +1706,6 @@ easy-rsa
 easystroke
 easytag
 eblook
-ebnetd
 ebook-tools
 eb
 ebtables
@@ -1885,10 +1762,7 @@ electronics-menu
 electrum
 elementary-icon-theme
 elementary-onboarding
-elementary-planner
-elementary-sound-theme
 elementary
-elementary-theme
 elementary-xfce-icon-theme
 elements-alexandria
 elements
@@ -1911,7 +1785,6 @@ emacs-blacken
 emacs-color-theme
 emacs-common-ddskk
 emacs-common-ess
-emacs-common-proofgeneral
 emacs-common-riece
 emacs-common-tuareg
 emacs-common-w3m
@@ -2122,7 +1995,6 @@ esorex
 esound
 espeak-ng
 espeak
-espresso-ab
 espresso
 esptool
 etcd
@@ -2180,7 +2052,6 @@ faience-icon-theme
 fail2ban
 fakechroot
 fakeroot
-Falcon
 falkon-pdfreader
 falkon
 fann
@@ -2192,7 +2063,6 @@ fastback
 fastbit
 fast-cdr
 fastd
-fasterxml-oss-parent
 fastfetch
 fastlz
 fastnetmon
@@ -2210,7 +2080,6 @@ fbg2
 fbida
 fbpanel
 fbreader
-fbrnch
 fbthrift
 fbzx
 fb303
@@ -2592,6 +2461,7 @@ gap-pkg-ctbllib
 gap-pkg-francy
 gap-pkg-openmath
 gap-pkg-radiroot
+gap-pkg-standardff
 gap-pkg-toric
 garcon
 garden
@@ -2702,14 +2572,11 @@ gerbera
 gerbv
 gerrymander
 getdata
-getdp
-geteltorito
 gettext
 gfalFS
 gfal2-python
 gfal2
 gfal2-util
-gfan
 gfbgraph
 gflags
 gforth
@@ -2745,7 +2612,6 @@ gfs-solomos-fonts
 gfs-theokritos-fonts
 gfs2-utils
 gftp
-gf2x
 ggz-base-libs
 ghasher
 ghc-abstract-deque
@@ -3338,11 +3204,9 @@ gifsicle
 gifticlib
 gif2png
 gigolo
-gimagereader
 gimp-data-extras
 gimp-dds-plugin
 gimp-elsamuko
-gimp-focusblur-plugin
 gimpfx-foundry
 gimp-help
 gimp-high-pass-filter
@@ -3378,7 +3242,6 @@ git-ftp
 gitg
 gitit
 gitjacker
-git-lab-porcelain
 gitleaks
 git-lfs
 gitlint
@@ -3394,7 +3257,6 @@ git-repair
 git-review
 git-secret
 git-secrets
-git
 gitstats
 git-subrepo
 git-time-metric
@@ -3429,7 +3291,6 @@ glibc
 glibc32
 glibd
 glibmm2.4
-glibmm24
 glibmm2.68
 glib-networking
 glib
@@ -3502,13 +3363,11 @@ glob2
 glogg
 glog
 gloox
-glpk
 glslang
 glue-schema
 glues
 glui
 gluster-block
-glusterfs-coreutils
 glusterfs-selinux
 glyphicons-halflings-fonts
 glyph-keeper
@@ -3523,7 +3382,6 @@ gmime30
 gmm
 gmp-ecm
 gmp
-gmqcc
 gmsh
 GMT
 gnatcoll-bindings
@@ -3531,7 +3389,6 @@ gnatcoll-db
 gnatcoll
 gnat-srpm-macros
 gnet2
-gnofract4d
 gnokii
 gnome-abrt
 gnome-activity-journal
@@ -3603,7 +3460,6 @@ gnome-panel
 gnome-password-generator
 gnome-phone-manager
 gnome-photos
-gnome-pkg-tools
 gnome-pomodoro
 gnome-power-manager
 gnome-radio
@@ -3628,7 +3484,6 @@ gnome-shell-extension-gsconnect
 gnome-shell-extension-ibus-font
 gnome-shell-extension-just-perfection
 gnome-shell-extension-netspeed
-gnome-shell-extension-no-overview
 gnome-shell-extension-openweather
 gnome-shell-extension-pidgin
 gnome-shell-extension-pop-shell
@@ -3704,7 +3559,6 @@ gobi_loader
 go-bindata
 gobject-introspection
 gobuster
-go-compilers
 gocr
 goddard-backgrounds
 goddard-kde-theme
@@ -3800,7 +3654,6 @@ golang-github-anacrolix-log
 golang-github-anacrolix-missinggo
 golang-github-anacrolix-stm
 golang-github-anacrolix-tagflag
-golang-github-anaskhan96-soup
 golang-github-andreasbriese-bbloom
 golang-github-andrew-d-termutil
 golang-github-andreyvit-diff
@@ -3876,7 +3729,6 @@ golang-github-badgerodon-peg
 golang-github-badoux-checkmail
 golang-github-baiyubin-aliyun-sts-sdk
 golang-github-beego
-golang-github-beevik-etree
 golang-github-beevik-ntp
 golang-github-benbjohnson-clock
 golang-github-benbjohnson-immutable
@@ -4009,7 +3861,6 @@ golang-github-containerd-cgroups
 golang-github-containerd-cni
 golang-github-containerd-console
 golang-github-containerd-continuity
-golang-github-containerd-cri
 golang-github-containerd-fifo
 golang-github-containerd-fuse-overlayfs-snapshotter
 golang-github-containerd-imgcrypt
@@ -4045,8 +3896,6 @@ golang-github-cpuguy83-md2man
 golang-github-crackcomm-gitignore
 golang-github-creack-goselect
 golang-github-creack-pty
-golang-github-crewjam-httperr
-golang-github-crewjam-saml
 golang-github-crossdock
 golang-github-cryptix-wav
 golang-github-cskr-pubsub
@@ -4100,7 +3949,6 @@ golang-github-dgryski-rendezvous
 golang-github-dchest-cssmin
 golang-github-dchest-safefile
 golang-github-dchest-siphash
-golang-github-dchest-uniuri
 golang-github-digitalocean-godo
 golang-github-dimchansky-utfbom
 golang-github-direnv-dotenv
@@ -4121,7 +3969,6 @@ golang-github-docker-distribution
 golang-github-docker-events
 golang-github-docker-go
 golang-github-docker-libkv
-golang-github-docker-libnetwork
 golang-github-docker-libtrust
 golang-github-docker-licensing
 golang-github-docker-metrics
@@ -4397,8 +4244,6 @@ golang-github-gucumber
 golang-github-guregu-null
 golang-github-hailocab-hostpool
 golang-github-hairyhenderson-codeowners
-golang-github-hajimehoshi-mp3
-golang-github-hajimehoshi-oto
 golang-github-hako-durafmt
 golang-github-hanwen-fuse
 golang-github-haproxytech-client-native
@@ -4541,7 +4386,6 @@ golang-github-jackc-fake
 golang-github-jackc-chunkreader-2
 golang-github-jackc-pgconn
 golang-github-jackc-pgio
-golang-github-jackc-pgmock
 golang-github-jackc-pgpassfile
 golang-github-jackc-pgproto3
 golang-github-jackc-pgservicefile
@@ -4717,7 +4561,6 @@ golang-github-macaron-binding
 golang-github-macaron-gzip
 golang-github-macaron-inject
 golang-github-macaron-session
-golang-github-magefile-mage
 golang-github-magiconair-properties
 golang-github-mailru-easyjson
 golang-github-makenowjust-heredoc
@@ -5136,7 +4979,6 @@ golang-github-rs-zerolog
 golang-github-rubenv-sql-migrate
 golang-github-rubiojr-vhd
 golang-github-rubyist-tracerx
-golang-github-russellhaering-goxmldsig
 golang-github-ruudk-pdf417
 golang-github-rwcarlsen-goexif
 golang-github-ryanuber-columnize
@@ -5260,6 +5102,7 @@ golang-github-streadway-handy
 golang-github-stretchr-objx
 golang-github-stretchr-testify
 golang-github-subosito-gotenv
+golang-github-sylabs-json-resp
 golang-github-syndtr-gocapability
 golang-github-syndtr-goleveldb
 golang-github-tambet-asana
@@ -5288,7 +5131,6 @@ golang-github-thoj-ircevent
 golang-github-thorduri-libusb
 golang-github-tchap-patricia
 golang-github-tidwall-pretty
-golang-github-timberio-datemath
 golang-github-timewasted-linode
 golang-github-tinylib-msgp
 golang-github-tj-assert
@@ -5307,7 +5149,6 @@ golang-github-tonistiigi-actions-cache
 golang-github-tonistiigi-archvariant
 golang-github-tonistiigi-fsutil
 golang-github-tonistiigi-immutable-radix
-golang-github-tonistiigi-opentelemetry-contrib
 golang-github-tonistiigi-rosetta
 golang-github-tonistiigi-units
 golang-github-tonistiigi-vt100
@@ -5329,7 +5170,6 @@ golang-github-twpayne-vfs-4
 golang-github-twpayne-waypoint
 golang-github-twpayne-xdg-6
 golang-github-t3rm1n4l-mega
-golang-github-ua-parser-uap
 golang-github-ubccr-kerby
 golang-github-uber-athenadriver
 golang-github-uber-jaeger-client
@@ -5458,7 +5298,6 @@ golang-github-zyedidia-pty
 golang-github-zyedidia-tcell
 golang-github-zyedidia-terminal
 golang-github-3th1nk-cidr
-golang-github-360entsecgroup-skylar-excelize
 golang-gitlab-commonmark-html
 golang-gitlab-commonmark-linkify
 golang-gitlab-commonmark-markdown
@@ -5589,7 +5428,6 @@ golang-k8s-kube-scheduler
 golang-k8s-legacy-cloud-providers
 golang-k8s-metrics
 golang-k8s-mount-utils
-golang-k8s-node-api
 golang-k8s-pod-security-admission
 golang-k8s-sample-apiserver
 golang-k8s-sample-cli-plugin
@@ -5608,7 +5446,6 @@ golang-modernc-lexer
 golang-modernc-lex
 golang-modernc-lldb
 golang-modernc-mathutil
-golang-modernc-ql
 golang-modernc-sortutil
 golang-modernc-strutil
 golang-modernc-zappy
@@ -5639,7 +5476,6 @@ golang-sigs-k8s-apiserver-network-proxy
 golang-sigs-k8s-application
 golang-sigs-k8s-aws-iam-authenticator
 golang-sigs-k8s-controller-runtime
-golang-sigs-k8s-kustomize-kyaml
 golang-sigs-k8s-kustomize
 golang-sigs-k8s-structured-merge-diff
 golang-sigs-k8s-yaml
@@ -5669,7 +5505,6 @@ golang-uber-zap
 golang-vbom-util
 golang-vitess
 golang-x-arch
-golang-x-build
 golang-x-crypto
 golang-x-debug
 golang-x-exp
@@ -5724,7 +5559,6 @@ google-noto-cjk-fonts
 google-noto-emoji-fonts
 google-noto-fonts
 google-osconfig-agent
-google-roboto-fonts
 google-roboto-mono-fonts
 google-roboto-slab-fonts
 googler
@@ -5884,9 +5718,7 @@ gtkhtml3
 gtkimageview
 gtk-layer-shell
 gtkmm2.4
-gtkmm24
 gtkmm3.0
-gtkmm30
 gtkmm4.0
 gtk-murrine-engine
 gtkpod
@@ -5900,9 +5732,6 @@ gtksourceview3
 gtksourceview4
 gtksourceview5
 gtk+
-gtkspellmm30
-gtkspell
-gtkspell3
 gtk-splitter
 gtkterm
 gtk-unico-engine
@@ -5963,7 +5792,6 @@ gydl
 gyp
 gzip
 g2clib
-hackrf
 hakrevdns
 halibut
 hamcrest
@@ -5976,7 +5804,6 @@ harfbuzz
 haruna
 hashcat
 hashid
-hash-slinger
 haskell-platform
 hatari
 hatools
@@ -5985,7 +5812,6 @@ hawknl
 hawtjni
 haxe
 hcloud
-hct
 hcxtools
 hddfancontrol
 hddtemp
@@ -6005,7 +5831,6 @@ heimdal
 heisenbug-backgrounds
 heisenbug-kde-theme
 hello
-help2man
 HepMC
 HepMC3
 herbstluftwm
@@ -6107,13 +5932,11 @@ hunspell-af
 hunspell-ak
 hunspell-am
 hunspell-ar
-hunspell-as
 hunspell-ast
 hunspell-az
 hunspell-ber
 hunspell-be
 hunspell-bg
-hunspell-bn
 hunspell-br
 hunspell-ca
 hunspell-cop
@@ -6121,7 +5944,6 @@ hunspell-csb
 hunspell-cv
 hunspell-cy
 hunspell-da
-hunspell-de
 hunspell-dsb
 hunspell-el
 hunspell-en
@@ -6139,11 +5961,9 @@ hunspell-ga
 hunspell-gd
 hunspell-gl
 hunspell-grc
-hunspell-gu
 hunspell-gv
 hunspell-haw
 hunspell-hil
-hunspell-hi
 hunspell-hr
 hunspell-hsb
 hunspell-ht
@@ -6163,17 +5983,14 @@ hunspell-la
 hunspell-lb
 hunspell-ln
 hunspell-lt
-hunspell-mai
 hunspell-mg
 hunspell-mi
 hunspell-mk
-hunspell-ml
 hunspell-mn
 hunspell-mos
 hunspell-ms
 hunspell-mt
 hunspell-nds
-hunspell-ne
 hunspell-nl
 hunspell-no
 hunspell-nr
@@ -6181,8 +5998,6 @@ hunspell-nso
 hunspell-ny
 hunspell-oc
 hunspell-om
-hunspell-or
-hunspell-pa
 hunspell-pl
 hunspell-pt
 hunspell-quh
@@ -6193,7 +6008,6 @@ hunspell-rw
 hunspell-sc
 hunspell-se
 hunspell-shs
-hunspell-si
 hunspell-sk
 hunspell-sl
 hunspell-smj
@@ -6205,8 +6019,6 @@ hunspell-ss
 hunspell-st
 hunspell-sv
 hunspell-sw
-hunspell-ta
-hunspell-te
 hunspell-tet
 hunspell-th
 hunspell-ti
@@ -6301,7 +6113,6 @@ cheat
 check-create-certificate
 check_postgres
 checksec
-check
 cheese
 chemical-mime-data
 CheMPS2
@@ -6323,7 +6134,6 @@ choqok
 chordii
 chordpro
 chromaprint
-chrome-gnome-shell
 chromium-bsu
 chromium
 chrony
@@ -6345,18 +6155,13 @@ ibus-hangul
 ibus-kkc
 ibus-libpinyin
 ibus-libzhuyin
-ibus-m17n
 ibus-pinyin
 ibus-rime
 ibus-skk
 ibus-table-cyrillic
-ibus-table-extraphrase
 ibus-table-chinese
 ibus-table-latin
-ibus-table-others
-ibus-table
 ibus-table-tv
-ibus-typing-booster
 ibus-uniemoji
 ibus-unikey
 ibutils
@@ -6558,15 +6363,8 @@ jack-audio-connection-kit
 jack_capture
 jack-keyboard
 jack-mixer
-jackson-annotations
-jackson-bom
-jackson-core
-jackson-databind
 jackson-dataformats-binary
 jackson-dataformats-text
-jackson-jaxrs-providers
-jackson-modules-base
-jackson-parent
 jacktrip
 jacoco
 jacop
@@ -6575,7 +6373,6 @@ jakarta-activation
 jakarta-annotations
 jakarta-el
 jakarta-interceptors
-jakarta-json
 jakarta-mail
 jakarta-oro
 jakarta-saaj
@@ -6596,7 +6393,6 @@ jasper
 javacc-maven-plugin
 javacc
 java_cup
-java-diff-utils
 java-dirq
 javadocofflinesearch
 javaewah
@@ -6649,7 +6445,6 @@ jed
 jemalloc
 jericho-html
 jetbrains-mono-fonts
-jetring
 jetty
 jfbterm
 jffi
@@ -6673,14 +6468,12 @@ jimtcl
 jisksp16-1990-fonts
 jitterentropy
 jkmeter
-jline
 jline2
 jmeters
 jmock
 jmtpfs
 jna
 jneuroml-core
-jni-inchi
 jnr-constants
 jnr-ffi
 jnr-netdb
@@ -6689,7 +6482,6 @@ jnr-x86asm
 joe
 john
 jolokia-jvm-agent
-jol
 jomolhari-fonts
 joni
 jopt-simple
@@ -6702,7 +6494,6 @@ jpcap
 jpcre2
 jpeginfo
 jpegoptim
-jpegxl
 jpilot-backup
 jpilot
 jpnevulator
@@ -6747,7 +6538,6 @@ julius-voxforge
 jumpnbump
 junit
 junit5
-juniversalchardet
 jupp
 jwhois
 jwm
@@ -6876,7 +6666,6 @@ keditbookmarks
 keepalived
 keepassxc
 keepassx0
-kelbt
 kemie-bellota-fonts
 kerberoast
 kernel-headers
@@ -6894,7 +6683,6 @@ keychecker
 keylime-agent-rust
 keylime
 keyring-ima-signer
-keyrings-filesystem
 keysmith
 keyutils
 kfaenza-icon-theme
@@ -7037,7 +6825,6 @@ kget
 kgoldrunner
 kgpg
 kgrab
-kgraphviewer
 kguitar
 khal
 khangman
@@ -7248,6 +7035,7 @@ kwooty
 kwordquiz
 kwrited
 kxstitch
+kyotocabinet
 kyua
 k3b
 k3guitune
@@ -7278,7 +7066,6 @@ lame
 lammps
 langpacks-install
 langpacks
-langtable
 lapack
 lasem
 lash
@@ -7287,13 +7074,11 @@ lasso
 lastpass-cli
 laszip
 latencytop
-latexmk
 LaTeXML
 latex2html
 latex2rtf
 lato-fonts
 latte-dock
-latte-integrale
 laughlin-backgrounds
 laughlin-kde-theme
 launchy
@@ -7339,12 +7124,10 @@ leveldb
 levien-inconsolata-fonts
 levien-museum-fonts
 levmar
-lfsc
 lftp
 lgogdownloader
 lhapdf
 libabigail
-libabw
 libacars
 libaccounts-glib
 libaccounts-qt
@@ -7398,13 +7181,11 @@ libcanberra
 libcangjie
 libcap-ng
 libcap
-libcbor
 libccd
 libcdaudio
 libcddb
 libcdio-paranoia
 libcdio
-libcdr
 libcec
 libcerf
 libcgif
@@ -7417,7 +7198,6 @@ libclaw
 libclc
 libcli
 libcloudproviders
-libcmis
 libcmml
 libcmpiutil
 libcoap
@@ -7431,11 +7211,9 @@ libcouchbase
 libcpuid
 libcryptui
 libcrystalhd
-libcss
 libcue
 libcutl
 libcxl
-libcxxabi
 libcxx
 libdaemon
 libdap
@@ -7479,7 +7257,6 @@ libdxfrw
 libeasyfc
 libeatmydata
 libebml
-libe-book
 libebur128
 libecap
 libecb
@@ -7491,10 +7268,8 @@ libechonest
 libell
 libEMF
 libemu
-libeot
 libepc
 libepoxy
-libepubgen
 liberasurecode
 liberation-circuit
 liberation-fonts
@@ -7503,7 +7278,6 @@ libesedb
 libesmtp
 libestr
 libetnaviv
-libetonyek
 libetpan
 libevdevPlus
 libevdev
@@ -7513,7 +7287,6 @@ libewf
 libexif
 libeXosip2
 libextractor
-libexttextcat
 libfabric
 libfaketime
 libfap
@@ -7533,7 +7306,6 @@ libfontenc
 libfonts
 libformula
 libfprint
-libfreehand
 libfreenect
 libFS
 libftdi
@@ -7578,8 +7350,6 @@ libgpg-error
 libgphoto2
 libgpiod
 libgpod
-libgpuarray
-libgringotts
 libgrss
 libgsasl
 libgsf
@@ -7602,7 +7372,6 @@ libhbaapi
 libhbalinux
 libhid
 libhomfly
-libhubbub
 libHX
 libchamplain
 libchardet
@@ -7612,7 +7381,6 @@ libibcommon
 libica
 libICE
 libicns
-libicu69
 libidn
 libidn1.34
 libidn2
@@ -7644,7 +7412,6 @@ libisds
 libisoburn
 libisofs
 libitl
-libixion
 libi2cd
 libjaylink
 libjcat
@@ -7684,7 +7451,6 @@ liblcf
 libldac
 libldb
 libldm
-liblerc
 libliftoff
 liblinear
 libloader
@@ -7745,10 +7511,8 @@ libmpris-qt5
 libmp4v2
 libmseed
 libmspack
-libmspub
 libmtp
 libmusicbrainz5
-libmwaw
 libmygpo-qt
 libmypaint
 libmysofa
@@ -7791,7 +7555,6 @@ liboauth
 liboauth2
 libobjc2
 libocxl
-libodfgen
 libofa
 libofx
 libogg
@@ -7807,7 +7570,6 @@ liboping
 libopkele
 libopm
 libopusenc
-liborcus
 liborigin
 libosinfo
 libosip2
@@ -7816,12 +7578,10 @@ libosmo-dsp
 libotf
 libotr
 libowfat
-libpagemaker
 libpal
 libpanel
 libpano13
 libpaper
-libparserutils
 libpar2
 libpasastro
 libpasraw
@@ -7840,7 +7600,6 @@ libpmemobj-cpp
 libpng
 libpng12
 libpng15
-libpoly
 libportal
 libpq
 libpqxx
@@ -7863,7 +7622,6 @@ libqtxdg
 libquentier
 libquotient
 libquvi-scripts
-libqxp
 libqxt-qt5
 librabbitmq
 libraqm
@@ -7878,7 +7636,6 @@ librealsense1
 librecad
 librelp
 librem
-libreoffice-gallery-vrt-network-equipment
 libreoffice-icon-theme-papirus
 libreoffice-TexMaths
 libreoffice-voikko
@@ -7905,7 +7662,6 @@ libretro-nestopia
 libretro-pcsx-rearmed
 libretro-prosystem
 libretro-stella2014
-librevenge
 librhsm
 librime
 librsvg2
@@ -7913,8 +7669,6 @@ librsync
 librs232
 librtas
 librtprocess
-librttopo
-librvngabw
 librx
 libsafec
 libsamplerate
@@ -7974,9 +7728,7 @@ libssh
 libssh2-python
 libssh2
 libss7
-libstaroffice
 libstatgrab
-libstemmer
 libstoragemgmt
 libstorj
 libstroke
@@ -8019,7 +7771,6 @@ libtranslit
 libtrash
 libtree-ldd
 libtree
-libtvdb
 libtwin
 libucil
 libucl
@@ -8068,7 +7819,6 @@ libvirt-python
 libvirt-sandbox
 libvirt
 libvirt-test-API
-libvisio
 libvisual
 libvma
 libvmi
@@ -8080,7 +7830,6 @@ libvpx
 libvterm
 libv3270
 libwacom
-libwapcaplet
 libwbxml
 libwebcam
 libwebp
@@ -8091,17 +7840,13 @@ libwiimote
 libwmf
 libwnck
 libwnck3
-libwpd
 libwpe
-libwpg
-libwps
 libwvstreams
 libXau
 libXaw
 libxcb
 libXcm
 libXcomposite
-libxcrypt
 libxc
 libXcursor
 libxcvt
@@ -8172,15 +7917,12 @@ libzen
 libzfcphbaapi
 libzia
 libzip
-libzmf
 libzpc
-libzrtpcpp
 libzypp
 lib3ds
 lib3mf
 lib3270
 lib765
-licensecheck
 lifeograph
 liferea
 lightdm-autologin-greeter
@@ -8231,6 +7973,7 @@ lirc
 lis
 litecli
 litehtml
+lite-xl
 litmus
 livecd-tools
 livesys-scripts
@@ -8252,7 +7995,6 @@ llvm
 llvm-test-suite
 llvm10
 llvm11
-llvm11.0
 llvm12
 llvm13
 llvm14
@@ -8277,7 +8019,6 @@ logjam
 logrotate
 logserial
 logstalgia
-logwatch
 log4cplus
 log4cpp
 log4c
@@ -8319,7 +8060,6 @@ lpsk31
 lpsolve
 lrcalc
 lrmi
-lrslib
 lrzsz
 lsdvd
 lsfrom
@@ -8333,7 +8073,6 @@ lsvpd
 lsw
 lsyncd
 lterm
-ltl2ba
 ltrace
 lttng-tools
 lttng-ust
@@ -8346,7 +8085,9 @@ lua-binaryheap
 luabind
 lua-bitop
 lua-bit32
+lua-cassowary
 lua-compat53
+lua-coxpcall
 lua-cqueues
 lua-cyrussasl
 lua-dbi
@@ -8494,7 +8235,6 @@ maildirproc
 maildir-utils
 maildrop
 mailman3-fedmsg-plugin
-mailman3
 mailnag
 mail-notification
 mailx
@@ -8530,7 +8270,6 @@ man2html
 mapserver
 marble
 marco
-marcsabatella-campania-fonts
 mariadb-connector-c
 mariadb-connector-odbc
 mariadb-java-client
@@ -8543,7 +8282,6 @@ marsshooter
 Mars
 masscan
 massdns
-massif-visualizer
 mass3
 mate-applets
 mate-backgrounds
@@ -8561,7 +8299,6 @@ mate-polkit
 mate-power-manager
 materia-gtk-theme
 materia-kde
-material-icons-fonts
 mate-screensaver
 mate-sensors-applet
 mate-session-manager
@@ -8572,10 +8309,7 @@ mate-themes
 mate-user-admin
 mate-user-guide
 mate-utils
-mathex
 mathgl
-mathicgb
-mathic
 mathjax
 mathomatic
 matchbox-window-manager
@@ -8594,8 +8328,6 @@ maven-compiler-plugin
 maven-dependency-analyzer
 maven-dependency-plugin
 maven-dependency-tree
-maven-doxia-sitetools
-maven-doxia
 maven-enforcer
 maven-file-management
 maven-filtering
@@ -8611,8 +8343,6 @@ maven-plugin-bundle
 maven-plugin-testing
 maven-plugin-tools
 maven-remote-resources-plugin
-maven-reporting-api
-maven-reporting-impl
 maven-resolver
 maven-resources-plugin
 maven-scm
@@ -8641,7 +8371,6 @@ mcelog
 mcomix3
 mcpanel
 mcpp
-mcqd
 mcrcon
 mcrouter
 mcrypt
@@ -8649,7 +8378,6 @@ mc
 mctc-lib
 mdadm
 mdbtools
-mdds
 mdevctl
 mdk
 mdns-repeater
@@ -8672,7 +8400,6 @@ mediawiki-validator
 mediawiki-wikicalendar
 mediawriter
 mednafen
-med
 medusa
 megaglest-data
 megaglest
@@ -8687,7 +8414,6 @@ memchan
 memkind
 memstomp
 memstrack
-memtailor
 memtester
 memtest86+
 menu-cache
@@ -8705,7 +8431,6 @@ meson
 mesos
 messiggy
 metacity
-metamath
 metapixel
 meteo
 meterbridge
@@ -8770,27 +8495,21 @@ mingw-cmocka
 mingw-colord
 mingw-cppunit
 mingw-crossreport
-mingw-crt
 mingw-curl
 mingw-cxxtest
-mingw-Cython
 mingw-dbus-glib
 mingw-dbus
 mingw-dirac
-mingw-djvulibre
 mingw-dlfcn
 mingw-drmingw
-mingw-exiv2
 mingw-expat
 mingw-fcgi
 mingw-fftw
-mingw-filesystem
 mingw-flac
 mingw-fltk
 mingw-fontconfig
 mingw-freeglut
 mingw-freeimage
-mingw-freetype
 mingw-freexl
 mingw-fribidi
 mingw-ftplib
@@ -8806,7 +8525,6 @@ mingw-glib-networking
 mingw-glib2
 mingw-glslang
 mingw-gmp
-mingw-gnutls
 mingw-goocanvas2
 mingw-graphene
 mingw-graphite2
@@ -8824,18 +8542,15 @@ mingw-gtksourceview3
 mingw-gtk2
 mingw-gtk3
 mingw-gtk4
-mingw-g2clib
 mingw-hamlib
 mingw-harfbuzz
 mingw-headers
-mingw-hicolor-icon-theme
 mingw-hidapi
 mingw-hunspell
 mingw-icu
 mingw-id3lib
 mingw-imath
 mingw-jansson
-mingw-jasper
 mingw-jimtcl
 mingw-jsoncpp
 mingw-json-glib
@@ -8866,9 +8581,7 @@ mingw-libimagequant
 mingw-libjpeg-turbo
 mingw-libltdl
 mingw-libmicrohttpd
-mingw-libmng
 mingw-libogg
-mingw-libpng
 mingw-libpsl
 mingw-LibRaw
 mingw-librsvg2
@@ -8891,10 +8604,8 @@ mingw-libzip
 mingw-llvm
 mingw-log4c
 mingw-mediawriter
-mingw-minizip
 mingw-mpfr
 mingw-nettle
-mingw-nsis
 mingw-nsiswrapper
 mingw-numpy
 mingw-openal-soft
@@ -8926,7 +8637,6 @@ mingw-python-dateutil
 mingw-python-ephem
 mingw-python-flask
 mingw-python-flit-core
-mingw-python-homography
 mingw-python-chardet
 mingw-python-charset-normalizer
 mingw-python-idna
@@ -8943,26 +8653,21 @@ mingw-python-psycopg2
 mingw-python-pygments
 mingw-python-pyparsing
 mingw-python-pyproj
-mingw-python-PyQt-builder
-mingw-python-pyqt5-sip
 mingw-python-pytz
 mingw-python-pyyaml
 mingw-python-qt5
-mingw-python-requests
-mingw-python-setuptools_scm
 mingw-python-setuptools
 mingw-python-shapely
 mingw-python-six
 mingw-python-tomli
 mingw-python-toml
 mingw-python-urllib3
+mingw-python-waitress
 mingw-python-werkzeug
 mingw-python-wheel
-mingw-python3
 mingw-p11-kit
 mingw-qca
 mingw-qextserialport
-mingw-qscintilla
 mingw-qtkeychain
 mingw-qt5-qtactiveqt
 mingw-qt5-qtbase
@@ -8987,34 +8692,15 @@ mingw-qt5-qtwinextras
 mingw-qt5-qtxmlpatterns
 mingw-qt5-qt3d
 mingw-qt6-qtactiveqt
-mingw-qt6-qtbase
-mingw-qt6-qtdeclarative
-mingw-qt6-qtcharts
-mingw-qt6-qtimageformats
-mingw-qt6-qtmultimedia
 mingw-qt6-qtpositioning
-mingw-qt6-qtsensors
-mingw-qt6-qtserialport
-mingw-qt6-qtshadertools
-mingw-qt6-qtsvg
 mingw-qt6-qttools
 mingw-qt6-qttranslations
-mingw-qt6-qtwebchannel
-mingw-qt6-qtwebsockets
-mingw-qt6-qt3d
-mingw-qt6-qt5compat
-mingw-quazip
-mingw-qwtpolar
-mingw-qwt
-mingw-readline
 mingw-rest
 mingw-sane-backends
 mingw-SDL_image
-mingw-SDL_mixer
 mingw-SDL_ttf
 mingw-sdl12-compat
 mingw-SDL2_image
-mingw-SDL2_mixer
 mingw-SDL2
 mingw-SDL2_ttf
 mingw-sigar
@@ -9026,7 +8712,6 @@ mingw-speex
 mingw-spice-gtk
 mingw-spice-protocol
 mingw-spirv-headers
-mingw-spirv-tools
 mingw-sqlite
 mingw-srvany
 mingw-sword
@@ -9036,14 +8721,9 @@ mingw-termcap
 mingw-tk
 mingw-twaindsm
 mingw-usbredir
-mingw-vulkan-headers
-mingw-vulkan-loader
-mingw-vulkan-tools
-mingw-vulkan-validation-layers
 mingw-wavpack
 mingw-windows-default-manifest
 mingw-wine-gecko
-mingw-win-iconv
 mingw-winpthreads
 mingw-winstorecompat
 mingw-wpcap
@@ -9054,7 +8734,6 @@ mingw-xerces-c
 mingw-xz
 mingw-yaml-cpp
 mingw-zfstream
-mingw-zlib
 mingw-zstd
 minicomputer
 minicom
@@ -9067,7 +8746,6 @@ minisign
 miniupnpc
 miniupnpd
 minizip-ng
-minizip
 miniz
 mintlocale
 mint-themes
@@ -9098,7 +8776,6 @@ mmapper
 mm-common
 mmc
 mmdb2
-mmg
 mmsd-tng
 mmseq
 mm
@@ -9156,7 +8833,6 @@ mod_wsgi
 mod_xsendfile
 mod2c
 moe
-mojo-executor
 mojo-parent
 moka-icon-theme
 mokutil
@@ -9164,7 +8840,6 @@ molequeue
 molsketch
 mom
 monafont
-mona
 mongo-c-driver
 mongo-cxx-driver
 mongoose
@@ -9175,7 +8850,6 @@ monkeytype
 mono-addins
 mono-basic
 mono-bouncycastle
-monobristol
 mono-cecil-flowanalysis
 mono-cecil
 monocypher
@@ -9234,8 +8908,6 @@ mpdas
 mpdecimal
 mpdris2
 mpdscribble
-mpfi
-mpfr
 mpg123
 mpibash
 mpich
@@ -9245,7 +8917,6 @@ mpop
 mppenc
 mpqc
 mpris-scrobbler
-mpsolve
 mp
 mpssh
 mptcpd
@@ -9264,7 +8935,6 @@ mrrescue
 mrtg
 mrxvt
 mscgen
-mscore
 msgpack
 msgpuck
 msimonson-anonymouspro-fonts
@@ -9365,8 +9035,6 @@ m1n1
 m17n-db
 m17n-lib
 m2crypto
-m4rie
-m4ri
 m4
 nacl
 naev-data
@@ -9404,9 +9072,7 @@ NaturalDocs
 natural-earth-map-data
 naturette
 nautilus-python
-nautilus-search-tool
 nautilus
-nauty
 naver-nanum-fonts
 naver-nanum-gothic-coding-fonts
 navilu-fonts
@@ -9489,7 +9155,6 @@ netsniff-ng
 net-snmp
 netstat-monitor
 netstat-nat
-netsurf-buildsystem
 netsurf
 nettee
 nettle
@@ -9609,8 +9274,6 @@ notify-sharp3
 notmuch
 nototools
 nova-agent
-novacom-client
-novacom-server
 novnc
 nox
 npth
@@ -9660,7 +9323,6 @@ numpy
 nunit
 nunit2
 nuntius
-nuspell
 nut
 nuttcp
 nutty
@@ -9687,7 +9349,6 @@ obconf
 obfs4
 objectweb-asm
 objenesis
-obs-build
 observable
 obserware
 obs-service-cargo_vendor
@@ -9732,7 +9393,6 @@ ocaml-curl
 ocaml-curses
 ocaml-dbus
 ocaml-dose3
-ocaml-dune
 ocaml-easy-format
 ocaml-expat
 ocaml-extlib
@@ -9850,7 +9510,6 @@ ocaml-zmq
 ocfs2-tools
 oc-inject
 oci-seccomp-bpf-hook
-oci-umount
 ocl-icd
 ocproxy
 ocp
@@ -9922,6 +9581,7 @@ oksh
 okteta
 okular
 oldstandard-sfd-fonts
+OliveTin
 olpc-kbdshim
 olpc-utils
 omniORBpy
@@ -10090,7 +9750,6 @@ orangefs
 ORBit2
 orca
 orc
-origin
 ormolu
 orocos-bfl
 orocos-kdl
@@ -10130,7 +9789,6 @@ overgod
 overlayfs-tools
 overpass-fonts
 ovn
-owl-lisp
 owncloud-client
 oxygen-fonts
 oxygen-gtk2
@@ -10243,7 +9901,6 @@ pavucontrol
 pavumeter
 pax
 pax-utils
-pbuilder
 pbzip2
 pcapdiff
 pcapy
@@ -10324,7 +9981,6 @@ perl-Algorithm-BloomFilter
 perl-Algorithm-Combinatorics
 perl-Algorithm-Cron
 perl-Algorithm-C3
-perl-Algorithm-Dependency
 perl-Algorithm-Diff
 perl-Algorithm-Diff-XS
 perl-Algorithm-FastPermute
@@ -10343,7 +9999,6 @@ perl-Alien-Build
 perl-Alien-CFITSIO
 perl-Alien-cmake3
 perl-Alien-FFI
-perl-Alien-LibGumbo
 perl-Alien-Libxml2
 perl-Alien-m4
 perl-Alien-Packages
@@ -10369,7 +10024,6 @@ perl-Any-URI-Escape
 perl-Apache-DBI-Cache
 perl-Apache-DBI
 perl-Apache-Htpasswd
-perl-Apache-LogFormat-Compiler
 perl-Apache-LogRegex
 perl-Apache-Reload
 perl-Apache-Session-LDAP
@@ -10415,7 +10069,6 @@ perl-Archive-Zip
 perl-Array-Base
 perl-Array-Compare
 perl-Array-Diff
-perl-Array-IntSpan
 perl-Array-RefElem
 perl-Array-Unique
 perl-Array-Utils
@@ -10442,7 +10095,6 @@ perl-Authen-Radius
 perl-Authen-SASL-SASLprep
 perl-Authen-SASL
 perl-Authen-SCRAM
-perl-Authen-Simple-Passwd
 perl-Authen-Simple
 perl-Authen-WebAuthn
 perl-autobox-Core
@@ -10491,7 +10143,6 @@ perl-BSD-Resource
 perl-BSON
 perl-BSSolv
 perl-Business-CreditCard
-perl-Business-Hours
 perl-Business-ISBN-Data
 perl-Business-ISBN
 perl-Business-ISMN
@@ -10507,14 +10158,11 @@ perl-Cache-FastMmap
 perl-Cache-LRU
 perl-Cache-Memcached
 perl-Cache-Mmap
-perl-Cache-Simple-TimedExpiry
 perl-Cache
 perl-Cairo-GObject
 perl-Cairo
-perl-Calendar-Simple
 perl-Callback
 perl-Canary-Stability
-perl-capitalization
 perl-Capture-Tiny
 perl-Carp-Always
 perl-Carp-Assert-More
@@ -10627,7 +10275,6 @@ perl-CGI-Application-Structured
 perl-CGI-Application-Structured-Tools
 perl-CGI-Compile
 perl-CGI-Deurl-XS
-perl-CGI-Emulate-PSGI
 perl-CGI-Ex
 perl-CGI-Fast
 perl-CGI-FastTemplate
@@ -10647,11 +10294,9 @@ perl-ClamAV-Client
 perl-Class-Accessor-Classy
 perl-Class-Accessor-Grouped
 perl-Class-Accessor-Chained
-perl-Class-Accessor-Lite
 perl-Class-Accessor
 perl-Class-Adapter
 perl-Class-AutoClass
-perl-Class-Autouse
 perl-Class-Base
 perl-Class-Can
 perl-Class-Container
@@ -10684,7 +10329,6 @@ perl-Class-Factory-Util
 perl-Class-Field
 perl-Class-Forward
 perl-Class-Inner
-perl-Class-Inspector
 perl-Class-ISA
 perl-Class-Iterator
 perl-Class-Loader
@@ -10698,7 +10342,6 @@ perl-Class-Mix
 perl-Class-Observable
 perl-Class-Prototyped
 perl-Class-Refresh
-perl-Class-ReturnValue
 perl-Class-Singleton
 perl-CLASS
 perl-Class-Std-Fast
@@ -10716,8 +10359,6 @@ perl-Clone-Choose
 perl-Clone-PP
 perl-Clownfish-CFC
 perl-Clownfish
-perl-Code-TidyAll-Plugin-Test-Vars
-perl-Code-TidyAll
 perl-Color-ANSI-Util
 perl-Color-Calc
 perl-Color-Library
@@ -10729,7 +10370,6 @@ perl-ColorThemeUtil-ANSI
 perl-Command-Runner
 perl-CommonMark
 perl-common-sense
-perl-Compress-Bzip2
 perl-Compress-LZF
 perl-Compress-Raw-Bzip2
 perl-Compress-Raw-Lzma
@@ -10780,10 +10420,8 @@ perl-Convert-Age
 perl-Convert-ASCII-Armour
 perl-Convert-ASN1
 perl-Convert-Base32
-perl-Convert-Base64
 perl-Convert-Bencode
 perl-Convert-Bencode_XS
-perl-Convert-BER
 perl-Convert-Binary-C
 perl-Convert-BinHex
 perl-Convert-Color
@@ -10793,9 +10431,7 @@ perl-Convert-PEM
 perl-Convert-TNEF
 perl-Convert-UUlib
 perl-Convert-UU
-perl-Cookie-Baker
 perl-Coro-Multicore
-perl-CPAN-Common-Index
 perl-CPAN-DistnameInfo
 perl-Cpanel-JSON-XS
 perl-CPAN-FindDependencies
@@ -10808,14 +10444,11 @@ perl-CPAN-Meta
 perl-CPAN-Meta-YAML
 perl-CPAN-Mini
 perl-CPAN-ParseDistribution
-perl-CPAN-Perl-Releases
 perl-CPAN-Plugin-Sysdeps
-perl-CPANPLUS-Dist-Build
 perl-CPANPLUS-Dist-Fedora
 perl-CPANPLUS-Shell-Default-Plugins-Diff
 perl-CPANPLUS-Shell-Default-Plugins-Changes
 perl-CPANPLUS-Shell-Default-Plugins-RT
-perl-CPANPLUS
 perl-CPAN-Releases-Latest
 perl-CPAN
 perl-CPAN-Uploader
@@ -10870,12 +10503,10 @@ perl-Crypt-Twofish
 perl-Crypt-UnixCrypt_XS
 perl-Crypt-URandom
 perl-CryptX
-perl-Crypt-X509
 perl-CSS-DOM
 perl-CSS-Minifier
 perl-CSS-Minifier-XS
 perl-CSS
-perl-CSS-Squish
 perl-CSS-Tiny
 perl-curry
 perl-Curses
@@ -10913,13 +10544,11 @@ perl-Data-Faker
 perl-Data-Float
 perl-Data-FormValidator-Constraints-DateTime
 perl-Data-FormValidator
-perl-Data-GUID
 perl-Data-HexDump
 perl-Data-HexDump-XXD
 perl-Data-Hexify
 perl-Data-Hierarchy
 perl-Data-ICal-DateTime
-perl-Data-ICal
 perl-Data-ICal-TimeZone
 perl-Data-IEEE754
 perl-Data-Integer
@@ -10928,12 +10557,10 @@ perl-Data-MessagePack
 perl-Data-Munge
 perl-Data-ObjectDriver
 perl-Data-OptList
-perl-Data-Page-Pageset
 perl-Data-Pageset
 perl-Data-Page
 perl-Data-Password
 perl-Data-Peek
-perl-Data-Perl
 perl-Data-Pond
 perl-Data-Printer
 perl-Data-Properties
@@ -10960,7 +10587,6 @@ perl-Data-Validate-Type
 perl-Data-Visitor
 perl-Date-Calc
 perl-Date-Calc-XS
-perl-Date-Extract
 perl-Date-Handler
 perl-Date-HolidayParser
 perl-Date-Holidays-DE
@@ -11040,17 +10666,14 @@ perl-DBIx-Class-IntrospectableM2M
 perl-DBIx-Class-OptimisticLocking
 perl-DBIx-Class-Schema-Config
 perl-DBIx-Class-Schema-Diff
-perl-DBIx-Class-Schema-Loader
 perl-DBIx-Class
 perl-DBIx-Class-TimeStamp
 perl-DBIx-Connector
 perl-DBIx-ContextualFetch
-perl-DBIx-DBSchema
 perl-DBIx-Introspector
 perl-DBIx-POS
 perl-DBIx-QueryLog
 perl-DBIx-RunSQL
-perl-DBIx-SearchBuilder
 perl-DBIx-Simple
 perl-DBIx-XHTML_Table
 perl-DBM-Deep
@@ -11103,8 +10726,6 @@ perl-Devel-REPL
 perl-Devel-SimpleTrace
 perl-Devel-Size
 perl-Devel-SmallProf
-perl-Devel-StackTrace-AsHTML
-perl-Devel-StackTrace
 perl-Devel-StackTrace-WithLexicals
 perl-Devel-StringInfo
 perl-Devel-Symdump
@@ -11115,7 +10736,6 @@ perl-Diff-LibXDiff
 perl-Digest-BubbleBabble
 perl-Digest-CRC
 perl-Digest-HMAC
-perl-Digest-JHash
 perl-Digest-MD2
 perl-Digest-MD4
 perl-Digest-MD5-File
@@ -11165,7 +10785,6 @@ perl-DynaLoader-Functions
 perl-EBook-EPUB
 perl-ElasticSearch-SearchBuilder
 perl-Email-Abstract
-perl-Email-Address-List
 perl-Email-Address
 perl-Email-Address-XS
 perl-Email-Date-Format
@@ -11230,7 +10849,6 @@ perl-Exporter-Easy
 perl-Exporter-Lite
 perl-Exporter
 perl-Exporter-Tidy
-perl-ExtUtils-AutoInstall
 perl-ExtUtils-CBuilder
 perl-ExtUtils-CChecker
 perl-ExtUtils-Config
@@ -11261,7 +10879,6 @@ perl-FCGI-Client
 perl-FCGI-ProcManager
 perl-FCGI
 perl-Fedora-Rebuild
-perl-Fedora-VSP
 perl-Feed-Find
 perl-Fennec-Lite
 perl-Fennec
@@ -11272,10 +10889,8 @@ perl-File-BOM
 perl-File-Comments
 perl-File-ConfigDir
 perl-File-Copy-Recursive-Reduced
-perl-File-Copy-Recursive
 perl-File-DesktopEntry
 perl-File-DirCompare
-perl-File-DirList
 perl-File-Edit-Portable
 perl-File-ExtAttr
 perl-File-FcntlLock
@@ -11284,12 +10899,9 @@ perl-File-Find-Iterator
 perl-File-FindLib
 perl-File-Find-Object-Rule
 perl-File-Find-Object
-perl-File-Find-Rule-Perl
 perl-File-Find-Rule-PPI
-perl-File-Find-Rule
 perl-File-Find-Rule-VCS
 perl-File-Find-utf8
-perl-File-Flat
 perl-File-Flock
 perl-File-FnMatch
 perl-FileHandle-Fmode
@@ -11298,7 +10910,6 @@ perl-File-HomeDir
 perl-File-ChangeNotify
 perl-File-chdir
 perl-File-CheckTree
-perl-File-chmod
 perl-File-KeePass
 perl-File-LibMagic
 perl-File-Listing
@@ -11308,7 +10919,6 @@ perl-File-MimeInfo
 perl-File-MMagic
 perl-File-MMagic-XS
 perl-File-Modified
-perl-File-NCopy
 perl-File-Next
 perl-File-NFSLock
 perl-File-PathList
@@ -11318,7 +10928,6 @@ perl-File-Pid
 perl-File-pushd
 perl-File-ReadBackwards
 perl-File-Read
-perl-File-Remove
 perl-File-RsyncP
 perl-File-Rsync
 perl-File-SearchPath
@@ -11351,7 +10960,6 @@ perl-Filter
 perl-Finance-YahooQuote
 perl-Flickr-API
 perl-Flickr-Upload
-perl-Font-AFM
 perl-Font-TTFMetrics
 perl-Font-TTF
 perl-forks
@@ -11396,7 +11004,6 @@ perl-Getopt-Lucid
 perl-Getopt-Simple
 perl-Getopt-Tabular
 perl-Getopt-Usaginator
-perl-gettext
 perl-GIS-Distance-Fast
 perl-GIS-Distance
 perl-Git-CPAN-Patch
@@ -11467,7 +11074,6 @@ perl-HarfBuzz-Shaper
 perl-Hash-AutoHash-Args
 perl-Hash-AutoHash
 perl-Hash-Case
-perl-Hash-DefHash
 perl-Hash-Diff
 perl-Hash-FieldHash
 perl-Hash-Flatten
@@ -11493,7 +11099,6 @@ perl-HTML-Entities-Numbered
 perl-HTML-Escape
 perl-HTML-FillInForm
 perl-HTML-FormatExternal
-perl-HTML-Format
 perl-HTML-FormatText-WithLinks-AndTables
 perl-HTML-FormatText-WithLinks
 perl-HTML-FormFu-Element-reCAPTCHA
@@ -11504,7 +11109,6 @@ perl-HTML-FormHandler
 perl-HTML-Form
 perl-HTML-FromText
 perl-HTML-GenToc
-perl-HTML-Gumbo
 perl-HTML-HTML5-Entities
 perl-HTML-HTML5-Parser
 perl-HTML-HTML5-Sanity
@@ -11549,10 +11153,8 @@ perl-HTTP-CookieJar
 perl-HTTP-CookieMonster
 perl-HTTP-Cookies
 perl-HTTP-Daemon-SSL
-perl-HTTP-Date
 perl-HTTP-DAV
 perl-HTTP-Easy
-perl-HTTP-Entity-Parser
 perl-HTTP-Exception
 perl-HTTP-Headers-ActionPack
 perl-HTTP-Headers-Fast
@@ -11584,7 +11186,6 @@ perl-Chart
 perl-Chatbot-Eliza
 perl-Check-ISA
 perl-Child
-perl-CHI
 perl-iCal-Parser
 perl-Icon-FamFamFam-Silk
 perl-Ima-DBI
@@ -11623,7 +11224,6 @@ perl-IO-Compress-Zstd
 perl-IO-Digest
 perl-IO-Event
 perl-IO-FDPass
-perl-IO-Handle-Util
 perl-IO-InSitu
 perl-IO-Interactive
 perl-IO-Interface
@@ -11654,7 +11254,6 @@ perl-IPC-DirQueue
 perl-IPC-Filter
 perl-IPC-Run-SafeHandles
 perl-IPC-Run
-perl-IPC-Run3
 perl-IPC-Shareable
 perl-IPC-SharedCache
 perl-IPC-ShareLite
@@ -11729,7 +11328,6 @@ perl-Lingua-EN-Numbers-Easy
 perl-Lingua-EN-Numbers-Ordinate
 perl-Lingua-EN-Numbers
 perl-Lingua-EN-PluralToSingular
-perl-Lingua-EN-Sentence
 perl-Lingua-EN-Tagger
 perl-Lingua-EN-Words2Nums
 perl-Lingua-Flags
@@ -11753,7 +11351,6 @@ perl-List-MoreUtils-XS
 perl-List-Pairwise
 perl-List-SomeUtils
 perl-List-SomeUtils-XS
-perl-List-UtilsBy
 perl-LMDB_File
 perl-Locale-Codes
 perl-Locale-Currency-Format
@@ -11825,7 +11422,6 @@ perl-Mail-JMAPTalk
 perl-Mail-Mbox-MessageParser
 perl-Mail-MboxParser
 perl-Mail-Message
-perl-Mail-POP3Client
 perl-Mail-Procmail
 perl-Mail-RFC822-Address
 perl-Mail-Sender
@@ -11893,7 +11489,6 @@ perl-mecab
 perl-MemHandle
 perl-Memoize-ExpireLRU
 perl-Menlo-Legacy
-perl-Menlo
 perl-Messaging-Message
 perl-Meta-Builder
 perl-MetaCPAN-API
@@ -11931,7 +11526,6 @@ perl-Module-Compile
 perl-Module-CoreList
 perl-Module-CPANfile
 perl-Module-CPANTS-Analyse
-perl-Module-cpmfile
 perl-Module-Depends
 perl-Module-Extract-Namespaces
 perl-Module-Extract
@@ -11971,7 +11565,6 @@ perl-Module-Load-Util
 perl-Module-Locate
 perl-Module-Manifest-Skip
 perl-Module-Manifest
-perl-Module-Mask
 perl-Module-Math-Depends
 perl-Module-Metadata-Changes
 perl-Module-Metadata
@@ -12065,7 +11658,6 @@ perl-MooseX-Role-Parameterized
 perl-MooseX-Role-Strict
 perl-MooseX-Role-Tempdir
 perl-MooseX-Role-TraitConstructor
-perl-MooseX-Role-WarnOnConflict
 perl-MooseX-Role-WithOverloading
 perl-MooseX-Role-XMLRPC-Client
 perl-MooseX-SemiAffordanceAccessor
@@ -12108,11 +11700,9 @@ perl-MooX-Locale-Passthrough
 perl-MooX-Locale-TextDomain-OO
 perl-MooX-Log-Any
 perl-MooX-Options
-perl-MooX-Role-Logger
 perl-MooX-Role-Parameterized
 perl-MooX-Roles-Pluggable
 perl-MooX-Singleton
-perl-MooX
 perl-MooX-StrictConstructor
 perl-MooX-Struct
 perl-MooX-Types-MooseLike-Numeric
@@ -12138,7 +11728,6 @@ perl-Nagios-NSCA
 perl-Nagios-Plugin-WWW-Mechanize
 perl-namespace-autoclean
 perl-namespace-clean
-perl-namespace-sweep
 perl-NetAddr-IP
 perl-Net-Amazon-EC2-Metadata
 perl-Net-Amazon-EC2
@@ -12187,8 +11776,6 @@ perl-Net-IPv4Addr
 perl-Net-IPv6Addr
 perl-Net-IRC
 perl-Net-Jabber
-perl-Net-LDAP-Server
-perl-Net-LDAP-Server-Test
 perl-Net-LDAP-SID
 perl-Net-LibIDN
 perl-Net-Lite-FTP
@@ -12246,11 +11833,9 @@ perl-NNTPClient
 perl-No-Worries
 perl-NTLM
 perl-Number-Bytes-Human
-perl-Number-Compare
 perl-Number-Format
 perl-Number-Fraction
 perl-Number-Misc
-perl-Number-Range
 perl-Number-Tolerant
 perl-Number-WithError
 perl-Object-Accessor
@@ -12294,7 +11879,6 @@ perl-Panotools-Script
 perl-Paper-Specs
 perl-Parallel-ForkManager
 perl-Parallel-Iterator
-perl-Parallel-Pipes
 perl-Parallel-Prefork
 perl-Parallel-Runner
 perl-Parallel-Scoreboard
@@ -12303,15 +11887,12 @@ perl-Params-Classify
 perl-Params-Coerce
 perl-Params-Check
 perl-Params-Util
-perl-Params-Validate
 perl-Params-ValidationCompiler
 perl-PAR-Dist
 perl-parent
 perl-PAR-Packer
 perl-Parse-CPAN-Distributions
 perl-Parse-CPAN-Packages
-perl-Parse-DebControl
-perl-Parse-Debian-Packages
 perl-Parse-Distname
 perl-Parse-DMIDecode
 perl-Parse-EDID
@@ -12336,7 +11917,6 @@ perl-Path-Tiny-Rule
 perl-PathTools
 perl-PatchReader
 perl-PBKDF2-Tiny
-perl-PDF-API2
 perl-PDF-API2-XS
 perl-PDF-Builder
 perl-PDF-Create
@@ -12403,12 +11983,10 @@ perl-Plack-Middleware-RemoveRedundantBody
 perl-Plack-Middleware-ReverseProxy
 perl-Plack-Middleware-Session
 perl-Plack-Middleware-Test-StashWarnings
-perl-Plack
 perl-Plack-Test-Agent
 perl-Plack-Test-ExternalServer
 perl-pmtools
 perl-Pod-Abstract
-perl-Pod-Constants
 perl-Pod-Coverage-Moose
 perl-Pod-Coverage
 perl-Pod-Coverage-TrustPod
@@ -12423,7 +12001,6 @@ perl-podlinkcheck
 perl-Pod-Markdown-Github
 perl-Pod-Markdown
 perl-Pod-MinimumVersion
-perl-Pod-Parser
 perl-Pod-Perldoc
 perl-Pod-Plainer
 perl-Pod-POM
@@ -12480,7 +12057,6 @@ perl-POE-Test-Loops
 perl-POE-Wheel-Null
 perl-POE-XS-Queue-Array
 perl-POSIX-AtFork
-perl-POSIX-strftime-Compiler
 perl-POSIX-strptime
 perl-POSIX-2008
 perl-PostScript
@@ -12493,7 +12069,6 @@ perl-PPIx-Regexp
 perl-PPI-XS
 perl-PPIx-Utilities
 perl-PPIx-Utils
-perl-prefork
 perl-Probe-Perl
 perl-Proc-Daemon
 perl-Proc-Fork
@@ -12540,10 +12115,7 @@ perl-Regexp-Common-net-CIDR
 perl-Regexp-Common
 perl-Regexp-Grammars
 perl-Regexp-IPv6
-perl-Regexp-Pattern-DefHash
-perl-Regexp-Pattern-License
 perl-Regexp-Pattern-Perl
-perl-Regexp-Pattern
 perl-Regexp-Shellish
 perl-Regexp-Stringify
 perl-Regexp-Trie
@@ -12553,7 +12125,6 @@ perl-Retry
 perl-Return-MultiLevel
 perl-Return-Type
 perl-Return-Value
-perl-Role-Basic
 perl-Role-Commons
 perl-Role-HasMessage
 perl-Role-Hooks
@@ -12588,16 +12159,13 @@ perl-Search-Elasticsearch
 perl-Search-Xapian
 perl-Sentinel
 perl-Sentry-Raven
-perl-Server-Starter
 perl-ServiceNow-API
 perl-Session-Storage-Secure
 perl-Set-Array
 perl-Set-Crontab
 perl-Set-Infinite
-perl-Set-IntSpan
 perl-Set-Object
 perl-Set-Scalar
-perl-Set-Tiny
 perl-SGML-Parser-OpenSP
 perl-SGMLSpm
 perl-Shell-Config-Generate
@@ -12607,7 +12175,6 @@ perl-Shipwright
 perl-Schedule-Cron-Events
 perl-Schedule-Cron
 perl-Schedule-RateLimiter
-perl-Signal-Mask
 perl-Smart-Comments
 perl-smartmatch
 perl-SNMP-Info
@@ -12628,7 +12195,6 @@ perl-Sort-Key
 perl-Sort-Maker
 perl-Sort-MergeSort
 perl-Sort-Naturally
-perl-Sort-Versions
 perl
 perl-Specio-Library-Path-Tiny
 perl-Specio
@@ -12654,7 +12220,6 @@ perl-SQL-Statement
 perl-SQL-Tokenizer
 perl-SQL-Translator
 perl-srpm-macros
-perl-Starlet
 perl-Starman
 perl-Statistics-Basic
 perl-Statistics-CaseResampling
@@ -12670,7 +12235,6 @@ perl-String-Approx
 perl-String-Base
 perl-String-CamelCase
 perl-String-Compare-ConstantTime
-perl-String-Copyright
 perl-String-CRC32
 perl-String-Diff
 perl-String-Dirify
@@ -12686,7 +12250,6 @@ perl-String-RewritePrefix
 perl-String-ShellQuote
 perl-String-Similarity
 perl-String-ToIdentifier-EN
-perl-String-Trim-More
 perl-String-Trim
 perl-String-Truncate
 perl-String-TtyLength
@@ -12719,7 +12282,6 @@ perl-SVN-Look
 perl-SVN-Simple
 perl-Swim
 perl-Switch
-perl-Symbol-Global-Name
 perl-Symbol-Util
 perl-Syntax-Feature-Loop
 perl-Syntax-Highlight-Engine-Kate
@@ -12822,12 +12384,10 @@ perl-Test-Base
 perl-Test-Bits
 perl-Test-Block
 perl-Test-Carp
-perl-Test-ClassAPI
 perl-Test-Class-Most
 perl-Test-Class
 perl-Test-CleanNamespaces
 perl-Test-Cmd
-perl-Test-Command-Simple
 perl-Test-Command
 perl-Test-Compile
 perl-Test-ConsistentVersion
@@ -12849,17 +12409,14 @@ perl-Test-Dir
 perl-Test-DistManifest
 perl-Test-Distribution
 perl-Test-Dist-VersionSync
-perl-Test-Email
 perl-Test-EOL
 perl-Test-Exception
 perl-Test-Exit
 perl-Test-Expect
-perl-Test-Exports
 perl-Test-FailWarnings
 perl-Test-Fake-HTTPD
 perl-Test-Fatal
 perl-Test-File-Contents
-perl-Test-Filename
 perl-Test-File-ShareDir
 perl-Test-File
 perl-Test-Fixme
@@ -12888,13 +12445,11 @@ perl-Test-Lib
 perl-Test-LoadAllModules
 perl-Test-Log-Dispatch
 perl-Test-Log-Log4perl
-perl-Test-LongString
 perl-Test-LWP-UserAgent
 perl-Test-Manifest
 perl-Test-Memory-Cycle
 perl-Test-MemoryGrowth
 perl-Test-Metrics-Any
-perl-Test-MinimumVersion
 perl-TestML1
 perl-Test-Mock-Guard
 perl-Test-Mock-LWP
@@ -12936,20 +12491,17 @@ perl-Test-PostgreSQL
 perl-Test-Prereq
 perl-Test-RandomResult
 perl-Test-Refcount
-perl-Test-Regexp-Pattern
 perl-Test-Regexp
 perl-Test-Regression
 perl-Test-Reporter
 perl-Test-Requires-Git
 perl-Test-RequiresInternet
 perl-Test-Requires
-perl-Test-Roo
 perl-Test-Routine
 perl-Test-Run-CmdLine
 perl-Test-Run
 perl-Test-RunValgrind
 perl-Test-Script-Run
-perl-Test-Script
 perl-Test-SharedFork
 perl-Test-Signature
 perl-Test-Simple
@@ -12986,8 +12538,6 @@ perl-Test-Without-Module
 perl-Test-WriteVariants
 perl-Test-WWW-Mechanize-Catalyst
 perl-Test-WWW-Mechanize-CGIApp
-perl-Test-WWW-Mechanize-PSGI
-perl-Test-WWW-Mechanize
 perl-Test-WWW-Selenium
 perl-Test-XML
 perl-Test-YAML-Meta
@@ -13014,7 +12564,6 @@ perl-Text-Autoformat
 perl-Text-Balanced
 perl-Text-BibTeX
 perl-Text-Brew
-perl-Text-Clip
 perl-Text-Context-EitherSide
 perl-Text-Context
 perl-Text-CSV-Separator
@@ -13032,7 +12581,6 @@ perl-Text-FormatTable
 perl-Text-Fuzzy
 perl-Text-German
 perl-Text-Glob
-perl-Text-Haml
 perl-Text-Hunspell
 perl-Text-CharWidth
 perl-Text-CHM
@@ -13070,18 +12618,15 @@ perl-Text-Textile
 perl-Text-Tree
 perl-Text-Unidecode
 perl-Text-vCard
-perl-Text-vFile-asData
 perl-Text-VimColor
 perl-Text-WagnerFischer
 perl-Text-WikiFormat
 perl-Text-WordDiff
 perl-Text-WrapI18N
-perl-Text-Wrapper
 perl-Text-Xslate
 perl-Text-xSV
 perl-TheSchwartz
 perl-Thread-Queue
-perl-Thread-SigMask
 perl-threads-lite
 perl-threads-shared
 perl-threads
@@ -13092,7 +12637,6 @@ perl-Tie-Cycle
 perl-Tie-DBI
 perl-Tie-EncryptedHash
 perl-Tie-Function
-perl-Tie-Handle-Offset
 perl-Tie-Hash-Method
 perl-Tie-Hash-MultiValue
 perl-Tie-Hash-ReadonlyStack
@@ -13104,7 +12648,6 @@ perl-Tie-Sub
 perl-Tie-ToObject
 perl-Time-Clock
 perl-TimeDate
-perl-Time-Duration-Parse
 perl-Time-Duration
 perl-Time-Fake
 perl-Time-HiRes
@@ -13130,7 +12673,6 @@ perl-Tk-DoubleClick
 perl-Tk-EntryCheck
 perl-Tk-FontDialog
 perl-Tk-Getopt
-perl-Tk-GraphViz
 perl-Tk-ObjScanner
 perl-Tk-Pod
 perl-Tk-ProgressBar-Mac
@@ -13156,7 +12698,6 @@ perl-Types-Path-Tiny
 perl-Types-Serialiser
 perl-Types-URI
 perl-Types-UUID
-perl-Type-Tie
 perl-Type-Tiny
 perl-Type-Tiny-XS
 perl-UDDI-Lite
@@ -13204,7 +12745,6 @@ perl-User
 perl-User-Utmp
 perl-UUID-Tiny
 perl-UUID-URandom
-perl-Validation-Class
 perl-Verilog-Perl
 perl-Verilog-Readmem
 perl-Version-Next
@@ -13215,11 +12755,9 @@ perl-VM-EC2
 perl-VMware-LabManager
 perl-V
 perl-v6
-perl-Want
 perl-Web-ID
 perl-Web-Machine
 perl-Web-Paste-Simple
-perl-Web-Scraper
 perl-WebService-Dropbox
 perl-WebService-Linode
 perl-WebService-MusicBrainz
@@ -13232,7 +12770,6 @@ perl-WWW-Babelfish
 perl-WWW-Bugzilla
 perl-WWW-Curl
 perl-WWW-DuckDuckGo
-perl-WWW-Form-UrlEncoded
 perl-WWW-GoodData
 perl-WWW-Google-Contacts
 perl-WWW-Mechanize-GZip
@@ -13303,7 +12840,6 @@ perl-XML-Tidy
 perl-XML-Tiny
 perl-XML-TokeParser
 perl-XML-TreeBuilder
-perl-XML-TreePP
 perl-XML-Twig
 perl-XML-Validator-Schema
 perl-XML-Writer-String
@@ -13346,7 +12882,6 @@ pgaudit
 pg_auto_failover
 pgbouncer
 pgcli
-pgmodeler
 pgpdump
 pgp-tools
 pg_repack
@@ -13370,12 +12905,9 @@ photocollage
 photoqt
 phototonic
 php-adodb
-php-akamai-open-edgegrid-auth
-php-akamai-open-edgegrid-client
 php-alcaeus-mongo-php-adapter
 php-amqplib
 php-andrewsville-php-token-reflection
-php-asm89-stack-cors
 php-ast
 php-aws-php-sns-message-validator
 php-aws-sdk3
@@ -13387,16 +12919,10 @@ php-behat-mink-browserkit-driver
 php-behat-mink
 php-brick-math
 php-brick-varexporter
-php-brumann-polyfill-unserialize
 php-cache-adapter-common
 php-cache-filesystem-adapter
 php-cache-integration-tests
 php-cache-tag-interop
-php-cilex1
-php-clue-block-react
-php-clue-stream-filter
-php-codeception-specify
-php-codeception-verify
 php-composer-ca-bundle
 php-composer-metadata-minifier
 php-composer-pcre
@@ -13404,8 +12930,6 @@ php-composer-semver3
 php-composer-xdebug-handler
 php-composer-xdebug-handler2
 php-consolidation-annotated-command
-php-consolidation-config
-php-consolidation-log
 php-consolidation-output-formatters
 php-container-interop
 phpcov
@@ -13416,13 +12940,6 @@ php-dasprid-enum
 php-deepdiver-zipstreamer
 php-deepend-Mockery
 php-dflydev-dot-access-data
-php-digitalsandwich-Phake
-php-di-invoker
-php-di-phpdoc-reader
-php-di
-php-di-symfony2-bridge
-php-dnoegel-php-xdg-base-dir
-phpdoc
 php-doctrine-annotations
 php-doctrine-cache
 php-doctrine-collections
@@ -13444,18 +12961,16 @@ php-doctrine-migrations
 php-doctrine-orm
 php-doctrine-persistence
 php-doctrine-persistence2
+php-doctrine-persistence3
 php-doctrine-reflection
 php-doctrine-sql-formatter
 php-domxml-php4-php5
-php-dropbox-php-Dropbox
-php-EasyRdf
 php-egulias-email-validator
 php-egulias-email-validator2
 php-echonest-api
 php-email-address-validation
 php-endroid-qrcode
 php-erusev-parsedown
-php-evenement
 php-facedetect
 php-Faker
 php-fedora-autoloader
@@ -13465,8 +12980,6 @@ php-fgrosse-phpasn1
 php-fig-http-message-util
 php-fig-link-util
 php-firebase-php-jwt
-php-firephp-firephp-core
-php-flow-jsonpath
 php-friendsofphp-proxy-manager-lts
 php-geos
 php-geshi
@@ -13474,16 +12987,12 @@ php-getid3
 php-gettext-gettext
 php-gettext-languages
 php-giggsey-locale
-php-gliph
 php-google-apiclient-services
 php-google-apiclient
-php-google-apiclient1
 php-google-auth
 php-google-recaptcha
-php-goutte
 php-grasmash-expander
 php-grasmash-yaml-expander
-php-guzzlehttp-guzzle
 php-guzzlehttp-guzzle6
 php-guzzlehttp-promises
 php-guzzlehttp-psr7
@@ -13491,19 +13000,12 @@ php-guzzlehttp-ringphp
 php-guzzlehttp-streams
 php-hamcrest
 php-hamcrest2
-php-henrikbjorn-lurker
 php-htmLawed
 php-http-interop-http-middleware
 php-http-message-factory
-php-channel-digitalsandwich
-php-channel-dropbox-php
 php-channel-phing
-php-channel-phpdoc
-php-channel-phpqatools
 php-channel-phpseclib
-php-channel-pirum
 php-channel-sabredav
-php-channel-symfony
 php-christophwurst-id3parser
 php-iamcal-lib-autolink
 php-icewind-smb2
@@ -13512,14 +13014,8 @@ php-IDNA_Convert
 php-interfasys-lognormalizer
 php-ircmaxell-random-lib
 php-ircmaxell-security-lib
-php-jakubledl-dissect
-php-jakub-onderka-php-console-color
-php-jakub-onderka-php-console-highlighter
 php-jdorn-sql-formatter
-php-JMSParser
-php-jms-serializer
 php-jsonlint
-php-JsonSchema
 php-justinrainbow-json-schema5
 php-khanamiryan-qrcode-detector-decoder
 php-kissifrot-php-ixr
@@ -13600,8 +13096,6 @@ php-laminas-xml
 php-laminas-xml2json
 php-laminas-zendframework-bridge
 phpldapadmin
-php-league-climate
-php-league-container
 php-league-container4
 php-league-flysystem
 php-league-mime-type-detection
@@ -13618,7 +13112,6 @@ php-marcusschwarz-lesserphp
 php-markdown
 php-masterminds-html5
 php-maxminddb
-php-Metadata
 php-microsoft-tolerant-php-parser
 php-mikealmond-musicbrainz
 php-mikey179-vfsstream
@@ -13630,11 +13123,9 @@ php-mock2
 php-mongodb
 php-Monolog
 php-mtdowling-jmespath-php
-php-mtdowling-transducers
 phpMyAdmin
 php-myclabs-deep-copy
 php-myclabs-php-enum
-php-natxet-cssmin
 php-netresearch-jsonmapper
 php-nikic-fast-route
 php-nikic-php-parser3
@@ -13654,8 +13145,6 @@ php-opis-closure
 php-paragonie-constant-time-encoding
 php-paragonie-random-compat
 php-patchwork-jsqueeze
-php-pclzip
-php-pda-pheanstalk
 php-pdb
 php-pdepend-PHP-Depend
 php-pear-Auth-SASL
@@ -13710,7 +13199,6 @@ php-pear-XML-SVG
 php-pecl-amqp
 php-pecl-apcu
 php-pecl-apfd
-php-pecl-couchbase3
 php-pecl-dio
 php-pecl-ds
 php-pecl-event
@@ -13756,10 +13244,7 @@ php-phar-io-manifest
 php-phar-io-manifest2
 php-phar-io-version
 php-phar-io-version3
-php-PhpCollection
 php-PHP-CSS-Parser
-php-phpdocumentor-fileset
-php-phpdocumentor-graphviz
 php-phpdocumentor-reflection-common
 php-phpdocumentor-reflection-common2
 php-phpdocumentor-reflection-docblock
@@ -13780,7 +13265,6 @@ php-phpmyadmin-shapefile
 php-phpmyadmin-shapefile3
 php-phpmyadmin-sql-parser5
 php-phpmyadmin-twig-i18n-extension
-php-PhpOption
 php-PHPParser
 php-phpseclib-crypt-aes
 php-phpseclib-crypt-base
@@ -13841,15 +13325,12 @@ php-phpunit-selenium
 php-phpunit-Text-Template
 php-phpunit-Version
 php-pimple
-php-pimple1
-php-pirum-Pirum
 php-pragmarx-google2fa-qrcode
 php-pragmarx-google2fa5
 php-psr-cache
 php-psr-container
 php-psr-container2
 php-psr-event-dispatcher
-php-psr-http-client
 php-psr-http-factory
 php-psr-http-message
 php-psr-http-server-handler
@@ -13861,21 +13342,7 @@ php-punic
 php-ralouphie-getallheaders
 php-ramsey-collection
 php-ramsey-uuid
-php-react-cache
-php-react-dns
-php-react-event-loop
-php-react-http-client
-php-react-http
-php-react-child-process
 php-react-promise
-php-react-promise-stream
-php-react-promise-timer
-php-react-socket
-php-react-stream
-php-ringcentral-psr7
-php-robrichards-xmlseclibs
-php-robrichards-xmlseclibs1
-php-robrichards-xmlseclibs3
 php-sabredav-Sabre
 php-sabredav-Sabre_VObject
 php-sabre-dav4
@@ -13925,20 +13392,17 @@ php-seld-cli-prompt
 php-seld-phar-utils
 php-sentry
 php-simplepie
-php-simplesamlphp-saml2
 php-Smarty
 php-smbclient
 php
 php-splitbrain-php-archive
 php-splitbrain-php-cli
 php-splitbrain-slika
-php-stack-builder
 php-stecman-symfony-console-completion
 php-swaggest-json-diff
 php-swaggest-json-schema
 php-swiftmailer
 php-swiftmailer6
-php-SymfonyCmfRouting
 php-symfony-contracts
 php-symfony-contracts2
 php-symfony-monolog-bundle
@@ -13957,23 +13421,16 @@ php-theseer-directoryscanner
 php-theseer-fDOMDocument
 php-theseer-tokenizer
 php-true-punycode
-php-twig-extensions
 php-twig
 php-twig2
 php-twig3
-php-typo3-phar-stream-wrapper2
 phpunit7
 phpunit8
 phpunit9
-php-victorjonsson-markdowndocs
-php-vlucas-phpdotenv
-php-webflo-drupal-finder
 php-webimpress-http-middleware-compatibility
 php-webimpress-safe-writer
 php-webmozart-assert
 php-webmozart-path-util
-php-when
-php-whitehat101-apr1-md5
 php-wikimedia-assert
 php-wikimedia-avro
 php-wikimedia-cdb
@@ -13985,7 +13442,6 @@ php-xmpphp
 php-yoast-phpunit-polyfills
 php-zetacomponents-base
 php-zetacomponents-console-tools
-php-zetacomponents-document
 php-zetacomponents-unit-test
 php-zipstream
 php-zmq
@@ -14012,7 +13468,6 @@ pidgin-indicator
 pidgin-libnotify
 pidgin-otr
 pidgin-privacy-please
-pidgin-save-conv-order
 pidgin-sipe
 pidgin
 pidgin-toobars
@@ -14140,7 +13595,6 @@ pngcrush
 pngcheck
 pnglite
 pngnq
-pngquant
 pnm2ppa
 pocketsphinx
 pocl
@@ -14168,7 +13622,6 @@ polkit-qt-1
 polkit
 polly
 polybar
-polyclipping
 polyglot-chess
 polymake
 polyml
@@ -14226,7 +13679,6 @@ pragha
 PragmARC
 prboom-plus
 prboom
-pre-commit
 preeny
 preferences-menus
 prelockd
@@ -14310,7 +13762,6 @@ pss
 pstoedit
 pstreams-devel
 psutils
-psysh
 pt-astra-sans-fonts
 pt-astra-serif-fonts
 ptex
@@ -14363,7 +13814,6 @@ pybind11
 pybluez
 pybox2d
 pybugz
-pycairo
 pycanberra
 pycmd
 pycolumnize
@@ -14385,7 +13835,6 @@ pygsl
 pygtk2
 pyhoca-cli
 pyhoca-gui
-pyhunspell
 pychess
 pychromecast
 pyicu
@@ -14541,7 +13990,6 @@ python-applicationinsights
 python-apply-defaults
 python-apprise
 python-AppTools
-python-APScheduler
 python-apsw
 python-apt
 python-apypie
@@ -14584,7 +14032,6 @@ python-atpublic
 python-attrs
 python-audioread
 python-augeas
-python-august
 python-auth-credential
 python-authheaders
 python-authlib
@@ -14692,6 +14139,7 @@ python-azure-mgmt-sql
 python-azure-mgmt-sqlvirtualmachine
 python-azure-mgmt-storage
 python-azure-mgmt-subscription
+python-azure-mgmt-support
 python-azure-mgmt-synapse
 python-azure-mgmt-trafficmanager
 python-azure-mgmt-web
@@ -14730,6 +14178,7 @@ python-bibtexparser
 python-bidict
 python-bids-validator
 python-billiard
+python-binary-memcached
 python-binaryornot
 python-binstruct
 python-bintrees
@@ -14790,7 +14239,6 @@ python-cairocffi
 python-cairosvg
 python-caja
 python-calcephpy
-python-calligrabot
 python-canonicaljson
 python-can
 python-capturer
@@ -14811,7 +14259,6 @@ python-cerberus
 python-cerealizer
 python-certbot-dns-plesk
 python-cffi
-python-cffsubr
 python-cftime
 python-cinderclient
 python-ciso8601
@@ -14908,6 +14355,7 @@ python-confuse
 python-connect-box
 python-connection_pool
 python-constantly
+python-construct-classes
 python-construct
 python-contextily
 python-contextualbandits
@@ -14917,8 +14365,6 @@ python-cookiecutter
 python-cooldict
 python-copr-common
 python-copr
-python-coreapi
-python-coreschema
 python-cornice
 python-cornice-sphinx
 python-coronavirus
@@ -14941,6 +14387,7 @@ python-crcmod
 python-crochet
 python-croniter
 python-cro
+python-crossword
 python-cryptography
 python-crypto
 python-cson
@@ -14954,7 +14401,6 @@ python-csvkit
 python-cups
 python-curio
 python-curtsies
-python-cu2qu
 python-cvss
 python-cvxopt
 python-cwcwidth
@@ -15109,7 +14555,6 @@ python-doxytag2zealdb
 python-dpath
 python-dpkt
 python-drat
-python-drf-yasg
 python-drgn
 python-dropbox
 python-dtfabric
@@ -15167,7 +14612,6 @@ python-et_xmlfile
 python-evdev
 python-eventlet
 python-events
-python-evic
 python-EvoPreprocess
 python-exabgp
 python-exdir
@@ -15215,6 +14659,7 @@ python-fixtures
 python-flake8-docstrings
 python-flake8-import-order
 python-flake8-polyfill
+python-flake8-quotes
 python-flake8
 python-flaky
 python-flask-admin
@@ -15246,7 +14691,6 @@ python-flask-whooshee
 python-flask-wtf-decorators
 python-flask-wtf
 python-flask-xml-rpc
-python-flexmock
 python-flit
 python-flock
 python-flufl-bounce
@@ -15305,7 +14749,6 @@ python-genty
 python-GeoIP
 python-geoip2
 python-geojson
-python-geomet
 python-geopandas
 python-geoplot
 python-geopy
@@ -15316,7 +14759,6 @@ python-getmac
 python-gettext
 python-gevent-eventemitter
 python-gevent
-python-ghp-import
 python-giacpy
 python-gilt
 python-gios
@@ -15338,7 +14780,6 @@ python-gmqtt
 python-gnocchiclient
 python-gnupg
 python-google-api-core
-python-googleapis-common-protos
 python-google-auth-oauthlib
 python-google-auth
 python-google-cloud-access-approval
@@ -15389,7 +14830,6 @@ python-google-cloud-testutils
 python-google-crc32c
 python-google-i18n-address
 python-google-resumable-media
-python-googletrans
 python-gphoto2
 python-gpiozero
 python-gpxpy
@@ -15402,7 +14842,6 @@ python-graphene
 python-graphitesend
 python-graphql-core
 python-graphql-relay
-python-graph-tool
 python-graphviz
 python-greenlet
 python-GridDataFormats
@@ -15444,7 +14883,6 @@ python-homeworks
 python-howdoi
 python-hpack
 python-hpilo
-python-hs-dbus-signature
 python-hstspreload
 python-htmlmin
 python-html2text
@@ -15470,7 +14908,6 @@ python-husl
 python-hvac
 python-hwdata
 python-hyperframe
-python-hyperkitty
 python-hyperlink
 python-hypothesis-fspaths
 python-hypothesis
@@ -15554,7 +14991,6 @@ python-itanium_demangler
 python-itemadapter
 python-itemloaders
 python-itsdangerous
-python-itypes
 python-i3ipc
 python-jack-client
 python-janus
@@ -15565,11 +15001,9 @@ python-jaraco-functools
 python-jaraco-packaging
 python-jaraco-path
 python-jaraco-text
-python-javabridge
 python-javalang
 python-javaobj
 python-javaproperties
-python-jaydebeapi
 python-jcconv
 python-jdcal
 python-jedi
@@ -15632,7 +15066,6 @@ python-kdcproxy
 python-keepassxc-browser
 python-keep
 python-kerberos
-python-keyring
 python-keystoneauth1
 python-keystoneclient
 python-kgb
@@ -15645,7 +15078,6 @@ python-kmod
 python-knack
 python-kombu
 python-korean-lunar-calendar
-python-krbcontext
 python-kubernetes
 python-lacrosse
 python-landslide
@@ -15728,7 +15160,6 @@ python-manuel
 python-mapclassify
 python-maps
 python-marathon
-python-markdown-include
 python-markdown-it-py
 python-markdown-math
 python-markdown
@@ -15864,7 +15295,6 @@ python-nbconvert
 python-nbformat
 python-nbsphinx
 python-nbxmpp
-python-ncclient
 python-ndg_httpsclient
 python-ndjson-testrunner
 python-neatdend
@@ -15909,7 +15339,6 @@ python-nose_fixes
 python-nose
 python-nose-testconfig
 python-nose-timer
-python-nose2
 python-notario
 python-notebook
 python-notify2
@@ -15968,8 +15397,10 @@ python-openstackdocstheme
 python-openstacksdk
 python-opentracing
 python-operator-courier
+python-opfunu
 python-opnsense
 python-optcomplete
+python-opytimark
 python-op1repacker
 python-op1svg
 python-ordered-set
@@ -15984,6 +15415,7 @@ python-oslo-db
 python-oslo-i18n
 python-oslo-log
 python-oslo-metrics
+python-oslo-middleware
 python-oslo-serialization
 python-oslo-sphinx
 python-oslotest
@@ -15999,7 +15431,6 @@ python-ovh
 python-ovirt-engine-sdk4
 python-owl_rl
 python-packaging
-python-pacpy
 python-pagure-messages
 python-paho-mqtt
 python-palettable
@@ -16007,11 +15438,9 @@ python-Pallets-Sphinx-Themes
 python-pamela
 python-pam
 python-pandas-datareader
-python-pandas-flavor
 python-pandas
 python-pandocfilters
 python-paperwork-backend
-python-param
 python-parsedatetime
 python-parsel
 python-parse
@@ -16043,7 +15472,6 @@ python-pdfrw
 python-pdir2
 python-pdm-pep517
 python-pebble
-python-pecan-notario
 python-pecan
 python-peewee
 python-pefile
@@ -16058,7 +15486,6 @@ python-persist-queue
 python-petlink
 python-pexpect
 python-pg8000
-python-phabricator
 python-phonenumbers
 python-photutils
 python-phpserialize
@@ -16078,7 +15505,6 @@ python-pipdeptree
 python-pivy
 python-pkgconfig
 python-pkginfo
-python-plac
 python-plaintable
 python-plaster-pastedeploy
 python-plaster
@@ -16106,7 +15532,6 @@ python-portalocker
 python-portend
 python-port-for
 python-posix_ipc
-python-postorius
 python-pox
 python-poyo
 python-ppft
@@ -16175,14 +15600,13 @@ python-pycotap
 python-pycountry
 python-pycparser
 python-pycryptodomex
-python-pyct
 python-pycurl
 python-pycxx
 python-pydantic
 python-pydata-sphinx-theme
 python-pydbus
-python-pydenticon
 python-pydicom
+python-pydiffx
 python-pydispatcher
 python-pydocstyle
 python-pydotplus
@@ -16249,7 +15673,6 @@ python-pymod2pkg
 python-pymochad
 python-pymongo
 python-Pympler
-python-pymssql
 python-PyMunin3
 python-PyMuPDF
 python-PyMySQL
@@ -16276,7 +15699,6 @@ python-pypcapkit
 python-pypck
 python-PyPDF2
 python-Pyped
-python-pyperclip
 python-pypet
 python-pyphen
 python-pyphi
@@ -16347,7 +15769,6 @@ python-pytest-asyncio
 python-pytest-beakerlib
 python-pytest-benchmark
 python-pytest-cache
-python-pytest-capturelog
 python-pytest-cases
 python-pytest-click
 python-pytest-cov
@@ -16361,10 +15782,10 @@ python-pytest-expect
 python-pytest-filter-subpackage
 python-pytest-fixture-config
 python-pytest-flakes
+python-pytest-flake8-path
 python-pytest-flake8
 python-pytest-forked
 python-pytest-freezegun
-python-pytest-grpc
 python-pytest-harvest
 python-pytest-httpbin
 python-pytest-httpserver
@@ -16386,7 +15807,6 @@ python-pytest-regressions
 python-pytest-relaxed
 python-pytest-remotedata
 python-pytest-repeat
-python-pytest-rerunfailures
 python-pytest-runner
 python-pytest-sanic
 python-pytest-services
@@ -16436,7 +15856,6 @@ python-pyyaml-env-tag
 python-pyzabbix
 python-pyzolib
 python-py2pack
-python-py27hash
 python-py3nvml
 python-py9p
 python-qcelemental
@@ -16444,7 +15863,6 @@ python-qdarkstyle
 python-qemu-qmp
 python-qpageview
 python-qrcode
-python-qrencode
 python-q
 python-qstylizer
 python-QtAwesome
@@ -16527,7 +15945,6 @@ python-retask
 python-retrying
 python-retry
 python-retryz
-python-rfc3339-validator
 python-rfc3986
 python-rfc3986-validator
 python-rfc3987
@@ -16580,7 +15997,6 @@ python-SALib
 python-samloader
 python-sanction
 python-sane
-python-sarif-om
 python-satyr
 python-scales
 python-scantree
@@ -16603,7 +16019,6 @@ python-secure_cookie
 python-selenium
 python-semantic_version
 python-semver
-python-sendgrid
 python-send2trash
 python-sentinels
 python-sentry-sdk
@@ -16635,7 +16050,6 @@ python-schema
 python-sievelib
 python-sieve
 python-signalfd
-python-signature-dispatch
 python-signedjson
 python-simframe
 python-simpleaudio
@@ -16676,10 +16090,8 @@ python-snappy
 python-snaptime
 python-sniffio
 python-snipeit
-python-snowballstemmer
 python-snuggs
 python-social-auth-core
-python-socketio
 python-socksio
 python-socks
 python-socks5line
@@ -16737,7 +16149,6 @@ python-sphinx-issues
 python-sphinx-kr-theme
 python-sphinx-last-updated-by-git
 python-sphinx_lv2_theme
-python-sphinx-markdown-tables
 python-sphinx-math-dollar
 python-sphinx-notfound-page
 python-sphinx-press-theme
@@ -16773,7 +16184,6 @@ python-ssdeep
 python-ssdp
 python-sseclient-py
 python-sseclient
-python-sshpubkeys
 python-ssh-python
 python-sshtunnel
 python-stack-data
@@ -16795,7 +16205,6 @@ python-stompest
 python-stone
 python-stopit
 python-straight-plugin
-python-streamlink
 python-strict-rfc3339
 python-string_utils
 python-stripe
@@ -16806,7 +16215,6 @@ python-subprocess-tee
 python-subvertpy
 python-suds
 python-supersmoother
-python-sure
 python-surt
 python-sushy
 python-svg-path
@@ -16845,7 +16253,6 @@ python-terminaltables
 python-teslajsonpy
 python-testfixtures
 python-testinfra
-python-testing.common.database
 python-testing.postgresql
 python-testpath
 python-testrepository
@@ -16939,16 +16346,15 @@ python-types-pyopenssl
 python-types-pyyaml
 python-types-requests
 python-types-six
-python-typing-extensions
 python-typing-inspect
 python-typish
 python-typogrify
 python-tzlocal
 python-uamqp
-python-ua-parser
 python-uc-micro-py
 python-ufl
 python-ufoLib2
+python-uhashring
 python-uinput
 python-ukkonen
 python-u-msgpack-python
@@ -16975,7 +16381,6 @@ python-urwid-readline
 python-urwid
 python-urwidtrees
 python-user-agents
-python-userpath
 python-usort
 python-utils
 python-utmp
@@ -16990,7 +16395,6 @@ python-vcrpy
 python-vcstool
 python-vcstools
 python-vdf
-python-vecrec
 python-velbus
 python-venusian
 python-verboselogs
@@ -17080,7 +16484,6 @@ python-xbout
 python-xboxapi
 python-xcffib
 python-xdot
-python-xds-protos
 python-xeddsa
 python-xiaomi-gateway
 python-xlib
@@ -17149,7 +16552,6 @@ python-yaswfp
 python-yattag
 python-yfinance
 python-yourls
-python-yte
 python-ytmusicapi
 python-yubico
 python-zabbix-api-erigones
@@ -17182,7 +16584,6 @@ python-zope-i18nmessageid
 python-zope-schema
 python-zope-sqlalchemy
 python-zope-testing
-python-zopfli
 python-zstandard
 python-zstd
 python-zuul-client
@@ -17228,7 +16629,6 @@ PyYAML
 pyzy
 py3c
 py3status
-py4j
 p0f
 p0rn-comfort
 p11-kit
@@ -17254,7 +16654,6 @@ qclib
 qcomicbook
 qconf
 qcoro
-qcustomplot
 qdbm
 qdigidoc
 qdirstat
@@ -17339,7 +16738,6 @@ qtscriptgenerator
 qtsingleapplication
 qtsoap
 qt
-qtspell
 qt-virt-manager
 qtwaifu2x
 qtwebkit
@@ -17462,7 +16860,6 @@ R-abind
 raceintospace
 R-acepack
 racket
-radamsa
 radare2
 radcli
 raddump
@@ -17503,7 +16900,6 @@ rapidxml
 raptor
 raptor2
 R-argon2
-rarian
 rarpd
 R-arules
 R-ascii
@@ -17519,7 +16915,6 @@ ratpoison
 rats
 R-AUC
 rawstudio
-rawtherapee
 raw-thumbnailer
 raysession
 R-backports
@@ -17597,7 +16992,6 @@ R-desc
 rdesktop
 R-devtools
 rdfind
-rdiff-backup
 R-diffobj
 R-digest
 R-dichromat
@@ -17614,7 +17008,6 @@ R-dtplyr
 R-DT
 R-DynDoc
 readline
-readosm
 realmd
 realtime-setup
 rear
@@ -17657,7 +17050,6 @@ remmina
 remoot
 RemoteBox
 renameutils
-renderdoc
 renrot
 ren
 rep-gtk
@@ -17791,9 +17183,7 @@ ristretto
 R-iterators
 R-itertools
 rit-ezhuthu-fonts
-rit-meera-new-fonts
 rit-panmana-fonts
-rit-rachana-fonts
 rit-sundar-fonts
 rit-tn-joy-fonts
 river
@@ -17871,7 +17261,6 @@ rocm-device-libs
 rocminfo
 rocm-opencl
 rocm-runtime
-rocm-smi
 rocs
 R-odbc
 rofimoji
@@ -17993,6 +17382,7 @@ R-RhpcBLASctl
 R-Rhtslib
 R-rhub
 R-RInside
+R-rJava
 R-rjson
 R-rlang
 R-rle
@@ -18022,6 +17412,7 @@ R-R.utils
 R-rversions
 R-rvest
 R-R6
+rsakeyfind
 R-sandwich
 R-sass
 R-scales
@@ -18100,7 +17491,6 @@ rtmidi
 R-tmvnsim
 rtorrent
 rtpproxy
-rt
 rttr
 R-tufte
 R-tweenr
@@ -18176,14 +17566,12 @@ SAASound
 saclib
 sac
 safecopy
-safekeep
 safelease
 safetyblanket
 saga
 sagator
 sagemath
 sage
-sailcut
 sakura
 salt-lint
 salt
@@ -18263,14 +17651,12 @@ scl-utils-build-helpers
 scl-utils
 scmxx
 scons
-scorep
 scorched3d
 scorchwentbonkers
 scotch
 scottfree
 scoutfish
 scponly
-scram
 scratch
 screenfetch
 screenie-composer
@@ -18284,7 +17670,6 @@ scrot
 scrub
 scsi-target-utils
 sc
-scudcloud
 scummvm
 scummvm-tools
 scythia
@@ -18342,21 +17727,18 @@ sediment
 sed
 sedutil
 seeker
-selinux-policy
 semver
 senamirmir-washra-fonts
 sendemail
 sendKindle
 sendmail
 sendxmpp
-sensible-utils
 sen
 sentencepiece
 sepolicy_analysis
 seqan
 seqan2
 seqan3
-sequeler
 sequence-library
 serafettin-cartoon-fonts
 serdisplib
@@ -18372,7 +17754,6 @@ ser2net
 sessreg
 setBfree
 setconf
-setroubleshoot-plugins
 setserial
 setup
 setuptool
@@ -18385,7 +17766,6 @@ SFML
 sfsexp
 sfxr
 sgabios
-sgmanager
 sgml-common
 sgpio
 sgtk-menu
@@ -18415,7 +17795,6 @@ shigofumi
 shim
 shim-unsigned-aarch64
 shim-unsigned-x64
-shiny
 shippy
 shntool
 shobhika-fonts
@@ -18433,7 +17812,6 @@ schismtracker
 schroedinger-cat-backgrounds
 schroedinger-cat-kde-theme
 schroedinger
-schroot
 SIBsim4
 sicktoolbox
 sidplayfp
@@ -18510,7 +17888,6 @@ sip-redirect
 sipsak
 sip
 sipvicious
-sipwitch
 sip6
 sirikali
 siril
@@ -18523,7 +17900,6 @@ six
 sjasm
 sj-fonts
 sjinn
-skanlite
 skanpage
 skf
 ski
@@ -18536,7 +17912,6 @@ SkyX
 slang
 slapi-nis
 slashem
-sleef
 sleuthkit
 slf4j
 slib
@@ -18556,7 +17931,6 @@ slrn
 sl
 slurm
 slurp
-slv2
 smaclient
 smartmontools
 smartsim
@@ -18651,8 +18025,6 @@ sparkleshare
 sparsehash
 sparse
 spatialindex
-spatialite-gui
-spatialite-tools
 spausedd
 spawn-fcgi
 spawn
@@ -18704,7 +18076,6 @@ springlobby
 spyder
 sqlcipher
 sqlgrey
-sqlitebrowser
 sqlitecpp
 sqliteman
 sqliteodbc
@@ -18774,12 +18145,10 @@ stellarium
 step
 stfl
 stgit
-sticky-notes
 stix-fonts
 stk
 stlink
 stlsplit
-stockfish
 stoken
 stompclt
 stomppy
@@ -18929,6 +18298,7 @@ sympol
 sympow
 synapse
 syncevolution
+synce4l
 syncthing
 synergy
 synfig
@@ -18957,9 +18327,7 @@ system-switch-java
 system-switch-mail
 systemtap
 system76-keyboard-configurator
-sysusage
 sysutil
-s3cmd
 s3fs-fuse
 s390utils
 taarich
@@ -19027,7 +18395,6 @@ tcpcrypt
 tcpdump
 tcpflow
 tcpick
-tcpjunk
 tcpreen
 tcpreplay
 tcptrack
@@ -19042,7 +18409,6 @@ teamgit
 teampulls
 teckit
 tecnoballz
-teem
 teeworlds
 tegrarcm
 teg
@@ -19071,8 +18437,6 @@ terminus-fonts
 termy-server
 ternimal
 terrier
-tesseract
-tesseract-tessdata
 testcloud
 testdisk
 test-drive
@@ -19081,7 +18445,6 @@ testng
 testssl
 tetex-dvipost
 tetex-elsevier
-tetgen
 tetrinetx
 tetrominos
 tex-cjw
@@ -19114,9 +18477,7 @@ themonospot-plugin-mkv
 thermald
 the_silver_searcher
 thibault-fonts
-thinkfan
 thonny
-thrift
 thttpd
 thunar-archive-plugin
 thunar-media-tags-plugin
@@ -19130,7 +18491,6 @@ tideEditor
 tidy
 tiedot
 tigervnc
-tig
 tikzit
 tilda
 tiled
@@ -19212,7 +18572,6 @@ tomcat-native
 tomcat
 tomcat-taglibs-parent
 toml11
-tomoe-gtk
 tomoe
 tomsfastmath
 toolbox
@@ -19300,7 +18659,6 @@ ttcp
 ttembed
 ttfautohint
 ttf2pt1
-tth
 ttmkfdir
 tty-copy
 tucnak
@@ -19312,7 +18670,6 @@ tuned-profiles-nfv-host-bin
 tuned
 tuned-switcher
 tunneler
-tuptime
 TurboGears2
 tuxanci
 tuxguitar
@@ -19326,7 +18683,6 @@ twa
 tweak
 tweeny
 twincam
-twinkle
 twirssi
 twitter-twemoji-fonts
 twlog
@@ -19356,12 +18712,10 @@ ubertooth
 ubloxcfg
 uboot-tools
 ubridge
-ubu-keyring
 ucarp
 ucblogo
 uClibc
 ucl
-ucommon
 ucpp
 ucs-miscfixed-fonts
 ucviewer
@@ -19399,7 +18753,6 @@ uim
 uisp
 ukij-tuz-fonts
 ularn
-ulauncher
 ultimarc
 ultimatestunts
 umbrello
@@ -19414,7 +18767,6 @@ unetbootin
 un-extra-fonts
 unhide
 unibilium
-unicode-emoji
 unicode-ucd
 unicornscan
 unicorn
@@ -19433,7 +18785,6 @@ unixcw
 unixODBC-gui-qt
 unixODBC
 unlambda
-unoconv
 unpaper
 unrealircd
 unresolved
@@ -19482,7 +18833,6 @@ usbsoftrock
 usbtop
 usbutils
 usbview
-usd
 usermode
 userspace-rcu
 usnic-tools
@@ -19592,7 +18942,6 @@ vim-command-t
 vim-commentary
 vim-ctrlp
 vim-devicons
-vim-editorconfig
 vim-fugitive-gitlab
 vim-fugitive-pagure
 vim-fugitive
@@ -19617,7 +18966,6 @@ vim-rhubarb
 vim
 vim-syntastic
 vim-taglist
-vim-toml
 vim-trailing-whitespace
 vinagre
 vinci
@@ -19649,7 +18997,6 @@ vkeybd
 vkmark
 vlfrx-tools
 vl-gothic-fonts
-vlgothic-fonts
 vmaf
 vmemcache
 vmmlib
@@ -19661,7 +19008,6 @@ vncpwd
 vnc-reflector
 vnstat
 vodovod
-voikko-fi
 vokoscreenNG
 volk
 volpack
@@ -19739,7 +19085,6 @@ wcd
 wcm
 wcslib
 wcstools
-wdiff
 wdisplays
 wdsp
 wdt
@@ -19817,7 +19162,6 @@ wise2
 withlock
 wkhtmltopdf
 wl-clipboard
-wlcs
 wl-gammactl
 wl-mirror
 wlogout
@@ -19843,7 +19187,6 @@ wmweather+
 wmx
 wob
 WoeUSB
-woff
 woffTools
 woff2
 wofi
@@ -19872,7 +19215,6 @@ wqy-bitmap-fonts
 wqy-microhei-fonts
 wqy-unibit-fonts
 wqy-zenhei-fonts
-writerperfect
 writer2latex
 ws-commons-util
 wsdd
@@ -19893,10 +19235,8 @@ wxGTK3
 wxmacmolplt
 wxMaxima
 wxsqlite3
-wyhash
 w3c-markup-validator
 w3m
-xalan-c
 xalan-j2
 xaos
 xapian-bindings
@@ -20033,10 +19373,8 @@ xfdesktop
 xfe
 xfhell
 xfig
-xflr5
 xfmpc
 xfoil
-xfontsel
 xforms
 xfpanel-switch
 xfsdump
@@ -20067,7 +19405,6 @@ xlcrack
 xloadimage
 xload
 xlockmore
-xlogo
 xlog
 xlsatoms
 xlsclients
@@ -20266,8 +19603,8 @@ yelp-tools
 yelp-xsl
 yersinia
 yggdrasil
-yices
 ykclient
+ykocli
 ykpers
 ykushcmd
 yle-dl
