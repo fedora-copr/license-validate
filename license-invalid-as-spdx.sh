@@ -2,9 +2,9 @@
 
 SPEC="$1"
 
-LICENSE=$(grep '^License:' "rpm-specs/${SPEC}.spec" | cut '-d:' -f2- )
-
-if license-validate --old "$LICENSE" >/dev/null;  then
+grep '^License:' "rpm-specs/${SPEC}.spec" | cut '-d:' -f2- | \
+while read -r LICENSE; do 
+  if license-validate --old "$LICENSE" >/dev/null;  then
         if license-validate "$LICENSE" >/dev/null; then
                 echo "$1 warning: valid as old and new and no changelong entry, please check"
         else
@@ -22,5 +22,6 @@ else
         else
                 echo "$1 warning: not valid neither as Callaway nor as SPDX, please check"
         fi
-fi
+  fi
+done
 
