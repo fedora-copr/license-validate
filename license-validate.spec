@@ -1,5 +1,5 @@
 Name:           license-validate
-Version:        14
+Version:        15
 Release:        1%{?dist}
 Summary:        Validate SPEC license string
 
@@ -69,6 +69,9 @@ install -m644 license-fedora2spdx.1 %{buildroot}/%{_mandir}/man1/
 
 
 %changelog
+* Fri Dec 30 2022 Miroslav Suchý <msuchy@redhat.com> 15-1
+- use new format of fedora-licenses.json
+
 * Wed Nov 16 2022 Miroslav Suchý <msuchy@redhat.com> 14-1
 - stress the need to choose licesense when there is more options
 
