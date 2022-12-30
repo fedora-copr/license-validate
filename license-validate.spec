@@ -1,5 +1,5 @@
 Name:           license-validate
-Version:        16
+Version:        17
 Release:        1%{?dist}
 Summary:        Validate SPEC license string
 
@@ -70,6 +70,9 @@ install -m644 license-fedora2spdx.1 %{buildroot}/%{_mandir}/man1/
 
 
 %changelog
+* Fri Dec 30 2022 Miroslav Suchý <msuchy@redhat.com> 17-1
+- add python as BR
+
 * Fri Dec 30 2022 Miroslav Suchý <msuchy@redhat.com> 16-1
 - use correct legacy shortnames
 
