@@ -24,8 +24,8 @@ for license in data.values():
         license_item = license.get("license")
         fedora_item = license.get("fedora")
         if license_item and set_allowed_values.intersection(set(license_item["status"])) and \
-                fedora_item and fedora_item["legacy-name"]:
-                licenses_list.extend(fedora_item["legacy-name"])
+                fedora_item and fedora_item["legacy-abbreviation"]:
+                licenses_list.extend(fedora_item["legacy-abbreviation"])
 
 print('\n'.join(licenses_list))
 
