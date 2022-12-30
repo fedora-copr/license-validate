@@ -13,6 +13,7 @@ BuildArch:      noarch
 
 Requires:       fedora-license-data
 BuildRequires:  fedora-license-data
+BuildRequires:  python3-devel
 
 # man pages
 BuildRequires:  asciidoc
