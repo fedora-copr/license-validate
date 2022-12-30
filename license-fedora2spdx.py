@@ -6,6 +6,15 @@ from lark import Lark, Transformer, v_args
 from lark.exceptions import LarkError
 import json
 
+allowed_values = [
+    "allowed",
+    "allowed-content",
+    "allowed-documentation",
+    "allowed-fonts",
+    "allowed-firmware",
+]
+set_allowed_values = set(allowed_values)
+
 class T(Transformer):
     def license_item(self, s):
         return str(s[0])
@@ -60,23 +69,26 @@ if not os.path.exists(filename):
 with open(filename) as f:
     grammar = f.read()
 
-# read data from rpminspect-data-fedora and populate LICENSES, COUNT and VARIATIONS
+# read data from fedora-license-data and populate LICENSES, COUNT and VARIATIONS
 for l in data.keys():
-    if "spdx_abbrev" in data[l]:
-        if data[l].get("approved") != "yes":
+    license_item = data[l].get("license")
+    fedora_item = data[l].get("fedora")
+    if license_item:
+        if not set_allowed_values.intersection(set(license_item["status"])):
             continue
-        if "fedora_abbrev" not in data[l]:
+        if not fedora_item or not fedora_item["legacy-abbreviation"]:
             continue
-        LICENSES[data[l]["fedora_abbrev"]] = data[l]["spdx_abbrev"]
-        COUNT[data[l]["fedora_abbrev"]] = COUNT.get(data[l]["fedora_abbrev"], 0) + 1
-        spdx = data[l]["spdx_abbrev"]
-        if not spdx:
-            spdx = "no-spdx-yet ({})".format(l)
-        if VARIATIONS.get(data[l]["fedora_abbrev"]):
-            if spdx not in VARIATIONS[data[l]["fedora_abbrev"]]:
-                VARIATIONS[data[l]["fedora_abbrev"]].append(spdx)
-        else:
-            VARIATIONS[data[l]["fedora_abbrev"]] = [spdx]
+        for legacy_abbrev in fedora_item["legacy-abbreviation"]:
+            spdx = license_item["expression"]
+            LICENSES[legacy_abbrev] = spdx
+            COUNT[legacy_abbrev] = COUNT.get(legacy_abbrev, 0) + 1
+            if not spdx:
+                spdx = "no-spdx-yet ({})".format(l)
+            if VARIATIONS.get(legacy_abbrev):
+                if spdx not in VARIATIONS[legacy_abbrev]:
+                    VARIATIONS[legacy_abbrev].append(spdx)
+            else:
+                VARIATIONS[legacy_abbrev] = [spdx]
 
 parser = Lark(grammar, parser="lalr", keep_all_tokens=True)
 

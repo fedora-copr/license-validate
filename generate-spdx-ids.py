@@ -7,13 +7,23 @@ approved licenses.
 
 import json
 
+allowed_values = [
+    "allowed",
+    "allowed-content",
+    "allowed-documentation",
+    "allowed-fonts",
+    "allowed-firmware",
+]
+set_allowed_values = set(allowed_values)
+
 file_data = open("/usr/share/fedora-license-data/licenses/fedora-licenses.json", "r")
 data = json.load(file_data)
 
 licenses_list = []
 for license in data.values():
-        if license.get("approved") == "yes":
-                licenses_list.append(license.get("spdx_abbrev"))
+    license_item = license.get("license")
+    if license_item and set_allowed_values.intersection(set(license_item["status"])):
+        licenses_list.append(license_item["expression"])
 
-print('\n'.join(licenses_list))
+print('\n'.join(set(licenses_list)))
 
