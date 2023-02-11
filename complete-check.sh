@@ -1,4 +1,6 @@
 #!/usr/bin/bash
+rm -rf rpm-specs/*
+rm -f final_just_packages.txt
 
 # creates package-license.txt and license.txt
 ./download-all-fedora-licenses
