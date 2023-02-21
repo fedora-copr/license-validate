@@ -1,11 +1,12 @@
 #!/usr/bin/bash
 
-test -d /var/tmp/spdx || mkdir /var/tmp/spdx/
+test -d ~/spdx || mkdir ~/spdx/
 
-pushd /var/tmp/spdx/ >/dev/null
+pushd ~/spdx/ >/dev/null
 
 if [ -d "$1" ]; then
         cd "$1"
+        git reset --hard HEAD
         timeout 60 fedpkg pull
 else
         timeout 60 fedpkg clone -a "$1" -- -q >/dev/null
