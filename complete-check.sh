@@ -10,6 +10,7 @@ rm -f final_just_packages.txt
 # rubygem and rust is handled separately
 grep -v '^rubygem-' |grep -v '^rust-' | tee packages-without-spdx-in-spec-changelog-grepped.txt | \
 ./packages-without-spdx-in-distgit-changelog.sh | tee ./packages-without-spdx-in-distgit-changelog.txt | \
+./packages-before-spdx-was-standard.sh | tee ./packages-before-spdx-was-standard.txt | \
 ./packages-with-invalid-license.sh > packages-without-spdx-final.txt
 
 cat final_just_packages.txt |sort | uniq > /tmp/final_just_packages.txt
