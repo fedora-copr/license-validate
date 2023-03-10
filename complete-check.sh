@@ -7,8 +7,8 @@ rm -f final_just_packages.txt
 
 
 ./packages-without-spdx-in-spec-changelog.sh | tee ./packages-without-spdx-in-spec-changelog.txt | \
-# rubygem and rust is handled separately
-grep -v '^rubygem-' |grep -v '^rust-' | tee packages-without-spdx-in-spec-changelog-grepped.txt | \
+# ignore packages reported by maintainers that are ok, but do not have {spec,git}log entry
+./ignore-packages.py | tee packages-without-spdx-in-spec-changelog-grepped.txt | \
 ./packages-without-spdx-in-distgit-changelog.sh | tee ./packages-without-spdx-in-distgit-changelog.txt | \
 ./packages-before-spdx-was-standard.sh | tee ./packages-before-spdx-was-standard.txt | \
 ./packages-with-invalid-license.sh > packages-without-spdx-final.txt
