@@ -1,0 +1,29 @@
+# each package on separate line
+# string is evaluated as a regexp
+# comments and empty lines are ignored
+
+# Maxwell G (@gotmax23) reported these as false positives
+golang-github-a8m-envsubst
+golang-github-agnivade-levenshtein
+golang-github-elliotchance-orderedmap
+golang-github-emersion-mbox
+golang-github-emersion-msgauth
+golang-github-goccy-yaml
+golang-github-jba-printsrc
+golang-github-onsi-ginkgo-2
+golang-github-task-slim-sprig
+golang-github-vektah-gqlparser-2
+golang-sr-emersion-gqlclient
+golang-sr-emersion-scfg
+golang-sr-rockorager-tcell-term
+python-ansible-compat
+python-ntlm-auth
+python-requests_ntlm
+python-tomli-w
+yt-dlp
+
+# ignore for now, pvalena should handle it
+^rubygem-*
+
+# ignore for now, most of the rust packages are generated and will be automatically updated via new template when rebased 
+^rust-*
