@@ -8,7 +8,8 @@ that matches at least one regexp in "ignore-packages.txt"
 import re
 import sys
 
-filename = "ignore-packages.txt"
+#filename = "ignore-packages.txt"
+filename = sys.argv[1]
 regex_list = []
 
 def matches_regex_list(regex_list, string):
