@@ -572,6 +572,7 @@ btrbk
 btrfs-fuse
 btrfs-heatmap
 btrfsmaintenance
+btrfs-sxbackup
 bubblemon
 budgie-control-center
 budgie-screensaver
@@ -746,8 +747,10 @@ clementine
 clevis-pin-tpm2
 clevis
 clinfo
+clingo
 clipit
 clipman
+clipsmm
 clips
 clitest
 cloc
@@ -957,6 +960,7 @@ cstream
 cswrap
 ctan-cm-lgc-fonts
 ctan-kerkis-fonts
+ctemplate
 ctk
 CTL
 CTML
@@ -1114,6 +1118,7 @@ DevIL
 devio
 devtodo
 dev86
+dex-autostart
 dex
 d-feet
 dfu-programmer
@@ -1197,6 +1202,7 @@ dnfdragora
 dnf-plugin-cow
 dnf-plugin-diff
 dnf-plugin-flunk_dependent_remove
+dnf-plugin-ovl
 dnf-plugin-perfmetrics
 dnf-plugins-core
 dnf-plugins-extras
@@ -1248,6 +1254,7 @@ dosfstools
 dotconf
 dotnet6.0
 dotnet7.0
+dot2tex
 double-conversion
 douceur
 dovecot-fts-xapian
@@ -1459,6 +1466,7 @@ enlightenment
 enscript
 ensmallen
 entangle
+entr
 entypo-fonts
 enum
 environment-modules
@@ -1653,6 +1661,7 @@ falkon
 fann
 fantasdic
 fapg
+fapolicyd
 farstream02
 fastback
 fastbit
@@ -2065,6 +2074,7 @@ ghc-base-orphans
 ghc-base-prelude
 ghc-bower-json
 ghc-call-stack
+ghc-cautious-file
 ghc-control-monad-free
 ghc-cookie
 ghc-doctest
@@ -2072,11 +2082,13 @@ ghc-hoauth2
 ghc-hspec-core
 ghc-hspec-discover
 ghc-hspec
+ghc-htoml
 ghc-http-client-openssl
 ghc-http-client-restricted
 ghc-http-client
 ghc-http-client-tls
 ghc-monad-logger
+ghc-oeis
 ghc-protolude
 ghc-relude
 ghc-repline
@@ -2130,6 +2142,7 @@ gio-qt
 gio-sharp
 gip
 gir-to-d
+GitPython
 giver
 gjs
 gkermit
@@ -4029,6 +4042,7 @@ ilua
 ima-evm-utils
 imagefactory-plugins
 imagefactory
+imagej
 ImageMagick
 imake
 imapfilter
@@ -4761,6 +4775,7 @@ lcmaps
 lcov
 ldapdiff
 ldapdomaindump
+ldapjdk
 ldapvi
 ldc
 ldc1.30
@@ -4916,6 +4931,7 @@ libesedb
 libesmtp
 libestr
 libetnaviv
+libetpan
 libevdevPlus
 libevdev
 libevent
@@ -5661,6 +5677,7 @@ mallard-rng
 maloc
 mame
 manafirewall
+man-db
 mandoc
 manedit
 mangohud
@@ -6269,6 +6286,7 @@ mup
 muse
 MUSIC
 musl
+mu
 mussh
 mutter
 mutt
@@ -6700,6 +6718,7 @@ oneko
 onesixtyone
 oneVPL-intel-gpu
 oneVPL
+oniguruma
 onionscan
 onionshare
 oomd
@@ -6869,6 +6888,7 @@ pacman
 pacrunner
 padthv1
 paflib
+pag
 pagure-dist-git
 pagure
 paho-c
@@ -7121,11 +7141,13 @@ perl-Class-Forward
 perl-Class-Inner
 perl-Class-Iterator
 perl-Class-Measure
+perl-Class-MethodMaker
 perl-Class-Prototyped
 perl-Class-Refresh
 perl-CLASS
 perl-Class-Std-Fast
 perl-Class-Std
+perl-Class-Trigger
 perl-Class-Virtual
 perl-Class-Whitehole
 perl-CLI-Osprey
@@ -7136,7 +7158,9 @@ perl-Color-Calc
 perl-Color-Library
 perl-CommonMark
 perl-common-sense
+perl-Compress-LZF
 perl-Compress-Stream-Zstd
+perl-Config-Any
 perl-Config-ApacheFormat
 perl-Config-Augeas
 perl-Config-Auto
@@ -7157,18 +7181,25 @@ perl-Config-Properties
 perl-ConfigReader
 perl-Config-Simple
 perl-Config-Std
+perl-Config-Tiny
 perl-Config-Validator
 perl-Config-ZOMG
 perl-Const-Fast
+perl-Contextual-Return
 perl-Convert-Age
 perl-Convert-Base32
+perl-Convert-Bencode
+perl-Convert-PEM
 perl-criticism
 perl-Crypt-Blowfish_PP
 perl-Crypt-Blowfish
 perl-Crypt-CBC
 perl-Crypt-CipherSaber
+perl-Crypt-Cracklib
 perl-Crypt-DES_EDE3
 perl-Crypt-DES
+perl-Crypt-DH
+perl-Crypt-DSA
 perl-Crypt-ECB
 perl-Crypt-GCrypt
 perl-Crypt-GeneratePassword
@@ -7184,15 +7215,18 @@ perl-Crypt-OpenSSL-PKCS10
 perl-Crypt-OpenSSL-Random
 perl-Crypt-OpenSSL-RSA
 perl-Crypt-OpenSSL-X509
+perl-Crypt-PBKDF2
 perl-Crypt-PWSafe3
 perl-Crypt-Random-Seed
 perl-Crypt-Random-Source
 perl-Crypt-RandPasswd
 perl-Crypt-RC4
 perl-Crypt-RC4-XS
+perl-Crypt-Rijndael
 perl-Crypt-Salsa20
 perl-Crypt-ScryptKDF
 perl-Crypt-Simple
+perl-Crypt-SmbHash
 perl-Crypt-SMIME
 perl-Crypt-UnixCrypt_XS
 perl-Crypt-URandom
@@ -7214,6 +7248,7 @@ perl-Data-Entropy
 perl-Data-Faker
 perl-Data-FormValidator-Constraints-DateTime
 perl-Data-FormValidator
+perl-Data-HexDump
 perl-Data-Hexify
 perl-Data-Hierarchy
 perl-Data-IEEE754
@@ -7231,6 +7266,8 @@ perl-Data-Random
 perl-Data-Record
 perl-Data-Report
 perl-Data-Rmap
+perl-Data-Section-Simple
+perl-Data-Section
 perl-Data-Serializer
 perl-Data-Stream-Bulk
 perl-Data-Structure-Util
@@ -7254,6 +7291,7 @@ perl-DBD-Firebird
 perl-DBD-Mock
 perl-DBD-ODBC
 perl-DBD-XBase
+perl-DBM-Deep
 perl-DepGen-Perl-Tests
 perl-Devel-ArgNames
 perl-Devel-Autoflush
@@ -7345,6 +7383,7 @@ perl-File-FindLib
 perl-File-Find-utf8
 perl-File-Flock
 perl-File-FnMatch
+perl-FileHandle-Fmode
 perl-FileHandle-Unget
 perl-File-HomeDir
 perl-File-chdir
@@ -7352,6 +7391,7 @@ perl-File-KeePass
 perl-File-LibMagic
 perl-File-LoadLines
 perl-File-Map
+perl-File-MMagic
 perl-File-MMagic-XS
 perl-File-Next
 perl-File-pushd
@@ -7590,6 +7630,7 @@ perl-lib-abs
 perl-libintl-perl
 perl-Library-CallNumber-LC
 perl-libwhisker2
+perl-libxml-perl
 perl-Lingua-EN-Alphabet-Shaw
 perl-Lingua-EN-Inflect-Number
 perl-Lingua-EN-Inflect
@@ -7646,6 +7687,7 @@ perl-Math-Factor-XS
 perl-Math-FFT
 perl-Math-GMP
 perl-Math-Int128
+perl-Math-Int64
 perl-Math-Libm
 perl-Math-NumSeq
 perl-Math-PlanePath
@@ -7716,6 +7758,8 @@ perl-Net-Lite-FTP
 perl-Net-MQTT-Simple
 perl-Net-NBName
 perl-Net-OAuth
+perl-Net-OpenID-Consumer
+perl-Net-OpenID-Server
 perl-Net-OpenSSH
 perl-NetPacket-LLC
 perl-NetPacket-SpanningTree
@@ -7781,6 +7825,7 @@ perl-PDF-Create
 perl-PDF-Haru
 perl-Perlbal-XS-HTTPHeaders
 perl-Perl-Destruct-Level
+perl-perlfaq
 perl-perlindex
 perl-PerlIO-buffersize
 perl-PerlIO-eol
@@ -8044,6 +8089,7 @@ perl-Test-Moose-More
 perl-Test-More-UTF8
 perl-Test-mysqld
 perl-Test-Name-FromLine
+perl-Test-Needs
 perl-Test-Net-LDAP
 perl-Test-NoBreakpoints
 perl-Test-NoPlan
@@ -8142,6 +8188,7 @@ perl-Text-SpellChecker
 perl-Text-Sprintf-Named
 perl-Text-Table
 perl-Text-Table-Tiny
+perl-Text-Tabs+Wrap
 perl-Text-TabularDisplay
 perl-Text-Textile
 perl-Text-Tree
@@ -9149,6 +9196,7 @@ python-authheaders
 python-authlib
 python-authres
 python-autobahn
+python-autograd
 python-automaton
 python-Automat
 python-autopage
@@ -9366,6 +9414,7 @@ python-cli-helpers
 python-cloudant
 python-cloudflare
 python-cloudpickle
+python-cloudscraper
 python-cloud-sptheme
 python-cmarkgfm
 python-cma
@@ -9769,6 +9818,7 @@ python-giacpy
 python-gilt
 python-gios
 python-gitapi
+python-gitdb
 python-github3py
 python-git-changelog
 python-gitlab
@@ -9860,6 +9910,7 @@ python-hypothesis
 python-hypothesmith
 python-h11
 python-h2
+python-h5io
 python-chai
 python-chameleon
 python-chaospy
@@ -10076,6 +10127,7 @@ python-matrix-synapse-ldap3
 python-maxminddb
 python-maya
 python-mccabe
+python-mdit-py-plugins
 python-mdurl
 python-mdx_gh_links
 python-meautility
@@ -10146,6 +10198,7 @@ python-msrest
 python-mujson
 python-mulpyplexer
 python-multi_key_dict
+python-multilib
 python-munch
 python-munkres
 python-murano-pkg-check
@@ -10158,6 +10211,7 @@ python-myhdl
 python-myrepos-utils
 python-mysqlclient
 python-mysql
+python-myst-parser
 python-mystrom
 python-m2r
 python-nagiosplugin
@@ -10819,6 +10873,7 @@ python-smbc
 python-smbpasswd
 python-smbprotocol
 python-smi
+python-smmap
 python-snappy
 python-snaptime
 python-sniffio
@@ -12315,6 +12370,7 @@ smtpping
 s-nail
 snakeyaml
 snallygaster
+snapper
 snappy
 sndfile-tools
 snes_ntsc
@@ -12583,6 +12639,7 @@ tarantool
 targetcli
 targetd
 target-isns
+tar
 taskd
 taskopen
 tasksh
@@ -13241,6 +13298,7 @@ wireplumber
 wise2
 withlock
 wkhtmltopdf
+wl-clipboard
 wl-gammactl
 wlogout
 wlr-sunclock
@@ -13612,10 +13670,12 @@ yapet
 yara
 yarnpkg
 yaru-theme
+yash
 yasm
 yast2-devtools
 yast2-filesystem
 yawn
+yaz
 ydiff
 ydotool
 yelp
@@ -13679,6 +13739,7 @@ zita-resampler
 zita-rev1
 zlib-ada
 zlib-ng
+zlib
 zmap
 zmat
 znc-clientbuffer
