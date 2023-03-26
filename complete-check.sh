@@ -9,11 +9,13 @@ wget https://tiny.distro.builders/view-all-source-package-name-list--view-eln.tx
 ./download-all-fedora-licenses
 
 
-./packages-without-spdx-in-spec-changelog.sh | tee ./packages-without-spdx-in-spec-changelog.txt | \
+#./packages-without-spdx-in-spec-changelog.sh | tee ./packages-without-spdx-in-spec-changelog.txt | \
 # ignore packages reported by maintainers that are ok, but do not have {spec,git}log entry
-./ignore-packages.py ignore-packages.txt | tee packages-without-spdx-in-spec-changelog-grepped.txt | \
+#./ignore-packages.py ignore-packages.txt | tee packages-without-spdx-in-spec-changelog-grepped.txt | \
 # ignore packages that has been already migrated
-#./ignore-packages.py already-migrated-packages.txt | tee packages-has-not-been-migrated.txt | \
+##./ignore-packages.py already-migrated-packages.txt | tee packages-has-not-been-migrated.txt | \
+
+cat packages-without-spdx-in-spec-changelog-grepped.txt | \
 ./packages-without-spdx-in-distgit-changelog.sh | tee ./packages-without-spdx-in-distgit-changelog.txt | \
 ./packages-before-spdx-was-standard.sh | tee ./packages-before-spdx-was-standard.txt | \
 ./packages-with-invalid-license.sh > packages-without-spdx-final.txt
