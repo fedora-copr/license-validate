@@ -17,7 +17,7 @@ with open(opts.licenses) as f:
         if line.startswith('#'):
             continue
         line = line.strip()
-        ITEMS['"{}"'.format(line)] = 1
+        ITEMS['"{}"i'.format(line)] = 1
 
 grammar += "license_item: {0}".format('|'.join(ITEMS.keys()))
 
