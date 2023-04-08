@@ -11,6 +11,7 @@ ImageMagick
 Judy
 LibRaw
 Lmod
+MUMPS
 ModemManager
 NetworkManager
 NetworkManager-libreswan
@@ -19,6 +20,8 @@ PEGTL
 PackageKit
 PyQt-builder
 PyYAML
+R
+R-rpm-macros
 SDL2
 SuperLU
 WALinuxAgent
@@ -62,6 +65,7 @@ anthy
 anthy-unicode
 antlr
 aom
+aopalliance
 apache-commons-beanutils
 apache-commons-cli
 apache-commons-codec
@@ -184,6 +188,7 @@ cereal
 certmonger
 cfitsio
 cglib
+cgnslib
 chan
 check
 checkpolicy
@@ -202,6 +207,7 @@ cldr-emoji-annotation
 clevis
 clevis-pin-tpm2
 cli11
+cliquer
 clisp
 cloud-init
 cloud-utils
@@ -220,6 +226,16 @@ cockpit-podman
 cockpit-session-recording
 codec2
 cogl
+coin-or-Cbc
+coin-or-Cgl
+coin-or-Clp
+coin-or-CoinUtils
+coin-or-Data-Netlib
+coin-or-Data-miplib3
+coin-or-DyLP
+coin-or-Osi
+coin-or-Sample
+coin-or-Vol
 colm
 color-filesystem
 colord
@@ -455,6 +471,7 @@ gdisk
 gdk-pixbuf2
 gdk-pixbuf2-xlib
 gdm
+gecode
 gedit
 gedit-plugins
 gegl04
@@ -511,6 +528,7 @@ ghc-comonad
 ghc-conduit
 ghc-conduit-extra
 ghc-connection
+ghc-constraints
 ghc-contravariant
 ghc-cookie
 ghc-cryptonite
@@ -525,7 +543,6 @@ ghc-digest
 ghc-distributive
 ghc-dlist
 ghc-doctemplates
-ghc-enclosed-exceptions
 ghc-extra
 ghc-fast-logger
 ghc-file-embed
@@ -555,7 +572,6 @@ ghc-integer-logarithms
 ghc-iproute
 ghc-js-flot
 ghc-js-jquery
-ghc-lifted-base
 ghc-logging-facade
 ghc-memory
 ghc-mime-types
@@ -585,7 +601,6 @@ ghc-semigroupoids
 ghc-servant
 ghc-servant-server
 ghc-setenv
-ghc-shelly
 ghc-simple-sendfile
 ghc-singleton-bool
 ghc-skylighting
@@ -664,6 +679,7 @@ glibc32
 glibmm2.4
 glm
 glog
+glpk
 glslang
 glusterfs
 glyphicons-halflings-fonts
@@ -708,6 +724,7 @@ gnu-efi
 gnu-free-fonts
 gnulib
 gnupg2
+gnuplot
 gnutls
 go-rpm-macros
 go-toolset
@@ -1041,6 +1058,7 @@ jackson-jaxrs-providers
 jackson-modules-base
 jackson-parent
 jacoco
+jacop
 jakarta-activation
 jakarta-activation1
 jakarta-annotations
@@ -1059,6 +1077,7 @@ java-17-openjdk-portable
 java-diff-utils
 java_cup
 javacc
+javacc-maven-plugin
 javaewah
 javapackages-tools
 javapoet
@@ -1097,6 +1116,7 @@ jq
 js-d3-flame-graph
 js-jquery
 jsch
+json
 json-c
 json-glib
 jsoncpp
@@ -1214,6 +1234,7 @@ libcbor
 libcdio
 libcdio-paranoia
 libcdr
+libcerf
 libcgif
 libcloudproviders
 libcmis
@@ -1287,6 +1308,7 @@ libgweather4
 libgxps
 libhandy
 libhangul
+libharu
 libheif
 libi2cd
 libica
@@ -1298,6 +1320,7 @@ libieee1284
 libiio
 libijs
 libinput
+libiodbc
 libipt
 libiptcdata
 libiscsi
@@ -1522,6 +1545,7 @@ llhttp
 llvm
 llvm-toolset
 llvm12
+llvm15
 lm_sensors
 lmdb
 lockdev
@@ -1653,14 +1677,11 @@ microdnf
 micropipenv
 mimalloc
 mingw-binutils
-mingw-bzip2
 mingw-crt
 mingw-curl
 mingw-dlfcn
-mingw-expat
 mingw-fftw
 mingw-filesystem
-mingw-freetype
 mingw-gcc
 mingw-gettext
 mingw-glib2
@@ -1670,7 +1691,6 @@ mingw-hunspell
 mingw-lcms2
 mingw-libffi
 mingw-libidn2
-mingw-libimagequant
 mingw-libjpeg-turbo
 mingw-libpng
 mingw-libssh2
@@ -1680,14 +1700,10 @@ mingw-openssl
 mingw-pcre2
 mingw-pdcurses
 mingw-pixman
-mingw-python-setuptools
-mingw-python3
 mingw-readline
 mingw-sqlite
 mingw-srvany
-mingw-tcl
 mingw-termcap
-mingw-tk
 mingw-w64-tools
 mingw-win-iconv
 mingw-winpthreads
@@ -1716,6 +1732,7 @@ mod_security
 mod_security_crs
 mod_wsgi
 modello
+modulemaker-maven-plugin
 modulemd-tools
 mojo-parent
 mokutil
@@ -1723,6 +1740,7 @@ mold
 motif
 mozilla-filesystem
 mozjs102
+mp
 mpdecimal
 mpfr
 mpg123
@@ -1738,7 +1756,6 @@ mtools
 mtr
 multilib-rpm-config
 munge
-munge-maven-plugin
 mupdf
 mutt
 mutter
@@ -1772,6 +1789,7 @@ mythes-uk
 nano
 nasm
 nautilus
+nauty
 navilu-fonts
 nbdkit
 ncompress
@@ -1783,6 +1801,7 @@ net-tools
 netavark
 netcat
 netcdf
+netcdf-cxx
 netcdf4-python
 netlabel_tools
 netpbm
@@ -1892,6 +1911,8 @@ openjade
 openjpeg2
 openldap
 openmpi
+openni
+openni-primesense
 openoffice-lv
 openoffice.org-dict-cs_CZ
 openpgm
@@ -1905,7 +1926,6 @@ openssh
 openssl
 openssl-ibmca
 openssl-pkcs11
-openssl1.1
 opentest4j
 openwsman
 opus
@@ -2557,6 +2577,7 @@ plotutils
 plymouth
 pmix
 pmreorder
+pngcrush
 pnm2ppa
 po4a
 podman
@@ -2592,6 +2613,7 @@ pstoedit
 psutils
 pt-sans-fonts
 publicsuffix-list
+pugixml
 pulseaudio
 py3c
 pyOpenSSL
@@ -2788,6 +2810,7 @@ python-gssapi
 python-gunicorn
 python-h11
 python-hacking
+python-hamcrest
 python-hatch-fancy-pypi-readme
 python-hatch-jupyter-builder
 python-hatch-vcs
@@ -2962,7 +2985,6 @@ python-poetry-core
 python-polib
 python-pooch
 python-portalocker
-python-pretend
 python-prettytable
 python-productmd
 python-progressbar2
@@ -3113,6 +3135,7 @@ python-sphinx-issues
 python-sphinx-last-updated-by-git
 python-sphinx-pytest
 python-sphinx-sitemap
+python-sphinx-tabs
 python-sphinx-theme-alabaster
 python-sphinx-theme-builder
 python-sphinx-typlog-theme
@@ -3126,6 +3149,7 @@ python-sphinxcontrib-devhelp
 python-sphinxcontrib-github-alt
 python-sphinxcontrib-htmlhelp
 python-sphinxcontrib-httpdomain
+python-sphinxcontrib-jquery
 python-sphinxcontrib-jsmath
 python-sphinxcontrib-log-cabinet
 python-sphinxcontrib-programoutput
@@ -3174,6 +3198,7 @@ python-tpm2-pytss
 python-tqdm
 python-traitlets
 python-trio
+python-trove-classifiers
 python-trustme
 python-twisted
 python-typeguard
@@ -3242,13 +3267,7 @@ python3-gflags
 python3-mallard-ducktype
 python3-mypy
 python3-typed_ast
-python3.10
 python3.11
-python3.12
-python3.6
-python3.7
-python3.8
-python3.9
 pythran
 pytz
 pyusb
@@ -3287,6 +3306,7 @@ qt5-qttranslations
 qt5-qtwayland
 qt5-qtwebchannel
 qt5-qtwebengine
+qt5-qtwebkit
 qt5-qtwebsockets
 qt5-qtx11extras
 qt5-qtxmlpatterns
@@ -3536,14 +3556,13 @@ rubygem-xpath
 rubygem-zeitwerk
 runc
 rust
-rust-Inflector
 rust-addr2line
 rust-adler
 rust-adler32
+rust-ahash
 rust-ahash0.4
 rust-ahash0.7
 rust-aho-corasick
-rust-aliasable
 rust-alloc-no-stdlib
 rust-alloc-stdlib
 rust-ansi_term
@@ -3556,10 +3575,7 @@ rust-arg_enum_proc_macro
 rust-arrayvec
 rust-arrayvec0.5
 rust-ascii-canvas
-rust-asn1
-rust-asn1_derive
 rust-assert-impl
-rust-assert_approx_eq
 rust-assert_cmd
 rust-assert_matches
 rust-async-channel
@@ -3576,6 +3592,7 @@ rust-backtrace
 rust-base64
 rust-base64_0.12
 rust-base64_0.13
+rust-basic-toml
 rust-bencher
 rust-bincode
 rust-bindgen
@@ -3607,9 +3624,7 @@ rust-bytesize
 rust-bzip2
 rust-bzip2-sys
 rust-cairo-rs
-rust-cairo-rs0.16
 rust-cairo-sys-rs
-rust-cairo-sys-rs0.16
 rust-caps
 rust-cargo
 rust-cargo-c
@@ -3637,7 +3652,6 @@ rust-codicon
 rust-color_quant
 rust-colored1
 rust-colorful
-rust-combine
 rust-concurrent-queue
 rust-console
 rust-const-cstr
@@ -3677,6 +3691,7 @@ rust-curl-sys
 rust-darling0.13
 rust-darling_core0.13
 rust-darling_macro0.13
+rust-dashmap
 rust-data-url
 rust-dav1d-sys
 rust-deflate0.8
@@ -3726,7 +3741,6 @@ rust-errno0.2
 rust-escargot
 rust-ethtool
 rust-event-listener
-rust-eyre
 rust-fallible-iterator
 rust-fasteval
 rust-fastrand
@@ -3760,8 +3774,6 @@ rust-futures0.1
 rust-fxhash
 rust-gdk-pixbuf
 rust-gdk-pixbuf-sys
-rust-gdk-pixbuf-sys0.16
-rust-gdk-pixbuf0.16
 rust-gdk4
 rust-gdk4-sys
 rust-generic-array
@@ -3771,26 +3783,19 @@ rust-getrandom
 rust-getrandom0.1
 rust-gettext-rs
 rust-gettext-sys
-rust-ghost
 rust-gif
 rust-gimli
 rust-gio
 rust-gio-sys
-rust-gio-sys0.16
-rust-gio0.16
 rust-gir-format-check
 rust-git2
 rust-git2-curl
 rust-glib
 rust-glib-macros
-rust-glib-macros0.16
 rust-glib-sys
-rust-glib-sys0.16
-rust-glib0.16
 rust-glob
 rust-globset
 rust-gobject-sys
-rust-gobject-sys0.16
 rust-gptman
 rust-graphene-rs
 rust-graphene-sys
@@ -3800,8 +3805,7 @@ rust-gtk4
 rust-gtk4-macros
 rust-gtk4-sys
 rust-h2
-rust-half
-rust-hashbrown0.11
+rust-hashbrown
 rust-hashbrown0.12
 rust-hashbrown0.9
 rust-heck
@@ -3831,14 +3835,10 @@ rust-im-rc
 rust-image0.23
 rust-imagequant
 rust-imagequant-sys
-rust-indenter
 rust-indexmap
 rust-indoc
-rust-indoc1
 rust-instant
 rust-interpolate_name
-rust-inventory-impl
-rust-inventory0.1
 rust-io-lifetimes
 rust-iocuddle
 rust-iovec
@@ -3852,7 +3852,6 @@ rust-ivf
 rust-jobserver
 rust-josekit
 rust-jpeg-decoder0.1
-rust-kstring
 rust-kvm-bindings
 rust-kvm-ioctls
 rust-lab
@@ -3861,6 +3860,7 @@ rust-lalrpop-util
 rust-language-tags
 rust-lazy_static
 rust-lazycell
+rust-lexopt
 rust-libadwaita
 rust-libadwaita-sys
 rust-libc
@@ -3901,6 +3901,7 @@ rust-mime
 rust-minimal-lexical
 rust-miniz_oxide
 rust-miniz_oxide0.3
+rust-miniz_oxide0.5
 rust-mio
 rust-mio-extras
 rust-mio-uds
@@ -3927,7 +3928,6 @@ rust-new_debug_unreachable
 rust-nix
 rust-nix0.22
 rust-nix0.23
-rust-nix0.24
 rust-no-panic
 rust-nodrop
 rust-noisy_float
@@ -3961,15 +3961,11 @@ rust-ordered-multimap0.3
 rust-os_info
 rust-os_pipe0.9
 rust-os_str_bytes
-rust-ouroboros
-rust-ouroboros_macro
 rust-packaging
 rust-pango
 rust-pango-sys
-rust-pango-sys0.16
-rust-pango0.16
-rust-pangocairo-sys0.16
-rust-pangocairo0.16
+rust-pangocairo
+rust-pangocairo-sys
 rust-parking
 rust-parking_lot
 rust-parking_lot0.11
@@ -3978,18 +3974,19 @@ rust-parking_lot_core0.8
 rust-paste
 rust-pathdiff
 rust-peeking_take_while
-rust-pem
 rust-percent-encoding
 rust-permutohedron
 rust-pest
 rust-pest_generator
 rust-pest_meta
 rust-petgraph
+rust-phf
 rust-phf0.8
 rust-phf_codegen
+rust-phf_codegen0.8
 rust-phf_generator
 rust-phf_generator0.8
-rust-phf_macros0.8
+rust-phf_macros
 rust-phf_shared
 rust-phf_shared0.8
 rust-picky-asn1
@@ -4030,10 +4027,6 @@ rust-ptr_meta
 rust-ptr_meta_derive
 rust-pulldown-cmark0.8
 rust-pure-rust-locales
-rust-pyo3-build-config0.15
-rust-pyo3-macros-backend0.15
-rust-pyo3-macros0.15
-rust-pyo3_0.15
 rust-quick-error
 rust-quick-error1
 rust-quickcheck
@@ -4120,6 +4113,7 @@ rust-serde_derive
 rust-serde_ignored
 rust-serde_json
 rust-serde_repr
+rust-serde_spanned
 rust-serde_stacker
 rust-serde_test
 rust-serde_urlencoded
@@ -4129,6 +4123,7 @@ rust-serde_yaml
 rust-serial_test
 rust-serial_test0.5
 rust-serial_test0.6
+rust-serial_test_derive
 rust-serial_test_derive0.5
 rust-serial_test_derive0.6
 rust-servo_arc
@@ -4175,7 +4170,6 @@ rust-sval_json
 rust-syn
 rust-syn0.15
 rust-syn1
-rust-synstructure
 rust-system-deps
 rust-tap
 rust-tar
@@ -4188,7 +4182,6 @@ rust-term0.6
 rust-termcolor
 rust-terminal_size0.1
 rust-termtree
-rust-test-generator
 rust-tester
 rust-textwrap
 rust-textwrap0.11
@@ -4231,6 +4224,8 @@ rust-tokio-util0.6
 rust-tokio0.1
 rust-toml
 rust-toml0.4
+rust-toml0.5
+rust-toml_datetime
 rust-toml_edit
 rust-toolset
 rust-tower-layer
@@ -4259,7 +4254,6 @@ rust-unicode-width
 rust-unicode-xid
 rust-unicode-xid0.1
 rust-unindent
-rust-unindent0.1
 rust-unsafe-libyaml
 rust-url
 rust-utf-8
@@ -4284,8 +4278,9 @@ rust-want
 rust-weezl
 rust-which
 rust-wide
+rust-winnow
 rust-wyz
-rust-xattr
+rust-xattr0.2
 rust-xml-rs
 rust-xml5ever
 rust-xxhash-c-sys
@@ -4324,6 +4319,7 @@ sblim-sfcCommon
 sblim-sfcb
 sblim-sfcc
 sblim-wbemcli
+scalapack
 scap-security-guide
 scap-workbench
 scapy
@@ -4471,6 +4467,7 @@ tidy
 tigervnc
 time
 tinycdb
+tinyxml
 tix
 tk
 tlog
@@ -4494,6 +4491,7 @@ traceroute
 tracker
 tracker-miners
 transfig
+tre
 tree-pkg
 trousers
 trustagent
@@ -4536,6 +4534,7 @@ usbredir
 usbutils
 usermode
 userspace-rcu
+utf8cpp
 utf8proc
 util-linux
 uuid
@@ -4567,6 +4566,7 @@ voikko-fi
 volume_key
 vsftpd
 vte291
+vtk
 vulkan-headers
 vulkan-loader
 vulkan-tools
