@@ -23,4 +23,6 @@ cat packages-without-spdx-in-spec-changelog-grepped.txt | \
 ./generate-done-list.sh
 
 cat final_just_packages.txt |sort | uniq > /tmp/final_just_packages.txt
+grep -Fx -f  not-migrated-packages.txt eln-list.txt > eln-not-migrated.txt
+./show-statistics.sh
 find-package-maintainers /tmp/final_just_packages.txt > packages-without-spdx-final-maintainers.txt
