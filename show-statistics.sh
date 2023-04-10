@@ -1,5 +1,8 @@
 #!/usr/bin/bash
 
+echo -n "SPEC files: "
+ls rpm-specs/*spec |wc -l
+ 
 echo -n "License Tags: "
 wc -l < package-license.txt
 
