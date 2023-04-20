@@ -17,7 +17,7 @@ if opts.file:
 elif opts.old:
     filename = "/usr/share/license-validate/grammar-shortnames.lark"
 else:
-    filename = "/usr/share/license-validate/grammar.lark"
+    filename = "/usr/share/fedora-license-data/grammar.lark"
     if not os.path.exists(filename):
         filename = 'full-grammar.lark'
 

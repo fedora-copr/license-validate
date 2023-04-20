@@ -21,7 +21,7 @@ OPTIONS
 -h, --help::
     Show help message and exit.
 --file FILE::
-    Read the grammar from this file. Default is `/usr/share/license-validate/grammar.lark`. And if this default does not exists then script reads `./full-grammar.lark`.
+    Read the grammar from this file. Default is `/usr/share/license-validate/grammar-shortnames.lark`. And if this default does not exists then script reads `./full-grammar-shortnames.lark`.
 --verbose, -v::
     Print more human friendly messages. Otherwise just exits with error code zero if license is valid otherwise with error code 1 if license is invalid.
 

@@ -60,7 +60,7 @@ if opts.file:
 else:
     filename = "/usr/share/license-validate/grammar-shortnames.lark"
     if not os.path.exists(filename):
-        filename = 'full-grammar.lark'
+        filename = 'full-grammar-shortnames.lark'
 
 if not os.path.exists(filename):
     print("The file {0} does not exists.".format(filename))
