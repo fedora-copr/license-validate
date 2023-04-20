@@ -1,5 +1,5 @@
 Name:           license-validate
-Version:        18
+Version:        19
 Release:        1%{?dist}
 Summary:        Validate SPEC license string
 
@@ -66,6 +66,9 @@ install -m644 license-fedora2spdx.1 %{buildroot}/%{_mandir}/man1/
 
 
 %changelog
+* Thu Apr 20 2023 Miroslav Suchý <msuchy@redhat.com> 19-1
+- use spdx grammar from fedora-license-data
+
 * Thu Apr 06 2023 Miroslav Suchý <msuchy@redhat.com> 18-1
 - SPDX identifier are case insensitive
 
