@@ -69,6 +69,7 @@ advancecomp
 adwaita-blue-gtk-theme
 adwaita-icon-theme
 adwaita-qt
+adw-gtk3-theme
 aerc
 aeskeyfind
 afetch
@@ -428,6 +429,7 @@ atkmm
 atkmm2.36
 atlas
 atmel-firmware
+atomes
 AtomicParsley
 atomic-queue
 atomic-reactor
@@ -571,6 +573,7 @@ bcm283x-firmware
 bcm43xx-fwcutter
 bcrypt
 bc
+bcunit
 bdftopcf
 bdii
 bdsync
@@ -1252,6 +1255,7 @@ cppunit
 cpputest
 cppzmq
 cproto
+cpr
 cptutils
 cpufetch
 cpuid
@@ -1979,7 +1983,6 @@ erlang-basho_stats
 erlang-bbmustache
 erlang-bear
 erlang-bitcask
-erlang-cache_tab
 erlang-certifi
 erlang-cf
 erlang-clique
@@ -2424,11 +2427,11 @@ fondo
 fontaine
 fontawesome-fonts
 fontawesome4-fonts
-fontawesome5-fonts
 fontconfig
 fontdump
 fontforge
 fontopia
+fonts-compare
 fonts-KOI8-R
 fontsquirrel-crete-round-fonts
 fonts-rpm-macros
@@ -3009,6 +3012,7 @@ ghc-filestore
 ghc-filtrable
 ghc-fingertree
 ghc-fixed
+ghc-fmt
 ghc-foldl
 ghc-formatting
 ghc-foundation
@@ -3727,6 +3731,7 @@ gnome-shell-extension-openweather
 gnome-shell-extension-pidgin
 gnome-shell-extension-pop-shell
 gnome-shell-extension-refresh-wifi
+gnome-shell-extension-screen-autorotate
 gnome-shell-extensions
 gnome-shell-extension-suspend-button
 gnome-shell-extension-system-monitor-applet
@@ -4412,6 +4417,7 @@ golang-github-hashicorp-hcl-2
 golang-github-hashicorp-immutable-radix
 golang-github-hashicorp-logutils
 golang-github-hashicorp-lru
+golang-github-hashicorp-lru-2
 golang-github-hashicorp-mdns
 golang-github-hashicorp-memberlist
 golang-github-hashicorp-memdb
@@ -5030,6 +5036,7 @@ golang-github-saracen-walker
 golang-github-satori-uuid
 golang-github-scaleway-sdk
 golang-github-seancfoley-bintree
+golang-github-seancfoley-ipaddress
 golang-github-seandolphin-bqschema
 golang-github-sean-seed
 golang-github-seccomp-libseccomp
@@ -5767,6 +5774,7 @@ gydl
 gyp
 gzip
 g2clib
+g3kb-switch
 hackrf
 hadolint
 hakrevdns
@@ -6164,13 +6172,10 @@ ibus-rime
 ibus-sayura
 ibus-skk
 ibus
-ibus-table-cyrillic
 ibus-table-extraphrase
 ibus-table-chinese
-ibus-table-latin
 ibus-table-others
 ibus-table
-ibus-table-tv
 ibus-typing-booster
 ibus-uniemoji
 ibus-unikey
@@ -6743,7 +6748,6 @@ kf5-grantleetheme
 kf5-incidenceeditor
 kf5-kactivities
 kf5-kactivities-stats
-kf5-kalarmcal
 kf5-kapidox
 kf5-karchive
 kf5-kauth
@@ -8929,6 +8933,7 @@ mingw-yaml-cpp
 mingw-zfstream
 mingw-zlib
 mingw-zstd
+miniaudio
 minicomputer
 minicom
 minigalaxy
@@ -9127,6 +9132,7 @@ mpsolve
 mp
 mpssh
 mptcpd
+mpv_inhibit_gnome
 mpv
 mp3fs
 mp3gain
@@ -9413,6 +9419,7 @@ nfswatch
 nfs4-acl-tools
 nftables
 nghttp2
+nginx-mod-modsecurity
 nginx-mod-naxsi
 nginx-mod-vts
 nginx
@@ -9578,6 +9585,7 @@ obs-service-rust2rpm
 obs-service-set_version
 obs-service-tar_scm
 obs-signd
+obs-studio
 ocaml-alcotest
 ocaml-ancient
 ocaml-astring
@@ -9973,6 +9981,7 @@ openxr
 openzwave
 open62541
 ophcrack
+optee_client
 optimizer
 options
 optipng
@@ -11399,6 +11408,7 @@ perl-Hash-Merge-Simple
 perl-Hash-Merge
 perl-Hash-MoreUtils
 perl-Hash-MultiValue
+perl-Hash-Ordered
 perl-Hash-StoredIterator
 perl-Hash-Util-FieldHash-Compat
 perl-Hash-WithDefaults
@@ -13834,6 +13844,7 @@ php-smbclient
 php
 php-splitbrain-php-archive
 php-splitbrain-php-cli
+php-splitbrain-php-jsstrip
 php-splitbrain-slika
 php-stecman-symfony-console-completion
 php-swaggest-json-diff
@@ -14020,7 +14031,6 @@ pl
 plug
 pluma-plugins
 pluma
-pluto
 plymouth-kcm
 plymouth
 plymouth-theme-breeze
@@ -14526,6 +14536,7 @@ python-azure-loganalytics
 python-azure-mgmt-advisor
 python-azure-mgmt-apimanagement
 python-azure-mgmt-appconfiguration
+python-azure-mgmt-appcontainers
 python-azure-mgmt-applicationinsights
 python-azure-mgmt-authorization
 python-azure-mgmt-automanage
@@ -15172,9 +15183,11 @@ python-flask-healthz
 python-flask-htmlmin
 python-flask-httpauth
 python-flask-login
+python-flask-mailman
 python-flask-mail
 python-flask-mako
 python-flask-migrate
+python-flask-mongoengine
 python-flask-multistatic
 python-flask-oidc
 python-flask-openid
@@ -15969,6 +15982,7 @@ python-op1svg
 python-oracledb
 python-ordered-set
 python-orderedset
+python-orjson
 python-osa
 python-osc-lib
 python-os-client-config
@@ -16241,6 +16255,7 @@ python-pyliblzfse
 python-pylibmc
 python-pylibravatar
 python-PyLink
+python-pylint-venv
 python-pylons-sphinx-themes
 python-pylotoncycle
 python-pyls-spyder
@@ -16456,6 +16471,7 @@ python-py27hash
 python-py3nvml
 python-py9p
 python-qcelemental
+python-qcengine
 python-qcustomplot-pyqt
 python-qdarkstyle
 python-qemu-qmp
@@ -17219,6 +17235,7 @@ python-zm
 python-zodbpickle
 python-ZODB
 python-ZODB3
+python-zoidberg
 python-zope-component
 python-zope-configuration
 python-zope-deprecation
@@ -17821,6 +17838,7 @@ R-hunspell
 rhythmbox-ampache
 rhythmbox
 R-chron
+R-ica
 ricochet
 riemann-c-client
 rifiuti2
@@ -17888,6 +17906,7 @@ R-MatrixGenerics
 R-matrixStats
 R-measurements
 R-memoise
+R-metaheuristicopt
 R-microbats
 R-microbenchmark
 R-mime
@@ -18698,6 +18717,9 @@ rust-ansi-str0.5
 rust-ansi_term
 rust-ansi_term0.11
 rust-ansitok
+rust-anstream
+rust-anstyle-parse
+rust-anstyle
 rust-anyhow
 rust-aom-sys
 rust-aparato
@@ -18866,12 +18888,14 @@ rust-capnp-rpc
 rust-capnp
 rust-cap
 rust-caps
+rust-cargo-config2
 rust-cargo-c
 rust-cargo-husky
 rust-cargo-insta
 rust-cargo-manifest
 rust-cargo_metadata
 rust-cargo_metadata0.12
+rust-cargo-options
 rust-cargo-platform
 rust-cargo-readme
 rust-cargo
@@ -18897,6 +18921,7 @@ rust-cipher
 rust-cipher0.3
 rust-clang-ast
 rust-clang-sys
+rust-clap_builder
 rust-clap_complete_fig
 rust-clap_complete_fig3
 rust-clap_complete
@@ -18907,6 +18932,7 @@ rust-clap_generate_fig
 rust-clap_generate
 rust-clap_lex
 rust-clap_lex0.2
+rust-clap_mangen
 rust-clap
 rust-clap-verbosity-flag
 rust-clap2
@@ -18928,6 +18954,7 @@ rust-compact_str
 rust-compress-tools
 rust-comrak
 rust-concat-idents
+rust-concolor-override
 rust-concolor-query
 rust-concolor
 rust-concurrent-queue
@@ -19007,6 +19034,7 @@ rust-csv-core
 rust-csv
 rust-ct-logs
 rust-ctor
+rust-ctor0.1
 rust-ctrlc
 rust-ctr
 rust-ctr0.8
@@ -19333,6 +19361,7 @@ rust-gobject-sys
 rust-gobject-sys0.15
 rust-gobject-sys0.16
 rust-goblin
+rust-goblin0.5
 rust-gptman
 rust-graphene-rs
 rust-graphene-rs0.15
@@ -19354,6 +19383,8 @@ rust-gsk4-sys0.4
 rust-gsk4-sys0.5
 rust-gsk4_0.4
 rust-gsk4_0.5
+rust-gst-plugin-reqwest
+rust-gst-plugin-version-helper
 rust-gstreamer-audio
 rust-gstreamer-audio-sys
 rust-gstreamer-base
@@ -19461,6 +19492,7 @@ rust-impls
 rust-im-rc
 rust-indenter
 rust-indexmap
+rust-indextree
 rust-indicatif
 rust-indicatif0.15
 rust-indicatif0.16
@@ -19540,6 +19572,7 @@ rust-lalrpop-util
 rust-language-tags
 rust-lazycell
 rust-lazy_static
+rust-lddtree
 rust-lebe
 rust-leb128
 rust-lev_distance
@@ -19550,8 +19583,10 @@ rust-libadwaita
 rust-libadwaita-sys
 rust-libadwaita-sys0.1
 rust-libadwaita-sys0.2
+rust-libadwaita-sys0.3
 rust-libadwaita0.1
 rust-libadwaita0.2
+rust-libadwaita0.3
 rust-libblkid-rs
 rust-libblkid-rs-sys
 rust-libbpf-cargo
@@ -19607,6 +19642,7 @@ rust-local_ipaddress
 rust-local-waker
 rust-lock_api
 rust-logging_timer_proc_macros
+rust-logging_timer
 rust-log-mdc
 rust-log
 rust-log0.3
@@ -19627,6 +19663,7 @@ rust-maplit
 rust-markup5ever_rcdom
 rust-markup5ever
 rust-match_cfg
+rust-matchers
 rust-matches
 rust-matrixcompare-core
 rust-matrixcompare-mock
@@ -19719,6 +19756,7 @@ rust-noop_proc_macro
 rust-no-panic
 rust-normalize-line-endings
 rust-normpath
+rust-normpath0.3
 rust-notify-rust
 rust-notify
 rust-nu-ansi-term
@@ -19831,6 +19869,7 @@ rust-partial-io
 rust-partition-identity
 rust-passwd
 rust-password-hash
+rust-password-hash0.3
 rust-paste
 rust-path-absolutize
 rust-path-dedot
@@ -19840,6 +19879,7 @@ rust-pathfinder_simd
 rust-pathsearch
 rust-path-slash
 rust-pbkdf2
+rust-pbkdf2_0.10
 rust-pbkdf2_0.9
 rust-pcap
 rust-pci-driver
@@ -19921,6 +19961,7 @@ rust-predicates-core
 rust-predicates
 rust-predicates-tree
 rust-predicates1
+rust-predicates2
 rust-pretty_assertions
 rust-pretty_assertions0.6
 rust-pretty_assertions0.7
@@ -20099,11 +20140,13 @@ rust-ron
 rust-ron0.7
 rust-roxmltree
 rust-rpassword
+rust-rpassword5
 rust-rpick
 rust-rpm-sequoia
 rust-rsa
 rust-rspec
 rust-rtnetlink
+rust-rtoolbox
 rust-rusqlite
 rust-rustbus_derive
 rust-rustbus
@@ -20327,6 +20370,7 @@ rust-sysinfo0.23
 rust-sys-locale
 rust-syslog
 rust-system-deps
+rust-systemstat
 rust-system76_ectool
 rust-tabled_derive
 rust-tabled
@@ -20368,6 +20412,7 @@ rust-text-block-macros
 rust-textwrap
 rust-textwrap0.11
 rust-textwrap0.14
+rust-textwrap0.15
 rust-thiserror-impl
 rust-thiserror
 rust-thread-id
@@ -21300,7 +21345,6 @@ stellarium
 stellarsolver
 step
 stfl
-stgit
 stix-fonts
 stk
 stlink
@@ -21581,7 +21625,6 @@ tempest
 template-glib
 templates_parser
 tennix
-termcolor
 terminator
 terminology
 terminus-fonts
@@ -21953,6 +21996,7 @@ unrealircd
 unresolved
 unrtf
 unuran
+unzboot
 unzip
 unzix
 unzoo
@@ -22103,6 +22147,7 @@ vile
 vim-airline
 vim-ale
 vim-ansible
+vimb
 vim-command-t
 vim-commentary
 vim-ctrlp
@@ -22122,7 +22167,6 @@ vim-jedi
 vim-jellybeans
 vim-latex
 vim-mediawiki
-vim-nerdtree-git-plugin
 vim-nerdtree
 vim-omnicppcomplete
 vimpal
@@ -22912,7 +22956,6 @@ z88dk
 4ti2
 6tunnel
 64tass
-7kaa
 8088_bios
 9wm
 90-Second-Portraits

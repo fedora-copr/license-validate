@@ -28,7 +28,6 @@ WALinuxAgent
 Xaw3d
 a52dec
 aajohan-comfortaa-fonts
-aalib
 abattis-cantarell-fonts
 abseil-cpp
 accel-config
@@ -100,6 +99,7 @@ asio
 aspell
 aspell-en
 assertj-core
+assimp
 at
 at-spi2-core
 atinject
@@ -136,7 +136,6 @@ beust-jcommander
 bfscripts
 biber
 bind
-bind-dyndb-ldap
 binutils
 biosdevname
 bison
@@ -202,6 +201,7 @@ cim-schema
 cjose
 cjson
 clang
+clang15
 classloader-leak-test-framework
 cldr-emoji-annotation
 clevis
@@ -422,7 +422,7 @@ flute
 fmt
 foma
 fontawesome-fonts
-fontawesome5-fonts
+fontawesome4-fonts
 fontconfig
 fontforge
 fonts-rpm-macros
@@ -432,6 +432,7 @@ foomatic
 foomatic-db
 fprintd
 freeglut
+freeipa
 freeipa-healthcheck
 freeipmi
 freeradius
@@ -471,7 +472,6 @@ gdisk
 gdk-pixbuf2
 gdk-pixbuf2-xlib
 gdm
-gecode
 gedit
 gedit-plugins
 gegl04
@@ -1042,6 +1042,7 @@ ipvsadm
 ipxe
 ipython
 irqbalance
+irrlicht
 irssi
 iscsi-initiator-utils
 isns-utils
@@ -1058,7 +1059,6 @@ jackson-jaxrs-providers
 jackson-modules-base
 jackson-parent
 jacoco
-jacop
 jakarta-activation
 jakarta-activation1
 jakarta-annotations
@@ -1077,7 +1077,6 @@ java-17-openjdk-portable
 java-diff-utils
 java_cup
 javacc
-javacc-maven-plugin
 javaewah
 javapackages-tools
 javapoet
@@ -1203,6 +1202,7 @@ libabigail
 libabw
 libadwaita
 libaec
+libaesgm
 libaio
 libao
 libappstream-glib
@@ -1291,7 +1291,6 @@ libgee
 libgeotiff
 libgexiv2
 libgit2
-libglade2
 libglib-testing
 libglvnd
 libgnomekbd
@@ -1538,6 +1537,7 @@ linuxptp
 lklug-fonts
 lksctp-tools
 lld
+lld15
 lldb
 lldpad
 lldpd
@@ -1872,7 +1872,6 @@ ocaml-ppx-let
 ocaml-ppxlib
 ocaml-re
 ocaml-react
-ocaml-result
 ocaml-seq
 ocaml-sexplib0
 ocaml-srpm-macros
@@ -1904,7 +1903,6 @@ opencore-amr
 opencryptoki
 opencsd
 opencv
-opendnssec
 openexr
 openfec
 openjade
@@ -2584,6 +2582,7 @@ podman
 policycoreutils
 polkit
 polkit-pkla-compat
+poly2tri
 poppler
 poppler-data
 popt
@@ -2640,6 +2639,7 @@ python-PyGithub
 python-PyMySQL
 python-QtPy
 python-SecretStorage
+python-accessible-pygments
 python-adal
 python-affine
 python-aiodns
@@ -2677,7 +2677,6 @@ python-azure-mgmt-resource
 python-azure-sdk-tools
 python-backcall
 python-backoff
-python-bash-kernel
 python-bcrypt
 python-beautifulsoup4
 python-beniget
@@ -2710,6 +2709,7 @@ python-cliff
 python-cligj
 python-cloudpickle
 python-cmd2
+python-codecov
 python-colorama
 python-configargparse
 python-configobj
@@ -2717,7 +2717,6 @@ python-configshell
 python-constantly
 python-construct
 python-contourpy
-python-convertdate
 python-coverage
 python-cpio
 python-cppy
@@ -2760,7 +2759,6 @@ python-editables
 python-editdistance-s
 python-enchant
 python-entrypoints
-python-ephem
 python-et_xmlfile
 python-etcd
 python-ethtool
@@ -2865,7 +2863,6 @@ python-jupyter-lsp
 python-jupyter-packaging
 python-jupyter-server
 python-jupyter-server-terminals
-python-jupyter-sphinx
 python-jupyterlab-server
 python-jupyterlab_pygments
 python-justbases
@@ -2878,6 +2875,7 @@ python-keyring
 python-keystoneauth1
 python-kiwisolver
 python-kmod
+python-langdetect
 python-lark-parser
 python-latexcodec
 python-lazy-object-proxy
@@ -2960,6 +2958,7 @@ python-pandas-datareader
 python-pandocfilters
 python-parameterized
 python-paramiko
+python-parsel
 python-parso
 python-partd
 python-passlib
@@ -2978,7 +2977,6 @@ python-pint
 python-pip
 python-pkgconfig
 python-platformdirs
-python-plotly
 python-pluggy
 python-ply
 python-poetry-core
@@ -3011,7 +3009,6 @@ python-pyfakefs
 python-pygit2
 python-pygments
 python-pylibmc
-python-pymeeus
 python-pymemcache
 python-pymongo
 python-pynacl
@@ -3134,7 +3131,6 @@ python-sphinx-inline-tabs
 python-sphinx-issues
 python-sphinx-last-updated-by-git
 python-sphinx-pytest
-python-sphinx-sitemap
 python-sphinx-tabs
 python-sphinx-theme-alabaster
 python-sphinx-theme-builder
@@ -3159,7 +3155,6 @@ python-sphinxcontrib-spelling
 python-sphinxcontrib-svg2pdfconverter
 python-sphinxcontrib-trio
 python-sphinxcontrib-websupport
-python-sphinxext-rediraffe
 python-sphobjinv
 python-spur
 python-sqlalchemy
@@ -3176,7 +3171,6 @@ python-systemd
 python-tables
 python-tabulate
 python-tblib
-python-tenacity
 python-terminado
 python-testpath
 python-testrepository
@@ -3222,9 +3216,11 @@ python-userpath
 python-utils
 python-uvloop
 python-vcrpy
+python-versioneer
 python-virt-firmware
 python-virtualenv
 python-voluptuous
+python-w3lib
 python-waitress
 python-watchdog
 python-wcwidth
@@ -3567,6 +3563,9 @@ rust-alloc-no-stdlib
 rust-alloc-stdlib
 rust-ansi_term
 rust-ansi_term0.11
+rust-anstream
+rust-anstyle
+rust-anstyle-parse
 rust-anyhow
 rust-aom-sys
 rust-approx
@@ -3596,7 +3595,6 @@ rust-basic-toml
 rust-bencher
 rust-bincode
 rust-bindgen
-rust-bindgen0.59
 rust-bit-set
 rust-bit-vec
 rust-bitfield
@@ -3643,6 +3641,7 @@ rust-clang-sys
 rust-clap
 rust-clap2
 rust-clap3
+rust-clap_builder
 rust-clap_complete
 rust-clap_derive
 rust-clap_derive3
@@ -3652,6 +3651,8 @@ rust-codicon
 rust-color_quant
 rust-colored1
 rust-colorful
+rust-concolor-override
+rust-concolor-query
 rust-concurrent-queue
 rust-console
 rust-const-cstr
@@ -3737,7 +3738,7 @@ rust-env_logger0.6
 rust-env_logger0.7
 rust-env_logger0.8
 rust-env_logger0.9
-rust-errno0.2
+rust-errno
 rust-escargot
 rust-ethtool
 rust-event-listener
@@ -3961,6 +3962,7 @@ rust-ordered-multimap0.3
 rust-os_info
 rust-os_pipe0.9
 rust-os_str_bytes
+rust-owo-colors
 rust-packaging
 rust-pango
 rust-pango-sys
@@ -4008,6 +4010,7 @@ rust-precomputed-hash
 rust-predicates
 rust-predicates-core
 rust-predicates-tree
+rust-predicates2
 rust-pretty_assertions
 rust-pretty_assertions0.6
 rust-pretty_assertions0.7
@@ -4408,6 +4411,7 @@ sssd
 stalld
 star
 startup-notification
+stb
 stix-fonts
 strace
 stratis-cli
@@ -4505,7 +4509,6 @@ tuna
 tuned
 twolame
 tzdata
-ubdsrv
 uchardet
 ucs-miscfixed-fonts
 ucx
@@ -4605,6 +4608,7 @@ xapian-core
 xbean
 xcb-proto
 xcb-util
+xcb-util-cursor
 xcb-util-image
 xcb-util-keysyms
 xcb-util-renderutil

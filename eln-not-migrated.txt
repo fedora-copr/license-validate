@@ -18,7 +18,6 @@ SuperLU
 WALinuxAgent
 Xaw3d
 a52dec
-aalib
 accel-config
 accountsservice
 acpid
@@ -72,10 +71,10 @@ asciidoc
 asio
 aspell-en
 assertj-core
+assimp
 at
 atinject
 atkmm
-atlas
 augeas
 authselect
 auto
@@ -99,7 +98,6 @@ bcel
 bdftopcf
 beakerlib
 beust-jcommander
-bind-dyndb-ldap
 binutils
 biosdevname
 bison
@@ -123,7 +121,6 @@ byacc
 byaccj
 byte-buddy
 byteman
-bzip2
 c-ares
 c2esp
 ca-certificates
@@ -170,7 +167,6 @@ compat-lua
 conntrack-tools
 convmv
 copy-jdk-configs
-coreutils
 corosync
 corosync-qdevice
 cpio
@@ -203,6 +199,7 @@ ddiskit
 debugedit
 dejagnu
 dejavu-fonts
+delve
 desktop-file-utils
 devhelp
 device-mapper-multipath
@@ -250,12 +247,10 @@ egl-wayland
 eglexternalplatform
 eigen3
 elfutils
-elinks
 emacs
 enchant
 enchant2
 enscript
-environment-modules
 ephemeral-port-reserve
 esc
 espeak-ng
@@ -282,7 +277,6 @@ festival
 fetchmail
 fftw
 file
-findutils
 fio
 firefox
 firewalld
@@ -293,7 +287,6 @@ flex
 flexiblas
 flite
 foma
-fontawesome-fonts
 fonttools
 fonttosfnt
 foomatic
@@ -312,7 +305,6 @@ future
 fxload
 game-music-emu
 gavl
-gawk
 gc
 gcab
 gcc
@@ -324,7 +316,6 @@ gdcm
 gdisk
 gdk-pixbuf2
 gdk-pixbuf2-xlib
-gecode
 gedit
 gedit-plugins
 gengetopt
@@ -354,7 +345,6 @@ ghc-unliftio
 ghc-wai-app-static
 giflib
 gimp
-git-lfs
 gjs
 gl-manpages
 gl2ps
@@ -409,7 +399,6 @@ google-droid-fonts
 google-gson
 google-guice
 google-noto-emoji-fonts
-gperf
 gperftools
 gpm
 grafana
@@ -421,7 +410,6 @@ greenboot
 grep
 grilo
 grilo-plugins
-groff
 grub2
 grubby
 gsl
@@ -496,11 +484,11 @@ iprutils
 ipset
 iptables
 iptraf-ng
-iputils
 ipvsadm
 ipxe
 ipython
 irqbalance
+irrlicht
 irssi
 iscsi-initiator-utils
 isns-utils
@@ -614,6 +602,7 @@ libXxf86vm
 libabigail
 libadwaita
 libaec
+libaesgm
 libaio
 libao
 libass
@@ -659,7 +648,6 @@ libestr
 libev
 libevdev
 libevent
-libfabric
 libfaketime
 libfastjson
 libffi
@@ -674,7 +662,6 @@ libgee
 libgeotiff
 libgexiv2
 libgit2
-libglade2
 libglib-testing
 libglvnd
 libgnomekbd
@@ -876,7 +863,6 @@ luarocks
 luksmeta
 lv2
 lvm2
-lynx
 lz4
 lzo
 lzop
@@ -1037,7 +1023,6 @@ nss-altfiles
 ntfs-3g
 ntpstat
 numactl
-numad
 nv-codec-headers
 nvme-cli
 nvmetcli
@@ -1062,7 +1047,6 @@ ocaml-ounit
 ocaml-ppx-derivers
 ocaml-re
 ocaml-react
-ocaml-result
 ocaml-seq
 ocaml-srpm-macros
 ocl-icd
@@ -1110,7 +1094,6 @@ osinfo-db
 osinfo-db-tools
 ostree
 p11-kit
-pacemaker
 paktype-naqsh-fonts
 paktype-naskh-basic-fonts
 paktype-tehreer-fonts
@@ -1146,25 +1129,12 @@ perl-Data-Taxi
 perl-Data-UUID
 perl-Data-Uniqid
 perl-DateTime-Calendar-Julian
-perl-Devel-CheckLib
 perl-Encode-Detect
 perl-Encode-EUCJPASCII
-perl-Exception-Class
-perl-ExtUtils-CChecker
-perl-ExtUtils-Config
-perl-ExtUtils-Depends
-perl-ExtUtils-Helpers
-perl-ExtUtils-InstallPaths
 perl-ExtUtils-LibBuilder
-perl-ExtUtils-PkgConfig
 perl-FCGI-Client
-perl-File-Find-Object-Rule
 perl-File-HomeDir
-perl-File-ShareDir-Install
-perl-File-TreeCreate
 perl-File-Which
-perl-File-chdir
-perl-File-pushd
 perl-Future
 perl-Future-IO
 perl-Git-Wrapper
@@ -1173,9 +1143,7 @@ perl-Hash-Merge
 perl-IO-Async
 perl-IO-CaptureOutput
 perl-IO-Multiplex
-perl-IO-Socket-INET6
 perl-IO-stringy
-perl-IPC-Run
 perl-IPC-System-Simple
 perl-Import-Into
 perl-JSON-XS
@@ -1194,7 +1162,6 @@ perl-Mail-Sender
 perl-Mail-Sendmail
 perl-MailTools
 perl-Metrics-Any
-perl-Module-Build-Tiny
 perl-Module-Find
 perl-Module-Implementation
 perl-Module-Metadata
@@ -1220,7 +1187,6 @@ perl-Package-Stash
 perl-Package-Stash-XS
 perl-PadWalker
 perl-Parallel-ForkManager
-perl-Params-Classify
 perl-Path-Class
 perl-Perl-Destruct-Level
 perl-Perl-OSType
@@ -1229,7 +1195,6 @@ perl-Ref-Util
 perl-Ref-Util-XS
 perl-Role-Tiny
 perl-SGMLSpm
-perl-SNMP_Session
 perl-SUPER
 perl-Scalar-List-Utils
 perl-Scalar-Properties
@@ -1294,9 +1259,6 @@ perl-match-simple
 perl-namespace-autoclean
 perl-namespace-clean
 php
-php-pecl-apcu
-php-pecl-rrd
-php-pecl-zip
 pigz
 pinentry
 pipewire
@@ -1324,8 +1286,8 @@ pmix
 pngcrush
 pnm2ppa
 po4a
-polkit
 polkit-pkla-compat
+poly2tri
 poppler
 poppler-data
 popt
@@ -1404,21 +1366,17 @@ python-cftime
 python-chai
 python-charset-normalizer
 python-click
-python-click-plugins
 python-cliff
-python-cligj
 python-cloudpickle
 python-cmd2
+python-codecov
 python-colorama
 python-configargparse
 python-configobj
 python-configshell
 python-constantly
 python-construct
-python-contourpy
-python-convertdate
 python-cpio
-python-cppy
 python-cpuinfo
 python-crcmod
 python-cssselect
@@ -1445,7 +1403,6 @@ python-docutils
 python-dulwich
 python-enchant
 python-entrypoints
-python-ephem
 python-et_xmlfile
 python-etcd
 python-ethtool
@@ -1498,7 +1455,6 @@ python-iniconfig
 python-iniparse
 python-inotify
 python-into-dbus-python
-python-ipykernel
 python-ipywidgets
 python-iso8601
 python-isodate
@@ -1519,7 +1475,6 @@ python-jsonpointer
 python-jsonschema
 python-jupyter-client
 python-jupyter-core
-python-jupyter-packaging
 python-jupyterlab_pygments
 python-justbases
 python-justbytes
@@ -1587,8 +1542,8 @@ python-outcome
 python-packaging
 python-pandas-datareader
 python-pandocfilters
+python-parsel
 python-parso
-python-partd
 python-pathspec
 python-patsy
 python-pbr
@@ -1600,7 +1555,6 @@ python-pillow
 python-pint
 python-pkgconfig
 python-platformdirs
-python-plotly
 python-pluggy
 python-ply
 python-poetry-core
@@ -1623,7 +1577,6 @@ python-pycparser
 python-pycurl
 python-pygit2
 python-pylibmc
-python-pymeeus
 python-pymemcache
 python-pymongo
 python-pynacl
@@ -1655,7 +1608,6 @@ python-pytest-xprocess
 python-pyudev
 python-qrcode
 python-qt5
-python-rasterio
 python-raven
 python-recommonmark
 python-redis
@@ -1701,9 +1653,7 @@ python-smartypants
 python-snappy
 python-sniffio
 python-snuggs
-python-sortedcontainers
 python-soupsieve
-python-sphinx
 python-sphinx-autodoc-typehints
 python-sphinx-bootstrap-theme
 python-sphinx-copybutton
@@ -1744,8 +1694,6 @@ python-suds
 python-sybil
 python-systemd
 python-tables
-python-tblib
-python-tenacity
 python-testpath
 python-testrepository
 python-testresources
@@ -1777,6 +1725,7 @@ python-urwid
 python-utils
 python-uvloop
 python-vcrpy
+python-versioneer
 python-virt-firmware
 python-virtualenv
 python-voluptuous
@@ -1796,7 +1745,6 @@ python-xlrd
 python-xlsxwriter
 python-xlwt
 python-xmltodict
-python-xmp-toolkit
 python-yarl
 python-zarr
 python-zipp
@@ -1887,7 +1835,6 @@ scrub
 sdl12-compat
 seabios
 seahorse
-sed
 sendmail
 serd
 setserial
@@ -1921,7 +1868,6 @@ soxr
 spamassassin
 sparsehash
 spausedd
-speech-tools
 speexdsp
 sphinx
 spice-protocol
@@ -1994,7 +1940,6 @@ tpm2-tools
 tpm2-tss
 trace-cmd
 tracer
-traceroute
 transfig
 tre
 tree-pkg
@@ -2015,7 +1960,6 @@ udisks2
 umockdev
 unicode-ucd
 unifdef
-units
 univocity-parsers
 unixODBC
 unzip
@@ -2026,7 +1970,6 @@ usb_modeswitch-data
 usbguard
 usbguard-notifier
 usbredir
-usbutils
 usermode
 userspace-rcu
 utf8cpp
@@ -2069,7 +2012,6 @@ web-assets
 webkitgtk
 webp-pixbuf-loader
 webrtc-audio-processing
-weldr-client
 whois
 wireless-regdb
 wireplumber
@@ -2085,6 +2027,7 @@ xapian-bindings
 xbean
 xcb-proto
 xcb-util
+xcb-util-cursor
 xcb-util-image
 xcb-util-keysyms
 xcb-util-renderutil
@@ -2138,7 +2081,6 @@ xrdb
 xrestop
 xsane
 xsel
-xsimd
 xterm
 xxhash
 xz
@@ -2152,8 +2094,6 @@ yelp-xsl
 zchunk
 zeromq
 zimg
-zip
 zsh
-zstd
 zvbi
 zziplib
