@@ -502,6 +502,7 @@ awf-gtk3
 awf-gtk4
 aws-c-common
 awscli
+awscli2
 aws
 awstats
 axc
@@ -1201,6 +1202,7 @@ contour-terminal
 contractor
 conu
 converseen
+convertall
 convmv
 coolreader
 cool-retro-term
@@ -2330,6 +2332,7 @@ fio
 fips
 fira-code-fonts
 firebird
+firecracker
 firefox-pkcs11-loader
 firefox
 firejail
@@ -3982,6 +3985,7 @@ golang-github-bits-and-blooms-bitset
 golang-github-blakesmith-ar
 golang-github-blang-semver
 golang-github-bmatcuk-doublestar-3
+golang-github-bmatcuk-doublestar-4
 golang-github-bmizerany-assert
 golang-github-bobesa-domain-util
 golang-github-boltdb-bolt
@@ -5007,6 +5011,7 @@ golang-github-riywo-loginshell
 golang-github-rjeczalik-notify
 golang-github-roaringbitmap-roaring
 golang-github-robertkrimen-otto
+golang-github-robfig-cron
 golang-github-rodaine-hclencoder
 golang-github-rogpeppe-fastuuid
 golang-github-rogpeppe-charset
@@ -7930,7 +7935,6 @@ libverto
 libvidcap
 libvirt-cim
 libvirt-dbus
-libvirt-designer
 libvirt-glib
 libvirt-java
 libvirt-python
@@ -8688,6 +8692,7 @@ mingw-gmp
 mingw-goocanvas2
 mingw-graphene
 mingw-graphite2
+mingw-gsettings-desktop-schemas
 mingw-gsl
 mingw-gsm
 mingw-gstreamer
@@ -10347,7 +10352,6 @@ perl-AtteanX-Compatibility-Trine
 perl-Audio-Beep
 perl-AuthCAS
 perl-Authen-Captcha
-perl-Authen-CAS-Client
 perl-Authen-Credential
 perl-Authen-DecHpwd
 perl-Authen-DigestMD5
@@ -12834,6 +12838,7 @@ perl-Test-Filename
 perl-Test-File-ShareDir
 perl-Test-File
 perl-Test-Fixme
+perl-Test-Future-IO-Impl
 perl-Test-Harness
 perl-Test-Harness-Straps
 perl-Test-HasVersion
@@ -13818,7 +13823,6 @@ php-sebastian-finder-facade2
 php-sebastian-global-state
 php-sebastian-global-state2
 php-sebastian-global-state3
-php-sebastian-global-state4
 php-sebastian-global-state5
 php-sebastian-lines-of-code
 php-sebastian-object-enumerator
@@ -15034,6 +15038,7 @@ python-dns-lexicon
 python-dnslib
 python-dns
 python-dockerfile-parse
+python-dockerpty
 python-docker-pycreds
 python-docker
 python-docker-squash
@@ -15244,6 +15249,7 @@ python-fuse
 python-futurist
 python-fuzzyfinder
 python-fuzzywuzzy
+python-fvs
 python-fypp
 python-f5-icontrol-rest
 python-f5-sdk
@@ -15755,6 +15761,7 @@ python-mechanize
 python-memcached
 python-mercantile
 python-mergedeep
+python-meson-python
 python-messaging
 python-metaextract
 python-metakernel
@@ -16127,6 +16134,7 @@ python-pooch
 python-portalocker
 python-portend
 python-port-for
+python-posix-ipc
 python-postorius
 python-pox
 python-poyo
@@ -16316,8 +16324,10 @@ python-pyqt-feedback-flow
 python-pyqtgraph
 python-pyqtchart
 python-pyqt5-sip
+python-pyqt6-charts
 python-pyqt6-sip
 python-pyqt6
+python-pyqt6-webengine
 python-pyquery
 python-pyrad
 python-pyramid-fas-openid
@@ -16654,6 +16664,7 @@ python-serpy
 python-service-identity
 python-setproctitle
 python-setupmeta
+python-setuptools-gettext
 python-setuptools_git
 python-setuptools-rust
 python-setuptools_scm_git_archive
@@ -17465,6 +17476,7 @@ qt6-qtdatavis3d
 qt6-qtdeclarative
 qt6-qtcharts
 qt6-qtimageformats
+qt6-qtlanguageserver
 qt6-qtlottie
 qt6-qtmultimedia
 qt6-qtnetworkauth
@@ -17588,7 +17600,6 @@ R-AUC
 ravada
 rawstudio
 rawtherapee
-raw-thumbnailer
 raysession
 R-backports
 rbanffy-3270-fonts
@@ -18677,6 +18688,8 @@ R-units
 R-unix
 rusers
 R-usethis
+rust-ab_glyph_rasterizer
+rust-ab_glyph
 rust-actix-codec
 rust-actix_derive
 rust-actix-http
@@ -18703,6 +18716,7 @@ rust-ahash0.4
 rust-ahash0.7
 rust-aho-corasick
 rust-alacritty_config_derive
+rust-alacritty_config
 rust-alacritty
 rust-alacritty_terminal
 rust-alga_derive
@@ -18735,10 +18749,12 @@ rust-argh
 rust-argmax
 rust-argparse
 rust-array-init
+rust-arrayref
 rust-arrayvec
 rust-arrayvec0.5
 rust-ascii-canvas
 rust-ascii
+rust-ashpd
 rust-askalono-cli
 rust-askalono
 rust-askama_derive
@@ -18845,7 +18861,6 @@ rust-bodhi-cli
 rust-bodhi
 rust-bootupd
 rust-box_drawing
-rust-boxfnonce
 rust-brotli-decompressor
 rust-brotli
 rust-bstr
@@ -18909,6 +18924,7 @@ rust-cc
 rust-cdylib-link-lines
 rust-cexpr
 rust-cfb
+rust-cfg_aliases
 rust-cfg-expr
 rust-cfg-if
 rust-cfg-if0.1
@@ -19168,6 +19184,7 @@ rust-endian-type
 rust-enquote
 rust-entities
 rust-enum-as-inner
+rust-enumber
 rust-enumflags2_derive
 rust-enumflags2_derive0.6
 rust-enumflags2
@@ -19191,6 +19208,7 @@ rust-env_logger0.9
 rust-env_proxy
 rust-envsubst
 rust-erased-serde
+rust-erdtree
 rust-err-derive
 rust-errno
 rust-errno0.2
@@ -19305,6 +19323,10 @@ rust-gdk4
 rust-gdk4-sys
 rust-gdk4-sys0.4
 rust-gdk4-sys0.5
+rust-gdk4-wayland
+rust-gdk4-wayland-sys
+rust-gdk4-x11
+rust-gdk4-x11-sys
 rust-gdk4_0.4
 rust-gdk4_0.5
 rust-generic-array
@@ -19474,6 +19496,7 @@ rust-choosier
 rust-chrono-humanize
 rust-chrono
 rust-chrono-tz
+rust-chumsky
 rust-chunked_transfer
 rust-iai
 rust-iana-time-zone
@@ -19806,6 +19829,7 @@ rust-opaque-debug
 rust-openat-ext
 rust-openat
 rust-opener
+rust-openpgp-cert-d
 rust-open
 rust-openssh-keys
 rust-openssl-kdf
@@ -19831,6 +19855,7 @@ rust-os_type
 rust-ouroboros_macro
 rust-ouroboros
 rust-overload
+rust-owned_ttf_parser
 rust-owning_ref
 rust-owo-colors
 rust-packaging
@@ -19893,7 +19918,9 @@ rust-peg0.5
 rust-pem-rfc7468
 rust-pem
 rust-pem0.8
+rust-pep440_rs
 rust-pep440
+rust-pep508_rs
 rust-percent-encoding
 rust-percent-encoding1
 rust-permutohedron
@@ -20038,6 +20065,7 @@ rust-pyo3
 rust-pyo3_0.15
 rust-pyo3_0.16
 rust-pyo3_0.17
+rust-pyproject-toml
 rust-pythonize
 rust-python-launcher
 rust-python3-sys
@@ -20192,6 +20220,7 @@ rust-scratch
 rust-scroll_derive
 rust-scroll
 rust-scrypt
+rust-sctk-adwaita
 rust-sct
 rust-sd-notify
 rust-sd
@@ -20216,6 +20245,7 @@ rust-sequoia-policy-config
 rust-sequoia-sop
 rust-sequoia-sq
 rust-sequoia-sqv
+rust-sequoia-wot
 rust-serde-big-array
 rust-serde_bser
 rust-serde_bytes
@@ -20298,6 +20328,7 @@ rust-slog-async
 rust-slog-scope
 rust-slog
 rust-slog-term
+rust-slotmap
 rust-slug
 rust-smallbitvec
 rust-smallstr
@@ -20333,6 +20364,7 @@ rust-streaming-stats
 rust-streebog
 rust-streebog0.9
 rust-strength_reduce
+rust-strict-num
 rust-strict
 rust-string_cache_codegen
 rust-string_cache
@@ -20435,6 +20467,8 @@ rust-time0.2
 rust-tiny_http
 rust-tiny_http0.6
 rust-tiny-keccak
+rust-tiny-skia-path
+rust-tiny-skia
 rust-tinystr
 rust-tinytemplate
 rust-tinyvec_macros
@@ -20487,6 +20521,7 @@ rust-tracing_facade
 rust-tracing-futures
 rust-tracing_chromium
 rust-tracing-log
+rust-tracing-serde
 rust-tracing
 rust-transpose
 rust-trash
@@ -20669,6 +20704,8 @@ rust-xxhash-rust
 rust-xz2
 rust-x11-clipboard
 rust-x11-dl
+rust-x11rb-protocol
+rust-x11rb
 rust-x11
 rust-yaml-rust
 rust-yaml-rust0.3
@@ -20699,6 +20736,7 @@ rust-zstd-sys
 rust-zvariant_derive
 rust-zvariant_derive2
 rust-zvariant
+rust-zvariant_utils
 rust-zvariant2
 rust-z85
 rust2rpm
@@ -20957,7 +20995,6 @@ SFML
 sfnt2woff-zopfli
 sfsexp
 sfxr
-sgabios
 sgml-common
 sgpio
 sgtk-menu
@@ -21300,6 +21337,7 @@ srecord
 srm-ifce
 srmio
 srm
+srpc
 srt
 sscg
 ssdeep
@@ -21766,6 +21804,7 @@ tomcatjss
 tomcat-native
 tomcat
 tomcat-taglibs-parent
+tomcli
 toml11
 tomoe-gtk
 tomoe
@@ -22687,7 +22726,6 @@ xorg-x11-drv-ati
 xorg-x11-drv-dummy
 xorg-x11-drv-evdev
 xorg-x11-drv-fbdev
-xorg-x11-drv-fbturbo
 xorg-x11-drv-intel
 xorg-x11-drv-ivtv
 xorg-x11-drv-libinput
@@ -22802,6 +22840,7 @@ x2gowswrapper
 x3270
 x509viewer
 x509watch
+x86-simd-sort
 yacreader
 yadifa
 yad
