@@ -102,6 +102,8 @@ argyllcms
 arch-test
 arj
 armacycles-ad
+arm-none-eabi-gcc-cs
+arm-none-eabi-newlib
 arptools
 arpwatch
 arx-libertatis
@@ -152,6 +154,7 @@ autodocksuite
 autodownloader
 autogen
 avr-binutils
+avr-gcc
 avr-libc
 awscli
 awscli2
@@ -159,6 +162,8 @@ axc
 azove
 babeld
 babel
+babeltrace
+babeltrace2
 babl
 baekmuk-bdf-fonts
 baekmuk-ttf-fonts
@@ -192,6 +197,7 @@ bletchmame
 blis
 bliss
 blivet-gui
+blosc2
 bluefish
 blueprint-compiler
 blurhash-cpp
@@ -202,6 +208,7 @@ bodhi-server
 bogl
 bochs
 bombardier
+borgbackup
 bowtie2
 Box2D
 bpfmon
@@ -521,6 +528,7 @@ editorconfig
 eegview
 efivar
 eggdrop
+eigen3
 elinks
 emacs-apel
 emacs-auctex
@@ -768,6 +776,7 @@ gawk
 gcl
 gconfmm26
 gdalcpp
+gdal
 gdb-exploitable
 gdbm
 gdl
@@ -1792,6 +1801,7 @@ google-api-python-client
 google-auth-httplib2
 google-benchmark
 google-carlito-fonts
+google-compute-engine-guest-configs
 google-crc32c
 google-croscore-fonts
 google-crosextra-caladea-fonts
@@ -1840,6 +1850,7 @@ gspell
 gst-devtools
 gst-editing-services
 gstreamer1-plugin-libav
+GtkAda
 GtkAda3
 gtkglext
 gtkmm4.0
@@ -1870,6 +1881,7 @@ gweled
 gwenhywfar
 gwenview
 gyp
+gzip
 g2clib
 g3kb-switch
 hackrf
@@ -1911,6 +1923,7 @@ ht-alegreya-fonts
 ht-alegreya-sans-fonts
 html2ps
 ht
+httpry
 hunspell-af
 hunspell-ak
 hunspell-am
@@ -2101,9 +2114,11 @@ ibus-anthy
 ibus-engine-gui-ci
 ibus-fbterm
 ibus-handwrite
+ibus-hangul
 ibus-chewing
 ibus-input-pad
 ibus-m17n
+ibus-pinyin
 ibus-qt
 ibus-rawcode
 ibus-rime
@@ -2114,6 +2129,7 @@ ibus-table-chinese
 ibus-table-others
 ibus-table
 ibus-typing-booster
+ibus-uniemoji
 icat
 icu
 icu4j
@@ -2303,6 +2319,7 @@ langtable
 lash
 lastpass-cli
 last-resort-fonts
+laszip
 latexmk
 LaTeXML
 latex2html
@@ -2325,6 +2342,7 @@ libaiff
 libappstream-glib
 libarchive
 libarrow
+libatasmart
 libatomic_ops
 libavif
 libbase
@@ -2357,6 +2375,7 @@ libdiscid
 libdispatch
 libdisplay-info
 libdivide
+libdnf
 libdwarf
 libdxflib
 libeasyfc
@@ -2381,6 +2400,7 @@ libfreehand
 libgbinder
 libgda
 libgda5
+libgexiv2
 libgit2_1.5
 libglademm24
 libglibutil
@@ -2393,6 +2413,7 @@ libgtop2
 libgusb
 libgxim
 libgxps
+libhangul
 libharu
 libheif
 libhomfly
@@ -2502,6 +2523,7 @@ libshumate
 libsigc++
 libslz
 libsndfile
+libsolv
 libsoup3
 libsquish
 libssh
@@ -2587,6 +2609,8 @@ lrslib
 lrzsz
 lsfrom
 lsvpd
+lttng-tools
+lttng-ust
 lua-cassowary
 lua-cldr
 lua-cliargs
@@ -2674,6 +2698,7 @@ mhash
 milter-regex
 mimedefang
 mimetex
+mine_detector
 mingw-adwaita-qt
 mingw-crt
 mingw-Cython
@@ -2744,6 +2769,7 @@ minisat2
 minizip-ng
 miniz
 minuet
+mkosi-initrd
 mksh
 mkvtoolnix
 mlir
@@ -2804,6 +2830,7 @@ myproxy
 mysql-connector-java
 mysql-selinux
 mysql++
+mysqltuner
 mythes-bg
 mythes-ca
 mythes-cs
@@ -2872,6 +2899,7 @@ nomarch
 normaliz
 notejot
 notmuch
+nox
 npth
 nqp
 nq
@@ -2991,6 +3019,7 @@ ocaml-variantslib
 ocaml-version
 ocaml-zarith
 ocaml-zmq
+oci-cli
 oci-seccomp-bpf-hook
 ocrad
 octave-dicom
@@ -3014,6 +3043,8 @@ openbios
 opencore-amr
 opencryptoki
 opencsd
+opendkim
+opendmarc
 opendnssec
 opendoas
 openexr2
@@ -3130,6 +3161,7 @@ perl-Algorithm-Dependency
 perl-Algorithm-Diff
 perl-Algorithm-IncludeExclude
 perl-Algorithm-Merge
+perl-aliased
 perl-Alien-autoconf
 perl-Alien-Base-ModuleBuild
 perl-Alien-Brotli
@@ -3356,6 +3388,8 @@ perl-Crypt-Rijndael
 perl-Crypt-SmbHash
 perl-Crypt-SSLeay
 perl-Crypt-Twofish
+perl-Crypt-URandom
+perl-CryptX
 perl-Crypt-X509
 perl-CSS-Squish
 perl-CSS-Tiny
@@ -3606,6 +3640,7 @@ perl-File-Fetch
 perl-File-Find-Object-Rule
 perl-File-Find-Object
 perl-File-Find-Rule-Perl
+perl-File-Find-Rule-PPI
 perl-File-Find-Rule
 perl-File-Find-Rule-VCS
 perl-File-Flat
@@ -4034,6 +4069,7 @@ perl-Net-Amazon
 perl-Net-Amazon-S3
 perl-Net-CalDAVTalk
 perl-Net-CardDAVTalk
+perl-Net-CIDR-Lite
 perl-Net-CIDR
 perl-Net-CUPS
 perl-Net-DAVTalk
@@ -4041,11 +4077,13 @@ perl-Net-DBus-GLib
 perl-Net-DBus
 perl-Net-DNS-Resolver-Mock
 perl-Net-DNS-Resolver-Programmable
+perl-Net-DNS
 perl-Net-eBay
 perl-Net-FTP-AutoReconnect
 perl-Net-FTP-RetrHandle
 perl-Net-FTPServer
 perl-Net-HTTP
+perl-Net-IDN-Encode
 perl-Net-IMAP-Client
 perl-Net-IMAP-Simple
 perl-Net-IMAP-Simple-SSL
@@ -4090,6 +4128,7 @@ perl-Object-Accessor
 perl-Object-Deadly
 perl-Object-HashBase
 perl-Object-ID
+perl-Object-InsideOut
 perl-Object-Pad
 perl-Object-Pluggable
 perl-Object-Remote
@@ -4101,11 +4140,15 @@ perl-ORLite-Migrate
 perl-ORLite-Mirror
 perl-ORLite
 perl-ORLite-Statistics
+perl-Package-Anon
 perl-Package-Constants
 perl-Package-DeprecationManager
 perl-Package-Generator
 perl-Package-Pkg
+perl-Package-Stash
+perl-Package-Stash-XS
 perl-Package-Variant
+perl-PadWalker
 perl-Paper-Specs
 perl-Parallel-Iterator
 perl-Parallel-Pipes
@@ -4124,6 +4167,7 @@ perl-parent
 perl-PAR-Packer
 perl-Parse-CPAN-Packages
 perl-Parse-DebControl
+perl-Parse-Distname
 perl-Parse-ErrorString-Perl
 perl-Parse-ExuberantCTags
 perl-Parse-Method-Signatures
@@ -4134,6 +4178,7 @@ perl-ParseTemplate
 perl-ParseUtil-Domain
 perl-Parse-Yapp
 perl-PAR
+perl-Path-Class
 perl-Path-FindDev
 perl-Path-IsDev
 perl-Path-Iterator-Rule
@@ -4147,16 +4192,22 @@ perl-PDF-Builder
 perl-PDF-Reuse
 perl-PDL
 perl-Pegex
+perl-Perl-Critic-Deprecated
 perl-Perl-Critic-Lax
 perl-Perl-Critic-More
+perl-Perl-Critic-Pulp
 perl-Perl-Critic
 perl-Perl-Critic-Tics
+perl-Perl-Destruct-Level
 perl-perlfaq
 perl-Perlilog
 perl-PerlIO-eol
+perl-PerlIO-gzip
 perl-PerlIO-utf8_strict
 perl-PerlIO-via-QuotedPrint
+perl-PerlIO-via-Timeout
 perl-Perl-MinimumVersion
+perl-Perl-OSType
 perl-Perl-PrereqScanner-NotQuiteLite
 perl-Perl-PrereqScanner
 perl-Perl-Stripper
@@ -4164,6 +4215,9 @@ perl-Perl-Tags
 perl-Perl-Tidy-Sweetened
 perl-Perl-Version
 perl-Perl4-CoreLibs
+perl-Perl6-Caller
+perl-Perl6-Junction
+perl-Perl6-Slurp
 perl-pgsql_perl5
 perl-Pinto
 perl-Pipeline
@@ -4173,6 +4227,7 @@ perl-Plack-Middleware-Test-StashWarnings
 perl-Plack
 perl-Pod-Abstract
 perl-Pod-Constants
+perl-Pod-Coverage-Moose
 perl-Pod-Coverage
 perl-Pod-Coverage-TrustPod
 perl-Pod-Elemental-PerlMunger
@@ -4187,9 +4242,11 @@ perl-Pod-MinimumVersion
 perl-Pod-Parser
 perl-Pod-Perldoc
 perl-Pod-Plainer
+perl-Pod-Readme
 perl-Pod-Simple
 perl-Pod-Spell
 perl-Pod-Stripper
+perl-Pod-Strip
 perl-Pod-Tidy
 perl-Pod-Usage
 perl-Pod-Weaver
@@ -4203,9 +4260,12 @@ perl-POE-Test-Loops
 perl-POSIX-AtFork
 perl-POSIX-strftime-Compiler
 perl-POSIX-strptime
+perl-PPI
+perl-PPI-Tester
 perl-PPIx-EditorTools
 perl-PPIx-QuoteLike
 perl-PPIx-Regexp
+perl-PPIx-Utilities
 perl-PPIx-Utils
 perl-prefork
 perl-Prima
@@ -4217,8 +4277,12 @@ perl-Proc-Wait3
 perl-Promises
 perl-Protocol-WebSocket
 perl-Readonly
+perl-Readonly-XS
 perl-Redis
 perl-re-engine-RE2
+perl-Ref-Util
+perl-Ref-Util-XS
+perl-Regexp-Assemble
 perl-Regexp-Common-net-CIDR
 perl-Regexp-Common
 perl-Regexp-IPv6
@@ -4229,14 +4293,18 @@ perl-Regexp-Pattern
 perl-Regexp-Shellish
 perl-Regexp-Stringify
 perl-Retry
+perl-Return-MultiLevel
 perl-Return-Type
 perl-Role-Basic
 perl-Role-Hooks
+perl-Role-Tiny
 perl-Roman
 perl-RPM-Specfile
 perl-RPM2
 perl-RRD-Simple
 perl-RT-Client-REST
+perl-Safe-Isa
+perl-Scalar-Properties
 perl-Scalar-Util-LooksLikeNumber
 perl-Scope-Guard
 perl-Scope-Upper
@@ -4258,6 +4326,7 @@ perl-Snowball-Swedish
 perl-SOAP-Lite
 perl-Socket
 perl-Socket6
+perl-Software-License-CCpack
 perl-Software-License
 perl-Sort-Key
 perl-Sort-Naturally
@@ -4286,6 +4355,7 @@ perl-String-Flogger
 perl-String-Formatter
 perl-String-License
 perl-String-RewritePrefix
+perl-String-ShellQuote
 perl-String-ToIdentifier-EN
 perl-String-Trim-More
 perl-String-Truncate
@@ -4294,6 +4364,7 @@ perl-Sub-Attribute
 perl-Sub-Exporter-ForMethods
 perl-Sub-Exporter-GlobExporter
 perl-Sub-Exporter-Lexical
+perl-Sub-Exporter-Progressive
 perl-Sub-Exporter
 perl-Sub-HandlesVia
 perl-Sub-Identify
@@ -4303,6 +4374,7 @@ perl-Sub-Install
 perl-Sub-Name
 perl-Sub-Override
 perl-Sub-Quote
+perl-Sub-Uplevel
 perl-SUPER
 perl-SVG-Graph
 perl-SVG
@@ -4327,6 +4399,8 @@ perl-Sys-Syslog
 perl-System-Command
 perl-System-Info
 perl-Sys-Virt
+perl-Taint-Runtime
+perl-Tangerine
 perl-TAP-Formatter-HTML
 perl-TAP-Formatter-JUnit
 perl-Tapper
@@ -4339,6 +4413,7 @@ perl-Task-Kensho-Toolchain
 perl-Task-Kensho-WebCrawling
 perl-Task-Kensho-XML
 perl-Task-Moose
+perl-Task-Weaken
 perl-Template-Plugin-CGI
 perl-Template-Plugin-Cycle
 perl-Template-Plugin-JavaScript
@@ -4367,15 +4442,19 @@ perl-Test-Block
 perl-Test-ClassAPI
 perl-Test-Class-Most
 perl-Test-Class
+perl-Test-CleanNamespaces
 perl-Test-Command-Simple
 perl-Test-Compile
+perl-Test-CPAN-Meta-JSON
 perl-Test-CPAN-Meta
 perl-Test-Database
 perl-Test-Deep
 perl-Test-Dependencies
+perl-Test-Differences
 perl-Test-Directory
 perl-Test-DistManifest
 perl-Test-Email
+perl-Test-Exception
 perl-Test-Expect
 perl-Test-Exports
 perl-Test-Fatal
@@ -4400,6 +4479,8 @@ perl-Test-Log-Dispatch
 perl-Test-Log-Log4perl
 perl-Test-LongString
 perl-Test-LWP-UserAgent
+perl-Test-Manifest
+perl-Test-Memory-Cycle
 perl-Test-MemoryGrowth
 perl-Test-MinimumVersion
 perl-TestML
@@ -4413,13 +4494,17 @@ perl-Test-Needs
 perl-Test-NiceDump
 perl-Test-NoWarnings
 perl-Test-Output
+perl-Test-Perl-Critic
 perl-Test-Pod-Coverage
 perl-Test-Pod-LinkCheck
 perl-Test-Pod
 perl-Test-POE-Server-TCP
 perl-Test-Portability-Files
 perl-Test-RandomResult
+perl-Test-Refcount
 perl-Test-Regexp-Pattern
+perl-Test-Regexp
+perl-Test-RequiresInternet
 perl-Test-Requires
 perl-Test-Roo
 perl-Test-Script
@@ -4524,6 +4609,7 @@ perl-Web-Scraper
 perl-WebService-MusicBrainz
 perl-WebService-Validator-CSS-W3C
 perl-WebService-Validator-HTML-W3C
+perl-WWW-Curl
 perl-WWW-Form-UrlEncoded
 perl-WWW-Pastebin-PastebinCom-Create
 perl-WWW-RobotRules
@@ -4796,6 +4882,7 @@ priv_wrapper
 procenv
 production-type-spectral-fonts
 proftpd
+proj
 prooftree
 proselint
 protobuf-c
@@ -4862,6 +4949,7 @@ python-ansible-compat
 python-argon2-cffi-bindings
 python-argon2-cffi
 python-argopt
+python-asgiref
 python-asn1
 python-aspy.yaml
 python-astroid
@@ -4887,6 +4975,7 @@ python-azure-mgmt-dashboard
 python-azure-mgmt-fluidrelay
 python-azure-mgmt-quota
 python-azure-mgmt-support
+python-azure-sdk-tools
 python-azure-storage-blob
 python-basemap
 python-bash-kernel
@@ -4909,6 +4998,7 @@ python-BTrees
 python-b4
 python-cachelib
 python-calcephpy
+python-canonicaljson
 pythoncapi-compat
 python-cartopy
 python-certbot-apache
@@ -4930,6 +5020,7 @@ python-certbot-nginx
 python-certifi
 python-cffsubr
 python-cfgv
+python-circuitbreaker
 python-click-plugins
 python-cligj
 python-cloudscraper
@@ -4943,6 +5034,7 @@ python-compreffor
 python-conda-package-handling
 python-conda-package-streaming
 python-configupdater
+python-confuse
 python-construct-classes
 python-contextily
 python-contourpy
@@ -5001,6 +5093,7 @@ python-engineio
 python-envisage
 python-exabgp
 python-ezdxf
+python-fabric
 python-falcon
 python-fasjson-client
 python-fastapi
@@ -5126,6 +5219,7 @@ python-igraph
 python-ijson
 python-imageio
 python-imbalanced-learn
+python-immutabledict
 python-immutables
 python-indexed_gzip
 python-influxdb-client
@@ -5140,6 +5234,7 @@ python-ipuz
 python-ipykernel
 python-ipyparallel
 python-irc
+python-isodate
 python-isort
 python-itsdangerous
 python-janus
@@ -5167,6 +5262,8 @@ python-jupyter-server-terminals
 python-jupyter-server-ydoc
 python-jupyter-sphinx
 python-jupyter-ydoc
+python-justbases
+python-justbytes
 python-jwcrypto
 python-j1m.sphinxautozconfig
 python-kadmin
@@ -5245,6 +5342,8 @@ python-nose2
 python-notebook-shim
 python-nss
 python-ntlm-auth
+python-oauthlib
+python-oci
 python-octave-kernel
 python-openapi-core
 python-openapi-schema-validator
@@ -5252,6 +5351,7 @@ python-openapi-spec-validator
 python-opencensus-proto
 python-openpaperwork-core
 python-openpaperwork-gtk
+python-opensearch-py
 python-opentelemetry-contrib
 python-opentelemetry
 python-opentype-sanitizer
@@ -5300,6 +5400,7 @@ python-podcastparser
 python-podman
 python-poetry-dynamic-versioning
 python-poetry-plugin-export
+python-portalocker
 python-posix-ipc
 python-postorius
 python-pplpy
@@ -5385,6 +5486,7 @@ python-pytest-tornado
 python-pytest-vcr
 python-pytzdata
 python-pytz-deprecation-shim
+python-pyxdf
 python-py27hash
 python-py3nvml
 python-qcengine
@@ -5418,6 +5520,7 @@ python-rjsmin
 python-robotframework
 python-roundrobin
 python-rpi-gpio2
+python-rpm-generators
 python-rq
 python-Rtree
 python-ruamel-yaml-clib
@@ -5534,6 +5637,7 @@ python-vecrec
 python-venusian
 python-versioningit
 python-virtualenv-api
+python-waitress
 python-wavio
 python-webcolors
 python-wheel
@@ -5545,7 +5649,6 @@ python-w3lib
 python-xarray
 python-xattr
 python-xcffib
-python-xds-protos
 python-xmp-toolkit
 python-xrst
 python-XStatic-Font-Awesome
@@ -5583,9 +5686,11 @@ python3.12
 pytz
 pyusb
 pyzor
+pyzy
 py3status
 qalculate-qt
 qascade
+qatengine
 qbe
 qcoro
 qcustomplot
@@ -5596,6 +5701,7 @@ qemu
 qepcad-B
 qgnomeplatform
 qjackctl
+qm
 qpdf
 qr-code-generator
 qsynth
@@ -5778,6 +5884,7 @@ rsync
 R-TH-data
 R-timechange
 R-tinytest
+rtkit
 rt
 rubiks
 ruby-build
@@ -6301,6 +6408,7 @@ rust-ansi_term0.11
 rust-ansitok
 rust-anstream
 rust-anstyle-parse
+rust-anstyle-query
 rust-anstyle
 rust-anyhow
 rust-aom-sys
@@ -6344,6 +6452,7 @@ rust-async-attributes
 rust-async-broadcast
 rust-async-compression
 rust-async-executor
+rust-async-fs
 rust-asyncgit
 rust-async-global-executor
 rust-async-channel
@@ -6352,6 +6461,7 @@ rust-async-lock
 rust-async-mutex
 rust-async-process
 rust-async-recursion
+rust-async-session
 rust-async-std
 rust-async-stream-impl
 rust-async-stream
@@ -6415,6 +6525,7 @@ rust-bitstream-io
 rust-bit-vec
 rust-bitvec
 rust-blake2
+rust-blake3
 rust-blobby
 rust-blobby0.1
 rust-block-buffer
@@ -6431,6 +6542,7 @@ rust-bootupd
 rust-box_drawing
 rust-brotli-decompressor
 rust-brotli
+rust-brownstone
 rust-bstr
 rust-bstr0.2
 rust-btrd
@@ -6531,6 +6643,7 @@ rust-colored_json
 rust-colored
 rust-colored1
 rust-colorful
+rust-colorchoice
 rust-color_quant
 rust-combine
 rust-comfy-table
@@ -6733,6 +6846,7 @@ rust-easy-cast
 rust-easy-parallel
 rust-edit-distance
 rust-edit
+rust-ed25519
 rust-either
 rust-elfcat
 rust-elf
@@ -7082,6 +7196,7 @@ rust-image0.23
 rust-impls
 rust-im-rc
 rust-indenter
+rust-indent_write
 rust-indexmap
 rust-indextree
 rust-indicatif
@@ -7112,6 +7227,7 @@ rust-inventory0.2
 rust-iocuddle
 rust-io-lifetimes
 rust-io-uring
+rust-io-uring0.5
 rust-iovec
 rust-ipnet
 rust-ipnetwork
@@ -7223,6 +7339,7 @@ rust-linreg
 rust-linux-loader
 rust-linux_proc
 rust-linux-raw-sys
+rust-llvm-bitcode
 rust-lmdb
 rust-lmdb-sys
 rust-locale_config
@@ -7721,6 +7838,7 @@ rust-resctl-demo
 rust-resize
 rust-resolv-conf
 rust-retry
+rust-rfc2047-decoder
 rust-rgb
 rust-ring
 rust-ripgrep
@@ -7803,6 +7921,7 @@ rust-semver-parser0.9
 rust-semver
 rust-semver0.11
 rust-sequoia-autocrypt
+rust-sequoia-cert-store
 rust-sequoia-ipc
 rust-sequoia-keyring-linter
 rust-sequoia-net
@@ -7829,6 +7948,8 @@ rust-serde_spanned
 rust-serde
 rust-serde_stacker
 rust-serde_test
+rust-serde_tuple_macros
+rust-serde_tuple
 rust-serde_urlencoded
 rust-serde_url_params
 rust-serde-value
@@ -7910,6 +8031,7 @@ rust-snafu-derive
 rust-snafu
 rust-snake_case
 rust-socket2
+rust-socket2_0.4
 rust-sop
 rust
 rust-spin_on
@@ -8228,6 +8350,7 @@ rust-wait-timeout
 rust-waker-fn
 rust-walkdir
 rust-want
+rust-warp-sessions
 rust-warp
 rust-wasmer_enumset_derive
 rust-wasmer_enumset
@@ -8239,6 +8362,7 @@ rust-wayland-protocols
 rust-wayland-scanner
 rust-wayland-server
 rust-wayland-sys
+rust-wayland-sys0.29
 rust-weak-table
 rust-webbrowser
 rust-web-ext-native-messaging
@@ -8260,6 +8384,7 @@ rust-xattr
 rust-xattr0.2
 rust-xcb
 rust-xcursor
+rust-xdg-home
 rust-xdg
 rust-xi-unicode
 rust-xkbcommon
@@ -8340,6 +8465,7 @@ scala
 scd2html
 scidavis
 scim-fcitx
+scim-hangul
 scim-m17n
 scim-pinyin
 scim
@@ -8429,6 +8555,7 @@ slang
 slapi-nis
 sleef
 slimdata
+slim
 slingshot
 slirp4netns
 slock
@@ -8470,6 +8597,7 @@ squidGuard
 srain
 srpc
 ssldump
+sssd
 stardict-dic-hi
 stb
 steinberg-bravura-fonts
@@ -8515,6 +8643,7 @@ systemd
 system-switch-mail
 sysusage
 s3cmd
+s3fs-fuse
 tabbed
 tacacs
 tangerine
@@ -8534,6 +8663,7 @@ telepathy-idle
 telnet
 template-glib
 tennix
+tepl
 tesseract
 tesseract-tessdata
 test-interface
@@ -8562,6 +8692,7 @@ titools
 tlpi
 tlsh
 tlx
+tnftp
 tog-pegasus
 toilet
 tokyocabinet
@@ -8629,6 +8760,7 @@ unpaper
 unrar-free
 unrealircd
 unzboot
+unzip
 upower
 upx
 uqm
@@ -8640,6 +8772,7 @@ usbrelay
 usbutils
 usbview
 usd
+userspace-rcu
 usrsctp
 ustreamer
 uswds-public-sans-fonts
@@ -8654,6 +8787,7 @@ vcpkg
 vcs-diff-lint
 vdrift
 vdr-tvscraper
+veristat
 vernnobile-muli-fonts
 vernnobile-nunito-fonts
 vernnobile-oswald-fonts
@@ -8778,6 +8912,7 @@ xtideuniversalbios
 xtl
 xtrlock
 xvidcore
+xwaylandvideobridge
 xylib
 x11vnc
 x509viewer
