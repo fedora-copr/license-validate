@@ -27,3 +27,6 @@ yt-dlp
 
 # ignore for now, most of the rust packages are generated and will be automatically updated via new template when rebased 
 ^rust-*
+
+# existing License tag is also the correct SPDX expression
+zimg
