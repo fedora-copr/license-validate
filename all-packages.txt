@@ -317,6 +317,7 @@ arch-install-scripts
 archivemount
 archlinux-keyring
 arch-test
+arianna
 aria2
 arj
 ark
@@ -574,6 +575,7 @@ bcm283x-firmware
 bcm43xx-fwcutter
 bcrypt
 bc
+bctoolbox
 bcunit
 bdftopcf
 bdii
@@ -594,6 +596,7 @@ beesu
 beets
 bee2
 belle-sip
+belr
 bemenu
 beneath-a-steel-sky-cd
 beneath-a-steel-sky
@@ -3970,6 +3973,7 @@ golang-github-bep-goat
 golang-github-bep-godartsass
 golang-github-bep-golibsass
 golang-github-bep-gowebp
+golang-github-bep-lazycache
 golang-github-bep-overlayfs
 golang-github-bep-tmc
 golang-github-bep-workers
@@ -4132,6 +4136,8 @@ golang-github-deckarep-set
 golang-github-delve-liner
 golang-github-denisbrodbeck-machineid
 golang-github-denisenkom-mssqldb
+golang-github-dennwc-btrfs
+golang-github-dennwc-ioctl
 golang-github-dennwc-varint
 golang-github-denverdino-aliyungo
 golang-github-derekparker-trie
@@ -4228,7 +4234,6 @@ golang-github-evanphx-json-patch
 golang-github-evanw-esbuild
 golang-github-evanw-esbuild-0.8.20
 golang-github-evilsocket-islazy
-golang-github-exoscale-egoscale
 golang-github-exponent-io-jsonpath
 golang-github-facebookarchive-inject
 golang-github-facebookarchive-structtag
@@ -4704,6 +4709,7 @@ golang-github-max-sum-base32768
 golang-github-mbndr-figlet4go
 golang-github-mdlayher-dhcp6
 golang-github-mdlayher-ethernet
+golang-github-mdlayher-ethtool
 golang-github-mdlayher-genetlink
 golang-github-mdlayher-netlink
 golang-github-mdlayher-raw
@@ -4904,6 +4910,7 @@ golang-github-pierrec-lz4
 golang-github-pierrre-compare
 golang-github-pierrre-geohash
 golang-github-pingcap-errors
+golang-github-pin-tftp-3
 golang-github-pires-proxyproto
 golang-github-pkg-browser
 golang-github-pkg-diff
@@ -5815,6 +5822,7 @@ hdf
 hdf5
 hdhomerun
 hd-idle
+hdmf-common-schema
 hdparm
 HdrHistogram_c
 headsetcontrol
@@ -6280,6 +6288,7 @@ inn
 inotify-tools
 input-leap
 input-pad
+input-remapper
 insight
 InsightToolkit
 intel-clear-sans-fonts
@@ -7344,6 +7353,7 @@ libecpint
 libedit
 libefp
 libechonest
+libei
 libell
 libEMF
 libemu
@@ -7829,7 +7839,6 @@ libsmi
 libSM
 libsndfile
 libsodium
-libsodium13
 libsolv
 libsonata
 libsoundio
@@ -8407,7 +8416,6 @@ manifest-tool
 man-pages-ja
 man-pages-ko
 man-pages-l10n
-man-pages-ru
 man-pages
 man-pages-zh-CN
 man2html
@@ -8470,6 +8478,7 @@ matchbox-window-manager
 matio
 matreshka
 matrix-synapse
+maturin
 maui-mauikit
 maven-antrun-plugin
 maven-archetype
@@ -9092,7 +9101,6 @@ mopidy-mpd
 mopidy
 moreutils
 morphio
-morse2txt
 moserial
 mosh
 mosquitto
@@ -9318,6 +9326,7 @@ ncmpc
 ncompress
 nco
 ncrack
+ncurses-epel
 ncurses
 ncview
 ndctl
@@ -9540,7 +9549,6 @@ nuget
 nulib2
 nullmodem
 numactl
-numad
 numatop
 numberstation
 numix-gtk-theme
@@ -9850,6 +9858,7 @@ ongres-stringprep
 oniguruma
 onionscan
 onionshare
+onnx
 oomd
 ooo2txt
 opae
@@ -10269,6 +10278,7 @@ perl-Alien-Build
 perl-Alien-CFITSIO
 perl-Alien-cmake3
 perl-Alien-FFI
+perl-Alien-Font-Uni
 perl-Alien-LibGumbo
 perl-Alien-Libxml2
 perl-Alien-m4
@@ -10989,7 +10999,6 @@ perl-DBIx-SearchBuilder
 perl-DBIx-Simple
 perl-DBIx-XHTML_Table
 perl-DBM-Deep
-perl-Debug-ShowStuff
 perl-Declare-Constraints-Simple
 perl-DepGen-Perl-Tests
 perl-Devel-ArgNames
@@ -11849,7 +11858,6 @@ perl-MCE
 perl-MDV-Packdrakeng
 perl-MD5
 perl-mecab
-perl-MemHandle
 perl-Memoize-ExpireLRU
 perl-Menlo-Legacy
 perl-Menlo
@@ -14300,6 +14308,7 @@ pyhunspell
 pychess
 pychromecast
 pyicu
+pyinstrument
 pyjokes
 pyke
 pykickstart
@@ -14918,6 +14927,7 @@ python-daemonize
 python-daemon
 python-daikin
 python-daiquiri
+python-damo
 python-danfossair
 python-daphne
 python-dasbus
@@ -15215,6 +15225,7 @@ python-flask-wtf-decorators
 python-flask-wtf
 python-flask-xml-rpc
 python-flexmock
+python-flit-core
 python-flit-scm
 python-flit
 python-flock
@@ -15876,6 +15887,7 @@ python-nbxmpp
 python-nb2plots
 python-ncclient
 python-ndg_httpsclient
+python-ndindex
 python-ndjson-testrunner
 python-neatdend
 python-neo
@@ -16451,6 +16463,7 @@ python-pytest-sugar
 python-pytest-testinfra
 python-pytest-testmon
 python-pytest-timeout
+python-pytest-tldr
 python-pytest-tornado
 python-pytest-trio
 python-pytest-vcr
@@ -17086,6 +17099,7 @@ python-visionegg-quest
 python-visitor
 python-visvis
 python-vitrageclient
+python-vkbasalt-cli
 python-vobject
 python-volatile
 python-volkszaehler
@@ -17301,8 +17315,12 @@ python3.11
 python3.12
 python3.6
 python3.7
+python38-hvac
+python38-ntlm-auth-epel
+python38-pynetbox
+python38-requests_ntlm-epel
 python3.8
-python38-toml-epel
+python39-pyelftools-epel
 python3.9
 pythran
 pytz
@@ -17486,6 +17504,7 @@ qt6-qtdeclarative
 qt6-qtcharts
 qt6-qtimageformats
 qt6-qtlanguageserver
+qt6-qtlocation
 qt6-qtlottie
 qt6-qtmultimedia
 qt6-qtnetworkauth
@@ -17511,7 +17530,6 @@ qt6-qtwebview
 qt6-qt3d
 qt6-qt5compat
 qt6
-quadlet
 quadrapassel
 quake2
 quake3
@@ -17961,7 +17979,6 @@ rocm-device-libs
 rocminfo
 rocm-opencl
 rocm-runtime
-rocm-smi
 rocs
 roc-toolkit
 R-odbc
@@ -18854,6 +18871,7 @@ rust-bit_field
 rust-bitfield
 rust-bitflags
 rust-bitmaps
+rust-bitreader
 rust-bit-set
 rust-bitstream-io
 rust-bit-vec
@@ -19051,6 +19069,7 @@ rust-crossterm0.17
 rust-crossterm0.19
 rust-crossterm0.22
 rust-crossterm0.24
+rust-crossterm0.25
 rust-crunchy
 rust-crypto-bigint
 rust-crypto-common
@@ -19253,6 +19272,7 @@ rust-fancy-regex
 rust-fancy-regex0.7
 rust-fastrand
 rust-fatfs
+rust-fat-macho
 rust-fb_procfs
 rust-fd-find
 rust-fd-lock
@@ -19693,6 +19713,7 @@ rust-lopdf
 rust-lru-cache
 rust-lru
 rust-lscolors
+rust-lscolors0.13
 rust-lsd
 rust-lzma-sys
 rust-mac_address
@@ -19802,6 +19823,8 @@ rust-normpath0.3
 rust-notify-rust
 rust-notify
 rust-nu-ansi-term
+rust-nu-ansi-term0.46
+rust-nu-cmd-lang
 rust-nu-color-config
 rust-nu-engine
 rust-nu-explore
@@ -19833,6 +19856,7 @@ rust-nu-path
 rust-nu-plugin
 rust-nu-pretty-hex
 rust-nu-protocol
+rust-nu-std
 rust-nu-system
 rust-nu-table
 rust-nu-term-grid
@@ -20027,6 +20051,7 @@ rust-print_bytes
 rust-process_control
 rust-procfs
 rust-procfs0.12
+rust-procfs0.14
 rust-procfs0.9
 rust-proc-macro-crate
 rust-proc-macro-crate0.1
@@ -20087,6 +20112,7 @@ rust-pyo3_0.17
 rust-pyproject-toml
 rust-pythonize
 rust-python-launcher
+rust-python-pkginfo
 rust-python3-sys
 rust-qstring
 rust-quantiles
@@ -20139,6 +20165,7 @@ rust-rand0.4
 rust-rand0.5
 rust-rand0.6
 rust-rand0.7
+rust-ratatui
 rust-rav1e
 rust-rawpointer
 rust-raw-window-handle
@@ -20193,6 +20220,8 @@ rust-rpick
 rust-rpm-sequoia
 rust-rsa
 rust-rspec
+rust-rstest_macros
+rust-rstest
 rust-rtnetlink
 rust-rtoolbox
 rust-rusqlite
@@ -20373,6 +20402,7 @@ rust-spin
 rust-spin0.5
 rust-spki
 rust-sptr
+rust-spytools
 rust-ssh-key-dir
 rust-stable_deref_trait
 rust-stacker
@@ -20451,6 +20481,7 @@ rust-terminal_size
 rust-terminal_size0.1
 rust-terminfo
 rust-termion
+rust-termion1
 rust-termios
 rust-term_size
 rust-term
@@ -20561,6 +20592,7 @@ rust-tree-sitter
 rust-tree-sitter-tags
 rust-trust-dns-client
 rust-trust-dns-proto
+rust-trust-dns-recursor
 rust-trust-dns-resolver
 rust-trybuild
 rust-trybuild2
@@ -21438,7 +21470,6 @@ stripesnoop
 strongswan
 st
 stubby
-studio-controls
 s-tui
 stunnel
 stun
@@ -22410,6 +22441,7 @@ whatmask
 whatsup
 whatweb
 whereami
+whichfont
 which
 whichwayisup
 whipper
@@ -22520,7 +22552,6 @@ wxGTK
 wxmacmolplt
 wxMaxima
 wxsqlite3
-wyhash
 w3c-markup-validator
 w3m
 xalan-c
@@ -22908,7 +22939,6 @@ ykocli
 ykpers
 ykushcmd
 yle-dl
-yokadi
 yoshimi
 yosys
 youtube-dl
