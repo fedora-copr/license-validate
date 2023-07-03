@@ -21,7 +21,7 @@ dnf install license-validate
 license-validate 'LGPL-2.1-or-later AND GPL-2.0-or-later'
 license-fedora2spdx 'GPLv1'
 # GPL-1.0-only
-``
+```
 
 ## Run from checkout
 
