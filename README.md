@@ -14,6 +14,15 @@ Content:
  * `grammar.lark` - this file contains BNF grammar for [Lark](https://lark-parser.readthedocs.io/en/latest/). It miss one line: `license_item: "MIT"|"GPLv1"|..."`. This line is added there dynamically by `create-grammar.py`.
  * `create-grammar.py` - read `grammar.lark` and accepts filename as argument (usually `approved-licenses.txt`) and prints complete grammar.
 
+## Quickstart
+
+```
+dnf install license-validate
+license-validate 'LGPL-2.1-or-later AND GPL-2.0-or-later'
+license-fedora2spdx 'GPLv1'
+# GPL-1.0-only
+``
+
 ## Run from checkout
 
 ```
