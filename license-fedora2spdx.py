@@ -92,6 +92,18 @@ for l in data.keys():
 
 parser = Lark(grammar, parser="lalr", keep_all_tokens=True)
 
+def check_if_already_spdx(message):
+    # check if it is already SPDX formula
+    filename = "/usr/share/fedora-license-data/grammar.lark"
+    with open(filename) as f:
+        grammar = f.read()
+    new_parser = Lark(grammar)
+    try:
+        new_parser.parse(text)
+        print(message)
+    except LarkError as e:
+        pass
+
 try:
     text = opts.license
     tree = parser.parse(text)
@@ -99,9 +111,15 @@ try:
     # approved license
     if opts.verbose > 0:
         print("Approved license")
+    check_if_already_spdx("""
+Note: the input is already valid SPDX formula, But that may be a coincidence,
+because the legacy identifier represented the whole family of licenses.
+Please check if the license would match one of the licenses above.
+""")
 except LarkError as e:
     # not approved license
-    print("Not a valid license string. Pass '--verbose' to get full parser error.")
+    print("Not a valid license string in legacy syntax. Pass '--verbose' to get full parser error.")
     if opts.verbose > 0:
         print(e)
+    check_if_already_spdx("Note: the input is already valid SPDX formula")
     sys.exit(1)
