@@ -295,7 +295,6 @@ enchant2
 enscript
 environment-modules
 eog
-esc
 espeak-ng
 ethtool
 evince
@@ -309,7 +308,6 @@ exfatprogs
 exiv2
 expat
 expect
-extra-cmake-modules
 extra-enforcer-rules
 fabtests
 fapolicyd
@@ -398,7 +396,6 @@ git-lfs
 gjs
 gl-manpages
 glade
-glew
 glib-networking
 glib2
 glibc
@@ -508,6 +505,7 @@ hamcrest
 haproxy
 harfbuzz
 hdparm
+heimdal
 help2man
 hexedit
 hicolor-icon-theme
@@ -719,8 +717,6 @@ iniparser
 initscripts
 insights-client
 intel-cmt-cat
-intel-ipp-crypto-mb
-intel-ipsec-mb
 intltool
 iotop
 ipa
@@ -818,7 +814,6 @@ keycloak-httpd-client-install
 keylime
 keylime-agent-rust
 keyutils
-kf5
 khmer-os-fonts
 kmod
 kmod-kvdo
@@ -887,6 +882,7 @@ libb2
 libblkio
 libblockdev
 libbpf
+libbsd
 libburn
 libbytesize
 libcamera
@@ -901,7 +897,6 @@ libconfig
 libcupsfilters
 libdaemon
 libdatrie
-libdazzle
 libdb
 libdbusmenu
 libdecor
@@ -936,6 +931,7 @@ libgcrypt
 libgee
 libgexiv2
 libgit2
+libgit2_1.6
 libglvnd
 libgnomekbd
 libgpg-error
@@ -977,6 +973,7 @@ libmad
 libmatchbox
 libmaxminddb
 libmbim
+libmd
 libmediaart
 libmemcached-awesome
 libmicrohttpd
@@ -1075,7 +1072,6 @@ libtpms
 libtracecmd
 libtraceevent
 libtracefs
-libuninameslist
 libunistring
 libunwind
 liburing
@@ -1270,12 +1266,11 @@ mod_security_crs
 mod_wsgi
 modello
 modulemaker-maven-plugin
-modulemd-tools
 mojo-parent
 mokutil
 motif
 mozilla-filesystem
-mozjs102
+mozjs115
 mpdecimal
 mpfr
 mpg123
@@ -1328,7 +1323,6 @@ npth
 nss
 nss-altfiles
 nss_wrapper
-ntfs-3g
 ntpstat
 numactl
 numad
@@ -1854,7 +1848,6 @@ python-cffsubr
 python-charset-normalizer
 python-configobj
 python-configshell
-python-construct
 python-cpuinfo
 python-cryptography
 python-cups
@@ -1900,7 +1893,7 @@ python-justbytes
 python-jwcrypto
 python-kdcproxy
 python-kmod
-python-lark-parser
+python-lark
 python-ldap
 python-lesscpy
 python-libevdev
@@ -1912,7 +1905,6 @@ python-mako
 python-markdown
 python-markupsafe
 python-meh
-python-munkres
 python-netaddr
 python-netifaces
 python-networkx
@@ -1936,7 +1928,6 @@ python-psutil
 python-psycopg2
 python-ptyprocess
 python-pyasn1
-python-pybeam
 python-pycdio
 python-pycotap
 python-pycparser
@@ -2000,7 +1991,6 @@ python-tpm2-pytss
 python-trove-classifiers
 python-typing-extensions
 python-typogrify
-python-ufoLib2
 python-urllib-gssapi
 python-urllib3
 python-urwid
@@ -2009,7 +1999,6 @@ python-wcwidth
 python-wheel
 python-wrapt
 python-yubico
-python-zopfli
 python-zstandard
 python-zstd
 python3-mallard-ducktype
@@ -2107,6 +2096,8 @@ rest
 resteasy
 restore
 rgb
+rhc
+rhc-worker-playbook
 rhel-system-roles
 rhel-system-roles-sap
 rig
@@ -2207,6 +2198,7 @@ shim
 shim-unsigned-aarch64
 shim-unsigned-x64
 sid
+signify
 sil-abyssinica-fonts
 sil-mingzat-fonts
 sil-nuosu-fonts
@@ -2288,6 +2280,7 @@ tcl
 tcpdump
 tcsh
 teckit
+tecla
 telnet
 tesseract
 tesseract-tessdata
@@ -2397,7 +2390,6 @@ vulkan-headers
 vulkan-loader
 vulkan-tools
 vulkan-validation-layers
-wasmedge
 watchdog
 wavpack
 wayland
@@ -2490,12 +2482,12 @@ yasm
 yelp
 yelp-tools
 yelp-xsl
+yggdrasil
+yggdrasil-worker-package-manager
 zaf
 zchunk
-zenity
 zip
 zlib
-zopfli
 zsh
 zstd
 zziplib
