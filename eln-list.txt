@@ -5,7 +5,6 @@ HdrHistogram_c
 Judy
 ModemManager
 NetworkManager
-NetworkManager-libreswan
 OpenIPMI
 PEGTL
 PackageKit
@@ -505,7 +504,6 @@ hamcrest
 haproxy
 harfbuzz
 hdparm
-heimdal
 help2man
 hexedit
 hicolor-icon-theme
@@ -748,7 +746,6 @@ jackson-jaxrs-providers
 jackson-modules-base
 jackson-parent
 jakarta-activation
-jakarta-activation1
 jakarta-annotations
 jakarta-mail
 jakarta-oro
@@ -756,8 +753,6 @@ jakarta-servlet
 jansi
 jansson
 jasper
-java-1.8.0-openjdk
-java-1.8.0-openjdk-portable
 java-17-openjdk
 java-17-openjdk-portable
 java-21-openjdk
@@ -793,6 +788,7 @@ js-d3-flame-graph
 jsch
 json-c
 json-glib
+jsoup
 jsr-305
 jss
 julietaula-montserrat-fonts
@@ -817,13 +813,13 @@ keyutils
 khmer-os-fonts
 kmod
 kmod-kvdo
-koji
 kpatch
 krb5
 kronosnet
 ksc
 ksh
 ksmtuned
+kyotocabinet
 lame
 langpacks
 langtable
@@ -882,7 +878,6 @@ libb2
 libblkio
 libblockdev
 libbpf
-libbsd
 libburn
 libbytesize
 libcamera
@@ -930,8 +925,6 @@ libfprint
 libgcrypt
 libgee
 libgexiv2
-libgit2
-libgit2_1.6
 libglvnd
 libgnomekbd
 libgpg-error
@@ -973,7 +966,6 @@ libmad
 libmatchbox
 libmaxminddb
 libmbim
-libmd
 libmediaart
 libmemcached-awesome
 libmicrohttpd
@@ -1313,9 +1305,7 @@ nftables
 nghttp2
 nginx
 ninja-build
-nispor
 nmap
-nmstate
 nodejs-nodemon
 nodejs-packaging
 nodejs20
@@ -1659,8 +1649,6 @@ perl-Sub-Install
 perl-Sub-Quote
 perl-Sub-Uplevel
 perl-Syntax-Keyword-Try
-perl-Sys-CPU
-perl-Sys-MemInfo
 perl-Sys-Syslog
 perl-Taint-Runtime
 perl-Term-ANSIColor
@@ -1859,7 +1847,6 @@ python-dbus-python-client-gen
 python-dbus-signature-pyparsing
 python-dbusmock
 python-decorator
-python-deprecated
 python-distro
 python-distutils-extra
 python-dmidecode
@@ -1932,7 +1919,6 @@ python-pycdio
 python-pycotap
 python-pycparser
 python-pycurl
-python-pygit2
 python-pygments
 python-pyproject-hooks
 python-pyqt5-sip
@@ -1958,7 +1944,6 @@ python-resolvelib
 python-rjsmin
 python-rpm-generators
 python-rpm-macros
-python-rpmautospec
 python-rtslib
 python-ruamel-yaml
 python-ruamel-yaml-clib
@@ -1997,7 +1982,6 @@ python-urwid
 python-virt-firmware
 python-wcwidth
 python-wheel
-python-wrapt
 python-yubico
 python-zstandard
 python-zstd
@@ -2172,7 +2156,6 @@ scap-security-guide
 scapy
 scipy
 scl-utils
-scons
 scrub
 sdl12-compat
 seabios
@@ -2198,7 +2181,6 @@ shim
 shim-unsigned-aarch64
 shim-unsigned-x64
 sid
-signify
 sil-abyssinica-fonts
 sil-mingzat-fonts
 sil-nuosu-fonts
@@ -2350,8 +2332,6 @@ upower
 uresourced
 urlview
 urw-base35-fonts
-usb_modeswitch
-usb_modeswitch-data
 usbguard
 usbguard-notifier
 usbredir

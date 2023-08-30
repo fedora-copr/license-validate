@@ -30,8 +30,6 @@ adjtimex
 admeshgui
 admesh
 adobe-afdko
-adobe-source-code-pro-fonts
-Error pulling 'adobe-source-sans-pro-fonts'
 adobe-source-sans-pro-fonts
 adobe-source-serif-pro-fonts
 adplug
@@ -134,14 +132,6 @@ ansible-packaging
 ansible-pcp
 ansible
 ansifilter
-ant-contrib
-antimicrox
-antiword
-antlr-maven-plugin
-antlr
-antlrworks
-ant
-ants
 anyterm
 aoetools
 aom
@@ -181,7 +171,6 @@ appmenu-qt
 appmenu-qt5
 appres
 appstream-generator
-appstream
 apptainer
 appx-util
 apr-api-docs
@@ -199,7 +188,6 @@ arandr
 ara
 arbor
 arc-gui-clients
-arc-kde
 arc
 arc-theme
 ardour6
@@ -309,7 +297,6 @@ autorandr
 auto
 autossh
 autowrap
-avahi
 avgtime
 avl
 avogadro2-libs
@@ -745,6 +732,7 @@ coin-or-SYMPHONY
 coin-or-Vol
 coin
 Coin4
+Error pulling 'coldet'
 coldet
 colin
 collectd
@@ -919,7 +907,6 @@ dar
 dasher
 datamash
 dataquay
-datefudge
 davfs2
 davix
 dav1d
@@ -984,7 +971,6 @@ deepin-image-viewer
 deepin-kwin
 deepin-launcher
 deepin-menu
-deepin-network-utils
 deepin-picker
 deepin-polkit-agent
 deepin-pw-check
@@ -1024,7 +1010,6 @@ devtodo
 dev86
 d-feet
 dfu-util
-Error pulling 'dfuzzer'
 dfuzzer
 dgit
 dhall-json
@@ -1339,7 +1324,6 @@ enet
 engauge-digitizer
 engrampa
 enchant
-Error pulling 'enchant2'
 enchant2
 enigma
 enjarify
@@ -1536,6 +1520,7 @@ farstream02
 fastback
 fastbit
 fastd
+Error pulling 'fastlz'
 fastlz
 fastnetmon
 fastx_toolkit
@@ -1631,7 +1616,6 @@ fetch-crl
 fetchlog
 fex
 ffsb
-fftw
 fftw2
 ffuf
 fgrun
@@ -1714,13 +1698,11 @@ foliate
 folks
 folly-rpm-macros
 folly
-foma
 fondo
 fontdump
 fontopia
 fonts-KOI8-R
 fontsquirrel-crete-round-fonts
-fonttosfnt
 foot
 foremost
 forge-parent
@@ -1842,7 +1824,6 @@ gap-pkg-radiroot
 garcon
 gargi-fonts
 GarminPlugin
-garmintools
 ga
 gauche
 gau2grid
@@ -1925,7 +1906,6 @@ gflags
 gforth
 gfs-ambrosia-fonts
 gfs-artemisia-fonts
-Error pulling 'gfs-baskerville-fonts'
 gfs-baskerville-fonts
 gfs-bodoni-classic-fonts
 gfs-bodoni-fonts
@@ -1973,7 +1953,6 @@ ghc-cassava
 ghc-cereal
 ghc-colourista
 ghc-concurrent-output
-Error pulling 'ghc-conduit-extra'
 ghc-conduit-extra
 ghc-conduit
 ghc-config-ini
@@ -2212,7 +2191,6 @@ gmediarender
 gmime
 gmime30
 gmm
-gmp
 gmsh
 GMT
 gnatcoll-bindings
@@ -2347,7 +2325,6 @@ gnushogi
 gnusim8085
 gnustep-base
 gnustep-make
-gnutls
 goaccess
 goaltdns
 gobi_loader
@@ -2435,7 +2412,9 @@ golang-github-antchfx-xpath
 golang-github-antihax-optional
 golang-github-apache-arrow
 golang-github-apache-beam-2
+Error pulling 'golang-github-apapsch-jsonmerge-2'
 golang-github-appc-docker2aci
+Error pulling 'golang-github-appc-goaci'
 golang-github-appc-goaci
 golang-github-appc-spec
 golang-github-aquarapid-vaultlib
@@ -2457,7 +2436,6 @@ golang-github-aws-sdk-2
 golang-github-aws-smithy
 golang-github-axgle-mahonia
 golang-github-aykevl-wasm
-Error pulling 'golang-github-aymanbagabas-osc52'
 golang-github-azure-amqp-common
 golang-github-azure-amqp
 golang-github-azure-autorest
@@ -2762,6 +2740,7 @@ golang-github-gobwas-glob
 golang-github-gobwas-httphead
 golang-github-gobwas-pool
 golang-github-gobwas-ws
+golang-github-goccy-json
 golang-github-gocolly-colly-2
 golang-github-gocql
 golang-github-godbus-dbus
@@ -3089,7 +3068,6 @@ golang-github-mdlayher-ethernet
 golang-github-mdlayher-genetlink
 golang-github-mdlayher-netlink
 golang-github-mdlayher-raw
-Error pulling 'golang-github-mdlayher-wifi'
 golang-github-mdlayher-wifi
 golang-github-mesos
 golang-github-mgutz-ansi
@@ -3116,6 +3094,7 @@ golang-github-mitchellh-homedir
 golang-github-mitchellh-mapstructure
 golang-github-mitchellh-ps
 golang-github-mitchellh-reflectwalk
+golang-github-mitchellh-testing-interface
 golang-github-mitchellh-vnc
 golang-github-mitchellh-wordwrap
 golang-github-mmarkdown-mmark
@@ -3290,6 +3269,7 @@ golang-github-projectdiscovery-fileutil
 golang-github-projectdiscovery-goconfig
 golang-github-projectdiscovery-goflags
 golang-github-projectdiscovery-gologger
+Error pulling 'golang-github-projectdiscovery-hmap'
 golang-github-projectdiscovery-hmap
 golang-github-projectdiscovery-httputil
 golang-github-projectdiscovery-httpx
@@ -3302,6 +3282,7 @@ golang-github-projectdiscovery-retryabledns
 golang-github-projectdiscovery-retryablehttp
 golang-github-projectdiscovery-sliceutil
 golang-github-projectdiscovery-stringsutil
+Error pulling 'golang-github-projectdiscovery-utils'
 golang-github-prometheus-alertmanager
 golang-github-prometheus-client-model
 golang-github-prometheus-common
@@ -3619,7 +3600,6 @@ golang-gopkg-pipe-2
 golang-gopkg-readline-1
 golang-gopkg-redis-6
 golang-gopkg-rethinkdb-6
-golang-gopkg-retry-1
 golang-gopkg-robfig-cron-3
 golang-gopkg-russross-blackfriday-1
 golang-gopkg-russross-blackfriday-2
@@ -3667,6 +3647,8 @@ golang-k8s-sample-cli-plugin
 golang-k8s-sample-controller
 golang-k8s-utils
 golang-layeh-gopher-luar
+Error clonnig 'golang-modernc-ccorpus2'
+golang-modernc-ccorpus2
 golang-modernc-fileutil
 golang-modernc-golex
 golang-modernc-lexer
@@ -3751,7 +3733,6 @@ google-authenticator
 google-compute-engine-oslogin
 google-cpu_features
 google-crosextra-caladea-fonts
-google-droid-fonts
 google-gson
 google-guice
 google-roboto-mono-fonts
@@ -3962,7 +3943,6 @@ Hermes
 herqq
 hexer
 hexglass
-Error pulling 'hexchat-autoaway'
 hexchat-autoaway
 hexchat
 hfsplus-tools
@@ -3982,7 +3962,6 @@ highway
 hikari
 hiran-perizia-fonts
 hiredis
-Error pulling 'hirte'
 hitch
 hledger-ui
 hmmer
@@ -4183,7 +4162,6 @@ iptstate
 ipv6calc
 ipv6gen
 ipxe
-Error pulling 'ipxripd'
 ipxripd
 ipython
 IP2Location
@@ -4210,7 +4188,6 @@ isync
 itcl
 itk
 itop
-itstool
 iucode-tool
 iverilog
 iv
@@ -4240,7 +4217,6 @@ jakarta-activation
 jakarta-annotations
 jakarta-el
 jakarta-interceptors
-jakarta-mail
 jakarta-oro
 jakarta-saaj
 jakarta-server-pages
@@ -4461,6 +4437,7 @@ kdissert
 kdnssd-avahi
 kdnssd
 kdsoap
+kea
 keditbookmarks
 keepassxc
 kemie-bellota-fonts
@@ -4834,7 +4811,6 @@ launchy
 lavalauncher
 layer-shell-qt
 layla-fonts
-lazygal
 lbdb
 lbd
 lbrickbuster2
@@ -4944,7 +4920,6 @@ libdatovka
 libdazzle
 libdbi-drivers
 libdbi
-libdb
 libdbusextended-qt5
 libdbusmenu
 libdecor
@@ -4977,7 +4952,6 @@ libebml
 libecap
 libecb
 libeconf
-libecpg
 libecpint
 libefp
 libechonest
@@ -4988,8 +4962,6 @@ libepc
 libepoxy
 liberasurecode
 liberation-circuit
-liberation-fonts
-liberation-narrow-fonts
 libesedb
 libesmtp
 libetnaviv
@@ -5227,7 +5199,6 @@ libpqxx
 libpreludedb
 libprojectM
 libproxy
-libpsl
 libpsm2
 libqalculate
 libQGLViewer
@@ -5279,7 +5250,7 @@ libsavitar
 libsbml
 libsbw
 libscrypt
-libsearpc
+Error pulling 'libsecp256k1'
 libsecp256k1
 libsecret
 libsedml
@@ -5354,7 +5325,6 @@ libunibreak
 libunicapgtk
 libunicap
 libuninum
-libunistring
 libunity
 libunwind
 libupnp
@@ -5363,7 +5333,6 @@ libusbauth-configparser
 libusb-compat-0.1
 libusbg
 libusb1
-libuser
 libuv
 libu2f-host
 libu2f-server
@@ -5403,7 +5372,6 @@ libwvstreams
 libXau
 libXaw
 libxcb
-Error pulling 'libXcm'
 libXcm
 libXcomposite
 libxc
@@ -5533,7 +5501,6 @@ logstalgia
 log4cplus
 log4cpp
 log4c
-log4j
 log4net
 lohit-bengali-fonts
 lohit-devanagari-fonts
@@ -5570,52 +5537,6 @@ lsyncd
 lterm
 ltrace
 ltunify
-lua-alt-getopt
-lua-argparse
-lua-basexx
-lua-binaryheap
-luabind
-lua-bitop
-lua-bit32
-lua-compat53
-lua-coxpcall
-lua-cqueues
-lua-dbi
-lua-event
-lua-expat
-lua-fifo
-lua-filesystem
-lua-http
-lua-inotify
-luajit
-lua-json
-lua-ldap
-lua-ldoc
-lua-lgi
-lua-loop
-lua-lpeg-patterns
-lua-lpeg
-lua-luaossl
-lua-lunitx
-lua-lxc
-lua-markdown
-lua-md5
-lua-mmdb
-lua-moonscript
-lua-mosquitto
-lua-mpack
-lua-penlight
-lua-posix
-lua-psl
-lua-readline
-luarocks
-lua-rpm-macros
-lua-sec
-lua-socket
-lua
-lua-sql
-lua-term
-lua-unbound
 lucene++
 lucene
 lugaru
@@ -5677,7 +5598,6 @@ lxshortcut
 lxsplit
 lxtask
 lyx
-lzma-sdk
 lzma-sdk457
 lzo
 l3afpad
@@ -5717,7 +5637,6 @@ mandoc
 manedit
 mangohud
 man-pages-ja
-Error pulling 'man-pages-ko'
 man-pages-ko
 man-pages-l10n
 man2html
@@ -5864,7 +5783,6 @@ micronucleus
 micropython
 micro
 midisport-firmware
-midori
 migemo
 miglayout
 migrationtools
@@ -6011,7 +5929,6 @@ mingw-opus
 mingw-orc
 mingw-pangomm
 mingw-pango
-mingw-pcre
 mingw-pcre2
 mingw-pdcurses
 mingw-physfs
@@ -6189,6 +6106,7 @@ mod_maxminddb
 mod_mono
 mod_perl
 mod_psgi
+Error pulling 'mod_suphp'
 mod_suphp
 module-build-service
 module-build
@@ -6347,7 +6265,6 @@ nautilus-python
 nautilus
 nawk
 nazghul
-Error pulling 'nbc'
 nbc
 nbd-runner
 nbd
@@ -6356,7 +6273,6 @@ ncdc
 ncid
 ncl
 ncmpcpp
-ncompress
 nco
 ncrack
 Error pulling 'ncurses-epel'
@@ -6417,7 +6333,6 @@ netstat-monitor
 netstat-nat
 netsurf
 nettee
-nettle
 network-manager-applet
 NetworkManager-fortisslvpn
 NetworkManager-iodine
@@ -6435,6 +6350,7 @@ neuron
 newlisp
 newsbeuter
 newsboat
+Error pulling 'newscache'
 newscache
 new-session-manager
 newtonsoft-json
@@ -6469,7 +6385,6 @@ nilfs-utils
 ninja-build
 nipy-data
 nip2
-nispor
 nitrogen
 nitrokey-app
 njam
@@ -6479,7 +6394,6 @@ nmap
 nmbscan
 nmh
 nml
-nmstate
 nng
 nnn
 nodejs-acorn-object-spread
@@ -6516,7 +6430,6 @@ notification-daemon-engine-nodoka
 notification-daemon
 notify-sharp
 notify-sharp3
-Error pulling 'nova-agent'
 nova-agent
 novnc
 nqc
@@ -6632,6 +6545,7 @@ octave-miscellaneous
 octave-ncarray
 octave-netcdf
 octave-odepkg
+Error pulling 'octave-optim'
 octave-optim
 octave-parallel
 octave-quaternion
@@ -6893,7 +6807,6 @@ pavucontrol
 pavumeter
 pax
 pax-utils
-pbzip2
 pcaro-hermit-fonts
 pcaudiolib
 pcb-rnd
@@ -6980,7 +6893,6 @@ perl-Apache2-SOAP
 perl-App-Asciio
 perl-App-Cache
 perl-App-CLI
-perl-App-Cmd
 perl-AppConfig
 perl-AppConfig-Std
 perl-App-Daemon
@@ -7193,7 +7105,6 @@ perl-Class-Whitehole
 perl-CLI-Osprey
 perl-Clipboard
 perl-Clone-Choose
-Error pulling 'perl-Clownfish-CFC'
 perl-Clownfish-CFC
 perl-Clownfish
 perl-Color-Calc
@@ -7206,7 +7117,6 @@ perl-Config-Augeas
 perl-Config-Auto
 perl-Config-Extend-MySQL
 perl-Config-General
-Error pulling 'perl-Config-Generator'
 perl-Config-Generator
 perl-Config-GitLike
 perl-Config-Grammar
@@ -7626,7 +7536,6 @@ perl-Ima-DBI
 perl-Image-Base
 perl-Image-Dot
 perl-Image-ExifTool
-perl-Image-Info
 perl-Image-Sane
 perl-Image-Size
 perl-Image-Xbm
@@ -7704,7 +7613,6 @@ perl-Lingua-Identify
 perl-Lingua-Preferred
 perl-Lingua-Translit
 perl-Linux-Pid
-perl-LMDB_File
 perl-Locale-Maketext-Fuzzy
 perl-Locale-Maketext-Gettext
 perl-Locale-Maketext-Lexicon
@@ -7936,6 +7844,7 @@ perl-Net-Statsd-Server
 perl-Net-Statsd
 perl-Net-STOMP-Client
 perl-Net-Twitter-Lite
+Error pulling 'perl-Net-Twitter'
 perl-Net-Twitter
 perl-Net-UPnP
 perl-Net-Whois-Raw
@@ -8308,7 +8217,6 @@ perl-Text-Iconv
 perl-Text-Layout
 perl-Text-Levenshtein
 perl-Text-LevenshteinXS
-perl-Text-MultiMarkdown
 perl-Text-Ngram
 perl-Text-Password-Pronounceable
 perl-Text-Patch
@@ -8473,7 +8381,6 @@ petsc
 pew
 pg_activity
 pgadmin4
-pgaudit
 pg_auto_failover
 pgbouncer
 pgpdump
@@ -8557,7 +8464,6 @@ php-domxml-php4-php5
 php-egulias-email-validator
 php-egulias-email-validator2
 php-echonest-api
-Error pulling 'php-email-address-validation'
 php-email-address-validation
 php-endroid-qrcode
 php-erusev-parsedown
@@ -8847,7 +8753,6 @@ php-williamdes-mariadb-mysql-kbs
 php-xmlseclibs
 php-xmpphp
 php-yoast-phpunit-polyfills
-Error pulling 'php-zetacomponents-base'
 php-zetacomponents-base
 php-zetacomponents-console-tools
 php-zetacomponents-unit-test
@@ -8933,6 +8838,7 @@ playitagainsam
 playonlinux
 plee-the-bear
 plexus-build-api
+plexus-build-api0
 plexus-component-api
 plexus-i18n
 plexus-languages
@@ -8963,7 +8869,6 @@ po-debconf
 podman-tui
 podofo
 poedit
-poetry
 poezio-omemo
 poezio
 pogo
@@ -9006,7 +8911,6 @@ powerdevil
 powerline-go
 powerline
 powermanga
-power-profiles-daemon
 powertop
 powwow
 poxml
@@ -9024,7 +8928,6 @@ prelude-lml-rules
 prelude-lml
 prelude-manager
 premake
-prename
 preprocess
 preproc
 prestopalette
@@ -9154,6 +9057,7 @@ pypolicyd-spf
 pyppd
 pypykatz
 pypy
+pypy3.10
 pypy3.9
 pyp2rpm
 PyQt-builder
@@ -9291,7 +9195,6 @@ python-atomicwrites
 python-atpublic
 python-audioread
 python-auth-credential
-python-authlib
 python-authres
 python-autobahn
 python-automaton
@@ -9447,6 +9350,7 @@ python-cattrs
 python-cbor2
 python-cccolutils
 python-ccdproc
+Error pulling 'python-cclib'
 python-cclib
 python-celery
 python-cerberus
@@ -9467,7 +9371,6 @@ python-click-help-colors
 python-click-log
 python-click-man
 python-click-repl
-python-click
 python-click-spinner
 python-click-threading
 python-cliff
@@ -9584,7 +9487,6 @@ python-daphne
 python-dasbus
 python-dask
 python-datadog
-Error pulling 'python-datalad'
 python-datalad
 python-dateutils
 python-datrie
@@ -9721,7 +9623,6 @@ python-elephant
 python-elpy
 python-emcee
 python-empy
-python-enchant
 python-enlighten
 python-enrich
 python-enthought-sphinx-theme
@@ -10002,15 +9903,14 @@ python-cherrypy
 python-chirpstack-api
 python-chm
 python-ibm-vpc
-python-idna
 python-idna-ssl
 python-idstools
 python-ifaddr
+Error pulling 'python-ifcfg'
 python-ifcfg
 python-igor
 python-imagehash
 python-imageio
-python-imagesize
 python-img2pdf
 python-impacket
 python-importlib-metadata
@@ -10067,7 +9967,6 @@ python-jenkins
 python-jep
 python-jinja2-cli
 python-jinja2_pluralize
-python-jinja2
 python-jinja2-time
 python-jmespath
 python-jnius
@@ -10130,7 +10029,6 @@ python-ldappool
 python-ldap
 python-ldap3
 python-leather
-python-lesscpy
 python-leveldb
 python-lfpy
 python-libarchive-c
@@ -10189,12 +10087,10 @@ python-masscan
 python-matplotlib-inline
 python-matplotlib-scalebar
 python-matplotlib-venn
-python-matrix-common
 python-matrix-synapse-ldap3
 python-maxminddb
 python-maya
 python-mccabe
-python-mdurl
 python-mdx_gh_links
 python-meautility
 python-mechanicalsoup
@@ -10228,7 +10124,6 @@ python-mne-bids
 python-mnemonic
 python-mne
 python-mockito
-python-mock
 python-mock-ssh-server
 python-modernize
 python-modestmaps
@@ -10283,7 +10178,6 @@ python-natsort
 python-nbclient
 python-nbconvert
 python-nbformat
-python-nbsphinx
 python-nbxmpp
 python-ndg_httpsclient
 python-neatdend
@@ -10346,6 +10240,7 @@ python-octave-kernel
 python-octaviaclient
 python-odata-query
 python-odml
+python-ofxparse
 python-ogr
 python-olefile
 python-oletools
@@ -10469,9 +10364,7 @@ python-pluginbase
 python-pluginlib
 python-plugnplay
 python-plumbum
-python-ply
 python-pmw
-python-poetry-core
 python-polib
 python-policyuniverse
 python-pooch
@@ -10526,8 +10419,6 @@ python-pycoingecko
 python-pycomfoair
 python-pycomm3
 python-pycosat
-python-pycotap
-python-pycparser
 python-pycurl
 python-pycxx
 python-pydantic
@@ -10690,7 +10581,6 @@ python-pytest-mpl
 python-pytest-multihost
 python-pytest-openfiles
 python-pytest-ordering
-python-pytest-param-files
 python-pytest-postgresql
 python-pytest-randomly
 python-pytest-relaxed
@@ -10738,7 +10628,6 @@ python-py2pack
 python-py9p
 python-qcelemental
 python-qdarkstyle
-python-qrcode
 python-q
 python-qstylizer
 python-qtconsole
@@ -10793,7 +10682,6 @@ python-requests-gssapi
 python-requests-kerberos
 python-requests-mock
 python-requests-pkcs12
-python-requests
 python-requests-unixsocket
 python-requre
 python-resolvelib
@@ -10873,9 +10761,6 @@ python-serpy
 python-service-identity
 python-setproctitle
 python-setuptools_git
-python-setuptools-rust
-python-setuptools_scm_git_archive
-python-setuptools_scm
 python-sgmllib3k
 python-shade
 python-shamir-mnemonic
@@ -10903,10 +10788,8 @@ python-simplevisor
 python-simplewrap
 python-singledispatch
 python-sklearn-genetic-opt
-python-sklearn-genetic
 python-sklearn-nature-inspired-algorithms
 python-slacker
-python-slip
 python-slixmpp-omemo
 python-slixmpp
 python-slugify
@@ -10941,7 +10824,6 @@ python-sphinxcontrib-apidoc
 python-sphinxcontrib-asyncio
 python-sphinxcontrib-autoprogram
 python-sphinxcontrib-blockdiag
-python-sphinxcontrib-devhelp
 python-sphinxcontrib-httpdomain
 python-sphinxcontrib-log-cabinet
 python-sphinxcontrib-openapi
@@ -10959,7 +10841,6 @@ python-sphinx-epytext
 python-sphinxext-opengraph
 python-sphinx-gallery
 python-sphinx-hoverxref
-python-sphinx-inline-tabs
 python-sphinx-intl
 python-sphinx-issues
 python-sphinx-kr-theme
@@ -11038,7 +10919,6 @@ python-tempdir
 python-tempita
 python-tempora
 python-tenacity
-Error pulling 'python-termcolor'
 python-termcolor
 python-terminaltables
 python-teslajsonpy
@@ -11107,7 +10987,6 @@ python-twitter
 python-tw2-core
 python-tw2-forms
 python-txaio
-python-txredisapi
 python-txws
 python-txzmq
 python-typedecorator
@@ -11127,21 +11006,15 @@ python-uamqp
 python-ufl
 python-uinput
 python-u-msgpack-python
-Error pulling 'python-unidecode'
 python-unidecode
-Error pulling 'python-unidiff'
 python-unidiff
 python-unipath
 python-unpaddedbase64
-Error pulling 'python-upnpy'
 python-upnpy
 python-upoints
-Error pulling 'python-uptime'
 python-uptime
-Error pulling 'python-uranium'
 python-uranium
 python-uritemplate
-Error pulling 'python-uri-templates'
 python-uri-templates
 python-urlgrabber
 python-urllib-gssapi
@@ -11151,7 +11024,6 @@ python-urwidtrees
 python-user-agents
 python-usort
 python-utils
-Error pulling 'python-utmp'
 python-utmp
 python-uvicorn
 python-uvloop
@@ -11193,7 +11065,6 @@ python-waqiasync
 python-waterfurnace
 python-watchdog
 python-watchgod
-python-wcag-contrast-ratio
 python-wcwidth
 python-webcolors
 python-webencodings
@@ -11216,7 +11087,6 @@ python-whoosh
 python-wiffi
 python-wikipedia
 python-wikitcms
-Error pulling 'python-winacl'
 python-winacl
 python-winrm
 python-winsspi
@@ -11287,7 +11157,6 @@ python-XStatic-Spin
 python-XStatic-termjs
 python-xunitparser
 python-xvfbwrapper
-Error pulling 'python-xxhash'
 python-xxhash
 python-x2go
 python-x3dh
@@ -11366,9 +11235,7 @@ pyxattr
 pyxdg
 PyX
 p0f
-Error pulling 'p0rn-comfort'
 p0rn-comfort
-p11-kit
 p11-remote
 p7zip
 qaccessibilityclient
@@ -11511,6 +11378,7 @@ rabbitmq-server
 R-abind
 raceintospace
 R-acepack
+racket
 radare2
 radcli
 raddump
@@ -11656,7 +11524,6 @@ recutils
 redeclipse
 redhat-lsb
 redhat-menus
-redhat-rpm-config
 redir
 RediSearch
 redis
@@ -11905,7 +11772,6 @@ rpl
 R-plyr
 rply
 rpmdeplint
-rpmdevtools
 rpm-git-tag-sort
 rpmgrill
 rpminspect-data-centos
@@ -12213,8 +12079,6 @@ sdparm
 sdrangel
 sdrpp
 sdsl-lite
-seadrive-daemon
-seadrive-gui
 seafile-client
 seafile
 seahorse-adventures
@@ -12549,7 +12413,6 @@ starplot-contrib
 starplot-gliese3
 starplot
 starplot-yale5
-star
 startdde
 startup-notification
 statsd
@@ -12796,7 +12659,6 @@ texworks
 tfdocgen
 tgif
 thc-ipv6
-thefuck
 theme-switcher
 thermald
 the_silver_searcher
@@ -12814,7 +12676,6 @@ tiedot
 tikzit
 tilda
 tilibs
-Error pulling 'tilp_and_gfm'
 tilp_and_gfm
 timescaledb
 timeshift
@@ -12867,7 +12728,6 @@ tnef
 tng
 tntnet
 tn5250
-todocli
 tofrodos
 toga2
 tokodon
@@ -12939,7 +12799,6 @@ truth
 tse3
 tslib
 tsl-sparse-map
-tss2
 tsung
 ttcp
 ttembed
@@ -13019,7 +12878,6 @@ undbx
 unetbootin
 unhide
 unibilium
-unicode-ucd
 unicornscan
 unicorn
 unifdef
@@ -13053,15 +12911,11 @@ urh
 uriparser
 urjtag
 urlbuster
-Error pulling 'urlwatch'
 urlwatch
 uronode
 ursa-major
-Error pulling 'usbauth-notifier'
 usbauth-notifier
 usbauth
-usb_modeswitch-data
-usb_modeswitch
 usbmon
 usbsniff
 usbtop
@@ -13166,7 +13020,6 @@ vimiv
 vim-javabrowser
 vim-jedi
 vim-jellybeans
-vim-latex
 vim-mediawiki
 vim-nerdtree
 vim-omnicppcomplete
@@ -13220,7 +13073,6 @@ voro++
 votca
 vpnc-script
 vpnc
-vrms-rpm
 vrq
 vsqlite++
 vtable-dumper
@@ -13289,7 +13141,6 @@ weiweihuanghuang-work-sans-fonts
 weld-parent
 wemux
 weston
-Error pulling 'wf-config'
 wf-config
 wf-shell
 wf
@@ -13312,8 +13163,6 @@ wiki2beamer
 wildmagic5
 wildmidi
 wimlib
-WindowMaker-extra
-WindowMaker
 wine-dxvk
 wineglass
 wine-mono
@@ -13341,7 +13190,6 @@ wmctrl
 wmdocker
 wmfrog
 wmname
-wmweather+
 wmx
 wob
 WoeUSB
@@ -13458,6 +13306,7 @@ xfce-theme-manager
 xfce4-appfinder
 xfce4-battery-plugin
 xfce4-calculator-plugin
+Error pulling 'xfce4-clipman-plugin'
 xfce4-clipman-plugin
 xfce4-cpufreq-plugin
 xfce4-cpugraph-plugin
@@ -13718,6 +13567,7 @@ zaz
 zcfan
 zd1211-firmware
 zeal
+zeek
 zegrapher
 zeitgeist
 zenity
@@ -13761,7 +13611,6 @@ zulucrypt
 zynaddsubfx
 zypper
 z80asm
-Error pulling 'z80dasm'
 z80dasm
 z88dk
 0ad-data
@@ -13777,4 +13626,3 @@ z88dk
 4Pane
 4th
 64tass
-90-Second-Portraits
