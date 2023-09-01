@@ -1,6 +1,7 @@
 389-ds-base
 ModemManager
 NetworkManager
+NetworkManager-libreswan
 PyQt-builder
 Xaw3d
 a52dec
@@ -8,7 +9,6 @@ accountsservice
 adcli
 adobe-afdko
 ansible-pcp
-aopalliance
 apache-commons-beanutils
 apache-commons-cli
 apache-commons-collections
@@ -17,7 +17,6 @@ apache-commons-compress
 apache-commons-exec
 apache-commons-jxpath
 apache-resource-bundles
-apiguardian
 apr
 apr-util
 aqute-bnd
@@ -356,7 +355,6 @@ libmediaart
 libmpeg2
 libmspack
 libmtp
-libmysofa
 libndp
 libnetfilter_conntrack
 libnetfilter_cthelper
@@ -376,7 +374,6 @@ libportal
 libqmi
 libqrtr-glib
 librabbitmq
-libreswan
 librhsm
 librsvg2
 libsamplerate
@@ -470,13 +467,11 @@ metis
 microcode_ctl
 mingw-binutils
 mingw-gcc
-mingw-gettext
 mingw-headers
 mingw-libffi
 mingw-pcre2
 mingw-pixman
 mingw-srvany
-mingw-termcap
 mingw-winpthreads
 minicom
 mkfontscale
@@ -550,11 +545,11 @@ pavucontrol
 pcaudiolib
 perftest
 perl-Crypt-DES
-perl-Data-UUID
 pipewire
 pixman
 pkgconf
 plexus-build-api
+plexus-build-api0
 plexus-languages
 plexus-resources
 plexus-sec-dispatcher
@@ -614,6 +609,7 @@ python-pyqt6-sip
 python-pyroute2
 python-pytest-benchmark
 python-pytest-lazy-fixture
+python-pytest-mock
 python-pytest-subtests
 python-qt5
 python-requests-file
@@ -694,7 +690,6 @@ socat
 softhsm
 sound-theme-freedesktop
 soundtouch
-source-highlight
 spamassassin
 spice-protocol
 spice-vdagent
@@ -707,7 +702,6 @@ stalld
 startup-notification
 strace
 stress-ng
-stunnel
 subscription-manager-cockpit
 subscription-manager-rhsm-certificates
 suitesparse

@@ -5,6 +5,7 @@ HdrHistogram_c
 Judy
 ModemManager
 NetworkManager
+NetworkManager-libreswan
 OpenIPMI
 PEGTL
 PackageKit
@@ -28,7 +29,6 @@ adobe-mappings-cmap
 adobe-mappings-pdf
 adobe-source-code-pro-fonts
 adwaita-icon-theme
-adwaita-qt
 aide
 alsa-firmware
 alsa-lib
@@ -219,7 +219,6 @@ cups-pk-helper
 curl
 cyrus-imapd
 cyrus-sasl
-datefudge
 dav1d
 dblatex
 dbus
@@ -283,6 +282,7 @@ edk2
 efi-rpm-macros
 efibootmgr
 efivar
+efs-utils
 egl-wayland
 eglexternalplatform
 eigen3
@@ -716,7 +716,7 @@ initscripts
 insights-client
 intel-cmt-cat
 intltool
-iotop
+iotop-c
 ipa
 ipa-healthcheck
 ipcalc
@@ -757,6 +757,8 @@ java-17-openjdk
 java-17-openjdk-portable
 java-21-openjdk
 java_cup
+javacc
+javacc-maven-plugin
 javapackages-tools
 jaxb
 jaxb-api
@@ -959,6 +961,7 @@ libkeepalive
 libksba
 libldac
 libldb
+liblerc
 liblockfile
 liblognorm
 liblouis
@@ -976,7 +979,6 @@ libmpc
 libmpeg2
 libmspack
 libmtp
-libmysofa
 libnbd
 libndp
 libnet
@@ -1305,7 +1307,9 @@ nftables
 nghttp2
 nginx
 ninja-build
+nispor
 nmap
+nmstate
 nodejs-nodemon
 nodejs-packaging
 nodejs20
@@ -1758,6 +1762,7 @@ pixman
 pkgconf
 plexus-archiver
 plexus-build-api
+plexus-build-api0
 plexus-cipher
 plexus-classworlds
 plexus-compiler
@@ -1830,6 +1835,7 @@ python-attrs
 python-augeas
 python-beniget
 python-blivet
+python-botocore
 python-breathe
 python-cffi
 python-cffsubr
@@ -1929,6 +1935,7 @@ python-pyrsistent
 python-pysocks
 python-pytest-benchmark
 python-pytest-lazy-fixture
+python-pytest-mock
 python-pytest-subtests
 python-pytest-timeout
 python-pyudev
@@ -1993,14 +2000,13 @@ pyusb
 pywbem
 pyxattr
 pyxdg
+qadwaitadecorations
 qatengine
 qatlib
 qatzip
 qclib
-qcustomplot
 qdox
 qemu-kvm
-qgnomeplatform
 qhull
 qpdf
 qt5
@@ -2332,6 +2338,8 @@ upower
 uresourced
 urlview
 urw-base35-fonts
+usb_modeswitch
+usb_modeswitch-data
 usbguard
 usbguard-notifier
 usbredir
@@ -2465,7 +2473,6 @@ yelp-xsl
 yggdrasil
 yggdrasil-worker-package-manager
 zaf
-zchunk
 zip
 zlib
 zsh

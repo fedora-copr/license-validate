@@ -125,6 +125,7 @@ anope
 ansible-bender
 ansible-collection-ansible-netcommon
 ansible-collection-ansible-utils
+ansible-collection-awx-awx
 ansible-collection-community-crypto
 ansible-collection-community-docker
 ansible-collection-community-general
@@ -145,7 +146,6 @@ ansifilter
 anyterm
 aoetools
 aom
-aopalliance
 apache-cloudstack-cloudmonkey
 apache-commons-beanutils
 apache-commons-cli
@@ -170,7 +170,6 @@ apanov-heuristica-fonts
 apbs
 apcupsd
 apfs-fuse
-apiguardian
 apitrace
 APLpy
 apmd
@@ -264,7 +263,6 @@ astronomy-menus
 ast
 astyle
 asunder
-asymptote
 atari++
 atari800
 atasm
@@ -308,6 +306,7 @@ autoconf213
 autofs
 autojump
 autokey
+autolink-java
 automake
 automoc
 autorandr
@@ -561,7 +560,6 @@ cadaver
 caddy
 Cadence
 cadvisor
-cage
 cachefilesd
 cachelib
 cairo-dock-plug-ins
@@ -1300,9 +1298,9 @@ ec2-metadata
 edgar
 edg-gridftp-client
 edg-mkgridmap
-edid-decode
 editres
 edk2
+edwin-fonts
 ed2k_hash
 ed25519-java
 eegdev
@@ -1758,6 +1756,7 @@ fleet-commander-admin
 fleet-commander-client
 flent
 flexiport
+flexmark-java
 flex
 FlightCrew
 FlightGear-Atlas
@@ -1982,6 +1981,7 @@ gedit-plugin-editorconfig
 gedit-plugins
 gedit
 geeqie
+gegl04
 gemdropx
 genders
 general-purpose-preprocessor
@@ -2833,6 +2833,7 @@ golang-github-evanphx-json-patch
 golang-github-evanw-esbuild
 golang-github-evanw-esbuild-0.8.20
 golang-github-evilsocket-islazy
+golang-github-exoscale-egoscale
 golang-github-exoscale-egoscale-2
 golang-github-exponent-io-jsonpath
 golang-github-facebookgo-clock
@@ -2952,6 +2953,7 @@ golang-github-google-nftables
 golang-github-google-pprof
 golang-github-google-querystring
 golang-github-google-renameio
+golang-github-google-renameio-2
 golang-github-google-replayers
 golang-github-google-shlex
 golang-github-google-subcommands
@@ -4423,7 +4425,6 @@ iio-sensor-proxy
 iir1
 ike-scan
 ikiwiki
-ikona
 ilbc
 ilmbase
 ilua
@@ -4616,6 +4617,7 @@ jedit
 jed
 jemalloc
 jericho-html
+jetbrains-annotations
 jetbrains-mono-fonts
 jetty
 jfbterm
@@ -4939,6 +4941,7 @@ kf5
 kf5-syndication
 kf5-syntax-highlighting
 kf5-threadweaver
+kf6
 kgamma
 kget
 kgoldrunner
@@ -5200,6 +5203,7 @@ lector
 ledger
 legendary
 legofy
+leland-fonts
 lensfun
 leonidas-backgrounds
 leonidas-kde-theme
@@ -5623,7 +5627,6 @@ librepo
 librep
 libresample
 libre
-libreswan
 libretls
 libretro-beetle-ngp
 libretro-beetle-pce-fast
@@ -6045,7 +6048,6 @@ magpie
 machineball
 maildir-utils
 mailman3-fedmsg-plugin
-mailman3
 mailnag
 mail-notification
 mailprocessing
@@ -6279,7 +6281,6 @@ mingw-GConf2
 mingw-gdbm
 mingw-gdb
 mingw-gdk-pixbuf
-mingw-gettext
 mingw-glew
 mingw-glibmm24
 mingw-glib-networking
@@ -6469,7 +6470,6 @@ mingw-srvany
 mingw-sword
 mingw-taglib
 mingw-tcl
-mingw-termcap
 mingw-tk
 mingw-twaindsm
 mingw-usbredir
@@ -6690,7 +6690,6 @@ mxparser
 mx5000tools
 mycli
 mygnuhealth
-mypaint-brushes
 mypaint
 mypaint2-brushes
 MyPasswordSafe
@@ -6778,7 +6777,6 @@ netcdf-perl
 netcdf
 netcdf4-python
 netconsd
-netdata
 netgen-mesher
 netgen
 nethack-vultures
@@ -7161,6 +7159,7 @@ openscad
 openscap-report
 OpenSceneGraph
 open-sendmail
+openshot
 opensips
 openslide
 opensm
@@ -7740,7 +7739,6 @@ perl-Data-Structure-Util
 perl-Data-Taxi
 perl-Data-Types
 perl-Data-Uniqid
-perl-Data-UUID
 perl-Data-Validate-Domain
 perl-Data-Validate-IP
 perl-Data-Validate-Type
@@ -9769,7 +9767,6 @@ python-astroML
 python-astroplan
 python-astropy-healpix
 python-astropy-helpers
-python-astropy
 python-astroquery
 python-astroscrappy
 python-asttokens
@@ -10619,7 +10616,6 @@ python-jinja2_pluralize
 python-jinja2-time
 python-jmespath
 python-jnius
-python-joblib
 python-josepy
 python-journal-brief
 python-jsmin
@@ -10821,7 +10817,6 @@ python-mrcfile
 python-mrcrowbar
 python-msgpack
 python-msldap
-python-mujson
 python-mulpyplexer
 python-multidict
 python-multiecho
@@ -10912,19 +10907,18 @@ python-num2words
 python-nwdiag
 python-oauth
 python-oauth2
-python-OBD
 python-oci
 python-octave-kernel
 python-octaviaclient
 python-odata-query
 python-odml
-python-ofxparse
 python-ogr
 python-olefile
 python-oletools
 python-omemo-backend-signal
 python-omemo
 python-omsdk
+python-onigurumacffi
 python-onionbalance
 python-openant
 python-openapi-core
@@ -11204,6 +11198,7 @@ python-pynuvo
 python-pynwb
 python-pyobd
 python-pyone
+python-pyongc
 python-pyopencl
 python-pyopengl
 python-pyopenuv
@@ -11717,7 +11712,6 @@ python-threadpoolctl
 python-three_merge
 python-throttler
 python-tidy
-python-tifffile
 python-time-machine
 python-timeout-decorator
 python-timeunit
@@ -13144,7 +13138,6 @@ solaar
 solar-backgrounds
 solar-kde-theme
 SolarModel
-sonic-visualiser
 sonivox
 sooperlooper
 soprano
@@ -13162,7 +13155,6 @@ soundtracker
 soup-sharp
 source-foundry-hack-fonts
 source-highlight-qt
-source-highlight
 source-to-image
 sourcextractor++
 soxr
@@ -13293,7 +13285,6 @@ stringtemplate
 stripesnoop
 strongswan
 s-tui
-stunnel
 stun
 subfinder
 subnetcalc
@@ -13795,7 +13786,6 @@ usnic-tools
 ustreamer
 ustr
 uswds-public-sans-fonts
-utf8cpp
 utf8proc
 uthash
 util-linux
@@ -14508,7 +14498,6 @@ znc
 zola
 zonefs-tools
 zork
-zpaq
 zps
 zram
 zsh-autosuggestions

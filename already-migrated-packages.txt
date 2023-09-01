@@ -81,6 +81,7 @@ annobin
 anope
 ansible-collection-ansible-netcommon
 ansible-collection-ansible-posix
+ansible-collection-awx-awx
 ansible-collection-community-crypto
 ansible-collection-community-docker
 ansible-collection-community-general
@@ -115,6 +116,7 @@ ant
 ants
 anyremote
 aom
+aopalliance
 apache-commons-codec
 apache-commons-configuration
 apache-commons-io
@@ -130,6 +132,7 @@ apache-logging-parent
 apache-parent
 apachetop
 apg
+apiguardian
 api-sanity-checker
 appeditor
 appstream-data
@@ -222,6 +225,7 @@ authselect
 autodocksuite
 autodownloader
 autogen
+autolink-java
 autorestic
 autotrace
 avahi
@@ -347,6 +351,7 @@ cab
 caddy
 cadical
 cadvisor
+cage
 cagibi
 cachelib
 cairomm
@@ -714,9 +719,11 @@ ecolier-court-fonts
 ecryptfs-utils
 edac-utils
 edflib
+edid-decode
 editline
 editorconfig
 ed
+edwin-fonts
 eegview
 efax
 efivar
@@ -837,6 +844,7 @@ flatpak
 flatseal
 fldigi
 flexiblas
+flexmark-java
 flickcurl
 flintqs
 flint
@@ -1940,6 +1948,7 @@ golang-github-google-cmp
 golang-github-google-gofuzz
 golang-github-google-go-github
 golang-github-google-nftables
+golang-github-google-renameio-2
 golang-github-google-shlex
 golang-github-google-slothfs
 golang-github-google-trillian
@@ -2711,9 +2720,11 @@ jdeparser
 jdns
 jedit
 jello
+jetbrains-annotations
 jetbrains-mono-fonts
 jetring
 jFormatString
+jigdo
 jimtcl
 jisksp16-1990-fonts
 jline
@@ -2782,6 +2793,7 @@ kexi
 keycloak-httpd-client-install
 keylime-agent-rust
 keyrings-filesystem
+kf6
 kgeography
 kgraphviewer
 khmer-os-fonts
@@ -2858,6 +2870,7 @@ ldc1.32
 ldns
 leatherman
 ledmon
+leland-fonts
 lexertl14
 lfsc
 lftp
@@ -3098,6 +3111,7 @@ libreport
 librepository
 librepo
 libre
+libreswan
 libretls
 librevenge
 librime
@@ -3355,6 +3369,7 @@ magpie
 mailcap
 maildir-utils
 maildrop
+mailman3
 mailprocessing
 makemusic-finale-fonts
 make
@@ -3446,6 +3461,7 @@ mingw-djvulibre
 mingw-exiv2
 mingw-filesystem
 mingw-freetype
+mingw-gettext
 mingw-glib-networking
 mingw-glib2
 mingw-gsettings-desktop-schemas
@@ -3507,6 +3523,7 @@ mingw-SDL_mixer
 mingw-SDL2_mixer
 mingw-SDL2_ttf
 mingw-spirv-tools
+mingw-termcap
 mingw-vulkan-headers
 mingw-vulkan-loader
 mingw-vulkan-tools
@@ -3592,8 +3609,10 @@ mtxclient
 mt32emu
 multitail
 mupdf
+musescore
 mu
 mustache
+mypaint-brushes
 myproxy
 mysql-connector-java
 mysql-selinux
@@ -3659,6 +3678,7 @@ neochat
 neovim
 netavark
 netcat
+netdata
 nethack
 netlabel_tools
 netopeer2
@@ -3931,6 +3951,7 @@ openscap-report
 openscap
 opensc
 openshadinglanguage
+openshot
 openslp
 openssl-ibmca
 openssl-pkcs11-sign-provider
@@ -3991,6 +4012,7 @@ pango
 paper-icon-theme
 paperkey
 paperwork
+papirus-icon-theme
 papi
 pappl
 paps
@@ -4352,6 +4374,7 @@ perl-Data-Stag
 perl-Data-TreeDumper-Renderer-GTK
 perl-Data-TreeDumper
 perl-Data-Tumbler
+perl-Data-UUID
 perl-Data-Visitor
 perl-Date-Calc
 perl-Date-Extract
@@ -6087,6 +6110,7 @@ python-asn1crypto
 python-asn1
 python-aspy.yaml
 python-astroid
+python-astropy
 python-async-lru
 python-asyncmy
 python-asyncpg
@@ -6305,6 +6329,7 @@ python-flexmock
 python-flit-core
 python-flit-scm
 python-flit
+python-flufl-bounce
 python-flufl-lock
 python-fluidity-sm
 python-fontconfig
@@ -6454,6 +6479,7 @@ python-javaproperties
 python-jenkins-job-builder
 python-jinja2
 python-jira
+python-joblib
 python-jose
 python-jschema-to-python
 python-jsondiff
@@ -6551,6 +6577,7 @@ python-msal-extensions
 python-msal
 python-msrestazure
 python-msrest
+python-mujson
 python-multidict
 python-multiecho
 python-multilib
@@ -6586,9 +6613,12 @@ python-nudatus
 python-numpoly
 python-oauthlib
 python-oauth2client
+python-OBD
 python-oci
 python-octave-kernel
+python-ofxparse
 python-omsdk
+python-onigurumacffi
 python-openapi-core
 python-openapi-schema-validator
 python-openapi-spec-validator
@@ -6712,6 +6742,7 @@ python-pynetbox
 python-pynn
 python-pynwb
 python-pyocr
+python-pyongc
 python-pyperclip
 python-pyphi
 python-pypillowfight
@@ -6923,6 +6954,7 @@ python-texext
 python-textual
 python-threadpoolctl
 python-throttler
+python-tifffile
 python-tilestache
 python-time-machine
 python-tldextract
@@ -7996,6 +8028,7 @@ rust-cfg_aliases
 rust-cfg-expr
 rust-cfg-if
 rust-cfg-if0.1
+rust-cfonts
 rust-cgroupfs
 rust-ciborium-io
 rust-ciborium-ll
@@ -8468,16 +8501,21 @@ rust-git2_0.16
 rust-gix-actor
 rust-gix-bitmap
 rust-gix-command
+rust-gix-commitgraph
 rust-gix-date
 rust-gix-features
+rust-gix-fs
 rust-gix-hash
+rust-gix-hashtable
 rust-gix-chunk
 rust-gix-mailmap
 rust-gix-object
+rust-gix-packetline
 rust-gix-path
 rust-gix-quote
 rust-gix-sec
 rust-gix-trace
+rust-gix-url
 rust-gix-utils
 rust-gix-validate
 rust-glam
@@ -9672,6 +9710,7 @@ rust-tera
 rust-termbg
 rust-termcolor
 rust-term_grid
+rust-terminal-light
 rust-terminal_size
 rust-terminal_size0.1
 rust-terminfo
@@ -9988,6 +10027,7 @@ rust-zbus_names
 rust-zbus
 rust-zbus1
 rust-zerocopy-derive
+rust-zerocopy
 rust-zeroize_derive
 rust-zeroize
 rust-zincati
@@ -10185,6 +10225,7 @@ socket_wrapper
 softnet-stat
 solarwolf
 sombok
+sonic-visualiser
 sonivox
 SoQt
 sorkintype-merriweather-fonts
@@ -10192,6 +10233,7 @@ sorkintype-merriweather-sans-fonts
 sos
 soundkonverter
 source-foundry-hack-fonts
+source-highlight
 spacebar
 spamass-milter
 spandsp
@@ -10216,6 +10258,7 @@ squeezelite
 squidGuard
 srain
 src
+srecord
 srpc
 ssldump
 sssd
@@ -10239,6 +10282,7 @@ string-template-maven-plugin
 stringtemplate4
 st
 stubby
+stunnel
 subscription-manager
 subunit
 subversion
@@ -10458,6 +10502,7 @@ userspace-rcu
 usrsctp
 ustreamer
 uswds-public-sans-fonts
+utf8cpp
 utop
 utrac
 uuid
@@ -10500,6 +10545,7 @@ vkmark
 vkroots
 vl-gothic-fonts
 vo-amrwbenc
+vobcopy
 voikko-fi
 volume_key
 vorta
@@ -10565,6 +10611,7 @@ wordpress
 words
 wordxtr
 workflow
+workrave
 wpa_supplicant
 wqy-microhei-fonts
 wqy-unibit-fonts
@@ -10683,6 +10730,7 @@ zip
 zix
 zlib
 zopfli
+zpaq
 zps
 zsh
 zstd
