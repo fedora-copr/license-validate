@@ -1620,7 +1620,6 @@ dl-fedora
 dlib
 dlm
 dl_poly
-dlrn
 dl
 dlt-daemon
 dmapd
@@ -1711,6 +1710,7 @@ dput-ng
 dqlite
 draco
 dracut
+dragonbox
 dragon
 drascula-international
 drascula-music
@@ -2590,6 +2590,7 @@ f35-backgrounds
 f36-backgrounds
 f37-backgrounds
 f38-backgrounds
+f39-backgrounds
 gabedit
 gajim
 galculator
@@ -4059,6 +4060,7 @@ golang-github-containerd-aufs
 golang-github-containerd-btrfs
 golang-github-containerd-btrfs-2
 golang-github-containerd-cgroups
+golang-github-containerd-cgroups-3
 golang-github-containerd-cni
 golang-github-containerd-console
 golang-github-containerd-continuity
@@ -7251,12 +7253,10 @@ libdispatch
 libdisplay-info
 libdivide
 libdkimpp
-libdmapsharing
 libdmapsharing4
 libdmtx
 libdmx
 libdnet
-libdnf-plugin-swidtags
 libdnf-plugin-txnupd
 libdnf
 libdockapp
@@ -9007,7 +9007,6 @@ molequeue
 molsketch
 mom
 monafont
-mona
 mongo-c-driver
 mongoose
 monitor-edid
@@ -9136,7 +9135,6 @@ multiwatch
 mumble
 mum-hash
 MUMPS
-munge-maven-plugin
 munge
 munin
 muParser
@@ -9538,7 +9536,6 @@ obs-signd
 obs-studio-plugin-webkitgtk
 obs-studio
 ocaml-alcotest
-ocaml-ancient
 ocaml-astring
 ocaml-atd
 ocaml-augeas
@@ -9561,7 +9558,6 @@ ocaml-camlp-streams
 ocaml-camlp5-buildscripts
 ocaml-camlp5
 ocaml-camomile
-ocaml-cil
 ocaml-cinaps
 ocaml-cmdliner
 ocaml-compiler-libs-janestreet
@@ -9589,7 +9585,6 @@ ocaml-gen
 ocaml-gettext
 ocaml-graphics
 ocaml-gsl
-ocaml-charinfo-width
 ocamlify
 ocaml-integers
 ocaml-jane-street-headers
@@ -9603,7 +9598,6 @@ ocaml-lambda-term
 ocaml-libvirt
 ocaml-logs
 ocaml-luv
-ocaml-lwt-log
 ocaml-lwt
 ocaml-markup
 ocaml-mccs
@@ -9615,7 +9609,6 @@ ocaml-mew-vi
 ocaml-migrate-parsetree
 ocaml-mlgmpidl
 ocaml-mlmpfr
-ocaml-mmap
 ocamlmod
 ocaml-mtime
 ocaml-mysql
@@ -9676,7 +9669,6 @@ ocaml-result
 ocaml-rresult
 ocaml-SDL
 ocaml-sedlex
-ocaml-seq
 ocaml-sexplib
 ocaml-sexplib0
 ocaml-sha
@@ -9688,7 +9680,6 @@ ocaml-stdcompat
 ocaml-stdio
 ocaml-time-now
 ocaml-topkg
-ocaml-tplib
 ocaml-trie
 ocaml-tyxml
 ocaml-uucd
@@ -14096,6 +14087,7 @@ pseudo
 psfex
 psftools
 psiconv
+psimd
 psi-notify
 psi-plus
 psi
@@ -14141,7 +14133,6 @@ puzzle-master
 puzzles
 pveclib
 pv
-pvs-sbcl
 pwauth
 pwgen
 pwkickstart
@@ -14240,7 +14231,6 @@ python-accessible-pygments
 python-accuweather
 python-acora
 python-acoustid
-python-actdiag
 python-adafruit-board-toolkit
 python-adafruit-platformdetect
 python-adafruit-pureio
@@ -14554,13 +14544,11 @@ python-blessed
 python-blessings
 python-blinker
 python-blivet
-python-blockdiag
 python-bloom
 python-blosc
 python-blosc2
 python-blowfish
 python-bluepyopt
-python-bluepy
 python-blurb
 python-bokeh
 python-booleanoperations
@@ -14921,6 +14909,7 @@ python-docker-squash
 python-docopt
 python-docs-theme
 python-docstring-parser
+python-docstring-to-markdown
 python-docutils
 python-docx
 python-dogpile-cache
@@ -15257,7 +15246,6 @@ python-gsd
 python-gssapi
 python-gstreamer1
 python-guessit
-python-guizero
 python-gunicorn
 python-habitipy
 python-hacking
@@ -15816,7 +15804,6 @@ python-numpoly
 python-numpydoc
 python-numpy-stl
 python-num2words
-python-nwdiag
 python-oauthlib
 python-oauth
 python-oauth2client
@@ -16225,6 +16212,7 @@ python-pyramid-tm
 python-pyrate-limiter
 python-pyrfc3339
 python-pyriemann
+python-pyroaring
 python-pyro
 python-pyroute2
 python-pyrpmmd
@@ -16342,6 +16330,7 @@ python-pytest-xvfb
 python-pytile
 python-pytimeparse
 python-pytn3270
+python-pytoolconfig
 python-pytools
 python-pytzdata
 python-pytz-deprecation-shim
@@ -16486,7 +16475,6 @@ python-ROPGadget
 python-rosdep
 python-rosdistro
 python-rosinstall_generator
-python-rosinstall
 python-rospkg
 python-roundrobin
 python-routes
@@ -16554,7 +16542,6 @@ python-send2trash
 python-sentinels
 python-sentry-sdk
 python-sep
-python-seqdiag
 python-serpent
 python-serpy
 python-service-identity
@@ -16954,7 +16941,6 @@ python-vatnumber
 python-vconnector
 python-vcrpy
 python-vcstool
-python-vcstools
 python-vdf
 python-vecrec
 python-velbus
@@ -17161,7 +17147,6 @@ python-zopeundo
 python-zopfli
 python-zstandard
 python-zstd
-python-zuul-client
 python-zuul-sphinx
 python-zxcvbn
 python2-cairo
@@ -19325,6 +19310,7 @@ rust-gix-commitgraph
 rust-gix-date
 rust-gix-features
 rust-gix-fs
+rust-gix-glob
 rust-gix-hash
 rust-gix-hashtable
 rust-gix-chunk
@@ -19660,6 +19646,7 @@ rust-linreg
 rust-linux-loader
 rust-linux_proc
 rust-linux-raw-sys
+rust-listenfd
 rust-litrs
 rust-llvm-bitcode
 rust-lmdb
@@ -21056,6 +21043,7 @@ sdparm
 sdrangel
 sdrpp
 sdsl-lite
+sdubby
 seabios
 seadrive-daemon
 seadrive-gui
@@ -21628,7 +21616,6 @@ sway-systemd
 sweeper
 sweet-gtk-theme
 swell-foop
-swid-tools
 swift-lang
 swig
 swing-layout
@@ -21865,7 +21852,6 @@ tinc
 tini
 tin
 tintin
-tint2
 tinycdb
 tinycompress
 tinydir
@@ -22618,6 +22604,7 @@ wxGTK
 wxmacmolplt
 wxMaxima
 wxsqlite3
+wxsvg
 w3c-markup-validator
 w3m
 xalan-c

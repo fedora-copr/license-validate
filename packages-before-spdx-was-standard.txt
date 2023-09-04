@@ -136,22 +136,16 @@ anyterm
 aoetools
 aom
 apache-cloudstack-cloudmonkey
-apache-commons-beanutils
-apache-commons-cli
-apache-commons-collections
 apache-commons-collections4
-apache-commons-compress
 apache-commons-configuration
 apache-commons-digester
 apache-commons-exec
 apache-commons-jexl
-apache-commons-jxpath
 apache-commons-math
 apache-commons-modeler
 apache-commons-pool
 apache-commons-vfs
 apache-logging-parent
-apache-resource-bundles
 apache-sshd
 apachetop
 apa-new-athena-unicode-fonts
@@ -180,7 +174,6 @@ apvlv
 apx
 aqsis
 aquatone
-aqute-bnd
 arachne-pnr
 arandr
 ara
@@ -234,7 +227,6 @@ aspell-ml
 aspell-pl
 aspell-ru
 aspell-sk
-assertj-core
 assetfinder
 assimp
 asterisk-sounds-core
@@ -252,7 +244,6 @@ atari800
 atasm
 aterm
 atf
-atinject
 atinout
 atkmm
 atkmm2.36
@@ -349,7 +340,6 @@ bbkeys
 bcache-tools
 bcal
 bcd
-bcel
 bcftools
 bcm283x-firmware
 bcm43xx-fwcutter
@@ -380,7 +370,6 @@ berusky2
 bes
 beteckna-fonts
 bettercap
-beust-jcommander
 bfast
 bgpq3
 bgpq4
@@ -473,7 +462,6 @@ brutalchess
 bsd-games
 bsdiff
 bsfilter
-bsf
 bsh
 bspwm
 bst-external
@@ -492,7 +480,6 @@ budgie-screensaver
 buffer
 bugzilla
 build-constraints-rpm-macros
-build-helper-maven-plugin
 buildstream
 bullet
 bumpversion
@@ -504,11 +491,9 @@ bwbar
 bwidget
 bwping
 bwrap-oci
-byaccj
 byacc
 bygfoot
 byobu
-byte-buddy
 byteman
 byzanz
 bzflag
@@ -536,7 +521,6 @@ calcium-calculator
 calibre
 calindori
 callaudiod
-Error pulling 'callgit'
 callgit
 calligraplan
 calligra
@@ -584,7 +568,6 @@ cc65
 cdargs
 cdcollect
 cd-discid
-cdi-api
 cdist
 cdk
 cdlabelgen
@@ -610,7 +593,6 @@ cflow
 CFR
 CGAL
 cgdb
-cglib
 c-graph
 cgreen
 CGSI-gSOAP
@@ -626,7 +608,6 @@ cinnamon
 cinnamon-translations
 ciphertest
 cjdns
-cjose
 cjson
 cjs
 ckeditor
@@ -680,7 +661,6 @@ clutter-gtk
 cluttermm
 clutter
 clxclient
-cmake
 cmatrix
 cmconvert
 cmigemo
@@ -912,6 +892,7 @@ dbus-broker
 dbus-c++
 dbus-glib
 dbus-parsec
+Error pulling 'dbus-python'
 dbus-python
 dbus-qt3
 dbus-sharp-glib
@@ -1054,7 +1035,6 @@ disk-utilities
 disomaster
 disorderfs
 dispenso
-disruptor
 distrobox
 distro-info-data
 distro-info
@@ -1063,7 +1043,6 @@ djview4
 djvulibre
 dkms
 dlm
-dlrn
 dl
 dmapd
 dmenu
@@ -1202,7 +1181,6 @@ dynamite
 d0_blind_id
 d52
 easyeffects
-easymock
 easystroke
 easytag
 eblook
@@ -1467,7 +1445,6 @@ eterm
 ethstatus
 ethtool
 eth-tools
-Error pulling 'et'
 et
 eureka
 eurephia
@@ -1491,7 +1468,6 @@ expatpp
 expat
 extra-cmake-modules
 extractpdfmark
-extra-enforcer-rules
 extrema
 ezstream
 e16-docs
@@ -1544,7 +1520,6 @@ fcitx-kkc
 fcitx-m17n
 fcitx-qt5
 fcitx-skk
-fcitx
 fcitx-sunpinyin
 fcitx-table-extra
 fcitx-table-other
@@ -1602,8 +1577,6 @@ fedpkg-minimal
 fedpkg
 feedbackd
 feh
-felix-parent
-felix-utils
 fennel
 fernflower
 festival
@@ -1648,7 +1621,6 @@ flann
 flare-engine
 flare
 flatpak-module-tools
-Error pulling 'flatpak-rpm-macros'
 flatpak-rpm-macros
 flatpak
 flatpak-xdg-utils
@@ -1764,7 +1736,6 @@ fuse-emulator
 fuse-emulator-utils
 fuse-encfs
 fuse-pingfs
-fusesource-pom
 fuse
 fuse-sshfs
 fuse-zip
@@ -2259,10 +2230,10 @@ gnome-remote-desktop
 gnome-robots
 gnome-screenshot
 gnome-session
-Error pulling 'gnome-settings-daemon'
 gnome-settings-daemon
 gnome-sharp
 gnome-shell-extension-appindicator
+Error pulling 'gnome-shell-extension-argos'
 gnome-shell-extension-argos
 gnome-shell-extension-background-logo
 gnome-shell-extension-caffeine
@@ -2396,6 +2367,7 @@ golang-github-aliyun-credentials
 golang-github-aliyun-oss-sdk
 golang-github-aliyun-ossutil
 golang-github-alyu-configparser
+Error pulling 'golang-github-anacrolix-dms'
 golang-github-anacrolix-dms
 golang-github-anacrolix-log
 golang-github-andrew-d-termutil
@@ -2528,7 +2500,6 @@ golang-github-cockroachdb-logtags
 golang-github-cockroachdb-pebble
 golang-github-cockroachdb-redact
 golang-github-cockroachdb-sentry
-Error pulling 'golang-github-codegangsta-inject'
 golang-github-codegangsta-inject
 golang-github-colinmarc-hdfs-2
 golang-github-common-nighthawk-figure
@@ -3730,7 +3701,6 @@ google-compute-engine-oslogin
 google-cpu_features
 google-crosextra-caladea-fonts
 google-gson
-google-guice
 google-roboto-mono-fonts
 googler
 google-rubik-fonts
@@ -3883,7 +3853,6 @@ gtypist
 gt5
 guacamole-server
 guake
-guava
 guayadeque
 gudev-sharp
 guile22
@@ -3909,7 +3878,6 @@ gyazo
 gydl
 hakrevdns
 halibut
-hamcrest
 hashid
 hatari
 hatools
@@ -3983,9 +3951,6 @@ html401-dtds
 htop
 htppu
 htslib
-httpcomponents-client
-httpcomponents-core
-httpcomponents-project
 httpd
 httpdump
 httperf
@@ -4051,7 +4016,6 @@ ibus-bogo
 ibus-cangjie
 ibus-fep
 ibus-kkc
-ibus-skk
 ibus-unikey
 ibutils
 icaro
@@ -4197,7 +4161,6 @@ i2c-tools
 i3blocks
 i3-gaps
 i3lock
-i3status
 jaaa
 jabberd
 jack-audio-connection-kit
@@ -4208,30 +4171,22 @@ jackson-dataformats-binary
 jackson-dataformats-text
 jacoco
 jaero
-jakarta-activation
-jakarta-annotations
 jakarta-el
 jakarta-interceptors
-jakarta-oro
 jakarta-saaj
 jakarta-server-pages
-jakarta-servlet
 jakarta-xml-ws
 jalv
 jam
 janino
 jansi-native
-jansi
 jansson
 japa
-java_cup
 java-dirq
 javaewah
 java-jd-decompiler
 java-latest-openjdk-portable
 java-latest-openjdk
-javapackages-bootstrap
-javapackages-tools
 java-packaging-howto
 javaparser
 javapoet
@@ -4244,11 +4199,6 @@ java-17-openjdk
 java-1.8.0-openjdk-aarch32
 java-1.8.0-openjdk-portable
 java-1.8.0-openjdk
-jaxb-dtd-parser
-jaxb-fi
-jaxb-istack-commons
-jaxb
-jaxb-stax-ex
 jaxen
 jbigkit
 jblas
@@ -4256,11 +4206,7 @@ jbosscache-support
 jcal
 jconvolver
 jc
-jctools
 jdependency
-jdepend
-jdom
-jdom2
 jd
 jdupes
 jed
@@ -4270,7 +4216,6 @@ jetbrains-annotations
 jetbrains-mono-fonts
 jetty
 jfbterm
-jflex
 jfreechart
 jfsutils
 jgit
@@ -4305,7 +4250,6 @@ jpnevulator
 jq
 jreen
 jsch-agent-proxy
-jsch
 js-jquery-mousewheel
 js-jquery-prettyphoto
 js-jquery
@@ -4321,7 +4265,6 @@ jsonrpc-glib
 json_simple
 json-table
 js-responsive-elements
-jsr-305
 jssc
 js8call
 jtc
@@ -4332,12 +4275,9 @@ julietaula-montserrat-fonts
 julius
 julius-voxforge
 jumpnbump
-junit
-junit5
 jupp
 jwm
 jxrlib
-jzlib
 j4-dmenu-desktop
 kaccounts-integration
 kaccounts-providers
@@ -4435,6 +4375,7 @@ kdnssd
 kdsoap
 kea
 keditbookmarks
+Error pulling 'keepassxc'
 keepassxc
 kemie-bellota-fonts
 kerberoast
@@ -4925,12 +4866,10 @@ libdigidocpp
 libdirq
 libdiscid
 libdkimpp
-libdmapsharing
 libdmapsharing4
 libdmtx
 libdmx
 libdnet
-libdnf-plugin-swidtags
 libdnf-plugin-txnupd
 libdnf
 libdockapp
@@ -5425,6 +5364,7 @@ libyuv
 libzbd
 libzdb
 libzeitgeist
+Error pulling 'libzia'
 libzia
 libzip
 libzypp
@@ -5605,7 +5545,6 @@ Maelstrom
 maeparser
 magicmaze
 MagicPoint
-Error pulling 'machineball'
 machineball
 maildir-utils
 mailman3-fedmsg-plugin
@@ -5675,33 +5614,14 @@ mathgl
 mathjax
 mathomatic
 maui-mauikit
-maven-antrun-plugin
 maven-archetype
-maven-archiver
-maven-artifact-transfer
-maven-bundle-plugin
-maven-file-management
-maven-filtering
 maven-invoker-plugin
 maven-invoker
-maven-jar-plugin
-maven-mapping
 maven-native
 maven-patch-plugin
-maven-plugin-testing
-maven-remote-resources-plugin
-maven-resolver
-maven-resources-plugin
 maven-script-interpreter
 maven-shade-plugin
-maven-shared-incremental
-maven-shared-io
-maven-source-plugin
-maven
-maven-surefire
 maven-verifier-plugin
-maven-verifier
-maven-wagon
 mawk
 maxima
 Mayavi
@@ -6073,7 +5993,6 @@ mnmlicons-fonts
 moarvm
 mobile-broadband-provider-info
 mock-centos-sig-configs
-mockito
 mod_auth_cas
 mod_auth_gssapi
 mod_auth_ntlm_winbind
@@ -6084,7 +6003,6 @@ mod_auth_token
 mod_bw
 mod_cluster
 mod_dnssd
-modello
 modem-manager-gui
 ModemManager
 mod_evasive
@@ -6103,7 +6021,6 @@ module-build-service
 module-build
 mod_xsendfile
 mod2c
-mojo-parent
 moka-icon-theme
 mokutil
 molequeue
@@ -6204,7 +6121,6 @@ multiwatch
 mumble
 mum-hash
 MUMPS
-munge-maven-plugin
 munge
 munin
 muParser
@@ -6478,29 +6394,21 @@ oath-toolkit
 obconf-qt
 obconf
 obfs4
-objectweb-asm
 obserware
 obs-service-download_files
 obs-service-extract_file
 obs-service-recompress
 obs-service-rust2rpm
-obs-service-set_version
-obs-service-tar_scm
-ocaml-ancient
 ocaml-autoconf
 ocaml-base64
-ocaml-cil
 ocaml-cmdliner
 ocaml-csv
 ocaml-curl
-ocaml-charinfo-width
 ocaml-lwt
 ocaml-migrate-parsetree
-ocaml-mmap
 ocaml-opam-file-format
 ocaml-perl4caml
 ocaml-sedlex
-ocaml-seq
 ocaml-sha
 ocaml-srpm-macros
 ocfs2-tools
@@ -6674,7 +6582,6 @@ openstack-java-sdk
 OpenStego
 opensubdiv
 opensurge
-opentest4j
 opentoonz
 opentrep
 openttd-opengfx
@@ -6706,9 +6613,6 @@ osbs-client
 osbuild
 oscillatord
 osgearth
-osgi-annotation
-osgi-compendium
-osgi-core
 osmctools
 osm-gps-map
 osmo-fl2k
@@ -7175,7 +7079,6 @@ perl-Dancer-Plugin-Database-Core
 perl-Dancer-Session-Cookie
 perl-Dancer
 perl-Dancer2-Plugin-Database
-Error pulling 'perl-Dancer2-Plugin-DBIC'
 perl-Dancer2-Plugin-DBIC
 perl-Dancer2-Plugin-REST
 perl-Dancer2
@@ -8823,14 +8726,8 @@ playerctl
 playitagainsam
 playonlinux
 plee-the-bear
-plexus-build-api
-plexus-build-api0
 plexus-component-api
 plexus-i18n
-plexus-languages
-plexus-resources
-plexus-sec-dispatcher
-plexus-utils
 plexus-velocity
 plib
 plocate
@@ -8886,7 +8783,6 @@ postgis
 postgresql-ip4r
 postgresql-pgpool-II
 postgresqltuner
-Error pulling 'postgrey'
 postgrey
 postproof
 postsrsd
@@ -9021,7 +8917,6 @@ pyflowtools
 pyftpdlib
 pygobject3
 PyGreSQL
-pygsl
 pyhoca-cli
 pyhoca-gui
 pychess
@@ -9066,7 +8961,6 @@ python-accept-types
 python-accuweather
 python-acora
 python-acoustid
-python-actdiag
 python-adafruit-board-toolkit
 python-adafruit-platformdetect
 python-adafruit-pureio
@@ -9291,14 +9185,13 @@ python-bleach
 python-blessed
 python-blessings
 python-blinker
-python-blockdiag
 python-bloom
 python-blosc
 python-bluepyopt
-python-bluepy
 python-blurb
 python-bokeh
 python-booleanoperations
+Error pulling 'python-boolean.py'
 python-boolean.py
 python-Bottleneck
 python-bottle
@@ -9333,7 +9226,6 @@ python-catkin_lint
 python-catkin_pkg
 python-catkin-sphinx
 python-cattrs
-python-cbor2
 python-cccolutils
 python-ccdproc
 python-cclib
@@ -9725,7 +9617,6 @@ python-fuse
 python-futurist
 python-fuzzyfinder
 python-fuzzywuzzy
-python-fypp
 python-f5-icontrol-rest
 python-f5-sdk
 python-gabbi
@@ -9826,7 +9717,6 @@ python-gsd
 python-gssapi
 python-gstreamer1
 python-guessit
-python-guizero
 python-gunicorn
 python-habitipy
 python-hacking
@@ -9913,6 +9803,7 @@ python-interfile
 python-interrogate
 python-intervaltree
 python-into-dbus-python
+Error pulling 'python-iowait'
 python-iowait
 python-ipgetter
 python-ipgetter2
@@ -10053,7 +9944,6 @@ python-mailer
 python-mailmanclient
 python-mailmerge
 python-makeelf
-Error pulling 'python-makefun'
 python-makefun
 python-mako
 python-manatools
@@ -10215,7 +10105,6 @@ python-numexpr
 python-numpydoc
 python-numpy-stl
 python-num2words
-python-nwdiag
 python-oauth
 python-oauth2
 python-octave-kernel
@@ -10656,6 +10545,7 @@ python-requests-cache
 python-requests-credssp
 python-requests-download
 python-requestsexceptions
+Error pulling 'python-requests-exoscale-auth'
 python-requests-exoscale-auth
 python-requests-file
 python-requests-ftp
@@ -10690,7 +10580,6 @@ python-ROPGadget
 python-rosdep
 python-rosdistro
 python-rosinstall_generator
-python-rosinstall
 python-rospkg
 python-routes
 python-rows
@@ -10736,7 +10625,6 @@ python-send2trash
 python-sentinels
 python-sentry-sdk
 python-sep
-python-seqdiag
 python-serpent
 python-serpy
 python-service-identity
@@ -11014,7 +10902,6 @@ python-vatnumber
 python-vconnector
 python-vcrpy
 python-vcstool
-python-vcstools
 python-vdf
 python-velbus
 python-verboselogs
@@ -11056,7 +10943,6 @@ python-websockets
 python-websockify
 python-webtest
 python-webthing
-Error pulling 'python-webthing-ws'
 python-webthing-ws
 python-werkzeug
 python-whatthepatch
@@ -11177,7 +11063,6 @@ python-zope-sqlalchemy
 python-zope-testing
 python-zstandard
 python-zstd
-python-zuul-client
 python-zuul-sphinx
 python-zxcvbn
 python2-cairo
@@ -11238,7 +11123,6 @@ qcomicbook
 qdbm
 qdigidoc
 qdirstat
-qdox
 qemu-sanity-check
 qevercloud
 qflipper
@@ -11510,7 +11394,6 @@ RediSearch
 redis
 redshift
 reflections
-regexp
 regionset
 reg
 rejson
@@ -11783,7 +11666,6 @@ R-progress
 R-promises
 R-ps
 R-purrr
-rpy
 R-qcc
 R-qpdf
 R-qtl
@@ -11828,7 +11710,6 @@ R-RM2
 R-RODBC
 R-R.oo
 R-roxygen2
-Error pulling 'R-rpm-macros'
 R-rpm-macros
 R-RPostgres
 R-rprintf
@@ -12166,6 +12047,7 @@ sil-doulos-fonts
 sil-ezra-fonts
 sil-gentium-fonts
 sil-gentium-plus-compact-fonts
+Error pulling 'sil-gentium-plus-fonts'
 sil-gentium-plus-fonts
 sil-harmattan-fonts
 sil-charis-compact-fonts
@@ -12202,8 +12084,6 @@ sipvicious
 sip6
 siril
 sirius
-sisu-mojos
-sisu
 six
 sjasm
 sj-fonts
@@ -12219,7 +12099,6 @@ SkyX
 slapi-nis
 slashem
 sleuthkit
-slf4j
 slib
 slibtool
 slick-greeter
@@ -12409,7 +12288,6 @@ stompclt
 stomppy
 stormbaancoureur
 stow
-strace
 stratagus
 stratis-cli
 stratisd
@@ -12499,7 +12377,6 @@ swaylock
 sway-systemd
 sweeper
 swell-foop
-swid-tools
 swing-layout
 switcheroo-control
 switchtec
@@ -12664,7 +12541,6 @@ timidity++
 tinc
 tini
 tin
-tint2
 tinycompress
 tinydir
 tinyexr
@@ -12868,7 +12744,6 @@ unique
 unique3
 unittest-cpp
 unity-gtk-module
-univocity-parsers
 unixcw
 unixODBC-gui-qt
 unixODBC
@@ -12920,6 +12795,7 @@ vagrant-openstack-provider
 vagrant-registration
 vagrant
 vagrant-sshfs
+Error pulling 'vagrant-vagrant_cloud'
 vagrant-vagrant_cloud
 vakzination
 vala-language-server
@@ -12962,7 +12838,6 @@ vdrsymbol-fonts
 vdr-tvguide
 vdr-vnsiserver
 vecmath1.2
-velocity
 vemana2000-fonts
 verbiste
 verilator
@@ -13041,7 +12916,6 @@ vokoscreenNG
 volk
 volpack
 volumeicon
-Error pulling 'voms-api-java'
 voms-api-java
 voms-clients-java
 voms-mysql-plugin
@@ -13208,7 +13082,6 @@ wxMaxima
 wxsqlite3
 w3c-markup-validator
 w3m
-xalan-j2
 xaos
 xapian-bindings
 xapps
@@ -13275,7 +13148,6 @@ xe-guest-utilities-latest
 xenlism-wildfire
 xen
 xerces-c
-xerces-j2
 xeus
 xev
 xeyes
@@ -13367,8 +13239,6 @@ xl2tpd
 xmakemol
 xmbdfed
 xmedcon
-xml-commons-apis
-xml-commons-resolver
 xmlcopyeditor
 xmlindent
 xml-maven-plugin
@@ -13379,7 +13249,6 @@ xml-security-c
 xmlstreambuffer
 xmltoman
 xmlto
-xmlunit
 xml2
 xmms2
 xmodmap
@@ -13388,7 +13257,6 @@ xmount
 xmppc
 xmp-plugin-audacious
 xmvn-connector-ivy
-xmvn
 xnec2c
 xonsh
 xoo
@@ -13488,7 +13356,6 @@ xwxapt
 xxkb
 xyzsh
 xzgv
-xz-java
 xz
 x11docker
 x11perf

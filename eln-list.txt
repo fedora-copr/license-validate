@@ -74,6 +74,7 @@ asciidoc
 asio
 aspell
 assertj-core
+astyle
 at
 at-spi2-core
 atinject
@@ -89,7 +90,6 @@ autoconf-archive
 autoconf213
 autofs
 automake
-autotrace
 avahi
 babel
 babeltrace
@@ -837,7 +837,6 @@ ledmon
 leptonica
 less
 lftp
-libEMF
 libICE
 libSM
 libX11
@@ -998,6 +997,7 @@ libocxl
 libogg
 libomp
 libopenraw
+liboqs
 libosinfo
 libotf
 libpaper
@@ -1146,6 +1146,7 @@ lttng-ust
 lua
 lua-posix
 lua-rpm-macros
+lujavrite
 luksmeta
 lvm2
 lynx
@@ -1809,7 +1810,6 @@ protobuf-c
 ps_mem
 psacct
 psmisc
-pstoedit
 psutils
 pt-sans-fonts
 publicsuffix-list
@@ -2061,7 +2061,6 @@ raptor2
 rasdaemon
 rasqal
 rdma-core
-re2
 readline
 realmd
 realtime-setup
@@ -2437,6 +2436,7 @@ xmltoman
 xmlunit
 xmodmap
 xmvn
+xmvn-generator
 xorg-x11-drivers
 xorg-x11-drv-dummy
 xorg-x11-drv-evdev
