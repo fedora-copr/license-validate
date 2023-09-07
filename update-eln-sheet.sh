@@ -1,4 +1,6 @@
 set -o pipefail
+cd ~/projects/rhel/components/RHEL10/ && git pull --rebase
+cd -
 while read c; do 
         echo -n "$c,"
         grep "Default Assignee"  ~/projects/rhel/components/RHEL10/$c 2> /dev/null | cut -f 3 -d " " | tr '\n' ',' || echo -ne "Not in RHEL10,"
