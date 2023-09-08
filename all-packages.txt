@@ -685,6 +685,7 @@ blt
 bluebird
 bluedevil
 bluefish
+bluechi
 blueman
 blueprint-compiler
 bluez-hcidump
@@ -824,8 +825,6 @@ cabal-rpm
 cabextract
 cab
 ca-certificates
-cacti
-cacti-spine
 cadaver
 caddy
 Cadence
@@ -2433,7 +2432,6 @@ fontaine
 fontawesome-fonts
 fontawesome4-fonts
 fontconfig
-fontdump
 fontforge
 fontopia
 fonts-compare
@@ -2528,6 +2526,7 @@ frr
 fruit
 frysk
 fsarchiver
+fscrypt
 fs_mark
 fspy
 fstransform
@@ -3994,6 +3993,7 @@ golang-github-bradfitz-gomemcache
 golang-github-bradfitz-iter
 golang-github-briandowns-spinner
 golang-github-brunnre8-notmuch
+golang-github-brunoscheufler-aws-ecs-metadata
 golang-github-bruth-assert
 golang-github-bshuster-repo-logrus-logstash-hook
 golang-github-bsphere-le
@@ -4010,7 +4010,6 @@ golang-github-burntsushi-xdg
 golang-github-burntsushi-xgb
 golang-github-bwesterb-ristretto
 golang-github-cactus-statsd-client
-golang-github-caddyserver-caddy-1
 golang-github-calebcase-tmpfile
 golang-github-casbin-2
 golang-github-caspr-io-yamlpath
@@ -5691,6 +5690,7 @@ gucharmap
 guidelines-support-library
 guichan
 guile-gnutls
+guile-reader
 guile
 guile22
 guile30
@@ -5806,7 +5806,6 @@ hikari
 hipcub
 hiran-perizia-fonts
 hiredis
-hirte
 hitch
 hitori
 hivex
@@ -6299,7 +6298,6 @@ iso-country-flags
 isoimagewriter
 isomaster
 isomd5sum
-iso8859-2-fonts
 ispc
 isrcsubmit
 isync
@@ -9763,6 +9761,7 @@ oflb-smonohand-fonts
 ofono
 ogdi
 oggvideotools
+ogmtools
 ogre
 ogr2osm
 ohmybackup
@@ -14405,7 +14404,6 @@ python-azure-cosmos
 python-azure-datalake-store
 python-azure-data-tables
 python-azure-devtools
-python-azure-eventhub
 python-azure-functions-devops-build
 python-azure-graphrbac
 python-azure-identity
@@ -14630,6 +14628,7 @@ python-click-didyoumean
 python-click-help-colors
 python-click-log
 python-click-man
+python-click-option-group
 python-click-plugins
 python-click-repl
 python-click
@@ -15364,7 +15363,6 @@ python-inspyred
 python-installer
 python-instant
 python-interface-meta
-python-interfile
 python-intern
 python-interrogate
 python-intervaltree
@@ -15444,6 +15442,7 @@ python-jsonref
 python-jsonrpclib
 python-jsonrpc-server
 python-jsonschema
+python-jsonschema-specifications
 python-jsonschema-spec
 python-jsons
 python-json2table
@@ -15954,7 +15953,6 @@ python-periodictable
 python-perky
 python-persistent
 python-persist-queue
-python-petlink
 python-pexpect
 python-pgspecial
 python-pg8000
@@ -16585,7 +16583,6 @@ python-simpleparse
 python-simple-rlp
 python-simple-salesforce
 python-simplevisor
-python-simplewrap
 python-singledispatch
 python-siphash
 python-six
@@ -16897,7 +16894,6 @@ python-typing-inspect
 python-typish
 python-typogrify
 python-tzlocal
-python-uamqp
 python-ua-parser
 python-uc-micro-py
 python-ufl
@@ -17274,6 +17270,7 @@ qr-code-generator
 qrencode
 qrmumps
 qrq
+qrtr
 qrupdate
 qscintilla
 qsf
@@ -17735,6 +17732,7 @@ R-htmlwidgets
 R-httpuv
 R-httr
 R-hunspell
+rhythmbox-alternative-toolbar
 rhythmbox-ampache
 rhythmbox
 R-chron
@@ -18686,7 +18684,9 @@ rust-async-trait
 rust-atk
 rust-atk-sys
 rust-atk-sys0.15
+rust-atk-sys0.17
 rust-atk0.15
+rust-atk0.17
 rust-atomic-polyfill
 rust-atomic-polyfill0.1
 rust-atomic_refcell
@@ -18814,6 +18814,7 @@ rust-cargo-husky
 rust-cargo-insta
 rust-cargo-manifest
 rust-cargo_metadata
+rust-cargo_metadata0.15
 rust-cargo-options
 rust-cargo-platform
 rust-cargo-readme
@@ -19258,7 +19259,9 @@ rust-gdk-pixbuf0.17
 rust-gdk
 rust-gdk-sys
 rust-gdk-sys0.15
+rust-gdk-sys0.17
 rust-gdk0.15
+rust-gdk0.17
 rust-gdk4
 rust-gdk4-sys
 rust-gdk4-sys0.6
@@ -19389,9 +19392,12 @@ rust-gstreamer-video-sys
 rust-gtk
 rust-gtk-sys
 rust-gtk-sys0.15
+rust-gtk-sys0.17
 rust-gtk0.15
+rust-gtk0.17
 rust-gtk3-macros
 rust-gtk3-macros0.15
+rust-gtk3-macros0.17
 rust-gtk4-macros
 rust-gtk4-macros0.6
 rust-gtk4
@@ -21102,6 +21108,7 @@ setuptool
 setxkbmap
 setzer
 sevmgr
+sexpp
 sextractor
 SFCGAL
 SFML
@@ -21409,6 +21416,7 @@ spim
 spindown
 spirv-headers
 spirv-llvm-translator
+spirv-llvm-translator16
 spirv-llvm15.0-translator
 spirv-llvm8.0-translator
 spirv-tools
@@ -22556,7 +22564,6 @@ wmx
 wob
 WoeUSB
 woff
-woffTools
 woff2
 wofi
 wol

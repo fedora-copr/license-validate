@@ -229,7 +229,6 @@ ardour7
 arduino-listSerialPortsC
 argbash
 argon2
-argparse-manpage
 args4j
 argtable
 argyllcms
@@ -413,7 +412,6 @@ bcftools
 bcg729
 bcm283x-firmware
 bcm43xx-fwcutter
-bdftopcf
 bdii
 bdsync
 beakerlib-libraries
@@ -468,7 +466,6 @@ biosig4c++
 bio2jack
 bird
 bismuth
-bison
 bitcoin-core-selinux
 bitcoin-core
 BitchX
@@ -500,6 +497,7 @@ bltk
 blt
 bluebird
 bluefish
+bluechi
 blueman
 blueprint-compiler
 bluez-hcidump
@@ -604,8 +602,6 @@ cabal-rpm
 cabextract
 cab
 ca-certificates
-cacti
-cacti-spine
 cadaver
 caddy
 Cadence
@@ -878,7 +874,6 @@ comic-neue-fonts
 commit-stream
 commoncpp2
 common-lisp-controller
-community-mysql
 compat-flex
 compat-gdbm
 compat-lua
@@ -1970,7 +1965,6 @@ folks
 folly-rpm-macros
 folly
 fondo
-fontdump
 fontopia
 fonts-compare
 fonts-KOI8-R
@@ -2034,6 +2028,7 @@ frozen
 fruit
 frysk
 fsarchiver
+fscrypt
 fs_mark
 fspy
 fstransform
@@ -3308,6 +3303,7 @@ golang-github-bradfitz-gomemcache
 golang-github-bradfitz-iter
 golang-github-briandowns-spinner
 golang-github-brunnre8-notmuch
+golang-github-brunoscheufler-aws-ecs-metadata
 golang-github-bruth-assert
 golang-github-bshuster-repo-logrus-logstash-hook
 golang-github-bsphere-le
@@ -3324,7 +3320,6 @@ golang-github-burntsushi-xdg
 golang-github-burntsushi-xgb
 golang-github-bwesterb-ristretto
 golang-github-cactus-statsd-client
-golang-github-caddyserver-caddy-1
 golang-github-calebcase-tmpfile
 golang-github-casbin-2
 golang-github-caspr-io-yamlpath
@@ -4943,6 +4938,7 @@ guayadeque
 gudev-sharp
 guidelines-support-library
 guile-gnutls
+guile-reader
 guile22
 guile30
 guilt
@@ -5034,7 +5030,6 @@ hikari
 hipcub
 hiran-perizia-fonts
 hiredis
-hirte
 hitch
 hledger-ui
 hmmer
@@ -5285,7 +5280,6 @@ isl
 isns-utils
 iso-country-flags
 isoimagewriter
-iso8859-2-fonts
 ispc
 isrcsubmit
 isync
@@ -6157,7 +6151,6 @@ libetnaviv
 libetonyek
 libetpan
 libevdevPlus
-libevdev
 libevent
 libev
 libewf
@@ -6251,7 +6244,6 @@ libchipcard
 libibcommon
 libical
 libica
-libICE
 libicns
 libicu71
 libicu72
@@ -6271,7 +6263,6 @@ libimobiledevice
 libindicator
 libindi
 libinjection
-libinput
 libinsane
 libinstpatch
 libint
@@ -6436,7 +6427,6 @@ libosinfo
 libosmium
 libosmocore
 libosmo-dsp
-libotf
 libotr
 libowfat
 libpagemaker
@@ -6554,7 +6544,6 @@ libskk
 libslirp
 libsmbios
 libsmi
-libSM
 libsodium
 libsolv
 libsonata
@@ -6663,7 +6652,6 @@ libvpx
 libvpx7
 libvterm
 libv3270
-libwacom
 libwapcaplet
 libwebcam
 libwebp
@@ -6678,29 +6666,17 @@ libwpe
 libwpg
 libwps
 libwvstreams
-libXau
-libXaw
 libxcb
 libXcm
-libXcomposite
 libxc
-libXcursor
 libxcvt
-libXdamage
 libxdiff
-libXdmcp
 libXext
 libxfce4ui
 libxfce4util
-libXfixes
 libXfont
 libXfont2
-libXft
-libXinerama
 libXISF
-libXi
-libxkbcommon
-libxkbfile
 libxklavier
 libxls
 libxlsxwriter
@@ -6709,25 +6685,15 @@ libxml++
 libxml2
 libxml++30
 libxmp
-libXmu
 libxnm
 libXNVCtrl
 libxo
-libXpm
 libXpresent
-libXp
-libXrandr
-libXrender
-libXres
-libXScrnSaver
 libxshmfence
-libXt
 libXtst
 libXvMC
-libXv
 libXxf86dga
 libXxf86misc
-libXxf86vm
 libX11
 libx86emu
 libx86
@@ -7197,7 +7163,6 @@ mesa
 meshbird
 meshlab
 meson
-metacity
 metapixel
 meteo
 meterbridge
@@ -7563,7 +7528,6 @@ mir
 mISDN
 mkbootdisk
 mk-files
-mkfontscale
 mkosi-initrd
 mkosi
 mkrdns
@@ -7590,7 +7554,6 @@ mmv
 mm3d
 mnmlicons-fonts
 moarvm
-mobile-broadband-provider-info
 mock-centos-sig-configs
 mockito
 mod_auth_cas
@@ -7717,7 +7680,6 @@ msolve
 msort
 msr-tools
 mstflint
-mtdev
 mtd-utils
 mtn-browse
 mtpaint
@@ -8282,7 +8244,6 @@ openh264
 openchange
 openigtlink
 openiked
-OpenImageIO
 openjade
 openjdk-asmtools
 openjdk-asmtools7
@@ -9698,7 +9659,6 @@ perl-IPC-Filter
 perl-IPC-Shareable
 perl-IPC-SharedCache
 perl-IPC-ShareLite
-perl-IPC-Signal
 perl-IPC-System-Simple
 perl-IPC-SysV
 perl-IP-Geolocation-MMDB
@@ -9916,7 +9876,6 @@ perl-Metrics-Any
 perl-MikroTik-API
 perl-MIME-Base32
 perl-MIME-Base64
-perl-mime-construct
 perl-MIME-EncWords
 perl-MIME-Charset
 perl-MIME-Lite-HTML
@@ -10411,7 +10370,6 @@ perl-Proc-Queue
 perl-Proc-Simple
 perl-Proc-SyncExec
 perl-Proc-Terminator
-perl-Proc-WaitStat
 perl-Promises
 perl-PSGI
 perl-qooxdoo-compat
@@ -12061,7 +12019,6 @@ python-azure-cosmos
 python-azure-datalake-store
 python-azure-data-tables
 python-azure-devtools
-python-azure-eventhub
 python-azure-functions-devops-build
 python-azure-graphrbac
 python-azure-identity
@@ -12263,6 +12220,7 @@ python-click-didyoumean
 python-click-help-colors
 python-click-log
 python-click-man
+python-click-option-group
 python-click-repl
 python-click
 python-click-spinner
@@ -12932,7 +12890,6 @@ python-inspyred
 python-installer
 python-instant
 python-interface-meta
-python-interfile
 python-intern
 python-interrogate
 python-intervaltree
@@ -13001,6 +12958,7 @@ python-jsonref
 python-jsonrpclib
 python-jsonrpc-server
 python-jsonschema
+python-jsonschema-specifications
 python-jsonschema-spec
 python-jsons
 python-json2table
@@ -13073,7 +13031,6 @@ python-libarchive-c
 python-libcloud
 python-libcst
 python-libdiscid
-python-libevdev
 python-liblarch
 python-libnacl
 python-libNeuroML
@@ -13462,7 +13419,6 @@ python-pep8-naming
 python-periodictable
 python-perky
 python-persist-queue
-python-petlink
 python-pexpect
 python-pgspecial
 python-pg8000
@@ -14034,7 +13990,6 @@ python-simpleparse
 python-simple-rlp
 python-simple-salesforce
 python-simplevisor
-python-simplewrap
 python-singledispatch
 python-six
 python-sklearn-genetic-opt
@@ -14078,7 +14033,6 @@ python-sphinxcontrib-apidoc
 python-sphinxcontrib-asyncio
 python-sphinxcontrib-autoprogram
 python-sphinxcontrib-blockdiag
-python-sphinxcontrib-httpdomain
 python-sphinxcontrib-jquery
 python-sphinxcontrib-log-cabinet
 python-sphinxcontrib-openapi
@@ -14232,6 +14186,7 @@ python-threadpoolctl
 python-three_merge
 python-throttler
 python-tidy
+python-tifffile
 python-time-machine
 python-timeout-decorator
 python-timeunit
@@ -14306,7 +14261,6 @@ python-typing-inspect
 python-typish
 python-typogrify
 python-tzlocal
-python-uamqp
 python-ua-parser
 python-uc-micro-py
 python-ufl
@@ -14645,6 +14599,7 @@ qr-code-generator
 qrencode
 qrmumps
 qrq
+qrtr
 qrupdate
 qscintilla
 qsf
@@ -15019,6 +14974,7 @@ R-htmlwidgets
 R-httpuv
 R-httr
 R-hunspell
+rhythmbox-alternative-toolbar
 rhythmbox-ampache
 rhythmbox
 R-chron
@@ -15765,7 +15721,6 @@ rubygem-turbolinks
 rubygem-typhoeus
 rubygem-tzinfo
 rubygem-unf_ext
-rubygem-unf
 rubygem-unicode-display_width
 rubygem-unicode
 rubygem-uuid
@@ -15924,7 +15879,9 @@ rust-async-trait
 rust-atk
 rust-atk-sys
 rust-atk-sys0.15
+rust-atk-sys0.17
 rust-atk0.15
+rust-atk0.17
 rust-atomic-polyfill
 rust-atomic-polyfill0.1
 rust-atomic_refcell
@@ -16052,6 +16009,7 @@ rust-cargo-husky
 rust-cargo-insta
 rust-cargo-manifest
 rust-cargo_metadata
+rust-cargo_metadata0.15
 rust-cargo-options
 rust-cargo-platform
 rust-cargo-readme
@@ -16496,7 +16454,9 @@ rust-gdk-pixbuf0.17
 rust-gdk
 rust-gdk-sys
 rust-gdk-sys0.15
+rust-gdk-sys0.17
 rust-gdk0.15
+rust-gdk0.17
 rust-gdk4
 rust-gdk4-sys
 rust-gdk4-sys0.6
@@ -16627,9 +16587,12 @@ rust-gstreamer-video-sys
 rust-gtk
 rust-gtk-sys
 rust-gtk-sys0.15
+rust-gtk-sys0.17
 rust-gtk0.15
+rust-gtk0.17
 rust-gtk3-macros
 rust-gtk3-macros0.15
+rust-gtk3-macros0.17
 rust-gtk4-macros
 rust-gtk4-macros0.6
 rust-gtk4
@@ -18178,7 +18141,6 @@ scidavis
 scipy
 scitokens-cpp
 scl-utils-build-helpers
-scl-utils
 scmxx
 scons
 scorched3d
@@ -18275,6 +18237,7 @@ setserial
 setxkbmap
 setzer
 sevmgr
+sexpp
 sextractor
 SFCGAL
 sfnt2woff-zopfli
@@ -18543,6 +18506,7 @@ spim
 spindown
 spirv-headers
 spirv-llvm-translator
+spirv-llvm-translator16
 spirv-llvm15.0-translator
 spirv-llvm8.0-translator
 spirv-tools
@@ -18846,7 +18810,6 @@ telepathy-accounts-signon
 telepathy-farstream
 telepathy-filesystem
 telepathy-gabble
-telepathy-glib
 telepathy-idle
 telepathy-logger-qt
 telepathy-logger
@@ -19502,7 +19465,6 @@ wmx
 wob
 WoeUSB
 woff
-woffTools
 wofi
 wol
 wondershaper
@@ -19741,17 +19703,14 @@ xorg-x11-drv-armada
 xorg-x11-drv-armsoc
 xorg-x11-drv-ati
 xorg-x11-drv-dummy
-xorg-x11-drv-evdev
 xorg-x11-drv-fbdev
 xorg-x11-drv-intel
-xorg-x11-drv-libinput
 xorg-x11-drv-nouveau
 xorg-x11-drv-openchrome
 xorg-x11-drv-qxl
 xorg-x11-drv-synaptics
 xorg-x11-drv-vesa
 xorg-x11-drv-vmware
-xorg-x11-drv-wacom
 xorg-x11-fonts
 xorg-x11-font-utils
 xorg-x11-proto-devel

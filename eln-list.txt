@@ -160,6 +160,7 @@ cifs-utils
 cim-schema
 cjose
 clang
+clang16
 classloader-leak-test-framework
 cldr-emoji-annotation
 clevis
@@ -874,7 +875,6 @@ libasyncns
 libatasmart
 libatomic_ops
 libavif
-libavtp
 libb2
 libblkio
 libblockdev
@@ -1117,6 +1117,7 @@ lldb
 lldpad
 lldpd
 llvm
+llvm16
 lm_sensors
 lmdb
 lockdev
@@ -1385,6 +1386,7 @@ openssl-pkcs11
 opentest4j
 openwsman
 opus
+oqsprovider
 orc
 orca
 os-prober
@@ -2113,10 +2115,8 @@ rubygem-asciidoctor
 rubygem-coderay
 rubygem-diff-lcs
 rubygem-eventmachine
-rubygem-hrx
 rubygem-kramdown
 rubygem-kramdown-parser-gfm
-rubygem-linked-list
 rubygem-mustache
 rubygem-mysql2
 rubygem-nokogiri

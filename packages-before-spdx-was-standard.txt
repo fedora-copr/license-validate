@@ -185,7 +185,6 @@ ardour6
 arduino-listSerialPortsC
 argbash
 argon2
-argparse-manpage
 args4j
 argtable
 arch-install-scripts
@@ -343,7 +342,6 @@ bcd
 bcftools
 bcm283x-firmware
 bcm43xx-fwcutter
-bdftopcf
 bdii
 bdsync
 beakerlib-libraries
@@ -392,7 +390,6 @@ bionetgen
 biosig4c++
 bio2jack
 bird
-bison
 bitcoin-core-selinux
 bitcoin-core
 BitchX
@@ -502,8 +499,6 @@ b43-openfwwf
 b43-tools
 cabextract
 ca-certificates
-cacti
-cacti-spine
 cadaver
 caddy
 Cadence
@@ -648,7 +643,6 @@ clojure-spec-alpha
 clonekeen
 cloog
 cloudcompare
-cloud-utils
 cloudy
 clover2
 clpeak
@@ -675,6 +669,7 @@ cockatrice
 cockpit-file-sharing
 cockpit-machines
 cockpit-navigator
+Error pulling 'cockpit-ostree'
 cockpit-ostree
 cockpit-podman
 cockpit-session-recording
@@ -726,7 +721,6 @@ comic-neue-fonts
 commit-stream
 commoncpp2
 common-lisp-controller
-community-mysql
 compat-flex
 compat-gdbm
 compat-lua
@@ -892,7 +886,6 @@ dbus-broker
 dbus-c++
 dbus-glib
 dbus-parsec
-Error pulling 'dbus-python'
 dbus-python
 dbus-qt3
 dbus-sharp-glib
@@ -1212,9 +1205,7 @@ efl
 efont-unicode-bdf
 egd
 eggdrop
-eglexternalplatform
 egl-gbm
-egl-wayland
 eg
 echo-artist
 echo-icon-theme
@@ -1544,7 +1535,6 @@ fcitx5
 fcitx5-table-extra
 fcitx5-table-other
 fcitx5-unikey
-fcitx5-zhuyin
 fcl
 fcode-utils
 fcoe-utils
@@ -1667,7 +1657,6 @@ folks
 folly-rpm-macros
 folly
 fondo
-fontdump
 fontopia
 fonts-KOI8-R
 fontsquirrel-crete-round-fonts
@@ -2138,7 +2127,6 @@ glib2
 glide
 glimmer
 gliv
-gl-manpages
 glmark2
 glm
 global
@@ -2233,7 +2221,6 @@ gnome-session
 gnome-settings-daemon
 gnome-sharp
 gnome-shell-extension-appindicator
-Error pulling 'gnome-shell-extension-argos'
 gnome-shell-extension-argos
 gnome-shell-extension-background-logo
 gnome-shell-extension-caffeine
@@ -2367,7 +2354,6 @@ golang-github-aliyun-credentials
 golang-github-aliyun-oss-sdk
 golang-github-aliyun-ossutil
 golang-github-alyu-configparser
-Error pulling 'golang-github-anacrolix-dms'
 golang-github-anacrolix-dms
 golang-github-anacrolix-log
 golang-github-andrew-d-termutil
@@ -2460,7 +2446,6 @@ golang-github-burntsushi-toml-test
 golang-github-burntsushi-xdg
 golang-github-burntsushi-xgb
 golang-github-cactus-statsd-client
-golang-github-caddyserver-caddy-1
 golang-github-calebcase-tmpfile
 golang-github-casbin-2
 golang-github-caspr-io-yamlpath
@@ -3429,6 +3414,7 @@ golang-github-tonistiigi-fsutil
 golang-github-tonistiigi-rosetta
 golang-github-tonistiigi-units
 golang-github-tonistiigi-vt100
+Error pulling 'golang-github-trafficstars-metrics'
 golang-github-trafficstars-metrics
 golang-github-transip-gotransip
 golang-github-tscholl2-siec
@@ -3441,6 +3427,7 @@ golang-github-twpayne-pinentry
 golang-github-twpayne-waypoint
 golang-github-t3rm1n4l-mega
 golang-github-uber-athenadriver
+Error pulling 'golang-github-uber-jaeger-client'
 golang-github-uber-jaeger-client
 golang-github-uber-jaeger-lib
 golang-github-uber-tally
@@ -4140,7 +4127,6 @@ isl
 isns-utils
 iso-country-flags
 isoimagewriter
-iso8859-2-fonts
 ispc
 isrcsubmit
 isync
@@ -4375,7 +4361,6 @@ kdnssd
 kdsoap
 kea
 keditbookmarks
-Error pulling 'keepassxc'
 keepassxc
 kemie-bellota-fonts
 kerberoast
@@ -4600,7 +4585,6 @@ knot-resolver
 knot
 koan
 KoboDeluxe
-kobo
 koffice-kivio
 koji-containerbuild
 koji-osbuild
@@ -4868,7 +4852,6 @@ libdiscid
 libdkimpp
 libdmapsharing4
 libdmtx
-libdmx
 libdnet
 libdnf-plugin-txnupd
 libdnf
@@ -4901,7 +4884,6 @@ libesedb
 libesmtp
 libetnaviv
 libevdevPlus
-libevdev
 libevent
 libev
 libewf
@@ -4916,7 +4898,6 @@ libfishsound
 libfixposix
 libfm-qt
 libfm
-libfontenc
 libfprint
 libFS
 libftdi
@@ -4968,8 +4949,8 @@ libHX
 libchamplain
 libchardet
 libchewing
+Error pulling 'libchipcard'
 libibcommon
-libICE
 libicns
 libidn
 libidn1.34
@@ -4983,7 +4964,6 @@ libime
 libindicator
 libindi
 libinjection
-libinput
 libint
 libint2
 libiodbc
@@ -4999,7 +4979,6 @@ libjoedog
 libjpeg-turbo
 libjwt
 libkate
-libkcapi
 libkcddb
 libkcompactdisc
 libkdegames
@@ -5114,7 +5093,6 @@ libopm
 libopusenc
 libosmocore
 libosmo-dsp
-libotf
 libotr
 libowfat
 libpal
@@ -5202,7 +5180,6 @@ libskk
 libslirp
 libsmbios
 libsmi
-libSM
 libsodium
 libsolv
 libsonata
@@ -5237,7 +5214,6 @@ libtnc
 libtomcrypt
 libtoml
 libtommath
-libtool
 libtorrent
 libtpcimgio
 libtpcmisc
@@ -5291,7 +5267,6 @@ libvorbis
 libvpx
 libvterm
 libv3270
-libwacom
 libwebcam
 libwebp
 libwebsockets
@@ -5302,53 +5277,30 @@ libwnck
 libwnck3
 libwpe
 libwvstreams
-libXau
-libXaw
 libxcb
 libXcm
-libXcomposite
 libxc
-libXcursor
 libxcvt
-libXdamage
 libxdiff
-libXdmcp
 libXext
 libxfce4ui
 libxfce4util
-libXfixes
 libXfont
-libXfont2
-libXft
-libXinerama
-libXi
-libxkbcommon
-libxkbfile
 libxklavier
 libxls
 libxlsxwriter
 libxml2
 libxml++30
 libxmp
-libXmu
 libxnm
 libXNVCtrl
 libxo
-libXpm
 libXpresent
-libXp
-libXrandr
-libXrender
-libXres
-libXScrnSaver
 libxshmfence
-libXt
 libXtst
 libXvMC
-libXv
 libXxf86dga
 libXxf86misc
-libXxf86vm
 libX11
 libx86emu
 libx86
@@ -5364,7 +5316,6 @@ libyuv
 libzbd
 libzdb
 libzeitgeist
-Error pulling 'libzia'
 libzia
 libzip
 libzypp
@@ -5630,6 +5581,7 @@ mbox-importer
 mbpfan
 mbuffer
 mb2md
+Error pulling 'mcabber'
 mcabber
 mcomix3
 mcpp
@@ -5676,7 +5628,6 @@ mesa
 meshbird
 meshlab
 meson
-metacity
 metapixel
 meteo
 meterbridge
@@ -5787,7 +5738,6 @@ mingw-libarchive
 mingw-libconfuse
 mingw-libcroco
 mingw-libepoxy
-mingw-libffi
 mingw-libftdi
 mingw-libgamerzilla
 mingw-libgcrypt
@@ -5970,7 +5920,6 @@ mir
 mISDN
 mkbootdisk
 mk-files
-mkfontscale
 mkosi-initrd
 mkosi
 mkrdns
@@ -5991,7 +5940,6 @@ mmv
 mm3d
 mnmlicons-fonts
 moarvm
-mobile-broadband-provider-info
 mock-centos-sig-configs
 mod_auth_cas
 mod_auth_gssapi
@@ -6101,7 +6049,6 @@ msoffcrypto-tool
 msort
 msr-tools
 mstflint
-mtdev
 mtd-utils
 mtn-browse
 mtpaint
@@ -6148,7 +6095,6 @@ mysql-mmm
 MySQL-zrm
 mytop
 m2crypto
-m4
 nacl
 nagelfar
 nagios-plugins-bdii
@@ -6363,7 +6309,6 @@ nudoku
 nuget
 nulib2
 nullmodem
-numactl
 numix-gtk-theme
 numix-icon-theme-circle
 numix-icon-theme
@@ -6395,7 +6340,6 @@ obconf-qt
 obconf
 obfs4
 obserware
-obs-service-download_files
 obs-service-extract_file
 obs-service-recompress
 obs-service-rust2rpm
@@ -6530,7 +6474,6 @@ openhpi-subagent
 openh264
 openigtlink
 openiked
-OpenImageIO
 openjade
 openjdk-asmtools
 openjdk-asmtools7
@@ -6897,6 +6840,7 @@ perl-Catalyst-View-HTML-Template
 perl-Catalyst-View-JSON
 perl-Catalyst-View-Mason
 perl-Catalyst-View-PDF-Reuse
+Error pulling 'perl-Catalyst-View-TT'
 perl-Catalyst-View-TT
 perl-CatalystX-Component-Traits
 perl-CatalystX-InjectComponent
@@ -7455,7 +7399,6 @@ perl-IO-TieCombine
 perl-IPC-DirQueue
 perl-IPC-Shareable
 perl-IPC-SharedCache
-perl-IPC-Signal
 perl-IPTables-ChainMgr
 perl-IPTables-Parse
 perl-IRI
@@ -7517,6 +7460,7 @@ perl-Log-Dispatch-Config
 perl-Log-Dispatch-Configurator-Any
 perl-Log-Dispatchouli
 perl-Log-LogLite
+Error pulling 'perl-Log-Log4perl-Appender-Socket-UNIX'
 perl-Log-Log4perl-Appender-Socket-UNIX
 perl-Log-Log4perl
 perl-Log-Report-Optional
@@ -7569,7 +7513,6 @@ perl-Messaging-Message
 perl-Metrics-Any
 perl-MikroTik-API
 perl-MIME-Base32
-perl-mime-construct
 perl-MIME-EncWords
 perl-MIME-Lite-HTML
 perl-MIME-Lite-TT-HTML
@@ -7863,7 +7806,6 @@ perl-Proc-InvokeEditor
 perl-Proc-PID-File
 perl-Proc-Simple
 perl-Proc-SyncExec
-perl-Proc-WaitStat
 perl-PSGI
 perl-qooxdoo-compat
 perl-Queue-DBI
@@ -8047,7 +7989,9 @@ perl-Test-Object
 perl-Test-Perl-Critic-Progressive
 perl-Test-Pod-No404s
 perl-Test-Pod-Spelling-CommonMistakes
+Error pulling 'perl-Test-POE-Client-TCP'
 perl-Test-POE-Client-TCP
+Error pulling 'perl-Test-PostgreSQL'
 perl-Test-PostgreSQL
 perl-Test-Regression
 perl-Test-Reporter
@@ -9112,6 +9056,7 @@ python-azure-mgmt-dns
 python-azure-mgmt-eventgrid
 python-azure-mgmt-eventhub
 python-azure-mgmt-extendedlocation
+Error pulling 'python-azure-mgmt-fluidrelay'
 python-azure-mgmt-hdinsight
 python-azure-mgmt-hybridcompute
 python-azure-mgmt-imagebuilder
@@ -9144,7 +9089,6 @@ python-azure-mgmt-servicefabricmanagedclusters
 python-azure-mgmt-servicefabric
 python-azure-mgmt-servicelinker
 python-azure-mgmt-signalr
-python-azure-mgmt-sql
 python-azure-mgmt-sqlvirtualmachine
 python-azure-mgmt-storage
 python-azure-mgmt-subscription
@@ -9191,7 +9135,6 @@ python-bluepyopt
 python-blurb
 python-bokeh
 python-booleanoperations
-Error pulling 'python-boolean.py'
 python-boolean.py
 python-Bottleneck
 python-bottle
@@ -9799,11 +9742,9 @@ python-inotify_simple
 python-inotify
 python-inspyred
 python-instant
-python-interfile
 python-interrogate
 python-intervaltree
 python-into-dbus-python
-Error pulling 'python-iowait'
 python-iowait
 python-ipgetter
 python-ipgetter2
@@ -9909,7 +9850,6 @@ python-libarchive-c
 python-libcloud
 python-libcst
 python-libdiscid
-python-libevdev
 python-liblarch
 python-libnacl
 python-libNeuroML
@@ -10205,7 +10145,6 @@ python-pep517
 python-pep8-naming
 python-periodictable
 python-persist-queue
-python-petlink
 python-pexpect
 python-pg8000
 python-phonenumbers
@@ -10393,7 +10332,6 @@ python-pyrpmmd
 python-pyrpm
 python-PyRSS2Gen
 python-pyrtlsdr
-python-pysam
 python-pysb
 python-pyscaffold
 python-pyscf
@@ -10464,7 +10402,6 @@ python-pytest-sourceorder
 python-pytest-spec
 python-pytest-steps
 python-pytest-subprocess
-python-pytest-subtests
 python-pytest-sugar
 python-pytest-testmon
 python-pytest-trio
@@ -10479,6 +10416,7 @@ python-pytimeparse
 python-pytn3270
 python-pytools
 python-pyunicorn
+Error pulling 'python-pyupgrade'
 python-pyupgrade
 python-pyvat
 python-pyvex
@@ -10545,7 +10483,6 @@ python-requests-cache
 python-requests-credssp
 python-requests-download
 python-requestsexceptions
-Error pulling 'python-requests-exoscale-auth'
 python-requests-exoscale-auth
 python-requests-file
 python-requests-ftp
@@ -10575,7 +10512,6 @@ python-rnc2rng
 python-robosignatory
 python-robot-detection
 python-roman
-python-rope
 python-ROPGadget
 python-rosdep
 python-rosdistro
@@ -10654,7 +10590,6 @@ python-simplejson
 python-simpleparse
 python-simple-salesforce
 python-simplevisor
-python-simplewrap
 python-singledispatch
 python-sklearn-genetic-opt
 python-sklearn-nature-inspired-algorithms
@@ -10693,7 +10628,6 @@ python-sphinxcontrib-apidoc
 python-sphinxcontrib-asyncio
 python-sphinxcontrib-autoprogram
 python-sphinxcontrib-blockdiag
-python-sphinxcontrib-httpdomain
 python-sphinxcontrib-log-cabinet
 python-sphinxcontrib-openapi
 python-sphinxcontrib-pecanwsme
@@ -10812,6 +10746,7 @@ python-tgscheduler
 python-threadpoolctl
 python-three_merge
 python-tidy
+python-tifffile
 python-timeout-decorator
 python-timeunit
 python-tinycss2
@@ -10870,7 +10805,6 @@ python-typing-inspect
 python-typish
 python-typogrify
 python-tzlocal
-python-uamqp
 python-ufl
 python-uinput
 python-u-msgpack-python
@@ -11161,6 +11095,7 @@ qqc2-desktop-style
 qqwing
 qrencode
 qrmumps
+Error pulling 'qrq'
 qrq
 qrupdate
 qscintilla
@@ -11172,6 +11107,7 @@ qstars
 qstat
 qsynth
 qt-assistant-adp
+Error pulling 'qt-at-spi'
 qt-at-spi
 qtbrowserplugin
 qt-creator
@@ -11500,6 +11436,7 @@ R-htmlwidgets
 R-httpuv
 R-httr
 R-hunspell
+rhythmbox-alternative-toolbar
 rhythmbox-ampache
 rhythmbox
 R-chron
@@ -11589,6 +11526,7 @@ roca-detect
 rocksdb
 rocksndiamonds
 rocm-compilersupport
+Error pulling 'rocm-device-libs'
 rocm-device-libs
 rocminfo
 rocm-runtime
@@ -11897,7 +11835,6 @@ scdoc
 scipy
 scitokens-cpp
 scl-utils-build-helpers
-scl-utils
 scmxx
 scons
 scorched3d
@@ -12047,7 +11984,6 @@ sil-doulos-fonts
 sil-ezra-fonts
 sil-gentium-fonts
 sil-gentium-plus-compact-fonts
-Error pulling 'sil-gentium-plus-fonts'
 sil-gentium-plus-fonts
 sil-harmattan-fonts
 sil-charis-compact-fonts
@@ -12213,7 +12149,6 @@ spindown
 spirv-headers
 spirv-llvm-translator
 spirv-llvm8.0-translator
-spirv-tools
 spi-tools
 splat
 splint
@@ -12479,7 +12414,6 @@ telepathy-accounts-signon
 telepathy-farstream
 telepathy-filesystem
 telepathy-gabble
-telepathy-glib
 telepathy-idle
 telepathy-logger-qt
 telepathy-logger
@@ -12497,7 +12431,6 @@ terminus-fonts
 termy-server
 ternimal
 terrier
-testcloud
 testdisk
 test-drive
 testssl
@@ -12520,6 +12453,7 @@ thermald
 the_silver_searcher
 thibault-fonts
 thonny
+Error pulling 'thttpd'
 thttpd
 thunar-archive-plugin
 thunar-media-tags-plugin
@@ -12579,6 +12513,7 @@ tmispell-voikko
 tmt
 tmux
 tmux-top
+Error pulling 'tnef'
 tnef
 tng
 tntnet
@@ -12635,6 +12570,7 @@ transifex-client
 translate-shell
 transmission-remote-gtk
 trash-cli
+Error pulling 'travelccm'
 travelccm
 traverso
 tree-sitter
@@ -12795,7 +12731,6 @@ vagrant-openstack-provider
 vagrant-registration
 vagrant
 vagrant-sshfs
-Error pulling 'vagrant-vagrant_cloud'
 vagrant-vagrant_cloud
 vakzination
 vala-language-server
@@ -12931,10 +12866,6 @@ vsqlite++
 vtable-dumper
 vte291
 vttest
-vulkan-headers
-vulkan-loader
-vulkan-tools
-vulkan-validation-layers
 vultr
 vxl
 v4l-utils
@@ -13046,7 +12977,6 @@ wmname
 wmx
 wob
 WoeUSB
-woffTools
 wofi
 wol
 wondershaper
@@ -13267,23 +13197,19 @@ xorg-x11-drv-armada
 xorg-x11-drv-armsoc
 xorg-x11-drv-ati
 xorg-x11-drv-dummy
-xorg-x11-drv-evdev
 xorg-x11-drv-fbdev
 xorg-x11-drv-intel
-xorg-x11-drv-libinput
 xorg-x11-drv-nouveau
 xorg-x11-drv-openchrome
 xorg-x11-drv-qxl
 xorg-x11-drv-synaptics
 xorg-x11-drv-vesa
 xorg-x11-drv-vmware
-xorg-x11-drv-wacom
 xorg-x11-fonts
 xorg-x11-font-utils
 xorg-x11-proto-devel
 xorg-x11-server
 xorg-x11-server-Xwayland
-xorg-x11-util-macros
 xorg-x11-xauth
 xorg-x11-xbitmaps
 Error pulling 'xorg-x11-xdm'
