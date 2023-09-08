@@ -26,7 +26,7 @@ yt-dlp
 ^rubygem-*
 
 # ignore for now, most of the rust packages are generated and will be automatically updated via new template when rebased 
-^rust-*
+#^rust-*
 
 # migrated, but message is not in header of the commit
 aerc
