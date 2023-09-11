@@ -333,13 +333,11 @@ authd
 authselect
 auto-buildrequires
 autoconf-archive
-autoconf
 autoconf213
 autofs
 autojump
 autokey
 autolink-java
-automake
 automoc
 autorandr
 autorestic
@@ -400,7 +398,6 @@ barrier
 basez
 bash-argsparse
 bashmount
-batctl
 batik
 bats
 battray
@@ -702,7 +699,6 @@ celluloid
 celt051
 centerim
 centos-packager
-centpkg
 cepces
 cereal
 ceres-solver
@@ -1458,9 +1454,7 @@ efont-unicode-bdf
 efs-utils
 egd
 eggdrop
-eglexternalplatform
 egl-gbm
-egl-wayland
 eg
 echo-artist
 echo-icon-theme
@@ -1704,7 +1698,6 @@ eth-tools
 et
 eureka
 eurephia
-evemu
 eventlog
 evince
 evolution-data-server
@@ -1712,7 +1705,6 @@ evolution-ews
 evolution-mapi
 evolution-rspam
 evolution
-evtest
 exaile
 examiner
 exec-maven-plugin
@@ -1975,6 +1967,7 @@ foo2zjs
 fop
 foremost
 forge-parent
+forge-srpm-macros
 fortune-firefly
 fortune-mod
 fossil
@@ -2888,7 +2881,6 @@ glib2
 glide
 glimmer
 gliv
-gl-manpages
 glmark2
 glm
 global
@@ -5019,7 +5011,6 @@ hibernate-jpa-2.0-api
 hicolor-icon-theme
 hidapi
 hidrd
-hid-replay
 hidviz
 hid4java
 hiera
@@ -5562,7 +5553,6 @@ keepassxc
 kemie-bellota-fonts
 kerberoast
 kernel-headers
-kernel
 kernel-srpm-macros
 kernel-tools
 kexec-tools
@@ -6141,7 +6131,6 @@ libEMF
 libemu
 libeot
 libepc
-libepoxy
 libepubgen
 liberasurecode
 liberation-circuit
@@ -6346,6 +6335,7 @@ libmetal
 libmicrodns
 libmikmod
 libminc
+libmks
 libmml
 libmnl
 libmodbus
@@ -6473,7 +6463,6 @@ libqxt-qt5
 librabbitmq
 libraqm
 librasterlite2
-libratbag
 libraw1394
 librcd
 librealsense
@@ -6587,7 +6576,6 @@ libtnc
 libtomcrypt
 libtoml
 libtommath
-libtool
 libtorrent
 libtpcimgio
 libtpcmisc
@@ -6666,7 +6654,6 @@ libwpe
 libwpg
 libwps
 libwvstreams
-libxcb
 libXcm
 libxc
 libxcvt
@@ -6675,7 +6662,6 @@ libXext
 libxfce4ui
 libxfce4util
 libXfont
-libXfont2
 libXISF
 libxklavier
 libxls
@@ -6689,12 +6675,10 @@ libxnm
 libXNVCtrl
 libxo
 libXpresent
-libxshmfence
 libXtst
 libXvMC
 libXxf86dga
 libXxf86misc
-libX11
 libx86emu
 libx86
 libykneomgr
@@ -7155,9 +7139,7 @@ menulibre
 mepack
 mercurial
 merkaartor
-mesa-demos
 mesaflash
-mesa-libGLU
 mesa-libGLw
 mesa
 meshbird
@@ -7524,7 +7506,6 @@ mirmon
 mirrorlist-server
 mirrormagic
 mirrormanager2
-mir
 mISDN
 mkbootdisk
 mk-files
@@ -7736,7 +7717,6 @@ mythes-it
 mytop
 m1n1
 m2crypto
-m4
 nacl
 naev-data
 naev
@@ -7846,7 +7826,6 @@ nettle
 network-manager-applet
 NetworkManager-fortisslvpn
 NetworkManager-iodine
-NetworkManager-libreswan
 NetworkManager-l2tp
 NetworkManager-openconnect
 NetworkManager-openvpn
@@ -11518,7 +11497,6 @@ pipewire0.2
 pipx
 pisg
 pixiewps
-pixman
 pjproject
 pkcs11-dump
 pkcs11-helper
@@ -11994,6 +11972,7 @@ python-auth-credential
 python-authlib
 python-authres
 python-autobahn
+python-autocommand
 python-autograd
 python-automaton
 python-Automat
@@ -12168,6 +12147,7 @@ python-bravado-core
 python-bravado
 python-breathe
 python-brian2
+python-brukerapi
 python-bsmschema
 python-btchip
 python-btlewrap
@@ -12884,6 +12864,7 @@ python-iniconfig
 python-iniparse
 python-injector
 python-inject
+python-inkex
 python-inotify_simple
 python-inotify
 python-inspyred
@@ -12920,6 +12901,7 @@ python-jack-client
 python-janus
 python-jaraco-classes
 python-jaraco-collections
+python-jaraco-context
 python-jaraco-envs
 python-jaraco-functools
 python-jaraco-logging
@@ -13540,6 +13522,7 @@ python-pydispatcher
 python-pydocstyle
 python-pydotplus
 python-pyeclib
+python-pyedflib
 python-pyelectro
 python-pyembroidery
 python-pyemby
@@ -15732,7 +15715,6 @@ rubygem-web-console
 rubygem-webkit2-gtk
 rubygem-webmock
 rubygem-webrick
-rubygem-webrobots
 rubygem-websocket-driver
 rubygem-websocket-extensions
 rubygem-websocket
@@ -16315,6 +16297,7 @@ rust-enquote
 rust-entities
 rust-enum-as-inner
 rust-enumber
+rust-enum_dispatch
 rust-enumflags2_derive
 rust-enumflags2_derive0.6
 rust-enumflags2
@@ -17626,6 +17609,7 @@ rust-socket2
 rust-socket2_0.4
 rust-sop
 rust
+rust-speedate
 rust-spin_on
 rust-spin
 rust-spin0.5
@@ -18227,7 +18211,6 @@ serd
 serialdv
 servus
 ser2net
-sessreg
 setBfree
 setconf
 setools
@@ -18816,7 +18799,6 @@ telepathy-logger
 telepathy-mission-control
 telepathy-qt
 telepathy-salut
-tellico
 tempest
 template-glib
 templates_parser
@@ -19166,6 +19148,7 @@ uucp
 uudeview
 uvw
 uwsgi
+uxplay
 vacation
 vacuum-im
 vagrant-adbinfo
@@ -19367,7 +19350,6 @@ wayfire
 wayland-logout
 waylandpp
 wayland-protocols
-wayland
 wayland-utils
 waypipe
 wayvnc
@@ -19536,21 +19518,13 @@ xcalib
 xca
 xcat
 xcb-imdkit
-xcb-proto
 xcb-util-cursor
-xcb-util-image
-xcb-util-keysyms
-xcb-util-renderutil
-xcb-util
-xcb-util-wm
 xcb-util-xrm
 xcfun
 xcircuit
 xclip
-xclock
 xcompmgr
 xconvers
-xcursorgen
 xdaliclock
 xdelta
 xde-menu
@@ -19566,7 +19540,6 @@ xdg-desktop-portal
 xdg-desktop-portal-xapp
 xdg-user-dirs-gtk
 xdg-user-dirs
-xdg-utils
 xdialog
 xdotool
 xdpyinfo
@@ -19580,7 +19553,6 @@ xephem
 xerces-c
 xeus
 xev
-xeyes
 xfburn
 xfce-polkit
 xfce-theme-manager
@@ -19647,20 +19619,16 @@ xgamma
 xgrep
 xgridloc
 xguest
-xhost
 xhtml1-dtds
 xhtml2fo-style-xsl
 xchm
 xine-lib
-xinput
 xiphos
-xisxwayland
 xkbcomp
 xkbset
 xkb-switch
 xkeyboard-config
 xkeycaps
-xkill
 xlcrack
 xloadimage
 xlockmore
@@ -19685,7 +19653,6 @@ xmltoman
 xmlto
 xml2
 xmms2
-xmodmap
 xmonad
 xmountains
 xmount
@@ -19697,31 +19664,22 @@ xnec2c
 xonsh
 xoo
 xorgxrdp
-xorg-x11-drivers
 xorg-x11-drv-amdgpu
 xorg-x11-drv-armada
 xorg-x11-drv-armsoc
 xorg-x11-drv-ati
-xorg-x11-drv-dummy
-xorg-x11-drv-fbdev
 xorg-x11-drv-intel
 xorg-x11-drv-nouveau
 xorg-x11-drv-openchrome
 xorg-x11-drv-qxl
 xorg-x11-drv-synaptics
 xorg-x11-drv-vesa
-xorg-x11-drv-vmware
 xorg-x11-fonts
 xorg-x11-font-utils
-xorg-x11-proto-devel
 xorg-x11-server
 xorg-x11-server-Xwayland
-xorg-x11-util-macros
 xorg-x11-xauth
-xorg-x11-xbitmaps
 xorg-x11-xdm
-xorg-x11-xinit
-xorg-x11-xtrans-devel
 xorsearch
 xortool
 xosd
@@ -19739,7 +19697,6 @@ xpsk31
 xqc
 xqilla
 xq
-xrandr
 xrdb
 xrdp
 xreader
@@ -19753,8 +19710,6 @@ xsd
 xsecurelock
 xsel
 xsensors
-xsetroot
-xset
 xsettingsd
 xschem
 xsimd
@@ -19785,7 +19740,6 @@ xvinfo
 xvkbd
 xwax
 xwaylandvideobridge
-xwd
 xwininfo
 xwm
 xwrits
