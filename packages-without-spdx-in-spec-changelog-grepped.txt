@@ -197,7 +197,6 @@ appres
 appstream-data
 appstream-generator
 apptainer
-appx-util
 apr-api-docs
 aprsd
 apr
@@ -588,7 +587,6 @@ b43-tools
 cabal-rpm
 cabextract
 cab
-ca-certificates
 cadaver
 caddy
 Cadence
@@ -1973,6 +1971,7 @@ fpm2
 fprettify
 fprintd
 fprobe-ulog
+FP16
 fractal
 fragments
 freealut
@@ -6047,6 +6046,7 @@ libcutl
 libcxx
 libdap
 libdasm
+libdatachannel
 libdatovka
 libdazzle
 libdbi-drivers
@@ -6087,7 +6087,6 @@ libdxfrw
 libeatmydata
 libebml
 libe-book
-libecap
 libecb
 libeconf
 libecpg
@@ -6471,7 +6470,6 @@ librttopo
 librvngabw
 librx
 libsafec
-libsamplerate
 libsass
 libsavitar
 libsbml
@@ -7243,7 +7241,6 @@ mingw-pcre
 mingw-pcre2
 mingw-pdcurses
 mingw-physfs
-mingw-pixman
 mingw-plotmm
 mingw-polyclipping
 mingw-poppler
@@ -7847,7 +7844,6 @@ nss-altfiles
 nss-mdns
 nss_nis
 nss-pem
-nss
 nss_updatedb
 ns-tiza-chalk-fonts
 ntfs2btrfs
@@ -7896,6 +7892,7 @@ obconf-qt
 obconf
 obfs4
 objenesis
+objfw
 obs-build
 obsctl
 observable
@@ -9171,7 +9168,6 @@ perl-Event-ExecFlow
 perl-Event-Lib
 perl-Event-RPC
 perl-Event
-perl-EV
 perl-Excel-Writer-XLSX
 perl-Exception-Class
 perl-Exception-Class-TryCatch
@@ -9446,7 +9442,6 @@ perl-HTML-TreeBuilder-XPath
 perl-HTML-WikiConverter-Markdown
 perl-HTML-WikiConverter
 perl-HTTP-Body
-perl-HTTP-BrowserDetect
 perl-HTTP-Cache-Transparent
 perl-HTTP-CookieJar
 perl-HTTP-CookieMonster
@@ -9553,7 +9548,6 @@ perl-JavaScript-Minifier
 perl-JavaScript-Minifier-XS
 perl-Jcode
 perl-Jemplate
-perl-JSON-Any
 perl-JSON-Color
 perl-JSON-Create
 perl-JSON-Parse
@@ -11660,7 +11654,6 @@ pwncat
 pwsafe
 pw3270
 pxz
-pyaudio
 pybind11
 pybox2d
 pybugz
@@ -11849,7 +11842,6 @@ python-astor
 python-astral
 python-astroid
 python-astroML
-python-astroplan
 python-astropy-healpix
 python-astropy-helpers
 python-astroquery
@@ -12724,6 +12716,7 @@ python-hypothesmith
 python-h11
 python-h2
 python-h5io
+python-h5netcdf
 python-chai
 python-chameleon
 python-chaospy
@@ -13406,6 +13399,7 @@ python-pycountry
 python-pyct
 python-pycurl
 python-pycxx
+python-pydantic-core
 python-pydantic
 python-pydbus
 python-pydepsdev
@@ -13942,12 +13936,10 @@ python-sphinx_rtd_theme
 python-sphinx_selective_exclude
 python-sphinx
 python-sphinx-tabs
-python-sphinx-theme-alabaster
 python-sphinx-theme-py3doc-enhanced
 python-sphinx-typlog-theme
 python-sphinxygen
 python-sphobjinv
-python-spnego
 python-sport-activities-features
 python-spotipy
 python-spyder-kernels
@@ -14002,6 +13994,7 @@ python-surt
 python-sushy
 python-svg-path
 python-svgwrite
+python-svg2tikz
 python-swagger-spec-validator
 python-swiftclient
 python-sybil
@@ -17185,9 +17178,7 @@ sil-annapurna-fonts
 sil-apparatus-fonts
 sil-awami-nastaliq-fonts
 sil-dai-banna-fonts
-sil-doulos-fonts
 sil-ezra-fonts
-sil-gentium-fonts
 sil-gentium-plus-compact-fonts
 sil-gentium-plus-fonts
 sil-harmattan-fonts
@@ -18242,9 +18233,6 @@ wayfire-config-manager
 wayfire
 wayland-logout
 waylandpp
-wayland-protocols
-wayland-utils
-waypipe
 wayvnc
 wbox
 wcd
@@ -18570,7 +18558,6 @@ xorg-x11-drv-vesa
 xorg-x11-fonts
 xorg-x11-font-utils
 xorg-x11-server
-xorg-x11-server-Xwayland
 xorg-x11-xauth
 xorg-x11-xdm
 xorsearch
@@ -18594,7 +18581,6 @@ xrdb
 xrdp
 xreader
 xrefresh
-xrestop
 xrestrict
 xrootd
 xrotor

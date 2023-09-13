@@ -2,12 +2,10 @@
 CUnit
 Cython
 GitPython
-GraphicsMagick
 HdrHistogram_c
 ImageMagick
 Judy
 LibRaw
-MUMPS
 ModemManager
 NetworkManager
 NetworkManager-libreswan
@@ -17,8 +15,6 @@ PackageKit
 PyQt-builder
 PyYAML
 SDL2
-SuperLU
-SuperLUMT
 WALinuxAgent
 Xaw3d
 a52dec
@@ -79,7 +75,6 @@ apr-util
 aqute-bnd
 argon2
 argparse-manpage
-arpack
 asciidoc
 asio
 aspell
@@ -138,7 +133,6 @@ bsf
 bubblewrap
 build-helper-maven-plugin
 buildah
-bullet
 byacc
 byaccj
 byte-buddy
@@ -199,7 +193,6 @@ color-filesystem
 colord
 colord-gtk
 compat-locales-sap
-compat-lua
 compiler-rt
 conmon
 conntrack-tools
@@ -238,7 +231,6 @@ dav1d
 dblatex
 dbus
 dbus-broker
-dbus-c++
 dbus-glib
 dbus-python
 dconf
@@ -299,7 +291,6 @@ edk2
 efi-rpm-macros
 efibootmgr
 efivar
-efl
 efs-utils
 egl-wayland
 eglexternalplatform
@@ -312,7 +303,6 @@ enchant2
 enscript
 environment-modules
 ephemeral-port-reserve
-epstool
 espeak-ng
 ethtool
 evince
@@ -381,7 +371,6 @@ freetype
 fribidi
 frr
 fstrm
-ftgl
 ftp
 fuse
 fuse-overlayfs
@@ -558,14 +547,12 @@ git
 git-lfs
 gjs
 gl-manpages
-gl2ps
 glade
 glib-networking
 glib2
 glibc
 glibc32
 glibmm2.4
-glpk
 glslang
 glycin-loaders
 glyphicons-halflings-fonts
@@ -608,7 +595,6 @@ gnu-efi
 gnu-free-fonts
 gnulib
 gnupg2
-gnuplot
 gnutls
 go-rpm-macros
 gobject-introspection
@@ -661,7 +647,6 @@ gtk-vnc
 gtk2
 gtk3
 gtk4
-gtkmm2.4
 gtkmm3.0
 gtksourceview4
 gtksourceview5
@@ -675,7 +660,6 @@ happy
 haproxy
 harfbuzz
 hatch
-hdf5
 hdparm
 help2man
 hexedit
@@ -866,7 +850,6 @@ hyphen-ta
 hyphen-te
 hyphen-tk
 hyphen-uk
-hypre
 i2c-tools
 ibus
 ibus-anthy
@@ -914,7 +897,6 @@ iso-codes
 isomd5sum
 itstool
 iw
-jack-audio-connection-kit
 jackson-annotations
 jackson-bom
 jackson-core
@@ -980,7 +962,6 @@ jzlib
 kabi-dw
 kasumi
 kbd
-kde-filesystem
 kdump-anaconda-addon
 keepalived
 kernel
@@ -1045,7 +1026,6 @@ libXv
 libXxf86vm
 libabigail
 libadwaita
-libaec
 libaio
 libao
 libappstream-glib
@@ -1068,7 +1048,6 @@ libcap-ng
 libcbor
 libcdio
 libcdio-paranoia
-libcerf
 libcomps
 libconfig
 libcupsfilters
@@ -1100,7 +1079,6 @@ libexttextcat
 libfabric
 libfaketime
 libfastjson
-libffado
 libffi
 libfido2
 libfontenc
@@ -1109,7 +1087,6 @@ libgcrypt
 libgdl
 libgee
 libgexiv2
-libglade2
 libglvnd
 libgnomekbd
 libgpg-error
@@ -1130,11 +1107,9 @@ libi2cd
 libica
 libical
 libidn2
-libiec61883
 libieee1284
 libijs
 libinput
-libiodbc
 libipt
 libiptcdata
 libiscsi
@@ -1208,7 +1183,6 @@ libqmi
 libqrtr-glib
 librabbitmq
 libraqm
-libraw1394
 librdkafka
 librelp
 librepo
@@ -1294,7 +1268,6 @@ libxcvt
 libxkbcommon
 libxkbfile
 libxklavier
-libxml++
 libxml2
 libxmlb
 libxshmfence
@@ -1349,7 +1322,6 @@ lttng-ust
 lua
 lua-posix
 lua-rpm-macros
-luajit
 luarocks
 lujavrite
 luksmeta
@@ -1553,7 +1525,6 @@ ocaml-re
 ocaml-srpm-macros
 oci-seccomp-bpf-hook
 ocl-icd
-octave
 oddjob
 omping
 oneapi-level-zero
@@ -1607,7 +1578,6 @@ osinfo-db-tools
 ostree
 overpass-fonts
 p11-kit
-p7zip
 pacemaker
 package-notes
 paktype-naskh-basic-fonts
@@ -1966,7 +1936,6 @@ perl-threads
 perl-threads-shared
 perl-version
 pesign
-petsc
 pg_repack
 pgaudit
 php
@@ -2008,7 +1977,6 @@ polkit-pkla-compat
 poppler
 poppler-data
 popt
-portaudio
 postfix
 postgres-decoderbufs
 postgresql
@@ -2179,7 +2147,6 @@ python-hpack
 python-html5lib
 python-httpbin
 python-httpcore
-python-httplib2
 python-httpretty
 python-httpx
 python-hyperframe
@@ -2354,7 +2321,6 @@ python-pytest-datadir
 python-pytest-env
 python-pytest-expect
 python-pytest-forked
-python-pytest-httpbin
 python-pytest-jupyter
 python-pytest-lazy-fixture
 python-pytest-mock
@@ -2373,7 +2339,6 @@ python-pyudev
 python-qrcode
 python-qt5
 python-railroad-diagrams
-python-random2
 python-raven
 python-rdflib
 python-re-assert
@@ -2419,7 +2384,6 @@ python-six
 python-smartypants
 python-smmap
 python-sniffio
-python-socksio
 python-sortedcontainers
 python-soupsieve
 python-sphinx
@@ -2430,7 +2394,6 @@ python-sphinx-bootstrap-theme
 python-sphinx-copybutton
 python-sphinx-design
 python-sphinx-gallery
-python-sphinx-hoverxref
 python-sphinx-inline-tabs
 python-sphinx-issues
 python-sphinx-last-updated-by-git
@@ -2442,7 +2405,6 @@ python-sphinx-theme-builder
 python-sphinx-theme-py3doc-enhanced
 python-sphinx-typlog-theme
 python-sphinx_rtd_theme
-python-sphinx_selective_exclude
 python-sphinxcontrib-applehelp
 python-sphinxcontrib-asyncio
 python-sphinxcontrib-bibtex
@@ -2458,14 +2420,11 @@ python-sphinxcontrib-qthelp
 python-sphinxcontrib-serializinghtml
 python-sphinxcontrib-spelling
 python-sphinxcontrib-svg2pdfconverter
-python-sphinxcontrib-trio
-python-sphinxext-opengraph
 python-sphobjinv
 python-sqlalchemy
 python-sqlparse
 python-stack-data
 python-strict-rfc3339
-python-sure
 python-sybil
 python-systemd
 python-tblib
@@ -2505,7 +2464,6 @@ python-urllib-gssapi
 python-urllib3
 python-urwid
 python-userpath
-python-validators
 python-virt-firmware
 python-virtualenv
 python-w3lib
@@ -2559,8 +2517,6 @@ qdox
 qemu-kvm
 qhull
 qpdf
-qrupdate
-qscintilla
 qt5
 qt5-qtbase
 qt5-qtconnectivity
@@ -2644,7 +2600,6 @@ rhel-system-roles-sap
 rig
 rit-meera-new-fonts
 rit-rachana-fonts
-rlottie
 rng-tools
 rootfiles
 rpcbind
@@ -2810,11 +2765,8 @@ rust-ct-codecs
 rust-ctor0.1
 rust-curl
 rust-curl-sys
-rust-darling
 rust-darling0.14
-rust-darling_core
 rust-darling_core0.14
-rust-darling_macro
 rust-darling_macro0.14
 rust-dashmap
 rust-data-encoding
@@ -2919,7 +2871,7 @@ rust-http-auth
 rust-http-body
 rust-httparse
 rust-httpdate
-rust-humansize
+rust-humansize1
 rust-humantime
 rust-humantime1
 rust-hyper
@@ -3047,7 +2999,7 @@ rust-parking_lot0.11
 rust-parking_lot_core
 rust-parking_lot_core0.8
 rust-pasetors
-rust-password-hash
+rust-password-hash0.3
 rust-password-hash0.4
 rust-paste
 rust-pathdiff
@@ -3396,13 +3348,10 @@ sblim-sfcCommon
 sblim-sfcb
 sblim-sfcc
 sblim-wbemcli
-scalapack
 scap-security-guide
 scapy
 scipy
 scl-utils
-scons
-scotch
 scrub
 sdl12-compat
 seabios
@@ -3485,8 +3434,6 @@ subunit
 subversion
 sudo
 suitesparse
-sundials
-superlu_dist
 supermin
 support-tools-container
 sushi
@@ -3531,7 +3478,6 @@ thunderbird
 tigervnc
 time
 tinycdb
-tinyxml2
 tix
 tk
 tlog

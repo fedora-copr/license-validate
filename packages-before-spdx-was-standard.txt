@@ -164,7 +164,6 @@ appmenu-qt5
 appres
 appstream-generator
 apptainer
-appx-util
 apr-api-docs
 aprsd
 apr
@@ -798,7 +797,6 @@ CriticalMass
 cri-tools
 crm114
 cronolog
-crontabs
 cross-gcc
 crossguid
 crossguid2
@@ -814,6 +812,7 @@ crystal-stacker
 crystal-stacker-themes
 cscope
 csmith
+Error pulling 'csnappy'
 csnappy
 csound
 cstream
@@ -2160,7 +2159,6 @@ gnome-console
 gnome-contacts
 gnome-control-center
 gnome-desktop-sharp
-Error pulling 'gnome-desktop-testing'
 gnome-desktop-testing
 gnome-desktop3
 gnome-devel-docs
@@ -2626,9 +2624,7 @@ golang-github-facebookincubator-nvdtools
 golang-github-facebook-time
 golang-github-fanliao-promise
 golang-github-fatih-camelcase
-Error pulling 'golang-github-fatih-color'
 golang-github-fatih-color
-Error pulling 'golang-github-fatih-structs'
 golang-github-fatih-structs
 golang-github-fd0-termstatus
 golang-github-felixge-httpsnoop
@@ -2651,13 +2647,11 @@ golang-github-fvbommel-sortorder
 golang-github-fvbommel-util
 golang-github-gabriel-vasile-mimetype
 golang-github-gatherstars-com-jwz
-Error pulling 'golang-github-gdamore-tcell-2'
 golang-github-gdamore-tcell-2
 golang-github-gddo
 golang-github-geertjohan-incremental
 golang-github-geertjohan-rice
 golang-github-gehirninc-crypt
-Error pulling 'golang-github-genuinetools-pkg'
 golang-github-genuinetools-pkg
 golang-github-getkin-kin-openapi
 golang-github-ghemawat-stream
@@ -2882,7 +2876,6 @@ golang-github-jlaffaye-ftp
 golang-github-jmespath
 golang-github-jmhodges-clock
 golang-github-jmoiron-sqlx
-Error pulling 'golang-github-joho-godotenv'
 golang-github-joho-godotenv
 golang-github-jonboulle-clockwork
 golang-github-josharian-intern
@@ -3599,7 +3592,6 @@ golang-modernc-golex
 golang-modernc-lexer
 golang-modernc-lex
 golang-modernc-mathutil
-Error pulling 'golang-modernc-scannertest'
 golang-modernc-sortutil
 golang-modernc-strutil
 golang-mongodb-mongo-driver
@@ -4176,7 +4168,6 @@ java-17-openjdk
 java-1.8.0-openjdk-aarch32
 java-1.8.0-openjdk-portable
 java-1.8.0-openjdk
-Error pulling 'jaxb-api2'
 jaxen
 jbigkit
 jblas
@@ -4269,6 +4260,7 @@ kalendar
 kalgebra
 kalibrate-rtl
 kalk
+Error pulling 'kalzium'
 kalzium
 kamera
 kamoso
@@ -4343,7 +4335,6 @@ kde-wallpapers
 kdewebdev
 kdf
 kdiagram
-Error pulling 'kdialog'
 kdialog
 kdiamond
 kdiff3
@@ -4704,6 +4695,7 @@ ladspa-mcp-plugins
 ladspa-rev-plugins
 ladspa
 ladspa-swh-plugins
+Error pulling 'ladspa-tap-plugins'
 ladspa-tap-plugins
 ladspa-vco-plugins
 laf-plugin
@@ -4845,6 +4837,7 @@ libdkimpp
 libdmapsharing4
 libdmtx
 libdnet
+Error pulling 'libdnf-plugin-txnupd'
 libdnf-plugin-txnupd
 libdnf
 libdockapp
@@ -5207,7 +5200,6 @@ libtpcmisc
 libtpms
 libtranslate
 libtranslit
-Error pulling 'libtree-ldd'
 libtree-ldd
 libtree
 libtwin
@@ -5266,7 +5258,6 @@ libwpe
 libwvstreams
 libXcm
 libxc
-libxcvt
 libxdiff
 libXext
 libxfce4ui
@@ -5320,7 +5311,6 @@ lilv
 limnoria
 lincity-ng
 lingot
-Error pulling 'linhpsdr'
 linhpsdr
 links
 LinLog
@@ -5482,7 +5472,6 @@ maeparser
 magicmaze
 MagicPoint
 machineball
-Error pulling 'maildir-utils'
 maildir-utils
 mailman3-fedmsg-plugin
 mailnag
@@ -5778,7 +5767,6 @@ mingw-pango
 mingw-pcre2
 mingw-pdcurses
 mingw-physfs
-mingw-pixman
 mingw-plotmm
 mingw-polyclipping
 mingw-poppler
@@ -6979,7 +6967,6 @@ perl-Crypt-PWSafe3
 perl-Crypt-Random-Seed
 perl-Crypt-Random-Source
 perl-Crypt-RandPasswd
-Error pulling 'perl-Crypt-RC4'
 perl-Crypt-RC4
 perl-Crypt-RC4-XS
 perl-Crypt-Salsa20
@@ -7003,7 +6990,6 @@ perl-Dancer2-Plugin-DBIC
 perl-Dancer2-Plugin-REST
 perl-Dancer2
 perl-Data-AMF
-Error pulling 'perl-Data-AsObject'
 perl-Data-AsObject
 perl-Data-Denter
 perl-Data-Dmp
@@ -7340,6 +7326,7 @@ perl-HTTP-Tiny-Multipart
 perl-Chart
 perl-Chatbot-Eliza
 perl-iCal-Parser
+Error pulling 'perl-Icon-FamFamFam-Silk'
 perl-Icon-FamFamFam-Silk
 perl-Ima-DBI
 perl-Image-Base
@@ -7379,7 +7366,6 @@ perl-IPTables-Parse
 perl-IRI
 perl-Iterator-Simple-Lookahead
 perl-Iterator-Simple
-perl-JSON-Any
 perl-JSON-Create
 perl-JSON-Parse
 perl-JSON-Path
@@ -8677,7 +8663,6 @@ polkit-gnome
 polkit-kde
 polkit-qt
 polkit-qt-1
-Error pulling 'polly'
 polly
 polybar
 polyglot-chess
@@ -8793,7 +8778,6 @@ publican
 public-inbox
 publicsuffix-list
 puddletag
-Error pulling 'pugixml'
 pugixml
 pulledpork
 pulseaudio-qt
@@ -8817,7 +8801,6 @@ pwncat
 pwsafe
 pw3270
 pxz
-pyaudio
 pybind11
 pybox2d
 pybugz
@@ -8910,7 +8893,6 @@ python-aiohttp-sse-client
 python-aiohue
 python-aioiotprov
 python-aioitertools
-Error pulling 'python-aiolifx'
 python-aiolifx
 python-aiomultiprocess
 python-aiomysql
@@ -8977,7 +8959,6 @@ python-ast-monitor
 python-astor
 python-astral
 python-astroML
-python-astroplan
 python-astropy-healpix
 python-astropy-helpers
 python-astroquery
@@ -9006,6 +8987,7 @@ python-azure-mgmt-apimanagement
 python-azure-mgmt-appconfiguration
 python-azure-mgmt-applicationinsights
 python-azure-mgmt-authorization
+Error pulling 'python-azure-mgmt-automanage'
 python-azure-mgmt-azurestackhci
 python-azure-mgmt-batchai
 python-azure-mgmt-batch
@@ -9638,6 +9620,7 @@ python-hacking
 python-hamcrest
 python-hass-data-detective
 python-hatasmota
+Error pulling 'python-hatch-fancy-pypi-readme'
 python-haversion
 python-hdate
 python-hdf5storage
@@ -10166,7 +10149,9 @@ python-progressbar2
 python-progress
 python-promise
 python-protego
+Error pulling 'python-proto-plus'
 python-proto-plus
+Error pulling 'python-prov'
 python-prov
 python-psycogreen
 python-psycopg3
@@ -10220,6 +10205,7 @@ python-pygatt
 python-pygeoip
 python-pyghmi
 python-pygiftiio
+Error pulling 'python-PyGithub'
 python-PyGithub
 python-pygit2
 python-pygments-better-html
@@ -10236,6 +10222,7 @@ python-pyi2cflash
 python-pykdtree
 python-pykmip
 python-pykwalify
+Error pulling 'python-pylatex'
 python-pylatex
 python-PyLEMS
 python-pylev
@@ -10603,6 +10590,7 @@ python-sphinxcontrib-seqdiag
 python-sphinxcontrib-spelling
 python-sphinxcontrib-svg2pdfconverter
 python-sphinxcontrib-trio
+Error pulling 'python-sphinxcontrib-websupport'
 python-sphinxcontrib-websupport
 python-sphinx-copybutton
 python-sphinxemoji
@@ -10621,7 +10609,6 @@ python-sphinx-removed-in
 python-sphinx_selective_exclude
 python-sphinx-theme-py3doc-enhanced
 python-sphobjinv
-python-spnego
 python-sport-activities-features
 python-spyder-kernels
 python-spyking-circus
@@ -10894,6 +10881,7 @@ python-XStatic-Angular-lrdragndrop
 python-XStatic-Angular-Mock
 python-XStatic-Angular
 python-XStatic-Angular-UUID
+Error pulling 'python-XStatic-Angular-Vis'
 python-XStatic-Angular-Vis
 python-XStatic-Bootstrap-Datepicker
 python-XStatic-Bootstrap-SCSS
@@ -11176,7 +11164,6 @@ raptor2
 R-argon2
 rarpd
 R-arules
-Error pulling 'R-ascii'
 R-ascii
 rasdaemon
 R-AsioHeaders
@@ -11299,11 +11286,9 @@ rejson
 rekollect
 rekonq
 R-ellipsis
-Error pulling 'relval'
 relval
 remctl
 remoot
-Error pulling 'RemoteBox'
 RemoteBox
 renameutils
 renrot
@@ -11819,6 +11804,7 @@ rust-below
 rust-below-store
 rust-below-view
 rust-bencher
+Error pulling 'rust-bindgen'
 rust-bindgen
 rust-bitfield
 rust-bitflags
@@ -12474,9 +12460,7 @@ rust-pwd
 rust-pyo3-build-config
 rust-pyo3-macros-backend
 rust-pyo3-macros
-Error pulling 'rust-pyo3'
 rust-pyo3
-Error pulling 'rust-python-pkginfo'
 rust-python3-sys
 rust-quick-error
 rust-quick-error1
@@ -12692,7 +12676,6 @@ rust-syn0.15
 rust-sys-locale
 rust-system-deps
 rust-tabular
-Error pulling 'rust-target-lexicon'
 rust-target-lexicon
 rust-target
 rust-tar
@@ -12840,7 +12823,6 @@ rust-yansi
 rust-ybaas
 rust-yubibomb
 rust-zbase32
-Error pulling 'rust-zerocopy-derive'
 rust-zeroize_derive
 rust-zeroize
 rust-zincati
@@ -12851,7 +12833,6 @@ rust-zstd-sys
 R-utf8
 R-uuid
 R-vcd
-Error pulling 'R-vctrs'
 R-vctrs
 R-viridisLite
 rvm
@@ -12952,6 +12933,7 @@ sddm-kcm
 sddm
 sdl-crypto
 sdl-decnumber
+Error pulling 'sdlhack'
 sdlhack
 sdljava
 SDL_mng
@@ -12970,6 +12952,7 @@ sdparm
 sdrangel
 sdrpp
 sdsl-lite
+Error pulling 'sdubby'
 seafile-client
 seafile
 seahorse-adventures
@@ -13070,7 +13053,6 @@ sil-annapurna-fonts
 sil-apparatus-fonts
 sil-awami-nastaliq-fonts
 sil-dai-banna-fonts
-sil-doulos-fonts
 sil-ezra-fonts
 sil-gentium-plus-compact-fonts
 sil-gentium-plus-fonts
@@ -13863,6 +13845,7 @@ verilator
 verne-backgrounds
 verne-kde-theme
 vernnobile-muli-fonts
+Error pulling 'vernnobile-nunito-fonts'
 vernnobile-nunito-fonts
 vernnobile-oswald-fonts
 veusz
@@ -14033,7 +14016,6 @@ wine
 winetricks
 winpdb
 wipe
-Error pulling 'wireguard-tools'
 wireguard-tools
 wireless-regdb
 wireplumber
