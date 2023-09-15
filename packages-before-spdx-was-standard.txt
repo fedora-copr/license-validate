@@ -426,7 +426,6 @@ bontmia
 booksorg
 bookworm
 boomaga
-boom-boot
 boost-http-server
 borgmatic
 boswars-addons
@@ -786,8 +785,6 @@ cqrlog
 crack-attack
 crack
 cranc
-crash-gcore-command
-crash-trace-command
 crawl
 credslayer
 creds
@@ -812,7 +809,6 @@ crystal-stacker
 crystal-stacker-themes
 cscope
 csmith
-Error pulling 'csnappy'
 csnappy
 csound
 cstream
@@ -957,6 +953,7 @@ deluge
 delve
 demorse
 denemo
+Error pulling 'derrick'
 derrick
 desktop-file-utils
 desktopfolder
@@ -1237,6 +1234,7 @@ emacs-dockerfile-mode
 emacs-epc
 emacs-epl
 emacs-evil
+Error pulling 'emacs-flycheck-pycheckers'
 emacs-flycheck-pycheckers
 emacs-flycheck
 emacs-f
@@ -1591,7 +1589,6 @@ five-or-more
 fixedptc
 fizz
 flacon
-flac123
 flamerobin
 flamp
 flam3
@@ -2105,6 +2102,7 @@ glew
 glglobe
 glibc
 glibc32
+Error pulling 'glibd'
 glibd
 glibmm2.4
 glibmm2.68
@@ -2142,6 +2140,7 @@ gnat-srpm-macros
 gnome-applets
 gnome-autoar
 gnome-backgrounds
+Error pulling 'gnome-battery-bench'
 gnome-battery-bench
 gnome-bluetooth
 gnome-bluetooth3.34
@@ -3789,6 +3788,7 @@ GtkAda
 gtkdatabox
 gtk-doc
 gtkd
+Error pulling 'gtk+extra'
 gtk+extra
 gtk-gnutella
 gtkhash
@@ -4260,7 +4260,6 @@ kalendar
 kalgebra
 kalibrate-rtl
 kalk
-Error pulling 'kalzium'
 kalzium
 kamera
 kamoso
@@ -4299,7 +4298,6 @@ kcolorchooser
 kcov
 kcron
 kdb
-kdeaddons
 kde-baseapps
 kdebugsettings
 kde-cli-tools
@@ -4596,6 +4594,7 @@ kphotoalbum
 kpilot
 kproperty
 kpublictransport
+Error pulling 'kqoauth-qt5'
 kqoauth-qt5
 kqtquickcharts
 kquickimageeditor
@@ -4625,7 +4624,6 @@ kshutdown
 ksig
 ks-install
 ksirk
-ksmtuned
 ksnakeduel
 kspaceduel
 ksquares
@@ -4695,7 +4693,6 @@ ladspa-mcp-plugins
 ladspa-rev-plugins
 ladspa
 ladspa-swh-plugins
-Error pulling 'ladspa-tap-plugins'
 ladspa-tap-plugins
 ladspa-vco-plugins
 laf-plugin
@@ -4779,7 +4776,9 @@ libbgpdump
 libbinio
 libblocksruntime
 libbluray
+Error pulling 'libbonobo'
 libbonobo
+Error pulling 'libbonoboui'
 libbonoboui
 libbsd
 libbs2b
@@ -4837,7 +4836,6 @@ libdkimpp
 libdmapsharing4
 libdmtx
 libdnet
-Error pulling 'libdnf-plugin-txnupd'
 libdnf-plugin-txnupd
 libdnf
 libdockapp
@@ -5436,7 +5434,6 @@ lxinput
 lxi-tools
 lxlauncher
 lxmenu-data
-lxmusic
 lxqt-about
 lxqt-admin
 lxqt-archiver
@@ -6027,7 +6024,6 @@ mudita24
 muffin
 mujs
 multicat
-multi-git-status
 multilib-rpm-config
 multimarkdown
 multimedia-menus
@@ -6870,6 +6866,7 @@ perl-CGI-Untaint-date
 perl-CGI-Untaint-email
 perl-CGI-Untaint
 perl-ClamAV-Client
+Error pulling 'perl-Class-Accessor-Chained'
 perl-Class-Accessor-Chained
 perl-Class-AutoClass
 perl-Class-CSV
@@ -6951,7 +6948,6 @@ perl-Crypt-Blowfish_PP
 perl-Crypt-Blowfish
 perl-Crypt-CipherSaber
 perl-Crypt-DES_EDE3
-perl-Crypt-DES
 perl-Crypt-ECB
 perl-Crypt-GCrypt
 perl-Crypt-GeneratePassword
@@ -7027,7 +7023,6 @@ perl-Data-Uniqid
 perl-Data-Validate-Domain
 perl-Data-Validate-IP
 perl-Data-Validate-Type
-perl-Date-Calc-XS
 perl-Date-Handler
 perl-Date-HolidayParser
 perl-Date-Holidays-DE
@@ -7326,7 +7321,6 @@ perl-HTTP-Tiny-Multipart
 perl-Chart
 perl-Chatbot-Eliza
 perl-iCal-Parser
-Error pulling 'perl-Icon-FamFamFam-Silk'
 perl-Icon-FamFamFam-Silk
 perl-Ima-DBI
 perl-Image-Base
@@ -8239,7 +8233,6 @@ php-doctrine-dbal
 php-doctrine-dbal3
 php-doctrine-deprecations
 php-doctrine-doctrine-bundle
-php-doctrine-doctrine-bundle2
 php-doctrine-doctrine-cache-bundle
 php-doctrine-event-manager
 php-doctrine-inflector
@@ -8333,7 +8326,6 @@ php-netresearch-jsonmapper
 php-nikic-fast-route
 php-nikic-php-parser3
 php-nikic-php-parser4
-php-nrk-Predis
 php-nyholm-psr7
 php-oauth
 php-ocramius-code-generator-utils
@@ -8403,7 +8395,6 @@ php-phpdocumentor-reflection-docblock
 php-phpdocumentor-reflection-docblock2
 php-phpdocumentor-reflection-docblock4
 php-phpdocumentor-reflection-docblock5
-php-phpdocumentor-reflection
 php-phpdocumentor-reflection1
 php-phpdocumentor-type-resolver
 php-phpdocumentor-type-resolver1
@@ -8414,7 +8405,6 @@ php-phpmyadmin-motranslator5
 php-phpmyadmin-shapefile
 php-phpmyadmin-shapefile3
 php-phpmyadmin-sql-parser5
-php-phpmyadmin-twig-i18n-extension
 php-PHPParser
 php-phpseclib-crypt-aes
 php-phpseclib-crypt-base
@@ -8461,7 +8451,6 @@ php-phpunit-PHPUnit
 php-phpunit-PHPUnit-Story
 php-phpunit-selenium
 php-pimple
-php-pragmarx-google2fa-qrcode
 php-pragmarx-google2fa5
 php-psr-cache
 php-psr-container
@@ -8506,7 +8495,6 @@ php-Smarty
 php-stecman-symfony-console-completion
 php-swaggest-json-diff
 php-swaggest-json-schema
-php-swiftmailer
 php-swiftmailer6
 php-symfony-contracts
 php-symfony-contracts2
@@ -8526,8 +8514,6 @@ php-theseer-directoryscanner
 php-theseer-fDOMDocument
 php-true-punycode
 php-twig
-php-twig2
-php-twig3
 phpunit7
 phpunit8
 phpunit9
@@ -8553,6 +8539,7 @@ php-zordius-lightncandy
 php-zstd
 php-zumba-json-serializer
 physfs
+Error pulling 'pianobar'
 picmi
 picocli
 picocom
@@ -8667,6 +8654,7 @@ polly
 polybar
 polyglot-chess
 poly2tri
+Error pulling 'pop-gtk-theme'
 pop-gtk-theme
 pop-icon-theme
 poppler-data
@@ -8771,6 +8759,7 @@ ptex
 pthsem
 ptlib
 ptouch-driver
+Error pulling 'ptpython'
 ptpython
 ptrash
 pt-sans-fonts
@@ -8987,8 +8976,6 @@ python-azure-mgmt-apimanagement
 python-azure-mgmt-appconfiguration
 python-azure-mgmt-applicationinsights
 python-azure-mgmt-authorization
-Error pulling 'python-azure-mgmt-automanage'
-python-azure-mgmt-azurestackhci
 python-azure-mgmt-batchai
 python-azure-mgmt-batch
 python-azure-mgmt-billing
@@ -9005,14 +8992,12 @@ python-azure-mgmt-databoxedge
 python-azure-mgmt-datalake-analytics
 python-azure-mgmt-datalake-store
 python-azure-mgmt-datamigration
-python-azure-mgmt-deploymentmanager
 python-azure-mgmt-devtestlabs
 python-azure-mgmt-dns
 python-azure-mgmt-eventgrid
 python-azure-mgmt-eventhub
 python-azure-mgmt-extendedlocation
 python-azure-mgmt-hdinsight
-python-azure-mgmt-hybridcompute
 python-azure-mgmt-imagebuilder
 python-azure-mgmt-iotcentral
 python-azure-mgmt-iothubprovisioningservices
@@ -9035,7 +9020,6 @@ python-azure-mgmt-recoveryservices
 python-azure-mgmt-redhatopenshift
 python-azure-mgmt-redis
 python-azure-mgmt-relay
-python-azure-mgmt-reservations
 python-azure-mgmt-search
 python-azure-mgmt-security
 python-azure-mgmt-servicebus
@@ -9464,6 +9448,7 @@ python-flake8-import-order
 python-flake8-polyfill
 python-flake8
 python-flaky
+Error pulling 'python-flask-admin'
 python-flask-admin
 python-flask-babel
 python-flask-bootstrap
@@ -9620,7 +9605,6 @@ python-hacking
 python-hamcrest
 python-hass-data-detective
 python-hatasmota
-Error pulling 'python-hatch-fancy-pypi-readme'
 python-haversion
 python-hdate
 python-hdf5storage
@@ -10149,9 +10133,7 @@ python-progressbar2
 python-progress
 python-promise
 python-protego
-Error pulling 'python-proto-plus'
 python-proto-plus
-Error pulling 'python-prov'
 python-prov
 python-psycogreen
 python-psycopg3
@@ -10205,7 +10187,6 @@ python-pygatt
 python-pygeoip
 python-pyghmi
 python-pygiftiio
-Error pulling 'python-PyGithub'
 python-PyGithub
 python-pygit2
 python-pygments-better-html
@@ -10222,7 +10203,6 @@ python-pyi2cflash
 python-pykdtree
 python-pykmip
 python-pykwalify
-Error pulling 'python-pylatex'
 python-pylatex
 python-PyLEMS
 python-pylev
@@ -10362,13 +10342,11 @@ python-pytest-sugar
 python-pytest-testmon
 python-pytest-trio
 python-pytest-venv
-python-pytest-virtualenv
 python-pytest-watch
 python-pytest-xdist
 python-pytest-xprocess
 python-pytest-xvfb
 python-pytile
-python-pytimeparse
 python-pytn3270
 python-pytools
 python-pyunicorn
@@ -10590,7 +10568,6 @@ python-sphinxcontrib-seqdiag
 python-sphinxcontrib-spelling
 python-sphinxcontrib-svg2pdfconverter
 python-sphinxcontrib-trio
-Error pulling 'python-sphinxcontrib-websupport'
 python-sphinxcontrib-websupport
 python-sphinx-copybutton
 python-sphinxemoji
@@ -10653,7 +10630,6 @@ python-supersmoother
 python-surt
 python-sushy
 python-svg-path
-python-svgwrite
 python-swagger-spec-validator
 python-swiftclient
 python-sybil
@@ -10684,7 +10660,6 @@ python-testresources
 python-testscenarios
 python-test_server
 python-TestSlide
-python-testtools
 python-textdistance
 python-textfsm
 python-textile
@@ -10843,7 +10818,6 @@ python-winacl
 python-winrm
 python-winsspi
 python-wled
-python-wrapt
 python-wsaccel
 python-wsgi_intercept
 python-WSGIProxy2
@@ -10881,7 +10855,6 @@ python-XStatic-Angular-lrdragndrop
 python-XStatic-Angular-Mock
 python-XStatic-Angular
 python-XStatic-Angular-UUID
-Error pulling 'python-XStatic-Angular-Vis'
 python-XStatic-Angular-Vis
 python-XStatic-Bootstrap-Datepicker
 python-XStatic-Bootstrap-SCSS
@@ -11129,7 +11102,6 @@ rabbitmq-server
 R-abind
 raceintospace
 R-acepack
-racket
 radare2
 radcli
 raddump
@@ -11540,6 +11512,7 @@ R-polynom
 rp-pppoe
 R-praise
 R-preprocessCore
+Error pulling 'R-presser'
 R-presser
 R-prettycode
 R-prettydoc
@@ -11804,7 +11777,6 @@ rust-below
 rust-below-store
 rust-below-view
 rust-bencher
-Error pulling 'rust-bindgen'
 rust-bindgen
 rust-bitfield
 rust-bitflags
@@ -12397,6 +12369,7 @@ rust-petgraph0.5
 rust-picky-asn1-der
 rust-picky-asn1
 rust-picky-asn1-x509
+Error pulling 'rust-pin-project-internal'
 rust-pin-project-internal
 rust-pin-project-internal0.4
 rust-pin-project-lite
@@ -12612,6 +12585,7 @@ rust-sha3_0.9
 rust-shell-escape
 rust-shellexpand
 rust-shell-words
+Error pulling 'rust-shlex'
 rust-shlex
 rust-scheduled-thread-pool
 rust-signal-hook-mio
@@ -12933,7 +12907,6 @@ sddm-kcm
 sddm
 sdl-crypto
 sdl-decnumber
-Error pulling 'sdlhack'
 sdlhack
 sdljava
 SDL_mng
@@ -12952,7 +12925,6 @@ sdparm
 sdrangel
 sdrpp
 sdsl-lite
-Error pulling 'sdubby'
 seafile-client
 seafile
 seahorse-adventures
@@ -13241,7 +13213,6 @@ squashfuse
 squeak-image
 squeak-vm
 squeekboard
-squid
 squirrel
 sratom
 srcpd
@@ -13807,7 +13778,6 @@ vamp-plugin-sdk
 vanityhash
 vapoursynth
 variety
-varnish
 vavoom
 vazirmatn-fonts
 vboot-utils
@@ -13845,7 +13815,6 @@ verilator
 verne-backgrounds
 verne-kde-theme
 vernnobile-muli-fonts
-Error pulling 'vernnobile-nunito-fonts'
 vernnobile-nunito-fonts
 vernnobile-oswald-fonts
 veusz
@@ -13856,6 +13825,7 @@ vhd2vl
 video-downloader
 vid.stab
 viewnior
+Error pulling 'vifm'
 vifm
 vigra
 vile
@@ -13964,7 +13934,6 @@ wayland-logout
 waylandpp
 wayvnc
 wbox
-wcm
 wcslib
 wdisplays
 wdsp

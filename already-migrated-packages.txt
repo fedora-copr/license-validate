@@ -323,6 +323,7 @@ bochs
 boinc-tui
 bombardier
 bomber
+boom-boot
 boost
 booth
 borgbackup
@@ -559,7 +560,9 @@ cpr
 cpufetch
 cpuinfo
 cracklib
+crash-gcore-command
 crash
+crash-trace-command
 create-fake-rpm
 createrepo_c
 credentials-fetcher
@@ -879,6 +882,7 @@ fityk
 fizz
 flacon
 flac
+flac123
 flamegraph
 flameshot
 flamethrower
@@ -2112,6 +2116,8 @@ golang-github-modern-reflect2
 golang-github-muesli-ansi
 golang-github-muesli-cancelreader
 golang-github-nathan-osman-sunrise
+golang-github-nats-io-jwt-2
+golang-github-nats-io-stan
 golang-github-need-being-tree
 golang-github-nilslice-protolock
 golang-github-nkovacs-streamquote
@@ -2142,6 +2148,7 @@ golang-github-projectdiscovery-freeport
 golang-github-projectdiscovery-ratelimit
 golang-github-projectdiscovery-utils
 golang-github-prometheus-client
+golang-github-prometheus-community-runit
 golang-github-protobuf
 golang-github-protonmail-crypto
 golang-github-puerkitobio-goquery
@@ -2410,6 +2417,7 @@ gvisor-tap-vsock
 gweled
 gwenhywfar
 gwenview
+gxmms2
 gyp
 gzip
 g2clib
@@ -2929,6 +2937,7 @@ ksanecore
 ksc
 kseexpr
 ksh
+ksmtuned
 ksnip
 kst
 ktextaddons
@@ -3483,6 +3492,7 @@ lv2-zynadd-plugins
 lxappearance
 lxde-common
 lxi-tools
+lxmusic
 lxpanel
 lxqt-panel
 lxrandr
@@ -3780,11 +3790,13 @@ mtr
 mt-st
 mtxclient
 mt32emu
+multi-git-status
 multitail
 mupdf
 musescore
 mu
 mustache
+mvfst
 mypaint-brushes
 myproxy
 mysql-connector-java
@@ -4509,6 +4521,7 @@ perl-Crypt-CAST5_PP
 perl-Crypt-CBC
 perl-Crypt-Cracklib
 perl-Crypt-Curve25519
+perl-Crypt-DES
 perl-Crypt-DH-GMP
 perl-Crypt-DH
 perl-Crypt-DSA
@@ -4568,6 +4581,7 @@ perl-Data-Tumbler
 perl-Data-UUID
 perl-Data-Visitor
 perl-Date-Calc
+perl-Date-Calc-XS
 perl-Date-Extract
 perl-Date-ICal
 perl-Date-ISO8601
@@ -6050,6 +6064,7 @@ php-phar-io-version3
 php-phpiredis
 php-phpmailer6
 php-phpmyadmin-motranslator5
+php-phpmyadmin-shapefile3
 php-phpmyadmin-sql-parser5
 php-phpunit-File-Iterator
 php-phpunit-php-code-coverage10
@@ -6129,8 +6144,6 @@ php-tecnickcom-tc-lib-barcode
 php-tecnickcom-tc-lib-color
 php-theseer-autoload
 php-theseer-tokenizer
-php-twig2
-php-twig3
 phpunit10
 phpunit8
 phpunit9
@@ -6358,10 +6371,7 @@ python-azure-keyvault-secrets
 python-azure-keyvault
 python-azure-loganalytics
 python-azure-mgmt-appcontainers
-python-azure-mgmt-automanage
 python-azure-mgmt-core
-python-azure-mgmt-dashboard
-python-azure-mgmt-fluidrelay
 python-azure-mgmt-policyinsights
 python-azure-mgmt-quota
 python-azure-mgmt-rdbms
@@ -6648,6 +6658,7 @@ python-httmock
 python-http-ece
 python-httplib2
 python-http-server-mock
+python-httpx-socks
 python-hudman
 python-humblewx
 python-hvac
@@ -6735,9 +6746,12 @@ python-kerberos
 python-keyrings-alt
 python-keyring
 python-kiwisolver
+python-krb5
 python-langdetect
 python-lark
 python-latexcodec
+python-lazr-config
+python-lazr-delegates
 python-lazy-loader
 python-lazy-object-proxy
 python-lesscpy
@@ -7017,6 +7031,7 @@ python-pytest-timeout
 python-pytest-tldr
 python-pytest-tornado
 python-pytest-vcr
+python-pytimeparse
 python-pytoolconfig
 python-pytzdata
 python-pytz-deprecation-shim
@@ -7089,6 +7104,7 @@ python-scikit-build-core
 python-scikit-build
 python-scikit-image
 python-scikit-misc
+python-scitokens
 python-scour
 python-scripttester
 python-sdnotify
@@ -7173,6 +7189,7 @@ python-string_utils
 python-succulent
 python-sure
 python-svg
+python-svgwrite
 python-svg2tikz
 python-swagger-spec-validator
 python-syrupy
@@ -7191,6 +7208,7 @@ python-term-background
 python-terminado
 python-testing.common.database
 python-testing.postgresql
+python-testtools
 python-texext
 python-textual
 python-threadpoolctl
@@ -7248,6 +7266,7 @@ python-wheel0.37
 python-widgetsnbextension
 python-wloc
 python-wordcloud
+python-wrapt
 python-wtforms-sqlalchemy
 python-wurlitzer
 python-w3lib
@@ -7403,6 +7422,7 @@ QXlsx
 qxmpp
 rabbitsign
 rabbitvcs
+racket
 radiotray-ng
 radsecproxy
 raft
@@ -7455,6 +7475,7 @@ resolv_wrapper
 resource-agents
 resteasy
 restic
+reStream
 rest
 retrace-server
 retsnoop
@@ -8055,6 +8076,7 @@ rust-alsa
 rust-alsa-sys
 rust-anes
 rust-annotate-snippets
+rust-annotate-snippets0.6
 rust-ansi_colours
 rust-ansi-str
 rust-ansi_term
@@ -8216,6 +8238,7 @@ rust-btoi
 rust-buffered-reader
 rust-bufstream
 rust-bugreport
+rust-build-context
 rust-build-fs-tree
 rust-bumpalo
 rust-bytecount
@@ -8315,6 +8338,8 @@ rust-colored
 rust-colored1
 rust-colorful
 rust-colorchoice
+rust-color-print-proc-macro
+rust-color-print
 rust-color_quant
 rust-combine
 rust-comfy-table
@@ -8460,6 +8485,7 @@ rust-defer-drop
 rust-deflate
 rust-deflate0.8
 rust-deltae
+rust-deranged
 rust-der_derive
 rust-der_derive0.4
 rust-derivative
@@ -8513,6 +8539,7 @@ rust-dns-lookup
 rust-doc-comment
 rust-docmatic
 rust-docopt
+rust-document-features
 rust-dolby_vision
 rust-domain
 rust-dotenv
@@ -8614,6 +8641,7 @@ rust-fallible-iterator
 rust-fallible-streaming-iterator
 rust-fancy-regex
 rust-fancy-regex0.7
+rust-faster-hex
 rust-fastrand
 rust-fastrand1
 rust-fatfs
@@ -8751,6 +8779,7 @@ rust-gix-actor
 rust-gix-bitmap
 rust-gix-command
 rust-gix-commitgraph
+rust-gix-config-value
 rust-gix-date
 rust-gix-features
 rust-gix-fs
@@ -8912,6 +8941,8 @@ rust-charset
 rust-choosier
 rust-chrono-humanize
 rust-chrono
+rust-chrono-tz-build
+rust-chrono-tz
 rust-chumsky
 rust-chunked_transfer
 rust-iai
@@ -8927,6 +8958,7 @@ rust-imagequant
 rust-imagequant-sys
 rust-image
 rust-image0.23
+rust-impl-more
 rust-impls
 rust-im-rc
 rust-indenter
@@ -9039,7 +9071,6 @@ rust-libadwaita-sys
 rust-libadwaita-sys0.3
 rust-libadwaita-sys0.4
 rust-libadwaita0.3
-rust-libadwaita0.4
 rust-libblkid-rs
 rust-libblkid-rs-sys
 rust-libbpf-cargo
@@ -9047,6 +9078,7 @@ rust-libbpf-rs
 rust-libbpf-sys
 rust-libcryptsetup-rs
 rust-libcryptsetup-rs-sys
+rust-libcryptsetup-rs0.8
 rust-libc
 rust-libdbus-sys
 rust-libflate_lz77
@@ -9183,6 +9215,7 @@ rust-miniz_oxide0.3
 rust-miniz_oxide0.5
 rust-miniz_oxide0.6
 rust-mint
+rust-minus
 rust-mio-extras
 rust-mio
 rust-mio-uds
@@ -9319,7 +9352,6 @@ rust-os_type
 rust-ouroboros_macro
 rust-ouroboros_macro0.15
 rust-ouroboros
-rust-ouroboros0.15
 rust-overload
 rust-owned_ttf_parser
 rust-owning_ref
@@ -9338,7 +9370,6 @@ rust-pangocairo
 rust-pangocairo-sys
 rust-pangocairo-sys0.15
 rust-pangocairo-sys0.17
-rust-pangocairo0.15
 rust-pangocairo0.17
 rust-pango
 rust-pango-sys
@@ -9381,9 +9412,12 @@ rust-pcre2
 rust-pcre2-sys
 rust-peeking_take_while
 rust-peg-macros
+rust-peg-macros0.6
 rust-peg-runtime
+rust-peg-runtime0.6
 rust-peg
 rust-peg0.5
+rust-peg0.6
 rust-pem-rfc7468
 rust-pem-rfc7468_0.2
 rust-pem
@@ -9632,6 +9666,7 @@ rust-regex-syntax
 rust-regex-syntax0.6
 rust-regex-test
 rust-region
+rust-remain
 rust-remoteprocess
 rust-remove_dir_all
 rust-rend
@@ -9858,6 +9893,7 @@ rust-snphost
 rust-socket2
 rust-socket2_0.4
 rust-sop
+rust-spdx
 rust-speedate
 rust-spin_on
 rust-spin
@@ -10130,6 +10166,7 @@ rust-unic-segment
 rust-unic-ucd-common
 rust-unic-ucd-segment
 rust-unic-ucd-version
+rust-unidecode
 rust-unindent
 rust-unindent0.1
 rust-universal-hash
@@ -10503,6 +10540,7 @@ sqlitecpp
 sqlite
 squeezelite
 squidGuard
+squid
 srain
 src
 srecord
@@ -10761,6 +10799,7 @@ uuid
 uxplay
 vala
 varnish-modules
+varnish
 vazirmatn-fonts
 vbindiff
 vcdimager
@@ -10943,6 +10982,7 @@ xml-maven-plugin
 xmlsec1
 xmlstarlet
 xmlunit
+xmms2
 xmobar
 xmodmap
 xmonad

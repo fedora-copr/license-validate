@@ -457,7 +457,6 @@ bontmia
 booksorg
 bookworm
 boomaga
-boom-boot
 boost-http-server
 borgmatic
 boswars-addons
@@ -843,8 +842,6 @@ cqrlog
 crack-attack
 crack
 cranc
-crash-gcore-command
-crash-trace-command
 crawl
 credentials-fetcher
 credslayer
@@ -1688,7 +1685,6 @@ five-or-more
 fixedptc
 fizz
 flacon
-flac123
 flamerobin
 flamp
 flam3
@@ -3321,6 +3317,7 @@ golang-github-natefinch-pie
 golang-github-nathanaelle-syslog5424-2
 golang-github-nathan-osman-sunrise
 golang-github-nats-io-jwt
+golang-github-nats-io-jwt-2
 golang-github-nats-io-nkeys
 golang-github-nats-io-nuid
 golang-github-nats-io
@@ -3480,6 +3477,7 @@ golang-github-projectdiscovery-utils
 golang-github-prometheus-alertmanager
 golang-github-prometheus-client-model
 golang-github-prometheus-common
+golang-github-prometheus-community-runit
 golang-github-prometheus-exporter-toolkit
 golang-github-prometheus-node-exporter
 golang-github-prometheus-procfs
@@ -4665,7 +4663,6 @@ kcov
 kcron
 kdb
 kddockwidgets
-kdeaddons
 kde-baseapps
 kdebugsettings
 kde-cli-tools
@@ -5003,7 +5000,6 @@ kshutdown
 ksig
 ks-install
 ksirk
-ksmtuned
 ksnakeduel
 kspaceduel
 ksquares
@@ -5877,7 +5873,6 @@ lxinput
 lxi-tools
 lxlauncher
 lxmenu-data
-lxmusic
 lxqt-about
 lxqt-admin
 lxqt-archiver
@@ -6503,7 +6498,6 @@ mudita24
 muffin
 mujs
 multicat
-multi-git-status
 multilib-rpm-config
 multimarkdown
 multimedia-menus
@@ -6523,6 +6517,7 @@ musl
 mussh
 mutter
 mutt
+mvfst
 mxml
 mxparser
 mx5000tools
@@ -7483,7 +7478,6 @@ perl-Crypt-Blowfish_PP
 perl-Crypt-Blowfish
 perl-Crypt-CipherSaber
 perl-Crypt-DES_EDE3
-perl-Crypt-DES
 perl-Crypt-ECB
 perl-Crypt-GCrypt
 perl-Crypt-GeneratePassword
@@ -7560,7 +7554,6 @@ perl-Data-Uniqid
 perl-Data-Validate-Domain
 perl-Data-Validate-IP
 perl-Data-Validate-Type
-perl-Date-Calc-XS
 perl-Date-Handler
 perl-Date-HolidayParser
 perl-Date-Holidays-DE
@@ -8796,7 +8789,6 @@ php-doctrine-dbal
 php-doctrine-dbal3
 php-doctrine-deprecations
 php-doctrine-doctrine-bundle
-php-doctrine-doctrine-bundle2
 php-doctrine-doctrine-cache-bundle
 php-doctrine-event-manager
 php-doctrine-inflector
@@ -8892,7 +8884,6 @@ php-netresearch-jsonmapper
 php-nikic-fast-route
 php-nikic-php-parser3
 php-nikic-php-parser4
-php-nrk-Predis
 php-nyholm-psr7
 php-oauth
 php-ocramius-code-generator-utils
@@ -8962,7 +8953,6 @@ php-phpdocumentor-reflection-docblock
 php-phpdocumentor-reflection-docblock2
 php-phpdocumentor-reflection-docblock4
 php-phpdocumentor-reflection-docblock5
-php-phpdocumentor-reflection
 php-phpdocumentor-reflection1
 php-phpdocumentor-type-resolver
 php-phpdocumentor-type-resolver1
@@ -8973,7 +8963,6 @@ php-phpmyadmin-motranslator5
 php-phpmyadmin-shapefile
 php-phpmyadmin-shapefile3
 php-phpmyadmin-sql-parser5
-php-phpmyadmin-twig-i18n-extension
 php-PHPParser
 php-phpseclib-crypt-aes
 php-phpseclib-crypt-base
@@ -9025,7 +9014,6 @@ php-phpunit-PHPUnit
 php-phpunit-PHPUnit-Story
 php-phpunit-selenium
 php-pimple
-php-pragmarx-google2fa-qrcode
 php-pragmarx-google2fa5
 php-psr-cache
 php-psr-container
@@ -9089,7 +9077,6 @@ php-splitbrain-slika
 php-stecman-symfony-console-completion
 php-swaggest-json-diff
 php-swaggest-json-schema
-php-swiftmailer
 php-swiftmailer6
 php-symfony-contracts
 php-symfony-contracts2
@@ -9109,8 +9096,6 @@ php-theseer-directoryscanner
 php-theseer-fDOMDocument
 php-true-punycode
 php-twig
-php-twig2
-php-twig3
 phpunit10
 phpunit7
 phpunit8
@@ -9602,8 +9587,6 @@ python-azure-mgmt-appconfiguration
 python-azure-mgmt-appcontainers
 python-azure-mgmt-applicationinsights
 python-azure-mgmt-authorization
-python-azure-mgmt-automanage
-python-azure-mgmt-azurestackhci
 python-azure-mgmt-batchai
 python-azure-mgmt-batch
 python-azure-mgmt-billing
@@ -9616,20 +9599,16 @@ python-azure-mgmt-containerinstance
 python-azure-mgmt-containerregistry
 python-azure-mgmt-containerservice
 python-azure-mgmt-cosmosdb
-python-azure-mgmt-dashboard
 python-azure-mgmt-databoxedge
 python-azure-mgmt-datalake-analytics
 python-azure-mgmt-datalake-store
 python-azure-mgmt-datamigration
-python-azure-mgmt-deploymentmanager
 python-azure-mgmt-devtestlabs
 python-azure-mgmt-dns
 python-azure-mgmt-eventgrid
 python-azure-mgmt-eventhub
 python-azure-mgmt-extendedlocation
-python-azure-mgmt-fluidrelay
 python-azure-mgmt-hdinsight
-python-azure-mgmt-hybridcompute
 python-azure-mgmt-imagebuilder
 python-azure-mgmt-iotcentral
 python-azure-mgmt-iothubprovisioningservices
@@ -9653,7 +9632,6 @@ python-azure-mgmt-recoveryservices
 python-azure-mgmt-redhatopenshift
 python-azure-mgmt-redis
 python-azure-mgmt-relay
-python-azure-mgmt-reservations
 python-azure-mgmt-search
 python-azure-mgmt-security
 python-azure-mgmt-servicebus
@@ -10314,6 +10292,7 @@ python-httpretty
 python-http-server-mock
 python-httpsig-cffi
 python-httptools
+python-httpx-socks
 python-httpx
 python-humanfriendly
 python-humanize
@@ -10468,6 +10447,7 @@ python-kmod
 python-knack
 python-kombu
 python-korean-lunar-calendar
+python-krb5
 python-kubernetes
 python-lacrosse
 python-landslide
@@ -11115,13 +11095,11 @@ python-pytest-testmon
 python-pytest-tldr
 python-pytest-trio
 python-pytest-venv
-python-pytest-virtualenv
 python-pytest-watch
 python-pytest-xdist
 python-pytest-xprocess
 python-pytest-xvfb
 python-pytile
-python-pytimeparse
 python-pytn3270
 python-pytoolconfig
 python-pytools
@@ -11279,6 +11257,7 @@ python-scikit-build
 python-scikit-learn
 python-scikit-misc
 python-scikit-uplift
+python-scitokens
 python-sciunit
 python-scp
 python-scramp
@@ -11449,7 +11428,6 @@ python-supersmoother
 python-surt
 python-sushy
 python-svg-path
-python-svgwrite
 python-svg2tikz
 python-swagger-spec-validator
 python-swiftclient
@@ -11486,7 +11464,6 @@ python-testresources
 python-testscenarios
 python-test_server
 python-TestSlide
-python-testtools
 python-textdistance
 python-textfsm
 python-textile
@@ -11658,7 +11635,6 @@ python-winrm
 python-winsspi
 python-wled
 python-wordcloud
-python-wrapt
 python-wsaccel
 python-wsgi_intercept
 python-WSGIProxy2
@@ -11960,7 +11936,6 @@ rabbitsign
 R-abind
 raceintospace
 R-acepack
-racket
 radare2
 radcli
 raddump
@@ -12148,6 +12123,7 @@ rescene
 restic
 restmbmaster
 restool
+reStream
 restsharp
 restview
 rest0.7
@@ -12604,6 +12580,7 @@ rust-alloc-stdlib
 rust-alsa
 rust-anes
 rust-annotate-snippets
+rust-annotate-snippets0.6
 rust-ansi_colours
 rust-ansi-str
 rust-ansitok
@@ -12747,6 +12724,7 @@ rust-btrd
 rust-buffered-reader
 rust-bufstream
 rust-bugreport
+rust-build-context
 rust-build-fs-tree
 rust-bumpalo
 rust-bytecount
@@ -12822,6 +12800,8 @@ rust-color-backtrace
 rust-colored
 rust-colored1
 rust-colorchoice
+rust-color-print-proc-macro
+rust-color-print
 rust-compact_str
 rust-compress-tools
 rust-comrak
@@ -12930,6 +12910,7 @@ rust-defer-drop
 rust-deflate
 rust-deflate0.8
 rust-deltae
+rust-deranged
 rust-der_derive
 rust-der_derive0.4
 rust-derivative
@@ -12973,6 +12954,7 @@ rust-dlv-list0.2
 rust-dns-lookup
 rust-docmatic
 rust-docopt
+rust-document-features
 rust-dolby_vision
 rust-domain
 rust-dotenvy
@@ -13059,6 +13041,7 @@ rust-fallible_collections
 rust-fallible-iterator
 rust-fallible-streaming-iterator
 rust-fancy-regex0.7
+rust-faster-hex
 rust-fastrand
 rust-fastrand1
 rust-fat-macho
@@ -13161,6 +13144,7 @@ rust-gix-actor
 rust-gix-bitmap
 rust-gix-command
 rust-gix-commitgraph
+rust-gix-config-value
 rust-gix-date
 rust-gix-features
 rust-gix-fs
@@ -13288,6 +13272,7 @@ rust-charset
 rust-choosier
 rust-chrono-humanize
 rust-chrono
+rust-chrono-tz-build
 rust-chrono-tz
 rust-chumsky
 rust-chunked_transfer
@@ -13304,6 +13289,7 @@ rust-ignore
 rust-imagequant
 rust-imagequant-sys
 rust-image0.23
+rust-impl-more
 rust-impls
 rust-indenter
 rust-indent_write
@@ -13386,7 +13372,6 @@ rust-libadwaita-sys
 rust-libadwaita-sys0.3
 rust-libadwaita-sys0.4
 rust-libadwaita0.3
-rust-libadwaita0.4
 rust-libblkid-rs
 rust-libblkid-rs-sys
 rust-libbpf-cargo
@@ -13394,6 +13379,7 @@ rust-libbpf-rs
 rust-libbpf-sys
 rust-libcryptsetup-rs
 rust-libcryptsetup-rs-sys
+rust-libcryptsetup-rs0.8
 rust-libc
 rust-libdbus-sys
 rust-libgit2-sys
@@ -13495,6 +13481,7 @@ rust-minimal-lexical
 rust-miniz_oxide
 rust-miniz_oxide0.5
 rust-miniz_oxide0.6
+rust-minus
 rust-mio-extras
 rust-mio-uds
 rust-mktemp
@@ -13582,7 +13569,6 @@ rust-os_str_bytes
 rust-ouroboros_macro
 rust-ouroboros_macro0.15
 rust-ouroboros
-rust-ouroboros0.15
 rust-owned_ttf_parser
 rust-pager
 rust-page_size
@@ -13593,7 +13579,6 @@ rust-pam-sys
 rust-pancurses0.16
 rust-pangocairo-sys0.15
 rust-pangocairo-sys0.17
-rust-pangocairo0.15
 rust-pangocairo0.17
 rust-pango-sys0.15
 rust-pango-sys0.17
@@ -13626,6 +13611,9 @@ rust-pci-driver
 rust-pcre2
 rust-pcre2-sys
 rust-peeking_take_while
+rust-peg-macros0.6
+rust-peg-runtime0.6
+rust-peg0.6
 rust-pem-rfc7468
 rust-pem-rfc7468_0.2
 rust-pem1
@@ -13827,6 +13815,7 @@ rust-regex
 rust-regex-syntax
 rust-regex-syntax0.6
 rust-regex-test
+rust-remain
 rust-remove_dir_all
 rust-reqwest
 rust-resctl-bench-intf
@@ -14003,6 +13992,7 @@ rust-snafu
 rust-snphost
 rust-socket2
 rust-socket2_0.4
+rust-spdx
 rust
 rust-speedate
 rust-spin_on
@@ -14190,6 +14180,7 @@ rust-unic-segment
 rust-unic-ucd-common
 rust-unic-ucd-segment
 rust-unic-ucd-version
+rust-unidecode
 rust-unindent
 rust-unindent0.1
 rust-universal-hash
@@ -14731,7 +14722,6 @@ squashfuse
 squeak-image
 squeak-vm
 squeekboard
-squid
 squirrel
 sratom
 srcpd
@@ -15322,7 +15312,6 @@ vamp-plugin-sdk
 vanityhash
 vapoursynth
 variety
-varnish
 vavoom
 vazirmatn-fonts
 vboot-utils
@@ -15489,7 +15478,6 @@ wayland-logout
 waylandpp
 wayvnc
 wbox
-wcm
 wcslib
 wdisplays
 wdsp
