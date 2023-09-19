@@ -124,7 +124,6 @@ ansible-collection-kubernetes-core
 ansible-collection-microsoft-sql warning: valid as old and new and no changelong entry, please check
 ansible-collections-openstack - can be trivially converted to GPL-3.0-or-later
 ansible-openstack-modules - can be trivially converted to GPL-3.0-only
-ansible-pcp warning: valid as old and new and no changelong entry, please check
 ansifilter - can be trivially converted to GPL-3.0-or-later
 anyterm - can be trivially converted to GPL-2.0-or-later
 anyterm - can be trivially converted to GPL-2.0-or-later
@@ -217,12 +216,6 @@ assimp
 asterisk-sounds-core
 asterisk - can be trivially converted to GPL-2.0-only
 astral - can be trivially converted to Apache-2.0
-astrometry
-astrometry - can be trivially converted to GPL-2.0-or-later
-astrometry - can be trivially converted to GPL-2.0-or-later
-astrometry - can be trivially converted to GPL-2.0-or-later
-astrometry - can be trivially converted to GPL-2.0-or-later
-astrometry - can be trivially converted to GPL-2.0-or-later
 astrometry-tycho2
 astronomy-menus - can be trivially converted to LicenseRef-Fedora-Public-Domain
 ast
@@ -330,7 +323,6 @@ bats warning: valid as old and new and no changelong entry, please check
 battray warning: valid as old and new and no changelong entry, please check
 bbkeys warning: valid as old and new and no changelong entry, please check
 bcache-tools - can be trivially converted to GPL-2.0-only
-bcal - can be trivially converted to GPL-3.0-or-later
 bcd
 bcftools - can be trivially converted to GPL-3.0-or-later
 bcm283x-firmware warning: not valid neither as Callaway nor as SPDX, please check
@@ -856,7 +848,6 @@ dbus-broker - can be trivially converted to Apache-2.0
 dbus-c++
 dbus-glib
 dbus-parsec - can be trivially converted to EUPL-1.2
-dbus-python warning: valid as old and new and no changelong entry, please check
 dbus-qt3 - can be trivially converted to GPL-2.0-or-later
 dbus-sharp-glib warning: valid as old and new and no changelong entry, please check
 dbus-sharp warning: valid as old and new and no changelong entry, please check
@@ -1813,14 +1804,11 @@ gcr
 gcr3
 gc
 gcstar - can be trivially converted to GPL-2.0-or-later
-gdb
-gdb
 gdcalc - can be trivially converted to GPL-2.0-only
 gdcm
 gdigi - can be trivially converted to GPL-3.0-only
 gdisk - can be trivially converted to GPL-2.0-only
 gdk-pixbuf2
-gdk-pixbuf2-xlib
 gdlmm
 geany-plugins - can be trivially converted to GPL-3.0-or-later
 geany
@@ -1890,7 +1878,6 @@ ghc-protolude warning: valid as old and new and no changelong entry, please chec
 ghc-relude warning: valid as old and new and no changelong entry, please check
 ghc-repline warning: valid as old and new and no changelong entry, please check
 ghc-rio warning: valid as old and new and no changelong entry, please check
-ghc-rpm-macros - can be trivially converted to GPL-3.0-or-later
 ghc-shakespeare warning: valid as old and new and no changelong entry, please check
 ghc-srpm-macros - can be trivially converted to GPL-2.0-or-later
 ghc-streaming-commons warning: valid as old and new and no changelong entry, please check
@@ -2844,7 +2831,6 @@ golang-github-nathanaelle-syslog5424-2
 golang-github-nats-io-jwt - can be trivially converted to Apache-2.0
 golang-github-nats-io-nkeys - can be trivially converted to Apache-2.0
 golang-github-nats-io-nuid - can be trivially converted to Apache-2.0
-golang-github-nats-io - can be trivially converted to Apache-2.0
 golang-github-nats-io-streaming-server - can be trivially converted to Apache-2.0
 golang-github-nbrownus-metrics-prometheus - can be trivially converted to Apache-2.0
 golang-github-nbutton23-zxcvbn warning: valid as old and new and no changelong entry, please check
@@ -4043,17 +4029,7 @@ kdsoap warning: valid as old and new and no changelong entry, please check
 keditbookmarks
 keepassxc
 kerberoast warning: valid as old and new and no changelong entry, please check
-kernel-headers - can be trivially converted to GPL-2.0-only
 kernel-srpm-macros warning: valid as old and new and no changelong entry, please check
-kernel-tools - can be trivially converted to GPL-2.0-only
-kernel-tools - can be trivially converted to GPL-2.0-only
-kernel-tools - can be trivially converted to GPL-2.0-only
-kernel-tools - can be trivially converted to GPL-2.0-only
-kernel-tools - can be trivially converted to GPL-2.0-only
-kernel-tools - can be trivially converted to GPL-2.0-only
-kernel-tools - can be trivially converted to GPL-2.0-only
-kernel-tools - can be trivially converted to GPL-2.0-only
-kernel-tools - can be trivially converted to GPL-2.0-only
 keybinder warning: valid as old and new and no changelong entry, please check
 keybinder3 warning: valid as old and new and no changelong entry, please check
 keychain - can be trivially converted to GPL-2.0-only
@@ -4568,8 +4544,6 @@ libdmapsharing4
 libdnet
 libdnf-plugin-txnupd
 libdockapp warning: valid as old and new and no changelong entry, please check
-libdrm-armada
-libdrm warning: valid as old and new and no changelong entry, please check
 libdsk
 libdstr - can be trivially converted to LicenseRef-Fedora-Public-Domain
 libdvbpsi
@@ -4635,7 +4609,6 @@ libgle
 libglib-testing
 libglib-testing
 libglpng warning: valid as old and new and no changelong entry, please check
-libglvnd warning: valid as old and new and no changelong entry, please check
 libgnomecanvasmm26
 libgnomecanvas
 libgnome-games-support - can be trivially converted to LGPL-3.0-or-later
@@ -4680,7 +4653,6 @@ libiptcdata
 libircclient - can be trivially converted to LGPL-3.0-or-later
 libirman
 libitl
-libi2cd
 libjaylink - can be trivially converted to GPL-2.0-or-later
 libjoedog
 libjpeg-turbo warning: valid as old and new and no changelong entry, please check
@@ -4748,7 +4720,6 @@ libmpeg2 - can be trivially converted to GPL-2.0-or-later
 libmpris-qt5
 libmp4v2
 libmseed - can be trivially converted to LGPL-3.0-or-later
-libmspack
 libmtp
 libmusicbrainz5
 libmygpo-qt
@@ -4806,7 +4777,6 @@ libpal - can be trivially converted to LGPL-3.0-or-later
 libpal - can be trivially converted to GPL-3.0-or-later
 libpano13 - can be trivially converted to GPL-2.0-or-later
 libpar2 - can be trivially converted to GPL-2.0-or-later
-libpciaccess warning: valid as old and new and no changelong entry, please check
 libpgf
 libphonenumber
 libplacebo
@@ -4883,7 +4853,6 @@ libsigrokdecode - can be trivially converted to GPL-3.0-or-later
 libsigrok - can be trivially converted to GPL-3.0-or-later
 libsigsegv - can be trivially converted to GPL-2.0-or-later
 libskk - can be trivially converted to GPL-3.0-or-later
-libslirp
 libsmbios - can be trivially converted to GPL-2.0-or-later OR OSL-2.1
 libsmi
 libsodium warning: valid as old and new and no changelong entry, please check
@@ -4923,7 +4892,6 @@ libtommath - can be trivially converted to LicenseRef-Fedora-Public-Domain
 libtorrent - can be trivially converted to GPL-2.0-or-later
 libtpcimgio
 libtpcmisc
-libtpms warning: not valid neither as Callaway nor as SPDX, please check
 libtranslate
 libtranslit - can be trivially converted to GPL-3.0-or-later
 libtree-ldd warning: valid as old and new and no changelong entry, please check
@@ -4947,8 +4915,6 @@ libusbauth-configparser
 libusb-compat-0.1
 libusbg
 libusbg - can be trivially converted to GPL-2.0-or-later
-libusb1
-libusb1
 libuv
 libu2f-host
 libu2f-host - can be trivially converted to GPL-3.0-or-later
@@ -5341,7 +5307,6 @@ mdbtools - can be trivially converted to GPL-2.0-or-later
 mdbtools
 mdbtools
 mdbtools
-mdevctl
 mdk
 md5deep - can be trivially converted to GPL-2.0-only
 meanwhile
@@ -5372,7 +5337,6 @@ mercurial - can be trivially converted to GPL-2.0-or-later
 merkaartor - can be trivially converted to GPL-2.0-only
 mesaflash - can be trivially converted to GPL-2.0-or-later
 mesa-libGLw warning: valid as old and new and no changelong entry, please check
-mesa warning: valid as old and new and no changelong entry, please check
 meshbird - can be trivially converted to Apache-2.0
 meshlab
 meson - can be trivially converted to Apache-2.0
@@ -5416,7 +5380,6 @@ mingw-antlr - can be trivially converted to LicenseRef-Fedora-Public-Domain
 mingw-atkmm
 mingw-atk
 mingw-biblesync - can be trivially converted to LicenseRef-Fedora-Public-Domain
-mingw-binutils
 mingw-boost - can be trivially converted to BSL-1.0
 mingw-brotli warning: valid as old and new and no changelong entry, please check
 mingw-bzip2
@@ -5612,7 +5575,6 @@ mingw-spice-gtk
 mingw-spice-protocol
 mingw-spirv-headers warning: valid as old and new and no changelong entry, please check
 mingw-sqlite - can be trivially converted to LicenseRef-Fedora-Public-Domain
-mingw-srvany - can be trivially converted to GPL-2.0-or-later
 mingw-sword - can be trivially converted to GPL-2.0-only
 mingw-taglib
 mingw-tcl warning: valid as old and new and no changelong entry, please check
@@ -5654,6 +5616,7 @@ mirrormanager2
 mISDN
 mkbootdisk - can be trivially converted to GPL-2.0-or-later
 mk-files
+mkosi14
 mkrdns - can be trivially converted to GPL-2.0-or-later
 mktorrent - can be trivially converted to GPL-2.0-or-later
 mle - can be trivially converted to Apache-2.0
@@ -6101,7 +6064,6 @@ ocaml-curl warning: valid as old and new and no changelong entry, please check
 ocaml-migrate-parsetree - can be trivially converted to LGPL-2.0-or-later WITH FLTK-exception
 ocaml-sedlex warning: valid as old and new and no changelong entry, please check
 ocaml-sha warning: valid as old and new and no changelong entry, please check
-ocaml-srpm-macros - can be trivially converted to GPL-2.0-or-later
 ocfs2-tools - can be trivially converted to GPL-2.0-only
 oc-inject - can be trivially converted to Apache-2.0
 ocl-icd
@@ -6199,7 +6161,6 @@ openbox-theme-mistral-thin
 opencascade warning: not valid neither as Callaway nor as SPDX, please check
 opencity - can be trivially converted to GPL-2.0-only
 opencl-filesystem - can be trivially converted to LicenseRef-Fedora-Public-Domain
-opencl-headers warning: valid as old and new and no changelong entry, please check
 openclonk
 OpenColorIO
 openconnect-gateway warning: valid as old and new and no changelong entry, please check
@@ -6716,7 +6677,6 @@ perl-Crypt-ECB - can be trivially converted to GPL-1.0-or-later OR Artistic-1.0-
 perl-Crypt-GCrypt - can be trivially converted to GPL-1.0-or-later OR Artistic-1.0-Perl
 perl-Crypt-GeneratePassword - can be trivially converted to GPL-1.0-or-later OR Artistic-1.0-Perl
 perl-Crypt-GPG - can be trivially converted to GPL-1.0-or-later OR Artistic-1.0-Perl
-perl-Crypt-IDEA
 perl-Crypt-MySQL - can be trivially converted to GPL-1.0-or-later OR Artistic-1.0-Perl
 perl-Crypt-OpenSSL-AES - can be trivially converted to GPL-1.0-or-later OR Artistic-1.0-Perl
 perl-Crypt-OpenSSL-DSA - can be trivially converted to GPL-1.0-or-later OR Artistic-1.0-Perl
@@ -7014,7 +6974,6 @@ perl-HTML-Strip - can be trivially converted to GPL-1.0-or-later OR Artistic-1.0
 perl-HTML-SuperForm - can be trivially converted to GPL-1.0-or-later OR Artistic-1.0-Perl
 perl-HTML-Table - can be trivially converted to GPL-1.0-or-later OR Artistic-1.0-Perl
 perl-HTML-TagCloud - can be trivially converted to GPL-1.0-or-later OR Artistic-1.0-Perl
-perl-HTML-Template-Expr - can be trivially converted to GPL-1.0-or-later OR Artistic-1.0-Perl
 perl-HTML-Template-Pro
 perl-HTML-Template - can be trivially converted to GPL-1.0-or-later OR Artistic-1.0-Perl
 perl-HTML-Toc - can be trivially converted to GPL-1.0-or-later OR Artistic-1.0-Perl
@@ -8587,7 +8546,6 @@ python-aiolifx warning: valid as old and new and no changelong entry, please che
 python-aiomultiprocess warning: valid as old and new and no changelong entry, please check
 python-aiomysql warning: valid as old and new and no changelong entry, please check
 python-aionotion warning: valid as old and new and no changelong entry, please check
-python-aioodbc - can be trivially converted to Apache-2.0
 python-aiopg
 python-aioresponses warning: valid as old and new and no changelong entry, please check
 python-aiorestapi - can be trivially converted to Apache-2.0
@@ -8648,7 +8606,6 @@ python-ast-monitor warning: valid as old and new and no changelong entry, please
 python-astor
 python-astral - can be trivially converted to Apache-2.0
 python-astroML
-python-astropy-healpix
 python-astropy-helpers
 python-astroquery
 python-astroscrappy
@@ -9243,7 +9200,6 @@ python-hatasmota warning: valid as old and new and no changelong entry, please c
 python-haversion warning: valid as old and new and no changelong entry, please check
 python-hdate - can be trivially converted to GPL-3.0-or-later
 python-hdf5storage
-python-healpy - can be trivially converted to GPL-2.0-or-later
 python-heatclient - can be trivially converted to Apache-2.0
 python-helpdev warning: valid as old and new and no changelong entry, please check
 python-hexdump - can be trivially converted to LicenseRef-Fedora-Public-Domain
@@ -9360,7 +9316,6 @@ python-json-minify warning: valid as old and new and no changelong entry, please
 python-jsonpath-ng - can be trivially converted to Apache-2.0 AND WTFPL
 python-jsonpath-rw-ext - can be trivially converted to Apache-2.0
 python-jsonpath-rw - can be trivially converted to Apache-2.0
-python-jsonpatch
 python-jsonref warning: valid as old and new and no changelong entry, please check
 python-jsonrpclib - can be trivially converted to Apache-2.0
 python-jsonrpc-server warning: valid as old and new and no changelong entry, please check
@@ -9526,7 +9481,6 @@ python-musicbrainzngs
 python-music21
 python-mutatormath
 python-mwclient warning: valid as old and new and no changelong entry, please check
-python-mygpoclient - can be trivially converted to GPL-3.0-or-later
 python-myhdl
 python-myrepos-utils - can be trivially converted to GPL-2.0-or-later
 python-mysqlclient - can be trivially converted to GPL-2.0-only
@@ -9556,9 +9510,7 @@ python-netifaces warning: valid as old and new and no changelong entry, please c
 python-netmiko
 python-netpyne
 python-network-runner - can be trivially converted to Apache-2.0
-python-neurom
 python-neurosynth warning: valid as old and new and no changelong entry, please check
-python-neurotune
 python-neutronclient - can be trivially converted to Apache-2.0
 python-niaaml warning: valid as old and new and no changelong entry, please check
 python-niaarm warning: valid as old and new and no changelong entry, please check
@@ -9767,7 +9719,6 @@ python-pycoingecko warning: valid as old and new and no changelong entry, please
 python-pycomfoair warning: valid as old and new and no changelong entry, please check
 python-pycomm3 warning: valid as old and new and no changelong entry, please check
 python-pycosat warning: valid as old and new and no changelong entry, please check
-python-pycurl
 python-pycxx
 python-pydantic warning: valid as old and new and no changelong entry, please check
 python-pydbus
@@ -9859,7 +9810,6 @@ python-pyrfc3339 warning: valid as old and new and no changelong entry, please c
 python-pyro warning: valid as old and new and no changelong entry, please check
 python-pyroute2 - can be trivially converted to GPL-2.0-or-later
 python-pyrpmmd - can be trivially converted to GPL-2.0-or-later
-python-pyrpm warning: valid as old and new and no changelong entry, please check
 python-PyRSS2Gen
 python-pyrtlsdr - can be trivially converted to GPL-3.0-only
 python-pysb
@@ -10013,7 +9963,6 @@ python-requests-kerberos warning: valid as old and new and no changelong entry, 
 python-requests-pkcs12 warning: valid as old and new and no changelong entry, please check
 python-requests-unixsocket - can be trivially converted to Apache-2.0
 python-requre warning: valid as old and new and no changelong entry, please check
-python-resolvelib warning: valid as old and new and no changelong entry, please check
 python-responses - can be trivially converted to Apache-2.0
 python-respx
 python-restfly warning: not valid neither as Callaway nor as SPDX, please check
@@ -10226,7 +10175,6 @@ python-tcxreader warning: valid as old and new and no changelong entry, please c
 python-tempdir warning: valid as old and new and no changelong entry, please check
 python-tempita warning: valid as old and new and no changelong entry, please check
 python-tempora warning: valid as old and new and no changelong entry, please check
-python-tenacity - can be trivially converted to Apache-2.0
 python-termcolor warning: valid as old and new and no changelong entry, please check
 python-terminaltables warning: valid as old and new and no changelong entry, please check
 python-teslajsonpy - can be trivially converted to Apache-2.0
@@ -10343,7 +10291,6 @@ python-verboselogs warning: valid as old and new and no changelong entry, please
 python-versioneer warning: valid as old and new and no changelong entry, please check
 python-vevents
 python-vine
-python-virt-firmware - can be trivially converted to GPL-2.0-only
 python-virtualbmc - can be trivially converted to Apache-2.0
 python-virtualenv-clone warning: valid as old and new and no changelong entry, please check
 python-virtualenv warning: valid as old and new and no changelong entry, please check
@@ -11498,7 +11445,6 @@ sipsak - can be trivially converted to GPL-2.0-or-later
 sip
 sipvicious - can be trivially converted to GPL-3.0-or-later
 sip6
-siril - can be trivially converted to GPL-3.0-or-later AND BSL-1.0
 sirius - can be trivially converted to GPL-2.0-or-later
 six - can be trivially converted to GPL-1.0-or-later
 sjasm
@@ -11620,8 +11566,6 @@ spice-vdagent - can be trivially converted to GPL-3.0-or-later
 spill - can be trivially converted to GPL-2.0-only
 spim
 spindown - can be trivially converted to GPL-3.0-or-later
-spirv-headers warning: valid as old and new and no changelong entry, please check
-spirv-llvm-translator warning: valid as old and new and no changelong entry, please check
 spirv-llvm8.0-translator warning: valid as old and new and no changelong entry, please check
 spi-tools - can be trivially converted to GPL-2.0-only
 splat - can be trivially converted to GPL-2.0-or-later
@@ -11813,7 +11757,6 @@ system-rules - can be trivially converted to CPL-1.0
 system-storage-manager - can be trivially converted to GPL-2.0-or-later
 system-switch-java
 systemtap warning: not valid neither as Callaway nor as SPDX, please check
-system76-keyboard-configurator - can be trivially converted to GPL-3.0-only
 sysutil warning: valid as old and new and no changelong entry, please check
 taarich
 tack - can be trivially converted to GPL-2.0-or-later
@@ -15615,7 +15558,6 @@ vim-taglist warning: valid as old and new and no changelong entry, please check
 vim-trailing-whitespace
 vinagre - can be trivially converted to GPL-2.0-or-later
 vips
-virglrenderer warning: valid as old and new and no changelong entry, please check
 virt-backup - can be trivially converted to GPL-2.0-or-later
 virt-bootstrap - can be trivially converted to GPL-3.0-or-later
 virtme - can be trivially converted to GPL-2.0-only
@@ -15647,7 +15589,6 @@ volumeicon - can be trivially converted to GPL-3.0-only
 voms-api-java - can be trivially converted to Apache-2.0
 voms-clients-java - can be trivially converted to Apache-2.0
 voms-mysql-plugin - can be trivially converted to Apache-2.0
-voms - can be trivially converted to Apache-2.0
 vorbisgain
 vorbis-tools - can be trivially converted to GPL-2.0-only
 voro++ - can be trivially converted to BSD-3-Clause-LBNL

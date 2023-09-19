@@ -1563,7 +1563,6 @@ perl-IPC-Run3
 perl-IPC-SysV
 perl-IPC-System-Simple
 perl-Import-Into
-perl-Importer
 perl-JSON
 perl-JSON-PP
 perl-JSON-XS
@@ -2158,6 +2157,7 @@ rust-basic-toml
 rust-bencher
 rust-bincode
 rust-bindgen
+rust-bindgen0.63
 rust-bit-set
 rust-bit-vec
 rust-bitflags
@@ -2242,6 +2242,7 @@ rust-duct
 rust-dunce
 rust-either
 rust-encoding_rs
+rust-env_logger
 rust-env_logger0.6
 rust-env_logger0.7
 rust-env_logger0.8
@@ -2251,7 +2252,6 @@ rust-erased-serde
 rust-errno
 rust-escargot
 rust-fastrand
-rust-fastrand1
 rust-fat-macho
 rust-filetime
 rust-flate2
@@ -2326,6 +2326,7 @@ rust-libm
 rust-libz-sys
 rust-linked-hash-map
 rust-linux-raw-sys
+rust-linux-raw-sys0.3
 rust-llvm-bitcode
 rust-lock_api
 rust-log
@@ -2409,6 +2410,7 @@ rust-predicates-tree
 rust-predicates2
 rust-pretty_assertions
 rust-pretty_assertions0.6
+rust-prettyplease
 rust-proc-macro-crate
 rust-proc-macro-error
 rust-proc-macro-error-attr
@@ -2474,6 +2476,7 @@ rust-rustc-test
 rust-rustc_version
 rust-rustc_version0.3
 rust-rustix
+rust-rustix0.37
 rust-rustversion
 rust-rusty-fork
 rust-ryu
@@ -2497,8 +2500,10 @@ rust-serde_spanned
 rust-serde_stacker
 rust-serde_test
 rust-serde_yaml
+rust-serial_test
 rust-serial_test0.6
 rust-serial_test1
+rust-serial_test_derive
 rust-serial_test_derive0.6
 rust-serial_test_derive1
 rust-sevctl
@@ -2633,6 +2638,7 @@ rust-wait-timeout
 rust-walkdir
 rust-which
 rust-winnow
+rust-winnow0.4
 rust-wyz
 rust-xattr
 rust-xml5ever

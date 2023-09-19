@@ -124,7 +124,6 @@ ansible-collection-kubernetes-core
 ansible-collection-microsoft-sql
 ansible-collections-openstack
 ansible-openstack-modules
-ansible-pcp
 ansifilter
 anyterm
 anyterm
@@ -217,12 +216,6 @@ assimp
 asterisk-sounds-core
 asterisk
 astral
-astrometry
-astrometry
-astrometry
-astrometry
-astrometry
-astrometry
 astrometry-tycho2
 astronomy-menus
 ast
@@ -330,7 +323,6 @@ bats
 battray
 bbkeys
 bcache-tools
-bcal
 bcd
 bcftools
 bcm283x-firmware
@@ -856,7 +848,6 @@ dbus-broker
 dbus-c++
 dbus-glib
 dbus-parsec
-dbus-python
 dbus-qt3
 dbus-sharp-glib
 dbus-sharp
@@ -1813,14 +1804,11 @@ gcr
 gcr3
 gc
 gcstar
-gdb
-gdb
 gdcalc
 gdcm
 gdigi
 gdisk
 gdk-pixbuf2
-gdk-pixbuf2-xlib
 gdlmm
 geany-plugins
 geany
@@ -1890,7 +1878,6 @@ ghc-protolude
 ghc-relude
 ghc-repline
 ghc-rio
-ghc-rpm-macros
 ghc-shakespeare
 ghc-srpm-macros
 ghc-streaming-commons
@@ -2844,7 +2831,6 @@ golang-github-nathanaelle-syslog5424-2
 golang-github-nats-io-jwt
 golang-github-nats-io-nkeys
 golang-github-nats-io-nuid
-golang-github-nats-io
 golang-github-nats-io-streaming-server
 golang-github-nbrownus-metrics-prometheus
 golang-github-nbutton23-zxcvbn
@@ -4043,17 +4029,7 @@ kdsoap
 keditbookmarks
 keepassxc
 kerberoast
-kernel-headers
 kernel-srpm-macros
-kernel-tools
-kernel-tools
-kernel-tools
-kernel-tools
-kernel-tools
-kernel-tools
-kernel-tools
-kernel-tools
-kernel-tools
 keybinder
 keybinder3
 keychain
@@ -4568,8 +4544,6 @@ libdmapsharing4
 libdnet
 libdnf-plugin-txnupd
 libdockapp
-libdrm-armada
-libdrm
 libdsk
 libdstr
 libdvbpsi
@@ -4635,7 +4609,6 @@ libgle
 libglib-testing
 libglib-testing
 libglpng
-libglvnd
 libgnomecanvasmm26
 libgnomecanvas
 libgnome-games-support
@@ -4680,7 +4653,6 @@ libiptcdata
 libircclient
 libirman
 libitl
-libi2cd
 libjaylink
 libjoedog
 libjpeg-turbo
@@ -4748,7 +4720,6 @@ libmpeg2
 libmpris-qt5
 libmp4v2
 libmseed
-libmspack
 libmtp
 libmusicbrainz5
 libmygpo-qt
@@ -4806,7 +4777,6 @@ libpal
 libpal
 libpano13
 libpar2
-libpciaccess
 libpgf
 libphonenumber
 libplacebo
@@ -4883,7 +4853,6 @@ libsigrokdecode
 libsigrok
 libsigsegv
 libskk
-libslirp
 libsmbios
 libsmi
 libsodium
@@ -4923,7 +4892,6 @@ libtommath
 libtorrent
 libtpcimgio
 libtpcmisc
-libtpms
 libtranslate
 libtranslit
 libtree-ldd
@@ -4947,8 +4915,6 @@ libusbauth-configparser
 libusb-compat-0.1
 libusbg
 libusbg
-libusb1
-libusb1
 libuv
 libu2f-host
 libu2f-host
@@ -5341,7 +5307,6 @@ mdbtools
 mdbtools
 mdbtools
 mdbtools
-mdevctl
 mdk
 md5deep
 meanwhile
@@ -5372,7 +5337,6 @@ mercurial
 merkaartor
 mesaflash
 mesa-libGLw
-mesa
 meshbird
 meshlab
 meson
@@ -5416,7 +5380,6 @@ mingw-antlr
 mingw-atkmm
 mingw-atk
 mingw-biblesync
-mingw-binutils
 mingw-boost
 mingw-brotli
 mingw-bzip2
@@ -5612,7 +5575,6 @@ mingw-spice-gtk
 mingw-spice-protocol
 mingw-spirv-headers
 mingw-sqlite
-mingw-srvany
 mingw-sword
 mingw-taglib
 mingw-tcl
@@ -5654,6 +5616,7 @@ mirrormanager2
 mISDN
 mkbootdisk
 mk-files
+mkosi14
 mkrdns
 mktorrent
 mle
@@ -6101,7 +6064,6 @@ ocaml-curl
 ocaml-migrate-parsetree
 ocaml-sedlex
 ocaml-sha
-ocaml-srpm-macros
 ocfs2-tools
 oc-inject
 ocl-icd
@@ -6199,7 +6161,6 @@ openbox-theme-mistral-thin
 opencascade
 opencity
 opencl-filesystem
-opencl-headers
 openclonk
 OpenColorIO
 openconnect-gateway
@@ -6716,7 +6677,6 @@ perl-Crypt-ECB
 perl-Crypt-GCrypt
 perl-Crypt-GeneratePassword
 perl-Crypt-GPG
-perl-Crypt-IDEA
 perl-Crypt-MySQL
 perl-Crypt-OpenSSL-AES
 perl-Crypt-OpenSSL-DSA
@@ -7014,7 +6974,6 @@ perl-HTML-Strip
 perl-HTML-SuperForm
 perl-HTML-Table
 perl-HTML-TagCloud
-perl-HTML-Template-Expr
 perl-HTML-Template-Pro
 perl-HTML-Template
 perl-HTML-Toc
@@ -8587,7 +8546,6 @@ python-aiolifx
 python-aiomultiprocess
 python-aiomysql
 python-aionotion
-python-aioodbc
 python-aiopg
 python-aioresponses
 python-aiorestapi
@@ -8648,7 +8606,6 @@ python-ast-monitor
 python-astor
 python-astral
 python-astroML
-python-astropy-healpix
 python-astropy-helpers
 python-astroquery
 python-astroscrappy
@@ -9243,7 +9200,6 @@ python-hatasmota
 python-haversion
 python-hdate
 python-hdf5storage
-python-healpy
 python-heatclient
 python-helpdev
 python-hexdump
@@ -9360,7 +9316,6 @@ python-json-minify
 python-jsonpath-ng
 python-jsonpath-rw-ext
 python-jsonpath-rw
-python-jsonpatch
 python-jsonref
 python-jsonrpclib
 python-jsonrpc-server
@@ -9526,7 +9481,6 @@ python-musicbrainzngs
 python-music21
 python-mutatormath
 python-mwclient
-python-mygpoclient
 python-myhdl
 python-myrepos-utils
 python-mysqlclient
@@ -9556,9 +9510,7 @@ python-netifaces
 python-netmiko
 python-netpyne
 python-network-runner
-python-neurom
 python-neurosynth
-python-neurotune
 python-neutronclient
 python-niaaml
 python-niaarm
@@ -9767,7 +9719,6 @@ python-pycoingecko
 python-pycomfoair
 python-pycomm3
 python-pycosat
-python-pycurl
 python-pycxx
 python-pydantic
 python-pydbus
@@ -9859,7 +9810,6 @@ python-pyrfc3339
 python-pyro
 python-pyroute2
 python-pyrpmmd
-python-pyrpm
 python-PyRSS2Gen
 python-pyrtlsdr
 python-pysb
@@ -10013,7 +9963,6 @@ python-requests-kerberos
 python-requests-pkcs12
 python-requests-unixsocket
 python-requre
-python-resolvelib
 python-responses
 python-respx
 python-restfly
@@ -10226,7 +10175,6 @@ python-tcxreader
 python-tempdir
 python-tempita
 python-tempora
-python-tenacity
 python-termcolor
 python-terminaltables
 python-teslajsonpy
@@ -10343,7 +10291,6 @@ python-verboselogs
 python-versioneer
 python-vevents
 python-vine
-python-virt-firmware
 python-virtualbmc
 python-virtualenv-clone
 python-virtualenv
@@ -11498,7 +11445,6 @@ sipsak
 sip
 sipvicious
 sip6
-siril
 sirius
 six
 sjasm
@@ -11620,8 +11566,6 @@ spice-vdagent
 spill
 spim
 spindown
-spirv-headers
-spirv-llvm-translator
 spirv-llvm8.0-translator
 spi-tools
 splat
@@ -11813,7 +11757,6 @@ system-rules
 system-storage-manager
 system-switch-java
 systemtap
-system76-keyboard-configurator
 sysutil
 taarich
 tack
@@ -15615,7 +15558,6 @@ vim-taglist
 vim-trailing-whitespace
 vinagre
 vips
-virglrenderer
 virt-backup
 virt-bootstrap
 virtme
@@ -15647,7 +15589,6 @@ volumeicon
 voms-api-java
 voms-clients-java
 voms-mysql-plugin
-voms
 vorbisgain
 vorbis-tools
 voro++

@@ -129,7 +129,6 @@ ansible-collection-microsoft-sql
 ansible-collections-openstack
 ansible-openstack-modules
 ansible-packaging
-ansible-pcp
 ansible
 ansifilter
 anyterm
@@ -231,7 +230,6 @@ asterisk-sounds-core
 asterisk
 astigmatic-grand-hotel-fonts
 astral
-astrometry
 astrometry-tycho2
 astronomy-menus
 ast
@@ -333,7 +331,6 @@ bats
 battray
 bbkeys
 bcache-tools
-bcal
 bcd
 bcftools
 bcm283x-firmware
@@ -872,7 +869,6 @@ dbus-broker
 dbus-c++
 dbus-glib
 dbus-parsec
-dbus-python
 dbus-qt3
 dbus-sharp-glib
 dbus-sharp
@@ -885,6 +881,7 @@ dconf-editor
 dconf
 dcw-gmt
 dc3dd
+Error pulling 'ddate'
 ddate
 ddccontrol-db
 ddccontrol
@@ -953,7 +950,6 @@ deluge
 delve
 demorse
 denemo
-Error pulling 'derrick'
 derrick
 desktop-file-utils
 desktopfolder
@@ -1234,7 +1230,6 @@ emacs-dockerfile-mode
 emacs-epc
 emacs-epl
 emacs-evil
-Error pulling 'emacs-flycheck-pycheckers'
 emacs-flycheck-pycheckers
 emacs-flycheck
 emacs-f
@@ -1794,13 +1789,11 @@ gcr
 gcr3
 gc
 gcstar
-gdb
 gdcalc
 gdcm
 gdigi
 gdisk
 gdk-pixbuf2
-gdk-pixbuf2-xlib
 gdlmm
 gdm
 geany-plugins
@@ -1979,7 +1972,6 @@ ghc-resourcet
 ghc-retry
 ghc-rio-prettyprint
 ghc-rio
-ghc-rpm-macros
 ghc-scotty
 ghc-semigroups
 ghc-serialise
@@ -2102,7 +2094,6 @@ glew
 glglobe
 glibc
 glibc32
-Error pulling 'glibd'
 glibd
 glibmm2.4
 glibmm2.68
@@ -2140,7 +2131,6 @@ gnat-srpm-macros
 gnome-applets
 gnome-autoar
 gnome-backgrounds
-Error pulling 'gnome-battery-bench'
 gnome-battery-bench
 gnome-bluetooth
 gnome-bluetooth3.34
@@ -2888,6 +2878,7 @@ golang-github-jsimonetti-rtnetlink
 golang-github-json-iterator
 golang-github-jsonnet-bundler
 golang-github-jtolds-gls
+Error pulling 'golang-github-juju-ratelimit'
 golang-github-juju-ratelimit
 golang-github-julienschmidt-httprouter
 golang-github-jwt
@@ -3788,7 +3779,6 @@ GtkAda
 gtkdatabox
 gtk-doc
 gtkd
-Error pulling 'gtk+extra'
 gtk+extra
 gtk-gnutella
 gtkhash
@@ -3942,6 +3932,7 @@ hxtools
 hydrapaper
 hydra
 hydrogen
+Error pulling 'hyena'
 hyena
 hylafax+
 hyperestraier
@@ -4346,9 +4337,7 @@ keditbookmarks
 keepassxc
 kemie-bellota-fonts
 kerberoast
-kernel-headers
 kernel-srpm-macros
-kernel-tools
 kexi
 keybinder
 keybinder3
@@ -4594,7 +4583,6 @@ kphotoalbum
 kpilot
 kproperty
 kpublictransport
-Error pulling 'kqoauth-qt5'
 kqoauth-qt5
 kqtquickcharts
 kquickimageeditor
@@ -4776,9 +4764,7 @@ libbgpdump
 libbinio
 libblocksruntime
 libbluray
-Error pulling 'libbonobo'
 libbonobo
-Error pulling 'libbonoboui'
 libbonoboui
 libbsd
 libbs2b
@@ -4839,8 +4825,6 @@ libdnet
 libdnf-plugin-txnupd
 libdnf
 libdockapp
-libdrm-armada
-libdrm
 libdsk
 libdstr
 libdvbpsi
@@ -4903,7 +4887,6 @@ libglade2
 libgle
 libglib-testing
 libglpng
-libglvnd
 libgnomecanvasmm26
 libgnomecanvas
 libgnome-games-support
@@ -4953,7 +4936,6 @@ libirecovery
 libirman
 libisds
 libitl
-libi2cd
 libjaylink
 libjoedog
 libjpeg-turbo
@@ -5023,7 +5005,6 @@ libmpeg2
 libmpris-qt5
 libmp4v2
 libmseed
-libmspack
 libmtp
 libmusicbrainz5
 libmygpo-qt
@@ -5079,7 +5060,6 @@ libpal
 libpanel
 libpano13
 libpar2
-libpciaccess
 libpeas
 libpgf
 libphonenumber
@@ -5155,7 +5135,6 @@ libsigrokdecode
 libsigrok
 libsigsegv
 libskk
-libslirp
 libsmbios
 libsmi
 libsodium
@@ -5195,7 +5174,6 @@ libtommath
 libtorrent
 libtpcimgio
 libtpcmisc
-libtpms
 libtranslate
 libtranslit
 libtree-ldd
@@ -5219,7 +5197,6 @@ liburing
 libusbauth-configparser
 libusb-compat-0.1
 libusbg
-libusb1
 libuv
 libu2f-host
 libu2f-server
@@ -5561,7 +5538,6 @@ mcrypt
 mctc-lib
 mdadm
 mdbtools
-mdevctl
 mdk
 md5deep
 meanwhile
@@ -5593,7 +5569,6 @@ mercurial
 merkaartor
 mesaflash
 mesa-libGLw
-mesa
 meshbird
 meshlab
 meson
@@ -5640,7 +5615,6 @@ mingw-antlr
 mingw-atkmm
 mingw-atk
 mingw-biblesync
-mingw-binutils
 mingw-boost
 mingw-brotli
 mingw-bzip2
@@ -5797,6 +5771,7 @@ mingw-python-qt5
 mingw-python-setuptools
 mingw-python-shapely
 mingw-python-six
+Error pulling 'mingw-python-tomli'
 mingw-python-tomli
 mingw-python-urllib3
 mingw-python-werkzeug
@@ -5846,7 +5821,6 @@ mingw-spice-gtk
 mingw-spice-protocol
 mingw-spirv-headers
 mingw-sqlite
-mingw-srvany
 mingw-sword
 mingw-taglib
 mingw-tcl
@@ -5889,6 +5863,7 @@ mkbootdisk
 mk-files
 mkosi-initrd
 mkosi
+mkosi14
 mkrdns
 mktorrent
 mle
@@ -5962,6 +5937,7 @@ moose
 mopac
 mopac7
 mopidy-mpd
+Error pulling 'mopidy'
 mopidy
 moreutils
 morphio
@@ -6314,7 +6290,6 @@ ocaml-opam-file-format
 ocaml-perl4caml
 ocaml-sedlex
 ocaml-sha
-ocaml-srpm-macros
 ocfs2-tools
 oc-inject
 ocl-icd
@@ -6412,7 +6387,6 @@ openbox-theme-mistral-thin
 opencascade
 opencity
 opencl-filesystem
-opencl-headers
 openclonk
 OpenColorIO
 openconnect-gateway
@@ -6866,7 +6840,6 @@ perl-CGI-Untaint-date
 perl-CGI-Untaint-email
 perl-CGI-Untaint
 perl-ClamAV-Client
-Error pulling 'perl-Class-Accessor-Chained'
 perl-Class-Accessor-Chained
 perl-Class-AutoClass
 perl-Class-CSV
@@ -6952,7 +6925,6 @@ perl-Crypt-ECB
 perl-Crypt-GCrypt
 perl-Crypt-GeneratePassword
 perl-Crypt-GPG
-perl-Crypt-IDEA
 perl-Crypt-MySQL
 perl-Crypt-OpenSSL-AES
 perl-Crypt-OpenSSL-DSA
@@ -7207,6 +7179,7 @@ perl-Git-Wrapper
 perl-Glib
 perl-Gnome2-Canvas
 perl-Gnome2-GConf
+Error pulling 'perl-Gnome2'
 perl-Gnome2
 perl-Gnome2-Vte
 perl-GnuPG-Interface
@@ -7283,7 +7256,6 @@ perl-HTML-Strip
 perl-HTML-SuperForm
 perl-HTML-Table
 perl-HTML-TagCloud
-perl-HTML-Template-Expr
 perl-HTML-Template-Pro
 perl-HTML-Template
 perl-HTML-Tiny
@@ -8539,7 +8511,6 @@ php-zordius-lightncandy
 php-zstd
 php-zumba-json-serializer
 physfs
-Error pulling 'pianobar'
 picmi
 picocli
 picocom
@@ -8654,7 +8625,6 @@ polly
 polybar
 polyglot-chess
 poly2tri
-Error pulling 'pop-gtk-theme'
 pop-gtk-theme
 pop-icon-theme
 poppler-data
@@ -8759,7 +8729,6 @@ ptex
 pthsem
 ptlib
 ptouch-driver
-Error pulling 'ptpython'
 ptpython
 ptrash
 pt-sans-fonts
@@ -8948,7 +8917,6 @@ python-ast-monitor
 python-astor
 python-astral
 python-astroML
-python-astropy-healpix
 python-astropy-helpers
 python-astroquery
 python-astroscrappy
@@ -9289,6 +9257,7 @@ python-diskcache
 python-distlib
 python-distroinfo
 python-distutils-extra
+Error pulling 'python-django-ajax-selects'
 python-django-ajax-selects
 python-django-allauth
 python-django-angular
@@ -9448,7 +9417,6 @@ python-flake8-import-order
 python-flake8-polyfill
 python-flake8
 python-flaky
-Error pulling 'python-flask-admin'
 python-flask-admin
 python-flask-babel
 python-flask-bootstrap
@@ -9733,7 +9701,6 @@ python-json-minify
 python-jsonpath-ng
 python-jsonpath-rw-ext
 python-jsonpath-rw
-python-jsonpatch
 python-jsonref
 python-jsonrpclib
 python-jsonrpc-server
@@ -9912,7 +9879,6 @@ python-musicbrainzngs
 python-music21
 python-mutatormath
 python-mwclient
-python-mygpoclient
 python-myhdl
 python-myrepos-utils
 python-mysqlclient
@@ -9942,7 +9908,6 @@ python-netifaces
 python-netmiko
 python-netpyne
 python-network-runner
-python-neurom
 python-neurosynth
 python-neurotune
 python-neutronclient
@@ -10165,7 +10130,6 @@ python-pycoingecko
 python-pycomfoair
 python-pycomm3
 python-pycosat
-python-pycurl
 python-pycxx
 python-pydantic
 python-pydbus
@@ -10265,7 +10229,6 @@ python-pyrfc3339
 python-pyro
 python-pyroute2
 python-pyrpmmd
-python-pyrpm
 python-PyRSS2Gen
 python-pyrtlsdr
 python-pysb
@@ -10424,7 +10387,6 @@ python-requests-mock
 python-requests-pkcs12
 python-requests-unixsocket
 python-requre
-python-resolvelib
 python-responses
 python-respx
 python-restfly
@@ -10768,7 +10730,6 @@ python-verboselogs
 python-versioneer
 python-vevents
 python-vine
-python-virt-firmware
 python-virtualbmc
 python-virtualenv-clone
 python-virtualenv
@@ -11512,7 +11473,6 @@ R-polynom
 rp-pppoe
 R-praise
 R-preprocessCore
-Error pulling 'R-presser'
 R-presser
 R-prettycode
 R-prettydoc
@@ -11652,6 +11612,7 @@ rtlsdr-scanner
 rtl-sdr
 rtl-wmbus
 rtl-433
+Error pulling 'rtmidi'
 rtmidi
 R-tmvnsim
 rtorrent
@@ -12223,6 +12184,7 @@ rust-libhandy
 rust-libhandy-sys
 rust-libmount
 rust-libm
+Error pulling 'rust-liboverdrop'
 rust-liboverdrop
 rust-libpulse-binding
 rust-libpulse-sys
@@ -12369,7 +12331,6 @@ rust-petgraph0.5
 rust-picky-asn1-der
 rust-picky-asn1
 rust-picky-asn1-x509
-Error pulling 'rust-pin-project-internal'
 rust-pin-project-internal
 rust-pin-project-internal0.4
 rust-pin-project-lite
@@ -12585,7 +12546,6 @@ rust-sha3_0.9
 rust-shell-escape
 rust-shellexpand
 rust-shell-words
-Error pulling 'rust-shlex'
 rust-shlex
 rust-scheduled-thread-pool
 rust-signal-hook-mio
@@ -12696,6 +12656,7 @@ rust-toml_edit
 rust-toml
 rust-toml0.4
 rust-tpm2-policy
+Error pulling 'rust-transpose'
 rust-tree-sitter
 rust-trust-dns-proto
 rust-trust-dns-resolver
@@ -13188,8 +13149,6 @@ spice-vdagent
 spill
 spim
 spindown
-spirv-headers
-spirv-llvm-translator
 spirv-llvm8.0-translator
 spi-tools
 splat
@@ -13385,7 +13344,6 @@ system-rules
 system-storage-manager
 system-switch-java
 systemtap
-system76-keyboard-configurator
 sysutil
 taarich
 tack
@@ -13825,7 +13783,6 @@ vhd2vl
 video-downloader
 vid.stab
 viewnior
-Error pulling 'vifm'
 vifm
 vigra
 vile
@@ -13857,7 +13814,6 @@ vim-taglist
 vim-trailing-whitespace
 vinagre
 vips
-virglrenderer
 virt-backup
 virt-bootstrap
 virt-lightning

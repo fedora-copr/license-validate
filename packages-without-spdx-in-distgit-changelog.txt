@@ -140,7 +140,6 @@ ansible-collection-pulp-pulp_installer
 ansible-collections-openstack
 ansible-openstack-modules
 ansible-packaging
-ansible-pcp
 ansible
 ansifilter
 anyterm
@@ -247,7 +246,6 @@ asterisk-sounds-core
 asterisk
 astigmatic-grand-hotel-fonts
 astral
-astrometry
 astrometry-tycho2
 astronomy-menus
 ast
@@ -274,6 +272,7 @@ atril
 at-spi2-core
 attica
 aubio
+aubit4gl
 audacious-plugin-fc
 audacious-plugins
 audacious
@@ -355,7 +354,6 @@ bats
 battray
 bbkeys
 bcache-tools
-bcal
 bcd
 bcftools
 bcm283x-firmware
@@ -941,7 +939,6 @@ dbus-broker
 dbus-c++
 dbus-glib
 dbus-parsec
-dbus-python
 dbus-qt3
 dbus-sharp-glib
 dbus-sharp
@@ -1905,13 +1902,11 @@ gcr
 gcr3
 gc
 gcstar
-gdb
 gdcalc
 gdcm
 gdigi
 gdisk
 gdk-pixbuf2
-gdk-pixbuf2-xlib
 gdlmm
 gdm
 geany-plugins
@@ -2096,7 +2091,6 @@ ghc-resourcet
 ghc-retry
 ghc-rio-prettyprint
 ghc-rio
-ghc-rpm-macros
 ghc-scotty
 ghc-semigroups
 ghc-serialise
@@ -4714,9 +4708,7 @@ keditbookmarks
 keepassxc
 kemie-bellota-fonts
 kerberoast
-kernel-headers
 kernel-srpm-macros
-kernel-tools
 kexi
 keybinder
 keybinder3
@@ -5228,8 +5220,6 @@ libdnet
 libdnf-plugin-txnupd
 libdnf
 libdockapp
-libdrm-armada
-libdrm
 libdsk
 libdstr
 libdvbpsi
@@ -5299,7 +5289,6 @@ libgle
 libglib-testing
 libglibutil
 libglpng
-libglvnd
 libgnomecanvasmm26
 libgnomecanvas
 libgnome-games-support
@@ -5357,7 +5346,6 @@ libirecovery
 libirman
 libisds
 libitl
-libi2cd
 libjaylink
 libjodycode
 libjoedog
@@ -5430,7 +5418,6 @@ libmpeg2
 libmpris-qt5
 libmp4v2
 libmseed
-libmspack
 libmtp
 libmusicbrainz5
 libmygpo-qt
@@ -5492,7 +5479,6 @@ libpal
 libpanel
 libpano13
 libpar2
-libpciaccess
 libpeas
 libpgf
 libphidget22
@@ -5573,7 +5559,6 @@ libsigrokdecode
 libsigrok
 libsigsegv
 libskk
-libslirp
 libsmbios
 libsmi
 libsodium
@@ -5616,7 +5601,6 @@ libtommath
 libtorrent
 libtpcimgio
 libtpcmisc
-libtpms
 libtranslate
 libtranslit
 libtree-ldd
@@ -5642,7 +5626,6 @@ liburing
 libusbauth-configparser
 libusb-compat-0.1
 libusbg
-libusb1
 libuv
 libu2f-host
 libu2f-server
@@ -6012,7 +5995,6 @@ mcrypt
 mctc-lib
 mdadm
 mdbtools
-mdevctl
 mdk
 mdns
 md4c
@@ -6047,7 +6029,6 @@ mercurial
 merkaartor
 mesaflash
 mesa-libGLw
-mesa
 meshbird
 meshlab
 meson
@@ -6096,7 +6077,6 @@ mingw-antlr
 mingw-atkmm
 mingw-atk
 mingw-biblesync
-mingw-binutils
 mingw-boost
 mingw-brotli
 mingw-bzip2
@@ -6311,7 +6291,6 @@ mingw-spice-gtk
 mingw-spice-protocol
 mingw-spirv-headers
 mingw-sqlite
-mingw-srvany
 mingw-sword
 mingw-taglib
 mingw-tcl
@@ -6355,6 +6334,7 @@ mkbootdisk
 mk-files
 mkosi-initrd
 mkosi
+mkosi14
 mkrdns
 mktorrent
 mle
@@ -6806,7 +6786,6 @@ ocaml-ppx-globalize
 ocaml-ppx-stable-witness
 ocaml-sedlex
 ocaml-sha
-ocaml-srpm-macros
 ocaml-uucd
 ocaml-uucp
 ocaml-uunf
@@ -6915,7 +6894,6 @@ openbox-theme-mistral-thin
 opencascade
 opencity
 opencl-filesystem
-opencl-headers
 openclonk
 OpenColorIO
 openconnect-gateway
@@ -7482,7 +7460,6 @@ perl-Crypt-ECB
 perl-Crypt-GCrypt
 perl-Crypt-GeneratePassword
 perl-Crypt-GPG
-perl-Crypt-IDEA
 perl-Crypt-MySQL
 perl-Crypt-OpenSSL-AES
 perl-Crypt-OpenSSL-DSA
@@ -7820,7 +7797,6 @@ perl-HTML-Strip
 perl-HTML-SuperForm
 perl-HTML-Table
 perl-HTML-TagCloud
-perl-HTML-Template-Expr
 perl-HTML-Template-Pro
 perl-HTML-Template
 perl-HTML-Tiny
@@ -9553,7 +9529,6 @@ python-ast-monitor
 python-astor
 python-astral
 python-astroML
-python-astropy-healpix
 python-astropy-helpers
 python-astroquery
 python-astroscrappy
@@ -10405,7 +10380,6 @@ python-json-minify
 python-jsonpath-ng
 python-jsonpath-rw-ext
 python-jsonpath-rw
-python-jsonpatch
 python-jsonref
 python-jsonrpclib
 python-jsonrpc-server
@@ -10608,7 +10582,6 @@ python-musicbrainzngs
 python-music21
 python-mutatormath
 python-mwclient
-python-mygpoclient
 python-myhdl
 python-myrepos-utils
 python-mysqlclient
@@ -10641,7 +10614,6 @@ python-netifaces
 python-netmiko
 python-netpyne
 python-network-runner
-python-neurom
 python-neurosynth
 python-neurotune
 python-neutronclient
@@ -10894,7 +10866,6 @@ python-pycoingecko
 python-pycomfoair
 python-pycomm3
 python-pycosat
-python-pycurl
 python-pycxx
 python-pydantic-core
 python-pydantic
@@ -11012,7 +10983,6 @@ python-pyroaring
 python-pyro
 python-pyroute2
 python-pyrpmmd
-python-pyrpm
 python-PyRSS2Gen
 python-pyrtlsdr
 python-pysb
@@ -11193,7 +11163,6 @@ python-requests-pkcs12
 python-requests-unixsocket
 python-requirements-parser
 python-requre
-python-resolvelib
 python-responses
 python-respx
 python-restfly
@@ -11582,7 +11551,6 @@ python-verboselogs
 python-versioneer
 python-vevents
 python-vine
-python-virt-firmware
 python-virtualbmc
 python-virtualenv-clone
 python-virtualenv
@@ -12689,6 +12657,7 @@ rust-bencher
 rust-bindgen-cli
 rust-bindgen
 rust-bindgen0.59
+rust-bindgen0.63
 rust-biquad
 rust-bit_field
 rust-bitfield
@@ -13141,6 +13110,7 @@ rust-git2_0.13
 rust-git2_0.14
 rust-git2_0.16
 rust-gix-actor
+rust-gix-attributes
 rust-gix-bitmap
 rust-gix-command
 rust-gix-commitgraph
@@ -13152,12 +13122,15 @@ rust-gix-glob
 rust-gix-hash
 rust-gix-hashtable
 rust-gix-chunk
+rust-gix-ignore
 rust-gix-mailmap
 rust-gix-object
 rust-gix-packetline
 rust-gix-path
 rust-gix-quote
+rust-gix-revwalk
 rust-gix-sec
+rust-gix-tempfile
 rust-gix-trace
 rust-gix-url
 rust-gix-utils
@@ -13269,6 +13242,7 @@ rust-hyper-rustls
 rust-hyper-tls
 rust-chainerror
 rust-charset
+rust-chic
 rust-choosier
 rust-chrono-humanize
 rust-chrono
@@ -13289,6 +13263,7 @@ rust-ignore
 rust-imagequant
 rust-imagequant-sys
 rust-image0.23
+rust-imara-diff
 rust-impl-more
 rust-impls
 rust-indenter
@@ -13370,7 +13345,6 @@ rust-lexiclean
 rust-libadwaita
 rust-libadwaita-sys
 rust-libadwaita-sys0.3
-rust-libadwaita-sys0.4
 rust-libadwaita0.3
 rust-libblkid-rs
 rust-libblkid-rs-sys
@@ -13402,6 +13376,7 @@ rust-libsodium-sys
 rust-libssh2-sys
 rust-libssh2-sys0.2
 rust-libsystemd
+rust-libtest-mimic
 rust-libz-sys
 rust-lib0
 rust-line-wrap
@@ -13411,6 +13386,7 @@ rust-lino
 rust-linux-loader
 rust-linux_proc
 rust-linux-raw-sys
+rust-linux-raw-sys0.3
 rust-listenfd
 rust-litrs
 rust-llvm-bitcode
@@ -13567,7 +13543,6 @@ rust-orion
 rust-osmesa-sys
 rust-os_str_bytes
 rust-ouroboros_macro
-rust-ouroboros_macro0.15
 rust-ouroboros
 rust-owned_ttf_parser
 rust-pager
@@ -13577,7 +13552,6 @@ rust-palette
 rust-pam
 rust-pam-sys
 rust-pancurses0.16
-rust-pangocairo-sys0.15
 rust-pangocairo-sys0.17
 rust-pangocairo0.17
 rust-pango-sys0.15
@@ -13853,6 +13827,7 @@ rust-rustfft
 rust-rustfix
 rust-rust-ini0.17
 rust-rustix
+rust-rustix0.37
 rust-rustls-native-certs
 rust-rustls-pemfile
 rust-rustls
@@ -13987,6 +13962,7 @@ rust-smallstr
 rust-smallvec
 rust-smartstring
 rust-smol_str
+rust-smol_str0.1
 rust-snafu-derive
 rust-snafu
 rust-snphost
@@ -14198,6 +14174,7 @@ rust-utf-8
 rust-uuid
 rust-uuid0.7
 rust-uuid0.8
+rust-uzers
 rust-value-bag-serde1
 rust-value-bag
 rust-value-bag-sval2
@@ -14248,6 +14225,7 @@ rust-wide
 rust-wild
 rust-winit
 rust-winnow
+rust-winnow0.4
 rust-wl-clipboard-rs
 rust-wmidi
 rust-wu-diff
@@ -14695,9 +14673,6 @@ spice-vdagent
 spill
 spim
 spindown
-spirv-headers
-spirv-llvm-translator
-spirv-llvm-translator16
 spirv-llvm15.0-translator
 spirv-llvm8.0-translator
 spi-tools
@@ -14900,7 +14875,6 @@ system-rules
 system-storage-manager
 system-switch-java
 systemtap
-system76-keyboard-configurator
 sysutil
 taarich
 tacacs
@@ -15396,7 +15370,6 @@ vim-taglist
 vim-trailing-whitespace
 vinagre
 vips
-virglrenderer
 virt-backup
 virt-bootstrap
 virt-lightning
