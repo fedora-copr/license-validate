@@ -135,7 +135,6 @@ anyterm
 aoetools
 aom
 apache-cloudstack-cloudmonkey
-apache-commons-collections4
 apache-commons-configuration
 apache-commons-digester
 apache-commons-exec
@@ -260,7 +259,6 @@ audacious
 audex
 audiotube
 auditwheel
-augeas
 aunit
 auriferous
 auryn
@@ -521,7 +519,6 @@ cantoolz
 can-utils
 capnproto
 capstats
-capstone
 carat
 CardManager
 c-ares
@@ -596,7 +593,6 @@ cjdns
 cjson
 cjs
 ckeditor
-ckermit
 cksfv
 clamav
 clamav-unofficial-sigs
@@ -865,7 +861,6 @@ davix
 dav1d
 dayplanner
 dbench
-dbus-broker
 dbus-c++
 dbus-glib
 dbus-parsec
@@ -881,7 +876,6 @@ dconf-editor
 dconf
 dcw-gmt
 dc3dd
-Error pulling 'ddate'
 ddate
 ddccontrol-db
 ddccontrol
@@ -1984,7 +1978,6 @@ ghc-silently
 ghc-simple-cabal
 ghc-simple-cmd
 ghc-split
-ghc-srpm-macros
 ghc-streaming-commons
 ghc-syb
 ghc-terminal-size
@@ -2049,7 +2042,6 @@ gio-sharp
 gip
 gir-to-d
 git-archive-all
-git-autofixup
 git-cinnabar
 git-crypt
 git-evtag
@@ -2128,7 +2120,6 @@ gnatcoll-bindings
 gnatcoll-db
 gnatcoll
 gnat-srpm-macros
-gnome-applets
 gnome-autoar
 gnome-backgrounds
 gnome-battery-bench
@@ -2158,7 +2149,6 @@ gnome-do
 gnome-epub-thumbnailer
 gnome-extensions-app
 gnome-feeds
-gnome-flashback
 gnome-font-viewer
 gnome-hexgl
 gnome-characters
@@ -2183,7 +2173,6 @@ gnome-music
 gnome-nettool
 gnome-network-displays
 gnome-nibbles
-gnome-panel
 gnome-password-generator
 gnome-photos
 gnome-pomodoro
@@ -2213,7 +2202,6 @@ gnome-shell-extension-refresh-wifi
 gnome-shell-extensions
 gnome-shell-extension-suspend-button
 gnome-shell-extension-unite
-gnome-shell-extension-vertical-overview
 gnome-shell-frippery
 gnome-shell
 gnome-shell-theme-flat-remix
@@ -2283,6 +2271,7 @@ golang-contrib-opencensus-exporter-stackdriver
 golang-contrib-opencensus-integrations-ocsql
 golang-contrib-opencensus-resource
 golang-deepin-go-lib
+Error pulling 'golang-entgo-ent'
 golang-entgo-ent
 golang-etcd-bbolt
 golang-filippo-edwards25519
@@ -2299,6 +2288,7 @@ golang-github-adalogics-fuzz-headers
 golang-github-adrg-xdg
 golang-github-adrianmo-nmea
 golang-github-aead-chacha20
+Error pulling 'golang-github-aead-poly1305'
 golang-github-aead-poly1305
 golang-github-afex-hystrix
 golang-github-agext-levenshtein
@@ -2391,6 +2381,7 @@ golang-github-bettercap-gatt
 golang-github-bettercap-nrf24
 golang-github-bettercap-readline
 golang-github-bettercap-recording
+golang-github-bgentry-netrc
 golang-github-bgentry-speakeasy
 golang-github-bifurcation-mint
 golang-github-bitly-simplejson
@@ -2878,7 +2869,6 @@ golang-github-jsimonetti-rtnetlink
 golang-github-json-iterator
 golang-github-jsonnet-bundler
 golang-github-jtolds-gls
-Error pulling 'golang-github-juju-ratelimit'
 golang-github-juju-ratelimit
 golang-github-julienschmidt-httprouter
 golang-github-jwt
@@ -3360,7 +3350,6 @@ golang-github-stretchr-testify
 golang-github-subosito-gotenv
 golang-github-syndtr-gocapability
 golang-github-syndtr-goleveldb
-golang-github-tarm-serial
 golang-github-task
 golang-github-tdewolff-minify
 golang-github-tdewolff-parse
@@ -3907,7 +3896,6 @@ ht-alegreya-fonts
 ht-alegreya-sans-fonts
 htmlcxx
 htmltest
-html401-dtds
 htop
 htppu
 htslib
@@ -3929,10 +3917,8 @@ hunspell-ga
 hwinfo
 hw-probe
 hxtools
-hydrapaper
 hydra
 hydrogen
-Error pulling 'hyena'
 hyena
 hylafax+
 hyperestraier
@@ -4034,7 +4020,6 @@ inertiablast
 infinipath-psm
 inchi
 inih
-iniparser
 ini2toml
 inkscape-psd
 innoextract
@@ -4057,7 +4042,6 @@ intel-mediasdk
 intel-mpi-benchmarks
 intel-opencl-clang
 intel-undervolt
-intltool
 inxi
 ioc-writer
 iodine
@@ -4168,7 +4152,6 @@ jconvolver
 jc
 jdependency
 jd
-jdupes
 jed
 jemalloc
 jericho-html
@@ -4668,7 +4651,6 @@ k3guitune
 k4dirstat
 labiryntowy-fonts
 LabPlot
-labwc
 la-capitaine-cursor-theme
 la-capitaine-icon-theme
 lacewing
@@ -4850,10 +4832,8 @@ libesmtp
 libetnaviv
 libevdevPlus
 libevent
-libev
 libewf
 libexif
-libfaketime
 libfc14audiodecoder
 libfep
 libffado
@@ -5109,7 +5089,6 @@ libretro-nestopia
 libretro-pcsx-rearmed
 libretro-prosystem
 libretro-stella2014
-librhsm
 librsvg2
 librsync
 librs232
@@ -5156,7 +5135,6 @@ libst2205
 libsysstat
 libs3
 libtar
-libtasn1
 libtcd
 libteam
 libtelnet
@@ -5351,6 +5329,7 @@ lollypop
 lookup
 loook
 lordsawar
+Error pulling 'loupe'
 lout
 lovelock-backgrounds
 lovelock-kde-theme
@@ -5399,7 +5378,6 @@ lv2-vocoder-plugins
 lv2-x42-plugins
 lwp
 lwtools
-lxappearance-obconf
 lxappearance
 lxcfs
 lxc
@@ -5466,7 +5444,6 @@ mallard-rng
 maloc
 mame
 manafirewall
-mandoc
 manedit
 mangohud
 man-pages-ja
@@ -5659,12 +5636,12 @@ mingw-gsm
 mingw-gstreamer1-plugins-bad-free
 mingw-gstreamer1-plugins-base
 mingw-gstreamer1-plugins-good
-mingw-gstreamer1
 mingw-gtkmm24
 mingw-gtkmm30
 mingw-gtksourceview3
 mingw-gtk2
 mingw-gtk3
+Error pulling 'mingw-gtk4'
 mingw-hamlib
 mingw-harfbuzz
 mingw-headers
@@ -5771,7 +5748,6 @@ mingw-python-qt5
 mingw-python-setuptools
 mingw-python-shapely
 mingw-python-six
-Error pulling 'mingw-python-tomli'
 mingw-python-tomli
 mingw-python-urllib3
 mingw-python-werkzeug
@@ -5863,7 +5839,6 @@ mkbootdisk
 mk-files
 mkosi-initrd
 mkosi
-mkosi14
 mkrdns
 mktorrent
 mle
@@ -5937,7 +5912,6 @@ moose
 mopac
 mopac7
 mopidy-mpd
-Error pulling 'mopidy'
 mopidy
 moreutils
 morphio
@@ -5975,7 +5949,6 @@ mp3fs
 mp3gain
 mqttcli
 mqtt-randompub
-mraa
 mrcpp
 mrchem
 mrpt
@@ -5998,7 +5971,6 @@ mt-st
 mtx
 mudita24
 muffin
-mujs
 multicat
 multilib-rpm-config
 multimarkdown
@@ -6047,7 +6019,6 @@ nagios
 nanomsg
 nanovna-saver
 nant
-nasm
 nas
 nativejit
 nats-server
@@ -6139,6 +6110,7 @@ NetworkManager-vpnc
 neuron
 newlisp
 newsbeuter
+Error pulling 'newsboat'
 newsboat
 newscache
 new-session-manager
@@ -6156,6 +6128,7 @@ nfoview
 nfsometer
 NFStest
 nfs-utils
+Error pulling 'nfswatch'
 nfswatch
 nfs4-acl-tools
 nginx-mod-naxsi
@@ -6259,7 +6232,6 @@ nv-codec-headers
 nvidia-query-resource-opengl
 nvidia-texture-tools
 nvme-cli
-nvme-stas
 nvmetcli
 nvml
 nwg-launchers
@@ -6450,7 +6422,6 @@ opensmtpd
 openspecfun
 opensp
 openssh-ldap-authkeys
-openssh
 openssl-gost-engine
 openssl-ibmca
 openssl-ibmpkcs11
@@ -7179,7 +7150,6 @@ perl-Git-Wrapper
 perl-Glib
 perl-Gnome2-Canvas
 perl-Gnome2-GConf
-Error pulling 'perl-Gnome2'
 perl-Gnome2
 perl-Gnome2-Vte
 perl-GnuPG-Interface
@@ -8550,7 +8520,6 @@ pkgconf
 pkgdiff
 plank
 plantumlqeditor
-plantuml
 plasma-applet-translator
 plasma-applet-weather-widget
 plasma-breeze
@@ -8601,7 +8570,6 @@ plymouth-kcm
 plymouth
 plymouth-theme-breeze
 plymouth-theme-hot-dog
-pmix
 pmount
 pnglite
 pnm2ppa
@@ -8616,7 +8584,6 @@ poezio
 pogo
 pokerth
 polari
-polarsys-b612-fonts
 polkit-gnome
 polkit-kde
 polkit-qt
@@ -8656,7 +8623,6 @@ powermanga
 powertop
 powwow
 poxml
-po4a
 ppp
 pptpd
 pptp
@@ -9257,7 +9223,6 @@ python-diskcache
 python-distlib
 python-distroinfo
 python-distutils-extra
-Error pulling 'python-django-ajax-selects'
 python-django-ajax-selects
 python-django-allauth
 python-django-angular
@@ -9578,7 +9543,6 @@ python-hdate
 python-hdf5storage
 python-healpy
 python-heatclient
-python-helpdev
 python-hexdump
 python-hgapi
 python-hgdistver
@@ -9900,7 +9864,6 @@ python-ndg_httpsclient
 python-neatdend
 python-neovim
 python-nessus-file-reader
-python-nest-asyncio
 python-netapp-lib
 python-netdata
 python-netdisco
@@ -10103,6 +10066,7 @@ python-prov
 python-psycogreen
 python-psycopg3
 python-ptrace
+Error pulling 'python-ptyprocess'
 python-ptyprocess
 python-publicsuffix2
 python-pudb
@@ -10480,7 +10444,6 @@ python-simplebayes
 python-simpleeval
 python-simplegeneric
 python-simplejson
-python-simpleparse
 python-simple-salesforce
 python-simplevisor
 python-singledispatch
@@ -10783,7 +10746,6 @@ python-wsaccel
 python-wsgi_intercept
 python-WSGIProxy2
 python-wsproto
-python-wstool
 python-ws4py
 python-wtforms
 python-wtf-peewee
@@ -11457,9 +11419,6 @@ rply
 rpmdeplint
 rpm-git-tag-sort
 rpmgrill
-rpminspect-data-centos
-rpminspect-data-fedora
-rpminspect
 rpm-mpi-hooks
 rpmorphan
 rpmreaper
@@ -11612,7 +11571,6 @@ rtlsdr-scanner
 rtl-sdr
 rtl-wmbus
 rtl-433
-Error pulling 'rtmidi'
 rtmidi
 R-tmvnsim
 rtorrent
@@ -12004,6 +11962,7 @@ rust-float-ord
 rust-fluent-bundle
 rust-fluent-langneg
 rust-fluent
+Error pulling 'rust-fluent-syntax'
 rust-fluent-syntax
 rust-flume
 rust-fn-error-context
@@ -12049,7 +12008,6 @@ rust-git-version
 rust-git2-curl
 rust-git2
 rust-git2_0.13
-rust-glam
 rust-gl_generator
 rust-globset
 rust-glob
@@ -12184,7 +12142,6 @@ rust-libhandy
 rust-libhandy-sys
 rust-libmount
 rust-libm
-Error pulling 'rust-liboverdrop'
 rust-liboverdrop
 rust-libpulse-binding
 rust-libpulse-sys
@@ -12409,6 +12366,7 @@ rust-rand_core
 rust-rand_core0.3
 rust-rand_core0.4
 rust-rand_core0.5
+Error pulling 'rust-rand_distr'
 rust-rand_distr
 rust-rand_hc
 rust-rand_hc0.1
@@ -12573,7 +12531,6 @@ rust-smol_str
 rust-snafu-derive
 rust-snafu
 rust-socket2
-rust
 rust-spin_on
 rust-spki
 rust-ssh-key-dir
@@ -12656,7 +12613,6 @@ rust-toml_edit
 rust-toml
 rust-toml0.4
 rust-tpm2-policy
-Error pulling 'rust-transpose'
 rust-tree-sitter
 rust-trust-dns-proto
 rust-trust-dns-resolver
@@ -12795,7 +12751,6 @@ R-xml2
 R-xopen
 R-xtable
 R-XVector
-rxvt-unicode
 R-yaml
 rygel
 R-zeallot
@@ -12943,7 +12898,6 @@ sheepdog
 shelldap
 shellinabox
 shellz
-shhgit
 shigofumi
 shim
 shim-unsigned-aarch64
@@ -13122,7 +13076,6 @@ spacefm
 spacenavd
 spamassassin-dqs
 spamassassin-iXhash2
-spamassassin
 spampd
 sparkleshare
 sparsehash
@@ -13368,7 +13321,6 @@ task-spooler
 taxipilot
 taxi
 tayga
-tboot
 tcalc
 tcd-utils
 tclap
@@ -13685,7 +13637,6 @@ unuran
 unzoo
 uperf
 up-imapproxy
-upm
 upslug2
 uptimed
 urdfdom-headers
@@ -13702,6 +13653,7 @@ ursa-major
 usbauth-notifier
 usbauth
 usbmon
+Error pulling 'usbsniff'
 usbsniff
 usbtop
 usnic-tools
@@ -13939,6 +13891,7 @@ wineglass
 wine-mono
 wine
 winetricks
+Error pulling 'winpdb'
 winpdb
 wipe
 wireguard-tools
@@ -14047,6 +14000,7 @@ xdg-user-dirs-gtk
 xdg-user-dirs
 xdialog
 xdotool
+Error pulling 'xdpyinfo'
 xdpyinfo
 xdrawchem
 xedit

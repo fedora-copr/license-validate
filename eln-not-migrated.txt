@@ -6,13 +6,11 @@ a52dec
 accountsservice
 adcli
 adobe-afdko
-apache-commons-collections4
 apache-commons-exec
 apr
 apr-util
 astyle
 atkmm
-augeas
 autoconf-archive
 autoconf213
 autofs
@@ -29,7 +27,6 @@ byacc
 byteman
 c-ares
 cachefilesd
-capstone
 cereal
 cheese
 clevis-pin-tpm2
@@ -44,7 +41,6 @@ cscope
 cups-pk-helper
 cyrus-imapd
 dav1d
-dbus-broker
 dbus-glib
 dconf
 dconf-editor
@@ -115,7 +111,6 @@ gdk-pixbuf2
 geoclue2
 geocode-glib
 gflags
-ghc-srpm-macros
 giflib
 gjs
 glade
@@ -172,9 +167,7 @@ httpd
 i2c-tools
 iio-sensor-proxy
 ima-evm-utils
-iniparser
 intel-cmt-cat
-intltool
 iperf3
 iprutils
 iptraf-ng
@@ -184,6 +177,8 @@ iscsi-initiator-utils
 isns-utils
 iw
 jansson
+java-11-openjdk
+java-11-openjdk-portable
 java-17-openjdk
 java-17-openjdk-portable
 jbigkit
@@ -220,9 +215,7 @@ libdvdnav
 libdvdread
 libeconf
 libell
-libev
 libevent
-libfaketime
 libffi
 libfprint
 libgee
@@ -257,7 +250,6 @@ libportal
 libqmi
 libqrtr-glib
 librabbitmq
-librhsm
 librsvg2
 libsass
 libsecret
@@ -268,7 +260,6 @@ libsmbios
 libsmi
 libspectre
 libsrtp
-libtasn1
 libteam
 libtheora
 libtiff
@@ -303,7 +294,6 @@ ltrace
 lvm2
 lzo
 mallard-rng
-mandoc
 mariadb
 maven-shade-plugin
 maven-verifier-plugin
@@ -331,7 +321,6 @@ multilib-rpm-config
 munge
 mutt
 mutter
-nasm
 ncurses
 ndctl
 netpbm
@@ -362,7 +351,6 @@ openldap
 openmpi
 opensm
 opensp
-openssh
 opus
 orc
 os-prober
@@ -375,9 +363,7 @@ pipewire
 pkgconf
 plotutils
 plymouth
-pmix
 pnm2ppa
-po4a
 poppler
 poppler-data
 popt
@@ -466,7 +452,6 @@ rrdtool
 rteval
 rteval-loads
 ruby
-rust
 rust-coreos-installer
 s-nail
 sanlock
@@ -492,7 +477,6 @@ socat
 softhsm
 sound-theme-freedesktop
 soundtouch
-spamassassin
 spice-protocol
 spice-vdagent
 squashfs-tools
@@ -514,7 +498,6 @@ system-config-printer
 systemtap
 taglib
 targetcli
-tboot
 texlive
 thermald
 tk

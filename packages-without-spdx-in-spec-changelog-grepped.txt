@@ -721,7 +721,6 @@ cjdns
 cjson
 cjs
 ckeditor
-ckermit
 cksfv
 clamav
 clamav-unofficial-sigs
@@ -1061,7 +1060,6 @@ davix
 dav1d
 dayplanner
 dbench
-dbus-broker
 dbus-c++
 dbus-glib
 dbus-parsec
@@ -2607,7 +2605,6 @@ ghc-rfc5051
 ghc-rio-prettyprint
 ghc-rio
 ghc-rosezipper
-ghc-rpm-macros
 ghc-rpm-nvr
 ghc-RSA
 ghc-SafeSemaphore
@@ -2643,7 +2640,6 @@ ghc-socks
 ghc-sourcemap
 ghc-spdx
 ghc-split
-ghc-srpm-macros
 ghc-StateVar
 ghc-stm-chans
 ghc-STMonadTrans
@@ -3040,7 +3036,6 @@ gnome-shell-extension-screen-autorotate
 gnome-shell-extensions
 gnome-shell-extension-suspend-button
 gnome-shell-extension-unite
-gnome-shell-extension-vertical-overview
 gnome-shell-extension-vertical-workspaces
 gnome-shell-frippery
 gnome-shell
@@ -3250,6 +3245,7 @@ golang-github-bettercap-gatt
 golang-github-bettercap-nrf24
 golang-github-bettercap-readline
 golang-github-bettercap-recording
+golang-github-bgentry-netrc
 golang-github-bgentry-speakeasy
 golang-github-bifurcation-mint
 golang-github-bitly-simplejson
@@ -4350,7 +4346,6 @@ golang-github-stretchr-testify
 golang-github-subosito-gotenv
 golang-github-syndtr-gocapability
 golang-github-syndtr-goleveldb
-golang-github-tarm-serial
 golang-github-task
 golang-github-tdewolff-minify
 golang-github-tdewolff-parse
@@ -5010,7 +5005,6 @@ ht-alegreya-fonts
 ht-alegreya-sans-fonts
 htmlcxx
 htmltest
-html401-dtds
 htop
 htppu
 htslib
@@ -5161,7 +5155,6 @@ inertiablast
 infinipath-psm
 inchi
 inih
-iniparser
 ini2toml
 inkscape-psd
 innoextract
@@ -5187,7 +5180,6 @@ intel-mpi-benchmarks
 intelone-mono-fonts
 intel-opencl-clang
 intel-undervolt
-intltool
 inxi
 ioc-writer
 iodine
@@ -5661,6 +5653,7 @@ kf5
 kf5-syndication
 kf5-syntax-highlighting
 kf5-threadweaver
+kf6-bluez-qt
 kf6
 kgamma
 kget
@@ -6103,7 +6096,6 @@ libetonyek
 libetpan
 libevdevPlus
 libevent
-libev
 libewf
 libexif
 libexttextcat
@@ -6453,7 +6445,6 @@ libretro-pcsx-rearmed
 libretro-prosystem
 libretro-stella2014
 librevenge
-librhsm
 librist
 librsvg2
 librsync
@@ -6811,7 +6802,6 @@ lv2-vocoder-plugins
 lv2-x42-plugins
 lwp
 lwtools
-lxappearance-obconf
 lxappearance
 lxcfs
 lxc
@@ -6892,7 +6882,6 @@ maloc
 mame
 manafirewall
 man-db
-mandoc
 manedit
 mangohud
 man-pages-ja
@@ -6935,6 +6924,7 @@ mate-polkit
 mate-power-manager
 materia-gtk-theme
 materia-kde
+material-icons-fonts
 mate-screensaver
 mate-sensors-applet
 mate-session-manager
@@ -7534,7 +7524,6 @@ mp3fs
 mp3gain
 mqttcli
 mqtt-randompub
-mraa
 mrack
 mrcpp
 mrchem
@@ -7561,7 +7550,6 @@ mtx
 mt32emu
 mudita24
 muffin
-mujs
 multicat
 multi-git-status
 multilib-rpm-config
@@ -7628,7 +7616,6 @@ nanopb
 nanosvg
 nanovna-saver
 nant
-nasm
 nas
 nativefiledialog-extended
 nativejit
@@ -7896,6 +7883,7 @@ obs-service-recompress
 obs-service-rust2rpm
 obs-service-set_version
 obs-service-tar_scm
+obs-studio-plugin-vkcapture
 obs-studio-plugin-webkitgtk
 obs-studio
 ocaml-alcotest
@@ -8161,7 +8149,6 @@ opensmtpd
 openspecfun
 opensp
 openssh-ldap-authkeys
-openssh
 openssl-gost-engine
 openssl-ibmca
 openssl-ibmpkcs11
@@ -8189,6 +8176,7 @@ openzwave
 open62541
 ophcrack
 optee_client
+optee_os
 optimizer
 options
 optipng
@@ -11447,7 +11435,6 @@ plymouth
 plymouth-theme-breeze
 plymouth-theme-hot-dog
 pmbootstrap
-pmix
 pmount
 pngcheck
 pnglite
@@ -12701,6 +12688,7 @@ python-cherrypy
 python-chirpstack-api
 python-chm
 python-ibm-vpc
+python-icmplib
 python-icoextract
 python-idna
 python-idna-ssl
@@ -13012,7 +13000,6 @@ python-moreorless
 python-moss
 python-mozilla-django-oidc
 python-mpd
-python-mpd2
 python-mplcairo
 python-mplcursors
 python-mpmath
@@ -13398,6 +13385,7 @@ python-pygiftiio
 python-PyGithub
 python-pygit2
 python-pygments-better-html
+python-pygments-git
 python-pygments-markdown-lexer
 python-pygments-pytest
 python-pygments-style-solarized
@@ -13822,7 +13810,6 @@ python-simplebayes
 python-simpleeval
 python-simplegeneric
 python-simplejson
-python-simpleparse
 python-simple-rlp
 python-simple-salesforce
 python-simplevisor
@@ -14201,7 +14188,6 @@ python-wsaccel
 python-wsgi_intercept
 python-WSGIProxy2
 python-wsproto
-python-wstool
 python-ws4py
 python-wtforms
 python-wtforms-sqlalchemy
@@ -14965,8 +14951,6 @@ rpmdistro-repoquery
 rpm-git-tag-sort
 rpmgrill
 rpm-head-signing
-rpminspect-data-centos
-rpminspect-data-fedora
 rpminspect
 rpm-mpi-hooks
 rpmorphan
@@ -15200,6 +15184,7 @@ rust-ansi_colours
 rust-ansi-str
 rust-ansitok
 rust-anstream
+rust-anstream0.3
 rust-anstyle-parse
 rust-anstyle-query
 rust-anstyle
@@ -15735,6 +15720,7 @@ rust-gdk4-x11
 rust-gdk4-x11-sys
 rust-gdk4_0.6
 rust-gethostname
+rust-gethostname0.2
 rust-getch
 rust-getopts
 rust-getrandom
@@ -15758,6 +15744,7 @@ rust-git2
 rust-git2_0.13
 rust-git2_0.14
 rust-git2_0.16
+rust-git2_0.17
 rust-gix-actor
 rust-gix-attributes
 rust-gix-bitmap
@@ -15772,19 +15759,22 @@ rust-gix-hash
 rust-gix-hashtable
 rust-gix-chunk
 rust-gix-ignore
+rust-gix-lock
 rust-gix-mailmap
 rust-gix-object
 rust-gix-packetline
 rust-gix-path
+rust-gix-prompt
 rust-gix-quote
+rust-gix-revision
 rust-gix-revwalk
 rust-gix-sec
 rust-gix-tempfile
 rust-gix-trace
+rust-gix-traverse
 rust-gix-url
 rust-gix-utils
 rust-gix-validate
-rust-glam
 rust-gl_generator
 rust-glib-build-tools
 rust-glib-macros0.15
@@ -16006,14 +15996,17 @@ rust-libcryptsetup-rs
 rust-libcryptsetup-rs-sys
 rust-libcryptsetup-rs0.8
 rust-libc
+rust-libcst_derive
 rust-libdbus-sys
 rust-libgit2-sys
 rust-libgit2-sys0.12
 rust-libgit2-sys0.13
 rust-libgit2-sys0.14
+rust-libgit2-sys0.15
 rust-libgweather
 rust-libhandy
 rust-libhandy-sys
+rust-libheif-rs
 rust-libheif-sys
 rust-libmimalloc-sys
 rust-libmount
@@ -16218,6 +16211,7 @@ rust-parking_lot0.11
 rust-parking
 rust-parsec-client
 rust-parsec-interface
+rust-partition-identity0.2
 rust-pasetors
 rust-password-hash
 rust-password-hash0.3
@@ -16324,6 +16318,7 @@ rust-proc-macro-error
 rust-proc-macro-hack
 rust-proc-macro2
 rust-proc-macro2-0.4
+rust-proc-mounts0.2
 rust-prodash
 rust-progpool
 rust-prometheus-client-derive-encode
@@ -16621,7 +16616,6 @@ rust-snphost
 rust-socket2
 rust-socket2_0.4
 rust-spdx
-rust
 rust-speedate
 rust-spin_on
 rust-spki
@@ -16696,6 +16690,7 @@ rust-termcolor
 rust-terminal-light
 rust-terminal_size
 rust-terminal_size0.1
+rust-terminal_size0.2
 rust-termion1
 rust-term_size
 rust-term
@@ -16952,7 +16947,6 @@ R-xml2
 R-xopen
 R-xtable
 R-XVector
-rxvt-unicode
 R-yaml
 rygel
 R-zeallot
@@ -17129,7 +17123,6 @@ shell-color-prompt
 shelldap
 shellinabox
 shellz
-shhgit
 shigofumi
 shim
 shim-unsigned-aarch64
@@ -17335,7 +17328,6 @@ spacefm
 spacenavd
 spamassassin-dqs
 spamassassin-iXhash2
-spamassassin
 spampd
 spandsp
 sparkleshare
@@ -17621,7 +17613,6 @@ taxipilot
 taxi
 tayga
 tbb2020.3
-tboot
 tcalc
 tcd-utils
 tclap
@@ -17979,7 +17970,6 @@ unzboot
 unzoo
 uperf
 up-imapproxy
-upm
 upower
 upslug2
 uptimed

@@ -122,6 +122,7 @@ apache-commons-beanutils
 apache-commons-cli
 apache-commons-codec
 apache-commons-collections
+apache-commons-collections4
 apache-commons-compress
 apache-commons-configuration
 apache-commons-io
@@ -235,6 +236,7 @@ audacity
 audiocd-kio
 audiofile
 audit
+augeas
 authselect
 autoconf
 autodocksuite
@@ -400,6 +402,7 @@ canl-c
 canl-java
 cantata
 cantor
+capstone
 carat
 cargo2rpm
 casc
@@ -449,6 +452,7 @@ cjkuni-ukai-fonts
 cjkuni-uming-fonts
 cjose
 ckb-next
+ckermit
 ck
 clamtk
 clamz
@@ -633,6 +637,7 @@ dateutils
 datovka
 dbh
 dblatex
+dbus-broker
 dbusmenu-qt
 dbus-python
 dbus
@@ -1588,6 +1593,7 @@ ghc-sourcemap
 ghc-spdx
 ghc
 ghc-split
+ghc-srpm-macros
 ghc-StateVar
 ghc-statistics
 ghc-stm-chans
@@ -1715,6 +1721,7 @@ gimp-help
 gimp
 girara
 git-annex
+git-autofixup
 git-cola
 git-credential-azure
 git-credential-oauth
@@ -1811,6 +1818,7 @@ gnet2
 gnofract4d
 gnokii
 gnome-abrt
+gnome-applets
 gnome-backgrounds
 gnome-bluetooth
 gnome-boxes
@@ -1826,6 +1834,7 @@ gnome-control-center
 gnome-disk-utility
 gnome-doc-utils
 gnome-firmware
+gnome-flashback
 gnome-font-viewer
 gnome-characters
 gnome-chess
@@ -1835,6 +1844,7 @@ gnome-maps
 gnome-nibbles
 gnome-online-accounts
 gnome-packagekit
+gnome-panel
 gnome-phone-manager
 gnome-photos
 gnome-pkg-tools
@@ -2023,7 +2033,6 @@ golang-github-google-go-github
 golang-github-google-nftables
 golang-github-google-renameio-2
 golang-github-google-shlex
-golang-github-google-slothfs
 golang-github-google-trillian
 golang-github-google-uuid
 golang-github-gophercloud-utils
@@ -2127,6 +2136,7 @@ golang-github-nathan-osman-sunrise
 golang-github-nats-io-jwt-2
 golang-github-nats-io
 golang-github-nats-io-stan
+golang-github-nats-io-streaming-server
 golang-github-need-being-tree
 golang-github-nilslice-protolock
 golang-github-nkovacs-streamquote
@@ -2483,6 +2493,7 @@ hstsparser
 ht-alegreya-fonts
 ht-alegreya-sans-fonts
 html2ps
+html401-dtds
 httpcomponents-client
 httpcomponents-core
 httpcomponents-project
@@ -2616,6 +2627,7 @@ hut
 hwdata
 hwk
 hwloc
+hydrapaper
 hyperhdr
 hyperv-daemons
 hyphen-as
@@ -2719,6 +2731,7 @@ iir1
 ii
 imagej
 imath
+imgp
 imhex
 im-chooser
 iml
@@ -2734,6 +2747,7 @@ indistarter
 indi-3rdparty-drivers
 indi-3rdparty-libraries
 inih
+iniparser
 initial-setup
 initscripts
 inkscape
@@ -2745,6 +2759,7 @@ intel-clear-sans-fonts
 intel-ipp-crypto-mb
 intel-ipsec-mb
 intelone-mono-fonts
+intltool
 inxi
 Io-language
 iotop-c
@@ -2822,6 +2837,7 @@ jdepend
 jdns
 jdom
 jdom2
+jdupes
 jedit
 jello
 jetbrains-annotations
@@ -2906,6 +2922,7 @@ kexi
 keycloak-httpd-client-install
 keylime-agent-rust
 keyrings-filesystem
+kf6-bluez-qt
 kf6
 kgeography
 kgraphviewer
@@ -2958,6 +2975,7 @@ kurdit-unikurd-web-fonts
 kvantum
 kyotocabinet
 k3b
+labwc
 ladspa-autotalent-plugins
 ladvd
 lagrange
@@ -2966,6 +2984,7 @@ langpacks
 langtable
 lapack
 lash
+lastpass-cli
 last-resort-fonts
 laszip
 latexmk
@@ -3061,11 +3080,13 @@ libestr
 libetonyek
 libetpan
 libevdev
+libev
 libexif
 libextractor
 libexttextcat
 libfabric
 libfakekey
+libfaketime
 libfastjson
 libfido2
 libfilezilla
@@ -3247,6 +3268,7 @@ libre
 libreswan
 libretls
 librevenge
+librhsm
 librime
 librist
 librsync
@@ -3290,6 +3312,7 @@ libstorj
 libsvm
 libsv
 libtalloc
+libtasn1
 libtdb
 libtevent
 libthai
@@ -3509,6 +3532,7 @@ luxcorerender
 lv
 lv2dynparam
 lv2-zynadd-plugins
+lxappearance-obconf
 lxappearance
 lxde-common
 lxi-tools
@@ -3544,6 +3568,7 @@ mailprocessing
 makemusic-finale-fonts
 make
 man-db
+mandoc
 manchu-fonts
 manifest-tool
 man-pages
@@ -3647,6 +3672,7 @@ mimedefang
 mimetex
 mindless
 mine_detector
+mingw-adwaita-icon-theme
 mingw-adwaita-qt
 mingw-binutils
 mingw-cairo
@@ -3660,6 +3686,10 @@ mingw-gettext
 mingw-glib-networking
 mingw-glib2
 mingw-gsettings-desktop-schemas
+mingw-gstreamer1-plugins-bad-free
+mingw-gstreamer1-plugins-base
+mingw-gstreamer1-plugins-good
+mingw-gstreamer1
 mingw-gtkmm30
 mingw-gtksourceviewmm3
 mingw-gtk4
@@ -3741,6 +3771,7 @@ mir
 mkfontscale
 mkosi-initrd
 mkosi
+mkosi14
 mksh
 mkvtoolnix
 mlir
@@ -3784,6 +3815,7 @@ monsterz
 moodle
 moolticute
 mooltipass-udev
+morphio
 motoya-lcedar-fonts
 motoya-lmaru-fonts
 mozc
@@ -3813,6 +3845,7 @@ mtr
 mt-st
 mtxclient
 mt32emu
+mujs
 multi-git-status
 multitail
 mupdf
@@ -3867,7 +3900,9 @@ nagi
 nanopb
 nano
 nanosvg
+nasm
 nativefiledialog-extended
+nats-server
 naturette
 nautilus
 nauty
@@ -3946,6 +3981,7 @@ numptyphysics
 numpy
 nuspell
 nut
+nvme-stas
 nvtop
 nwg-wrapper
 objectweb-asm
@@ -3959,6 +3995,7 @@ obs-service-download_files
 obs-service-set_version
 obs-service-tar_scm
 obs-signd
+obs-studio-plugin-vkcapture
 obs-studio-plugin-webkitgtk
 obs-studio
 ocaml-alcotest
@@ -4176,6 +4213,7 @@ opensc
 openshadinglanguage
 openshot
 openslp
+openssh
 openssl-ibmca
 openssl-pkcs11-sign-provider
 openssl-pkcs11
@@ -4190,6 +4228,7 @@ openvpn-otp
 openwsman
 openxr
 optee_client
+optee_os
 oqsprovider
 ORBit2
 orca
@@ -6198,6 +6237,7 @@ pkgtreediff
 planarity
 planets
 plantri
+plantuml
 plasma-dialer
 plasma-nano
 plasma-phonebook
@@ -6225,6 +6265,7 @@ pl
 plug
 pmars
 pmbootstrap
+pmix
 pngcrush
 pngcheck
 pngnq
@@ -6243,6 +6284,7 @@ polkit
 polyclipping
 polymake
 polyml
+pop-gtk-theme
 portmidi
 postfwd
 postgres-decoderbufs
@@ -6254,6 +6296,7 @@ powerline-go
 powerpc-utils
 power-profiles-daemon
 powerstat
+po4a
 ppc64-diag
 pplite
 ppl
@@ -6683,6 +6726,7 @@ python-hdfs
 python-hdmf
 python-healpy
 python-heapdict
+python-helpdev
 python-hid-parser
 python-httmock
 python-http-ece
@@ -6700,6 +6744,7 @@ python-chardet
 python-charset-normalizer
 python-ibm-cloud-sdk-core
 python-icalendar
+python-icmplib
 python-icoextract
 python-identify
 python-idna
@@ -6841,7 +6886,6 @@ python-mne-bids
 python-mock
 python-moddb
 python-molecule
-python-mpd2
 python-msal-extensions
 python-msal
 python-msrestazure
@@ -6867,6 +6911,7 @@ python-ncclient
 python-ndindex
 python-ndjson-testrunner
 python-neo
+python-nest-asyncio
 python-netaddr
 python-networkx
 python-neurodsp
@@ -6999,6 +7044,7 @@ python-pyfakefs
 python-pyfastnoisesimd
 python-PyGithub
 python-pyglet
+python-pygments-git
 python-pygments-pytest
 python-pygments
 python-pyhcl
@@ -7314,6 +7360,7 @@ python-xattr
 python-xcffib
 python-xkbcommon
 python-xmp-toolkit
+python-xnat
 python-xrst
 python-XStatic-Font-Awesome
 python-xword-dl
@@ -7572,6 +7619,9 @@ rpmconf
 rpmdevtools
 rpmdistro-repoquery
 rpm-head-signing
+rpminspect-data-centos
+rpminspect-data-fedora
+rpminspect
 rpmlint
 rpm-ostree
 rp-pppoe
@@ -8122,6 +8172,7 @@ rust-ansi_term
 rust-ansi_term0.11
 rust-ansitok
 rust-anstream
+rust-anstream0.3
 rust-anstyle-parse
 rust-anstyle-query
 rust-anstyle
@@ -8783,6 +8834,7 @@ rust-generic-array
 rust-generic-array0.12
 rust-genetlink
 rust-gethostname
+rust-gethostname0.2
 rust-getch
 rust-getopts
 rust-getrandom
@@ -8815,6 +8867,7 @@ rust-git2
 rust-git2_0.13
 rust-git2_0.14
 rust-git2_0.16
+rust-git2_0.17
 rust-gix-actor
 rust-gix-attributes
 rust-gix-bitmap
@@ -8829,19 +8882,22 @@ rust-gix-hash
 rust-gix-hashtable
 rust-gix-chunk
 rust-gix-ignore
+rust-gix-lock
 rust-gix-mailmap
 rust-gix-object
 rust-gix-packetline
 rust-gix-path
+rust-gix-prompt
 rust-gix-quote
+rust-gix-revision
 rust-gix-revwalk
 rust-gix-sec
 rust-gix-tempfile
 rust-gix-trace
+rust-gix-traverse
 rust-gix-url
 rust-gix-utils
 rust-gix-validate
-rust-glam
 rust-gl_generator
 rust-glib-build-tools
 rust-glib-macros
@@ -9125,6 +9181,7 @@ rust-libcryptsetup-rs
 rust-libcryptsetup-rs-sys
 rust-libcryptsetup-rs0.8
 rust-libc
+rust-libcst_derive
 rust-libdbus-sys
 rust-libflate_lz77
 rust-libflate
@@ -9132,9 +9189,11 @@ rust-libgit2-sys
 rust-libgit2-sys0.12
 rust-libgit2-sys0.13
 rust-libgit2-sys0.14
+rust-libgit2-sys0.15
 rust-libgweather
 rust-libhandy
 rust-libhandy-sys
+rust-libheif-rs
 rust-libheif-sys
 rust-libloading
 rust-libmimalloc-sys
@@ -9434,6 +9493,7 @@ rust-parsec-interface
 rust-parse-zoneinfo
 rust-partial-io
 rust-partition-identity
+rust-partition-identity0.2
 rust-pasetors
 rust-passwd
 rust-password-hash
@@ -9577,6 +9637,7 @@ rust-proc-macro2
 rust-proc-macro2-0.4
 rust-proc-maps
 rust-proc-mounts
+rust-proc-mounts0.2
 rust-procs
 rust-prodash
 rust-progpool
@@ -9941,6 +10002,7 @@ rust-socket2
 rust-socket2_0.4
 rust-sop
 rust-spdx
+rust
 rust-speedate
 rust-spin_on
 rust-spin
@@ -10037,6 +10099,7 @@ rust-term_grid
 rust-terminal-light
 rust-terminal_size
 rust-terminal_size0.1
+rust-terminal_size0.2
 rust-terminfo
 rust-termion
 rust-termion1
@@ -10370,6 +10433,7 @@ rust-z85
 rust2rpm
 R-winch
 rw
+rxvt-unicode
 rygel
 R-zoo
 saab-fonts
@@ -10541,6 +10605,7 @@ slirp4netns
 slock
 SLOF
 sl
+slurm
 smartmontools
 smatch
 smbldap-tools
@@ -10567,6 +10632,7 @@ soundkonverter
 source-foundry-hack-fonts
 source-highlight
 spacebar
+spamassassin
 spamass-milter
 spandsp
 spatialite-gui
@@ -10673,6 +10739,7 @@ taskflow
 taskopen
 tbb
 tbb2020.3
+tboot
 tcl
 tcpdump
 tcpick

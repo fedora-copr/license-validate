@@ -3751,7 +3751,6 @@ gnome-shell-extensions
 gnome-shell-extension-suspend-button
 gnome-shell-extension-system-monitor-applet
 gnome-shell-extension-unite
-gnome-shell-extension-vertical-overview
 gnome-shell-extension-vertical-workspaces
 gnome-shell-frippery
 gnome-shell
@@ -3978,6 +3977,7 @@ golang-github-bettercap-gatt
 golang-github-bettercap-nrf24
 golang-github-bettercap-readline
 golang-github-bettercap-recording
+golang-github-bgentry-netrc
 golang-github-bgentry-speakeasy
 golang-github-bifurcation-mint
 golang-github-bitly-simplejson
@@ -4342,7 +4342,6 @@ golang-github-google-renameio
 golang-github-google-renameio-2
 golang-github-google-replayers
 golang-github-google-shlex
-golang-github-google-slothfs
 golang-github-google-subcommands
 golang-github-google-trillian
 golang-github-google-uuid
@@ -5095,7 +5094,6 @@ golang-github-stretchr-testify
 golang-github-subosito-gotenv
 golang-github-syndtr-gocapability
 golang-github-syndtr-goleveldb
-golang-github-tarm-serial
 golang-github-task-slim-sprig
 golang-github-task
 golang-github-tdewolff-minify
@@ -6802,6 +6800,7 @@ kf5
 kf5-syndication
 kf5-syntax-highlighting
 kf5-threadweaver
+kf6-bluez-qt
 kf6
 kgamma
 kgeography
@@ -9097,7 +9096,6 @@ mp3fs
 mp3gain
 mqttcli
 mqtt-randompub
-mraa
 mrack
 mrbs
 mrcpp
@@ -9540,6 +9538,7 @@ obs-service-rust2rpm
 obs-service-set_version
 obs-service-tar_scm
 obs-signd
+obs-studio-plugin-vkcapture
 obs-studio-plugin-webkitgtk
 obs-studio
 ocaml-alcotest
@@ -9948,6 +9947,7 @@ openzwave
 open62541
 ophcrack
 optee_client
+optee_os
 optimizer
 options
 optipng
@@ -15324,6 +15324,7 @@ python-chm
 python-ibm-cloud-sdk-core
 python-ibm-vpc
 python-icalendar
+python-icmplib
 python-icoextract
 python-identify
 python-idna
@@ -15680,7 +15681,6 @@ python-moreorless
 python-moss
 python-mozilla-django-oidc
 python-mpd
-python-mpd2
 python-mplcairo
 python-mplcursors
 python-mpmath
@@ -16112,6 +16112,7 @@ python-PyGithub
 python-pygit2
 python-pyglet
 python-pygments-better-html
+python-pygments-git
 python-pygments-markdown-lexer
 python-pygments-pytest
 python-pygments
@@ -16581,7 +16582,6 @@ python-simpleeval
 python-simplegeneric
 python-simplejson
 python-simpleline
-python-simpleparse
 python-simple-rlp
 python-simple-salesforce
 python-simplevisor
@@ -17017,7 +17017,6 @@ python-wsaccel
 python-wsgi_intercept
 python-WSGIProxy2
 python-wsproto
-python-wstool
 python-ws4py
 python-wtforms
 python-wtforms-sqlalchemy
@@ -18621,6 +18620,7 @@ rust-ansi_term
 rust-ansi_term0.11
 rust-ansitok
 rust-anstream
+rust-anstream0.3
 rust-anstyle-parse
 rust-anstyle-query
 rust-anstyle
@@ -19288,6 +19288,7 @@ rust-generic-array
 rust-generic-array0.12
 rust-genetlink
 rust-gethostname
+rust-gethostname0.2
 rust-getch
 rust-getopts
 rust-getrandom
@@ -19320,6 +19321,7 @@ rust-git2
 rust-git2_0.13
 rust-git2_0.14
 rust-git2_0.16
+rust-git2_0.17
 rust-gix-actor
 rust-gix-attributes
 rust-gix-bitmap
@@ -19334,19 +19336,22 @@ rust-gix-hash
 rust-gix-hashtable
 rust-gix-chunk
 rust-gix-ignore
+rust-gix-lock
 rust-gix-mailmap
 rust-gix-object
 rust-gix-packetline
 rust-gix-path
+rust-gix-prompt
 rust-gix-quote
+rust-gix-revision
 rust-gix-revwalk
 rust-gix-sec
 rust-gix-tempfile
 rust-gix-trace
+rust-gix-traverse
 rust-gix-url
 rust-gix-utils
 rust-gix-validate
-rust-glam
 rust-gl_generator
 rust-glib-build-tools
 rust-glib-macros
@@ -19632,6 +19637,7 @@ rust-libcryptsetup-rs
 rust-libcryptsetup-rs-sys
 rust-libcryptsetup-rs0.8
 rust-libc
+rust-libcst_derive
 rust-libdbus-sys
 rust-libflate_lz77
 rust-libflate
@@ -19639,9 +19645,11 @@ rust-libgit2-sys
 rust-libgit2-sys0.12
 rust-libgit2-sys0.13
 rust-libgit2-sys0.14
+rust-libgit2-sys0.15
 rust-libgweather
 rust-libhandy
 rust-libhandy-sys
+rust-libheif-rs
 rust-libheif-sys
 rust-libloading
 rust-libmimalloc-sys
@@ -19943,6 +19951,7 @@ rust-parsec-interface
 rust-parse-zoneinfo
 rust-partial-io
 rust-partition-identity
+rust-partition-identity0.2
 rust-pasetors
 rust-passwd
 rust-password-hash
@@ -20086,6 +20095,7 @@ rust-proc-macro2
 rust-proc-macro2-0.4
 rust-proc-maps
 rust-proc-mounts
+rust-proc-mounts0.2
 rust-procs
 rust-prodash
 rust-progpool
@@ -20555,6 +20565,7 @@ rust-term_grid
 rust-terminal-light
 rust-terminal_size
 rust-terminal_size0.1
+rust-terminal_size0.2
 rust-terminfo
 rust-termion
 rust-termion1
@@ -21173,7 +21184,6 @@ shelldap
 ShellCheck
 shellinabox
 shellz
-shhgit
 shigofumi
 shim
 shim-unsigned-aarch64
@@ -22194,7 +22204,6 @@ unzip
 unzoo
 uperf
 up-imapproxy
-upm
 upower
 upslug2
 uptimed

@@ -501,6 +501,7 @@ guava
 guestfs-tools
 gutenprint
 gvfs
+gvisor-tap-vsock
 gzip
 hamcrest
 haproxy
@@ -755,6 +756,8 @@ jakarta-servlet
 jansi
 jansson
 jasper
+java-11-openjdk
+java-11-openjdk-portable
 java-17-openjdk
 java-17-openjdk-portable
 java-21-openjdk
@@ -897,6 +900,7 @@ libdatrie
 libdb
 libdbusmenu
 libdecor
+libdex
 libdmx
 libdnf
 libdrm
@@ -1002,6 +1006,7 @@ libopenraw
 liboqs
 libosinfo
 libotf
+libpanel
 libpaper
 libpcap
 libpciaccess
@@ -2308,7 +2313,6 @@ rust-indoc
 rust-inout
 rust-insta
 rust-instant
-rust-io-lifetimes
 rust-iovec
 rust-is-terminal
 rust-itertools
@@ -2326,7 +2330,6 @@ rust-libm
 rust-libz-sys
 rust-linked-hash-map
 rust-linux-raw-sys
-rust-linux-raw-sys0.3
 rust-llvm-bitcode
 rust-lock_api
 rust-log
@@ -2476,7 +2479,6 @@ rust-rustc-test
 rust-rustc_version
 rust-rustc_version0.3
 rust-rustix
-rust-rustix0.37
 rust-rustversion
 rust-rusty-fork
 rust-ryu
