@@ -703,7 +703,6 @@ cmrt
 coan
 cobbler
 cockatrice
-cockpit-file-sharing
 cockpit-machines
 cockpit-navigator
 cockpit-ostree
@@ -817,7 +816,6 @@ cppcodec
 cpp-httplib
 cppi
 cpp-jwt
-cppmyth
 cpprest
 cpptest
 cpptoml
@@ -1251,7 +1249,6 @@ edgar
 edg-gridftp-client
 edg-mkgridmap
 editres
-edk2
 edwin-fonts
 ed2k_hash
 ed25519-java
@@ -1308,7 +1305,6 @@ emacs-dockerfile-mode
 emacs-epc
 emacs-epl
 emacs-evil
-emacs-flycheck-pycheckers
 emacs-flycheck
 emacs-f
 emacs-goodies
@@ -1332,7 +1328,6 @@ emacs-rpm-spec-mode
 emacs-slime
 emacs-spice-mode
 emacs-s
-emacs-terraform-mode
 emacs-transient
 emacs-undo-tree
 emacs-with-editor
@@ -1822,6 +1817,7 @@ fvwm
 fwknop-gui
 fwknop
 fwts
+fxdiv
 fzf
 f2fs-tools
 f21-backgrounds
@@ -3649,7 +3645,6 @@ golang-github-thoas-funk
 golang-github-thoj-ircevent
 golang-github-tchap-patricia
 golang-github-tidwall-pretty
-golang-github-timewasted-linode
 golang-github-tinylib-msgp
 golang-github-tklauser-numcpus
 golang-github-tklauser-sysconf
@@ -3712,7 +3707,6 @@ golang-github-vmihailenco-tagparser-2
 golang-github-vmware-govmomi
 golang-github-vmware-vmw-guestinfo
 golang-github-vtolstov-ioctl
-golang-github-vultr-govultr
 golang-github-vultr-govultr-3
 golang-github-weppos-publicsuffix
 golang-github-wi2l-jettison
@@ -3872,8 +3866,10 @@ golang-k8s-sample-controller
 golang-k8s-utils
 golang-layeh-gopher-luar
 golang-lukechampine-uint128
+golang-modernc-ccgo-4
 golang-modernc-ccorpus2
 golang-modernc-cc-3
+golang-modernc-cc-4
 golang-modernc-ebnf
 golang-modernc-ebnfutil
 golang-modernc-fileutil
@@ -4233,7 +4229,6 @@ home-assistant-cli
 homebank
 honggfuzz
 horai-ume-fonts
-hostapd
 hostname
 hotspot
 hot-tux
@@ -4427,7 +4422,6 @@ iptraf-ng
 iptstate
 ipv6calc
 ipv6gen
-ipxe
 ipxripd
 ipython
 IP2Location
@@ -4833,6 +4827,7 @@ kf5-syndication
 kf5-syntax-highlighting
 kf5-threadweaver
 kf6-bluez-qt
+kf6-kquickcharts
 kf6
 kgamma
 kget
@@ -5479,7 +5474,6 @@ libpsm2
 libqalculate
 libQGLViewer
 libqmi
-libqrtr-glib
 libqtxdg
 libquentier
 libquvi-scripts
@@ -6004,8 +5998,8 @@ menulibre
 mepack
 mercurial
 merkaartor
+merkuro
 mesaflash
-mesa-libGLw
 meshbird
 meshlab
 meson
@@ -6763,6 +6757,7 @@ ocaml-uucp
 ocaml-uunf
 ocaml-uuseg
 ocaml-yaml
+ocean-sound-theme
 ocfs2-tools
 oci-cli
 oc-inject
@@ -7091,7 +7086,6 @@ pcsc-lite-asekey
 pcsc-perl
 pcsc-tools
 pcs
-pcsxr
 pdbg
 pdc-client
 pdd
@@ -7503,7 +7497,6 @@ perl-Data-Uniqid
 perl-Data-Validate-Domain
 perl-Data-Validate-IP
 perl-Data-Validate-Type
-perl-Date-Handler
 perl-Date-HolidayParser
 perl-Date-Holidays-DE
 perl-Date-ICal
@@ -7989,7 +7982,6 @@ perl-MogileFS-Client
 perl-MogileFS-Server
 perl-MogileFS-Utils
 perl-Mojo-DOM58
-perl-Mojo-IOLoop-ReadWriteProcess
 perl-Mojo-JWT
 perl-Mojolicious-Plugin-AssetPack
 perl-Mojolicious-Plugin-CHI
@@ -8330,7 +8322,6 @@ perl-SQL-ReservedWords
 perl-SQL-Shell
 perl-SQL-SplitStatement
 perl-SQL-Tokenizer
-perl-Starman
 perl-Statistics-Basic
 perl-Statistics-CaseResampling
 perl-Statistics-Contingency
@@ -9173,6 +9164,7 @@ plymouth-theme-hot-dog
 pmount
 pnglite
 pnm2ppa
+pocketfft
 pocketsphinx
 poco
 po-debconf
@@ -9590,6 +9582,7 @@ python-azure-mgmt-synapse
 python-azure-mgmt-trafficmanager
 python-azure-mgmt-web
 python-azure-storage-blob
+python-a2wsgi
 python-babelfish
 python-backcall
 python-backlash
@@ -10660,7 +10653,6 @@ python-opentelemetry-contrib
 python-opentracing
 python-opfunu
 python-opnsense
-python-optcomplete
 python-opytimark
 python-opytimizer
 python-op1repacker
@@ -10688,7 +10680,6 @@ python-osrf-pycommon
 python-os-service-types
 python-os-testr
 python-ouimeaux
-python-outcome
 python-outdated
 python-overpy
 python-ovh
@@ -10855,6 +10846,7 @@ python-pyfim
 python-pyftdi
 python-pygal
 python-pygatt
+python-pygdbmi
 python-pygeoip
 python-pyghmi
 python-pygiftiio
@@ -11236,7 +11228,6 @@ python-schema
 python-sievelib
 python-sieve
 python-signedjson
-python-simframe
 python-simpleaudio
 python-simplebayes
 python-simpleeval
@@ -11541,6 +11532,7 @@ python-walkdir
 python-waqiasync
 python-waterfurnace
 python-watchdog
+python-watchfiles
 python-watchgod
 python-wcwidth
 python-webcolors
@@ -12514,6 +12506,7 @@ rust-annotate-snippets
 rust-annotate-snippets0.6
 rust-ansi_colours
 rust-ansi-str
+rust-ansiterm
 rust-ansitok
 rust-anstream
 rust-anstream0.3
@@ -12842,6 +12835,7 @@ rust-decimal
 rust-defer-drop
 rust-deflate
 rust-deflate0.8
+rust-deflate64
 rust-deltae
 rust-deranged
 rust-der_derive
@@ -13081,7 +13075,9 @@ rust-gix-bitmap
 rust-gix-command
 rust-gix-commitgraph
 rust-gix-config-value
+rust-gix-credentials
 rust-gix-date
+rust-gix-diff
 rust-gix-features
 rust-gix-fs
 rust-gix-glob
@@ -13089,6 +13085,7 @@ rust-gix-hash
 rust-gix-hashtable
 rust-gix-chunk
 rust-gix-ignore
+rust-gix-index
 rust-gix-lock
 rust-gix-mailmap
 rust-gix-object
@@ -13096,6 +13093,8 @@ rust-gix-packetline
 rust-gix-path
 rust-gix-prompt
 rust-gix-quote
+rust-gix-ref
+rust-gix-refspec
 rust-gix-revision
 rust-gix-revwalk
 rust-gix-sec
@@ -13325,6 +13324,7 @@ rust-libcryptsetup-rs-sys
 rust-libcryptsetup-rs0.8
 rust-libc
 rust-libcst_derive
+rust-libcst
 rust-libdbus-sys
 rust-libgit2-sys
 rust-libgit2-sys0.12
@@ -14038,6 +14038,7 @@ rust-threadpool
 rust-thread-tree
 rust-tiff0.6
 rust-tiger
+rust-timeago
 rust-timebomb
 rust-time-core
 rust-time-macros-impl
@@ -15055,7 +15056,6 @@ touchegg
 toxcore
 tpm-tools
 tpm2-abrmd-selinux
-tpm2-abrmd
 tpm2-pkcs11
 tpm2-tools
 tpm2-tss
@@ -15468,7 +15468,6 @@ wike
 wiki2beamer
 wildmagic5
 wildmidi
-wimlib
 wine-dxvk
 wineglass
 wine-mono
@@ -15671,7 +15670,6 @@ xhtml2fo-style-xsl
 xchm
 xine-lib
 xiphos
-xkbcomp
 xkbset
 xkeyboard-config
 xkeycaps

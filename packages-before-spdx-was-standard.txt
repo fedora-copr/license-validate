@@ -651,7 +651,6 @@ cmrt
 coan
 cobbler
 cockatrice
-cockpit-file-sharing
 cockpit-machines
 cockpit-navigator
 cockpit-ostree
@@ -761,7 +760,6 @@ cppad
 cppcodec
 cpp-httplib
 cppi
-cppmyth
 cpprest
 cpptest
 cpptoml
@@ -1169,7 +1167,6 @@ edgar
 edg-gridftp-client
 edg-mkgridmap
 editres
-edk2
 ed2k_hash
 ed25519-java
 eegdev
@@ -1224,7 +1221,6 @@ emacs-dockerfile-mode
 emacs-epc
 emacs-epl
 emacs-evil
-emacs-flycheck-pycheckers
 emacs-flycheck
 emacs-f
 emacs-goodies
@@ -1248,7 +1244,6 @@ emacs-rpm-spec-mode
 emacs-slime
 emacs-spice-mode
 emacs-s
-emacs-terraform-mode
 emacs-transient
 emacs-undo-tree
 emacs-with-editor
@@ -2271,7 +2266,6 @@ golang-contrib-opencensus-exporter-stackdriver
 golang-contrib-opencensus-integrations-ocsql
 golang-contrib-opencensus-resource
 golang-deepin-go-lib
-Error pulling 'golang-entgo-ent'
 golang-entgo-ent
 golang-etcd-bbolt
 golang-filippo-edwards25519
@@ -2288,7 +2282,6 @@ golang-github-adalogics-fuzz-headers
 golang-github-adrg-xdg
 golang-github-adrianmo-nmea
 golang-github-aead-chacha20
-Error pulling 'golang-github-aead-poly1305'
 golang-github-aead-poly1305
 golang-github-afex-hystrix
 golang-github-agext-levenshtein
@@ -3365,7 +3358,6 @@ golang-github-thoas-funk
 golang-github-thoj-ircevent
 golang-github-tchap-patricia
 golang-github-tidwall-pretty
-golang-github-timewasted-linode
 golang-github-tinylib-msgp
 golang-github-tklauser-numcpus
 golang-github-tklauser-sysconf
@@ -3409,6 +3401,7 @@ golang-github-valyala-fasttemplate
 golang-github-valyala-tcplisten
 golang-github-vbatts-tar-split
 golang-github-viant-assertly
+Error pulling 'golang-github-viant-toolbox'
 golang-github-viant-toolbox
 golang-github-vincent-petithory-dataurl
 golang-github-vinyldns
@@ -3421,7 +3414,6 @@ golang-github-vivint-infectious
 golang-github-vmware-govmomi
 golang-github-vmware-vmw-guestinfo
 golang-github-vtolstov-ioctl
-golang-github-vultr-govultr
 golang-github-weppos-publicsuffix
 golang-github-xaionaro-atomicmap
 golang-github-xaionaro-metrics
@@ -3884,7 +3876,6 @@ home-assistant-cli
 homebank
 honggfuzz
 horai-ume-fonts
-hostapd
 hostname
 hotspot
 hot-tux
@@ -4065,7 +4056,6 @@ iptraf-ng
 iptstate
 ipv6calc
 ipv6gen
-ipxe
 ipxripd
 ipython
 IP2Location
@@ -4757,6 +4747,7 @@ libcacard
 libcaca
 libcamera
 libcanberra
+Error pulling 'libcangjie'
 libcangjie
 libcap
 libccd
@@ -5056,7 +5047,6 @@ libpsm2
 libqalculate
 libQGLViewer
 libqmi
-libqrtr-glib
 libqtxdg
 libquentier
 libquvi-scripts
@@ -5329,7 +5319,6 @@ lollypop
 lookup
 loook
 lordsawar
-Error pulling 'loupe'
 lout
 lovelock-backgrounds
 lovelock-kde-theme
@@ -5545,7 +5534,6 @@ menulibre
 mercurial
 merkaartor
 mesaflash
-mesa-libGLw
 meshbird
 meshlab
 meson
@@ -5556,6 +5544,7 @@ methane
 metis
 metrics2mqtt
 metslib
+Error pulling 'mfem'
 mfiler3
 mfiler4
 mgarepo
@@ -5641,7 +5630,6 @@ mingw-gtkmm30
 mingw-gtksourceview3
 mingw-gtk2
 mingw-gtk3
-Error pulling 'mingw-gtk4'
 mingw-hamlib
 mingw-harfbuzz
 mingw-headers
@@ -6110,7 +6098,6 @@ NetworkManager-vpnc
 neuron
 newlisp
 newsbeuter
-Error pulling 'newsboat'
 newsboat
 newscache
 new-session-manager
@@ -6128,7 +6115,6 @@ nfoview
 nfsometer
 NFStest
 nfs-utils
-Error pulling 'nfswatch'
 nfswatch
 nfs4-acl-tools
 nginx-mod-naxsi
@@ -6565,7 +6551,6 @@ pcsc-lite-asekey
 pcsc-perl
 pcsc-tools
 pcs
-pcsxr
 pdbg
 pdc-client
 pdd
@@ -6966,7 +6951,6 @@ perl-Data-Uniqid
 perl-Data-Validate-Domain
 perl-Data-Validate-IP
 perl-Data-Validate-Type
-perl-Date-Handler
 perl-Date-HolidayParser
 perl-Date-Holidays-DE
 perl-Date-ICal
@@ -7128,6 +7112,7 @@ perl-Gearman-Server
 perl-Gearman
 perl-generators
 perl-Geo-Constants
+Error pulling 'perl-Geo-Distance'
 perl-Geo-Distance
 perl-Geo-Ellipsoids
 perl-Geography-Countries
@@ -7442,7 +7427,6 @@ perl-MogileFS-Client
 perl-MogileFS-Server
 perl-MogileFS-Utils
 perl-Mojo-DOM58
-perl-Mojo-IOLoop-ReadWriteProcess
 perl-Mojo-JWT
 perl-Mojolicious-Plugin-AssetPack
 perl-Mojolicious-Plugin-CHI
@@ -7558,6 +7542,7 @@ perl-Net-NBName
 perl-Net-OAuth
 perl-NetPacket-LLC
 perl-NetPacket-SpanningTree
+Error pulling 'perl-NetPacket'
 perl-NetPacket
 perl-Net-Patricia
 perl-Net-Pcap-Easy
@@ -7780,7 +7765,6 @@ perl-SQL-ReservedWords
 perl-SQL-Shell
 perl-SQL-SplitStatement
 perl-SQL-Tokenizer
-perl-Starman
 perl-Statistics-Basic
 perl-Statistics-CaseResampling
 perl-Statistics-Contingency
@@ -9480,6 +9464,7 @@ python-google-cloud-apigee-connect
 python-google-cloud-asset
 python-google-cloud-automl
 python-google-cloud-bigquery-connection
+Error pulling 'python-google-cloud-bigquery-datatransfer'
 python-google-cloud-bigquery-datatransfer
 python-google-cloud-bigquery-reservation
 python-google-cloud-bigquery
@@ -9691,6 +9676,7 @@ python-keystoneauth1
 python-keystoneclient
 python-kgb
 python-kismet-rest
+Error pulling 'python-kitchen'
 python-kitchen
 python-klein
 python-klusta
@@ -9941,7 +9927,6 @@ python-openstackdocstheme
 python-openstacksdk
 python-opentracing
 python-opnsense
-python-optcomplete
 python-op1repacker
 python-op1svg
 python-osa
@@ -9963,7 +9948,6 @@ python-osrf-pycommon
 python-os-service-types
 python-os-testr
 python-ouimeaux
-python-outcome
 python-outdated
 python-overpy
 python-ovirt-engine-sdk4
@@ -10066,7 +10050,6 @@ python-prov
 python-psycogreen
 python-psycopg3
 python-ptrace
-Error pulling 'python-ptyprocess'
 python-ptyprocess
 python-publicsuffix2
 python-pudb
@@ -10354,6 +10337,7 @@ python-requre
 python-responses
 python-respx
 python-restfly
+Error pulling 'python-restructuredtext-lint'
 python-restructuredtext-lint
 python-resultsdb_api
 python-resumable-urlretrieve
@@ -10438,7 +10422,6 @@ python-schema
 python-sievelib
 python-sieve
 python-signedjson
-python-simframe
 python-simpleaudio
 python-simplebayes
 python-simpleeval
@@ -11943,6 +11926,7 @@ rust-fake
 rust-fallible_collections
 rust-fallible-iterator
 rust-fallible-streaming-iterator
+Error pulling 'rust-faster-hex'
 rust-fastrand
 rust-fb_procfs
 rust-fd-find
@@ -11962,7 +11946,6 @@ rust-float-ord
 rust-fluent-bundle
 rust-fluent-langneg
 rust-fluent
-Error pulling 'rust-fluent-syntax'
 rust-fluent-syntax
 rust-flume
 rust-fn-error-context
@@ -12077,6 +12060,7 @@ rust-idna
 rust-idna0.1
 rust-ifcfg-devname
 rust-ignition-config
+Error pulling 'rust-ignore'
 rust-ignore
 rust-impls
 rust-indenter
@@ -12366,7 +12350,6 @@ rust-rand_core
 rust-rand_core0.3
 rust-rand_core0.4
 rust-rand_core0.5
-Error pulling 'rust-rand_distr'
 rust-rand_distr
 rust-rand_hc
 rust-rand_hc0.1
@@ -12416,6 +12399,7 @@ rust-resctl-bench-intf
 rust-resctl-bench
 rust-resctl-demo
 rust-resolv-conf
+Error pulling 'rust-rfc6979'
 rust-ring
 rust-ripgrep
 rust-rle-decode-fast
@@ -13497,7 +13481,6 @@ touchegg
 toxcore
 tpm-tools
 tpm2-abrmd-selinux
-tpm2-abrmd
 tpm2-pkcs11
 tpm2-tools
 tpm2-tss
@@ -13653,7 +13636,6 @@ ursa-major
 usbauth-notifier
 usbauth
 usbmon
-Error pulling 'usbsniff'
 usbsniff
 usbtop
 usnic-tools
@@ -13885,13 +13867,11 @@ wike
 wiki2beamer
 wildmagic5
 wildmidi
-wimlib
 wine-dxvk
 wineglass
 wine-mono
 wine
 winetricks
-Error pulling 'winpdb'
 winpdb
 wipe
 wireguard-tools
@@ -14000,7 +13980,6 @@ xdg-user-dirs-gtk
 xdg-user-dirs
 xdialog
 xdotool
-Error pulling 'xdpyinfo'
 xdpyinfo
 xdrawchem
 xedit
@@ -14080,7 +14059,6 @@ xhtml2fo-style-xsl
 xchm
 xine-lib
 xiphos
-xkbcomp
 xkbset
 xkeyboard-config
 xkeycaps

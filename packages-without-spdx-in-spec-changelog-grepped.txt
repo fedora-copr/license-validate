@@ -794,7 +794,6 @@ cntlm
 coan
 cobbler
 cockatrice
-cockpit-file-sharing
 cockpit-machines
 cockpit-navigator
 cockpit-ostree
@@ -929,7 +928,6 @@ cpphs
 cpp-httplib
 cppi
 cpp-jwt
-cppmyth
 cpprest
 cpptest
 cpptoml
@@ -1479,7 +1477,6 @@ emacs-dockerfile-mode
 emacs-epc
 emacs-epl
 emacs-evil
-emacs-flycheck-pycheckers
 emacs-flycheck
 emacs-f
 emacs-goodies
@@ -1503,7 +1500,6 @@ emacs-rpm-spec-mode
 emacs-slime
 emacs-spice-mode
 emacs-s
-emacs-terraform-mode
 emacs-transient
 emacs-undo-tree
 emacs-vm
@@ -2037,6 +2033,7 @@ fwknop
 fwts
 fwupd-efi
 fwupd
+fxdiv
 fzf
 f2fs-tools
 f21-backgrounds
@@ -4363,7 +4360,6 @@ golang-github-thoas-funk
 golang-github-thoj-ircevent
 golang-github-tchap-patricia
 golang-github-tidwall-pretty
-golang-github-timewasted-linode
 golang-github-tinylib-msgp
 golang-github-tklauser-numcpus
 golang-github-tklauser-sysconf
@@ -4426,7 +4422,6 @@ golang-github-vmihailenco-tagparser-2
 golang-github-vmware-govmomi
 golang-github-vmware-vmw-guestinfo
 golang-github-vtolstov-ioctl
-golang-github-vultr-govultr
 golang-github-vultr-govultr-2
 golang-github-vultr-govultr-3
 golang-github-weppos-publicsuffix
@@ -4589,8 +4584,10 @@ golang-k8s-sample-controller
 golang-k8s-utils
 golang-layeh-gopher-luar
 golang-lukechampine-uint128
+golang-modernc-ccgo-4
 golang-modernc-ccorpus2
 golang-modernc-cc-3
+golang-modernc-cc-4
 golang-modernc-ebnf
 golang-modernc-ebnfutil
 golang-modernc-fileutil
@@ -5654,6 +5651,7 @@ kf5-syndication
 kf5-syntax-highlighting
 kf5-threadweaver
 kf6-bluez-qt
+kf6-kquickcharts
 kf6
 kgamma
 kget
@@ -6416,7 +6414,6 @@ librasterlite2
 libraw1394
 librcd
 librealsense
-librealsense1
 librecad
 librelp
 libreoffice-gallery-vrt-network-equipment
@@ -7021,6 +7018,7 @@ menulibre
 mepack
 mercurial
 merkaartor
+merkuro
 mesaflash
 mesa-libGLw
 mesa
@@ -7963,6 +7961,7 @@ ocaml-variantslib
 ocaml-version
 ocaml-yaml
 ocaml-zmq
+ocean-sound-theme
 ocfs2-tools
 oci-cli
 oc-inject
@@ -8333,7 +8332,6 @@ pcsc-lite
 pcsc-perl
 pcsc-tools
 pcs
-pcsxr
 pdbg
 pdc-client
 pdd
@@ -8933,7 +8931,6 @@ perl-Data-Validate-IP
 perl-Data-Validate-Type
 perl-Data-Visitor
 perl-Date-Calc
-perl-Date-Handler
 perl-Date-HolidayParser
 perl-Date-Holidays-DE
 perl-Date-ICal
@@ -9801,7 +9798,6 @@ perl-MogileFS-Client
 perl-MogileFS-Server
 perl-MogileFS-Utils
 perl-Mojo-DOM58
-perl-Mojo-IOLoop-ReadWriteProcess
 perl-Mojo-JWT
 perl-Mojolicious-Plugin-AssetPack
 perl-Mojolicious-Plugin-CHI
@@ -10333,7 +10329,6 @@ perl-SQL-SplitStatement
 perl-SQL-Statement
 perl-SQL-Tokenizer
 perl-SQL-Translator
-perl-Starman
 perl-Statistics-Basic
 perl-Statistics-CaseResampling
 perl-Statistics-Contingency
@@ -11440,6 +11435,7 @@ pngcheck
 pnglite
 pngquant
 pnm2ppa
+pocketfft
 pocketsphinx
 poco
 po-debconf
@@ -11942,6 +11938,7 @@ python-azure-synapse-accesscontrol
 python-azure-synapse-artifacts
 python-azure-synapse-managedprivateendpoints
 python-azure-synapse-spark
+python-a2wsgi
 python-babelfish
 python-backcall
 python-backlash
@@ -13152,7 +13149,6 @@ python-opentracing
 python-opentype-sanitizer
 python-opfunu
 python-opnsense
-python-optcomplete
 python-opytimark
 python-opytimizer
 python-op1repacker
@@ -13379,6 +13375,7 @@ python-pyfim
 python-pyftdi
 python-pygal
 python-pygatt
+python-pygdbmi
 python-pygeoip
 python-pyghmi
 python-pygiftiio
@@ -13804,7 +13801,6 @@ python-sievelib
 python-sieve
 python-signature-dispatch
 python-signedjson
-python-simframe
 python-simpleaudio
 python-simplebayes
 python-simpleeval
@@ -14151,6 +14147,7 @@ python-walkdir
 python-waqiasync
 python-waterfurnace
 python-watchdog
+python-watchfiles
 python-watchgod
 python-wcag-contrast-ratio
 python-wcwidth
@@ -15182,6 +15179,7 @@ rust-annotate-snippets
 rust-annotate-snippets0.6
 rust-ansi_colours
 rust-ansi-str
+rust-ansiterm
 rust-ansitok
 rust-anstream
 rust-anstream0.3
@@ -15512,6 +15510,7 @@ rust-decimal
 rust-defer-drop
 rust-deflate
 rust-deflate0.8
+rust-deflate64
 rust-deltae
 rust-deranged
 rust-der_derive
@@ -15751,7 +15750,9 @@ rust-gix-bitmap
 rust-gix-command
 rust-gix-commitgraph
 rust-gix-config-value
+rust-gix-credentials
 rust-gix-date
+rust-gix-diff
 rust-gix-features
 rust-gix-fs
 rust-gix-glob
@@ -15759,6 +15760,7 @@ rust-gix-hash
 rust-gix-hashtable
 rust-gix-chunk
 rust-gix-ignore
+rust-gix-index
 rust-gix-lock
 rust-gix-mailmap
 rust-gix-object
@@ -15766,6 +15768,8 @@ rust-gix-packetline
 rust-gix-path
 rust-gix-prompt
 rust-gix-quote
+rust-gix-ref
+rust-gix-refspec
 rust-gix-revision
 rust-gix-revwalk
 rust-gix-sec
@@ -15997,6 +16001,7 @@ rust-libcryptsetup-rs-sys
 rust-libcryptsetup-rs0.8
 rust-libc
 rust-libcst_derive
+rust-libcst
 rust-libdbus-sys
 rust-libgit2-sys
 rust-libgit2-sys0.12
@@ -16711,6 +16716,7 @@ rust-threadpool
 rust-thread-tree
 rust-tiff0.6
 rust-tiger
+rust-timeago
 rust-timebomb
 rust-time-core
 rust-time-macros-impl
@@ -18267,7 +18273,6 @@ wiki2beamer
 wildmagic5
 wildmidi
 will-crash
-wimlib
 WindowMaker-extra
 WindowMaker
 wine-dxvk

@@ -563,6 +563,7 @@ cpp-hocon
 cpphs
 cppcheck
 cpp-jwt
+cppmyth
 cppunit
 cpr
 cpufetch
@@ -775,6 +776,7 @@ edflib
 edid-decode
 editline
 editorconfig
+edk2
 ed
 edwin-fonts
 eegview
@@ -793,11 +795,14 @@ emacs-common-proofgeneral
 emacs-common-tuareg
 emacs-common-w3m
 emacs-company-mode
+emacs-flycheck-pycheckers
 emacs-iedit
 emacs
+emacs-terraform-mode
 emacs-vm
 embree
 embree3
+enchant2
 entangle
 entr
 environment-modules
@@ -990,6 +995,7 @@ fuse-overlayfs
 fusesource-pom
 fwupd-efi
 fwupd
+fxdiv
 fxload
 f2c
 f37-backgrounds
@@ -2271,8 +2277,10 @@ golang-howett-plist
 golang-k8s-apiextensions-apiserver
 golang-k8s-apiserver
 golang-lukechampine-uint128
+golang-modernc-ccgo-4
 golang-modernc-ccorpus2
 golang-modernc-cc-3
+golang-modernc-cc-4
 golang-modernc-ebnf
 golang-modernc-ebnfutil
 golang-modernc-fileutil
@@ -2482,6 +2490,7 @@ hledger
 hledger-ui
 hledger-web
 hlint
+hostapd
 hplip
 hpx
 hqx
@@ -2779,6 +2788,7 @@ ipset
 iptables
 iputils
 ipvsadm
+ipxe
 irqbalance
 iso-codes
 isomaster
@@ -2923,6 +2933,7 @@ keycloak-httpd-client-install
 keylime-agent-rust
 keyrings-filesystem
 kf6-bluez-qt
+kf6-kquickcharts
 kf6
 kgeography
 kgraphviewer
@@ -3248,6 +3259,7 @@ libpst
 libptytty
 libpwquality
 libqb
+libqrtr-glib
 libqtolm
 libquotient
 libqxp
@@ -3255,7 +3267,6 @@ libratbag
 LibRaw
 librdkafka
 librealsense
-librealsense1
 librecad
 librelp
 libreoffice-gallery-vrt-network-equipment
@@ -3655,8 +3666,10 @@ memtailor
 memtest86+
 menu-cache
 mepack
+merkuro
 mesa-demos
 mesa-libGLU
+mesa-libGLw
 mesa
 messiggy
 metacity
@@ -4154,6 +4167,7 @@ ocaml-zarith
 ocaml-zed
 ocaml-zip
 ocaml-zmq
+ocean-sound-theme
 oci-cli
 oci-seccomp-bpf-hook
 ocrad
@@ -4648,6 +4662,7 @@ perl-Data-Visitor
 perl-Date-Calc
 perl-Date-Calc-XS
 perl-Date-Extract
+perl-Date-Handler
 perl-Date-ICal
 perl-Date-ISO8601
 perl-Date-JD
@@ -5277,6 +5292,7 @@ perl-Module-Starter-PBP
 perl-Module-Used
 perl-Module-Util
 perl-Module-Versions-Report
+perl-Mojo-IOLoop-ReadWriteProcess
 perl-Mojolicious
 perl-Monitoring-Plugin
 perl-Mon
@@ -5638,6 +5654,7 @@ perl-SQL-Statement
 perl-SQL-Translator
 perl-srpm-macros
 perl-Starlet
+perl-Starman
 perl-Statistics-Descriptive
 perl-Statistics-ChiSquare
 perl-Storable
@@ -6270,6 +6287,7 @@ pngcrush
 pngcheck
 pngnq
 pngquant
+pocketfft
 pocl
 poco
 podman-compose
@@ -6459,6 +6477,7 @@ python-azure-synapse-accesscontrol
 python-azure-synapse-artifacts
 python-azure-synapse-managedprivateendpoints
 python-azure-synapse-spark
+python-a2wsgi
 python-backrefs
 python-basemap
 python-bash-kernel
@@ -6957,6 +6976,7 @@ python-orjson
 python-oscrypto
 python-oslo-metrics
 python-oslo-middleware
+python-outcome
 python-ovh
 python-OWSLib
 python-packaging
@@ -7042,6 +7062,7 @@ python-pyelectro
 python-pyembroidery
 python-pyfakefs
 python-pyfastnoisesimd
+python-pygdbmi
 python-PyGithub
 python-pyglet
 python-pygments-git
@@ -7208,6 +7229,7 @@ python-should_dsl
 python-shtab
 python-signature-dispatch
 python-signedjson
+python-simframe
 python-simpleline
 python-simple-rlp
 python-siphash
@@ -7342,6 +7364,7 @@ python-vkbasalt-cli
 python-waitress
 python-warlock
 python-watchdog
+python-watchfiles
 python-wavio
 python-wcag-contrast-ratio
 python-wcmatch
@@ -8169,6 +8192,7 @@ rust-annotate-snippets0.6
 rust-ansi_colours
 rust-ansi-str
 rust-ansi_term
+rust-ansiterm
 rust-ansi_term0.11
 rust-ansitok
 rust-anstream
@@ -8575,6 +8599,7 @@ rust-decimal
 rust-defer-drop
 rust-deflate
 rust-deflate0.8
+rust-deflate64
 rust-deltae
 rust-deranged
 rust-der_derive
@@ -8874,7 +8899,9 @@ rust-gix-bitmap
 rust-gix-command
 rust-gix-commitgraph
 rust-gix-config-value
+rust-gix-credentials
 rust-gix-date
+rust-gix-diff
 rust-gix-features
 rust-gix-fs
 rust-gix-glob
@@ -8882,6 +8909,7 @@ rust-gix-hash
 rust-gix-hashtable
 rust-gix-chunk
 rust-gix-ignore
+rust-gix-index
 rust-gix-lock
 rust-gix-mailmap
 rust-gix-object
@@ -8889,6 +8917,8 @@ rust-gix-packetline
 rust-gix-path
 rust-gix-prompt
 rust-gix-quote
+rust-gix-ref
+rust-gix-refspec
 rust-gix-revision
 rust-gix-revwalk
 rust-gix-sec
@@ -9182,6 +9212,7 @@ rust-libcryptsetup-rs-sys
 rust-libcryptsetup-rs0.8
 rust-libc
 rust-libcst_derive
+rust-libcst
 rust-libdbus-sys
 rust-libflate_lz77
 rust-libflate
@@ -10129,6 +10160,7 @@ rust-thread-tree
 rust-tiff
 rust-tiff0.6
 rust-tiger
+rust-timeago
 rust-timebomb
 rust-time-core
 rust-time-macros-impl
@@ -10760,7 +10792,6 @@ tepl
 tesseract
 tesseract-tessdata
 testcloud
-test-interface
 testng
 tetgen
 tex-fonts-hebrew
@@ -10811,6 +10842,7 @@ tomoe
 TOPCOM
 torbrowser-launcher
 touchcal
+tpm2-abrmd
 tpm2-tss-engine
 trace-cmd
 traceroute
@@ -11016,6 +11048,7 @@ why3
 wiiuse
 wike
 will-crash
+wimlib
 WindowMaker-extra
 WindowMaker
 wine
@@ -11090,6 +11123,7 @@ xine-lib
 xine-ui
 xinput
 xisxwayland
+xkbcomp
 xkb-switch
 xkill
 xload
