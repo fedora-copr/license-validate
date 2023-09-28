@@ -2933,6 +2933,8 @@ keycloak-httpd-client-install
 keylime-agent-rust
 keyrings-filesystem
 kf6-bluez-qt
+kf6-kguiaddons
+kf6-kholidays
 kf6-kquickcharts
 kf6
 kgeography
@@ -3344,6 +3346,7 @@ libusbmuxd
 libusb1
 libuser
 libutempter
+libuv
 libva-nvidia-driver
 libvirt-dbus
 libvirt-glib
@@ -6237,7 +6240,6 @@ picard
 piccata
 pick
 picosat
-pico-wizard
 pidgin-sipe
 pigz
 pinball
@@ -6557,7 +6559,6 @@ python-crypto
 python-cssutils
 python-cvxopt
 python-cyipopt
-python-cypari2
 python-cysignals
 python-cython0.29
 python-daemon
@@ -6652,7 +6653,6 @@ python-fontconfig
 python-fontname
 python-fontrpmspec
 python-formulaic
-python-fpylll
 python-frozenlist
 python-fsleyes-props
 python-fsleyes
@@ -6904,7 +6904,6 @@ python-mizani
 python-mne-bids
 python-mock
 python-moddb
-python-molecule
 python-msal-extensions
 python-msal
 python-msrestazure
@@ -7055,7 +7054,6 @@ python-pycurl
 python-pydantic-core
 python-pydata-sphinx-theme
 python-pydepsdev
-python-pydiffx
 python-pydyf
 python-pyedflib
 python-pyelectro
@@ -7316,6 +7314,7 @@ python-testing.common.database
 python-testing.postgresql
 python-testtools
 python-texext
+python-textdistance
 python-textual
 python-threadpoolctl
 python-throttler
@@ -7355,6 +7354,7 @@ python-uri-template
 python-urllib3
 python-userpath
 python-uswid
+python-uvicorn
 python-vecrec
 python-venusian
 python-versioningit
@@ -7579,6 +7579,7 @@ remake
 remmina
 replacer
 reportd
+resalloc-ibm-cloud
 resalloc
 resolv_wrapper
 resource-agents
@@ -10473,7 +10474,6 @@ saclib
 sac
 safeint
 safekeep
-sagemath
 sage
 sailcut
 salt
@@ -10563,6 +10563,7 @@ setroubleshoot-plugins
 setroubleshoot
 setup
 setuptool
+setxkbmap
 sexpp
 SFML
 sfnt2woff-zopfli
@@ -10842,8 +10843,12 @@ tomoe
 TOPCOM
 torbrowser-launcher
 touchcal
+tpm2-abrmd-selinux
 tpm2-abrmd
+tpm2-pkcs11
+tpm2-tools
 tpm2-tss-engine
+tpm2-tss
 trace-cmd
 traceroute
 tracer
@@ -11017,6 +11022,7 @@ wavextract
 wavpack
 waybar
 waydroid
+waycheck
 wayland-protocols
 wayland
 wayland-utils
@@ -11052,6 +11058,7 @@ wimlib
 WindowMaker-extra
 WindowMaker
 wine
+wireplumber
 wireshark
 wl-clipboard
 wlcs
@@ -11158,6 +11165,7 @@ xorg-x11-drv-wacom
 xorg-x11-proto-devel
 xorg-x11-server-Xwayland
 xorg-x11-util-macros
+xorg-x11-xauth
 xorg-x11-xbitmaps
 xorg-x11-xinit
 xorg-x11-xtrans-devel
@@ -11165,6 +11173,7 @@ xosd
 xpa
 xpdf
 xrandr
+xrdb
 xrestop
 xrootd
 xsane
@@ -11185,6 +11194,7 @@ xwd
 xxhash
 xylib
 xz-java
+x11perf
 x11vnc
 x3270
 x509viewer

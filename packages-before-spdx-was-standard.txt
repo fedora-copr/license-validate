@@ -106,9 +106,7 @@ anaconda-realmd
 anagramarama
 analitza
 anarch
-andriller
 android-tools
-androwarn
 anet
 angband
 angelfish
@@ -438,7 +436,6 @@ bpython
 bpytop
 brasero
 brazil
-brd
 breeze-gtk
 breeze-icon-theme
 brewtarget
@@ -453,7 +450,6 @@ bsh
 bspwm
 bst-external
 btbuilder
-btest
 bti
 btrbk
 btrfs-fuse
@@ -694,6 +690,7 @@ collectl
 colm
 color-filesystem
 colorful
+Error pulling 'colorgcc'
 colorgcc
 colorized-logs
 colossus
@@ -1284,7 +1281,6 @@ equalx
 eralchemy
 erfa
 ergo
-eric
 erlang-amf
 erlang-base64url
 erlang-basho_metrics
@@ -1427,6 +1423,7 @@ exodusii
 exo
 expatpp
 expat
+Error pulling 'external-editor-revived'
 extra-cmake-modules
 extractpdfmark
 extrema
@@ -1519,7 +1516,6 @@ fedora-appstream-metadata
 fedora-business-cards
 fedora-dockerfiles
 fedora-flathub-remote
-fedora-gather-easyfix
 fedora-gnat-project-common
 fedora-chromium-config
 fedorainfinity-backgrounds
@@ -1758,6 +1754,7 @@ gawk-lmdb
 gawk-nl_langinfo
 gawk-pgsql
 gawk-redis
+Error pulling 'gawk-select'
 gawk-select
 gawk-xml
 gazebo
@@ -2306,7 +2303,6 @@ golang-github-alexflint-filemutex
 golang-github-alexflint-scalar
 golang-github-alibabacloud-debug
 golang-github-alibabacloud-tea
-golang-github-alicebob-miniredis
 golang-github-aliyun-alibaba-cloud-sdk
 golang-github-aliyun-credentials
 golang-github-aliyun-oss-sdk
@@ -3401,13 +3397,13 @@ golang-github-valyala-fasttemplate
 golang-github-valyala-tcplisten
 golang-github-vbatts-tar-split
 golang-github-viant-assertly
-Error pulling 'golang-github-viant-toolbox'
 golang-github-viant-toolbox
 golang-github-vincent-petithory-dataurl
 golang-github-vinyldns
 golang-github-vishvananda-netlink
 golang-github-vishvananda-netns
 golang-github-vividcortex-ewma
+Error pulling 'golang-github-vividcortex-gohistogram'
 golang-github-vividcortex-gohistogram
 golang-github-vividcortex-mysqlerr
 golang-github-vivint-infectious
@@ -4747,7 +4743,6 @@ libcacard
 libcaca
 libcamera
 libcanberra
-Error pulling 'libcangjie'
 libcangjie
 libcap
 libccd
@@ -5119,7 +5114,6 @@ libspnav
 libspng
 libsqlite3x
 libsrtp
-libssh2-python
 libstrophe
 libst2205
 libsysstat
@@ -5165,7 +5159,6 @@ liburing
 libusbauth-configparser
 libusb-compat-0.1
 libusbg
-libuv
 libu2f-host
 libu2f-server
 libvarlink
@@ -5286,6 +5279,7 @@ llmnrd
 llvm-test-suite
 llvm11
 llvm12
+Error pulling 'llvm13'
 llvm13
 llvm7.0
 llvm8.0
@@ -5544,7 +5538,6 @@ methane
 metis
 metrics2mqtt
 metslib
-Error pulling 'mfem'
 mfiler3
 mfiler4
 mgarepo
@@ -5758,6 +5751,7 @@ mingw-qt5-qtsensors
 mingw-qt5-qtserialport
 mingw-qt5-qtsvg
 mingw-qt5-qttools
+Error pulling 'mingw-qt5-qttranslations'
 mingw-qt5-qttranslations
 mingw-qt5-qtwebchannel
 mingw-qt5-qtwebsockets
@@ -7112,7 +7106,6 @@ perl-Gearman-Server
 perl-Gearman
 perl-generators
 perl-Geo-Constants
-Error pulling 'perl-Geo-Distance'
 perl-Geo-Distance
 perl-Geo-Ellipsoids
 perl-Geography-Countries
@@ -7542,7 +7535,6 @@ perl-Net-NBName
 perl-Net-OAuth
 perl-NetPacket-LLC
 perl-NetPacket-SpanningTree
-Error pulling 'perl-NetPacket'
 perl-NetPacket
 perl-Net-Patricia
 perl-Net-Pcap-Easy
@@ -7580,6 +7572,7 @@ perl-Palm-PDB
 perl-Palm
 perl-Pango
 perl-Panotools-Script
+Error pulling 'perl-Parallel-Iterator'
 perl-Parallel-Iterator
 perl-PAR-Packer
 perl-Parse-CPAN-Distributions
@@ -7590,6 +7583,7 @@ perl-Parse-MIME
 perl-PAR
 perl-Path-Dispatcher
 perl-PatchReader
+Error pulling 'perl-PBKDF2-Tiny'
 perl-PBKDF2-Tiny
 perl-PDF-Builder
 perl-PDF-Create
@@ -8255,7 +8249,6 @@ php-nikic-php-parser4
 php-nyholm-psr7
 php-oauth
 php-ocramius-code-generator-utils
-php-ocramius-generated-hydrator
 php-ocramius-instantiator
 php-ocramius-lazy-map
 php-ocramius-proxy-manager
@@ -8431,7 +8424,6 @@ php-symfony-requirements-checker
 php-symfony-security-acl
 php-symfony
 php-symfony3
-php-symfony4
 php-tcpdf
 php-tecnickcom-tc-lib-barcode
 php-tecnickcom-tc-lib-color
@@ -8721,8 +8713,6 @@ PyDrive2
 pyee
 pyelftools
 pyflakes
-pyflowtools
-pyftpdlib
 pygobject3
 PyGreSQL
 pyhoca-cli
@@ -8767,14 +8757,12 @@ pythia8
 python-aaargh
 python-accept-types
 python-accuweather
-python-acora
 python-acoustid
 python-adafruit-board-toolkit
 python-adafruit-platformdetect
 python-adafruit-pureio
 python-adb-shell
 python-adb
-python-adext
 python-admesh
 python-advisory-parser
 python-aenum
@@ -8818,11 +8806,8 @@ python-aiosqlite
 python-aiounifi
 python-aiounittest
 python-aiowinreg
-python-aiozeroconf
-python-airthings
 python-ajpy
 python-ajsonrpc
-python-alarmdecoder
 python-allpairspy
 python-alsaaudio
 python-amico
@@ -8831,7 +8816,6 @@ python-amqp
 python-ana
 python-animatplot
 python-aniso8601
-python-ansible-pygments
 python-ansible-runner
 python-ansicolor
 python-ansicolors
@@ -9004,7 +8988,6 @@ python-bravado-core
 python-bravado
 python-brian2
 python-btchip
-python-btlewrap
 python-btrfs
 python-bucky
 python-bugzilla
@@ -9272,7 +9255,6 @@ python-docker-squash
 python-docopt
 python-dogpile-cache
 python-doit
-python-dominate
 python-dotmap
 python-doubleratchet
 python-doxytag2zealdb
@@ -9368,7 +9350,6 @@ python-flake8
 python-flaky
 python-flask-admin
 python-flask-babel
-python-flask-bootstrap
 python-flask-caching
 python-flask-compress
 python-flask-cors
@@ -9421,7 +9402,6 @@ python-f5-sdk
 python-gabbi
 python-gammu
 python-gatspy
-python-gccinvocation
 python-gearbox
 python-gear
 python-gekitchen
@@ -9464,7 +9444,6 @@ python-google-cloud-apigee-connect
 python-google-cloud-asset
 python-google-cloud-automl
 python-google-cloud-bigquery-connection
-Error pulling 'python-google-cloud-bigquery-datatransfer'
 python-google-cloud-bigquery-datatransfer
 python-google-cloud-bigquery-reservation
 python-google-cloud-bigquery
@@ -9506,7 +9485,6 @@ python-grabbit
 python-grabserial
 python-gradunwarp
 python-grafeas
-python-grako
 python-graphene
 python-graphql-core
 python-graphql-relay
@@ -9602,7 +9580,6 @@ python-interrogate
 python-intervaltree
 python-into-dbus-python
 python-iowait
-python-ipgetter
 python-ipgetter2
 python-ipmi
 python-iptools
@@ -9626,6 +9603,7 @@ python-jaraco-collections
 python-jaraco-envs
 python-jaraco-functools
 python-jaraco-packaging
+Error pulling 'python-jaraco-path'
 python-jaraco-path
 python-jaraco-text
 python-javalang
@@ -9636,7 +9614,6 @@ python-jedi
 python-jeepney
 python-jellyfish
 python-jenkins
-python-jep
 python-jinja2-cli
 python-jinja2_pluralize
 python-jinja2-time
@@ -9652,7 +9629,6 @@ python-jsonpath-rw-ext
 python-jsonpath-rw
 python-jsonref
 python-jsonrpclib
-python-jsonrpc-server
 python-jsons
 python-json2table
 python-json5
@@ -9676,7 +9652,6 @@ python-keystoneauth1
 python-keystoneclient
 python-kgb
 python-kismet-rest
-Error pulling 'python-kitchen'
 python-kitchen
 python-klein
 python-klusta
@@ -9685,14 +9660,12 @@ python-knack
 python-kombu
 python-korean-lunar-calendar
 python-kubernetes
-python-lacrosse
 python-landslide
 python-lark
 python-launchpadlib
 python-lazr-config
 python-lazr-delegates
 python-lazr-restfulclient
-python-lazr-smtptest
 python-lazr-uri
 python-lazyarray
 python-lazy-ops
@@ -9700,13 +9673,11 @@ python-ldappool
 python-ldap
 python-ldap3
 python-leather
-python-leveldb
 python-lfpy
 python-libarchive-c
 python-libcloud
 python-libcst
 python-libdiscid
-python-liblarch
 python-libnacl
 python-libNeuroML
 python-libpagure
@@ -9723,7 +9694,6 @@ python-lmdb
 python-locket
 python-lockfile
 python-logfury
-python-logging-tree
 python-logutils
 python-logzero
 python-lsp-black
@@ -9799,8 +9769,6 @@ python-modestmaps
 python-ModulemdTranslationHelpers
 python-moksha-common
 python-moksha-hub
-python-molecule-docker
-python-molecule-podman
 python-molmass
 python-mongoengine
 python-mongomock
@@ -9875,11 +9843,9 @@ python-nltk
 python-nmrglue
 python-noggin-messages
 python-noiseprotocol
-python-nose_fixes
 python-nose
 python-nose-testconfig
 python-nose-timer
-python-notario
 python-notebook
 python-notify2
 python-novaclient-os-networks
@@ -10066,7 +10032,6 @@ python-pyairvisual
 python-pyarlo
 python-pybalboa
 python-pybeam
-python-pybv
 python-pycares
 python-pycdio
 python-pycdlib
@@ -10200,7 +10165,6 @@ python-pyswarms
 python-pysword
 python-pytaglib
 python-pytapo
-python-pytenable
 python-pyte
 python-pytest-aiohttp
 python-pytest-arraydiff
@@ -10228,7 +10192,6 @@ python-pytest-httpx
 python-pytest-isort
 python-pytest-lazy-fixture
 python-pytest-localserver
-python-pytest-metadata
 python-pytest-mock
 python-pytest-mpi
 python-pytest-mpl
@@ -10276,7 +10239,6 @@ python-pyyaml-env-tag
 python-pyzabbix
 python-pyzolib
 python-py2pack
-python-py9p
 python-qcelemental
 python-qdarkstyle
 python-q
@@ -10336,8 +10298,6 @@ python-requests-unixsocket
 python-requre
 python-responses
 python-respx
-python-restfly
-Error pulling 'python-restructuredtext-lint'
 python-restructuredtext-lint
 python-resultsdb_api
 python-resumable-urlretrieve
@@ -10437,7 +10397,6 @@ python-slixmpp-omemo
 python-slixmpp
 python-slugify
 python-sly
-python-smart-gardena
 python-smart_open
 python-smartypants
 python-smbc
@@ -10457,12 +10416,10 @@ python-soupsieve
 python-speaklater
 python-speedtest-cli
 python-speg
-python-sphinx_ansible_theme
 python-sphinx-argparse
 python-sphinx-autodoc-typehints
 python-sphinx-bootstrap-theme
 python-sphinx-click
-python-sphinxcontrib-actdiag
 python-sphinxcontrib-apidoc
 python-sphinxcontrib-asyncio
 python-sphinxcontrib-autoprogram
@@ -10514,7 +10471,7 @@ python-stackprinter
 python-statsd
 python-statsmodels
 python-stdiomask
-python-stdio-mgr
+Error pulling 'python-stdnum'
 python-stdnum
 python-steam
 python-stem
@@ -10545,7 +10502,6 @@ python-sysv_ipc
 python-tables
 python-tablib
 python-tackerclient
-python-tambo
 python-taskflow
 python-tasklib
 python-tasmotadevicecontroller
@@ -10566,9 +10522,7 @@ python-testpath
 python-testrepository
 python-testresources
 python-testscenarios
-python-test_server
 python-TestSlide
-python-textdistance
 python-textfsm
 python-textile
 python-textparser
@@ -10647,11 +10601,9 @@ python-unidiff
 python-unipath
 python-unpaddedbase64
 python-upnpy
-python-upoints
 python-uptime
 python-uranium
 python-uritemplate
-python-uri-templates
 python-urlgrabber
 python-urllib-gssapi
 python-urwid-readline
@@ -10792,7 +10744,6 @@ python-xvfbwrapper
 python-xxhash
 python-x2go
 python-x3dh
-python-yamlordereddictloader
 python-yaml2ical
 python-yapf
 python-yappi
@@ -10802,7 +10753,6 @@ python-yara
 python-yarl
 python-yaswfp
 python-yattag
-python-yourls
 python-ytmusicapi
 python-zake
 python-zanata2fedmsg
@@ -10843,11 +10793,9 @@ python3-postgresql
 python3-prctl
 python3-py3dns
 python3-saml
-python3-script
 python3-simpletal
 python3-zope-fixers
 python3.6
-python3.7
 Error pulling 'python38-hvac'
 python38-hvac
 Error pulling 'python38-ntlm-auth-epel'
@@ -10860,7 +10808,6 @@ python3.8
 python39-pyelftools-epel
 python3.9
 pythran
-pyutil
 pywebdav
 pyxattr
 pyxdg
@@ -11083,7 +11030,6 @@ R-brio
 R-broom
 R-BSgenome
 R-bslib
-RBTools
 R-BufferedMatrix
 R-cachem
 R-Cairo
@@ -11830,6 +11776,7 @@ rust-decimal
 rust-defer-drop
 rust-deflate
 rust-deflate0.8
+Error pulling 'rust-der_derive'
 rust-der_derive
 rust-derivative
 rust-derive_arbitrary
@@ -11926,7 +11873,6 @@ rust-fake
 rust-fallible_collections
 rust-fallible-iterator
 rust-fallible-streaming-iterator
-Error pulling 'rust-faster-hex'
 rust-fastrand
 rust-fb_procfs
 rust-fd-find
@@ -11996,6 +11942,7 @@ rust-globset
 rust-glob
 rust-glutin_egl_sys
 rust-glutin_glx_sys
+Error pulling 'rust-glutin'
 rust-glutin
 rust-gmp-mpfr-sys
 rust-gptman
@@ -12022,6 +11969,7 @@ rust-hashbrown0.11
 rust-hashbrown0.9
 rust-hashlink
 rust-heapsize
+Error pulling 'rust-heck'
 rust-heck
 rust-heck0.3
 rust-helvum
@@ -12060,7 +12008,6 @@ rust-idna
 rust-idna0.1
 rust-ifcfg-devname
 rust-ignition-config
-Error pulling 'rust-ignore'
 rust-ignore
 rust-impls
 rust-indenter
@@ -12399,7 +12346,6 @@ rust-resctl-bench-intf
 rust-resctl-bench
 rust-resctl-demo
 rust-resolv-conf
-Error pulling 'rust-rfc6979'
 rust-ring
 rust-ripgrep
 rust-rle-decode-fast
@@ -12857,7 +12803,6 @@ ser2net
 setBfree
 setconf
 setserial
-setxkbmap
 setzer
 sevmgr
 sextractor
@@ -12917,6 +12862,7 @@ sigrok-firmware-fx2lafw
 sigrok-firmware
 sigul
 sil-alkalami-fonts
+Error pulling 'sil-andika-compact-fonts'
 sil-andika-compact-fonts
 sil-andika-fonts
 sil-andika-new-basic-fonts
@@ -13252,7 +13198,6 @@ swell-foop
 swing-layout
 switcheroo-control
 switchtec
-sword
 sxhkd
 sxiv
 sylfilter
@@ -13480,10 +13425,6 @@ touchcal
 touchegg
 toxcore
 tpm-tools
-tpm2-abrmd-selinux
-tpm2-pkcs11
-tpm2-tools
-tpm2-tss
 t-prot
 trace-summary
 trackballs-music
@@ -13698,6 +13639,7 @@ vdr-skinnopacity
 vdr
 vdr-streamdev
 vdrsymbol-fonts
+Error pulling 'vdr-tvguide'
 vdr-tvguide
 vdr-vnsiserver
 vecmath1.2
@@ -13876,7 +13818,6 @@ winpdb
 wipe
 wireguard-tools
 wireless-regdb
-wireplumber
 wise2
 withlock
 wkhtmltopdf
@@ -13954,6 +13895,7 @@ xblast-data
 xblast
 xbsql
 xcalc
+Error pulling 'xcalib'
 xcalib
 xca
 xcat
@@ -14107,7 +14049,6 @@ xorg-x11-drv-vesa
 xorg-x11-fonts
 xorg-x11-font-utils
 xorg-x11-server
-xorg-x11-xauth
 Error pulling 'xorg-x11-xdm'
 xorg-x11-xdm
 xorsearch
@@ -14126,7 +14067,6 @@ xpsk31
 xqc
 xqilla
 xq
-xrdb
 xrdp
 xreader
 xrefresh
@@ -14173,7 +14113,6 @@ xyzsh
 xzgv
 xz
 x11docker
-x11perf
 x11-ssh-askpass
 x11trace
 x2goclient
