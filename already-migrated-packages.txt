@@ -915,6 +915,7 @@ fldigi
 flexiblas
 flexmark-java
 flickcurl
+flim
 flintqs
 flint
 flmsg
@@ -2723,6 +2724,7 @@ ibus-table
 ibus-typing-booster
 ibus-uniemoji
 icat
+iceauth
 icedtea-web
 icoutils
 icu
@@ -2765,6 +2767,7 @@ input-leap
 input-pad
 input-remapper
 intel-clear-sans-fonts
+intel-cmt-cat
 intel-ipp-crypto-mb
 intel-ipsec-mb
 intelone-mono-fonts
@@ -2933,10 +2936,14 @@ keycloak-httpd-client-install
 keylime-agent-rust
 keyrings-filesystem
 kf6-bluez-qt
+kf6-karchive
 kf6-kguiaddons
 kf6-kholidays
 kf6-kquickcharts
+kf6-modemmanager-qt
+kf6-networkmanager-qt
 kf6
+kf6-syntax-highlighting
 kgeography
 kgraphviewer
 khmer-os-fonts
@@ -3763,6 +3770,7 @@ mingw-quazip
 mingw-qwt
 mingw-readline
 mingw-SDL_mixer
+mingw-sdl12-compat
 mingw-SDL2_mixer
 mingw-SDL2_ttf
 mingw-spirv-tools
@@ -6149,10 +6157,6 @@ php-phar-io-manifest2
 php-phar-io-version3
 php-phpiredis
 php-phpmailer6
-php-phpmyadmin-motranslator5
-php-phpmyadmin-shapefile3
-php-phpmyadmin-sql-parser5
-php-phpunit-File-Iterator
 php-phpunit-php-code-coverage10
 php-phpunit-php-code-coverage7
 php-phpunit-php-code-coverage9
@@ -6168,7 +6172,6 @@ php-phpunit-php-timer2
 php-phpunit-php-timer5
 php-phpunit-php-timer6
 php-phpunit-php-token-stream4
-php-phpunit-PHPUnit
 php-phpunit-Text-Template
 php-phpunit-Version
 php-sabre-http5
@@ -6248,6 +6251,7 @@ pinfo
 pingus
 pipenightdreams
 piper
+pipewire-media-session
 pipx
 pitivi
 pixman
@@ -6540,6 +6544,7 @@ python-comm
 python-compreffor
 python-conda-package-handling
 python-conda-package-streaming
+python-configobj
 python-configupdater
 python-confuse
 python-construct-classes
@@ -7720,8 +7725,6 @@ rubygem-benchmark-ips
 rubygem-between_meals
 rubygem-bindex
 rubygem-bootsnap
-rubygem-boxgrinder-build
-rubygem-boxgrinder-core
 rubygem-bson
 rubygem-builder
 rubygem-bundler_ext
@@ -8443,6 +8446,7 @@ rust-clap3
 rust-clicolors-control
 rust-clippy-sarif
 rust-clircle
+rust-clru
 rust-cmac
 rust-cmake
 rust-codepage
@@ -8899,10 +8903,12 @@ rust-gix-attributes
 rust-gix-bitmap
 rust-gix-command
 rust-gix-commitgraph
+rust-gix-config
 rust-gix-config-value
 rust-gix-credentials
 rust-gix-date
 rust-gix-diff
+rust-gix-discover
 rust-gix-features
 rust-gix-fs
 rust-gix-glob
@@ -8912,10 +8918,14 @@ rust-gix-chunk
 rust-gix-ignore
 rust-gix-index
 rust-gix-lock
+rust-gix-macros
 rust-gix-mailmap
+rust-gix-negotiate
 rust-gix-object
+rust-gix-packetline-blocking
 rust-gix-packetline
 rust-gix-path
+rust-gix-pathspec
 rust-gix-prompt
 rust-gix-quote
 rust-gix-ref
@@ -8925,10 +8935,12 @@ rust-gix-revwalk
 rust-gix-sec
 rust-gix-tempfile
 rust-gix-trace
+rust-gix-transport
 rust-gix-traverse
 rust-gix-url
 rust-gix-utils
 rust-gix-validate
+rust-gix-worktree
 rust-gl_generator
 rust-glib-build-tools
 rust-glib-macros
@@ -10277,6 +10289,7 @@ rust-ucd-trie
 rust-udev
 rust-uefi-run
 rust-ufmt-write
+rust-uluru
 rust-umask
 rust-unarray
 rust-uncased
@@ -10297,6 +10310,7 @@ rust-unic-locale
 rust-unicode-bidi
 rust-unicode-bom
 rust-unicode_categories
+rust-unicode-general-category
 rust-unicode-ident
 rust-unicode-linebreak
 rust-unicode-normalization
@@ -11162,6 +11176,7 @@ xorg-x11-drv-fbdev
 xorg-x11-drv-libinput
 xorg-x11-drv-vmware
 xorg-x11-drv-wacom
+xorg-x11-fonts
 xorg-x11-proto-devel
 xorg-x11-server-Xwayland
 xorg-x11-util-macros

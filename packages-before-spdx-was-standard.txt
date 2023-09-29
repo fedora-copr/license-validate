@@ -681,16 +681,17 @@ coin-or-OS
 coin-or-Sample
 coin-or-SYMPHONY
 coin-or-Vol
+Error pulling 'coin'
 coin
 Coin4
 coldet
+Error pulling 'colin'
 colin
 collectd
 collectl
 colm
 color-filesystem
 colorful
-Error pulling 'colorgcc'
 colorgcc
 colorized-logs
 colossus
@@ -1002,6 +1003,7 @@ disorderfs
 dispenso
 distrobox
 distro-info-data
+Error pulling 'distro-info'
 distro-info
 ditaa
 djview4
@@ -1423,7 +1425,6 @@ exodusii
 exo
 expatpp
 expat
-Error pulling 'external-editor-revived'
 extra-cmake-modules
 extractpdfmark
 extrema
@@ -1595,7 +1596,6 @@ FlightGear-data
 FlightGear
 flight-of-the-amazon-queen-cd
 flight-of-the-amazon-queen
-flim
 flite
 fllog
 flnet
@@ -1754,7 +1754,6 @@ gawk-lmdb
 gawk-nl_langinfo
 gawk-pgsql
 gawk-redis
-Error pulling 'gawk-select'
 gawk-select
 gawk-xml
 gazebo
@@ -1793,6 +1792,7 @@ geary
 gecode
 gedit-color-schemes
 gedit-control-your-tabs
+Error pulling 'gedit-latex'
 gedit-latex
 gedit-plugin-editorconfig
 gedit-plugins
@@ -1974,6 +1974,7 @@ ghc-streaming-commons
 ghc-syb
 ghc-terminal-size
 ghc-text-manipulate
+Error pulling 'ghc-text-short'
 ghc-text-short
 ghc-text-zipper
 ghc-th-abstraction
@@ -3345,6 +3346,7 @@ golang-github-tdewolff-parse
 golang-github-tdewolff-test
 golang-github-teambition-rrule
 golang-github-temoto-robotstxt
+Error pulling 'golang-github-termie-shutil'
 golang-github-termie-shutil
 golang-github-test-deep
 golang-github-theoapp-theo-agent
@@ -3403,7 +3405,6 @@ golang-github-vinyldns
 golang-github-vishvananda-netlink
 golang-github-vishvananda-netns
 golang-github-vividcortex-ewma
-Error pulling 'golang-github-vividcortex-gohistogram'
 golang-github-vividcortex-gohistogram
 golang-github-vividcortex-mysqlerr
 golang-github-vivint-infectious
@@ -3816,6 +3817,7 @@ gyazo
 gydl
 hakrevdns
 halibut
+Error pulling 'harec'
 hashid
 hatari
 hatools
@@ -3955,7 +3957,6 @@ ibutils
 icaro
 icc-profiles-basiccolor-printing2009
 icc-profiles-openicc
-iceauth
 icebreaker
 icecast
 icecat
@@ -4888,6 +4889,7 @@ libid3tag
 libiec61883
 libieee1284
 libifp
+Error pulling 'libiio'
 libiio
 libime
 libindicator
@@ -5279,7 +5281,6 @@ llmnrd
 llvm-test-suite
 llvm11
 llvm12
-Error pulling 'llvm13'
 llvm13
 llvm7.0
 llvm8.0
@@ -5751,7 +5752,6 @@ mingw-qt5-qtsensors
 mingw-qt5-qtserialport
 mingw-qt5-qtsvg
 mingw-qt5-qttools
-Error pulling 'mingw-qt5-qttranslations'
 mingw-qt5-qttranslations
 mingw-qt5-qtwebchannel
 mingw-qt5-qtwebsockets
@@ -6023,6 +6023,7 @@ ncrack
 Error pulling 'ncurses-epel'
 ncurses-epel
 ncurses
+Error pulling 'ncview'
 ncview
 ndctl
 ndesk-dbus-glib
@@ -7572,7 +7573,6 @@ perl-Palm-PDB
 perl-Palm
 perl-Pango
 perl-Panotools-Script
-Error pulling 'perl-Parallel-Iterator'
 perl-Parallel-Iterator
 perl-PAR-Packer
 perl-Parse-CPAN-Distributions
@@ -7583,7 +7583,6 @@ perl-Parse-MIME
 perl-PAR
 perl-Path-Dispatcher
 perl-PatchReader
-Error pulling 'perl-PBKDF2-Tiny'
 perl-PBKDF2-Tiny
 perl-PDF-Builder
 perl-PDF-Create
@@ -7795,6 +7794,7 @@ perl-Syntax-Keyword-MultiSub
 perl-Syntax-Operator-Divides
 perl-Syntax-Operator-Equ
 perl-Sys-Detect-Virtualization
+Error pulling 'perl-Sys-Mmap'
 perl-Sys-Mmap
 perl-Sys-Path
 perl-Sys-Statistics-Linux
@@ -8095,7 +8095,6 @@ pgsphere
 pg_top
 pg_view
 pgzero
-phan
 phasex
 phd2
 phoc
@@ -8320,10 +8319,6 @@ php-phpdocumentor-type-resolver1
 php-php-gettext
 php-phplang-scope-exit
 php-phpmailer6
-php-phpmyadmin-motranslator5
-php-phpmyadmin-shapefile
-php-phpmyadmin-shapefile3
-php-phpmyadmin-sql-parser5
 php-PHPParser
 php-phpseclib-crypt-aes
 php-phpseclib-crypt-base
@@ -8341,34 +8336,15 @@ php-phpseclib-net-sftp
 php-phpseclib-net-ssh2
 php-phpseclib
 php-phpSmug
-php-phpspec-php-diff
 php-phpspec-prophecy-phpunit
 php-phpspec-prophecy
-php-phpspec
-php-phpunit-comparator
-php-phpunit-DbUnit
 php-phpunit-dbunit4
-php-phpunit-diff
-php-phpunit-environment
-php-phpunit-exporter
-php-phpunit-File-Iterator
-php-phpunit-FinderFacade
 php-phpunit-git
 php-phpunitgoodpractices-polyfill
-php-phpunit-PHP-CodeCoverage
 php-phpunit-php-code-coverage6
 php-phpunit-php-code-coverage9
-php-phpunit-PHP-Invoker
-php-phpunit-PHP-Timer
 php-phpunit-php-timer3
-php-phpunit-php-token-stream2
 php-phpunit-php-token-stream3
-php-phpunit-PHPUnit-MockObject
-php-phpunit-PHPUnit-Selenium
-php-phpunit-PHPUnit-SkeletonGenerator
-php-phpunit-PHPUnit
-php-phpunit-PHPUnit-Story
-php-phpunit-selenium
 php-pimple
 php-pragmarx-google2fa5
 php-psr-cache
@@ -8399,13 +8375,8 @@ php-samyoul-u2f-php-server
 php-sanmai-phpunit-legacy-adapter
 php-scssphp
 php-sebastian-environment5
-php-sebastian-finder-facade2
-php-sebastian-global-state
 php-sebastian-global-state2
-php-sebastian-object-enumerator
-php-sebastian-recursion-context
 php-sebastian-recursion-context4
-php-sebastian-resource-operations
 php-sebastian-type3
 php-seld-cli-prompt
 php-seld-phar-utils
@@ -8484,7 +8455,6 @@ pipebench
 pipenv
 pipepanic
 pipewalker
-pipewire-media-session
 pipewire
 pipewire0.2
 pisg
@@ -8641,6 +8611,7 @@ prometheus-simpleclient-java
 prosody
 protontricks
 protonvpn-cli
+Error pulling 'proxmark3'
 proxmark3
 proxyfuzz
 proxygen
@@ -8819,7 +8790,6 @@ python-aniso8601
 python-ansible-runner
 python-ansicolor
 python-ansicolors
-python-ansi
 python-ansiwrap
 python-ansi2html
 python-anyconfig
@@ -9093,7 +9063,6 @@ python-commandparse
 python-CommonMark
 python-compal
 python-configargparse
-python-configobj
 python-configshell
 python-confluent-kafka
 python-connect-box
@@ -9445,6 +9414,7 @@ python-google-cloud-asset
 python-google-cloud-automl
 python-google-cloud-bigquery-connection
 python-google-cloud-bigquery-datatransfer
+Error pulling 'python-google-cloud-bigquery-reservation'
 python-google-cloud-bigquery-reservation
 python-google-cloud-bigquery
 python-google-cloud-bigquery-storage
@@ -9559,7 +9529,6 @@ python-idna-ssl
 python-idstools
 python-ifaddr
 python-ifcfg
-python-igor
 python-imagehash
 python-imageio
 python-img2pdf
@@ -9603,7 +9572,6 @@ python-jaraco-collections
 python-jaraco-envs
 python-jaraco-functools
 python-jaraco-packaging
-Error pulling 'python-jaraco-path'
 python-jaraco-path
 python-jaraco-text
 python-javalang
@@ -10471,7 +10439,6 @@ python-stackprinter
 python-statsd
 python-statsmodels
 python-stdiomask
-Error pulling 'python-stdnum'
 python-stdnum
 python-steam
 python-stem
@@ -11776,7 +11743,6 @@ rust-decimal
 rust-defer-drop
 rust-deflate
 rust-deflate0.8
-Error pulling 'rust-der_derive'
 rust-der_derive
 rust-derivative
 rust-derive_arbitrary
@@ -11923,6 +11889,7 @@ rust-futures-timer
 rust-futures-util
 rust-futures0.1
 rust-fxhash
+Error pulling 'rust-gdk4-wayland-sys'
 rust-gethostname
 rust-getch
 rust-getopts
@@ -11942,7 +11909,6 @@ rust-globset
 rust-glob
 rust-glutin_egl_sys
 rust-glutin_glx_sys
-Error pulling 'rust-glutin'
 rust-glutin
 rust-gmp-mpfr-sys
 rust-gptman
@@ -11961,15 +11927,16 @@ rust-gstreamer-pbutils
 rust-gstreamer-player
 rust-gstreamer
 rust-gstreamer-video
+Error pulling 'rust-gvdb'
 rust-gzip-header
 rust-half
 rust-hamcrest2
 rust-hashbrown
 rust-hashbrown0.11
+Error pulling 'rust-hashbrown0.9'
 rust-hashbrown0.9
 rust-hashlink
 rust-heapsize
-Error pulling 'rust-heck'
 rust-heck
 rust-heck0.3
 rust-helvum
@@ -12670,6 +12637,7 @@ R-wesanderson
 R-whisker
 R-whoami
 rwhoisd
+Error pulling 'rwho'
 rwho
 R-widgetTools
 R-winch
@@ -12862,7 +12830,6 @@ sigrok-firmware-fx2lafw
 sigrok-firmware
 sigul
 sil-alkalami-fonts
-Error pulling 'sil-andika-compact-fonts'
 sil-andika-compact-fonts
 sil-andika-fonts
 sil-andika-new-basic-fonts
@@ -13639,7 +13606,6 @@ vdr-skinnopacity
 vdr
 vdr-streamdev
 vdrsymbol-fonts
-Error pulling 'vdr-tvguide'
 vdr-tvguide
 vdr-vnsiserver
 vecmath1.2
@@ -13667,6 +13633,7 @@ vim-ale
 vim-ansible
 vim-command-t
 vim-commentary
+Error pulling 'vim-ctrlp'
 vim-ctrlp
 vim-devicons
 vim-fugitive
@@ -13895,7 +13862,6 @@ xblast-data
 xblast
 xbsql
 xcalc
-Error pulling 'xcalib'
 xcalib
 xca
 xcat
@@ -14046,7 +14012,6 @@ xorg-x11-drv-openchrome
 xorg-x11-drv-qxl
 xorg-x11-drv-synaptics
 xorg-x11-drv-vesa
-xorg-x11-fonts
 xorg-x11-font-utils
 xorg-x11-server
 Error pulling 'xorg-x11-xdm'
