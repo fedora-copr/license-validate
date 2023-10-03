@@ -4,6 +4,7 @@ rm -f final_just_packages.txt
 rm -f eln-list.txt
 
 wget https://tiny.distro.builders/view-all-source-package-name-list--view-eln.txt -O eln-list.txt
+wget https://tiny.distro.builders/view-source-package-name-list--view-eln.txt -O eln-without-buildroot.txt
 
 # creates package-license.txt and license.txt
 ./download-all-fedora-licenses

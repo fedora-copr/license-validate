@@ -1861,7 +1861,6 @@ fim
 finger
 fio
 fips
-fira-code-fonts
 firebird
 firecracker
 firefox-pkcs11-loader
@@ -3194,7 +3193,6 @@ golang-github-apache-openwhisk-client
 golang-github-apapsch-jsonmerge-2
 golang-github-apparentlymart-textseg-13
 golang-github-appc-docker2aci
-golang-github-appc-goaci
 golang-github-appc-spec
 golang-github-aquarapid-vaultlib
 golang-github-armon-circbuf
@@ -4255,6 +4253,7 @@ golang-github-rubyist-tracerx
 golang-github-rwcarlsen-goexif
 golang-github-ryanuber-columnize
 golang-github-ryanuber-glob
+golang-github-r3labs-diff-3
 golang-github-sacloud-api-client
 golang-github-sacloud-http
 golang-github-sacloud-iaas-api
@@ -5263,7 +5262,6 @@ iwidgets
 iw
 iwyu
 iyfct
-i2c-tools
 i3blocks
 i3-gaps
 i3lock
@@ -5284,6 +5282,7 @@ jaero
 jakarta-el
 jakarta-interceptors
 jakarta-mail
+jakarta-mail1
 jakarta-saaj
 jakarta-server-pages
 jakarta-xml-ws
@@ -5339,7 +5338,6 @@ jello
 jemalloc
 jericho-html
 jetbrains-annotations
-jetbrains-mono-fonts
 jetring
 jetty
 jfbterm
@@ -5403,6 +5401,7 @@ jsoup
 js-responsive-elements
 jssc
 jss
+jstest-gtk
 js8call
 jtc
 jtidy
@@ -5674,13 +5673,22 @@ kf5-syntax-highlighting
 kf5-threadweaver
 kf6-bluez-qt
 kf6-karchive
+kf6-kdbusaddons
+kf6-kdnssd
 kf6-kguiaddons
 kf6-kholidays
+kf6-kidletime
+kf6-kitemviews
 kf6-kquickcharts
+kf6-kwayland
+kf6-kwidgetsaddons
 kf6-modemmanager-qt
 kf6-networkmanager-qt
+kf6-solid
+kf6-sonnet
 kf6
 kf6-syntax-highlighting
+kf6-threadweaver
 kgamma
 kget
 kgoldrunner
@@ -6269,7 +6277,6 @@ libkgapi
 libkindrv
 libkiwix
 libkkc-data
-libkkc
 libkmahjongg
 libkml
 libkolabxml
@@ -7756,7 +7763,6 @@ nemo
 neofetch
 neomutt
 neon-backgrounds
-neon
 neo
 neovim-qt
 nes_ntsc
@@ -11052,7 +11058,6 @@ php-cache-tag-interop
 php-composer-ca-bundle
 php-composer-metadata-minifier
 php-composer-pcre
-php-composer-semver3
 php-composer-xdebug-handler
 php-composer-xdebug-handler2
 php-consolidation-annotated-command
@@ -11073,7 +11078,6 @@ php-doctrine-common
 php-doctrine-common3
 php-doctrine-datafixtures
 php-doctrine-dbal
-php-doctrine-dbal3
 php-doctrine-deprecations
 php-doctrine-doctrine-bundle
 php-doctrine-doctrine-cache-bundle
@@ -11168,14 +11172,11 @@ phpMyAdmin
 php-myclabs-deep-copy
 php-myclabs-php-enum
 php-netresearch-jsonmapper
-php-nikic-fast-route
 php-nikic-php-parser3
 php-nikic-php-parser4
 php-nyholm-psr7
 php-oauth
 php-ocramius-code-generator-utils
-php-ocramius-instantiator
-php-ocramius-lazy-map
 php-ocramius-proxy-manager
 php-oojs-oojs-ui
 php-opencloud-openstack
@@ -11264,7 +11265,6 @@ php-phpseclib
 php-phpSmug
 php-phpspec-prophecy-phpunit
 php-phpspec-prophecy
-php-phpunit-dbunit4
 php-phpunit-git
 php-phpunitgoodpractices-polyfill
 php-phpunit-php-code-coverage10
@@ -11374,7 +11374,6 @@ php-zetacomponents-base
 php-zetacomponents-console-tools
 php-zetacomponents-unit-test
 php-zipstream
-php-znerol-php-stringprep
 php-zordius-lightncandy
 php-zstd
 php-zumba-json-serializer
@@ -12179,7 +12178,6 @@ python-compal
 python-compreffor
 python-conda-package-streaming
 python-configargparse
-python-configobj
 python-configshell
 python-configupdater
 python-confluent-kafka
@@ -12885,6 +12883,7 @@ python-kombu
 python-korean-lunar-calendar
 python-krb5
 python-kubernetes
+python-k5test
 python-landslide
 python-lark
 python-launchpadlib
@@ -13328,7 +13327,6 @@ python-podman
 python-poetry-core
 python-poetry-dynamic-versioning
 python-poetry-plugin-export
-python-polib
 python-policyuniverse
 python-pooch
 python-portalocker
@@ -13379,6 +13377,8 @@ python-pyaib
 python-pyairnow
 python-pyairvisual
 python-pyarlo
+python-pyasyncore
+python-pyasynchat
 python-pybalboa
 python-pybeam
 python-pybids
@@ -13457,7 +13457,6 @@ python-pymacaroons-pynacl
 python-pymapvbvd
 python-pymata-express
 python-pymatreader
-python-pymc3
 python-pymediainfo
 python-pymediawiki
 python-pymeeus
@@ -13640,6 +13639,7 @@ python-pywayland
 python-pywizlight
 python-pywlroots
 python-pywt
+python-pyxdameraulevenshtein
 python-pyxdf
 python-pyxid
 python-pyxs
@@ -14133,6 +14133,7 @@ python-uranium
 python-uritemplate
 python-urlgrabber
 python-urllib-gssapi
+python-url-normalize
 python-urwid-readline
 python-urwid
 python-urwidtrees
@@ -14484,6 +14485,7 @@ qt-virt-manager
 qtwaifu2x
 qtwebkit
 qtxdg-tools
+qtzeroconf
 qt3
 qt4pas
 qt4-style-fusion
@@ -14497,6 +14499,7 @@ qt5-qtpbfimageformat
 qt5-qtstyleplugins
 qt5-qtwebengine
 qt6ct
+qt6-qthttpserver
 qt6-qtlanguageserver
 qt6-qtlocation
 qt6-qtspeech
@@ -15803,7 +15806,6 @@ rust-blowfish
 rust-blsctl
 rust-bodhi-cli
 rust-bodhi
-rust-bootupd
 rust-box_drawing
 rust-brotli-decompressor
 rust-brotli
@@ -16206,13 +16208,13 @@ rust-esphome
 rust-ethtool
 rust-event-listener
 rust-event-manager
-rust-exa
 rust-executable-path
 rust-exitcode
 rust-exitfailure
 rust-expat-sys
 rust-expect-test
 rust-eyre
+rust-eza
 rust-faccess
 rust-fail
 rust-failure_derive
@@ -16318,8 +16320,12 @@ rust-gdk4-sys
 rust-gdk4-sys0.6
 rust-gdk4-wayland
 rust-gdk4-wayland-sys
+rust-gdk4-wayland-sys0.6
+rust-gdk4-wayland0.6
 rust-gdk4-x11
 rust-gdk4-x11-sys
+rust-gdk4-x11-sys0.6
+rust-gdk4-x11_0.6
 rust-gdk4_0.6
 rust-generic-array
 rust-generic-array0.12
@@ -16371,6 +16377,7 @@ rust-gix-date
 rust-gix-diff
 rust-gix-discover
 rust-gix-features
+rust-gix-filter
 rust-gix-fs
 rust-gix-glob
 rust-gix-hash
@@ -16385,15 +16392,18 @@ rust-gix-negotiate
 rust-gix-object
 rust-gix-packetline-blocking
 rust-gix-packetline
+rust-gix-pack
 rust-gix-path
 rust-gix-pathspec
 rust-gix-prompt
+rust-gix-protocol
 rust-gix-quote
 rust-gix-ref
 rust-gix-refspec
 rust-gix-revision
 rust-gix-revwalk
 rust-gix-sec
+rust-gix-submodule
 rust-gix-tempfile
 rust-gix-trace
 rust-gix-transport
@@ -16447,6 +16457,7 @@ rust-gsk4
 rust-gsk4-sys
 rust-gsk4-sys0.6
 rust-gsk4_0.6
+rust-gst-plugin-gtk4
 rust-gst-plugin-reqwest
 rust-gst-plugin-version-helper
 rust-gstreamer-audio
@@ -16455,6 +16466,14 @@ rust-gstreamer-base
 rust-gstreamer-base-sys
 rust-gstreamer-editing-services
 rust-gstreamer-editing-services-sys
+rust-gstreamer-gl-egl
+rust-gstreamer-gl-egl-sys
+rust-gstreamer-gl
+rust-gstreamer-gl-sys
+rust-gstreamer-gl-wayland
+rust-gstreamer-gl-wayland-sys
+rust-gstreamer-gl-x11
+rust-gstreamer-gl-x11-sys
 rust-gstreamer-pbutils
 rust-gstreamer-pbutils-sys
 rust-gstreamer-player
@@ -16676,8 +16695,6 @@ rust-lexiclean
 rust-lexopt
 rust-libadwaita
 rust-libadwaita-sys
-rust-libadwaita-sys0.3
-rust-libadwaita0.3
 rust-libblkid-rs
 rust-libblkid-rs-sys
 rust-libbpf-cargo
@@ -17956,6 +17973,7 @@ rust-zvariant_utils
 rust-zvariant2
 rust-z85
 rust2rpm
+rutabaga-gfx-ffi
 R-utf8
 R-uuid
 R-vcd
@@ -18310,6 +18328,7 @@ snallygaster
 snapd-glib
 snapper
 snapraid
+snapshot
 sndfile-tools
 snes_ntsc
 sng
@@ -18384,6 +18403,7 @@ spec2scl
 speedcrunch
 speed-dreams
 speedtest-cli
+speedtest
 spglib
 spherical-cow-backgrounds
 sphinxbase
@@ -19042,7 +19062,6 @@ usrsctp
 ustreamer
 ustr
 uswds-public-sans-fonts
-utf8proc
 uthash
 util-linux
 utox
@@ -19569,7 +19588,6 @@ xorg-x11-drv-openchrome
 xorg-x11-drv-qxl
 xorg-x11-drv-synaptics
 xorg-x11-drv-vesa
-xorg-x11-fonts
 xorg-x11-font-utils
 xorg-x11-server
 xorg-x11-xdm

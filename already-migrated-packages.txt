@@ -149,6 +149,7 @@ appx-util
 apricots
 apron
 aprsdigi
+apr-util
 apt-cacher-ng
 apt
 aqbanking
@@ -333,6 +334,7 @@ boom-boot
 boost
 booth
 borgbackup
+borgmatic
 bottles
 bovo
 bowtie2
@@ -363,6 +365,7 @@ budgie-desktop
 buildah
 buildbot
 build-helper-maven-plugin
+buildstream
 build2
 buku
 bustle
@@ -621,6 +624,7 @@ cxsc
 cxxopts
 cxxtest
 cylindrix
+cyrus-imapd
 cyrus-sasl
 Cython
 c2esp
@@ -673,6 +677,7 @@ deepin-system-monitor
 deepin-terminal
 deepin-wallpapers
 deja-dup
+delve
 desktop-backgrounds
 deutex
 devscripts
@@ -684,6 +689,7 @@ dhall
 dh-autoreconf
 dhcpcd
 dhcpdump
+dhcp
 diction
 dietlibc
 diff-so-fancy
@@ -890,6 +896,7 @@ filesystem
 filezilla
 fim
 findutils
+fira-code-fonts
 firecracker
 firejail
 firmitas
@@ -2168,6 +2175,7 @@ golang-github-pin-tftp-3
 golang-github-pkg-errors
 golang-github-pkg-profile
 golang-github-pkg-sftp
+golang-github-pkg-xattr
 golang-github-poy-onpar
 golang-github-prashantv-gostub
 golang-github-projectdiscovery-freeport
@@ -2189,6 +2197,7 @@ golang-github-remind101-migrate
 golang-github-rexray-gocsi
 golang-github-rogpeppe-charset
 golang-github-rootless-containers-rootlesskit
+golang-github-r3labs-diff-3
 golang-github-sacloud-api-client
 golang-github-sacloud-http
 golang-github-sacloud-iaas-api
@@ -2407,6 +2416,7 @@ gspell
 gst-devtools
 gst-editing-services
 gstreamer1-plugin-libav
+gst
 gthumb
 GtkAda
 GtkAda3
@@ -2445,6 +2455,7 @@ gvisor-tap-vsock
 gweled
 gwenhywfar
 gwenview
+gwe
 gxmms2
 gyp
 gzip
@@ -2492,6 +2503,7 @@ hledger-ui
 hledger-web
 hlint
 hostapd
+hostname
 hplip
 hpx
 hqx
@@ -2799,6 +2811,7 @@ isomd5sum
 ispc
 itstool
 itzam-core
+i2c-tools
 i3
 i3status
 jackson-annotations
@@ -2815,6 +2828,7 @@ jakarta-activation1
 jakarta-annotations
 jakarta-json
 jakarta-mail
+jakarta-mail1
 jakarta-oro
 jakarta-servlet
 janino
@@ -2885,6 +2899,7 @@ json
 jsoup
 jsr-305
 jss
+jstest-gtk
 Judy
 julietaula-montserrat-fonts
 junit
@@ -2937,13 +2952,22 @@ keylime-agent-rust
 keyrings-filesystem
 kf6-bluez-qt
 kf6-karchive
+kf6-kdbusaddons
+kf6-kdnssd
 kf6-kguiaddons
 kf6-kholidays
+kf6-kidletime
+kf6-kitemviews
 kf6-kquickcharts
+kf6-kwayland
+kf6-kwidgetsaddons
 kf6-modemmanager-qt
 kf6-networkmanager-qt
+kf6-solid
+kf6-sonnet
 kf6
 kf6-syntax-highlighting
+kf6-threadweaver
 kgeography
 kgraphviewer
 khmer-os-fonts
@@ -3049,6 +3073,7 @@ libbsd
 libburn
 libbytesize
 libcamera-apps
+libcamera
 libcap-ng
 libcbor
 libcdr
@@ -3180,6 +3205,7 @@ libkcapi
 libkdumpfile
 libkindrv
 libkiwix
+libkkc
 libkrun
 libksba
 liblangtag
@@ -3224,6 +3250,7 @@ libnftnl
 libnotify
 libntirpc
 libnumbertext
+libnvme
 libnxz
 libocxl
 libodfgen
@@ -3382,6 +3409,7 @@ libxcvt
 libXdamage
 libxdg-basedir
 libXdmcp
+libXext
 libXfixes
 libXfont2
 libXft
@@ -3403,6 +3431,7 @@ libxshmfence
 libxslt
 libxsmm
 libXt
+libXtst
 libXv
 libXxf86vm
 libX11
@@ -3588,6 +3617,7 @@ mailman3
 mailprocessing
 makemusic-finale-fonts
 make
+mame
 man-db
 mandoc
 manchu-fonts
@@ -3943,6 +3973,7 @@ nco
 ndiscover-exo-2-fonts
 ndppd
 neochat
+neon
 neovim
 netavark
 netcat
@@ -4005,6 +4036,7 @@ numptyphysics
 numpy
 nuspell
 nut
+nvme-cli
 nvme-stas
 nvtop
 nwg-wrapper
@@ -6097,7 +6129,6 @@ php-google-recaptcha
 php-IDNA_Convert
 php-kissifrot-php-ixr
 php-manual-en
-php-markdown
 php-maxminddb
 php-mockery
 php-mongodb
@@ -6358,6 +6389,7 @@ psmisc
 pstreams-devel
 pt-astra-sans-fonts
 pt-astra-serif-fonts
+ptpython
 pt-sans-fonts
 public-inbox
 publicsuffix-list
@@ -6389,6 +6421,7 @@ pyparted
 pyproject-rpm-macros
 pyproj
 pyp2spec
+pyserial
 pyshp
 PySolFC-cardsets
 PySolFC-music
@@ -6646,6 +6679,7 @@ python-flask-restx
 python-flask-socketio
 python-flask-whooshee
 python-flask-wtf-decorators
+python-flask-wtf
 python-flexcache
 python-flexmock
 python-flit-core
@@ -6755,6 +6789,7 @@ python-hid-parser
 python-httmock
 python-http-ece
 python-httplib2
+python-httpretty
 python-http-server-mock
 python-httpx-socks
 python-hudman
@@ -6847,6 +6882,7 @@ python-keyrings-alt
 python-keyring
 python-kiwisolver
 python-krb5
+python-k5test
 python-langdetect
 python-lark
 python-latexcodec
@@ -7027,10 +7063,12 @@ python-podman
 python-poetry-core
 python-poetry-dynamic-versioning
 python-poetry-plugin-export
+python-polib
 python-portalocker
 python-posix-ipc
 python-postorius
 python-pplpy
+python-prettytable
 python-primecountpy
 python-probeinterface
 python-productmd
@@ -7045,6 +7083,8 @@ python-puzpy
 python-pyABF
 python-py-algorand-sdk
 python-pyasn1
+python-pyasyncore
+python-pyasynchat
 python-pybids
 python-pybtex-docutils
 python-pybtex
@@ -7145,6 +7185,7 @@ python-pyudev
 python-pyvmomi
 python-pywayland
 python-pywlroots
+python-pyxdameraulevenshtein
 python-pyxdf
 python-py27hash
 python-py3nvml
@@ -7241,6 +7282,7 @@ python-sklearn-genetic
 python-slackclient
 python-smartcols
 python-smmap
+python-sniffio
 python-social-auth-core
 python-socketio
 python-sortedcontainers
@@ -7263,6 +7305,7 @@ python-sphinx-design
 python-sphinx-documatt-theme
 python-sphinxext-rediraffe
 python-sphinx-inline-tabs
+python-sphinx-issues
 python-sphinx-markdown-tables
 python-sphinx-math-dollar
 python-sphinx-mdinclude
@@ -7357,6 +7400,7 @@ python-ukkonen
 python-unicodedata2
 python-uri-template
 python-urllib3
+python-url-normalize
 python-userpath
 python-uswid
 python-uvicorn
@@ -7453,14 +7497,17 @@ qgnomeplatform
 qjackctl
 qmapshack
 qm
+qownnotes
 qpdf
 qr-code-generator
 qrtr
 qsynth
+qt-creator
 qt-jdenticon
 qtpass
 qtspell
 qtxdg-tools
+qtzeroconf
 qt5-qtbase
 qt5-qtconnectivity
 qt5-qtdatavis3d
@@ -7499,6 +7546,7 @@ qt6-qtbase
 qt6-qtconnectivity
 qt6-qtdatavis3d
 qt6-qtdeclarative
+qt6-qthttpserver
 qt6-qtcharts
 qt6-qtimageformats
 qt6-qtlanguageserver
@@ -7593,6 +7641,7 @@ restic
 reStream
 rest
 retrace-server
+retroarch
 retsnoop
 reuse
 R-flexiblas
@@ -7645,6 +7694,7 @@ R-parallelly
 rpki-client
 rpmbuild-order
 rpmconf
+rpmdeplint
 rpmdevtools
 rpmdistro-repoquery
 rpm-head-signing
@@ -8347,6 +8397,7 @@ rust-blowfish
 rust-blsctl
 rust-bodhi-cli
 rust-bodhi
+rust-bootupd
 rust-box_drawing
 rust-brotli-decompressor
 rust-brotli
@@ -8745,13 +8796,13 @@ rust-esphome
 rust-ethtool
 rust-event-listener
 rust-event-manager
-rust-exa
 rust-executable-path
 rust-exitcode
 rust-exitfailure
 rust-expat-sys
 rust-expect-test
 rust-eyre
+rust-eza
 rust-faccess
 rust-fail
 rust-failure_derive
@@ -8857,8 +8908,12 @@ rust-gdk4-sys
 rust-gdk4-sys0.6
 rust-gdk4-wayland
 rust-gdk4-wayland-sys
+rust-gdk4-wayland-sys0.6
+rust-gdk4-wayland0.6
 rust-gdk4-x11
 rust-gdk4-x11-sys
+rust-gdk4-x11-sys0.6
+rust-gdk4-x11_0.6
 rust-gdk4_0.6
 rust-generic-array
 rust-generic-array0.12
@@ -8910,6 +8965,7 @@ rust-gix-date
 rust-gix-diff
 rust-gix-discover
 rust-gix-features
+rust-gix-filter
 rust-gix-fs
 rust-gix-glob
 rust-gix-hash
@@ -8924,15 +8980,18 @@ rust-gix-negotiate
 rust-gix-object
 rust-gix-packetline-blocking
 rust-gix-packetline
+rust-gix-pack
 rust-gix-path
 rust-gix-pathspec
 rust-gix-prompt
+rust-gix-protocol
 rust-gix-quote
 rust-gix-ref
 rust-gix-refspec
 rust-gix-revision
 rust-gix-revwalk
 rust-gix-sec
+rust-gix-submodule
 rust-gix-tempfile
 rust-gix-trace
 rust-gix-transport
@@ -8985,6 +9044,7 @@ rust-gsk4
 rust-gsk4-sys
 rust-gsk4-sys0.6
 rust-gsk4_0.6
+rust-gst-plugin-gtk4
 rust-gst-plugin-reqwest
 rust-gst-plugin-version-helper
 rust-gstreamer-audio
@@ -8993,6 +9053,14 @@ rust-gstreamer-base
 rust-gstreamer-base-sys
 rust-gstreamer-editing-services
 rust-gstreamer-editing-services-sys
+rust-gstreamer-gl-egl
+rust-gstreamer-gl-egl-sys
+rust-gstreamer-gl
+rust-gstreamer-gl-sys
+rust-gstreamer-gl-wayland
+rust-gstreamer-gl-wayland-sys
+rust-gstreamer-gl-x11
+rust-gstreamer-gl-x11-sys
 rust-gstreamer-pbutils
 rust-gstreamer-pbutils-sys
 rust-gstreamer-player
@@ -9213,8 +9281,6 @@ rust-lexiclean
 rust-lexopt
 rust-libadwaita
 rust-libadwaita-sys
-rust-libadwaita-sys0.3
-rust-libadwaita0.3
 rust-libblkid-rs
 rust-libblkid-rs-sys
 rust-libbpf-cargo
@@ -10478,6 +10544,7 @@ rust-zvariant_utils
 rust-zvariant2
 rust-z85
 rust2rpm
+rutabaga-gfx-ffi
 R-winch
 rw
 rxvt-unicode
@@ -10662,9 +10729,11 @@ snapd
 snapper
 snappy
 snapraid
+snapshot
 snobol4
 snoopy
 snowball
+socat
 socket_wrapper
 softnet-stat
 solarwolf
@@ -10688,11 +10757,14 @@ spausedd
 spdlog
 spec-version-maven-plugin
 speedcrunch
+speedtest
 speech-dispatcher
 speech-tools
 speexdsp
 speex
 spice-gtk
+spice-protocol
+spice-vdagent
 spirv-headers
 spirv-llvm-translator
 spirv-llvm-translator16
@@ -10734,10 +10806,12 @@ stringtemplate4
 st
 stubby
 stunnel
+subscription-manager-rhsm-certificates
 subscription-manager
 subunit
 subversion
 sudo
+suitesparse
 sunpinyin
 supermin
 supertuxkart
@@ -10844,6 +10918,7 @@ tlsh
 tlwg-fonts
 tlx
 tmpwatch
+tmux
 tnftp
 todocli
 tog-pegasus
@@ -10964,6 +11039,7 @@ usrsctp
 ustreamer
 uswds-public-sans-fonts
 utf8cpp
+utf8proc
 utop
 utrac
 uuid
@@ -11071,6 +11147,7 @@ will-crash
 wimlib
 WindowMaker-extra
 WindowMaker
+wineglass
 wine
 wireplumber
 wireshark
