@@ -12,8 +12,12 @@ wc -l < packages-without-spdx-final.txt
 echo -n "Trivial conversion: "
 grep trivial packages-without-spdx-final.txt |wc -l
 
-echo -n "Number of ELN packages: "
+echo -n "Number of ELN+buildroot packages: "
 wc -l < eln-list.txt
+
+echo -n "Number of ELN packages: "
+wc -l < eln-without-buildroot.txt
 
 echo -n "Not converted ELN packages: "
 wc -l < eln-not-migrated.txt
+
