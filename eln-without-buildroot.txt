@@ -103,6 +103,7 @@ brotli
 bsf
 bubblewrap
 buildah
+butane
 byacc
 byte-buddy
 byteman
@@ -121,7 +122,6 @@ ceph
 certmonger
 chan
 checkpolicy
-cheese
 chkconfig
 chrony
 chrpath
@@ -129,16 +129,12 @@ cifs-utils
 cim-schema
 cjose
 clang
-clang16
 cldr-emoji-annotation
 clevis
 clevis-pin-tpm2
 cloud-init
 cloud-utils
 clucene
-clutter
-clutter-gst3
-clutter-gtk
 cmake
 cmark
 cockpit
@@ -147,7 +143,6 @@ cockpit-machines
 cockpit-ostree
 cockpit-podman
 cockpit-session-recording
-cogl
 color-filesystem
 colord
 colord-gtk
@@ -155,6 +150,7 @@ compat-locales-sap
 compiler-rt
 conmon
 conntrack-tools
+console-login-helper-messages
 container-selinux
 container-tools
 containers-common
@@ -371,7 +367,6 @@ gnome-text-editor
 gnome-tour
 gnome-tweaks
 gnome-user-docs
-gnome-video-effects
 gnu-efi
 gnu-free-fonts
 gnupg2
@@ -394,6 +389,7 @@ google-roboto-slab-fonts
 gperf
 gpgme
 gpm
+gpsd
 gpsd-minimal
 grafana
 grafana-pcp
@@ -779,7 +775,6 @@ libassuan
 libasyncns
 libatasmart
 libavif
-libb2
 libblkio
 libblockdev
 libbpf
@@ -1015,7 +1010,6 @@ lldb
 lldpad
 lldpd
 llvm
-llvm16
 lm_sensors
 lmdb
 lockdev
@@ -1684,6 +1678,7 @@ qt6-qttranslations
 qt6-qtvirtualkeyboard
 qt6-qtwayland
 qt6-qtwebchannel
+qt6-qtwebengine
 qt6-qtwebsockets
 quota
 radvd
@@ -1744,10 +1739,13 @@ rubygem-rspec-mocks
 rubygem-rspec-support
 rubygem-thread_order
 rust
+rust-afterburn
+rust-bootupd
 rust-coreos-installer
 rust-packaging
 rust-rpm-sequoia
 rust-sevctl
+rust-ssh-key-dir
 rust-zram-generator
 s-nail
 s390utils
@@ -1807,6 +1805,7 @@ slf4j
 smartmontools
 smc-tools
 snappy
+snapshot
 snowball
 socat
 softhsm
@@ -1985,6 +1984,7 @@ woff2
 words
 wpa_supplicant
 wpebackend-fdo
+wsdd
 wsmancli
 x3270
 xalan-j2

@@ -207,7 +207,6 @@ apptainer
 apr-api-docs
 aprsd
 apr
-apr-util
 apt-cacher-ng
 apvlv
 apx
@@ -1032,7 +1031,6 @@ cwdaemon
 cwm
 cxxopts
 cxxtools
-cyrus-imapd
 cyrus-sasl
 cyrus-timezones
 czmq
@@ -1066,6 +1064,7 @@ davix
 dav1d
 dayplanner
 dbench
+dbus-broker
 dbus-c++
 dbus-glib
 dbus-parsec
@@ -1180,7 +1179,6 @@ dhcpd-pools
 dhcpdump
 dhcp-forwarder
 dhcping
-dhcp
 dhex
 dh-make
 dhtest
@@ -1190,7 +1188,6 @@ dia-electric2
 dia-electronic
 dia-gnomeDIAicons
 dialect
-dialog
 dia-optics
 dia
 dib-utils
@@ -1554,6 +1551,7 @@ equalx
 eralchemy
 erfa
 ergo
+eric
 erlang-amf
 erlang-base64url
 erlang-basho_metrics
@@ -2023,10 +2021,8 @@ fuse-emulator-utils
 fuse-encfs
 fuse-overlayfs
 fuse-pingfs
-fuse
 fuse-sshfs
 fuse-zip
-fuse3
 fusion-icon
 fusioninventory-agent
 future
@@ -2403,6 +2399,7 @@ ghc-gitrev
 ghc-glib
 ghc-Glob
 ghc-GLURaw
+ghc-GLUT
 ghc-graphviz
 ghc-gtk
 ghc-gtk3
@@ -3954,6 +3951,7 @@ golang-github-mholt-archiver
 golang-github-microcosm-cc-bluemonday
 golang-github-microsoft-applicationinsights
 golang-github-microsoft-azure-devops-api
+golang-github-microsoft-dev-tunnels
 golang-github-miekg-dns
 golang-github-miekg-pkcs11
 golang-github-michaelklishin-rabbit-hole
@@ -4241,6 +4239,7 @@ golang-github-rjeczalik-notify
 golang-github-robertkrimen-otto
 golang-github-robfig-cron
 golang-github-rodaine-hclencoder
+golang-github-rodaine-table
 golang-github-rogpeppe-fastuuid
 golang-github-rogpeppe-charset
 golang-github-rogpeppe-internal
@@ -4603,6 +4602,7 @@ golang-k8s-sample-controller
 golang-k8s-utils
 golang-layeh-gopher-luar
 golang-lukechampine-uint128
+golang-modernc-ccgo-3
 golang-modernc-ccgo-4
 golang-modernc-ccorpus2
 golang-modernc-cc-3
@@ -5010,7 +5010,6 @@ homebank
 honggfuzz
 horai-ume-fonts
 hostapd
-hostname
 hotspot
 hot-tux
 howl
@@ -5671,19 +5670,31 @@ kf5
 kf5-syndication
 kf5-syntax-highlighting
 kf5-threadweaver
+kf6-attica
 kf6-bluez-qt
 kf6-karchive
+kf6-kcalendarcore
+kf6-kcodecs
+kf6-kconfig
+kf6-kcoreaddons
 kf6-kdbusaddons
 kf6-kdnssd
 kf6-kguiaddons
 kf6-kholidays
 kf6-kidletime
+kf6-kirigami2
+kf6-kitemmodels
 kf6-kitemviews
+kf6-ki18n
+kf6-kplotting
 kf6-kquickcharts
+kf6-ktexttemplate
 kf6-kwayland
 kf6-kwidgetsaddons
+kf6-kwindowsystem
 kf6-modemmanager-qt
 kf6-networkmanager-qt
+kf6-prison
 kf6-solid
 kf6-sonnet
 kf6
@@ -5967,6 +5978,7 @@ ledger
 legendary
 legofy
 leland-fonts
+lemonldap-ng
 lensfun
 leonidas-backgrounds
 leonidas-kde-theme
@@ -6512,7 +6524,6 @@ libsigc++30
 libsignal-protocol-c
 libsigrokdecode
 libsigrok
-libsigsegv
 libskk
 libslirp
 libsmbios
@@ -6547,6 +6558,7 @@ libtcd
 libteam
 libtelnet
 libtermkey
+libtexprintf
 libtheora
 libtickit
 libtiff
@@ -6641,7 +6653,6 @@ libXcm
 libxc
 libxcvt
 libxdiff
-libXext
 libxfce4ui
 libxfce4util
 libXfont
@@ -6658,7 +6669,6 @@ libxnm
 libXNVCtrl
 libxo
 libXpresent
-libXtst
 libXvMC
 libXxf86dga
 libXxf86misc
@@ -7740,7 +7750,6 @@ ncompress
 nco
 ncrack
 ncurses-epel
-ncurses
 ncview
 ndctl
 ndesk-dbus-glib
@@ -8020,6 +8029,7 @@ ocaml-octavius
 ocaml-odoc-parser
 ocaml-opam-file-format
 ocaml-parsexp
+ocaml-pcre2
 ocaml-perl4caml
 ocaml-pp
 ocaml-ppx-assert
@@ -9309,6 +9319,7 @@ perl-File-Flock
 perl-FileHandle-Fmode
 perl-File-ChangeNotify
 perl-File-Inplace
+perl-File-KDBX
 perl-File-KeePass
 perl-File-LibMagic
 perl-File-LoadLines
@@ -9768,7 +9779,6 @@ perl-Makefile-DOM
 perl-Makefile-Parser
 perl-Mango
 perl-MARC-Record
-perl-Marpa-XS
 perl-Mason-Tidy
 perl-MasonX-Interp-WithCallbacks
 perl-Math-BaseCnv
@@ -11345,6 +11355,7 @@ php-symfony-requirements-checker
 php-symfony-security-acl
 php-symfony
 php-symfony3
+php-symfony4
 php-tcpdf
 php-tecnickcom-tc-lib-barcode
 php-tecnickcom-tc-lib-color
@@ -11645,6 +11656,7 @@ psutils
 pt-astra-sans-fonts
 pt-astra-serif-fonts
 ptex
+pthreadpool
 pthsem
 ptlib
 ptouch-driver
@@ -11816,6 +11828,7 @@ python-ana
 python-animatplot
 python-aniso8601
 python-annexremote
+python-annotated-types
 python-ansible-compat
 python-ansible-runner
 python-ansicolor
@@ -11832,7 +11845,6 @@ python-anytree
 python-aodhclient
 python-apipkg
 python-applicationinsights
-python-apply-defaults
 python-apprise
 python-AppTools
 python-apsw
@@ -12029,7 +12041,6 @@ python-bleach
 python-blessed
 python-blessings
 python-blinker
-python-bloom
 python-blosc
 python-blosc2
 python-bluepyopt
@@ -12094,7 +12105,6 @@ python-ciso8601
 python-citeproc-py
 python-claripy
 python-cleo
-python-cle
 python-click-completion
 python-click-default-group
 python-click-didyoumean
@@ -13179,7 +13189,6 @@ python-openopt
 python-openpaperwork-core
 python-openpaperwork-gtk
 python-openpyxl
-python-openqa_client
 python-opensensemap-api
 python-openshift
 python-openslide
@@ -13382,7 +13391,9 @@ python-pyasynchat
 python-pybalboa
 python-pybeam
 python-pybids
+python-pybv
 python-pycares
+python-pycatch22
 python-pycdio
 python-pycdlib
 python-pycec
@@ -13428,6 +13439,7 @@ python-pygments-git
 python-pygments-markdown-lexer
 python-pygments-pytest
 python-pygments-style-solarized
+python-pygmtools
 python-py-gql
 python-pygraphviz
 python-pygrocy
@@ -13629,7 +13641,7 @@ python-pytz-deprecation-shim
 python-pyunicorn
 python-pyupgrade
 python-pyvat
-python-pyvex
+python-pyvhacd
 python-pyvirtualdisplay
 python-pyvirtualize
 python-pyvit
@@ -14078,6 +14090,7 @@ python-treq
 python-trezor
 python-trimesh
 python-trio
+python-trio-websocket
 python-trml2pdf
 python-trollius
 python-trololio
@@ -16366,6 +16379,7 @@ rust-git2_0.14
 rust-git2_0.16
 rust-git2_0.17
 rust-gix-actor
+rust-gix-archive
 rust-gix-attributes
 rust-gix-bitmap
 rust-gix-command
@@ -16390,6 +16404,7 @@ rust-gix-macros
 rust-gix-mailmap
 rust-gix-negotiate
 rust-gix-object
+rust-gix-odb
 rust-gix-packetline-blocking
 rust-gix-packetline
 rust-gix-pack
@@ -16412,6 +16427,8 @@ rust-gix-url
 rust-gix-utils
 rust-gix-validate
 rust-gix-worktree
+rust-gix-worktree-state
+rust-gix-worktree-stream
 rust-gl_generator
 rust-glib-build-tools
 rust-glib-macros
@@ -17300,6 +17317,7 @@ rust-regex-syntax
 rust-regex-syntax0.6
 rust-regex-test
 rust-region
+rust-relative-path
 rust-remain
 rust-remoteprocess
 rust-remove_dir_all
@@ -18343,7 +18361,6 @@ snownews
 soapy-rtlsdr
 SoapySDR
 soapy-uhd
-socat
 socialscan
 soci
 socket_wrapper
@@ -18568,7 +18585,6 @@ sugar-xoeditor
 sugar-xoirc
 sugar-yupana
 suil
-suitesparse
 sundials
 sundials2
 sunwait
@@ -18607,6 +18623,7 @@ swig
 swing-layout
 switcheroo-control
 switchtec
+sword
 swtpm
 sxhkd
 sxiv
@@ -18644,7 +18661,6 @@ sysutil
 s390utils
 taarich
 tacacs
-tack
 taginfo
 taglib-extras
 taglib-sharp
@@ -18832,7 +18848,6 @@ tmate
 tmispell-voikko
 tmpwatch
 tmt
-tmux
 tmux-top
 tnef
 tng
@@ -19625,6 +19640,7 @@ xsimd
 xskat
 xsnow
 xsp
+xss-lock
 xssstate
 xstdcmap
 xstream

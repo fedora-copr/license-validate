@@ -19,6 +19,7 @@ acpid
 adf-accanthis-fonts
 adf-gillius-fonts
 adf-tribun-fonts
+adjtimex
 adns
 adobe-mappings-cmap
 adobe-mappings-pdf
@@ -149,6 +150,7 @@ appx-util
 apricots
 apron
 aprsdigi
+apr
 apr-util
 apt-cacher-ng
 apt
@@ -313,6 +315,7 @@ blinken
 blis
 bliss
 blivet-gui
+blktrace
 blosc2
 bluedevil
 bluefish
@@ -416,6 +419,7 @@ catharsis-cormorant-fonts
 catch
 catch1
 catch2
+catch22
 cave9
 cbmc
 cbonsai
@@ -524,6 +528,7 @@ composer
 compose-utils
 conan
 conda
+conky
 conmon
 conntrack-tools
 conserver
@@ -690,6 +695,7 @@ dh-autoreconf
 dhcpcd
 dhcpdump
 dhcp
+dialog
 diction
 dietlibc
 diff-so-fancy
@@ -868,6 +874,7 @@ fedora-bookmarks
 fedora-easy-karma
 fedora-iot-config
 fedora-license-data
+fedora-logos
 fedora-obsolete-packages
 fedora-release
 fedora-repos
@@ -896,6 +903,7 @@ filesystem
 filezilla
 fim
 findutils
+fio
 fira-code-fonts
 firecracker
 firejail
@@ -1001,6 +1009,8 @@ fts-rest-client
 funionfs
 fuse-overlayfs
 fusesource-pom
+fuse
+fuse3
 fwupd-efi
 fwupd
 fxdiv
@@ -2128,6 +2138,7 @@ golang-github-mdlayher-socket
 golang-github-microcosm-cc-bluemonday
 golang-github-microsoft-applicationinsights
 golang-github-microsoft-azure-devops-api
+golang-github-microsoft-dev-tunnels
 golang-github-miekg-dns
 golang-github-mimuret-iij-dpf
 golang-github-minio-highwayhash
@@ -2141,6 +2152,7 @@ golang-github-moby-ipvs
 golang-github-moby-locker
 golang-github-moby-patternmatcher
 golang-github-moby-swarmkit-2
+golang-github-moby-sys
 golang-github-moby-term
 golang-github-modern-concurrent
 golang-github-modern-reflect2
@@ -2195,6 +2207,7 @@ golang-github-ravenox-jsoncommentstrip
 golang-github-ravenox-jsonmerge
 golang-github-remind101-migrate
 golang-github-rexray-gocsi
+golang-github-rodaine-table
 golang-github-rogpeppe-charset
 golang-github-rootless-containers-rootlesskit
 golang-github-r3labs-diff-3
@@ -2287,6 +2300,7 @@ golang-howett-plist
 golang-k8s-apiextensions-apiserver
 golang-k8s-apiserver
 golang-lukechampine-uint128
+golang-modernc-ccgo-3
 golang-modernc-ccgo-4
 golang-modernc-ccorpus2
 golang-modernc-cc-3
@@ -2519,6 +2533,7 @@ html401-dtds
 httpcomponents-client
 httpcomponents-core
 httpcomponents-project
+httpd
 httpie
 httpry
 hunspell-af
@@ -2700,6 +2715,7 @@ hyphen-te
 hyphen-tk
 hyphen-uk
 chan
+chatterino2
 checkpolicy
 check
 chessx
@@ -2950,19 +2966,31 @@ kexi
 keycloak-httpd-client-install
 keylime-agent-rust
 keyrings-filesystem
+kf6-attica
 kf6-bluez-qt
 kf6-karchive
+kf6-kcalendarcore
+kf6-kcodecs
+kf6-kconfig
+kf6-kcoreaddons
 kf6-kdbusaddons
 kf6-kdnssd
 kf6-kguiaddons
 kf6-kholidays
 kf6-kidletime
+kf6-kirigami2
+kf6-kitemmodels
 kf6-kitemviews
+kf6-ki18n
+kf6-kplotting
 kf6-kquickcharts
+kf6-ktexttemplate
 kf6-kwayland
 kf6-kwidgetsaddons
+kf6-kwindowsystem
 kf6-modemmanager-qt
 kf6-networkmanager-qt
+kf6-prison
 kf6-solid
 kf6-sonnet
 kf6
@@ -3048,6 +3076,7 @@ ldns
 leatherman
 ledmon
 leland-fonts
+lemonldap-ng
 lexertl14
 lfsc
 lftp
@@ -3181,6 +3210,7 @@ libICE
 libicu71
 libicu72
 libIDL
+libidn
 libidn2
 libifp
 libigloo
@@ -3256,6 +3286,7 @@ libocxl
 libodfgen
 libodiosacd
 libofx
+libogg
 libolm
 libomemo-c
 libomemo
@@ -3318,6 +3349,7 @@ librevenge
 librhsm
 librime
 librist
+librsvg2
 librsync
 librtas
 librtprocess
@@ -3337,6 +3369,7 @@ libserializer
 libservicelog
 libshumate
 libsigc++
+libsigsegv
 libslirp
 libslz
 libSM
@@ -3362,6 +3395,7 @@ libtalloc
 libtasn1
 libtdb
 libtevent
+libtexprintf
 libthai
 libtickit
 libtins
@@ -3468,6 +3502,7 @@ liquidctl
 liquidwar
 lite-xl
 live555
+lklug-fonts
 lldb
 lld
 lld14
@@ -3615,6 +3650,7 @@ maildir-utils
 maildrop
 mailman3
 mailprocessing
+mairix
 makemusic-finale-fonts
 make
 mame
@@ -3755,6 +3791,8 @@ mingw-libgusb
 mingw-libidn2
 mingw-libmng
 mingw-libpng
+mingw-librsvg2
+mingw-libsigc++30
 mingw-mediawriter
 mingw-minizip
 mingw-nsis
@@ -3802,6 +3840,7 @@ mingw-readline
 mingw-SDL_mixer
 mingw-sdl12-compat
 mingw-SDL2_mixer
+mingw-SDL2
 mingw-SDL2_ttf
 mingw-spirv-tools
 mingw-srvany
@@ -3811,6 +3850,7 @@ mingw-vulkan-loader
 mingw-vulkan-tools
 mingw-vulkan-validation-layers
 mingw-win-iconv
+mingw-winpthreads
 mingw-w64-tools
 mingw-zlib
 miniaudio
@@ -3970,6 +4010,7 @@ ncftp
 ncmpc
 ncompress
 nco
+ncurses
 ndiscover-exo-2-fonts
 ndppd
 neochat
@@ -3991,6 +4032,7 @@ net-tools
 NetworkManager-libreswan
 neverball
 newsx
+newt
 nfs-ganesha
 nftables
 nghttp2
@@ -4025,6 +4067,9 @@ nss_wrapper
 ntfs2btrfs
 ntfs-3g-system-compression
 ntl
+ntp-refclock
+ntpsec
+ntpstat
 numactl
 numad
 numatop
@@ -4040,6 +4085,7 @@ nvme-cli
 nvme-stas
 nvtop
 nwg-wrapper
+obconf
 objectweb-asm
 objenesis
 objfw
@@ -4144,6 +4190,7 @@ ocaml-ounit
 ocaml-parmap
 ocaml-parsexp
 ocaml-pcre
+ocaml-pcre2
 ocaml-perl4caml
 ocaml-postgresql
 ocaml-pp
@@ -4240,6 +4287,7 @@ openarena
 openbabel
 openbgpd
 openbios
+openbox
 opencc
 opencl-headers
 opencore-amr
@@ -4936,6 +4984,7 @@ perl-File-chdir
 perl-File-CheckTree
 perl-File-chmod
 perl-File-Inplace
+perl-File-KDBX
 perl-File-LibMagic
 perl-File-Listing
 perl-File-MimeInfo
@@ -5231,7 +5280,6 @@ perl-Mail-SPF
 perl-MailTools
 perl-Mail-Transport
 perl-Makefile-DOM
-perl-Marpa-XS
 perl-Mason-Tidy
 perl-MasonX-Interp-WithCallbacks
 perl-Math-Base-Convert
@@ -6389,6 +6437,7 @@ psmisc
 pstreams-devel
 pt-astra-sans-fonts
 pt-astra-serif-fonts
+pthreadpool
 ptpython
 pt-sans-fonts
 public-inbox
@@ -6448,6 +6497,7 @@ python-airspeed
 python-alembic
 python-alsa
 python-annexremote
+python-annotated-types
 python-ansible-compat
 python-appdirs
 python-applicationinsights
@@ -7002,6 +7052,7 @@ python-openapi-spec-validator
 python-opencensus-proto
 python-openpaperwork-core
 python-openpaperwork-gtk
+python-openqa_client
 python-opensearch-py
 python-opentelemetry-contrib
 python-opentelemetry
@@ -7088,6 +7139,8 @@ python-pyasynchat
 python-pybids
 python-pybtex-docutils
 python-pybtex
+python-pybv
+python-pycatch22
 python-pycdlib
 python-pyclip
 python-pycotap
@@ -7099,6 +7152,7 @@ python-pycurl
 python-pydantic-core
 python-pydata-sphinx-theme
 python-pydepsdev
+python-pydiffx
 python-pydyf
 python-pyedflib
 python-pyelectro
@@ -7111,6 +7165,7 @@ python-pyglet
 python-pygments-git
 python-pygments-pytest
 python-pygments
+python-pygmtools
 python-pyhcl
 python-pyjwkest
 python-pykdtree
@@ -7182,6 +7237,7 @@ python-pytoolconfig
 python-pytzdata
 python-pytz-deprecation-shim
 python-pyudev
+python-pyvhacd
 python-pyvmomi
 python-pywayland
 python-pywlroots
@@ -7281,6 +7337,7 @@ python-six
 python-sklearn-genetic
 python-slackclient
 python-smartcols
+python-smbpasswd
 python-smmap
 python-sniffio
 python-social-auth-core
@@ -7382,6 +7439,7 @@ python-traitlets
 python-transforms3d
 python-trimesh
 python-trio
+python-trio-websocket
 python-trove-classifiers
 python-tvb-gdist
 python-txredisapi
@@ -7501,6 +7559,7 @@ qownnotes
 qpdf
 qr-code-generator
 qrtr
+qsf
 qsynth
 qt-creator
 qt-jdenticon
@@ -7606,6 +7665,7 @@ rbenv
 rbldnsd
 rbm
 R-bookdown
+RBTools
 rclone
 rc
 rcs
@@ -7703,6 +7763,7 @@ rpminspect-data-fedora
 rpminspect
 rpmlint
 rpm-ostree
+rpmreaper
 rp-pppoe
 rpy
 R-qtl
@@ -7721,6 +7782,7 @@ rsnapshot
 R
 R-sp
 rssguard
+rs
 R-statnet.common
 rstudio
 R-svglite
@@ -8954,6 +9016,7 @@ rust-git2_0.14
 rust-git2_0.16
 rust-git2_0.17
 rust-gix-actor
+rust-gix-archive
 rust-gix-attributes
 rust-gix-bitmap
 rust-gix-command
@@ -8978,6 +9041,7 @@ rust-gix-macros
 rust-gix-mailmap
 rust-gix-negotiate
 rust-gix-object
+rust-gix-odb
 rust-gix-packetline-blocking
 rust-gix-packetline
 rust-gix-pack
@@ -9000,6 +9064,8 @@ rust-gix-url
 rust-gix-utils
 rust-gix-validate
 rust-gix-worktree
+rust-gix-worktree-state
+rust-gix-worktree-stream
 rust-gl_generator
 rust-glib-build-tools
 rust-glib-macros
@@ -9882,6 +9948,7 @@ rust-regex-syntax
 rust-regex-syntax0.6
 rust-regex-test
 rust-region
+rust-relative-path
 rust-remain
 rust-remoteprocess
 rust-remove_dir_all
@@ -10528,6 +10595,7 @@ rust-zerocopy-derive
 rust-zerocopy
 rust-zeroize_derive
 rust-zeroize
+rust-zincati
 rust-zip
 rust-zmq
 rust-zmq-sys
@@ -10850,6 +10918,7 @@ s3fs-fuse
 s390utils
 tabbed
 tacacs
+tack
 talk
 tangerine
 tang
@@ -11088,6 +11157,7 @@ vl-gothic-fonts
 vo-amrwbenc
 vobcopy
 voikko-fi
+vokoscreenNG
 volume_key
 voms
 vorta
@@ -11211,6 +11281,8 @@ xeyes
 xfe
 xflr5
 xfontsel
+xfsdump
+xfsprogs
 xgalaxy
 xgamma
 xgap
