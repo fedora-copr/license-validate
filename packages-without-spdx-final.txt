@@ -19,7 +19,7 @@ adanaxisgpl - can be trivially converted to GPL-2.0-only
 adapt - can be trivially converted to Apache-2.0
 adb-enhanced - can be trivially converted to Apache-2.0
 adcli
-addrwatch - can be trivially converted to GPL-3.0-only
+addrwatch warning: not valid neither as Callaway nor as SPDX, please check
 Add64 - can be trivially converted to GPL-3.0-only
 adime warning: valid as old and new and no changelong entry, please check
 admeshgui
@@ -253,7 +253,6 @@ authd - can be trivially converted to GPL-2.0-or-later
 auto-buildrequires - can be trivially converted to GPL-2.0-or-later
 autoconf-archive
 autoconf213 - can be trivially converted to GPL-2.0-or-later
-autofs - can be trivially converted to GPL-2.0-or-later
 autojump - can be trivially converted to GPL-3.0-or-later
 autokey - can be trivially converted to GPL-3.0-only
 automoc
@@ -501,7 +500,6 @@ CardManager
 c-ares warning: valid as old and new and no changelong entry, please check
 caribou
 Carla
-cascadia-code-fonts
 castget
 casync
 cataclysm-dda
@@ -1519,7 +1517,6 @@ firebird - can be trivially converted to Interbase-1.0
 firefox-pkcs11-loader
 firefox
 firewalk
-firewalld - can be trivially converted to GPL-2.0-or-later
 fishbowl warning: valid as old and new and no changelong entry, please check
 fish
 five-or-more
@@ -1599,7 +1596,6 @@ fprintd
 fprobe-ulog - can be trivially converted to GPL-2.0-only
 fragments - can be trivially converted to GPL-3.0-or-later
 freealut
-freecad - can be trivially converted to GPL-2.0-or-later
 freecell-solver warning: valid as old and new and no changelong entry, please check
 freecolor warning: valid as old and new and no changelong entry, please check
 freeDiameter
@@ -3598,7 +3594,6 @@ icecat warning: not valid neither as Callaway nor as SPDX, please check
 icecream - can be trivially converted to GPL-2.0-or-later
 icemon - can be trivially converted to GPL-2.0-or-later
 icestorm warning: valid as old and new and no changelong entry, please check
-icewm
 icon-naming-utils - can be trivially converted to GPL-2.0-only
 icon - can be trivially converted to LicenseRef-Fedora-Public-Domain
 idle3-tools - can be trivially converted to GPL-3.0-only
@@ -4369,7 +4364,6 @@ libabigail - can be trivially converted to Apache-2.0
 libacars warning: valid as old and new and no changelong entry, please check
 libaccounts-glib
 libaccounts-qt
-libadwaita
 libaec
 libaesgm
 libAfterImage
@@ -4399,7 +4393,6 @@ libbonoboui
 libbonoboui
 libbs2b warning: valid as old and new and no changelong entry, please check
 libbtbb - can be trivially converted to GPL-2.0-only
-libb2 - can be trivially converted to CC0-1.0
 libb64 - can be trivially converted to LicenseRef-Fedora-Public-Domain
 libcacard
 libcaca warning: valid as old and new and no changelong entry, please check
@@ -4533,7 +4526,6 @@ libgta
 libgtextutils - can be trivially converted to AGPL-3.0-or-later
 libguess
 libgweather - can be trivially converted to GPL-2.0-or-later
-libgweather4 - can be trivially converted to GPL-2.0-or-later
 libg15render - can be trivially converted to GPL-2.0-or-later
 libhandy
 libhbaapi warning: valid as old and new and no changelong entry, please check
@@ -4688,7 +4680,6 @@ libplacebo
 libpng warning: valid as old and new and no changelong entry, please check
 libpng12 warning: valid as old and new and no changelong entry, please check
 libpng15 warning: valid as old and new and no changelong entry, please check
-libportal - can be trivially converted to LGPL-3.0-only
 libpqxx
 libpreludedb - can be trivially converted to GPL-2.0-or-later
 libprojectM
@@ -5260,7 +5251,6 @@ milter-greylist
 mimalloc warning: valid as old and new and no changelong entry, please check
 mimetic warning: valid as old and new and no changelong entry, please check
 mimic
-minder - can be trivially converted to GPL-3.0-or-later
 minetestmapper
 minetest
 mingetty - can be trivially converted to GPL-2.0-or-later
@@ -5402,7 +5392,6 @@ mingw-python-jinja2
 mingw-python-lxml
 mingw-python-markupsafe
 mingw-python-OWSLib
-mingw-python-packaging
 mingw-python-ply
 mingw-python-psycopg2 warning: not valid neither as Callaway nor as SPDX, please check
 mingw-python-pygments
@@ -5536,6 +5525,7 @@ mod_mono warning: valid as old and new and no changelong entry, please check
 mod_perl - can be trivially converted to Apache-2.0
 mod_perl - can be trivially converted to Apache-2.0
 mod_psgi - can be trivially converted to Apache-2.0
+mod_qos - can be trivially converted to GPL-2.0-only
 mod_suphp - can be trivially converted to GPL-2.0-or-later
 module-build-service warning: valid as old and new and no changelong entry, please check
 module-build warning: valid as old and new and no changelong entry, please check
@@ -5633,7 +5623,6 @@ multilib-rpm-config - can be trivially converted to GPL-2.0-or-later
 multimarkdown
 multimedia-menus
 multiwatch warning: valid as old and new and no changelong entry, please check
-mumble
 mum-hash warning: valid as old and new and no changelong entry, please check
 MUMPS warning: valid as old and new and no changelong entry, please check
 munge - can be trivially converted to GPL-3.0-or-later AND LGPL-3.0-or-later
@@ -6134,7 +6123,6 @@ osmo-fl2k - can be trivially converted to GPL-2.0-or-later AND GPL-3.0-or-later
 osmo - can be trivially converted to GPL-2.0-or-later
 osm2pgsql - can be trivially converted to GPL-2.0-or-later
 os-prober - can be trivially converted to GPL-2.0-or-later AND GPL-1.0-or-later
-osslsigncode - can be trivially converted to GPL-3.0-or-later
 ostrichriders - can be trivially converted to GPL-3.0-or-later
 otf2bdf warning: valid as old and new and no changelong entry, please check
 ots - can be trivially converted to GPL-2.0-or-later
@@ -6184,6 +6172,7 @@ pam_mount
 pam_mysql - can be trivially converted to GPL-2.0-or-later
 pam_script - can be trivially converted to GPL-2.0-or-later
 pam_ssh
+pam_url - can be trivially converted to GPL-2.0-only
 pam_yubico
 pam_2fa - can be trivially converted to GPL-3.0-or-later
 pangomm
@@ -7670,16 +7659,12 @@ photocollage - can be trivially converted to GPL-2.0-or-later
 photoqt - can be trivially converted to GPL-2.0-or-later
 phototonic - can be trivially converted to GPL-3.0-only
 php-alcaeus-mongo-php-adapter warning: valid as old and new and no changelong entry, please check
-php-amqplib
 php-andrewsville-php-token-reflection
 php-aws-php-sns-message-validator - can be trivially converted to Apache-2.0
 php-aws-sdk3 - can be trivially converted to Apache-2.0
 php-bacon-qr-code2
 php-bantu-ini-get-wrapper warning: valid as old and new and no changelong entry, please check
 php-bartlett-PHP-CompatInfo warning: not valid neither as Callaway nor as SPDX, please check
-php-behat-gherkin warning: valid as old and new and no changelong entry, please check
-php-behat-mink-browserkit-driver warning: valid as old and new and no changelong entry, please check
-php-behat-mink warning: valid as old and new and no changelong entry, please check
 php-brick-math warning: valid as old and new and no changelong entry, please check
 php-brick-varexporter warning: valid as old and new and no changelong entry, please check
 php-cache-adapter-common warning: valid as old and new and no changelong entry, please check
@@ -7691,13 +7676,9 @@ php-composer-metadata-minifier warning: valid as old and new and no changelong e
 php-composer-pcre warning: valid as old and new and no changelong entry, please check
 php-composer-xdebug-handler warning: valid as old and new and no changelong entry, please check
 php-composer-xdebug-handler2 warning: valid as old and new and no changelong entry, please check
-php-consolidation-annotated-command warning: valid as old and new and no changelong entry, please check
-php-consolidation-output-formatters warning: valid as old and new and no changelong entry, please check
-php-container-interop warning: valid as old and new and no changelong entry, please check
 phpcpd
 php-deepdiver-zipstreamer - can be trivially converted to GPL-3.0-or-later
 php-deepend-Mockery
-php-dflydev-dot-access-data warning: valid as old and new and no changelong entry, please check
 php-doctrine-annotations warning: valid as old and new and no changelong entry, please check
 php-doctrine-cache warning: valid as old and new and no changelong entry, please check
 php-doctrine-collections warning: valid as old and new and no changelong entry, please check
@@ -7733,26 +7714,16 @@ php-felixfbecker-advanced-json-rpc3 warning: valid as old and new and no changel
 php-fgrosse-phpasn1 warning: valid as old and new and no changelong entry, please check
 php-fig-http-message-util warning: valid as old and new and no changelong entry, please check
 php-fig-link-util warning: valid as old and new and no changelong entry, please check
-php-firebase-php-jwt
 php-getid3 - can be trivially converted to LGPL-3.0-or-later
 php-gettext-gettext warning: valid as old and new and no changelong entry, please check
 php-giggsey-locale warning: valid as old and new and no changelong entry, please check
-php-google-apiclient-services - can be trivially converted to Apache-2.0
-php-google-apiclient - can be trivially converted to Apache-2.0
-php-google-auth - can be trivially converted to Apache-2.0
-php-grasmash-expander warning: valid as old and new and no changelong entry, please check
-php-grasmash-yaml-expander warning: valid as old and new and no changelong entry, please check
 php-guzzlehttp-guzzle6 warning: valid as old and new and no changelong entry, please check
 php-guzzlehttp-promises warning: valid as old and new and no changelong entry, please check
 php-guzzlehttp-psr7 warning: valid as old and new and no changelong entry, please check
-php-guzzlehttp-ringphp warning: valid as old and new and no changelong entry, please check
-php-guzzlehttp-streams warning: valid as old and new and no changelong entry, please check
 php-hamcrest2
 php-htmLawed - can be trivially converted to LGPL-3.0-only AND GPL-2.0-or-later
 php-http-interop-http-middleware warning: valid as old and new and no changelong entry, please check
 php-http-message-factory warning: valid as old and new and no changelong entry, please check
-php-channel-phpseclib - can be trivially converted to LicenseRef-Fedora-Public-Domain
-php-channel-sabredav - can be trivially converted to LicenseRef-Fedora-Public-Domain
 php-christophwurst-id3parser - can be trivially converted to GPL-3.0-only
 php-iamcal-lib-autolink warning: valid as old and new and no changelong entry, please check
 php-icewind-smb2 warning: valid as old and new and no changelong entry, please check
@@ -7761,7 +7732,6 @@ php-interfasys-lognormalizer - can be trivially converted to AGPL-3.0-or-later
 php-ircmaxell-random-lib warning: valid as old and new and no changelong entry, please check
 php-ircmaxell-security-lib warning: valid as old and new and no changelong entry, please check
 php-jdorn-sql-formatter warning: valid as old and new and no changelong entry, please check
-php-jsonlint warning: valid as old and new and no changelong entry, please check
 php-justinrainbow-json-schema5 warning: valid as old and new and no changelong entry, please check
 php-khanamiryan-qrcode-detector-decoder
 php-kolab-net-ldap3 - can be trivially converted to GPL-3.0-or-later
@@ -7861,20 +7831,7 @@ php-phpdocumentor-type-resolver1 warning: valid as old and new and no changelong
 php-php-gettext - can be trivially converted to GPL-2.0-or-later
 php-phplang-scope-exit
 php-PHPParser
-php-phpseclib-crypt-aes warning: valid as old and new and no changelong entry, please check
-php-phpseclib-crypt-base warning: valid as old and new and no changelong entry, please check
-php-phpseclib-crypt-blowfish warning: valid as old and new and no changelong entry, please check
-php-phpseclib-crypt-des warning: valid as old and new and no changelong entry, please check
-php-phpseclib-crypt-hash warning: valid as old and new and no changelong entry, please check
-php-phpseclib-crypt-random warning: valid as old and new and no changelong entry, please check
-php-phpseclib-crypt-rc4 warning: valid as old and new and no changelong entry, please check
-php-phpseclib-crypt-rijndael warning: valid as old and new and no changelong entry, please check
-php-phpseclib-crypt-rsa warning: valid as old and new and no changelong entry, please check
-php-phpseclib-crypt-tripledes warning: valid as old and new and no changelong entry, please check
-php-phpseclib-crypt-twofish warning: valid as old and new and no changelong entry, please check
 php-phpseclib-file-asn1 warning: valid as old and new and no changelong entry, please check
-php-phpseclib-net-sftp warning: valid as old and new and no changelong entry, please check
-php-phpseclib-net-ssh2 warning: valid as old and new and no changelong entry, please check
 php-phpseclib warning: valid as old and new and no changelong entry, please check
 php-phpSmug - can be trivially converted to LGPL-3.0-only
 php-phpspec-prophecy-phpunit warning: valid as old and new and no changelong entry, please check
@@ -7901,9 +7858,6 @@ php-punic
 php-ralouphie-getallheaders warning: valid as old and new and no changelong entry, please check
 php-ramsey-collection warning: valid as old and new and no changelong entry, please check
 php-ramsey-uuid warning: valid as old and new and no changelong entry, please check
-php-react-promise warning: valid as old and new and no changelong entry, please check
-php-sabredav-Sabre
-php-sabredav-Sabre_VObject
 php-sabre-dav4
 php-sabre-event5
 php-samyoul-u2f-php-server
@@ -7982,7 +7936,6 @@ php-symfony4 warning: valid as old and new and no changelong entry, please check
 php-symfony4 warning: valid as old and new and no changelong entry, please check
 php-symfony4 warning: valid as old and new and no changelong entry, please check
 php-symfony4 warning: valid as old and new and no changelong entry, please check
-php-symfony4 warning: valid as old and new and no changelong entry, please check
 php-theseer-directoryscanner
 php-theseer-fDOMDocument
 php-true-punycode warning: valid as old and new and no changelong entry, please check
@@ -7991,14 +7944,12 @@ phpunit7
 php-webimpress-http-middleware-compatibility
 php-webimpress-safe-writer
 php-webmozart-assert warning: valid as old and new and no changelong entry, please check
-php-webmozart-path-util warning: valid as old and new and no changelong entry, please check
 php-wikimedia-assert warning: valid as old and new and no changelong entry, please check
 php-wikimedia-avro - can be trivially converted to Apache-2.0
 php-wikimedia-cdb - can be trivially converted to GPL-2.0-or-later
 php-wikimedia-ip-set - can be trivially converted to GPL-2.0-or-later
 php-wikimedia-utfnormal - can be trivially converted to GPL-2.0-or-later
 php-williamdes-mariadb-mysql-kbs - can be trivially converted to MPL-2.0
-php-xmlseclibs
 php-xmpphp - can be trivially converted to GPL-2.0-or-later
 php-zetacomponents-base - can be trivially converted to Apache-2.0
 php-zetacomponents-console-tools - can be trivially converted to Apache-2.0
@@ -8167,7 +8118,6 @@ potrace - can be trivially converted to GPL-2.0-or-later
 powdertoy
 poweradmin - can be trivially converted to GPL-3.0-or-later
 powerdevil - can be trivially converted to GPL-2.0-or-later
-powerline warning: valid as old and new and no changelong entry, please check
 powermanga - can be trivially converted to GPL-3.0-or-later
 powertop - can be trivially converted to GPL-2.0-only
 powwow - can be trivially converted to GPL-2.0-or-later
@@ -9589,7 +9539,6 @@ python-pysb
 python-pyscaffold
 python-pyscf - can be trivially converted to Apache-2.0
 python-pyshark warning: valid as old and new and no changelong entry, please check
-python-pyside2
 python-pysignals
 python-pysimplesoap - can be trivially converted to LGPL-3.0-or-later
 python-pysmb
@@ -11103,7 +11052,6 @@ shairplay
 shairport-sync
 shaman - can be trivially converted to GPL-3.0-or-later
 shapelib
-shared-mime-info - can be trivially converted to GPL-2.0-or-later
 sharpfont warning: valid as old and new and no changelong entry, please check
 sharpziplib
 sharutils
@@ -11447,7 +11395,6 @@ swell-foop
 swing-layout
 switcheroo-control - can be trivially converted to GPL-3.0-only
 switchtec warning: valid as old and new and no changelong entry, please check
-sword warning: not valid neither as Callaway nor as SPDX, please check
 sxhkd
 sxiv - can be trivially converted to GPL-2.0-or-later
 sylfilter

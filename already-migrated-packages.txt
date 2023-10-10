@@ -244,6 +244,7 @@ authselect
 autoconf
 autodocksuite
 autodownloader
+autofs
 autogen
 autolink-java
 automake
@@ -411,6 +412,7 @@ cantor
 capstone
 carat
 cargo2rpm
+cascadia-code-fonts
 casc
 castxml
 catatonit
@@ -907,6 +909,7 @@ fio
 fira-code-fonts
 firecracker
 firejail
+firewalld
 firmitas
 fityk
 fizz
@@ -2057,6 +2060,7 @@ golang-github-google-go-github
 golang-github-google-nftables
 golang-github-google-renameio-2
 golang-github-google-shlex
+golang-github-google-s2a
 golang-github-google-trillian
 golang-github-google-uuid
 golang-github-gophercloud-utils
@@ -2215,6 +2219,7 @@ golang-github-sacloud-api-client
 golang-github-sacloud-http
 golang-github-sacloud-iaas-api
 golang-github-sacloud-packages
+golang-github-sagikazarmark-slog-shim
 golang-github-sahilm-fuzzy
 golang-github-sajari-fuzzy
 golang-github-scaleway-sdk
@@ -2361,6 +2366,7 @@ golang-x-time
 golang-x-vuln
 goldendict
 golist
+golly
 goodvibes
 google-android-emoji-fonts
 google-api-python-client
@@ -2716,6 +2722,7 @@ hyphen-tk
 hyphen-uk
 chan
 chatterino2
+chayang
 checkpolicy
 check
 chessx
@@ -2754,6 +2761,7 @@ ibus-uniemoji
 icat
 iceauth
 icedtea-web
+icewm
 icoutils
 icu
 icu4j
@@ -2969,22 +2977,43 @@ keyrings-filesystem
 kf6-attica
 kf6-bluez-qt
 kf6-karchive
+kf6-kauth
 kf6-kcalendarcore
 kf6-kcodecs
+kf6-kcolorscheme
+kf6-kcompletion
 kf6-kconfig
+kf6-kconfigwidgets
+kf6-kcontacts
 kf6-kcoreaddons
+kf6-kcrash
 kf6-kdbusaddons
+kf6-kded
+kf6-kdesu
 kf6-kdnssd
+kf6-kdoctools
+kf6-kfilemetadata
+kf6-kglobalaccel
 kf6-kguiaddons
 kf6-kholidays
+kf6-kiconthemes
 kf6-kidletime
+kf6-kimageformats
 kf6-kirigami2
 kf6-kitemmodels
 kf6-kitemviews
 kf6-ki18n
+kf6-kjobwidgets
+kf6-knotifications
+kf6-kpackage
+kf6-kpeople
 kf6-kplotting
+kf6-kpty
 kf6-kquickcharts
+kf6-kservice
 kf6-ktexttemplate
+kf6-ktextwidgets
+kf6-kunitconversion
 kf6-kwayland
 kf6-kwidgetsaddons
 kf6-kwindowsystem
@@ -3083,6 +3112,7 @@ lftp
 L-function
 lhapdf
 libabw
+libadwaita
 libaiff
 libappstream-glib
 libarchive
@@ -3101,6 +3131,7 @@ libbraiding
 libbsd
 libburn
 libbytesize
+libb2
 libcamera-apps
 libcamera
 libcap-ng
@@ -3126,6 +3157,7 @@ libdca
 libdc1394
 libdex
 libdfp
+libdicom
 libdiscid
 libdispatch
 libdisplay-info
@@ -3196,6 +3228,7 @@ libgtop2
 libgudev
 libguestfs
 libgusb
+libgweather4
 libgxim
 libgxps
 libhangul
@@ -3315,6 +3348,7 @@ libpinyin
 libpipeline
 libplist
 libpoly
+libportal
 libppd
 libpq
 libprelude
@@ -3759,6 +3793,7 @@ migrate
 milter-regex
 mimedefang
 mimetex
+minder
 mindless
 mine_detector
 mingw-adwaita-icon-theme
@@ -3804,6 +3839,7 @@ mingw-python-build
 mingw-python-flit-core
 mingw-python-homography
 mingw-python-installer
+mingw-python-packaging
 mingw-python-pep517
 mingw-python-pip
 mingw-python-pyproject-hooks
@@ -3942,6 +3978,7 @@ mt32emu
 mujs
 multi-git-status
 multitail
+mumble
 mupdf
 musescore
 mu
@@ -4182,7 +4219,6 @@ ocaml-ocp-indent
 ocaml-ocplib-endian
 ocaml-ocplib-simplex
 ocaml-octavius
-ocaml-odoc-parser
 ocaml-odoc
 ocaml-omake
 ocaml-opam-file-format
@@ -4352,6 +4388,7 @@ osinfo-db
 osinfo-db-tools
 osmium-tool
 osmpbf
+osslsigncode
 ossobuffo-jura-fonts
 ostree
 otf2
@@ -4433,6 +4470,7 @@ pdfmixtool
 pdfpc
 pdf-stapler
 pdftk-java
+pd-mapper
 pe-bear
 PEGTL
 Pencil2D
@@ -6177,6 +6215,7 @@ php-google-recaptcha
 php-IDNA_Convert
 php-kissifrot-php-ixr
 php-manual-en
+php-markdown
 php-maxminddb
 php-mockery
 php-mongodb
@@ -6396,6 +6435,7 @@ postgresql-odbc
 postgresql
 povray
 powerline-go
+powerline
 powerpc-utils
 power-profiles-daemon
 powerstat
@@ -6760,7 +6800,6 @@ python-gbinder
 python-gcsfs
 python-geoip2
 python-geomdl
-python-geomet
 python-geopandas
 python-geopy
 python-ghp-import
@@ -7182,6 +7221,7 @@ python-PyMuPDF
 python-pynamodb
 python-pynetbox
 python-pynn
+python-pynsgr
 python-pynwb
 python-pyocr
 python-pyongc
@@ -7426,6 +7466,7 @@ python-throttler
 python-tifffile
 python-tilestache
 python-time-machine
+python-tinygrad
 python-tldextract
 python-tld
 python-tmuxp
@@ -7554,6 +7595,7 @@ qflipper
 qgnomeplatform
 qjackctl
 qmapshack
+qmasterpassword
 qm
 qownnotes
 qpdf
@@ -7678,6 +7720,7 @@ readline
 readosm
 realtime-setup
 realtime-tests
+receptor
 redhat-fonts
 redhat-rpm-config
 redis
@@ -9055,6 +9098,7 @@ rust-gix-refspec
 rust-gix-revision
 rust-gix-revwalk
 rust-gix-sec
+rust-gix
 rust-gix-submodule
 rust-gix-tempfile
 rust-gix-trace
@@ -9428,6 +9472,7 @@ rust-lru
 rust-lscolors
 rust-lscolors0.13
 rust-lsd
+rust-lsp-types
 rust-lv2-atom
 rust-lv2-core-derive
 rust-lv2-core
@@ -10132,6 +10177,7 @@ rust-schemafy_lib
 rust-signal-hook-mio
 rust-signal-hook-registry
 rust-signal-hook
+rust-signal-hook-tokio
 rust-signal-hook0.1
 rust-signal
 rust-signature_derive
@@ -10205,6 +10251,7 @@ rust-streebog0.9
 rust-strength_reduce
 rust-strict-num
 rust-strict
+rust-str_indices
 rust-string_cache_codegen
 rust-string_cache
 rust-strip-ansi-escapes
@@ -10278,6 +10325,7 @@ rust-terminal_size
 rust-terminal_size0.1
 rust-terminal_size0.2
 rust-terminfo
+rust-termini
 rust-termion
 rust-termion1
 rust-termios
@@ -10453,7 +10501,9 @@ rust-unicode-width
 rust-unicode-xid
 rust-unicode-xid0.1
 rust-unic-segment
+rust-unic-ucd-category
 rust-unic-ucd-common
+rust-unic-ucd-hangul
 rust-unic-ucd-segment
 rust-unic-ucd-version
 rust-unidecode
@@ -10611,6 +10661,7 @@ rust-zvariant
 rust-zvariant_utils
 rust-zvariant2
 rust-z85
+rust2rpm-helper
 rust2rpm
 rutabaga-gfx-ffi
 R-winch
@@ -10722,6 +10773,7 @@ shaderc
 shadow-utils
 shake
 sharedmeataxe
+shared-mime-info
 shdoc
 shell-color-prompt
 ShellCheck
@@ -10893,6 +10945,7 @@ sweet-gtk-theme
 swift-lang
 swig
 switchdesk
+sword
 swtpm
 symbian-m-yuppy-gb-fonts
 symfpu
@@ -10947,6 +11000,7 @@ telnet
 template-glib
 tennix
 tepl
+termic
 tesseract
 tesseract-tessdata
 testcloud
@@ -11168,6 +11222,7 @@ vte
 vtk
 vulkan-headers
 vulkan-loader
+VulkanMemoryAllocator
 vulkan-tools
 vulkan-validation-layers
 vultr-cli
@@ -11277,6 +11332,7 @@ xdms
 xdp-tools
 xephem
 xerces-j2
+xeus-zmq
 xeyes
 xfe
 xflr5

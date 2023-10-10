@@ -253,7 +253,6 @@ authd
 auto-buildrequires
 autoconf-archive
 autoconf213
-autofs
 autojump
 autokey
 automoc
@@ -501,7 +500,6 @@ CardManager
 c-ares
 caribou
 Carla
-cascadia-code-fonts
 castget
 casync
 cataclysm-dda
@@ -1519,7 +1517,6 @@ firebird
 firefox-pkcs11-loader
 firefox
 firewalk
-firewalld
 fishbowl
 fish
 five-or-more
@@ -1599,7 +1596,6 @@ fprintd
 fprobe-ulog
 fragments
 freealut
-freecad
 freecell-solver
 freecolor
 freeDiameter
@@ -3598,7 +3594,6 @@ icecat
 icecream
 icemon
 icestorm
-icewm
 icon-naming-utils
 icon
 idle3-tools
@@ -4369,7 +4364,6 @@ libabigail
 libacars
 libaccounts-glib
 libaccounts-qt
-libadwaita
 libaec
 libaesgm
 libAfterImage
@@ -4399,7 +4393,6 @@ libbonoboui
 libbonoboui
 libbs2b
 libbtbb
-libb2
 libb64
 libcacard
 libcaca
@@ -4533,7 +4526,6 @@ libgta
 libgtextutils
 libguess
 libgweather
-libgweather4
 libg15render
 libhandy
 libhbaapi
@@ -4688,7 +4680,6 @@ libplacebo
 libpng
 libpng12
 libpng15
-libportal
 libpqxx
 libpreludedb
 libprojectM
@@ -5260,7 +5251,6 @@ milter-greylist
 mimalloc
 mimetic
 mimic
-minder
 minetestmapper
 minetest
 mingetty
@@ -5402,7 +5392,6 @@ mingw-python-jinja2
 mingw-python-lxml
 mingw-python-markupsafe
 mingw-python-OWSLib
-mingw-python-packaging
 mingw-python-ply
 mingw-python-psycopg2
 mingw-python-pygments
@@ -5536,6 +5525,7 @@ mod_mono
 mod_perl
 mod_perl
 mod_psgi
+mod_qos
 mod_suphp
 module-build-service
 module-build
@@ -5633,7 +5623,6 @@ multilib-rpm-config
 multimarkdown
 multimedia-menus
 multiwatch
-mumble
 mum-hash
 MUMPS
 munge
@@ -6134,7 +6123,6 @@ osmo-fl2k
 osmo
 osm2pgsql
 os-prober
-osslsigncode
 ostrichriders
 otf2bdf
 ots
@@ -6184,6 +6172,7 @@ pam_mount
 pam_mysql
 pam_script
 pam_ssh
+pam_url
 pam_yubico
 pam_2fa
 pangomm
@@ -7670,16 +7659,12 @@ photocollage
 photoqt
 phototonic
 php-alcaeus-mongo-php-adapter
-php-amqplib
 php-andrewsville-php-token-reflection
 php-aws-php-sns-message-validator
 php-aws-sdk3
 php-bacon-qr-code2
 php-bantu-ini-get-wrapper
 php-bartlett-PHP-CompatInfo
-php-behat-gherkin
-php-behat-mink-browserkit-driver
-php-behat-mink
 php-brick-math
 php-brick-varexporter
 php-cache-adapter-common
@@ -7691,13 +7676,9 @@ php-composer-metadata-minifier
 php-composer-pcre
 php-composer-xdebug-handler
 php-composer-xdebug-handler2
-php-consolidation-annotated-command
-php-consolidation-output-formatters
-php-container-interop
 phpcpd
 php-deepdiver-zipstreamer
 php-deepend-Mockery
-php-dflydev-dot-access-data
 php-doctrine-annotations
 php-doctrine-cache
 php-doctrine-collections
@@ -7733,26 +7714,16 @@ php-felixfbecker-advanced-json-rpc3
 php-fgrosse-phpasn1
 php-fig-http-message-util
 php-fig-link-util
-php-firebase-php-jwt
 php-getid3
 php-gettext-gettext
 php-giggsey-locale
-php-google-apiclient-services
-php-google-apiclient
-php-google-auth
-php-grasmash-expander
-php-grasmash-yaml-expander
 php-guzzlehttp-guzzle6
 php-guzzlehttp-promises
 php-guzzlehttp-psr7
-php-guzzlehttp-ringphp
-php-guzzlehttp-streams
 php-hamcrest2
 php-htmLawed
 php-http-interop-http-middleware
 php-http-message-factory
-php-channel-phpseclib
-php-channel-sabredav
 php-christophwurst-id3parser
 php-iamcal-lib-autolink
 php-icewind-smb2
@@ -7761,7 +7732,6 @@ php-interfasys-lognormalizer
 php-ircmaxell-random-lib
 php-ircmaxell-security-lib
 php-jdorn-sql-formatter
-php-jsonlint
 php-justinrainbow-json-schema5
 php-khanamiryan-qrcode-detector-decoder
 php-kolab-net-ldap3
@@ -7861,20 +7831,7 @@ php-phpdocumentor-type-resolver1
 php-php-gettext
 php-phplang-scope-exit
 php-PHPParser
-php-phpseclib-crypt-aes
-php-phpseclib-crypt-base
-php-phpseclib-crypt-blowfish
-php-phpseclib-crypt-des
-php-phpseclib-crypt-hash
-php-phpseclib-crypt-random
-php-phpseclib-crypt-rc4
-php-phpseclib-crypt-rijndael
-php-phpseclib-crypt-rsa
-php-phpseclib-crypt-tripledes
-php-phpseclib-crypt-twofish
 php-phpseclib-file-asn1
-php-phpseclib-net-sftp
-php-phpseclib-net-ssh2
 php-phpseclib
 php-phpSmug
 php-phpspec-prophecy-phpunit
@@ -7901,9 +7858,6 @@ php-punic
 php-ralouphie-getallheaders
 php-ramsey-collection
 php-ramsey-uuid
-php-react-promise
-php-sabredav-Sabre
-php-sabredav-Sabre_VObject
 php-sabre-dav4
 php-sabre-event5
 php-samyoul-u2f-php-server
@@ -7982,7 +7936,6 @@ php-symfony4
 php-symfony4
 php-symfony4
 php-symfony4
-php-symfony4
 php-theseer-directoryscanner
 php-theseer-fDOMDocument
 php-true-punycode
@@ -7991,14 +7944,12 @@ phpunit7
 php-webimpress-http-middleware-compatibility
 php-webimpress-safe-writer
 php-webmozart-assert
-php-webmozart-path-util
 php-wikimedia-assert
 php-wikimedia-avro
 php-wikimedia-cdb
 php-wikimedia-ip-set
 php-wikimedia-utfnormal
 php-williamdes-mariadb-mysql-kbs
-php-xmlseclibs
 php-xmpphp
 php-zetacomponents-base
 php-zetacomponents-console-tools
@@ -8167,7 +8118,6 @@ potrace
 powdertoy
 poweradmin
 powerdevil
-powerline
 powermanga
 powertop
 powwow
@@ -9589,7 +9539,6 @@ python-pysb
 python-pyscaffold
 python-pyscf
 python-pyshark
-python-pyside2
 python-pysignals
 python-pysimplesoap
 python-pysmb
@@ -11103,7 +11052,6 @@ shairplay
 shairport-sync
 shaman
 shapelib
-shared-mime-info
 sharpfont
 sharpziplib
 sharutils
@@ -11447,7 +11395,6 @@ swell-foop
 swing-layout
 switcheroo-control
 switchtec
-sword
 sxhkd
 sxiv
 sylfilter

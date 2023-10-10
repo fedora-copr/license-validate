@@ -237,7 +237,6 @@ atf
 atinout
 atkmm
 atkmm2.36
-Error pulling 'atlantik'
 atmel-firmware
 AtomicParsley
 atomic-reactor
@@ -265,7 +264,6 @@ authd
 auto-buildrequires
 autoconf-archive
 autoconf213
-autofs
 autojump
 autokey
 automoc
@@ -516,7 +514,6 @@ CardManager
 c-ares
 caribou
 Carla
-cascadia-code-fonts
 castget
 castxml
 casync
@@ -573,7 +570,6 @@ c++-gtk-utils
 cinch
 cinnamon-control-center
 cinnamon-desktop
-Error pulling 'cinnamon-menus'
 cinnamon-menus
 cinnamon-screensaver
 cinnamon-session
@@ -586,7 +582,6 @@ cjson
 cjs
 ckeditor
 cksfv
-Error pulling 'clamav'
 clamav
 clamav-unofficial-sigs
 clamsmtp
@@ -1204,6 +1199,7 @@ emacs-common-ddskk
 emacs-common-riece
 emacs-ctable
 emacs-dash
+Error pulling 'emacs-deferred'
 emacs-deferred
 emacs-dockerfile-mode
 emacs-epc
@@ -1550,7 +1546,6 @@ firebird
 firefox-pkcs11-loader
 firefox
 firewalk
-firewalld
 fishbowl
 fish
 five-or-more
@@ -1633,7 +1628,6 @@ fprintd
 fprobe-ulog
 fragments
 freealut
-freecad
 freecell-solver
 freecolor
 freeDiameter
@@ -2410,6 +2404,7 @@ golang-github-cli-safeexec
 golang-github-cli-shurcool-graphql
 golang-github-cloudflare-backoff
 golang-github-cloudflare-cfssl
+Error pulling 'golang-github-cloudflare-circl'
 golang-github-cloudflare-redoctober
 golang-github-cloudflare
 golang-github-cmd
@@ -2598,7 +2593,6 @@ golang-github-fsnotify
 golang-github-fsouza-dockerclient
 golang-github-fvbommel-sortorder
 golang-github-fvbommel-util
-Error pulling 'golang-github-gabriel-vasile-mimetype'
 golang-github-gabriel-vasile-mimetype
 golang-github-gatherstars-com-jwz
 golang-github-gdamore-tcell-2
@@ -2752,6 +2746,7 @@ golang-github-hooklift-assert
 golang-github-howeyc-gopass
 golang-github-hpcloud-tail
 golang-github-hsiafan-glow
+Error pulling 'golang-github-hsiafan-vlog'
 golang-github-hsiafan-vlog
 golang-github-huandu-xstrings
 golang-github-hub
@@ -2918,6 +2913,7 @@ golang-github-logr-zapr
 golang-github-lucasb-eyer-colorful
 golang-github-lunixbochs-vtclean
 golang-github-lyft-protoc-gen-star
+Error pulling 'golang-github-macaron-inject'
 golang-github-macaron-inject
 golang-github-magiconair-properties
 golang-github-mailru-easyjson
@@ -3897,6 +3893,7 @@ chafa
 charliecloud
 CharLS
 chatty
+Error pulling 'cheat'
 cheat
 check-create-certificate
 check_postgres
@@ -3941,7 +3938,6 @@ icecream
 icedtea-web
 icemon
 icestorm
-icewm
 icon-naming-utils
 icon
 idevicerestore
@@ -4682,7 +4678,6 @@ libabigail
 libacars
 libaccounts-glib
 libaccounts-qt
-libadwaita
 libaec
 libaesgm
 libAfterImage
@@ -4713,7 +4708,6 @@ libbonoboui
 libbsd
 libbs2b
 libbtbb
-libb2
 libb64
 libcacard
 libcaca
@@ -4844,7 +4838,6 @@ libgtextutils
 libgtop2
 libguess
 libgweather
-libgweather4
 libg15render
 libhandy
 libhbaapi
@@ -5005,7 +4998,6 @@ libplacebo
 libpng
 libpng12
 libpng15
-libportal
 libpqxx
 libpreludedb
 libprojectM
@@ -5529,7 +5521,6 @@ mimalloc
 mimedefang
 mimetic
 mimic
-minder
 mine_detector
 minetestmapper
 minetest
@@ -5537,6 +5528,7 @@ mingetty
 mingw-adwaita-icon-theme
 mingw-angleproject
 mingw-antlr
+Error pulling 'mingw-atkmm'
 mingw-atkmm
 mingw-atk
 mingw-biblesync
@@ -5825,6 +5817,7 @@ mod_maxminddb
 mod_mono
 mod_perl
 mod_psgi
+mod_qos
 mod_suphp
 module-build-service
 module-build
@@ -5923,7 +5916,6 @@ multimarkdown
 multimedia-menus
 multitail
 multiwatch
-mumble
 mum-hash
 MUMPS
 munge
@@ -6403,7 +6395,6 @@ osmo-fl2k
 osmo
 osm2pgsql
 os-prober
-osslsigncode
 ossobuffo-jura-fonts
 ostrichriders
 otf2bdf
@@ -6445,6 +6436,7 @@ pam_mount
 pam_mysql
 pam_script
 pam_ssh
+pam_url
 pam_yubico
 pam_2fa
 pangomm
@@ -6843,6 +6835,7 @@ perl-Crypt-Random-Source
 perl-Crypt-RandPasswd
 perl-Crypt-RC4
 perl-Crypt-RC4-XS
+Error pulling 'perl-Crypt-Salsa20'
 perl-Crypt-Salsa20
 perl-Crypt-ScryptKDF
 perl-Crypt-Simple
@@ -7797,6 +7790,7 @@ perl-Test-HexString
 perl-Test-Is
 perl-Test-JSON
 perl-Test-LectroTest
+Error pulling 'perl-Test-Lib'
 perl-Test-Lib
 perl-Test-LoadAllModules
 perl-Test-Metrics-Any
@@ -7815,6 +7809,7 @@ perl-Test-NoPlan
 perl-Test-Number-Delta
 perl-Test-Object
 perl-Test-Perl-Critic-Progressive
+Error pulling 'perl-Test-Pod-No404s'
 perl-Test-Pod-No404s
 perl-Test-Pod-Spelling-CommonMistakes
 perl-Test-POE-Client-TCP
@@ -7842,6 +7837,7 @@ perl-Test-WriteVariants
 perl-Test-WWW-Mechanize-Catalyst
 perl-Test-WWW-Mechanize-CGIApp
 perl-Test-WWW-Selenium
+Error pulling 'perl-Test-YAML-Meta'
 perl-Test-YAML-Meta
 perl-Test2-Harness
 perl-Test2-Plugin-Cover
@@ -7861,8 +7857,10 @@ perl-Text-Brew
 perl-Text-Context-EitherSide
 perl-Text-Context
 perl-Text-CSV-Separator
+Error pulling 'perl-Text-CSV'
 perl-Text-CSV
 perl-Text-Diff-HTML
+Error pulling 'perl-Text-Diff-Parser'
 perl-Text-Diff-Parser
 perl-Text-Emoticon-MSN
 perl-Text-Emoticon
@@ -7885,6 +7883,7 @@ perl-Text-Reform
 perl-Text-Roman
 perl-Text-SimpleTable-AutoWidth
 perl-Text-SimpleTable
+Error pulling 'perl-Text-Sprintf-Named'
 perl-Text-Sprintf-Named
 perl-Text-Table
 perl-Text-Table-Tiny
@@ -7896,12 +7895,14 @@ perl-Text-Tree
 perl-Text-vCard
 perl-Text-VimColor
 perl-Text-WagnerFischer
+Error pulling 'perl-Text-WikiFormat'
 perl-Text-WikiFormat
 perl-Text-WordDiff
 perl-Text-xSV
 perl-TheSchwartz
 perl-threads-lite
 perl-Tie-Cache
+Error pulling 'perl-Tie-Cycle'
 perl-Tie-Cycle
 perl-Tie-DBI
 perl-Tie-Hash-Method
@@ -7910,6 +7911,7 @@ perl-Tie-Hash-ReadonlyStack
 perl-Time-Clock
 perl-Time-Fake
 perl-Time-Interval
+Error pulling 'perl-Time-Mock'
 perl-Time-Mock
 perl-Time-Moment
 perl-Time-OlsonTZ-Download
@@ -8026,6 +8028,7 @@ perl-XML-Validator-Schema
 perl-XML-Writer-String
 perl-XML-XPath
 perl-XRD-Parser
+Error pulling 'perl-XS-Parse-Keyword'
 perl-XS-Parse-Keyword
 perl-XS-Parse-Sublike
 perl-X10
@@ -8063,16 +8066,12 @@ photocollage
 photoqt
 phototonic
 php-alcaeus-mongo-php-adapter
-php-amqplib
 php-andrewsville-php-token-reflection
 php-aws-php-sns-message-validator
 php-aws-sdk3
 php-bacon-qr-code2
 php-bantu-ini-get-wrapper
 php-bartlett-PHP-CompatInfo
-php-behat-gherkin
-php-behat-mink-browserkit-driver
-php-behat-mink
 php-brick-math
 php-brick-varexporter
 php-cache-adapter-common
@@ -8084,9 +8083,6 @@ php-composer-metadata-minifier
 php-composer-pcre
 php-composer-xdebug-handler
 php-composer-xdebug-handler2
-php-consolidation-annotated-command
-php-consolidation-output-formatters
-php-container-interop
 phpcov
 phpcpd
 php-cs-fixer
@@ -8094,7 +8090,6 @@ php-cssjanus
 php-dasprid-enum
 php-deepdiver-zipstreamer
 php-deepend-Mockery
-php-dflydev-dot-access-data
 php-doctrine-annotations
 php-doctrine-cache
 php-doctrine-collections
@@ -8130,27 +8125,17 @@ php-felixfbecker-advanced-json-rpc3
 php-fgrosse-phpasn1
 php-fig-http-message-util
 php-fig-link-util
-php-firebase-php-jwt
 php-getid3
 php-gettext-gettext
 php-giggsey-locale
-php-google-apiclient-services
-php-google-apiclient
-php-google-auth
 php-google-recaptcha
-php-grasmash-expander
-php-grasmash-yaml-expander
 php-guzzlehttp-guzzle6
 php-guzzlehttp-promises
 php-guzzlehttp-psr7
-php-guzzlehttp-ringphp
-php-guzzlehttp-streams
 php-hamcrest2
 php-htmLawed
 php-http-interop-http-middleware
 php-http-message-factory
-php-channel-phpseclib
-php-channel-sabredav
 php-christophwurst-id3parser
 php-iamcal-lib-autolink
 php-icewind-smb2
@@ -8159,7 +8144,6 @@ php-interfasys-lognormalizer
 php-ircmaxell-random-lib
 php-ircmaxell-security-lib
 php-jdorn-sql-formatter
-php-jsonlint
 php-justinrainbow-json-schema5
 php-khanamiryan-qrcode-detector-decoder
 php-kolab-net-ldap3
@@ -8269,20 +8253,7 @@ php-php-gettext
 php-phplang-scope-exit
 php-phpmailer6
 php-PHPParser
-php-phpseclib-crypt-aes
-php-phpseclib-crypt-base
-php-phpseclib-crypt-blowfish
-php-phpseclib-crypt-des
-php-phpseclib-crypt-hash
-php-phpseclib-crypt-random
-php-phpseclib-crypt-rc4
-php-phpseclib-crypt-rijndael
-php-phpseclib-crypt-rsa
-php-phpseclib-crypt-tripledes
-php-phpseclib-crypt-twofish
 php-phpseclib-file-asn1
-php-phpseclib-net-sftp
-php-phpseclib-net-ssh2
 php-phpseclib
 php-phpSmug
 php-phpspec-prophecy-phpunit
@@ -8310,9 +8281,6 @@ php-punic
 php-ralouphie-getallheaders
 php-ramsey-collection
 php-ramsey-uuid
-php-react-promise
-php-sabredav-Sabre
-php-sabredav-Sabre_VObject
 php-sabre-dav4
 php-sabre-event5
 php-sabre-http5
@@ -8358,14 +8326,12 @@ phpunit9
 php-webimpress-http-middleware-compatibility
 php-webimpress-safe-writer
 php-webmozart-assert
-php-webmozart-path-util
 php-wikimedia-assert
 php-wikimedia-avro
 php-wikimedia-cdb
 php-wikimedia-ip-set
 php-wikimedia-utfnormal
 php-williamdes-mariadb-mysql-kbs
-php-xmlseclibs
 php-xmpphp
 php-yoast-phpunit-polyfills
 php-zetacomponents-base
@@ -8512,7 +8478,6 @@ powdertoy
 poweradmin
 powerdevil
 powerline-go
-powerline
 powermanga
 powertop
 powwow
@@ -8975,7 +8940,6 @@ python-colcon-library-path
 python-colcon-metadata
 python-colcon-mixin
 python-colcon-notification
-Error pulling 'python-colcon-output'
 python-colcon-output
 python-colcon-package-information
 python-colcon-package-selection
@@ -10053,7 +10017,6 @@ python-pysb
 python-pyscaffold
 python-pyscf
 python-pyshark
-python-pyside2
 python-pysignals
 python-pysimplesoap
 python-pysmb
@@ -10091,7 +10054,6 @@ python-pytest-fixture-config
 python-pytest-flakes
 python-pytest-forked
 python-pytest-freezegun
-Error pulling 'python-pytest-harvest'
 python-pytest-harvest
 python-pytest-httpbin
 python-pytest-httpserver
@@ -10182,6 +10144,7 @@ python-reno
 python-reparser
 python-repomd
 python-reportlab
+Error pulling 'python-repoze-lru'
 python-repoze-lru
 python-repoze-sphinx-autointerface
 python-repoze-tm2
@@ -10364,7 +10327,6 @@ python-sqlalchemy-collectd
 python-sqlalchemy-filters
 python-sqlalchemy
 python-sqlalchemy-utils
-Error pulling 'python-sqlparse'
 python-sqlparse
 python-sql
 python-ssdeep
@@ -10539,6 +10501,7 @@ python-virtualenv
 python-virtualenvwrapper
 python-visitor
 python-visvis
+Error pulling 'python-vitrageclient'
 python-vitrageclient
 python-vobject
 python-volatile
@@ -10616,6 +10579,7 @@ python-XStatic-Angular-FileUpload
 python-XStatic-Angular-Gettext
 python-XStatic-Angular-lrdragndrop
 python-XStatic-Angular-Mock
+Error pulling 'python-XStatic-Angular'
 python-XStatic-Angular
 python-XStatic-Angular-UUID
 python-XStatic-Angular-Vis
@@ -10755,6 +10719,7 @@ qjson
 qle
 qlipper
 qmapshack
+qmasterpassword
 qmc2
 qm-dsp
 qmidiarp
@@ -11200,6 +11165,7 @@ robotfindskitten
 roca-detect
 rocksdb
 rocksndiamonds
+Error pulling 'rocm-cmake'
 rocm-compilersupport
 rocm-device-libs
 rocminfo
@@ -12089,7 +12055,6 @@ rust-paris
 rust-parking_lot_core
 rust-parking_lot_core0.8
 rust-parking_lot
-Error pulling 'rust-parking_lot0.11'
 rust-parking_lot0.11
 rust-parking
 rust-parsec-client
@@ -12194,6 +12159,7 @@ rust-quote0.6
 rust-rand_core
 rust-rand_core0.3
 rust-rand_core0.4
+Error pulling 'rust-rand_core0.5'
 rust-rand_core0.5
 rust-rand_distr
 rust-rand_hc
@@ -12327,6 +12293,7 @@ rust-sha1
 rust-sha1_0.6
 rust-sha-1_0.9
 rust-sha2
+Error pulling 'rust-sha2_0.9'
 rust-sha2_0.9
 rust-sha3
 rust-sha3_0.9
@@ -12362,7 +12329,6 @@ rust-snafu
 rust-socket2
 rust-spin_on
 rust-spki
-Error pulling 'rust-spytools'
 rust-ssh-key-dir
 rust-stable_deref_trait
 rust-stacker
@@ -12377,6 +12343,7 @@ rust-streebog0.9
 rust-string_cache_codegen
 rust-string_cache
 rust-strip-ansi-escapes
+Error pulling 'rust-str_stack'
 rust-str_stack
 rust-structopt-derive
 rust-structopt-derive0.2
@@ -12403,6 +12370,7 @@ rust-tar
 rust-tealdeer
 rust-tempdir
 rust-tempfile
+Error pulling 'rust-temptree'
 rust-temptree
 rust-tendril
 rust-termbg
@@ -12485,6 +12453,7 @@ rust-unicode-width
 rust-unicode-xid
 rust-unicode-xid0.1
 rust-unic-segment
+rust-unic-ucd-category
 rust-unic-ucd-common
 rust-unic-ucd-segment
 rust-unic-ucd-version
@@ -12715,10 +12684,10 @@ shairplay
 shairport-sync
 shaman
 shapelib
-shared-mime-info
 sharpfont
 sharpziplib
 sharutils
+Error pulling 'sha'
 sha
 sha2
 shc
@@ -12858,6 +12827,7 @@ snapraid
 sndfile-tools
 snes_ntsc
 sng
+Error pulling 'snip'
 snip
 sni-qt
 snmpcheck
@@ -13091,7 +13061,6 @@ swell-foop
 swing-layout
 switcheroo-control
 switchtec
-sword
 sxhkd
 sxiv
 sylfilter
@@ -13393,7 +13362,9 @@ uARMSolver
 uberftp
 ubertooth
 ubloxcfg
+Error pulling 'uboot-tools'
 uboot-tools
+Error pulling 'ubridge'
 ubridge
 ucblogo
 uClibc
@@ -14092,6 +14063,7 @@ z
 zssh
 zulucrypt
 zynaddsubfx
+Error pulling 'zypper'
 zypper
 z80asm
 z80dasm

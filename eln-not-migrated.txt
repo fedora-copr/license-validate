@@ -10,6 +10,7 @@ a52dec
 accountsservice
 adcli
 adobe-afdko
+afflib
 apache-commons-exec
 argon2
 armadillo
@@ -18,7 +19,6 @@ astyle
 atkmm
 autoconf-archive
 autoconf213
-autofs
 bacula
 baobab
 beakerlib
@@ -95,7 +95,6 @@ fdk-aac-free
 fdupes
 file
 firefox
-firewalld
 fish
 flatpak-xdg-utils
 flex
@@ -186,6 +185,7 @@ gvfs
 hdf
 hdf5
 hdparm
+hfsplus-tools
 hicolor-icon-theme
 http-parser
 iio-sensor-proxy
@@ -224,7 +224,6 @@ lcms2
 leptonica
 less
 libabigail
-libadwaita
 libaec
 libaio
 libao
@@ -245,6 +244,7 @@ libdvdread
 libeconf
 libell
 libevent
+libewf
 libffi
 libfprint
 libgdither
@@ -253,7 +253,6 @@ libgee
 libgeotiff
 libgnomekbd
 libgta
-libgweather4
 libhandy
 libid3tag
 libiec61883
@@ -263,6 +262,7 @@ libjpeg-turbo
 libkeepalive
 libkml
 libldac
+libldm
 liblouis
 liblqr-1
 libmad
@@ -284,7 +284,6 @@ libnsl2
 libopenmpt
 libopenraw
 libpng
-libportal
 libqmi
 librabbitmq
 libraqm
@@ -335,6 +334,7 @@ ltrace
 lv2
 lvm2
 lzo
+mac-robber
 mallard-rng
 mariadb
 maven-shade-plugin
@@ -385,9 +385,11 @@ nodejs-nodemon
 nodejs-packaging
 nodejs20
 nss-altfiles
+ntfs-3g
 nv-codec-headers
 nvmetcli
 nvml
+ocaml-cmdliner
 ocl-icd
 oddjob
 ogdi
@@ -696,12 +698,12 @@ serd
 setserial
 sg3_utils
 sgml-common
-shared-mime-info
 sharutils
 shim
 shim-unsigned-aarch64
 shim-unsigned-x64
 sip6
+sleuthkit
 smc-tools
 softhsm
 sord
