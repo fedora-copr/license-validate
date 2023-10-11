@@ -15,7 +15,8 @@ while read -r package; do
         . ${WORKING_DIR}/fedpkg-clone-and-cd-package.sh "$package"
         DATE=$(git log --reverse --format="format:%as" --all | head -n 1)
         if [[ "$DATE" < 2022-08-01 ]]; then
-                echo "$package"
+                # and if the package has main/rawhide branch
+                git branch -r |grep main >/dev/null && echo "$package"
         fi
         popd >/dev/null
 done
