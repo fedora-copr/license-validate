@@ -647,6 +647,7 @@ datefudge
 date
 dateutils
 datovka
+dbcsr
 dbh
 dblatex
 dbus-broker
@@ -948,6 +949,7 @@ fmidi
 fmt
 fntsample
 focuswriter
+folder-color-switcher
 folks
 folly
 foma
@@ -1014,6 +1016,7 @@ fuse-overlayfs
 fusesource-pom
 fuse
 fuse3
+futuresql
 fwupd-efi
 fwupd
 fxdiv
@@ -2135,6 +2138,7 @@ golang-github-lucasjones-reggen
 golang-github-macaron-inject
 golang-github-marekm4-color-extractor
 golang-github-mattn-localereader
+golang-github-mattn-zglob
 golang-github-maxatome-testdeep
 golang-github-maxhalford-halfgone
 golang-github-mdlayher-ethtool
@@ -2195,6 +2199,7 @@ golang-github-pkg-xattr
 golang-github-poy-onpar
 golang-github-prashantv-gostub
 golang-github-projectdiscovery-freeport
+golang-github-projectdiscovery-goconfig
 golang-github-projectdiscovery-ratelimit
 golang-github-projectdiscovery-utils
 golang-github-prometheus-client
@@ -2825,6 +2830,7 @@ iproute
 ip-sentinel
 ipset
 iptables
+iptraf-ng
 iputils
 ipvsadm
 ipxe
@@ -2867,6 +2873,8 @@ java-diff-utils
 javapackages-bootstrap
 javapackages-tools
 javassist
+java-11-openjdk-portable
+java-1.8.0-openjdk-portable
 jaxb-api
 jaxb-api2
 jaxb-dtd-parser
@@ -2976,8 +2984,10 @@ keylime-agent-rust
 keyrings-filesystem
 kf6-attica
 kf6-bluez-qt
+kf6-kactivities
 kf6-karchive
 kf6-kauth
+kf6-kbookmarks
 kf6-kcalendarcore
 kf6-kcodecs
 kf6-kcolorscheme
@@ -3014,12 +3024,15 @@ kf6-kservice
 kf6-ktexttemplate
 kf6-ktextwidgets
 kf6-kunitconversion
+kf6-kwallet
 kf6-kwayland
 kf6-kwidgetsaddons
 kf6-kwindowsystem
+kf6-kxmlgui
 kf6-modemmanager-qt
 kf6-networkmanager-qt
 kf6-prison
+kf6-qqc2-desktop-style
 kf6-solid
 kf6-sonnet
 kf6
@@ -3307,7 +3320,12 @@ libmspub
 libmwaw
 libnatpmp
 libnbd
+libnetfilter_conntrack
+libnetfilter_cthelper
+libnetfilter_cttimeout
+libnetfilter_queue
 libnet
+libnfnetlink
 libnfs
 libnftnl
 libnotify
@@ -3489,6 +3507,7 @@ libxkbfile
 libxmlb
 libxml++
 libXmu
+libXNVCtrl
 libXpm
 libXp
 libXrandr
@@ -3842,6 +3861,7 @@ mingw-python-installer
 mingw-python-packaging
 mingw-python-pep517
 mingw-python-pip
+mingw-python-ply
 mingw-python-pyproject-hooks
 mingw-python-PyQt-builder
 mingw-python-pyqt5-sip
@@ -4047,6 +4067,7 @@ ncftp
 ncmpc
 ncompress
 nco
+ncurses-epel
 ncurses
 ndiscover-exo-2-fonts
 ndppd
@@ -4085,6 +4106,7 @@ nml
 nmon
 nmstate
 nnn
+nodejs20
 nomarch
 normalize
 normaliz
@@ -6401,6 +6423,7 @@ plexus-pom
 plexus-resources
 plexus-sec-dispatcher
 plexus-utils
+plocate
 plog
 pl
 plug
@@ -6744,6 +6767,7 @@ python-emoji
 python-engineio
 python-enchant
 python-envisage
+python-epel-rpm-macros
 python-exabgp
 python-eyed3
 python-ezdxf
@@ -6909,6 +6933,8 @@ python-influxdb-client
 python-iniconfig
 python-injector
 python-inkex
+python-inotify_simple
+python-inotify
 python-installer
 python-interface-meta
 python-intern
@@ -7030,6 +7056,7 @@ python-metakernel
 python-metar
 python-mirakuru
 python-missingno
+python-mistune08
 python-mizani
 python-mne-bids
 python-mock
@@ -7180,6 +7207,7 @@ python-pybtex-docutils
 python-pybtex
 python-pybv
 python-pycatch22
+python-pycdio
 python-pycdlib
 python-pyclip
 python-pycotap
@@ -7277,6 +7305,7 @@ python-pytoolconfig
 python-pytzdata
 python-pytz-deprecation-shim
 python-pyudev
+python-pyupgrade
 python-pyvhacd
 python-pyvmomi
 python-pywayland
@@ -7344,6 +7373,7 @@ python-rx
 python-r128gain
 python-samloader
 python-sarif-om
+python-scantree
 python-scikit-build-core
 python-scikit-build
 python-scikit-image
@@ -7559,6 +7589,7 @@ python-zope-hookable
 python-zope-testrunner
 python-zopeundo
 python-zopfli
+python-zstandard
 python3-cangjie
 python3-discid
 python3-docs
@@ -7568,6 +7599,11 @@ python3-typed_ast
 python3.10
 python3.11
 python3.12
+python38-hvac
+python38-ntlm-auth-epel
+python38-pynetbox
+python38-requests_ntlm-epel
+python39-pyelftools-epel
 pytz
 pyusb
 pywbem
@@ -7762,6 +7798,7 @@ rhythmbox-alternative-toolbar
 R-ica
 ricochet
 R-igraph
+rigsync
 R-inline
 rit-ezhuthu-fonts
 rit-meera-new-fonts
@@ -8722,6 +8759,7 @@ rust-cursive-tabs
 rust-cursive0.16
 rust-curve25519-dalek
 rust-custom_error
+rust-cvss
 rust-cxxbridge-flags
 rust-cxxbridge-macro
 rust-cxx-build
@@ -8798,6 +8836,7 @@ rust-digest0.9
 rust-directories-next
 rust-directories
 rust-directories3
+rust-directories4
 rust-dirs-next
 rust-dirs
 rust-dirs-sys-next
@@ -10408,9 +10447,11 @@ rust-tokio0.1
 rust-tokio0.2
 rust-toml_datetime
 rust-toml_edit
+rust-toml_edit0.19
 rust-toml
 rust-toml0.4
 rust-toml0.5
+rust-toml0.7
 rust-totp-lite
 rust-tower-http
 rust-tower-layer
@@ -11075,6 +11116,7 @@ transmission
 transtats-cli
 treelayout
 tree-pkg
+tree-sitter
 trelby
 trojita
 trurl
@@ -11167,6 +11209,7 @@ utop
 utrac
 uuid
 uxplay
+vala-language-server
 vala
 varnish-modules
 varnish
@@ -11330,6 +11373,7 @@ xdg-user-dirs-gtk
 xdg-utils
 xdms
 xdp-tools
+xdpyinfo
 xephem
 xerces-j2
 xeus-zmq
@@ -11392,6 +11436,7 @@ xorg-x11-xtrans-devel
 xosd
 xpa
 xpdf
+xprop
 xrandr
 xrdb
 xrestop
@@ -11411,6 +11456,7 @@ xvidcore
 xvidtune
 xwaylandvideobridge
 xwd
+xwininfo
 xxhash
 xylib
 xz-java
@@ -11449,6 +11495,7 @@ zathura-pdf-poppler
 zathura-ps
 zathura
 zbar
+zcfan
 zenity
 zenon
 zerofree

@@ -43,6 +43,7 @@ adwaita-blue-gtk-theme
 adwaita-icon-theme
 adw-gtk3-theme
 aeskeyfind
+aespipe
 afetch
 afflib
 afpfs-ng
@@ -623,7 +624,6 @@ c-ares
 cargo2rpm
 caribou
 Carla
-cascadia-code-fonts
 casc
 castget
 castxml
@@ -1048,6 +1048,7 @@ davfs2
 davix
 dav1d
 dayplanner
+dbcsr
 dbench
 dbus-broker
 dbus-c++
@@ -1912,6 +1913,7 @@ fmit
 fmtools
 fmt-ptrn
 fmt
+folder-color-switcher
 foliate
 folks
 folly-rpm-macros
@@ -2006,6 +2008,7 @@ fuse-zip
 fusion-icon
 fusioninventory-agent
 future
+futuresql
 fuzza
 fuzzel
 fvsp
@@ -5637,8 +5640,10 @@ kf5-syntax-highlighting
 kf5-threadweaver
 kf6-attica
 kf6-bluez-qt
+kf6-kactivities
 kf6-karchive
 kf6-kauth
+kf6-kbookmarks
 kf6-kcalendarcore
 kf6-kcodecs
 kf6-kcolorscheme
@@ -5675,12 +5680,15 @@ kf6-kservice
 kf6-ktexttemplate
 kf6-ktextwidgets
 kf6-kunitconversion
+kf6-kwallet
 kf6-kwayland
 kf6-kwidgetsaddons
 kf6-kwindowsystem
+kf6-kxmlgui
 kf6-modemmanager-qt
 kf6-networkmanager-qt
 kf6-prison
+kf6-qqc2-desktop-style
 kf6-solid
 kf6-sonnet
 kf6
@@ -6346,15 +6354,10 @@ libndp
 libnest2d
 libnetconf2
 libnetfilter_acct
-libnetfilter_conntrack
-libnetfilter_cthelper
-libnetfilter_cttimeout
 libnetfilter_log
-libnetfilter_queue
 libnet10
 libneurosim
 libnfc
-libnfnetlink
 libnice
 libnids
 libnitrokey
@@ -11155,7 +11158,6 @@ php-php-gettext
 php-phplang-scope-exit
 php-phpmailer6
 php-PHPParser
-php-phpseclib-file-asn1
 php-phpseclib
 php-phpSmug
 php-phpspec-prophecy-phpunit
@@ -12648,8 +12650,6 @@ python-iniparse
 python-injector
 python-inject
 python-inkex
-python-inotify_simple
-python-inotify
 python-inspyred
 python-installer
 python-instant
@@ -14710,6 +14710,7 @@ R-ica
 riemann-c-client
 rifiuti2
 rig
+rigsync
 Ri-li
 R-import
 R-ini
@@ -15394,6 +15395,7 @@ rust-cursive-tabs
 rust-cursive0.16
 rust-curve25519-dalek
 rust-custom_error
+rust-cvss
 rust-cxxbridge-flags
 rust-cxxbridge-macro
 rust-cxx-build
@@ -15453,6 +15455,7 @@ rust-digest0.9
 rust-directories-next
 rust-directories
 rust-directories3
+rust-directories4
 rust-dirs-next
 rust-dirs
 rust-dirs-sys-next
@@ -16688,9 +16691,11 @@ rust-tokio-rustls
 rust-tokio-uring
 rust-toml_datetime
 rust-toml_edit
+rust-toml_edit0.19
 rust-toml
 rust-toml0.4
 rust-toml0.5
+rust-toml0.7
 rust-tower-http
 rust-tower
 rust-tpm2-policy
@@ -17785,7 +17790,6 @@ transmission-remote-gtk
 trash-cli
 travelccm
 traverso
-tree-sitter
 trellis
 tremulous-data
 tremulous
@@ -18494,7 +18498,6 @@ xpenguins
 xpilot-ng
 xplanet
 xpra
-xprop
 xpsk31
 xqc
 xqilla

@@ -35,6 +35,7 @@ adplug
 adwaita-blue-gtk-theme
 adwaita-icon-theme
 aeskeyfind
+aespipe
 afflib
 afpfs-ng
 aftertheflood-sparks-fonts
@@ -1199,7 +1200,6 @@ emacs-common-ddskk
 emacs-common-riece
 emacs-ctable
 emacs-dash
-Error pulling 'emacs-deferred'
 emacs-deferred
 emacs-dockerfile-mode
 emacs-epc
@@ -2404,7 +2404,6 @@ golang-github-cli-safeexec
 golang-github-cli-shurcool-graphql
 golang-github-cloudflare-backoff
 golang-github-cloudflare-cfssl
-Error pulling 'golang-github-cloudflare-circl'
 golang-github-cloudflare-redoctober
 golang-github-cloudflare
 golang-github-cmd
@@ -2746,7 +2745,6 @@ golang-github-hooklift-assert
 golang-github-howeyc-gopass
 golang-github-hpcloud-tail
 golang-github-hsiafan-glow
-Error pulling 'golang-github-hsiafan-vlog'
 golang-github-hsiafan-vlog
 golang-github-huandu-xstrings
 golang-github-hub
@@ -2913,7 +2911,6 @@ golang-github-logr-zapr
 golang-github-lucasb-eyer-colorful
 golang-github-lunixbochs-vtclean
 golang-github-lyft-protoc-gen-star
-Error pulling 'golang-github-macaron-inject'
 golang-github-macaron-inject
 golang-github-magiconair-properties
 golang-github-mailru-easyjson
@@ -2949,7 +2946,6 @@ golang-github-mattn-shellwords
 golang-github-mattn-sqlite3
 golang-github-mattn-tty
 golang-github-mattn-xmlrpc
-golang-github-mattn-zglob
 golang-github-matttproud-protobuf-extensions
 golang-github-max-sum-base32768
 golang-github-mbndr-figlet4go
@@ -3156,7 +3152,6 @@ golang-github-projectdiscovery-cdncheck
 golang-github-projectdiscovery-clistats
 golang-github-projectdiscovery-fdmax
 golang-github-projectdiscovery-fileutil
-golang-github-projectdiscovery-goconfig
 golang-github-projectdiscovery-goflags
 golang-github-projectdiscovery-gologger
 golang-github-projectdiscovery-hmap
@@ -3532,8 +3527,6 @@ golang-k8s-sample-cli-plugin
 golang-k8s-sample-controller
 golang-k8s-utils
 golang-layeh-gopher-luar
-Error clonnig 'golang-modernc-ccorpus2'
-golang-modernc-ccorpus2
 golang-modernc-fileutil
 golang-modernc-golex
 golang-modernc-lexer
@@ -3893,7 +3886,6 @@ chafa
 charliecloud
 CharLS
 chatty
-Error pulling 'cheat'
 cheat
 check-create-certificate
 check_postgres
@@ -4022,7 +4014,6 @@ ipmiutil
 iproute
 iprutils
 ipsilon
-iptraf-ng
 iptstate
 ipv6calc
 ipv6gen
@@ -4095,12 +4086,10 @@ javaparser
 javapoet
 java-runtime-decompiler
 java-scrypt
-java-11-openjdk-portable
 java-11-openjdk
 java-17-openjdk-portable
 java-17-openjdk
 java-1.8.0-openjdk-aarch32
-java-1.8.0-openjdk-portable
 java-1.8.0-openjdk
 jaxen
 jbigkit
@@ -4946,15 +4935,10 @@ libndp
 libnest2d
 libnetconf2
 libnetfilter_acct
-libnetfilter_conntrack
-libnetfilter_cthelper
-libnetfilter_cttimeout
 libnetfilter_log
-libnetfilter_queue
 libnet10
 libneurosim
 libnfc
-libnfnetlink
 libnice
 libnids
 libnitrokey
@@ -5528,7 +5512,6 @@ mingetty
 mingw-adwaita-icon-theme
 mingw-angleproject
 mingw-antlr
-Error pulling 'mingw-atkmm'
 mingw-atkmm
 mingw-atk
 mingw-biblesync
@@ -5676,7 +5659,6 @@ mingw-python-lxml
 mingw-python-markupsafe
 mingw-python-OWSLib
 mingw-python-packaging
-mingw-python-ply
 mingw-python-psycopg2
 mingw-python-pygments
 mingw-python-pyparsing
@@ -5775,7 +5757,6 @@ mirrormanager2
 mISDN
 mkbootdisk
 mk-files
-mkosi-initrd
 mkosi
 mkrdns
 mktorrent
@@ -5976,8 +5957,6 @@ ncl
 ncmpcpp
 nco
 ncrack
-Error pulling 'ncurses-epel'
-ncurses-epel
 ncview
 ndctl
 ndesk-dbus-glib
@@ -6103,7 +6082,6 @@ nodejs-packaging
 nodejs-replace-require-self
 nodejs-underscore
 nodejs18
-nodejs20
 nodm
 noggin
 nogravity-data
@@ -6835,7 +6813,6 @@ perl-Crypt-Random-Source
 perl-Crypt-RandPasswd
 perl-Crypt-RC4
 perl-Crypt-RC4-XS
-Error pulling 'perl-Crypt-Salsa20'
 perl-Crypt-Salsa20
 perl-Crypt-ScryptKDF
 perl-Crypt-Simple
@@ -7790,7 +7767,6 @@ perl-Test-HexString
 perl-Test-Is
 perl-Test-JSON
 perl-Test-LectroTest
-Error pulling 'perl-Test-Lib'
 perl-Test-Lib
 perl-Test-LoadAllModules
 perl-Test-Metrics-Any
@@ -7809,7 +7785,6 @@ perl-Test-NoPlan
 perl-Test-Number-Delta
 perl-Test-Object
 perl-Test-Perl-Critic-Progressive
-Error pulling 'perl-Test-Pod-No404s'
 perl-Test-Pod-No404s
 perl-Test-Pod-Spelling-CommonMistakes
 perl-Test-POE-Client-TCP
@@ -7837,7 +7812,6 @@ perl-Test-WriteVariants
 perl-Test-WWW-Mechanize-Catalyst
 perl-Test-WWW-Mechanize-CGIApp
 perl-Test-WWW-Selenium
-Error pulling 'perl-Test-YAML-Meta'
 perl-Test-YAML-Meta
 perl-Test2-Harness
 perl-Test2-Plugin-Cover
@@ -7857,10 +7831,8 @@ perl-Text-Brew
 perl-Text-Context-EitherSide
 perl-Text-Context
 perl-Text-CSV-Separator
-Error pulling 'perl-Text-CSV'
 perl-Text-CSV
 perl-Text-Diff-HTML
-Error pulling 'perl-Text-Diff-Parser'
 perl-Text-Diff-Parser
 perl-Text-Emoticon-MSN
 perl-Text-Emoticon
@@ -7883,7 +7855,6 @@ perl-Text-Reform
 perl-Text-Roman
 perl-Text-SimpleTable-AutoWidth
 perl-Text-SimpleTable
-Error pulling 'perl-Text-Sprintf-Named'
 perl-Text-Sprintf-Named
 perl-Text-Table
 perl-Text-Table-Tiny
@@ -7895,14 +7866,12 @@ perl-Text-Tree
 perl-Text-vCard
 perl-Text-VimColor
 perl-Text-WagnerFischer
-Error pulling 'perl-Text-WikiFormat'
 perl-Text-WikiFormat
 perl-Text-WordDiff
 perl-Text-xSV
 perl-TheSchwartz
 perl-threads-lite
 perl-Tie-Cache
-Error pulling 'perl-Tie-Cycle'
 perl-Tie-Cycle
 perl-Tie-DBI
 perl-Tie-Hash-Method
@@ -7911,7 +7880,6 @@ perl-Tie-Hash-ReadonlyStack
 perl-Time-Clock
 perl-Time-Fake
 perl-Time-Interval
-Error pulling 'perl-Time-Mock'
 perl-Time-Mock
 perl-Time-Moment
 perl-Time-OlsonTZ-Download
@@ -8028,7 +7996,6 @@ perl-XML-Validator-Schema
 perl-XML-Writer-String
 perl-XML-XPath
 perl-XRD-Parser
-Error pulling 'perl-XS-Parse-Keyword'
 perl-XS-Parse-Keyword
 perl-XS-Parse-Sublike
 perl-X10
@@ -8253,7 +8220,6 @@ php-php-gettext
 php-phplang-scope-exit
 php-phpmailer6
 php-PHPParser
-php-phpseclib-file-asn1
 php-phpseclib
 php-phpSmug
 php-phpspec-prophecy-phpunit
@@ -8418,7 +8384,6 @@ plexus-component-api
 plexus-i18n
 plexus-velocity
 plib
-plocate
 plotdrop
 plotmm
 plotnetcfg
@@ -9166,7 +9131,6 @@ python-enturclient
 python-environs
 python-enzyme
 python-epc
-python-epel-rpm-macros
 python-ephem
 python-ephyviewer
 python-epi
@@ -9333,7 +9297,6 @@ python-google-cloud-common
 python-google-cloud-containeranalysis
 python-google-cloud-container
 python-google-cloud-core
-python-google-cloud-datacatalog
 python-google-cloud-data-fusion
 python-google-cloud-dataproc-metastore
 python-google-cloud-dataproc
@@ -9447,8 +9410,6 @@ python-inflect
 python-influxdb
 python-iniparse
 python-inject
-python-inotify_simple
-python-inotify
 python-inspyred
 python-instant
 python-interrogate
@@ -9630,7 +9591,6 @@ python-mirakuru
 python-mirrors-countme
 python-mistralclient
 python-mistune
-python-mistune08
 python-mitogen
 python-mmtf
 python-mne-bids
@@ -9904,7 +9864,6 @@ python-pyarlo
 python-pybalboa
 python-pybeam
 python-pycares
-python-pycdio
 python-pycdlib
 python-pycec
 python-pyclipper
@@ -10092,7 +10051,6 @@ python-pytile
 python-pytn3270
 python-pytools
 python-pyunicorn
-python-pyupgrade
 python-pyvat
 python-pyvirtualdisplay
 python-pyvirtualize
@@ -10144,7 +10102,6 @@ python-reno
 python-reparser
 python-repomd
 python-reportlab
-Error pulling 'python-repoze-lru'
 python-repoze-lru
 python-repoze-sphinx-autointerface
 python-repoze-tm2
@@ -10212,7 +10169,6 @@ python-sanction
 python-sane
 python-satyr
 python-scales
-python-scantree
 python-scikit-learn
 python-scikit-uplift
 python-sciunit
@@ -10501,7 +10457,6 @@ python-virtualenv
 python-virtualenvwrapper
 python-visitor
 python-visvis
-Error pulling 'python-vitrageclient'
 python-vitrageclient
 python-vobject
 python-volatile
@@ -10579,7 +10534,6 @@ python-XStatic-Angular-FileUpload
 python-XStatic-Angular-Gettext
 python-XStatic-Angular-lrdragndrop
 python-XStatic-Angular-Mock
-Error pulling 'python-XStatic-Angular'
 python-XStatic-Angular
 python-XStatic-Angular-UUID
 python-XStatic-Angular-Vis
@@ -10613,7 +10567,6 @@ python-xvfbwrapper
 python-xxhash
 python-x2go
 python-x3dh
-python-yaml2ical
 python-yapf
 python-yappi
 python-yapsy
@@ -10645,7 +10598,6 @@ python-zope-i18nmessageid
 python-zope-schema
 python-zope-sqlalchemy
 python-zope-testing
-python-zstandard
 python-zstd
 python-zuul-sphinx
 python-zxcvbn
@@ -10665,16 +10617,7 @@ python3-saml
 python3-simpletal
 python3-zope-fixers
 python3.6
-Error pulling 'python38-hvac'
-python38-hvac
-Error pulling 'python38-ntlm-auth-epel'
-python38-ntlm-auth-epel
-Error pulling 'python38-pynetbox'
-python38-pynetbox
-Error pulling 'python38-requests_ntlm-epel'
-python38-requests_ntlm-epel
 python3.8
-python39-pyelftools-epel
 python3.9
 pythran
 pywebdav
@@ -11165,7 +11108,6 @@ robotfindskitten
 roca-detect
 rocksdb
 rocksndiamonds
-Error pulling 'rocm-cmake'
 rocm-compilersupport
 rocm-device-libs
 rocminfo
@@ -11483,7 +11425,6 @@ rust-base64_0.12
 rust-bat
 rust-beef
 rust-below-common
-rust-below-config
 rust-below_derive
 rust-below-dump
 rust-below-model
@@ -11548,7 +11489,6 @@ rust-cfg-expr
 rust-cfg-if
 rust-cfg-if0.1
 rust-cgroupfs
-rust-ciborium-io
 rust-ciborium-ll
 rust-ciborium
 rust-cipher
@@ -12114,7 +12054,6 @@ rust-pretty_assertions0.7
 rust-pretty_env_logger
 rust-prettytable-rs
 rust-print_bytes
-rust-process_control
 rust-procfs
 rust-procfs0.9
 rust-proc-macro-crate
@@ -12159,7 +12098,6 @@ rust-quote0.6
 rust-rand_core
 rust-rand_core0.3
 rust-rand_core0.4
-Error pulling 'rust-rand_core0.5'
 rust-rand_core0.5
 rust-rand_distr
 rust-rand_hc
@@ -12293,10 +12231,8 @@ rust-sha1
 rust-sha1_0.6
 rust-sha-1_0.9
 rust-sha2
-Error pulling 'rust-sha2_0.9'
 rust-sha2_0.9
 rust-sha3
-rust-sha3_0.9
 rust-shell-escape
 rust-shellexpand
 rust-shell-words
@@ -12338,12 +12274,10 @@ rust-stderrlog
 rust-stfu8
 rust-stratisd_proc_macros
 rust-streaming-stats
-rust-streebog
 rust-streebog0.9
 rust-string_cache_codegen
 rust-string_cache
 rust-strip-ansi-escapes
-Error pulling 'rust-str_stack'
 rust-str_stack
 rust-structopt-derive
 rust-structopt-derive0.2
@@ -12370,7 +12304,6 @@ rust-tar
 rust-tealdeer
 rust-tempdir
 rust-tempfile
-Error pulling 'rust-temptree'
 rust-temptree
 rust-tendril
 rust-termbg
@@ -12687,7 +12620,6 @@ shapelib
 sharpfont
 sharpziplib
 sharutils
-Error pulling 'sha'
 sha
 sha2
 shc
@@ -12827,7 +12759,6 @@ snapraid
 sndfile-tools
 snes_ntsc
 sng
-Error pulling 'snip'
 snip
 sni-qt
 snmpcheck
@@ -13305,7 +13236,6 @@ transmission-remote-gtk
 trash-cli
 travelccm
 traverso
-tree-sitter
 trellis
 tremulous-data
 tremulous
@@ -13362,9 +13292,7 @@ uARMSolver
 uberftp
 ubertooth
 ubloxcfg
-Error pulling 'uboot-tools'
 uboot-tools
-Error pulling 'ubridge'
 ubridge
 ucblogo
 uClibc
@@ -13465,7 +13393,6 @@ vagrant
 vagrant-sshfs
 vagrant-vagrant_cloud
 vakzination
-vala-language-server
 vala
 valgrind
 valkyrie
@@ -13780,7 +13707,6 @@ xdg-user-dirs-gtk
 xdg-user-dirs
 xdialog
 xdotool
-xdpyinfo
 xdrawchem
 xedit
 xed
@@ -13904,7 +13830,6 @@ xorg-x11-drv-synaptics
 xorg-x11-drv-vesa
 xorg-x11-font-utils
 xorg-x11-server
-Error pulling 'xorg-x11-xdm'
 xorg-x11-xdm
 xorsearch
 xortool
@@ -13917,7 +13842,6 @@ xpenguins
 xpilot-ng
 xplanet
 xpra
-xprop
 xpsk31
 xqc
 xqilla
@@ -13959,7 +13883,6 @@ xvidtune
 xvinfo
 xvkbd
 xwax
-xwininfo
 xwm
 xwrits
 xwud
@@ -14019,7 +13942,6 @@ zam-plugins
 zanshin
 zasx
 zaz
-zcfan
 zd1211-firmware
 zeal
 zeek
@@ -14063,7 +13985,6 @@ z
 zssh
 zulucrypt
 zynaddsubfx
-Error pulling 'zypper'
 zypper
 z80asm
 z80dasm

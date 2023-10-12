@@ -29,6 +29,7 @@ adobe-source-serif-pro-fonts
 adplug
 adwaita-blue-gtk-theme
 aeskeyfind
+aespipe
 afflib
 afpfs-ng
 aftertheflood-sparks-fonts
@@ -2700,7 +2701,6 @@ golang-github-mattn-shellwords
 golang-github-mattn-sqlite3
 golang-github-mattn-tty
 golang-github-mattn-xmlrpc
-golang-github-mattn-zglob
 golang-github-matttproud-protobuf-extensions
 golang-github-max-sum-base32768
 golang-github-mbndr-figlet4go
@@ -2877,7 +2877,6 @@ golang-github-projectdiscovery-cdncheck
 golang-github-projectdiscovery-clistats
 golang-github-projectdiscovery-fdmax
 golang-github-projectdiscovery-fileutil
-golang-github-projectdiscovery-goconfig
 golang-github-projectdiscovery-goflags
 golang-github-projectdiscovery-gologger
 golang-github-projectdiscovery-hmap
@@ -3673,7 +3672,6 @@ ipsilon
 ipsilon
 ipsilon
 ipsilon
-iptraf-ng
 iptstate
 ipv6calc
 ipv6gen
@@ -3745,12 +3743,10 @@ javaparser
 javapoet
 java-runtime-decompiler
 java-scrypt
-java-11-openjdk-portable
 java-11-openjdk
 java-17-openjdk-portable
 java-17-openjdk
 java-1.8.0-openjdk-aarch32
-java-1.8.0-openjdk-portable
 java-1.8.0-openjdk
 jaxen
 jbigkit
@@ -4628,15 +4624,10 @@ libndp
 libnest2d
 libnetconf2
 libnetfilter_acct
-libnetfilter_conntrack
-libnetfilter_cthelper
-libnetfilter_cttimeout
 libnetfilter_log
-libnetfilter_queue
 libnet10
 libneurosim
 libnfc
-libnfnetlink
 libnice
 libnids
 libnitrokey
@@ -4851,7 +4842,6 @@ libxml2
 libxml++30
 libxmp
 libxnm
-libXNVCtrl
 libxo
 libXpresent
 libXvMC
@@ -5392,7 +5382,6 @@ mingw-python-jinja2
 mingw-python-lxml
 mingw-python-markupsafe
 mingw-python-OWSLib
-mingw-python-ply
 mingw-python-psycopg2
 mingw-python-pygments
 mingw-python-pyparsing
@@ -5680,7 +5669,6 @@ ncid
 ncl
 ncmpcpp
 ncrack
-ncurses-epel
 ncview
 ndctl
 ndctl
@@ -5827,7 +5815,6 @@ nodejs-packaging
 nodejs-replace-require-self
 nodejs-underscore
 nodejs18
-nodejs20
 nodm
 noggin
 nogravity-data
@@ -7831,7 +7818,6 @@ php-phpdocumentor-type-resolver1
 php-php-gettext
 php-phplang-scope-exit
 php-PHPParser
-php-phpseclib-file-asn1
 php-phpseclib
 php-phpSmug
 php-phpspec-prophecy-phpunit
@@ -8060,7 +8046,6 @@ plexus-component-api
 plexus-i18n
 plexus-velocity
 plib
-plocate
 plotdrop
 plotmm
 plotnetcfg
@@ -8783,7 +8768,6 @@ python-enturclient
 python-environs
 python-enzyme
 python-epc
-python-epel-rpm-macros
 python-ephem
 python-ephyviewer
 python-epi
@@ -9008,8 +8992,6 @@ python-inflect
 python-influxdb
 python-iniparse
 python-inject
-python-inotify_simple
-python-inotify
 python-inspyred
 python-instant
 python-interrogate
@@ -9176,7 +9158,6 @@ python-minimock
 python-mirrors-countme
 python-mistralclient
 python-mistune
-python-mistune08
 python-mitogen
 python-mmtf
 python-mnemonic
@@ -9435,7 +9416,6 @@ python-pyarlo
 python-pybalboa
 python-pybeam
 python-pycares
-python-pycdio
 python-pycec
 python-pyclipper
 python-pycodestyle
@@ -9611,7 +9591,6 @@ python-pytile
 python-pytn3270
 python-pytools
 python-pyunicorn
-python-pyupgrade
 python-pyvat
 python-pyvirtualdisplay
 python-pyvirtualize
@@ -9724,7 +9703,6 @@ python-sanction
 python-sane
 python-satyr
 python-scales
-python-scantree
 python-scikit-learn
 python-scikit-uplift
 python-sciunit
@@ -10136,7 +10114,6 @@ python-zope-i18nmessageid
 python-zope-schema
 python-zope-sqlalchemy
 python-zope-testing
-python-zstandard
 python-zstd
 python-zuul-sphinx
 python-zxcvbn
@@ -10156,12 +10133,7 @@ python3-saml
 python3-simpletal
 python3-zope-fixers
 python3.6
-python38-hvac
-python38-ntlm-auth-epel
-python38-pynetbox
-python38-requests_ntlm-epel
 python3.8
-python39-pyelftools-epel
 python3.9
 pythran
 pywebdav
@@ -11972,7 +11944,6 @@ transmission-remote-gtk
 trash-cli
 travelccm
 traverso
-tree-sitter
 trellis
 tremulous-data
 tremulous
@@ -12144,7 +12115,6 @@ vagrant
 vagrant-sshfs
 vagrant-vagrant_cloud
 vakzination
-vala-language-server
 valgrind
 valkyrie
 vamp-plugin-sdk
@@ -12463,7 +12433,6 @@ xdg-desktop-portal
 xdg-user-dirs
 xdialog
 xdotool
-xdpyinfo
 xdrawchem
 xedit
 xed
@@ -12597,7 +12566,6 @@ xpenguins
 xpilot-ng
 xplanet
 xpra
-xprop
 xpsk31
 xqc
 xqilla
@@ -12638,7 +12606,6 @@ xvattr
 xvinfo
 xvkbd
 xwax
-xwininfo
 xwm
 xwrits
 xwud
@@ -12702,7 +12669,6 @@ zam-plugins
 zanshin
 zasx
 zaz
-zcfan
 zd1211-firmware
 zeal
 zeek
