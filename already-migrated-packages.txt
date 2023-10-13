@@ -324,6 +324,7 @@ bluechi
 blueprint-compiler
 blurhash-cpp
 bmake
+bmap-tools
 bmon
 bodhi-client
 bodhi-messages
@@ -647,6 +648,7 @@ datefudge
 date
 dateutils
 datovka
+dav1d
 dbcsr
 dbh
 dblatex
@@ -685,6 +687,7 @@ deepin-system-monitor
 deepin-terminal
 deepin-wallpapers
 deja-dup
+dejavu-fonts
 delve
 desktop-backgrounds
 deutex
@@ -1886,6 +1889,7 @@ gnome-shell-extension-argos
 gnome-shell-extension-blur-my-shell
 gnome-shell-extension-bubblemail
 gnome-shell-extension-dash-to-panel
+gnome-shell-extension-forge
 gnome-shell-extension-gamerzilla
 gnome-shell-extension-gsconnect
 gnome-shell-extension-ibus-font
@@ -2989,6 +2993,7 @@ kf6-karchive
 kf6-kauth
 kf6-kbookmarks
 kf6-kcalendarcore
+kf6-kcmutils
 kf6-kcodecs
 kf6-kcolorscheme
 kf6-kcompletion
@@ -2998,6 +3003,7 @@ kf6-kcontacts
 kf6-kcoreaddons
 kf6-kcrash
 kf6-kdbusaddons
+kf6-kdeclarative
 kf6-kded
 kf6-kdesu
 kf6-kdnssd
@@ -3009,13 +3015,17 @@ kf6-kholidays
 kf6-kiconthemes
 kf6-kidletime
 kf6-kimageformats
+kf6-kio
 kf6-kirigami2
 kf6-kitemmodels
 kf6-kitemviews
 kf6-ki18n
 kf6-kjobwidgets
+kf6-kmoretools
 kf6-knotifications
+kf6-knotifyconfig
 kf6-kpackage
+kf6-kparts
 kf6-kpeople
 kf6-kplotting
 kf6-kpty
@@ -3124,8 +3134,10 @@ lfsc
 lftp
 L-function
 lhapdf
+libabigail
 libabw
 libadwaita
+libahp-gt
 libaiff
 libappstream-glib
 libarchive
@@ -3596,6 +3608,7 @@ lrslib
 lrzsz
 lsfrom
 lshw
+lsof
 lsvpd
 lttng-tools
 lttng-ust
@@ -3947,6 +3960,7 @@ mod_http2
 moditect
 mod_md
 mod_nss
+mod_proxy_cluster
 mod_security_crs
 mod_security
 modulemaker-maven-plugin
@@ -4375,6 +4389,7 @@ openscap
 opensc
 openshadinglanguage
 openshot
+openslide
 openslp
 openssh
 openssl-ibmca
@@ -7120,6 +7135,7 @@ python-openpaperwork-core
 python-openpaperwork-gtk
 python-openqa_client
 python-opensearch-py
+python-openslide
 python-opentelemetry-contrib
 python-opentelemetry
 python-opentype-sanitizer
@@ -7219,6 +7235,7 @@ python-pycurl
 python-pydantic-core
 python-pydata-sphinx-theme
 python-pydepsdev
+python-pydicom
 python-pydiffx
 python-pydyf
 python-pyedflib
@@ -11340,6 +11357,7 @@ wqy-microhei-fonts
 wqy-unibit-fonts
 wqy-zenhei-fonts
 writerperfect
+wsdd
 wslay
 wsmancli
 wult
