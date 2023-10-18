@@ -185,8 +185,6 @@ arbor
 arc-gui-clients
 arc
 arc-theme
-ardour6
-ardour7
 arduino-listSerialPortsC
 argbash
 argon2
@@ -815,7 +813,6 @@ cptutils
 cpuid
 cpuinfo
 cpulimit
-cpu-x
 cp2k
 CQRlib
 cqrlog
@@ -1350,7 +1347,6 @@ epson-inkjet-printer-escpr2
 epstool
 equalx
 eralchemy
-erfa
 ergo
 eric
 erlang-amf
@@ -1585,7 +1581,6 @@ fcoe-utils
 fctxpd
 fdk-aac-free
 fdr
-fdupes
 featherpad
 fedfind
 fedmod
@@ -2199,6 +2194,7 @@ globus-gridftp-server
 glob2
 glogg
 glog
+gloo
 gloox
 glslang
 glsl-language-server
@@ -3486,7 +3482,6 @@ golang-github-rivo-uniseg
 golang-github-riywo-loginshell
 golang-github-rjeczalik-notify
 golang-github-robertkrimen-otto
-golang-github-robfig-cron
 golang-github-rodaine-hclencoder
 golang-github-rodaine-table
 golang-github-rogpeppe-fastuuid
@@ -4055,7 +4050,6 @@ gsl
 gsmartcontrol
 gsm
 gsoap
-gsound
 gspell
 gssdp
 gssntlmssp
@@ -4070,7 +4064,6 @@ gstreamer1-plugins-base
 gstreamer1-plugins-good
 gstreamer1-plugins-ugly-free
 gstreamer1-rtsp-server
-gstreamer1
 gstreamer1-vaapi
 gstream
 gst123
@@ -4198,6 +4191,7 @@ highfive
 highway
 hikari
 hipcub
+hipify
 hiran-perizia-fonts
 hiredis
 hitch
@@ -4251,6 +4245,7 @@ hyperhdr
 hyperrogue
 hyperscan
 hypre
+hyprland-protocols
 h5py
 chafa
 charliecloud
@@ -4420,6 +4415,7 @@ ispc
 isrcsubmit
 isync
 itcl
+itinerary
 itk
 itop
 iucode-tool
@@ -4435,7 +4431,6 @@ iyfct
 i3blocks
 i3-gaps
 i3lock
-jaaa
 jabberd
 jack-audio-connection-kit
 jack_capture
@@ -4456,7 +4451,6 @@ jam
 janino
 jansi-native
 jansson
-japa
 java-dirq
 javaewah
 java-jd-decompiler
@@ -4802,8 +4796,11 @@ kf5-syndication
 kf5-syntax-highlighting
 kf5-threadweaver
 kf6-attica
+kf6-baloo
 kf6-bluez-qt
+kf6-frameworkintegration
 kf6-kactivities
+kf6-kactivities-stats
 kf6-karchive
 kf6-kauth
 kf6-kbookmarks
@@ -4817,6 +4814,7 @@ kf6-kconfigwidgets
 kf6-kcontacts
 kf6-kcoreaddons
 kf6-kcrash
+kf6-kdav
 kf6-kdbusaddons
 kf6-kdeclarative
 kf6-kded
@@ -4831,12 +4829,14 @@ kf6-kiconthemes
 kf6-kidletime
 kf6-kimageformats
 kf6-kio
+kf6-kirigami2-addons
 kf6-kirigami2
 kf6-kitemmodels
 kf6-kitemviews
 kf6-ki18n
 kf6-kjobwidgets
 kf6-kmoretools
+kf6-knewstuff
 kf6-knotifications
 kf6-knotifyconfig
 kf6-kpackage
@@ -4845,7 +4845,11 @@ kf6-kpeople
 kf6-kplotting
 kf6-kpty
 kf6-kquickcharts
+kf6-krunner
 kf6-kservice
+kf6-kstatusnotifieritem
+kf6-ksvg
+kf6-ktexteditor
 kf6-ktexttemplate
 kf6-ktextwidgets
 kf6-kunitconversion
@@ -4856,11 +4860,14 @@ kf6-kwindowsystem
 kf6-kxmlgui
 kf6-modemmanager-qt
 kf6-networkmanager-qt
+kf6-plasma
 kf6-prison
+kf6-purpose
 kf6-qqc2-desktop-style
 kf6-solid
 kf6-sonnet
 kf6
+kf6-syndication
 kf6-syntax-highlighting
 kf6-threadweaver
 kgamma
@@ -4953,7 +4960,6 @@ koko
 kolf
 kollision
 kolourpaint
-komikku
 kommit
 kompare
 kongress
@@ -4961,8 +4967,11 @@ konqueror
 konquest
 konsole
 kontact
+kontrast
+kopeninghours
 kopete
 korganizer
+kosmindoormap
 koules
 koverartist
 kover
@@ -4980,7 +4989,6 @@ kqtquickcharts
 kquickimageeditor
 krazy2
 krb5-auth-dialog
-krb5
 krdc
 krecipes
 krecorder
@@ -5090,7 +5098,6 @@ lastpass-cli
 last-resort-fonts
 latencytop
 latex2rtf
-latte-dock
 laughlin-backgrounds
 laughlin-kde-theme
 launchy
@@ -5141,7 +5148,6 @@ libaec
 libaesgm
 libAfterImage
 libahp-gt
-libaio
 libalkimia
 libao
 libappindicator
@@ -5216,7 +5222,6 @@ libdbi
 libdbusextended-qt5
 libdbusmenu
 libdca
-libdecor
 libdeflate
 libdeltacloud
 libdex
@@ -5392,7 +5397,6 @@ liblxi
 liblxqt
 liblzf
 libmacaroons
-libmad
 libmanette
 libmash
 libmatekbd
@@ -5420,7 +5424,6 @@ libmongocrypt
 libmpcdec
 libmpdclient
 libmpd
-libmpeg2
 libmpris-qt5
 libmp4v2
 libmseed
@@ -5463,7 +5466,6 @@ libomemo
 libomp
 libomxil-bellagio
 libopenmpt
-libopenraw
 libopenshot-audio
 libopenshot
 liboping
@@ -5570,7 +5572,6 @@ libspf2
 libspnav
 libspng
 libsqlite3x
-libsrtp
 libstrophe
 libst2205
 libsv
@@ -5642,7 +5643,6 @@ libvisual
 libvma
 libvmi
 libvorbis
-libvpx
 libvpx7
 libvterm
 libv3270
@@ -5690,7 +5690,6 @@ libyuv
 libzbd
 libzdb
 libzeitgeist
-libzia
 libzim
 libzip
 libzonedetect
@@ -5910,7 +5909,6 @@ maloc
 manafirewall
 manedit
 mangohud
-man-pages-ja
 man-pages-ko
 man-pages-l10n
 man2html
@@ -6297,7 +6295,6 @@ mingw-zstd
 miniaudio
 minicomputer
 minicom
-minigalaxy
 minipro
 minisign
 miniupnpc
@@ -6370,7 +6367,6 @@ mod2c
 moka-icon-theme
 mokutil
 molequeue
-mom
 monafont
 mongoose
 monitor-edid
@@ -6418,6 +6414,7 @@ mozjs102
 mozjs115
 mozjs91
 mozo
+mpark-patterns
 mpc
 mpdas
 mpdris2
@@ -6770,12 +6767,10 @@ ocean-sound-theme
 ocfs2-tools
 oci-cli
 oc-inject
-ocl-icd
 oclock
 ocproxy
 ocp
 ocrmypdf
-ocserv
 ocsinventory-agent
 ocspd
 octave-brain2mesh
@@ -6872,7 +6867,6 @@ opencl-filesystem
 openclonk
 OpenColorIO
 openconnect-gateway
-openconnect
 opencore-amr
 opencsg
 opendbx
@@ -9510,6 +9504,7 @@ python-backcall
 python-backlash
 python-backoff
 python-baluhn
+python-banal
 python-barbicanclient
 python-bashate
 python-batalgorithm
@@ -9612,7 +9607,6 @@ python-cliff-tablib
 python-cli-helpers
 python-cloudant
 python-cloudflare
-python-cloudpickle
 python-cloud-sptheme
 python-cmarkgfm
 python-cma
@@ -9673,6 +9667,7 @@ python-commandparse
 python-CommonMark
 python-comm
 python-compal
+python-compressed-rtf
 python-conda-package-streaming
 python-configargparse
 python-configshell
@@ -9682,6 +9677,7 @@ python-connection_pool
 python-constantly
 python-construct-classes
 python-construct
+python-container-inspector
 python-contextualbandits
 python-convertdate
 python-cooldict
@@ -9822,6 +9818,7 @@ python-django-reversion
 python-django-rq
 python-django-rules
 python-django-search-url
+python-django
 python-django-storages
 python-django-tables2
 python-django-tagging
@@ -9930,6 +9927,7 @@ python-fields
 python-filecheck
 python-filelock
 python-filetype
+python-fingerprints
 python-fireflyalgorithm
 python-firehose
 python-firkin
@@ -10360,8 +10358,6 @@ python-marshmallow-enum
 python-masscan
 python-mathics-pygments
 python-mathics-scanner
-python-mathicsscript
-python-mathics3
 python-matplotlib-inline
 python-matplotlib-scalebar
 python-matplotlib-venn
@@ -10581,6 +10577,7 @@ python-overpy
 python-ovh
 python-ovirt-engine-sdk4
 python-owl_rl
+python-packageurl-python
 python-pagure-messages
 python-paho-mqtt
 python-palettable
@@ -10810,7 +10807,6 @@ python-pypandoc
 python-pypcapkit
 python-pypck
 python-PyPDF2
-python-pypet
 python-pyphen
 python-pypng
 python-pypresence
@@ -10822,7 +10818,6 @@ python-pyqtgraph
 python-pyqtchart
 python-pyqt5-sip
 python-pyqt6-charts
-python-pyqt6-sip
 python-pyqt6
 python-pyqt6-webengine
 python-pyquery
@@ -11127,7 +11122,6 @@ python-simple-salesforce
 python-simplevisor
 python-singledispatch
 python-sklearn-genetic-opt
-python-sklearn-nature-inspired-algorithms
 python-slacker
 python-slixmpp-omemo
 python-slixmpp
@@ -11161,7 +11155,6 @@ python-sphinxcontrib-asyncio
 python-sphinxcontrib-autoprogram
 python-sphinxcontrib-blockdiag
 python-sphinxcontrib-jquery
-python-sphinxcontrib-log-cabinet
 python-sphinxcontrib-openapi
 python-sphinxcontrib-pecanwsme
 python-sphinxcontrib-phpdomain
@@ -11193,7 +11186,6 @@ python-sphinx-theme-py3doc-enhanced
 python-sphinx-typlog-theme
 python-sphinxygen
 python-sphobjinv
-python-sport-activities-features
 python-spotipy
 python-spyder-kernels
 python-spyking-circus
@@ -11377,7 +11369,6 @@ python-uswid
 python-utils
 python-utmp
 python-uvicorn
-python-uvloop
 python-vagrantpy
 python-validators
 python-varlink
@@ -12104,6 +12095,7 @@ rocm-cmake
 rocm-compilersupport
 rocm-device-libs
 rocminfo
+rocm-rpm-macros
 rocm-runtime
 rocprim
 rocrand
@@ -12612,6 +12604,7 @@ rust-concolor-query
 rust-concolor
 rust-concurrent-queue
 rust-configparser
+rust-configparser2
 rust-config
 rust-confy
 rust-conhash
@@ -12992,6 +12985,7 @@ rust-gix-revision
 rust-gix-revwalk
 rust-gix-sec
 rust-gix
+rust-gix-status
 rust-gix-submodule
 rust-gix-tempfile
 rust-gix-trace
@@ -13071,6 +13065,7 @@ rust-gweather-sys
 rust-gzip-header
 rust-hadolint-sarif
 rust-half
+rust-half1
 rust-hamcrest2
 rust-hamming
 rust-hashbrown
@@ -13359,6 +13354,7 @@ rust-nettle
 rust-nettle-sys
 rust-net2
 rust-nix0.24
+rust-nix0.26
 rust-nodrop
 rust-noisy_float
 rust-nom-supreme
@@ -13528,6 +13524,7 @@ rust-pretty_assertions0.6
 rust-pretty_assertions0.7
 rust-pretty-bytes
 rust-pretty_env_logger
+rust-pretty_env_logger0.4
 rust-prettyplease
 rust-prettytable-rs
 rust-primal-bit
@@ -13669,6 +13666,7 @@ rust-regex-lite
 rust-regex
 rust-regex-syntax
 rust-regex-syntax0.6
+rust-regex-syntax0.7
 rust-regex-test
 rust-relative-path
 rust-remain
@@ -13687,6 +13685,7 @@ rust-roff
 rust-roff0.1
 rust-ron
 rust-ron0.7
+rust-ropey
 rust-roxmltree
 rust-rpassword
 rust-rpassword5
@@ -13830,6 +13829,7 @@ rust-simd-adler32
 rust-simdutf8
 rust-similar-asserts
 rust-similar
+rust-simple_logger1
 rust-simplelog
 rust-simplelog0.11
 rust-sinit
@@ -13876,6 +13876,7 @@ rust-str_indices
 rust-string_cache_codegen
 rust-string_cache
 rust-strip-ansi-escapes
+rust-strip-ansi-escapes0.1
 rust-str_stack
 rust-structopt-derive
 rust-structopt-derive0.2
@@ -14046,6 +14047,7 @@ rust-unic-segment
 rust-unic-ucd-category
 rust-unic-ucd-common
 rust-unic-ucd-hangul
+rust-unic-ucd-normal
 rust-unic-ucd-segment
 rust-unic-ucd-version
 rust-unidecode
@@ -14082,6 +14084,7 @@ rust-versionize_derive
 rust-versionize
 rust-version
 rust-v_frame
+rust-vhost-device-scmi
 rust-vhost
 rust-vhost-user-backend
 rust-virtio-bindings
@@ -14202,7 +14205,6 @@ Saaghar
 SAASound
 safecopy
 safeint
-safelease
 safetyblanket
 sagator
 sakura
@@ -14707,6 +14709,7 @@ surfraw
 surf
 surgescript
 suru-icon-theme
+suseconnect-ng
 sushi
 svgpart
 svg2svgt
@@ -15025,8 +15028,6 @@ tweak
 twirssi
 twitter-twemoji-fonts
 twlog
-twolame
-tworld
 txt2man
 txt2rss
 txt2tags
@@ -15568,7 +15569,6 @@ xgrep
 xgridloc
 xguest
 xhtml1-dtds
-xhtml2fo-style-xsl
 xchm
 xine-lib
 xiphos
@@ -15604,6 +15604,7 @@ xmppc
 xmp-plugin-audacious
 xmvn-connector-ivy
 xnec2c
+xnnpack
 xonsh
 xoo
 xorgxrdp
@@ -15690,6 +15691,7 @@ x11-ssh-askpass
 x11trace
 x2goclient
 x2godesktopsharing
+x2gokdriveclient
 x2goserver
 x2gowswrapper
 x86-simd-sort

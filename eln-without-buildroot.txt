@@ -71,6 +71,7 @@ autoconf-archive
 autofs
 automake
 avahi
+awscli2
 babel
 babeltrace
 babl
@@ -704,6 +705,7 @@ jzlib
 kabi-dw
 kasumi
 kbd
+kde-settings
 kdump-anaconda-addon
 keepalived
 kernel
@@ -1515,10 +1517,12 @@ python-argcomplete
 python-asn1crypto
 python-attrs
 python-augeas
+python-awscrt
 python-blivet
 python-botocore
 python-cffi
 python-charset-normalizer
+python-colorama
 python-configobj
 python-configshell
 python-cryptography
@@ -1580,6 +1584,7 @@ python-ply
 python-podman
 python-pooch
 python-productmd
+python-prompt-toolkit
 python-psutil
 python-psycopg2
 python-ptyprocess
@@ -1591,7 +1596,6 @@ python-pygments
 python-pyproject-hooks
 python-pyqt6
 python-pyqt6-sip
-python-pysocks
 python-pyudev
 python-qrcode
 python-referencing
@@ -1605,6 +1609,8 @@ python-rpds-py
 python-rpm-generators
 python-rpm-macros
 python-rtslib
+python-ruamel-yaml
+python-ruamel-yaml-clib
 python-setuptools
 python-simpleaudio
 python-simpleline
@@ -1628,6 +1634,7 @@ python-urllib3
 python-urwid
 python-virt-firmware
 python-wcwidth
+python-websockets
 python-wheel
 python-yubico
 python-zstandard

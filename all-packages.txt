@@ -3613,6 +3613,7 @@ globus-xio-udt-driver
 glob2
 glogg
 glog
+gloo
 gloox
 glpk
 glslang
@@ -5813,6 +5814,7 @@ highlight
 highway
 hikari
 hipcub
+hipify
 hiran-perizia-fonts
 hiredis
 hitch
@@ -6062,6 +6064,7 @@ hyphen-te
 hyphen-tk
 hyphen-uk
 hypre
+hyprland-protocols
 h5py
 chafa
 chan
@@ -6312,6 +6315,7 @@ ispc
 isrcsubmit
 isync
 itcl
+itinerary
 itk
 itop
 itstool
@@ -6809,8 +6813,11 @@ kf5-syndication
 kf5-syntax-highlighting
 kf5-threadweaver
 kf6-attica
+kf6-baloo
 kf6-bluez-qt
+kf6-frameworkintegration
 kf6-kactivities
+kf6-kactivities-stats
 kf6-karchive
 kf6-kauth
 kf6-kbookmarks
@@ -6824,6 +6831,7 @@ kf6-kconfigwidgets
 kf6-kcontacts
 kf6-kcoreaddons
 kf6-kcrash
+kf6-kdav
 kf6-kdbusaddons
 kf6-kdeclarative
 kf6-kded
@@ -6838,12 +6846,14 @@ kf6-kiconthemes
 kf6-kidletime
 kf6-kimageformats
 kf6-kio
+kf6-kirigami2-addons
 kf6-kirigami2
 kf6-kitemmodels
 kf6-kitemviews
 kf6-ki18n
 kf6-kjobwidgets
 kf6-kmoretools
+kf6-knewstuff
 kf6-knotifications
 kf6-knotifyconfig
 kf6-kpackage
@@ -6852,7 +6862,11 @@ kf6-kpeople
 kf6-kplotting
 kf6-kpty
 kf6-kquickcharts
+kf6-krunner
 kf6-kservice
+kf6-kstatusnotifieritem
+kf6-ksvg
+kf6-ktexteditor
 kf6-ktexttemplate
 kf6-ktextwidgets
 kf6-kunitconversion
@@ -6863,11 +6877,14 @@ kf6-kwindowsystem
 kf6-kxmlgui
 kf6-modemmanager-qt
 kf6-networkmanager-qt
+kf6-plasma
 kf6-prison
+kf6-purpose
 kf6-qqc2-desktop-style
 kf6-solid
 kf6-sonnet
 kf6
+kf6-syndication
 kf6-syntax-highlighting
 kf6-threadweaver
 kgamma
@@ -6984,9 +7001,12 @@ konquest
 konsole
 konsole5
 kontact
+kontrast
 konversation
+kopeninghours
 kopete
 korganizer
+kosmindoormap
 koules
 koverartist
 kover
@@ -7139,7 +7159,6 @@ LaTeXML
 latex2html
 latex2rtf
 lato-fonts
-latte-dock
 latte-integrale
 laughlin-backgrounds
 laughlin-kde-theme
@@ -9143,6 +9162,7 @@ mozjs115
 mozjs91
 mozo
 mpage
+mpark-patterns
 mpark-variant
 mpc
 mpdas
@@ -14494,6 +14514,7 @@ python-backlash
 python-backoff
 python-backrefs
 python-baluhn
+python-banal
 python-barbicanclient
 python-basemap
 python-bashate
@@ -14692,6 +14713,7 @@ python-CommonMark
 python-comm
 python-compal
 python-compreffor
+python-compressed-rtf
 python-conda-package-handling
 python-conda-package-streaming
 python-configargparse
@@ -14705,6 +14727,7 @@ python-connection_pool
 python-constantly
 python-construct-classes
 python-construct
+python-container-inspector
 python-contextily
 python-contextualbandits
 python-contourpy
@@ -15007,6 +15030,7 @@ python-fields
 python-filecheck
 python-filelock
 python-filetype
+python-fingerprints
 python-fiona
 python-fireflyalgorithm
 python-firehose
@@ -15579,8 +15603,6 @@ python-masscan
 python-Mastodon
 python-mathics-pygments
 python-mathics-scanner
-python-mathicsscript
-python-mathics3
 python-matplotlib-inline
 python-matplotlib-scalebar
 python-matplotlib
@@ -15858,6 +15880,7 @@ python-ovh
 python-ovirt-engine-sdk4
 python-owl_rl
 python-OWSLib
+python-packageurl-python
 python-packaging
 python-pagure-messages
 python-paho-mqtt
@@ -17810,6 +17833,7 @@ rocm-cmake
 rocm-compilersupport
 rocm-device-libs
 rocminfo
+rocm-rpm-macros
 rocm-runtime
 rocm-smi
 rocprim
@@ -18863,6 +18887,7 @@ rust-concolor-query
 rust-concolor
 rust-concurrent-queue
 rust-configparser
+rust-configparser2
 rust-config
 rust-confy
 rust-conhash
@@ -19339,6 +19364,7 @@ rust-gix-revision
 rust-gix-revwalk
 rust-gix-sec
 rust-gix
+rust-gix-status
 rust-gix-submodule
 rust-gix-tempfile
 rust-gix-trace
@@ -19441,6 +19467,7 @@ rust-gweather-sys
 rust-gzip-header
 rust-hadolint-sarif
 rust-half
+rust-half1
 rust-hamcrest2
 rust-hamming
 rust-handlebars
@@ -19831,6 +19858,7 @@ rust-nix0.20
 rust-nix0.22
 rust-nix0.23
 rust-nix0.24
+rust-nix0.26
 rust-nodrop
 rust-noisy_float
 rust-nom
@@ -20073,6 +20101,7 @@ rust-pretty_assertions0.6
 rust-pretty_assertions0.7
 rust-pretty-bytes
 rust-pretty_env_logger
+rust-pretty_env_logger0.4
 rust-pretty-git-prompt
 rust-pretty-hex
 rust-prettyplease
@@ -20237,6 +20266,7 @@ rust-regex-lite
 rust-regex
 rust-regex-syntax
 rust-regex-syntax0.6
+rust-regex-syntax0.7
 rust-regex-test
 rust-region
 rust-relative-path
@@ -20266,6 +20296,7 @@ rust-roff
 rust-roff0.1
 rust-ron
 rust-ron0.7
+rust-ropey
 rust-roxmltree
 rust-rpassword
 rust-rpassword5
@@ -20445,6 +20476,7 @@ rust-similar-asserts
 rust-similar
 rust-simple_asn1
 rust-simple_logger
+rust-simple_logger1
 rust-simplelog
 rust-simplelog0.11
 rust-sinit
@@ -20507,6 +20539,7 @@ rust-str_indices
 rust-string_cache_codegen
 rust-string_cache
 rust-strip-ansi-escapes
+rust-strip-ansi-escapes0.1
 rust-strsim
 rust-str_stack
 rust-structopt-derive
@@ -20760,6 +20793,7 @@ rust-unic-segment
 rust-unic-ucd-category
 rust-unic-ucd-common
 rust-unic-ucd-hangul
+rust-unic-ucd-normal
 rust-unic-ucd-segment
 rust-unic-ucd-version
 rust-unidecode
@@ -20809,6 +20843,7 @@ rust-version
 rust-version-sync
 rust-version-sync0.8
 rust-v_frame
+rust-vhost-device-scmi
 rust-vhost
 rust-vhost-user-backend
 rust-virtio-bindings
@@ -21665,6 +21700,7 @@ surf
 surgescript
 suricata
 suru-icon-theme
+suseconnect-ng
 sushi
 svgpart
 svg2svgt
@@ -22897,6 +22933,7 @@ xmvn-connector-ivy
 xmvn-generator
 xmvn
 xnec2c
+xnnpack
 xonotic-data
 xonotic
 xonsh
@@ -23020,6 +23057,7 @@ x11trace
 x11vnc
 x2goclient
 x2godesktopsharing
+x2gokdriveclient
 x2goserver
 x2gowswrapper
 x3270
