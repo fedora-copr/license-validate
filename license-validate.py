@@ -42,6 +42,8 @@ class T(Transformer):
             print("Warning: {} is not-allowed license".format(token.value))
             if "usage" in LICENSES[token.value]:
                 print("{0} can be used under this condition:\n{1}\n".format(token.value, LICENSES[token.value]["usage"]))
+            if "packages_with_exceptions" in LICENSES[token.value]:
+                print("These packages are known to use this {} license as an exception: {}".format(token.value, LICENSES[token.value]["packages_with_exceptions"]))
         if token.value in LICENSES:
             pass
         elif token in ["(", ")"]:                                                                                                                                                
