@@ -91,14 +91,17 @@ try:
         print("Approved license")
 except LarkError as e:
     # not approved license
-    if opts.verbose > 0:
-        try:
-            tree_with_not_allowed = lark_parser_with_not_allowed.parse(text)
-            #print("DBG")
-            #import pdb;pdb.set_trace()
+    try:
+        tree_with_not_allowed = lark_parser_with_not_allowed.parse(text)
+        if opts.verbose > 0:
             T(visit_tokens=True).transform(tree_with_not_allowed)
-            print("Uses not-allowed license.")
-        except LarkError as ee:
+        print("Uses not-allowed license.")
+    except LarkError as ee:
+        if opts.verbose > 0:
             print(e)
-            print("Not a valid license string")
+        print("Not a valid license string")
+        if opts.verbose > 0:
+            print("Please check https://docs.fedoraproject.org/en-US/legal/all-allowed/")
+    if not opts.verbose:
+        print("Run with -v option to see more information.")
     sys.exit(1)
