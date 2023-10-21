@@ -16,6 +16,7 @@ acl
 acme-tiny
 acpica-tools
 acpid
+adcli
 adf-accanthis-fonts
 adf-gillius-fonts
 adf-tribun-fonts
@@ -116,6 +117,7 @@ antlr3
 antlr4-project
 ant
 ants
+anymeal
 anyremote
 aom
 aopalliance
@@ -143,6 +145,7 @@ apachetop
 apg
 apiguardian
 api-sanity-checker
+apostrophe
 appeditor
 appstream-data
 appstream
@@ -270,6 +273,7 @@ baekmuk-ttf-fonts
 baloo
 baloo-widgets
 bandit
+baobab
 baresip
 barrage
 basesystem
@@ -381,6 +385,7 @@ butt
 bvi
 bwm-ng
 byaccj
+byebyebios
 byte-buddy
 bzip2
 bzip3
@@ -1019,6 +1024,7 @@ fscrypt
 fstrm
 ftp
 fts-rest-client
+functionalplus
 funionfs
 fuse-overlayfs
 fusesource-pom
@@ -1769,6 +1775,7 @@ gitleaks
 git-lfs
 gitolite3
 GitPython
+gitqlient
 git-repair
 git
 givaro
@@ -1891,6 +1898,7 @@ gnome-power-manager
 gnome-remote-desktop
 gnome-session
 gnome-settings-daemon
+gnome-shell-extension-appindicator
 gnome-shell-extension-argos
 gnome-shell-extension-blur-my-shell
 gnome-shell-extension-bubblemail
@@ -2361,6 +2369,7 @@ golang-oras-1
 golang-oras-2
 golang-rsc-qr
 golang-software-sslmate-src-pkcs12
+golang
 golang-sr-emersion-gqlclient
 golang-sr-emersion-scfg
 golang-sr-nelsam-hel
@@ -2447,6 +2456,7 @@ gr-rds
 grub-customizer
 gscan2pdf
 gsettings-desktop-schemas
+gsi-openssh
 gsl-lite
 gsound
 gspell
@@ -3066,6 +3076,7 @@ kf6-kxmlgui
 kf6-modemmanager-qt
 kf6-networkmanager-qt
 kf6-plasma
+kf6-plasma5support
 kf6-prison
 kf6-purpose
 kf6-qqc2-desktop-style
@@ -3076,6 +3087,7 @@ kf6-syndication
 kf6-syntax-highlighting
 kf6-threadweaver
 kgeography
+kglobalacceld
 kgraphviewer
 khmer-os-fonts
 kicad
@@ -3518,6 +3530,7 @@ libuser
 libutempter
 libuv
 libva-nvidia-driver
+libvdpau
 libvirt-dbus
 libvirt-glib
 libvirt-python
@@ -3919,6 +3932,7 @@ mingw-python-ply
 mingw-python-pyproject-hooks
 mingw-python-PyQt-builder
 mingw-python-pyqt5-sip
+mingw-python-qt5
 mingw-python-requests
 mingw-python-toml
 mingw-python-waitress
@@ -3954,6 +3968,7 @@ mingw-sdl12-compat
 mingw-SDL2_mixer
 mingw-SDL2
 mingw-SDL2_ttf
+mingw-sip
 mingw-spirv-tools
 mingw-srvany
 mingw-termcap
@@ -4048,6 +4063,7 @@ mrack
 mrbs
 mrtg
 msitools
+msmtp
 msolve
 mtdev
 mtools
@@ -4433,11 +4449,13 @@ openoffice.org-diafilter
 openoffice.org-dict-cs_CZ
 openosc
 openpgl
+openrgb
 openscap-report
 openscap
 opensc
 openshadinglanguage
 openshot
+opensips
 openslide
 openslp
 openssh
@@ -4555,6 +4573,7 @@ pdd
 pdfgrep
 pdfmixtool
 pdfpc
+pdfresurrect
 pdf-stapler
 pdftk-java
 pd-mapper
@@ -6297,6 +6316,7 @@ php-dasprid-enum
 php-doctrine-persistence3
 php-geos
 php-geshi
+php-getid3
 php-gettext-languages
 php-google-recaptcha
 php-IDNA_Convert
@@ -6552,6 +6572,7 @@ prooftree
 proselint
 protobuf-c
 protobuf
+protontricks
 protozero
 proxygen
 proxysql
@@ -6562,6 +6583,7 @@ psi-plus
 psi
 ps_mem
 psmisc
+pspp
 pstreams-devel
 pt-astra-sans-fonts
 pt-astra-serif-fonts
@@ -6789,6 +6811,7 @@ python-databases
 python-dateparser
 python-datetimerange
 python-dateutil
+python-datrie
 python-dbus-client-gen
 python-dbusmock
 python-dbus-python-client-gen
@@ -7036,6 +7059,7 @@ python-jsondiff
 python-jsonpatch
 python-jsonpickle
 python-jsonpointer
+python-jsonschema-path
 python-jsonschema
 python-jsonschema-specifications
 python-jsonschema-spec
@@ -7130,6 +7154,7 @@ python-mizani
 python-mne-bids
 python-mock
 python-moddb
+python-mpd2
 python-msal-extensions
 python-msal
 python-msrestazure
@@ -7157,6 +7182,7 @@ python-ndjson-testrunner
 python-neo
 python-nest-asyncio
 python-netaddr
+python-netpyne
 python-networkx
 python-neurodsp
 python-neurom
@@ -7229,6 +7255,7 @@ python-pdf2image
 python-pdm-backend
 python-pdm-pep517
 python-pebble
+python-pefile
 python-pem
 python-pep440
 python-perky
@@ -7474,6 +7501,7 @@ python-shtab
 python-signature-dispatch
 python-signedjson
 python-simframe
+python-simpleaudio
 python-simpleline
 python-simple-rlp
 python-siphash
@@ -7514,7 +7542,6 @@ python-sphinx-math-dollar
 python-sphinx-mdinclude
 python-sphinx-pytest
 python-sphinx-reredirects
-python-sphinx_reredirects
 python-sphinx_rtd_theme
 python-sphinx-sitemap
 python-sphinx
@@ -7607,6 +7634,7 @@ python-unicodedata2
 python-uri-template
 python-urllib3
 python-url-normalize
+python-urlpy
 python-userpath
 python-uswid
 python-uvicorn
@@ -7677,6 +7705,7 @@ python3-typed_ast
 python3.10
 python3.11
 python3.12
+python3.13
 python38-hvac
 python38-ntlm-auth-epel
 python38-pynetbox
@@ -7832,6 +7861,7 @@ R-docopt
 R-DT
 readline
 readosm
+realmd
 realtime-setup
 realtime-tests
 receptor
@@ -7921,6 +7951,7 @@ rpminspect-data-centos
 rpminspect-data-fedora
 rpminspect
 rpmlint
+rpm-local-generator-support
 rpm-ostree
 rpmreaper
 rp-pppoe
@@ -8247,7 +8278,6 @@ rubygem-prawn
 rubygem-prawn-svg
 rubygem-prawn-table
 rubygem-prawn-templates
-rubygem-pr_geohash
 rubygem-progressbar
 rubygem-proxifier
 rubygem-pry-byebug
@@ -8461,6 +8491,7 @@ rust-alloc-stdlib
 rust-alphanumeric-sort
 rust-alsa
 rust-alsa-sys
+rust-ammonia
 rust-anes
 rust-annotate-snippets
 rust-annotate-snippets0.6
@@ -8533,6 +8564,7 @@ rust-async-mutex
 rust-async-process
 rust-async-recursion
 rust-async-session
+rust-async-signal
 rust-async-std
 rust-async-stream-impl
 rust-async-stream
@@ -8562,6 +8594,7 @@ rust-axum-core
 rust-axum-macros
 rust-axum
 rust-az
+rust-backtrace-ext
 rust-backtrace
 rust-base-x
 rust-base16ct
@@ -8669,9 +8702,11 @@ rust-cargo-config2
 rust-cargo-c
 rust-cargo-husky
 rust-cargo-insta
+rust-cargo-lock
 rust-cargo-manifest
 rust-cargo_metadata
 rust-cargo_metadata0.15
+rust-cargo_metadata0.17
 rust-cargo-options
 rust-cargo-platform
 rust-cargo-readme
@@ -8711,6 +8746,7 @@ rust-clap_derive3
 rust-clap_lex
 rust-clap_lex0.2
 rust-clap_mangen
+rust-clap-num
 rust-clap
 rust-clap-verbosity-flag
 rust-clap2
@@ -8723,6 +8759,7 @@ rust-cmac
 rust-cmake
 rust-codepage
 rust-codespan-reporting
+rust-codespan
 rust-codicon
 rust-color-backtrace
 rust-colored_json
@@ -8817,6 +8854,7 @@ rust-crypto-mac
 rust-csscolorparser
 rust-cssparser-macros
 rust-cssparser
+rust-cssparser0.29
 rust-cstr
 rust-csv-core
 rust-csv
@@ -8866,6 +8904,7 @@ rust-data-encoding-macro-internal
 rust-data-encoding-macro
 rust-data-encoding
 rust-data-url
+rust-data-url0.2
 rust-datetime
 rust-dav1d-sys
 rust-dbl
@@ -8899,6 +8938,7 @@ rust-desed
 rust-deser-hjson
 rust-des
 rust-des0.7
+rust-detone
 rust-deunicode
 rust-devicemapper
 rust-devicemapper-sys
@@ -9019,6 +9059,7 @@ rust-escargot
 rust-esphome
 rust-ethtool
 rust-event-listener
+rust-event-listener2
 rust-event-manager
 rust-executable-path
 rust-exitcode
@@ -9489,6 +9530,7 @@ rust-khronos_api
 rust-konst_macro_rules
 rust-konst_proc_macros
 rust-konst
+rust-krates
 rust-krunvm
 rust-kstring
 rust-kv-log-macro
@@ -9725,6 +9767,8 @@ rust-notify-rust
 rust-notify
 rust-nu-ansi-term
 rust-nu-ansi-term0.46
+rust-nucleo-matcher
+rust-nucleo
 rust-nu-cmd-lang
 rust-nu-color-config
 rust-nu-engine
@@ -9936,6 +9980,7 @@ rust-pom
 rust-pore
 rust-pori
 rust-portable-atomic
+rust-portable-atomic-util
 rust-portpicker
 rust-powierza-coefficient
 rust-ppv-lite86
@@ -10218,11 +10263,13 @@ rust-secrecy
 rust-secret-service
 rust-sec1
 rust-selectors
+rust-selectors0.24
 rust-self_cell
 rust-semver-parser
 rust-semver-parser0.9
 rust-semver
 rust-semver0.11
+rust-send_wrapper
 rust-sequoia-autocrypt
 rust-sequoia-cert-store
 rust-sequoia-ipc
@@ -10269,6 +10316,7 @@ rust-serial_test0.5
 rust-serial_test0.6
 rust-serial_test1
 rust-servo_arc
+rust-servo_arc0.2
 rust-servo-fontconfig
 rust-servo-fontconfig-sys
 rust-sevctl
@@ -10462,9 +10510,12 @@ rust-termtree
 rust-termwiz
 rust-term0.6
 rust-test-assembler
+rust-test-case-core
 rust-test-case-macros
+rust-test-case-macros2
 rust-test-case
 rust-test-case1
+rust-test-case2
 rust-tester
 rust-test-generator
 rust-testing_logger
@@ -10617,6 +10668,7 @@ rust-unic-locale-impl
 rust-unic-locale-macros-impl
 rust-unic-locale-macros
 rust-unic-locale
+rust-unic-normal
 rust-unicode-bidi
 rust-unicode-bom
 rust-unicode_categories
@@ -10731,6 +10783,7 @@ rust-wezterm-dynamic
 rust-which
 rust-whoami
 rust-wide
+rust-widestring
 rust-wild
 rust-winit
 rust-winnow
@@ -10951,6 +11004,7 @@ singularity-ce
 Singular
 sipp
 sip-redirect
+sipsak
 sirikali
 siril
 sirocco
@@ -11023,6 +11077,7 @@ spirv-llvm-translator16
 spirv-llvm15.0-translator
 spirv-tools
 splix
+spread-sheet-widget
 sqlcipher
 sqlitebrowser
 sqlitecpp
@@ -11049,6 +11104,7 @@ stlsplit
 stockfish
 stp
 strace
+stratagus
 stratis-cli
 stratisd
 strawberry
@@ -11076,6 +11132,7 @@ sway-config-fedora
 sway
 sweet-gtk-theme
 swift-lang
+swiftlint
 swig
 switchdesk
 sword
@@ -11176,6 +11233,7 @@ tlx
 tmpwatch
 tmux
 tnftp
+tn5250
 todocli
 tog-pegasus
 toilet
@@ -11346,6 +11404,7 @@ visidata
 vkmark
 vkroots
 vl-gothic-fonts
+vmaf
 vo-amrwbenc
 vobcopy
 voikko-fi
@@ -11387,6 +11446,7 @@ wdiff
 wdt
 weasyprint
 webkit2gtk4.0
+webp-pixbuf-loader
 websvn
 weiweihuanghuang-work-sans-fonts
 weldr-client
@@ -11470,6 +11530,7 @@ xdg-utils
 xdms
 xdp-tools
 xdpyinfo
+xdriinfo
 xephem
 xerces-j2
 xeus-zmq
@@ -11525,6 +11586,7 @@ xorg-x11-drv-vmware
 xorg-x11-drv-wacom
 xorg-x11-fonts
 xorg-x11-proto-devel
+xorg-x11-server
 xorg-x11-server-Xwayland
 xorg-x11-util-macros
 xorg-x11-xauth

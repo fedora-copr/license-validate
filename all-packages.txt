@@ -94,7 +94,6 @@ ahven
 aide
 aiksaurus
 aime
-aiodnsbrute
 aircrack-ng
 airinv
 airnef
@@ -229,6 +228,7 @@ antlr3
 antlr4-project
 ant
 ants
+anymeal
 anyremote
 anyterm
 aoetools
@@ -807,6 +807,7 @@ bwping
 bwrap-oci
 byaccj
 byacc
+byebyebios
 bygfoot
 byobu
 byte-buddy
@@ -2541,6 +2542,7 @@ ftplib
 ftp
 fts-rest-client
 fuelmanager
+functionalplus
 funguloids
 funionfs
 fuse-btfs
@@ -6878,6 +6880,7 @@ kf6-kxmlgui
 kf6-modemmanager-qt
 kf6-networkmanager-qt
 kf6-plasma
+kf6-plasma5support
 kf6-prison
 kf6-purpose
 kf6-qqc2-desktop-style
@@ -6890,6 +6893,7 @@ kf6-threadweaver
 kgamma
 kgeography
 kget
+kglobalacceld
 kgoldrunner
 kgpg
 kgrab
@@ -14105,7 +14109,6 @@ psacct
 psad
 psblas3
 pscan
-pseudo
 psfex
 psftools
 psiconv
@@ -14342,6 +14345,7 @@ python-appdirs
 python-applicationinsights
 python-apprise
 python-AppTools
+python-APScheduler
 python-apsw
 python-apt
 python-apypie
@@ -14960,7 +14964,6 @@ python-elasticsearch
 python-elastic-transport
 python-elementpath
 python-elephant
-python-elpy
 python-email-validator
 python-emcee
 python-emoji
@@ -15446,6 +15449,7 @@ python-jsonpickle
 python-jsonpointer
 python-jsonref
 python-jsonrpclib
+python-jsonschema-path
 python-jsonschema
 python-jsonschema-specifications
 python-jsonschema-spec
@@ -15676,6 +15680,7 @@ python-moreorless
 python-moss
 python-mozilla-django-oidc
 python-mpd
+python-mpd2
 python-mplcairo
 python-mplcursors
 python-mpmath
@@ -16386,7 +16391,6 @@ python-ratinabox
 python-raven
 python-rawkit
 python-rcssmin
-python-rdflib-jsonld
 python-rdflib
 python-reactivex
 python-readability-lxml
@@ -16671,7 +16675,6 @@ python-sphinx-press-theme
 python-sphinx-pytest
 python-sphinx-removed-in
 python-sphinx-reredirects
-python-sphinx_reredirects
 python-sphinx_rtd_theme
 python-sphinx_selective_exclude
 python-sphinx-sitemap
@@ -16912,6 +16915,7 @@ python-urlgrabber
 python-urllib-gssapi
 python-urllib3
 python-url-normalize
+python-urlpy
 python-urwid-readline
 python-urwid
 python-urwidtrees
@@ -17159,6 +17163,7 @@ python3-zope-fixers
 python3.10
 python3.11
 python3.12
+python3.13
 python3.6
 python38-hvac
 python38-ntlm-auth-epel
@@ -17899,6 +17904,7 @@ rpminspect-data-centos
 rpminspect-data-fedora
 rpminspect
 rpmlint
+rpm-local-generator-support
 rpm-mpi-hooks
 rpmorphan
 rpm-ostree
@@ -18373,7 +18379,6 @@ rubygem-prawn
 rubygem-prawn-svg
 rubygem-prawn-table
 rubygem-prawn-templates
-rubygem-pr_geohash
 rubygem-progressbar
 rubygem-proxifier
 rubygem-pry-byebug
@@ -18602,6 +18607,7 @@ rust-alloc-stdlib
 rust-alphanumeric-sort
 rust-alsa
 rust-alsa-sys
+rust-ammonia
 rust-anes
 rust-annotate-snippets
 rust-annotate-snippets0.6
@@ -18674,6 +18680,7 @@ rust-async-mutex
 rust-async-process
 rust-async-recursion
 rust-async-session
+rust-async-signal
 rust-async-std
 rust-async-stream-impl
 rust-async-stream
@@ -18703,6 +18710,7 @@ rust-axum-core
 rust-axum-macros
 rust-axum
 rust-az
+rust-backtrace-ext
 rust-backtrace
 rust-base-x
 rust-base16ct
@@ -18812,9 +18820,11 @@ rust-cargo-config2
 rust-cargo-c
 rust-cargo-husky
 rust-cargo-insta
+rust-cargo-lock
 rust-cargo-manifest
 rust-cargo_metadata
 rust-cargo_metadata0.15
+rust-cargo_metadata0.17
 rust-cargo-options
 rust-cargo-platform
 rust-cargo-readme
@@ -18854,6 +18864,7 @@ rust-clap_derive3
 rust-clap_lex
 rust-clap_lex0.2
 rust-clap_mangen
+rust-clap-num
 rust-clap
 rust-clap-verbosity-flag
 rust-clap2
@@ -18866,6 +18877,7 @@ rust-cmac
 rust-cmake
 rust-codepage
 rust-codespan-reporting
+rust-codespan
 rust-codicon
 rust-color-backtrace
 rust-colored_json
@@ -18961,6 +18973,7 @@ rust-crypto-mac
 rust-csscolorparser
 rust-cssparser-macros
 rust-cssparser
+rust-cssparser0.29
 rust-cstr
 rust-csv-core
 rust-csv
@@ -19010,6 +19023,7 @@ rust-data-encoding-macro-internal
 rust-data-encoding-macro
 rust-data-encoding
 rust-data-url
+rust-data-url0.2
 rust-datetime
 rust-dav1d-sys
 rust-dbl
@@ -19043,6 +19057,7 @@ rust-desed
 rust-deser-hjson
 rust-des
 rust-des0.7
+rust-detone
 rust-deunicode
 rust-devicemapper
 rust-devicemapper-sys
@@ -19165,6 +19180,7 @@ rust-escargot
 rust-esphome
 rust-ethtool
 rust-event-listener
+rust-event-listener2
 rust-event-manager
 rust-executable-path
 rust-exitcode
@@ -19637,6 +19653,7 @@ rust-khronos_api
 rust-konst_macro_rules
 rust-konst_proc_macros
 rust-konst
+rust-krates
 rust-krunvm
 rust-kstring
 rust-kv-log-macro
@@ -19875,6 +19892,8 @@ rust-notify-rust
 rust-notify
 rust-nu-ansi-term
 rust-nu-ansi-term0.46
+rust-nucleo-matcher
+rust-nucleo
 rust-nu-cmd-lang
 rust-nu-color-config
 rust-nu-engine
@@ -20086,6 +20105,7 @@ rust-pom
 rust-pore
 rust-pori
 rust-portable-atomic
+rust-portable-atomic-util
 rust-portpicker
 rust-powierza-coefficient
 rust-ppv-lite86
@@ -20371,11 +20391,13 @@ rust-secrecy
 rust-secret-service
 rust-sec1
 rust-selectors
+rust-selectors0.24
 rust-self_cell
 rust-semver-parser
 rust-semver-parser0.9
 rust-semver
 rust-semver0.11
+rust-send_wrapper
 rust-sequoia-autocrypt
 rust-sequoia-cert-store
 rust-sequoia-ipc
@@ -20427,6 +20449,7 @@ rust-serial_test0.5
 rust-serial_test0.6
 rust-serial_test1
 rust-servo_arc
+rust-servo_arc0.2
 rust-servo-fontconfig
 rust-servo-fontconfig-sys
 rust-sevctl
@@ -20620,9 +20643,12 @@ rust-termtree
 rust-termwiz
 rust-term0.6
 rust-test-assembler
+rust-test-case-core
 rust-test-case-macros
+rust-test-case-macros2
 rust-test-case
 rust-test-case1
+rust-test-case2
 rust-tester
 rust-test-generator
 rust-testing_logger
@@ -20777,6 +20803,7 @@ rust-unic-locale-impl
 rust-unic-locale-macros-impl
 rust-unic-locale-macros
 rust-unic-locale
+rust-unic-normal
 rust-unicode-bidi
 rust-unicode-bom
 rust-unicode_categories
@@ -20891,6 +20918,7 @@ rust-wezterm-dynamic
 rust-which
 rust-whoami
 rust-wide
+rust-widestring
 rust-wild
 rust-winit
 rust-winnow
@@ -21724,6 +21752,7 @@ sweeper
 sweet-gtk-theme
 swell-foop
 swift-lang
+swiftlint
 swig
 swing-layout
 switchdesk
@@ -22789,6 +22818,7 @@ xdotool
 xdp-tools
 xdpyinfo
 xdrawchem
+xdriinfo
 xedit
 xed
 xe-guest-utilities-latest
