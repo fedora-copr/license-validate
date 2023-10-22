@@ -1998,7 +1998,6 @@ funguloids
 fuse-btfs
 fuse-emulator
 fuse-emulator-utils
-fuse-encfs
 fuse-overlayfs
 fuse-pingfs
 fuse-sshfs
@@ -6621,7 +6620,6 @@ libva
 libva-utils
 libva-vdpau-driver
 libva-v4l2-request
-libvdpau
 libvdpau-va-gl
 libverto
 libvidcap
@@ -7787,6 +7785,7 @@ NFStest
 nfs-utils
 nfswatch
 nfs4-acl-tools
+nginx-mod-fancyindex
 nginx-mod-modsecurity
 nginx-mod-naxsi
 nginx-mod-vts
@@ -8901,7 +8900,6 @@ perl-Crypt-OpenSSL-X509
 perl-Crypt-PBKDF2
 perl-Crypt-PWSafe3
 perl-Crypt-Random-Seed
-perl-Crypt-Random-Source
 perl-Crypt-RandPasswd
 perl-Crypt-RC4
 perl-Crypt-RC4-XS
@@ -9754,7 +9752,6 @@ perl-Math-Random-ISAAC
 perl-Math-Random-ISAAC-XS
 perl-Math-Random-MT-Auto
 perl-Math-Random-MT
-perl-Math-Random-Secure
 perl-Math-Round
 perl-Math-Spline
 perl-Math-Symbolic
@@ -11411,7 +11408,6 @@ pmount
 pngcheck
 pnglite
 pngquant
-pnm2ppa
 pocketfft
 pocketsphinx
 poco
@@ -11519,6 +11515,7 @@ progman
 progress
 proguard
 prometheus-jmx-exporter
+prometheus-podman-exporter
 prometheus-simpleclient-java
 proselint
 prosody
@@ -15510,6 +15507,7 @@ rust-dolby_vision
 rust-domain
 rust-dotenvy
 rust-downcast-rs
+rust-drain
 rust-drg
 rust-drm-ffi
 rust-drm-fourcc
@@ -15577,6 +15575,7 @@ rust-errno0.2
 rust-error-chain
 rust-escape_string
 rust-escargot
+rust-etcetera
 rust-event-listener
 rust-event-listener2
 rust-event-manager
@@ -18542,7 +18541,6 @@ xorg-x11-drv-qxl
 xorg-x11-drv-synaptics
 xorg-x11-drv-vesa
 xorg-x11-font-utils
-xorg-x11-server
 xorg-x11-xdm
 xorsearch
 xortool
