@@ -10,7 +10,7 @@ license-validate - validates the string in the License tag in the SPEC file
 SYNOPSIS
 --------
 
-*license-validate* [-h] [--old] [--file FILE] [--verbose] license
+*license-validate* [-h] [--old] [--file FILE] [--package PACKAGE] [--verbose] license
 
 positional arguments:
   license        license string. E.g., ''GPL or MIT''.
@@ -20,10 +20,12 @@ OPTIONS
 -------
 -h, --help::
     Show help message and exit.
---old::
-    Validate using old Fedora's shortnames. Otherwise SPDX expression is assumed.
 --file FILE::
     Read the grammar from this file. Default is `/usr/share/fedora-license-data/grammar.lark`. And if this default does not exists then script reads `./full-grammar.lark`.
+--old::
+    Validate using old Fedora's shortnames. Otherwise SPDX expression is assumed.
+--package PACKAGE::
+    You can optionaly pass name of the package (name of src.rpm). Normally, when package uses not-allowed license, license-validate prints error and exit with non-zero code. But if PACKAGE is known to use otherwise not-allowed license as an exception, then license-validate does not print error and exit with zero status code.
 --verbose, -v::
     Print more human friendly messages. Otherwise just exits with error code zero if license is valid otherwise with error code 1 if license is invalid.
 

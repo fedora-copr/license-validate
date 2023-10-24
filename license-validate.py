@@ -8,10 +8,12 @@ from lark.exceptions import LarkError
 
 parser = argparse.ArgumentParser(description='Validate Fedora RPM license string.')
 parser.add_argument('license', help='license string')
-parser.add_argument('--old', action='store_true', help="validate using old Fedora's shortnames")
 parser.add_argument('--file', help='read the grammar from this file (default /usr/share/license-validate/grammar.lark)')
+parser.add_argument('--old', action='store_true', help="validate using old Fedora's shortnames")
+parser.add_argument('--package', help='name of the package - can return "valid" for not-allowed license if package is known exception')
 parser.add_argument('--verbose', '-v', action='count', default=0)
 opts = parser.parse_args()
+VALID = True
 
 def load_licenses():
     data = json.load(open('/usr/share/fedora-license-data/licenses/fedora-licenses.json'))
@@ -38,12 +40,19 @@ class T(Transformer):
     def operator(self, s):
         return str(s[0]) 
     def __default_token__(self, token):
+        global VALID
         if token.value in LICENSES and "not-allowed" in LICENSES[token.value]["status"]:
             print("Warning: {} is not-allowed license".format(token.value))
             if "usage" in LICENSES[token.value]:
                 print("{0} can be used under this condition:\n{1}\n".format(token.value, LICENSES[token.value]["usage"]))
             if "packages_with_exceptions" in LICENSES[token.value]:
                 print("These packages are known to use this {} license as an exception: {}".format(token.value, LICENSES[token.value]["packages_with_exceptions"]))
+                if PACKAGE in LICENSES[token.value]["packages_with_exceptions"]:
+                    pass
+                else:
+                    VALID = False
+            else:
+                VALID = False
         if token.value in LICENSES:
             pass
         elif token in ["(", ")"]:                                                                                                                                                
@@ -51,6 +60,7 @@ class T(Transformer):
         elif token in ["AND", "OR"]:
             pass
         else:
+            VALID = False
             print("Warning: we do not have SPDX identifier for {}".format(token))
         return token.value
 
@@ -78,6 +88,10 @@ with open(filename) as f:
 with open(not_allowed_filename) as f:
     grammar_with_not_allowed = f.read()
 
+PACKAGE = None
+if opts.package:
+    PACKAGE = opts.package
+
 LICENSES = load_licenses()
 
 lark_parser = Lark(grammar)  # Scannerless Earley is the default
@@ -95,8 +109,13 @@ except LarkError as e:
         tree_with_not_allowed = lark_parser_with_not_allowed.parse(text)
         if opts.verbose > 0:
             T(visit_tokens=True).transform(tree_with_not_allowed)
-        print("Uses not-allowed license.")
+        if VALID and PACKAGE:
+            print("Uses not-allowed license, but package is known to be exception.")
+        else: 
+            print("Uses not-allowed license.")
+            VALID = False
     except LarkError as ee:
+        VALID = False
         if opts.verbose > 0:
             print(e)
         print("Not a valid license string")
@@ -104,4 +123,5 @@ except LarkError as e:
             print("Please check https://docs.fedoraproject.org/en-US/legal/all-allowed/")
     if not opts.verbose:
         print("Run with -v option to see more information.")
+if not VALID:
     sys.exit(1)
