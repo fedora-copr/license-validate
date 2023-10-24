@@ -5352,7 +5352,6 @@ mingw-python-pyproj warning: valid as old and new and no changelong entry, pleas
 mingw-python-pytz warning: valid as old and new and no changelong entry, please check
 mingw-python-pyyaml warning: valid as old and new and no changelong entry, please check
 mingw-python-setuptools warning: valid as old and new and no changelong entry, please check
-mingw-python-shapely
 mingw-python-six warning: valid as old and new and no changelong entry, please check
 mingw-python-tomli warning: valid as old and new and no changelong entry, please check
 mingw-python-urllib3 warning: valid as old and new and no changelong entry, please check
@@ -6355,7 +6354,6 @@ perl-CGI-Application-Plugin-MessageStack - can be trivially converted to GPL-1.0
 perl-CGI-Application-Plugin-RateLimit - can be trivially converted to GPL-1.0-or-later OR Artistic-1.0-Perl
 perl-CGI-Application-Plugin-Redirect - can be trivially converted to GPL-1.0-or-later OR Artistic-1.0-Perl
 perl-CGI-Application-Plugin-RequireSSL - can be trivially converted to GPL-1.0-or-later OR Artistic-1.0-Perl
-perl-CGI-Application-Plugin-Session - can be trivially converted to GPL-1.0-or-later OR Artistic-1.0-Perl
 perl-CGI-Application-Plugin-Stream - can be trivially converted to GPL-1.0-or-later OR Artistic-1.0-Perl
 perl-CGI-Application-Plugin-SuperForm - can be trivially converted to GPL-1.0-or-later OR Artistic-1.0-Perl
 perl-CGI-Application-Plugin-TT - can be trivially converted to GPL-1.0-or-later OR Artistic-1.0-Perl
@@ -8515,7 +8513,6 @@ python-colcon-zsh - can be trivially converted to Apache-2.0
 python-collada
 python-collectd_puppet - can be trivially converted to Apache-2.0
 python-collectd_systemd warning: valid as old and new and no changelong entry, please check
-python-colorama
 python-colorclass warning: valid as old and new and no changelong entry, please check
 python-coloredlogs warning: valid as old and new and no changelong entry, please check
 python-colored-traceback warning: valid as old and new and no changelong entry, please check
@@ -8930,7 +8927,6 @@ python-inflection warning: valid as old and new and no changelong entry, please 
 python-inflect warning: valid as old and new and no changelong entry, please check
 python-influxdb warning: valid as old and new and no changelong entry, please check
 python-iniparse
-python-inject - can be trivially converted to Apache-2.0
 python-inspyred warning: valid as old and new and no changelong entry, please check
 python-instant
 python-interrogate warning: valid as old and new and no changelong entry, please check
@@ -9925,7 +9921,6 @@ python-webob warning: valid as old and new and no changelong entry, please check
 python-webpy
 python-webscrapbook warning: valid as old and new and no changelong entry, please check
 python-websocket-client - can be trivially converted to Apache-2.0
-python-websockets
 python-websockify - can be trivially converted to LGPL-3.0-only
 python-webtest warning: valid as old and new and no changelong entry, please check
 python-webthing - can be trivially converted to MPL-2.0
@@ -10027,8 +10022,8 @@ python-zdaemon - can be trivially converted to ZPL-2.1
 python-zeep
 python-zipstream - can be trivially converted to GPL-3.0-or-later
 python-zmq
-python-zmq - can be trivially converted to LGPL-3.0-or-later
-python-zmq - can be trivially converted to LGPL-3.0-or-later
+python-zmq - can be trivially converted to MPL-2.0
+python-zmq - can be trivially converted to MPL-2.0
 python-zm - can be trivially converted to Apache-2.0
 python-zope-component - can be trivially converted to ZPL-2.1
 python-zope-configuration - can be trivially converted to ZPL-2.1
@@ -11104,7 +11099,6 @@ soxr
 sox
 spacefm - can be trivially converted to GPL-3.0-or-later
 spacenavd - can be trivially converted to GPL-3.0-or-later
-spamassassin-dqs - can be trivially converted to Apache-2.0
 spamassassin-iXhash2 - can be trivially converted to Apache-2.0
 spampd - can be trivially converted to GPL-2.0-or-later
 sparkleshare - can be trivially converted to GPL-3.0-or-later
@@ -12208,7 +12202,7 @@ web-assets warning: valid as old and new and no changelong entry, please check
 web-assets warning: valid as old and new and no changelong entry, please check
 web-assets warning: valid as old and new and no changelong entry, please check
 webextension-token-signing
-webkitgtk
+webkitgtk warning: not valid neither as Callaway nor as SPDX, please check
 webkit2-sharp warning: valid as old and new and no changelong entry, please check
 webrtc-audio-processing
 websec - can be trivially converted to GPL-2.0-or-later
