@@ -226,6 +226,7 @@ assertj-core
 astigmatic-grand-hotel-fonts
 astromenace
 astrometry
+astyle
 asv
 asylum
 asymptote
@@ -538,6 +539,7 @@ compat-guichan05
 compat-guile18
 compat-readline5
 compiler-rt
+composefs
 composer
 compose-utils
 conan
@@ -723,6 +725,7 @@ digikam
 digitemp
 ding-libs
 dippi
+diskimage-builder
 disktype
 dislocker
 disruptor
@@ -1759,6 +1762,7 @@ ghc9.0
 ghc9.2
 ghc9.4
 ghc9.6
+ghc9.8
 ghex
 ghostscript
 ghostwriter
@@ -2131,6 +2135,7 @@ golang-github-inhies-bytesize
 golang-github-integrii-flaggy
 golang-github-invopop-yaml
 golang-github-iovisor-gobpf
+golang-github-ipinfo-2
 golang-github-ishidawataru-sctp
 golang-github-jamesruan-rfc1924
 golang-github-jba-printsrc
@@ -3215,6 +3220,7 @@ libcap-ng
 libcbor
 libcdr
 libcdson
+libcec
 libclc
 libcli
 libcmis
@@ -3429,6 +3435,7 @@ libpasraw
 libpcap
 libpciaccess
 libpeas
+libpeas1
 libpfm
 libphidget22
 libpinyin
@@ -3933,6 +3940,7 @@ mingw-opusfile
 mingw-pcre
 mingw-pixman
 mingw-python-build
+mingw-python-click
 mingw-python-flit-core
 mingw-python-homography
 mingw-python-installer
@@ -4198,6 +4206,7 @@ nnn
 nodejs-cjs-module-lexer
 nodejs20
 nomarch
+nordugrid-arc
 normalize
 normaliz
 notejot
@@ -4501,6 +4510,7 @@ osbuild
 oscap-anaconda-addon
 osc-source_validator
 osc
+osgearth
 osgi-annotation
 osgi-compendium
 osgi-core
@@ -4675,6 +4685,8 @@ perl-Authen-PAM
 perl-Authen-Radius
 perl-Authen-SASL
 perl-Authen-Simple-Passwd
+perl-Authen-U2F
+perl-Authen-U2F-Tester
 perl-autobox-Core
 perl-autobox-dump
 perl-autobox-List-Util
@@ -5212,6 +5224,7 @@ perl-GIS-Distance
 perl-Git-CPAN-Patch
 perl-Glib-IO
 perl-Glib-Object-Introspection
+perl-Glib
 perl-Gnome2-VFS
 perl-GooCanvas2
 perl-Graph-Easy
@@ -5296,6 +5309,7 @@ perl-inc-latest
 perl-indirect
 perl-Inline-C
 perl-Inline-Files
+perl-Inline-Python
 perl-Inline
 perl-IO-AIO
 perl-IO-All
@@ -6503,6 +6517,7 @@ pipewire-media-session
 pipx
 pitivi
 pixman
+pjproject
 pkcs11-provider
 pkgtreediff
 planarity
@@ -6675,6 +6690,7 @@ python-alsa
 python-annexremote
 python-annotated-types
 python-ansible-compat
+python-aodhclient
 python-appdirs
 python-applicationinsights
 python-argon2-cffi-bindings
@@ -6745,6 +6761,7 @@ python-azure-synapse-spark
 python-a2wsgi
 python-backrefs
 python-banal
+python-barbicanclient
 python-basemap
 python-bash-kernel
 python-bcrypt
@@ -6786,6 +6803,7 @@ python-certifi
 python-cffi
 python-cffsubr
 python-cfgv
+python-cinderclient
 python-circuitbreaker
 python-click-option-group
 python-click-plugins
@@ -6847,6 +6865,7 @@ python-dbus-signature-pyparsing
 python-ddt
 python-debian
 python-deprecated
+python-designateclient
 python-diff-match-patch
 python-dijitso
 python-dirty-equals
@@ -6954,6 +6973,7 @@ python-glad
 python-glad2
 python-glymur
 python-gmpy2
+python-gnocchiclient
 python-google-api-core
 python-googleapis-common-protos
 python-google-auth
@@ -7019,6 +7039,7 @@ python-hdfs
 python-hdmf
 python-healpy
 python-heapdict
+python-heatclient
 python-helpdev
 python-hid-parser
 python-httmock
@@ -7069,6 +7090,7 @@ python-ipykernel
 python-ipyparallel
 python-ipywidgets
 python-irc
+python-ironicclient
 python-isodate
 python-isoduration
 python-isort
@@ -7119,6 +7141,7 @@ python-keepassxc-browser
 python-kerberos
 python-keyrings-alt
 python-keyring
+python-keystoneclient
 python-kiwisolver
 python-krb5
 python-k5test
@@ -7151,6 +7174,7 @@ python-looseversion
 python-lxml
 python-ly
 python-managesieve
+python-manilaclient
 python-manuel
 python-mapbox-earcut
 python-mapclassify
@@ -7179,6 +7203,7 @@ python-metakernel
 python-metar
 python-mirakuru
 python-missingno
+python-mistune
 python-mistune08
 python-mizani
 python-mne-bids
@@ -7217,6 +7242,7 @@ python-networkx
 python-neurodsp
 python-neurom
 python-neurotune
+python-neutronclient
 python-nh3
 python-nihtest
 python-nipy
@@ -7226,6 +7252,7 @@ python-node-semver
 python-nose2
 python-notebook-shim
 python-notebook
+python-novaclient
 python-nss
 python-ntlm-auth
 python-nudatus
@@ -7235,6 +7262,7 @@ python-oauth2client
 python-OBD
 python-oci
 python-octave-kernel
+python-octaviaclient
 python-ofxparse
 python-omsdk
 python-onigurumacffi
@@ -7247,6 +7275,7 @@ python-openpaperwork-gtk
 python-openqa_client
 python-opensearch-py
 python-openslide
+python-openstacksdk
 python-opentelemetry-contrib
 python-opentelemetry
 python-opentype-sanitizer
@@ -7258,6 +7287,8 @@ python-ordered-set
 python-orderedset
 python-orjson
 python-oscrypto
+python-oslo-config
+python-oslo-i18n
 python-oslo-metrics
 python-oslo-middleware
 python-outcome
@@ -7503,6 +7534,7 @@ python-ruamel-yaml
 python-rust-update-set
 python-rx
 python-r128gain
+python-saharaclient
 python-samloader
 python-sarif-om
 python-scantree
@@ -7647,6 +7679,7 @@ python-trimesh
 python-trio
 python-trio-websocket
 python-trove-classifiers
+python-troveclient
 python-tvb-gdist
 python-txredisapi
 python-typeguard
@@ -7677,6 +7710,7 @@ python-versioningit
 python-vhacdx
 python-virt-firmware
 python-virtualenv-api
+python-vitrageclient
 python-vkbasalt-cli
 python-waitress
 python-warlock
@@ -7715,6 +7749,7 @@ python-y-py
 python-ypy-websocket
 python-yte
 python-yubico
+python-zaqarclient
 python-ZConfig
 python-ZEO
 python-zeroconf
@@ -7939,6 +7974,7 @@ rhythmbox-alternative-toolbar
 R-ica
 ricochet
 R-igraph
+rig
 rigsync
 R-inline
 rit-ezhuthu-fonts
@@ -9663,6 +9699,7 @@ rust-lock_api
 rust-logging_timer_proc_macros
 rust-logging_timer
 rust-log-mdc
+rust-log-panics
 rust-log
 rust-log0.3
 rust-loopdev
@@ -10945,6 +10982,7 @@ scim-m17n
 scim-pinyin
 scim
 scim-thai
+sciplot
 scl-utils
 scorep
 scponly

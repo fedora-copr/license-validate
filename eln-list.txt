@@ -168,7 +168,6 @@ clevis-pin-tpm2
 cli11
 cloud-init
 cloud-utils
-clucene
 cmake
 cmark
 cmocka
@@ -807,7 +806,6 @@ kernel
 kernel-srpm-macros
 kernelshark
 kexec-tools
-keybinder3
 keycloak-httpd-client-install
 keylime
 keylime-agent-rust
@@ -914,7 +912,6 @@ libev
 libevdev
 libevent
 libexif
-libexttextcat
 libfabric
 libfaketime
 libfastjson
@@ -1005,6 +1002,7 @@ libpaper
 libpcap
 libpciaccess
 libpeas
+libpeas1
 libpfm
 libpinyin
 libpipeline
@@ -2205,7 +2203,6 @@ rust-clap
 rust-clap2
 rust-clap3
 rust-clap_builder
-rust-clap_complete
 rust-clap_derive
 rust-clap_lex
 rust-clap_lex0.2
@@ -2226,8 +2223,6 @@ rust-crossbeam-queue0.2
 rust-crossbeam-utils
 rust-crossbeam-utils0.7
 rust-crypto-common
-rust-curl
-rust-curl-sys
 rust-darling0.14
 rust-darling_core0.14
 rust-darling_macro0.14
@@ -2274,8 +2269,6 @@ rust-filetime
 rust-flate2
 rust-float-cmp
 rust-fnv
-rust-foreign-types-shared0.1
-rust-foreign-types0.3
 rust-form_urlencoded
 rust-fragile
 rust-fs-err
@@ -2366,7 +2359,6 @@ rust-minijinja
 rust-minimal-lexical
 rust-miniz_oxide
 rust-mio
-rust-mio-extras
 rust-mio-uds
 rust-mio0.6
 rust-mockall
@@ -2386,10 +2378,6 @@ rust-num_cpus
 rust-num_enum
 rust-num_enum_derive
 rust-once_cell
-rust-openssl
-rust-openssl-macros
-rust-openssl-probe
-rust-openssl-sys
 rust-os_pipe
 rust-os_str_bytes
 rust-overload
@@ -2526,7 +2514,6 @@ rust-serde_json
 rust-serde_spanned
 rust-serde_stacker
 rust-serde_test
-rust-serde_yaml
 rust-serial_test
 rust-serial_test0.6
 rust-serial_test1
@@ -2650,7 +2637,6 @@ rust-unicode-segmentation
 rust-unicode-width
 rust-unicode-xid0.1
 rust-unindent
-rust-unsafe-libyaml
 rust-url
 rust-url1
 rust-users
@@ -2857,7 +2843,6 @@ transfig
 tree-pkg
 tree-sitter
 trustagent
-tslib
 tss2
 ttembed
 ttfautohint
