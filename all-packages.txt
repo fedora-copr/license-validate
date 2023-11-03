@@ -641,6 +641,7 @@ bind
 bind-to-tinydns
 bind9-next
 biniax
+bino
 binutils
 binwalk
 bionetgen
@@ -4148,6 +4149,7 @@ golang-github-distribution-3
 golang-github-djherbis-atime
 golang-github-djherbis-buffer
 golang-github-djherbis-nio
+golang-github-djherbis-times
 golang-github-dlclark-regexp2
 golang-github-dnaeon-vcr
 golang-github-dnsimple
@@ -4499,6 +4501,9 @@ golang-github-jackc-pgservicefile
 golang-github-jackc-pgtype
 golang-github-jackc-pgx
 golang-github-jackc-puddle
+golang-github-jacobsa-oglematchers
+golang-github-jacobsa-ogletest
+golang-github-jacobsa-reqtrace
 golang-github-jamesruan-rfc1924
 golang-github-jarcoal-httpmock
 golang-github-jawher-mow-cli
@@ -4999,6 +5004,7 @@ golang-github-rwcarlsen-goexif
 golang-github-ryanuber-columnize
 golang-github-ryanuber-glob
 golang-github-r3labs-diff-3
+golang-github-sabhiram-gitignore
 golang-github-sacloud-api-client
 golang-github-sacloud-http
 golang-github-sacloud-iaas-api
@@ -8255,6 +8261,7 @@ lskat
 lsnipes
 lsof
 lsp-plugins
+ls-qpack
 lsscsi
 lsvpd
 lsw
@@ -11866,7 +11873,6 @@ perl-Math-Base85
 perl-Math-BigInt-FastCalc
 perl-Math-BigInt-GMP
 perl-Math-BigInt
-perl-Math-BigRat
 perl-Math-Calc-Units
 perl-Math-Cartesian-Product
 perl-Math-ConvexHull-MonotoneChain
@@ -15019,6 +15025,7 @@ python-executing
 python-exif
 python-exoscale
 python-extension-helpers
+python-extractcode-libarchive
 python-extractcode-7z
 python-extras
 python-eyed3
@@ -15971,7 +15978,6 @@ python-pelican
 python-pem
 python-pendulum
 python-pep440
-python-pep517
 python-pep8-naming
 python-periodictable
 python-perky
@@ -16174,6 +16180,7 @@ python-PyLink
 python-pylint-venv
 python-pylons-sphinx-themes
 python-pylotoncycle
+python-pylsqpack
 python-pyls-spyder
 python-pymacaroons-pynacl
 python-pymapvbvd
@@ -16648,6 +16655,7 @@ python-socks5line
 python-sortedcollections
 python-sortedcontainers
 python-soupsieve
+python-spdx-tools
 python-speaklater
 python-specfile
 python-spec
@@ -17441,6 +17449,7 @@ quotatool
 qutebrowser
 qvge
 qview
+qvr
 qwtplot3d
 qwt
 qwt5-qt5
@@ -17864,6 +17873,7 @@ robin-map
 robodoc
 robotfindskitten
 roca-detect
+rocblas
 rocclr
 rocksdb
 rocksndiamonds
@@ -18744,6 +18754,7 @@ rust-axum
 rust-az
 rust-backtrace-ext
 rust-backtrace
+rust-bankstown-lv2
 rust-base-x
 rust-base16ct
 rust-base64ct
@@ -19675,9 +19686,9 @@ rust-josekit
 rust-jpeg-decoder
 rust-jpeg-decoder0.1
 rust-jql-parser
+rust-jql-runner
 rust-jql
 rust-json
-rust-json_to_table
 rust-json5
 rust-just
 rust-jwalk
@@ -19932,6 +19943,7 @@ rust-nu-ansi-term
 rust-nu-ansi-term0.46
 rust-nucleo-matcher
 rust-nucleo
+rust-nu-cmd-base
 rust-nu-cmd-lang
 rust-nu-color-config
 rust-nu-engine
@@ -20146,6 +20158,7 @@ rust-pori
 rust-portable-atomic
 rust-portable-atomic-util
 rust-portpicker
+rust-powerfmt-macros
 rust-powierza-coefficient
 rust-ppv-lite86
 rust-pq-sys
@@ -20261,6 +20274,7 @@ rust-quick-xml
 rust-quick-xml0.17
 rust-quick-xml0.27
 rust-quinn-proto
+rust-quinn
 rust-quinn-udp
 rust-quoted_printable
 rust-quote
@@ -22569,6 +22583,7 @@ votca
 vpnc-script
 vpnc
 vrms-rpm
+vrpn
 vrq
 vsftpd
 vsomeip3

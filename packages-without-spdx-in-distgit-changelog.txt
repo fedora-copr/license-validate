@@ -425,7 +425,6 @@ bltk
 blt
 bluebird
 bluechi
-blueman
 blueprint-compiler
 bluez-hcidump
 bluez
@@ -2652,6 +2651,7 @@ golang-github-distribution-3
 golang-github-djherbis-atime
 golang-github-djherbis-buffer
 golang-github-djherbis-nio
+golang-github-djherbis-times
 golang-github-dlclark-regexp2
 golang-github-dnaeon-vcr
 golang-github-dnsimple
@@ -2990,6 +2990,9 @@ golang-github-jackc-pgservicefile
 golang-github-jackc-pgtype
 golang-github-jackc-pgx
 golang-github-jackc-puddle
+golang-github-jacobsa-oglematchers
+golang-github-jacobsa-ogletest
+golang-github-jacobsa-reqtrace
 golang-github-jamesruan-rfc1924
 golang-github-jarcoal-httpmock
 golang-github-jawher-mow-cli
@@ -3483,6 +3486,7 @@ golang-github-rwcarlsen-goexif
 golang-github-ryanuber-columnize
 golang-github-ryanuber-glob
 golang-github-r3labs-diff-3
+golang-github-sabhiram-gitignore
 golang-github-sacloud-api-client
 golang-github-sacloud-http
 golang-github-sacloud-iaas-api
@@ -4393,7 +4397,6 @@ iscsi-initiator-utils
 is-it-in-rhel
 islamic-menus
 isl
-isns-utils
 iso-country-flags
 isoimagewriter
 ispc
@@ -4649,7 +4652,6 @@ kflickr
 kfloppy
 kfourinline
 kf5-kblog
-kf5-kconfig
 kf5-kdelibs4support
 kf5-kdesignerplugin
 kf5-kdewebkit
@@ -5043,7 +5045,6 @@ libb64
 libcacard
 libcaca
 libcamera-apps
-libcanberra
 libcangjie
 libcap
 libccd
@@ -5186,7 +5187,6 @@ libgweather
 libg15render
 libhandy
 libhbaapi
-libhbalinux
 libheif
 libhid
 libHX
@@ -5448,7 +5448,6 @@ libtiger
 libtimezonemap
 libtimidity
 libtins
-libtirpc
 libtnc
 libtomcrypt
 libtoml
@@ -5467,7 +5466,6 @@ libudfread
 libuecc
 libuev
 libuInputPlus
-libunibreak
 libunicapgtk
 libunicap
 libunicode
@@ -5655,6 +5653,7 @@ lsdvd
 lskat
 lsnipes
 lsp-plugins
+ls-qpack
 lsscsi
 lsw
 lsyncd
@@ -6442,7 +6441,6 @@ NetworkManager-l2tp
 NetworkManager-openconnect
 NetworkManager-openvpn
 NetworkManager-pptp
-NetworkManager
 NetworkManager-ssh
 NetworkManager-sstp
 NetworkManager-strongswan
@@ -6467,7 +6465,6 @@ nfsometer
 NFStest
 nfs-utils
 nfswatch
-nfs4-acl-tools
 nginx-mod-fancyindex
 nginx-mod-modsecurity
 nginx-mod-naxsi
@@ -9741,6 +9738,7 @@ python-executing
 python-exif
 python-exoscale
 python-extension-helpers
+python-extractcode-libarchive
 python-extractcode-7z
 python-extras
 python-eyed3
@@ -10466,7 +10464,6 @@ python-peewee
 python-pelican
 python-pendulum
 python-pep440
-python-pep517
 python-pep8-naming
 python-periodictable
 python-perky
@@ -10506,7 +10503,6 @@ python-plugnplay
 python-plumbum
 python-pmw
 python-policyuniverse
-python-pooch
 python-portend
 python-port-for
 python-posix-ipc
@@ -10618,6 +10614,7 @@ python-PyLink
 python-pylint-venv
 python-pylons-sphinx-themes
 python-pylotoncycle
+python-pylsqpack
 python-pyls-spyder
 python-pymacaroons-pynacl
 python-pymapvbvd
@@ -10678,7 +10675,6 @@ python-pyrate-limiter
 python-pyrfc3339
 python-pyroaring
 python-pyro
-python-pyroute2
 python-pyrpmmd
 python-PyRSS2Gen
 python-pyrtlsdr
@@ -10707,7 +10703,6 @@ python-pytapo
 python-pyte
 python-pytest-aiohttp
 python-pytest-arraydiff
-python-pytest-astropy-header
 python-pytest-astropy
 python-pytest-asyncio
 python-pytest-benchmark
@@ -10992,6 +10987,7 @@ python-socks
 python-socks5line
 python-sortedcollections
 python-soupsieve
+python-spdx-tools
 python-speaklater
 python-speedtest-cli
 python-speg
@@ -11564,6 +11560,7 @@ quotatool
 qutebrowser
 qvge
 qview
+qvr
 qwtplot3d
 qwt
 qwt5
@@ -11935,6 +11932,7 @@ robin-map
 robodoc
 robotfindskitten
 roca-detect
+rocblas
 rocclr
 rocksdb
 rocksndiamonds
@@ -11970,7 +11968,6 @@ R-parsedate
 R-pbapply
 R-pbdRPC
 R-pbdZMQ
-rpcbind
 rpcsvc-proto
 rpc2
 R-pdftools
@@ -12306,6 +12303,7 @@ rust-axum
 rust-az
 rust-backtrace-ext
 rust-backtrace
+rust-bankstown-lv2
 rust-base-x
 rust-base16ct
 rust-base64ct
@@ -13051,8 +13049,8 @@ rust-josekit
 rust-jpeg-decoder
 rust-jpeg-decoder0.1
 rust-jql-parser
+rust-jql-runner
 rust-json
-rust-json_to_table
 rust-just
 rust-jwalk0.6
 rust-kamadak-exif
@@ -13234,6 +13232,7 @@ rust-nparse
 rust-nu-ansi-term0.46
 rust-nucleo-matcher
 rust-nucleo
+rust-nu-cmd-base
 rust-nu-cmd-lang
 rust-nu-color-config
 rust-nu-explore
@@ -13381,6 +13380,7 @@ rust-pori
 rust-portable-atomic
 rust-portable-atomic-util
 rust-portpicker
+rust-powerfmt-macros
 rust-powierza-coefficient
 rust-ppv-lite86
 rust-pq-sys
@@ -13480,6 +13480,7 @@ rust-quickcheck0.9
 rust-quick-xml0.17
 rust-quick-xml0.27
 rust-quinn-proto
+rust-quinn
 rust-quinn-udp
 rust-quote
 rust-quote0.3
@@ -14358,7 +14359,6 @@ smoldyn
 smp_utils
 sms_ntsc
 smtpping
-s-nail
 snakeyaml
 snallygaster
 snapd-glib
@@ -15534,7 +15534,6 @@ xteddy
 xtensor-python
 xtensor
 xterm-console
-xterm
 xtide
 xtideuniversalbios
 x-tile
