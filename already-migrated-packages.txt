@@ -43,6 +43,7 @@ adwaita-qt
 adw-gtk3-theme
 aerc
 aesfix
+aespipe
 afetch
 Agda
 agenda
@@ -150,6 +151,7 @@ apostrophe
 appeditor
 appstream-data
 appstream
+appstream0.16
 appx-util
 apricots
 apron
@@ -185,6 +187,7 @@ asahi-installer
 asciidoc
 asciigraph
 asciinema
+ascii
 asio
 asnmap
 aspell-af
@@ -408,6 +411,7 @@ cadvisor
 caffe
 cage
 cagibi
+cachefilesd
 cachelib
 cairomm
 cairomm1.16
@@ -481,6 +485,7 @@ cjose
 ckb-next
 ckermit
 ck
+clamav-unofficial-sigs
 clamtk
 clamz
 clang
@@ -830,6 +835,7 @@ eggdrop
 eglexternalplatform
 egl-wayland
 eigen3
+elfutils
 elinks
 emacs-apel
 emacs-auctex
@@ -985,6 +991,7 @@ fmt
 fntsample
 focuswriter
 folder-color-switcher
+foliate
 folks
 folly
 foma
@@ -1186,6 +1193,7 @@ gdouros-musica-fonts
 gdouros-symbola-fonts
 gd
 gearhead2
+gedit-control-your-tabs
 gegl04
 genchemlab
 gensio
@@ -2017,7 +2025,6 @@ golang-github-buger-goterm
 golang-github-bwesterb-ristretto
 golang-github-civo-civogo
 golang-github-cli-browser
-golang-github-cli-crypto
 golang-github-cli-safeexec
 golang-github-cloudflare-backoff
 golang-github-cloudflare-cfssl
@@ -3046,6 +3053,7 @@ kexi
 keycloak-httpd-client-install
 keylime-agent-rust
 keyrings-filesystem
+keyutils
 kf5-akonadi-calendar
 kf5-akonadi-contacts
 kf5-akonadi-mime
@@ -3927,6 +3935,7 @@ lz4
 Macaulay2
 mac
 madan-fonts
+Maelstrom
 magicmirror-module-airnow
 magicmirror-module-onthisday
 magicmirror-module-singlestock
@@ -4244,6 +4253,7 @@ mtr
 mt-st
 mtxclient
 mt32emu
+mucalc
 mujs
 multi-git-status
 multitail
@@ -4337,7 +4347,9 @@ netsurf-buildsystem
 nettle
 net-tools
 NetworkManager-libreswan
+NetworkManager-l2tp
 NetworkManager
+NetworkManager-sstp
 neverball
 newsx
 newt
@@ -4361,6 +4373,7 @@ nnn
 nodejs-cjs-module-lexer
 nodejs20
 nomarch
+nordugrid-arc-nagios-plugins
 nordugrid-arc
 normalize
 normaliz
@@ -4398,6 +4411,7 @@ nvme-cli
 nvme-stas
 nvtop
 nwg-wrapper
+nwipe
 obconf
 objectweb-asm
 objenesis
@@ -6374,6 +6388,7 @@ perl-Time-Duration-Parse
 perl-Time-Duration
 perl-Time-HiRes
 perl-Time-Local
+perl-Time-Out
 perl-Time-Piece-MySQL
 perl-Time-Progress
 perl-Time-timegm
@@ -7077,6 +7092,7 @@ python-envisage
 python-epel-rpm-macros
 python-exabgp
 python-extractcode-libarchive
+python-extractcode
 python-extractcode-7z
 python-eyed3
 python-ezdxf
@@ -7114,6 +7130,7 @@ python-flufl-lock
 python-fluidity-sm
 python-fontconfig
 python-fontname
+python-fontquery
 python-fontrpmspec
 python-formulaic
 python-frozenlist
@@ -7892,6 +7909,8 @@ python-trove-classifiers
 python-troveclient
 python-tvb-gdist
 python-txredisapi
+python-typecode-libmagic
+python-typecode
 python-typeguard
 python-typepy
 python-typer
@@ -8800,6 +8819,7 @@ rust-arbitrary0.4
 rust-arboard
 rust-arc-swap
 rust-arg_enum_proc_macro
+rust-argfile
 rust-argh_derive
 rust-argh_shared
 rust-argh
@@ -9024,6 +9044,7 @@ rust-clang-sys
 rust-clang-tidy-sarif
 rust-clap_builder
 rust-clap_complete_fig
+rust-clap_complete_nushell
 rust-clap_complete
 rust-clap_complete3
 rust-clap_derive
@@ -9914,6 +9935,7 @@ rust-lock_api
 rust-logging_timer_proc_macros
 rust-logging_timer
 rust-log-mdc
+rust-logos-codegen
 rust-log-panics
 rust-log
 rust-log0.3
@@ -10050,7 +10072,6 @@ rust-noop_proc_macro
 rust-no-panic
 rust-normalize-line-endings
 rust-normpath
-rust-normpath0.3
 rust-notify-debouncer-mini
 rust-notify-rust
 rust-notify
@@ -10275,6 +10296,7 @@ rust-portable-atomic
 rust-portable-atomic-util
 rust-portpicker
 rust-powerfmt-macros
+rust-powerfmt
 rust-powierza-coefficient
 rust-ppv-lite86
 rust-pq-sys
@@ -10690,6 +10712,7 @@ rust-smol_str0.1
 rust-snafu-derive
 rust-snafu
 rust-snake_case
+rust-snapbox-macros
 rust-snphost
 rust-socket2
 rust-socket2_0.4
@@ -10739,7 +10762,6 @@ rust-strum_macros0.21
 rust-strum_macros0.24
 rust-strum
 rust-strum0.21
-rust-strum0.24
 rust-subprocess
 rust-subtle
 rust-supports-color
@@ -10776,6 +10798,7 @@ rust-tabled_derive
 rust-tabled
 rust-tabular
 rust-take_mut
+rust-tame-index
 rust-tap
 rust-target-lexicon
 rust-target
@@ -10811,7 +10834,6 @@ rust-test-case-macros
 rust-test-case-macros2
 rust-test-case
 rust-test-case1
-rust-test-case2
 rust-tester
 rust-test-generator
 rust-testing_logger
@@ -11044,6 +11066,7 @@ rust-vmm-sys-util
 rust-vm-superio
 rust-vmw_backdoor
 rust-void
+rust-vsort
 rust-vsprintf
 rust-vte_generate_state_changes
 rust-vte
@@ -11387,6 +11410,7 @@ sqlcipher
 sqlitebrowser
 sqlitecpp
 sqlite
+squashfs-tools
 squeezelite
 squidGuard
 squid
@@ -11573,10 +11597,12 @@ treelayout
 tree-pkg
 tree-sitter
 trelby
+tripwire
 trojita
 trurl
 tslib
 tss2
+tsung
 ttfautohint
 tth
 ttmkfdir

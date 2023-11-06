@@ -91,7 +91,6 @@ augeas
 authselect
 autoconf
 autoconf-archive
-autoconf213
 autofs
 automake
 avahi
@@ -190,6 +189,7 @@ colord-gtk
 community-mysql
 compat-locales-sap
 compiler-rt
+composefs
 conmon
 conntrack-tools
 console-login-helper-messages
@@ -323,7 +323,6 @@ fcgi
 fcoe-utils
 fdk-aac-free
 fdupes
-fedora-bookmarks
 fedora-logos
 fedora-release
 fedora-repos
@@ -338,7 +337,6 @@ file
 filesystem
 findutils
 fio
-firefox
 firewalld
 fish
 flac
@@ -1529,7 +1527,6 @@ nodejs20
 npth
 nss
 nss-altfiles
-nss_nis
 nss_wrapper
 ntpstat
 numactl
@@ -2590,6 +2587,7 @@ python-pytest-datadir
 python-pytest-env
 python-pytest-expect
 python-pytest-forked
+python-pytest-httpbin
 python-pytest-jupyter
 python-pytest-lazy-fixture
 python-pytest-mock
@@ -2652,6 +2650,7 @@ python-six
 python-smartypants
 python-smmap
 python-sniffio
+python-socksio
 python-sortedcontainers
 python-soupsieve
 python-sphinx
@@ -2766,7 +2765,6 @@ python3-docs
 python3-mallard-ducktype
 python3-mypy
 python3.10
-python3.11
 python3.12
 pythran
 pytz
@@ -3766,7 +3764,6 @@ texlive
 texlive-base
 tftp
 thermald
-thunderbird
 tigervnc
 time
 tinycdb
@@ -3966,8 +3963,6 @@ yelp-tools
 yelp-xsl
 yggdrasil
 yggdrasil-worker-package-manager
-yp-tools
-ypbind
 zaf
 zeromq
 zip

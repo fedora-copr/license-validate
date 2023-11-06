@@ -283,6 +283,7 @@ appres
 appstream-data
 appstream-generator
 appstream
+appstream0.16
 apptainer
 appx-util
 apr-api-docs
@@ -4039,7 +4040,6 @@ golang-github-clbanning-mxj
 golang-github-clbanning-x2j
 golang-github-cli-browser
 golang-github-clickhouse
-golang-github-cli-crypto
 golang-github-client9-gospell
 golang-github-client9-plaintext
 golang-github-cli-gh
@@ -9237,6 +9237,7 @@ mt-st
 mtxclient
 mtx
 mt32emu
+mucalc
 mudita24
 muffin
 mujs
@@ -15026,6 +15027,7 @@ python-exif
 python-exoscale
 python-extension-helpers
 python-extractcode-libarchive
+python-extractcode
 python-extractcode-7z
 python-extras
 python-eyed3
@@ -15121,6 +15123,7 @@ python-folium
 python-fontconfig
 python-fontMath
 python-fontname
+python-fontquery
 python-fontrpmspec
 python-formencode
 python-formulaic
@@ -16913,6 +16916,8 @@ python-txaio
 python-txredisapi
 python-txws
 python-txzmq
+python-typecode-libmagic
+python-typecode
 python-typedecorator
 python-typeguard
 python-typepy
@@ -18674,6 +18679,7 @@ rust-arbitrary0.4
 rust-arboard
 rust-arc-swap
 rust-arg_enum_proc_macro
+rust-argfile
 rust-argh_derive
 rust-argh_shared
 rust-argh
@@ -18900,6 +18906,7 @@ rust-clang-sys
 rust-clang-tidy-sarif
 rust-clap_builder
 rust-clap_complete_fig
+rust-clap_complete_nushell
 rust-clap_complete
 rust-clap_complete3
 rust-clap_derive
@@ -19796,6 +19803,7 @@ rust-lock_api
 rust-logging_timer_proc_macros
 rust-logging_timer
 rust-log-mdc
+rust-logos-codegen
 rust-log-panics
 rust-log
 rust-log0.3
@@ -19934,7 +19942,6 @@ rust-noop_proc_macro
 rust-no-panic
 rust-normalize-line-endings
 rust-normpath
-rust-normpath0.3
 rust-notify-debouncer-mini
 rust-notify-rust
 rust-notify
@@ -20159,6 +20166,7 @@ rust-portable-atomic
 rust-portable-atomic-util
 rust-portpicker
 rust-powerfmt-macros
+rust-powerfmt
 rust-powierza-coefficient
 rust-ppv-lite86
 rust-pq-sys
@@ -20582,6 +20590,7 @@ rust-smol_str0.1
 rust-snafu-derive
 rust-snafu
 rust-snake_case
+rust-snapbox-macros
 rust-snphost
 rust-socket2
 rust-socket2_0.4
@@ -20631,7 +20640,6 @@ rust-strum_macros0.21
 rust-strum_macros0.24
 rust-strum
 rust-strum0.21
-rust-strum0.24
 rust-subprocess
 rust-subtle
 rust-supports-color
@@ -20668,6 +20676,7 @@ rust-tabled_derive
 rust-tabled
 rust-tabular
 rust-take_mut
+rust-tame-index
 rust-tap
 rust-target-lexicon
 rust-target
@@ -20703,7 +20712,6 @@ rust-test-case-macros
 rust-test-case-macros2
 rust-test-case
 rust-test-case1
-rust-test-case2
 rust-tester
 rust-test-generator
 rust-testing_logger
@@ -20938,6 +20946,7 @@ rust-vmm-sys-util
 rust-vm-superio
 rust-vmw_backdoor
 rust-void
+rust-vsort
 rust-vsprintf
 rust-vte_generate_state_changes
 rust-vte

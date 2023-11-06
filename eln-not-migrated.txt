@@ -9,7 +9,6 @@ apache-commons-exec
 argon2
 atkmm
 autoconf-archive
-autoconf213
 bacula
 beakerlib
 bind-dyndb-ldap
@@ -19,7 +18,6 @@ brasero
 brotli
 byteman
 c-ares
-cachefilesd
 clevis-pin-tpm2
 color-filesystem
 copy-jdk-configs
@@ -55,7 +53,6 @@ e2fsprogs
 ecj
 efi-rpm-macros
 efibootmgr
-elfutils
 ephemeral-port-reserve
 espeak-ng
 evince
@@ -67,7 +64,6 @@ extra-cmake-modules
 fabtests
 fcgi
 file
-firefox
 fish
 flatpak-xdg-utils
 fprintd
@@ -164,7 +160,6 @@ json-c
 jsoncpp
 kernel-srpm-macros
 keylime
-keyutils
 kmod
 lasso
 lcms2
@@ -270,7 +265,6 @@ nmap
 nodejs-nodemon
 nodejs-packaging
 nss-altfiles
-nss_nis
 nv-codec-headers
 nvmetcli
 nvml
@@ -457,6 +451,7 @@ python-pytest-benchmark
 python-pytest-cov
 python-pytest-expect
 python-pytest-forked
+python-pytest-httpbin
 python-pytest-lazy-fixture
 python-pytest-mock
 python-pytest-randomly
@@ -482,6 +477,7 @@ python-setproctitle
 python-shellingham
 python-simplejson
 python-smartypants
+python-socksio
 python-soupsieve
 python-sphinx-autodoc-typehints
 python-sphinx-bootstrap-theme
@@ -573,7 +569,6 @@ sip6
 softhsm
 sound-theme-freedesktop
 soundtouch
-squashfs-tools
 sscg
 stalld
 startup-notification
@@ -634,5 +629,3 @@ yasm
 yelp
 yelp-tools
 yelp-xsl
-yp-tools
-ypbind
