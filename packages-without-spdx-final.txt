@@ -22,7 +22,6 @@ Add64 - can be trivially converted to GPL-3.0-only
 adime warning: valid as old and new and no changelong entry, please check
 admeshgui
 admesh - can be trivially converted to GPL-2.0-or-later
-adobe-afdko - can be trivially converted to Apache-2.0
 adobe-source-serif-pro-fonts
 adplug
 adwaita-blue-gtk-theme - can be trivially converted to GPL-3.0-only
@@ -124,7 +123,6 @@ anyterm - can be trivially converted to GPL-2.0-or-later
 aoetools - can be trivially converted to GPL-2.0-only
 apache-cloudstack-cloudmonkey - can be trivially converted to Apache-2.0
 apache-commons-digester - can be trivially converted to Apache-2.0
-apache-commons-exec - can be trivially converted to Apache-2.0
 apache-commons-math
 apache-commons-modeler - can be trivially converted to Apache-2.0
 apache-commons-pool - can be trivially converted to Apache-2.0
@@ -369,7 +367,6 @@ blaze
 bleachbit - can be trivially converted to GPL-3.0-or-later
 bless - can be trivially converted to GPL-2.0-or-later
 blitz
-bloaty - can be trivially converted to Apache-2.0
 blobwars
 BlockOutII - can be trivially converted to GPL-2.0-or-later
 blogilo
@@ -833,7 +830,7 @@ d-din-fonts
 ddiskit - can be trivially converted to GPL-3.0-only
 ddnet
 ddpt
-dd_rescue - can be trivially converted to GPL-1.0-or-later
+dd_rescue warning: not valid neither as Callaway nor as SPDX, please check
 ddrescue - can be trivially converted to GPL-3.0-or-later
 ddupdate warning: valid as old and new and no changelong entry, please check
 dd2 - can be trivially converted to GPL-2.0-or-later
@@ -2090,7 +2087,6 @@ golang-github-antchfx-jsonquery warning: valid as old and new and no changelong 
 golang-github-antchfx-xmlquery warning: valid as old and new and no changelong entry, please check
 golang-github-antchfx-xpath warning: valid as old and new and no changelong entry, please check
 golang-github-antihax-optional warning: valid as old and new and no changelong entry, please check
-golang-github-apache-arrow - can be trivially converted to Apache-2.0
 golang-github-apache-beam-2 - can be trivially converted to Apache-2.0
 golang-github-appc-docker2aci - can be trivially converted to Apache-2.0
 golang-github-appc-spec - can be trivially converted to Apache-2.0
@@ -3255,7 +3251,6 @@ grantlee-editor
 grantlee-qt5
 graphene warning: valid as old and new and no changelong entry, please check
 GraphicsMagick warning: valid as old and new and no changelong entry, please check
-graphite2
 graphlcd-base - can be trivially converted to GPL-2.0-or-later
 graphlcd-base - can be trivially converted to GPL-2.0-or-later
 graphlcd-base - can be trivially converted to GPL-2.0-or-later
@@ -3794,7 +3789,6 @@ kanyremote - can be trivially converted to GPL-3.0-or-later
 kapman
 kapptemplate - can be trivially converted to GPL-2.0-or-later
 kasts
-kata-containers - can be trivially converted to Apache-2.0
 kate
 kate
 kate
@@ -4237,9 +4231,6 @@ libdazzle - can be trivially converted to GPL-3.0-or-later
 libdbi-drivers
 libdbi
 libdbusextended-qt5
-libdeflate warning: valid as old and new and no changelong entry, please check
-libdeflate warning: valid as old and new and no changelong entry, please check
-libdeflate warning: valid as old and new and no changelong entry, please check
 libdeltacloud
 libdeltacloud
 libdigidocpp
@@ -4983,7 +4974,6 @@ meld - can be trivially converted to GPL-2.0-or-later
 mellowplayer - can be trivially converted to GPL-2.0-only
 memavaild warning: valid as old and new and no changelong entry, please check
 memchan
-memkind
 memstomp - can be trivially converted to LGPL-3.0-or-later AND GPL-2.0-or-later
 memtester - can be trivially converted to GPL-2.0-only
 menulibre - can be trivially converted to GPL-3.0-only
@@ -5163,7 +5153,6 @@ mingw-python-itsdangerous
 mingw-python-jinja2
 mingw-python-lxml
 mingw-python-markupsafe
-mingw-python-OWSLib
 mingw-python-psycopg2 warning: not valid neither as Callaway nor as SPDX, please check
 mingw-python-pygments
 mingw-python-pyparsing warning: valid as old and new and no changelong entry, please check
@@ -5389,7 +5378,6 @@ multiwatch warning: valid as old and new and no changelong entry, please check
 mum-hash warning: valid as old and new and no changelong entry, please check
 MUMPS warning: valid as old and new and no changelong entry, please check
 munge - can be trivially converted to GPL-3.0-or-later AND LGPL-3.0-or-later
-munin - can be trivially converted to GPL-2.0-only
 muParser warning: valid as old and new and no changelong entry, please check
 mupen64plus
 mup warning: valid as old and new and no changelong entry, please check
@@ -5638,7 +5626,6 @@ nv-codec-headers warning: valid as old and new and no changelong entry, please c
 nvidia-query-resource-opengl
 nvidia-texture-tools
 nvmetcli - can be trivially converted to Apache-2.0
-nvml
 nwg-launchers - can be trivially converted to GPL-3.0-or-later
 nwg-panel warning: valid as old and new and no changelong entry, please check
 nwchem - can be trivially converted to ECL-2.0
@@ -8189,7 +8176,6 @@ python-bids-validator warning: valid as old and new and no changelong entry, ple
 python-billiard
 python-binaryornot
 python-binstruct - can be trivially converted to GPL-3.0-or-later
-python-biopython
 python-biscuits warning: valid as old and new and no changelong entry, please check
 python-bitarray
 python-bitcoinlib - can be trivially converted to LGPL-3.0-or-later
@@ -8928,7 +8914,6 @@ python-netmiko
 python-network-runner - can be trivially converted to Apache-2.0
 python-neurosynth warning: valid as old and new and no changelong entry, please check
 python-niaaml warning: valid as old and new and no changelong entry, please check
-python-niaarm warning: valid as old and new and no changelong entry, please check
 python-niaclass warning: valid as old and new and no changelong entry, please check
 python-niapy warning: valid as old and new and no changelong entry, please check
 python-nibabel
@@ -8958,7 +8943,6 @@ python-numcodecs warning: valid as old and new and no changelong entry, please c
 python-numexpr warning: valid as old and new and no changelong entry, please check
 python-numpydoc
 python-numpy-stl
-python-num2words
 python-oauth warning: valid as old and new and no changelong entry, please check
 python-oauth2 warning: valid as old and new and no changelong entry, please check
 python-odata-query warning: valid as old and new and no changelong entry, please check
@@ -9556,7 +9540,6 @@ python-tinyrpc warning: valid as old and new and no changelong entry, please che
 python-tkrzw - can be trivially converted to Apache-2.0
 python-token-bucket - can be trivially converted to Apache-2.0
 python-tokenize-rt warning: valid as old and new and no changelong entry, please check
-python-toml-adapt warning: valid as old and new and no changelong entry, please check
 python-tomli warning: valid as old and new and no changelong entry, please check
 python-tomlkit warning: valid as old and new and no changelong entry, please check
 python-toml warning: valid as old and new and no changelong entry, please check
@@ -9901,7 +9884,6 @@ qt5-qtstyleplugins
 qt5-qtwebengine
 qt6ct
 quadrapassel
-quake2 - can be trivially converted to GPL-2.0-only
 quake3 - can be trivially converted to GPL-2.0-or-later
 QuantLib
 quantum-espresso - can be trivially converted to GPL-2.0-or-later
@@ -10506,7 +10488,6 @@ rust-sequoia-sop warning: not valid neither as Callaway nor as SPDX, please chec
 rust-sequoia-sq warning: not valid neither as Callaway nor as SPDX, please check
 rust-sequoia-sqv warning: not valid neither as Callaway nor as SPDX, please check
 rust-tpm2-policy - can be trivially converted to EUPL-1.2
-rust-tree-sitter
 rust-ybaas warning: not valid neither as Callaway nor as SPDX, please check
 rust-ybaas warning: not valid neither as Callaway nor as SPDX, please check
 rust-yubibomb warning: not valid neither as Callaway nor as SPDX, please check
@@ -11721,7 +11702,6 @@ vex warning: valid as old and new and no changelong entry, please check
 vfrnav - can be trivially converted to GPL-2.0-or-later
 vgrep - can be trivially converted to GPL-3.0-only
 vhd2vl - can be trivially converted to GPL-2.0-or-later
-video-downloader - can be trivially converted to GPL-3.0-or-later
 vid.stab - can be trivially converted to GPL-2.0-or-later
 viewnior - can be trivially converted to GPL-3.0-or-later
 vifm - can be trivially converted to GPL-2.0-or-later

@@ -23,6 +23,7 @@ adf-gillius-fonts
 adf-tribun-fonts
 adjtimex
 adns
+adobe-afdko
 adobe-mappings-cmap
 adobe-mappings-pdf
 adobe-source-code-pro-fonts
@@ -130,6 +131,7 @@ apache-commons-collections
 apache-commons-collections4
 apache-commons-compress
 apache-commons-configuration
+apache-commons-exec
 apache-commons-io
 apache-commons-jexl
 apache-commons-jxpath
@@ -183,6 +185,7 @@ arptools
 arpwatch
 arts
 arx-libertatis
+asahi-audio
 asahi-installer
 asciidoc
 asciigraph
@@ -331,6 +334,7 @@ blis
 bliss
 blivet-gui
 blktrace
+bloaty
 blosc2
 bluedevil
 bluefish
@@ -711,6 +715,7 @@ deepin-shortcut-viewer
 deepin-system-monitor
 deepin-terminal
 deepin-wallpapers
+deepin-wayland-protocols
 deja-dup
 dejavu-fonts
 delve
@@ -976,7 +981,6 @@ flexmark-java
 flex
 flickcurl
 flim
-flintqs
 flint
 flmsg
 flocq
@@ -1995,7 +1999,9 @@ golang-github-aliyun-cli
 golang-github-altree-bigfloat
 golang-github-anacrolix-dms
 golang-github-anacrolix-log
+golang-github-apache-arrow
 golang-github-apache-openwhisk-client
+golang-github-apache-thrift
 golang-github-apapsch-jsonmerge-2
 golang-github-apparentlymart-textseg-13
 golang-github-arran4-ical
@@ -2109,6 +2115,7 @@ golang-github-googlecloudplatform-cloudsql-proxy
 golang-github-googlecloudplatform-guest-logging
 golang-github-google-cmdtest
 golang-github-google-cmp
+golang-github-google-flatbuffers
 golang-github-google-gofuzz
 golang-github-google-go-github
 golang-github-google-nftables
@@ -2477,6 +2484,7 @@ grafx2
 gramps
 granatier
 grantlee
+graphite2
 grass
 greenboot
 greetd
@@ -2785,6 +2793,7 @@ hyphen-te
 hyphen-tk
 hyphen-uk
 hyprland-protocols
+hyprland
 chan
 chatterino2
 chayang
@@ -2924,6 +2933,7 @@ jakarta-mail
 jakarta-mail1
 jakarta-oro
 jakarta-servlet
+janet
 janino
 jansi
 jansi1
@@ -3021,6 +3031,7 @@ kalk
 kanshi
 kapow
 kasumi
+kata-containers
 kbackup
 kbd
 kcat
@@ -3389,6 +3400,7 @@ libdbusmenu
 libdca
 libdc1394
 libdecor
+libdeflate
 libdex
 libdfp
 libdicom
@@ -3652,10 +3664,12 @@ libservicelog
 libshumate
 libsigc++
 libsigsegv
+libsixel
 libslirp
 libslz
 libSM
 libsndfile
+libsocketcan
 libsolv
 libsoup
 libsoup3
@@ -3829,6 +3843,7 @@ lorax
 loudgain
 loudmouth
 loupe
+lowdown
 lprint
 lpsolve
 lrcalc
@@ -4037,6 +4052,7 @@ med
 megaglest
 megatools
 memcached
+memkind
 memstrack
 memtailor
 memtest86+
@@ -4106,6 +4122,7 @@ mingw-python-click
 mingw-python-flit-core
 mingw-python-homography
 mingw-python-installer
+mingw-python-OWSLib
 mingw-python-packaging
 mingw-python-pep517
 mingw-python-pip
@@ -4258,6 +4275,7 @@ mujs
 multi-git-status
 multitail
 mumble
+munin
 mupdf
 musescore
 mu
@@ -4373,6 +4391,7 @@ nnn
 nodejs-cjs-module-lexer
 nodejs20
 nomarch
+noopenh264
 nordugrid-arc-nagios-plugins
 nordugrid-arc
 normalize
@@ -4409,6 +4428,7 @@ nuspell
 nut
 nvme-cli
 nvme-stas
+nvml
 nvtop
 nwg-wrapper
 nwipe
@@ -4704,6 +4724,7 @@ pads
 pageedit
 pag
 pagure-cli
+pagure-exporter
 painless-password-rotation
 paktype-naqsh-fonts
 paktype-naskh-basic-fonts
@@ -6949,6 +6970,7 @@ python-berkeleydb
 python-betamax
 python-bidict
 python-binary-memcached
+python-biopython
 python-blivet
 python-blosc2
 python-blowfish
@@ -6992,6 +7014,7 @@ python-cloudpickle
 python-cloudscraper
 python-cmake-build-extension
 python-cogapp
+python-coincidence
 python-colcon-alias
 python-colcon-installed-package-information
 python-colcon-rerun
@@ -7066,6 +7089,7 @@ python-docstring-parser
 python-docstring-to-markdown
 python-docutils
 python-docx
+python-domdf-python-tools
 python-dotenv
 python-doxypypy
 python-doxyqml
@@ -7224,6 +7248,7 @@ python-hamcrest
 python-hatch-fancy-pypi-readme
 python-hatch-jupyter-builder
 python-hatchling
+python-hatch-requirements-txt
 python-hatch-vcs
 python-hdfs
 python-hdmf
@@ -7442,6 +7467,7 @@ python-neurom
 python-neurotune
 python-neutronclient
 python-nh3
+python-niaarm
 python-nihtest
 python-nipy
 python-nmap
@@ -7456,6 +7482,7 @@ python-nss
 python-ntlm-auth
 python-nudatus
 python-numpoly
+python-num2words
 python-oauthlib
 python-oauth2client
 python-OBD
@@ -7803,6 +7830,7 @@ python-sortedcontainers
 python-spdx-tools
 python-specfile
 python-spec
+python-sphinx-argparse-cli
 python-sphinx-autobuild
 python-sphinx-basic-ng
 python-sphinxcontrib-applehelp
@@ -7888,12 +7916,15 @@ python-textual
 python-threadpoolctl
 python-throttler
 python-tifffile
+python-tiktoken
 python-tilestache
 python-time-machine
 python-tinygrad
+python-tiny-proxy
 python-tldextract
 python-tld
 python-tmuxp
+python-toml-adapt
 python-tomli-w
 python-toposort
 python-tornado
@@ -8040,11 +8071,13 @@ qjackctl
 qmapshack
 qmasterpassword
 qm
+qoi
 qownnotes
 qpdf
 qr-code-generator
 qrtr
 qsf
+qsopt-ex
 qsynth
 qt-creator
 qt-jdenticon
@@ -8120,6 +8153,7 @@ qt6-qtwebview
 qt6-qt3d
 qt6-qt5compat
 qt6
+quake2
 quaternion
 quearcode
 quilt
@@ -8235,6 +8269,7 @@ rocm-rpm-macros
 rocm-smi
 rocprim
 rocrand
+rocsparse
 rocthrust
 roc-toolkit
 rofi-themes-base16
@@ -8924,6 +8959,7 @@ rust-below-store
 rust-below-view
 rust-benfred-read-process-memory
 rust-bencher
+rust-bigdecimal
 rust-binascii
 rust-bincode
 rust-bindgen-cli
@@ -9309,6 +9345,7 @@ rust-edit-distance
 rust-edit
 rust-ed25519-compact
 rust-ed25519
+rust-effective-limits
 rust-either
 rust-elfcat
 rust-elf
@@ -9724,6 +9761,7 @@ rust-hyper-rustls
 rust-hyper
 rust-hyper-tls
 rust-h2
+rust-h3-quinn
 rust-h3
 rust-chainerror
 rust-chardetng
@@ -9936,6 +9974,8 @@ rust-logging_timer_proc_macros
 rust-logging_timer
 rust-log-mdc
 rust-logos-codegen
+rust-logos-derive
+rust-logos
 rust-log-panics
 rust-log
 rust-log0.3
@@ -10261,6 +10301,7 @@ rust-pin-project-lite0.1
 rust-pin-project
 rust-pin-project0.4
 rust-pin-utils
+rust-piper
 rust-pipe
 rust-pipe-trait
 rust-pipewire
@@ -10517,6 +10558,7 @@ rust-rpm-sequoia
 rust-rsa
 rust-rspec
 rust-rstest_macros
+rust-rstest_reuse
 rust-rstest
 rust-rtnetlink
 rust-rtoolbox
@@ -10546,6 +10588,7 @@ rust-rustls-native-certs
 rust-rustls-pemfile
 rust-rustls
 rust-rustls-webpki
+rust-rustsec
 rust-rusttype
 rust-rustversion
 rust-rusty-fork
@@ -10603,6 +10646,7 @@ rust-serde_buf
 rust-serde_bytes
 rust-serde_cbor
 rust-serdect
+rust-serde_derive_internals
 rust-serde_derive
 rust-serde_fmt
 rust-serde_ignored
@@ -10718,6 +10762,7 @@ rust-socket2
 rust-socket2_0.4
 rust-sop
 rust-spdx
+rust-speakersafetyd
 rust
 rust-speedate
 rust-spin_on
@@ -10768,8 +10813,10 @@ rust-supports-color
 rust-supports-hyperlinks
 rust-supports-unicode
 rust-sval_buffer
+rust-sval_derive_macros
 rust-sval_derive
 rust-sval_dynamic
+rust-sval_flatten
 rust-sval_fmt
 rust-sval_json
 rust-sval_ref
@@ -10831,7 +10878,6 @@ rust-term0.6
 rust-test-assembler
 rust-test-case-core
 rust-test-case-macros
-rust-test-case-macros2
 rust-test-case
 rust-test-case1
 rust-tester
@@ -10935,6 +10981,7 @@ rust-tree-sitter-cli
 rust-tree-sitter-config
 rust-tree-sitter-highlight
 rust-tree-sitter-loader
+rust-tree-sitter
 rust-tree-sitter-tags
 rust-trust-dns-client
 rust-trust-dns-proto
@@ -11178,6 +11225,7 @@ R-zoo
 saab-fonts
 saclib
 sac
+sad
 safeint
 safekeep
 safelease
@@ -11412,6 +11460,7 @@ sqlitecpp
 sqlite
 squashfs-tools
 squeezelite
+squidclamav
 squidGuard
 squid
 srain
@@ -11617,6 +11666,7 @@ tuxpaint
 tuxpaint-stamps
 tuxpuck
 tuxtype2
+tvlsim
 tweeny
 twinkle
 twolame
@@ -11714,6 +11764,7 @@ vernnobile-oswald-fonts
 veusz
 v-hacd
 vhostmd
+video-downloader
 viking
 vim-ansible
 vimb
@@ -11859,6 +11910,7 @@ xcowsay
 xcursorgen
 xdg-desktop-portal-gnome
 xdg-desktop-portal-gtk
+xdg-desktop-portal-hyprland
 xdg-desktop-portal-lxqt
 xdg-desktop-portal-wlr
 xdg-desktop-portal-xapp

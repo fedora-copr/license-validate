@@ -70,6 +70,7 @@ apache-resource-bundles
 apiguardian
 appstream
 appstream-data
+appstream0.16
 apr
 apr-util
 aqute-bnd
@@ -175,7 +176,6 @@ clisp
 cloud-init
 cloud-utils
 cmake
-cmark
 cmocka
 cockpit
 cockpit-composer
@@ -240,7 +240,6 @@ dejagnu
 dejavu-fonts
 delve
 desktop-file-utils
-devhelp
 device-mapper-multipath
 device-mapper-persistent-data
 dhcp
@@ -305,9 +304,7 @@ ephemeral-port-reserve
 espeak-ng
 ethtool
 evince
-evolution
 evolution-data-server
-evolution-ews
 exec-maven-plugin
 execstack
 exempi
@@ -361,7 +358,6 @@ foomatic-db
 forge-srpm-macros
 fprintd
 freeglut
-freeipa-healthcheck
 freeipmi
 freeradius
 freerdp
@@ -1207,7 +1203,6 @@ libppd
 libpq
 libproxy
 libpsl
-libpst
 libpwquality
 libqb
 libqmi
@@ -2587,7 +2582,6 @@ python-pytest-datadir
 python-pytest-env
 python-pytest-expect
 python-pytest-forked
-python-pytest-httpbin
 python-pytest-jupyter
 python-pytest-lazy-fixture
 python-pytest-mock
@@ -2650,7 +2644,6 @@ python-six
 python-smartypants
 python-smmap
 python-sniffio
-python-socksio
 python-sortedcontainers
 python-soupsieve
 python-sphinx
@@ -3306,6 +3299,7 @@ rust-pin-project
 rust-pin-project-internal
 rust-pin-project-lite
 rust-pin-utils
+rust-piper
 rust-pkcs8
 rust-pkg-config
 rust-plain
@@ -3313,6 +3307,8 @@ rust-platform-info
 rust-png
 rust-png0.16
 rust-polling
+rust-powerfmt
+rust-powerfmt-macros
 rust-ppv-lite86
 rust-precomputed-hash
 rust-predicates
@@ -3401,6 +3397,7 @@ rust-rle-decode-fast
 rust-rpm-sequoia
 rust-rstest
 rust-rstest_macros
+rust-rstest_reuse
 rust-rustc-demangle
 rust-rustc-hash
 rust-rustc-serialize
@@ -3489,6 +3486,7 @@ rust-subtle
 rust-sval
 rust-sval_buffer
 rust-sval_derive
+rust-sval_derive_macros
 rust-sval_dynamic
 rust-sval_fmt
 rust-sval_json

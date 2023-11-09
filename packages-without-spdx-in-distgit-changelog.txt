@@ -26,7 +26,6 @@ adf-tribun-fonts
 adime
 admeshgui
 admesh
-adobe-afdko
 adobe-source-sans-pro-fonts
 adobe-source-serif-pro-fonts
 adplug
@@ -144,7 +143,6 @@ aom
 apache-cloudstack-cloudmonkey
 apache-commons-configuration
 apache-commons-digester
-apache-commons-exec
 apache-commons-jexl
 apache-commons-math
 apache-commons-modeler
@@ -212,6 +210,7 @@ artifacts
 artikulate
 artwiz-aleczapka-fonts
 arx-libertatis
+asahi-audio
 asahi-installer
 asahi-scripts
 asciinema
@@ -414,7 +413,6 @@ blender
 bless
 bletchmame
 blitz
-bloaty
 blobwars
 BlockOutII
 blogilo
@@ -748,6 +746,7 @@ compiz-plugins-experimental
 compiz-plugins-extra
 compiz-plugins-main
 compiz
+composefs
 comps-extras
 compsize
 conakry-fonts
@@ -977,6 +976,7 @@ deepin-sound-theme
 deepin-system-monitor
 deepin-terminal
 deepin-wallpapers
+deepin-wayland-protocols
 deepin-wayland
 dee
 dehydrated
@@ -2420,7 +2420,6 @@ golang-github-antchfx-jsonquery
 golang-github-antchfx-xmlquery
 golang-github-antchfx-xpath
 golang-github-antihax-optional
-golang-github-apache-arrow
 golang-github-apache-beam-2
 golang-github-apache-openwhisk-client
 golang-github-apapsch-jsonmerge-2
@@ -3984,7 +3983,6 @@ grantlee-editor
 grantlee-qt5
 graphene
 GraphicsMagick
-graphite2
 graphlcd-base
 graphviz
 gravity-beams-and-evaporating-stars
@@ -4228,6 +4226,7 @@ hyperrogue
 hyperscan
 hypre
 hyprland-protocols
+hyprland
 h5py
 chafa
 charliecloud
@@ -4429,6 +4428,7 @@ jakarta-server-pages
 jakarta-xml-ws
 jalv
 jam
+janet
 janino
 jansi-native
 jansson
@@ -4549,7 +4549,6 @@ kapman
 kapow
 kapptemplate
 kasts
-kata-containers
 kate
 kate4
 katomic
@@ -5077,7 +5076,6 @@ libdbi-drivers
 libdbi
 libdbusextended-qt5
 libdca
-libdeflate
 libdeltacloud
 libdex
 libdicom
@@ -5407,9 +5405,11 @@ libsigc++30
 libsignal-protocol-c
 libsigrokdecode
 libsigrok
+libsixel
 libskk
 libsmbios
 libsmi
+libsocketcan
 libsodium
 libsolv
 libsonata
@@ -5634,6 +5634,7 @@ lout
 lovelock-backgrounds
 lovelock-kde-theme
 love
+lowdown
 low-memory-monitor
 lpairs
 lpcnetfreedv
@@ -5847,7 +5848,6 @@ meld
 mellowplayer
 memavaild
 memchan
-memkind
 memstomp
 memtester
 memtest86+
@@ -6507,6 +6507,7 @@ nomacs
 no-more-secrets
 nom-tam-fits
 non-ntk
+noopenh264
 nordugrid-arc-nagios-plugins
 nordugrid-arc
 nosync
@@ -6559,7 +6560,6 @@ nvidia-query-resource-opengl
 nvidia-texture-tools
 nvme-cli
 nvmetcli
-nvml
 nvtop
 nwg-launchers
 nwg-panel
@@ -6845,6 +6845,7 @@ pacrunner
 padthv1
 pageedit
 pagure-dist-git
+pagure-exporter
 pagure
 paho-c
 pachi
@@ -9441,6 +9442,7 @@ python-cmd2
 python-coapthon3
 python-codecov
 python-cogapp
+python-coincidence
 python-colander
 python-colcon-alias
 python-colcon-argcomplete
@@ -9668,6 +9670,7 @@ python-docstring-parser
 python-docstring-to-markdown
 python-dogpile-cache
 python-doit
+python-domdf-python-tools
 python-dotmap
 python-doubleratchet
 python-doxypypy
@@ -9939,6 +9942,7 @@ python-hass-data-detective
 python-hatasmota
 python-hatch-fancy-pypi-readme
 python-hatch-jupyter-builder
+python-hatch-requirements-txt
 python-haversion
 python-hdate
 python-hdf5storage
@@ -10306,7 +10310,6 @@ python-neurotune
 python-neutronclient
 python-nh3
 python-niaaml
-python-niaarm
 python-niaclass
 python-niapy
 python-nibabel
@@ -10983,6 +10986,7 @@ python-spdx-tools
 python-speaklater
 python-speedtest-cli
 python-speg
+python-sphinx-argparse-cli
 python-sphinx-argparse
 python-sphinx-autodoc-typehints
 python-sphinx-bootstrap-theme
@@ -11115,17 +11119,18 @@ python-three_merge
 python-throttler
 python-tidy
 python-tifffile
+python-tiktoken
 python-time-machine
 python-timeout-decorator
 python-timeunit
 python-tinycss2
 python-tinydb
 python-tinygrad
+python-tiny-proxy
 python-tinyrpc
 python-tkrzw
 python-token-bucket
 python-tokenize-rt
-python-toml-adapt
 python-tomli
 python-tomlkit
 python-toml
@@ -11466,6 +11471,7 @@ qm
 qm-vamp-plugins
 qoauth
 qodem
+qoi
 qpdfview
 qperf
 qpid-dispatch
@@ -11482,6 +11488,7 @@ qrtr
 qrupdate
 qscintilla
 QsLog
+qsopt-ex
 qsstv
 qstardict
 qstars
@@ -11531,7 +11538,6 @@ qt6-qtspeech
 qt6-qtwebengine
 qt6-qtwebview
 quadrapassel
-quake2
 quake3
 QuantLib
 quantum-espresso
@@ -11938,6 +11944,7 @@ rocm-rpm-macros
 rocm-runtime
 rocprim
 rocrand
+rocsparse
 rocs
 rocthrust
 R-odbc
@@ -12322,6 +12329,7 @@ rust-below
 rust-below-store
 rust-below-view
 rust-bencher
+rust-bigdecimal
 rust-bindgen-cli
 rust-bindgen
 rust-bindgen0.59
@@ -12629,6 +12637,7 @@ rust-edit-distance
 rust-edit
 rust-ed25519-compact
 rust-ed25519
+rust-effective-limits
 rust-either
 rust-elf
 rust-elliptic-curve
@@ -12964,6 +12973,7 @@ rust-hyperfine
 rust-hyperlocal
 rust-hyper-rustls
 rust-hyper-tls
+rust-h3-quinn
 rust-h3
 rust-chainerror
 rust-chardetng
@@ -13130,6 +13140,8 @@ rust-logging_timer_proc_macros
 rust-logging_timer
 rust-log-mdc
 rust-logos-codegen
+rust-logos-derive
+rust-logos
 rust-log-panics
 rust-log
 rust-log0.3
@@ -13353,6 +13365,7 @@ rust-pin-project-lite0.1
 rust-pin-project
 rust-pin-project0.4
 rust-pin-utils
+rust-piper
 rust-pipe-trait
 rust-pkcs1
 rust-pkcs5
@@ -13566,6 +13579,7 @@ rust-rpm-sequoia
 rust-rsa
 rust-rspec
 rust-rstest_macros
+rust-rstest_reuse
 rust-rstest
 rust-rtoolbox
 rust-run_script
@@ -13585,6 +13599,7 @@ rust-rustls-native-certs
 rust-rustls-pemfile
 rust-rustls
 rust-rustls-webpki
+rust-rustsec
 rust-rusttype
 rust-rustversion
 rust-rusty-fork
@@ -13636,6 +13651,7 @@ rust-serde_buf
 rust-serde_bytes
 rust-serde_cbor
 rust-serdect
+rust-serde_derive_internals
 rust-serde_derive
 rust-serde_fmt
 rust-serde_ignored
@@ -13726,6 +13742,7 @@ rust-snphost
 rust-socket2
 rust-socket2_0.4
 rust-spdx
+rust-speakersafetyd
 rust-speedate
 rust-spin_on
 rust-spki
@@ -13765,8 +13782,10 @@ rust-supports-color
 rust-supports-hyperlinks
 rust-supports-unicode
 rust-sval_buffer
+rust-sval_derive_macros
 rust-sval_derive
 rust-sval_dynamic
+rust-sval_flatten
 rust-sval_fmt
 rust-sval_json
 rust-sval_ref
@@ -13811,7 +13830,6 @@ rust-termtree
 rust-term0.6
 rust-test-case-core
 rust-test-case-macros
-rust-test-case-macros2
 rust-test-case1
 rust-tester
 rust-test-generator
@@ -14085,6 +14103,7 @@ R-zoo
 R2spec
 Saaghar
 SAASound
+sad
 safecopy
 safeint
 safetyblanket
@@ -14464,6 +14483,7 @@ squashfuse
 squeak-image
 squeak-vm
 squeekboard
+squidclamav
 squirrel
 sratom
 srcpd
@@ -14897,6 +14917,7 @@ tunneler
 TurboGears2
 tuxanci
 tuxguitar
+tvlsim
 tvtime
 twa
 tweak
@@ -15083,7 +15104,6 @@ vfrnav
 vgrep
 v-hacd
 vhd2vl
-video-downloader
 vid.stab
 viewnior
 vifm
@@ -15357,6 +15377,7 @@ xdffileio
 xdg-dbus-proxy
 xdg-desktop-portal-gnome
 xdg-desktop-portal-gtk
+xdg-desktop-portal-hyprland
 xdg-desktop-portal-kde
 xdg-desktop-portal-lxqt
 xdg-desktop-portal
