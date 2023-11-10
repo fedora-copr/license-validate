@@ -185,6 +185,7 @@ annobin
 ann
 anope
 ansible-bender
+ansible-builder
 ansible-collection-ansible-netcommon
 ansible-collection-ansible-posix
 ansible-collection-ansible-utils
@@ -638,6 +639,7 @@ biloba
 binaryen
 binclock
 bind-dyndb-ldap
+bindep
 bindfs
 bind
 bind-to-tinydns
@@ -1650,7 +1652,6 @@ dnf-plugins-extras
 dnf
 dnf5
 DNS-Compliance-Testing
-dnscrypt-proxy-gui
 dnscrypt-proxy
 dnsdist
 dnsenum
@@ -7207,7 +7208,6 @@ ldapdomaindump
 ldapjdk
 ldapvi
 ldc
-ldc1.30
 ldc1.32
 ldeep
 ldns
@@ -14330,6 +14330,7 @@ python-aiomysql
 python-aionotion
 python-aioodbc
 python-aiopg
+python-aioquic
 python-aioresponses
 python-aiorestapi
 python-aiorpcx
@@ -19068,6 +19069,7 @@ rust-cursive0.16
 rust-curve25519-dalek
 rust-custom_error
 rust-cvss
+rust-cvt
 rust-cxxbridge-flags
 rust-cxxbridge-macro
 rust-cxx-build
@@ -20619,6 +20621,7 @@ rust-snafu-derive
 rust-snafu
 rust-snake_case
 rust-snapbox-macros
+rust-snapbox
 rust-snphost
 rust-socket2
 rust-socket2_0.4
@@ -20745,6 +20748,7 @@ rust-test-case1
 rust-tester
 rust-test-generator
 rust-testing_logger
+rust-test-log
 rust-text-block-macros
 rust-textwrap
 rust-textwrap0.11
@@ -21666,6 +21670,7 @@ sqlite2
 sqljet
 sqlninja
 sqm-scripts
+squashfs-tools-ng
 squashfs-tools
 squashfuse
 squeak-image
