@@ -41,6 +41,7 @@ advancecomp
 adwaita-blue-gtk-theme
 adwaita-icon-theme
 adw-gtk3-theme
+aemu
 aeskeyfind
 aespipe
 afetch
@@ -254,6 +255,7 @@ asc-music
 asc
 asdcplib
 asio
+asmjit
 asm6809
 asnip
 asnmap
@@ -463,6 +465,7 @@ bkhive
 blackbox
 blackbox-terminal
 black-hole-solver
+blake3
 blaze
 bleachbit
 blender
@@ -1076,7 +1079,6 @@ d-din-fonts
 ddiskit
 ddnet
 ddpt
-dd_rescue
 ddrescue
 ddupdate
 dd2
@@ -1678,7 +1680,6 @@ exim
 exodusii
 exo
 expatpp
-expat
 expected
 external-editor-revived
 extra-cmake-modules
@@ -4157,7 +4158,6 @@ golang-github-prometheus-node-exporter
 golang-github-prometheus-procfs
 golang-github-prometheus-prom2json
 golang-github-prometheus
-golang-github-prometheus-tsdb
 golang-github-protobuf
 golang-github-protonmail-crypto
 golang-github-puerkitobio-goquery
@@ -4827,6 +4827,7 @@ gtk-doc
 gtkd
 gtk+extra
 gtk-gnutella
+gtkgreet
 gtkhash
 gtkhtml3
 gtkimageview
@@ -4930,6 +4931,7 @@ hedley
 heimdall
 heimdal
 heisenbug-backgrounds
+helix
 HepMC
 HepMC3
 herbstluftwm
@@ -5137,6 +5139,7 @@ inertiablast
 infinipath-psm
 inchi
 inih
+initoverlayfs
 ini2toml
 inkscape-psd
 innoextract
@@ -5355,7 +5358,6 @@ js-jquery-ui-touch-punch
 js-jsroot
 jsmath-fonts
 jsoncpp
-json-c
 json-fortran
 json-glib
 json-parser
@@ -5691,6 +5693,7 @@ kf6-ktexteditor
 kf6-ktexttemplate
 kf6-ktextwidgets
 kf6-kunitconversion
+kf6-kuserfeedback
 kf6-kwallet
 kf6-kwayland
 kf6-kwidgetsaddons
@@ -6001,6 +6004,7 @@ levmar
 lexertl14
 lgogdownloader
 lhapdf
+lhasa
 libabw
 libacars
 libaccounts-glib
@@ -6829,6 +6833,7 @@ luxcorerender
 lvm2
 lv2-abGate
 lv2-c++-tools
+lv2-eq10q
 lv2-fabla
 lv2-ir-plugins
 lv2-ll-plugins
@@ -7082,7 +7087,6 @@ microcode_ctl
 microdnf
 micronucleus
 micropipenv
-micropython
 micro
 midisport-firmware
 migemo
@@ -8787,7 +8791,6 @@ perl-Config-ApacheFormat
 perl-Config-Augeas
 perl-Config-Auto
 perl-Config-Extend-MySQL
-perl-Config-General
 perl-Config-Generator
 perl-Config-GitLike
 perl-Config-Grammar
@@ -8919,7 +8922,6 @@ perl-Data-AsObject
 perl-Data-Binary
 perl-Data-Clone
 perl-Data-Constraint
-perl-Data-Denter
 perl-Data-Dmp
 perl-Data-Dump-Color
 perl-Data-Dumper-Concise
@@ -8958,7 +8960,6 @@ perl-Data-Serializer
 perl-Data-Stag
 perl-Data-Stream-Bulk
 perl-Data-Structure-Util
-perl-Data-Taxi
 perl-Data-TreeDumper-Renderer-GTK
 perl-Data-TreeDumper
 perl-Data-Tumbler
@@ -9684,7 +9685,6 @@ perl-LWP-UserAgent-Determined
 perl-LWP-UserAgent-DNS-Hosts
 perl-Mail-Alias
 perl-Mail-Box-IMAP4
-perl-Mail-Box-Parser-C
 perl-Mail-Box-POP3
 perl-Mail-Box
 perl-Mail-IMAPClient
@@ -10267,7 +10267,6 @@ perl-RDF-TriN3
 perl-ReadonlyX
 perl-Reaper
 perl-Redis
-perl-re-engine-PCRE
 perl-Regexp-Assemble-Compressed
 perl-Regexp-Assemble
 perl-Regexp-Grammars
@@ -10628,7 +10627,6 @@ perl-Test-Valgrind
 perl-Test-Vars
 perl-Test-Version
 perl-Test-Warnings
-perl-Test-Without-Module
 perl-Test-WriteVariants
 perl-Test-WWW-Mechanize-Catalyst
 perl-Test-WWW-Mechanize-CGIApp
@@ -12846,6 +12844,7 @@ python-mailmerge
 python-makeelf
 python-makefun
 python-mako
+python-managesieve
 python-manatools
 python-manilaclient
 python-mapbox-earcut
@@ -13293,6 +13292,7 @@ python-pycodestyle
 python-pycoingecko
 python-pycomfoair
 python-pycomm3
+python-pycomposefile
 python-pycosat
 python-pycountry
 python-pyct
@@ -14265,6 +14265,7 @@ python3-simpletal
 python3-zope-fixers
 python3.10
 python3.11
+python3.11-testpath-epel
 python3.12
 python3.13
 python3.6
@@ -14501,7 +14502,6 @@ ratpoison
 rats
 R-AUC
 ravada
-rawstudio
 rawtherapee
 raysession
 R-backports
@@ -15236,6 +15236,7 @@ rust-below-store
 rust-below-view
 rust-bencher
 rust-bigdecimal
+rust-bigdecimal0.3
 rust-bindgen-cli
 rust-bindgen
 rust-bindgen0.59
@@ -15939,6 +15940,7 @@ rust-inventory0.2
 rust-io-close
 rust-iocuddle
 rust-io-lifetimes
+rust-io-lifetimes1
 rust-io-uring
 rust-io-uring0.5
 rust-iovec
@@ -16190,6 +16192,7 @@ rust-opaque-debug
 rust-openat-ext
 rust-openat
 rust-opener
+rust-opener0.5
 rust-openpgp-cert-d
 rust-openssh-keys
 rust-openssl-macros
@@ -16368,24 +16371,14 @@ rust-pure-rust-locales
 rust-pwd
 rust-pyo3-build-config
 rust-pyo3-build-config0.15
-rust-pyo3-build-config0.16
-rust-pyo3-build-config0.18
 rust-pyo3-ffi
-rust-pyo3-ffi0.16
-rust-pyo3-ffi0.18
 rust-pyo3-log
 rust-pyo3-macros-backend
 rust-pyo3-macros-backend0.15
-rust-pyo3-macros-backend0.16
-rust-pyo3-macros-backend0.18
 rust-pyo3-macros
 rust-pyo3-macros0.15
-rust-pyo3-macros0.16
-rust-pyo3-macros0.18
 rust-pyo3
 rust-pyo3_0.15
-rust-pyo3_0.16
-rust-pyo3_0.18
 rust-pyproject-toml
 rust-pythonize
 rust-python-pkginfo
@@ -18315,6 +18308,7 @@ whsniff
 wicked
 wide-dhcpv6
 widelands
+widevine-installer
 wiggle
 wike
 wiki2beamer

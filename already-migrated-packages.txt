@@ -42,6 +42,7 @@ advancecomp
 adwaita-icon-theme
 adwaita-qt
 adw-gtk3-theme
+aemu
 aerc
 aesfix
 aespipe
@@ -193,6 +194,7 @@ asciigraph
 asciinema
 ascii
 asio
+asmjit
 asnmap
 aspell-af
 aspell-bg
@@ -274,6 +276,7 @@ azote
 azove
 azure-cli
 a2ps
+a52dec
 babeld
 babel
 babeltrace
@@ -329,6 +332,7 @@ bitlbee-facebook
 bitmap-fonts
 bitwise
 blackbox-terminal
+blake3
 blender
 bletchmame
 blinken
@@ -371,6 +375,7 @@ bpfmon
 bpftrace
 braille-printer-app
 brainfuck
+breeze-icon-theme
 breezy
 brewtarget
 brial
@@ -689,6 +694,7 @@ dbus-python
 dbus
 dcraw
 ddd
+dd_rescue
 deal
 debhelper
 debian-keyring
@@ -889,6 +895,7 @@ evtest
 exfatprogs
 exif
 exiv2
+expat
 expected
 expect
 external-editor-revived
@@ -1209,6 +1216,7 @@ GeoIP
 geoipupdate
 geolite2
 geomorph
+geos
 gerbera
 gerbv
 gerrymander
@@ -1429,6 +1437,7 @@ ghc-gitrev
 ghc-glib
 ghc-Glob
 ghc-GLURaw
+ghc-GLUT
 ghc-graphviz
 ghc-gtk
 ghc-gtk3
@@ -2263,8 +2272,12 @@ golang-github-projectdiscovery-freeport
 golang-github-projectdiscovery-goconfig
 golang-github-projectdiscovery-ratelimit
 golang-github-projectdiscovery-utils
+golang-github-prometheus-client-model
 golang-github-prometheus-client
+golang-github-prometheus-common
 golang-github-prometheus-community-runit
+golang-github-prometheus-node-exporter
+golang-github-prometheus-procfs
 golang-github-protobuf
 golang-github-protonmail-crypto
 golang-github-puerkitobio-goquery
@@ -2507,12 +2520,14 @@ gspell
 gst-devtools
 gst-editing-services
 gstreamer1-plugin-libav
+gstreamer1-plugins-base
 gstreamer1
 gst
 gthumb
 GtkAda
 GtkAda3
 gtkglext
+gtkgreet
 gtkmm3.0
 gtkmm4.0
 gtkpod
@@ -2574,10 +2589,12 @@ hatch
 hcloud
 hcxtools
 hdmf-common-schema
+hdparm
 HdrHistogram_c
 healpix
 hedgewars
 hedley
+helix
 hello
 help2man
 HepMC3
@@ -2872,6 +2889,7 @@ indi-3rdparty-libraries
 inih
 iniparser
 initial-setup
+initoverlayfs
 initscripts
 inkscape
 inksmoto
@@ -3000,6 +3018,7 @@ jrnl
 js-d3-flame-graph
 jsch
 js-jsroot
+json-c
 json-glib
 jsonnet
 jsonrpc-glib
@@ -3240,6 +3259,7 @@ kf6-ktexteditor
 kf6-ktexttemplate
 kf6-ktextwidgets
 kf6-kunitconversion
+kf6-kuserfeedback
 kf6-kwallet
 kf6-kwayland
 kf6-kwidgetsaddons
@@ -3350,12 +3370,14 @@ lfsc
 lftp
 L-function
 lhapdf
+lhasa
 libabigail
 libabw
 libadwaita
 libahp-gt
 libaiff
 libaio
+libao
 libappstream-glib
 libarchive
 libarrow
@@ -3414,6 +3436,7 @@ libdmx
 libdnf
 libdrm-armada
 libdrm
+libdvdnav
 libdwarf
 libdxflib
 libeasyfc
@@ -3501,6 +3524,7 @@ libimobiledevice
 libinput
 libinsane
 libinstpatch
+libiptcdata
 libipt
 libipuz
 libirecovery
@@ -3524,6 +3548,7 @@ liblangtag
 liblastfm
 liblayout
 liblcf
+libldac
 libldb
 liblerc
 libloader
@@ -3651,6 +3676,7 @@ librtprocess
 librttopo
 librvngabw
 libsamplerate
+libsass
 libsavitar
 libscn
 libsearpc
@@ -3727,6 +3753,7 @@ libvisio
 libvisual
 libvncserver
 libvoikko
+libvorbis
 libvpd
 libvpx
 libvpx7
@@ -3928,6 +3955,7 @@ lunchbox
 luxcorerender
 lv
 lv2dynparam
+lv2-eq10q
 lv2-zynadd-plugins
 lxappearance-obconf
 lxappearance
@@ -4640,6 +4668,7 @@ openbios
 openblas
 openbox
 opencc
+opencl-filesystem
 opencl-headers
 openconnect
 opencore-amr
@@ -4717,6 +4746,7 @@ ostree
 otf2
 overpass-fonts
 owfs
+oxygen-icon-theme
 pacemaker
 PackageKit
 packetdrill
@@ -4972,6 +5002,7 @@ perl-Class-MethodMaker
 perl-Class-Method-Modifiers
 perl-Class-Mix
 perl-Class-Observable
+perl-Class-Prototyped
 perl-Class-ReturnValue
 perl-Class-Singleton
 perl-Class-Throwable
@@ -4979,6 +5010,7 @@ perl-Class-Tiny
 perl-Class-Trigger
 perl-Class-Unload
 perl-Class-XSAccessor
+perl-Clone-Choose
 perl-Clone-PP
 perl-Clone
 perl-Code-TidyAll-Plugin-Test-Vars
@@ -4999,6 +5031,7 @@ perl-Compress-Raw-Zlib
 perl-Compress-Stream-Zstd
 perl-Config-Any
 perl-Config-AutoConf
+perl-Config-General
 perl-Config-INI-Reader-Ordered
 perl-Config-Model-Backend-Yaml
 perl-Config-Model
@@ -5096,6 +5129,7 @@ perl-Data-Buffer
 perl-Data-Clone
 perl-Data-Compare
 perl-Data-Constraint
+perl-Data-Denter
 perl-Data-Dmp
 perl-Data-Dumper-Names
 perl-Data-Dumper
@@ -5115,7 +5149,9 @@ perl-Data-Peek
 perl-Data-Perl
 perl-Data-Section-Simple
 perl-Data-Section
+perl-Data-Serializer
 perl-Data-Stag
+perl-Data-Taxi
 perl-Data-TreeDumper-Renderer-GTK
 perl-Data-TreeDumper
 perl-Data-Tumbler
@@ -5642,6 +5678,7 @@ perl-LWP-Protocol-https
 perl-LWP-Protocol-http10
 perl-Mail-AuthenticationResults
 perl-Mail-Box-IMAP4
+perl-Mail-Box-Parser-C
 perl-Mail-Box-POP3
 perl-Mail-DKIM
 perl-Mail-IMAPTalk
@@ -6047,6 +6084,7 @@ perl-RDF-NS
 perl-Readonly
 perl-Readonly-XS
 perl-Redis
+perl-re-engine-PCRE
 perl-re-engine-RE2
 perl-Ref-Util
 perl-Ref-Util-XS
@@ -6345,6 +6383,7 @@ perl-Test-Vars
 perl-Test-Version
 perl-Test-Warnings
 perl-Test-Warn
+perl-Test-Without-Module
 perl-Test-WWW-Mechanize-PSGI
 perl-Test-WWW-Mechanize
 perl-Test-XML
@@ -7550,6 +7589,7 @@ python-pathable
 python-pathspec
 python-patch-ng
 python-patiencediff
+python-pcodedmp
 python-pdfminer
 python-pdf2image
 python-pdm-backend
@@ -7614,6 +7654,7 @@ python-pycatch22
 python-pycdio
 python-pycdlib
 python-pyclip
+python-pycomposefile
 python-pycotap
 python-pycountry
 python-pycparser
@@ -8035,6 +8076,7 @@ python3-mypy
 python3-poppler-qt5
 python3.10
 python3.11
+python3.11-testpath-epel
 python3.12
 python3.13
 python38-hvac
@@ -8167,6 +8209,7 @@ qxmpp
 rabbitsign
 rabbitvcs
 racket
+radare2
 radiotray-ng
 radsecproxy
 raft
@@ -8182,6 +8225,7 @@ R-arules
 rasqal
 ratpoints
 ravada
+rawstudio
 rawtherapee
 rbanffy-3270-fonts
 rbenv
@@ -8963,6 +9007,7 @@ rust-below-view
 rust-benfred-read-process-memory
 rust-bencher
 rust-bigdecimal
+rust-bigdecimal0.3
 rust-binascii
 rust-bincode
 rust-bindgen-cli
@@ -9832,6 +9877,7 @@ rust-inventory0.2
 rust-io-close
 rust-iocuddle
 rust-io-lifetimes
+rust-io-lifetimes1
 rust-io-uring
 rust-io-uring0.5
 rust-iovec
@@ -10173,6 +10219,7 @@ rust-opaque-debug
 rust-openat-ext
 rust-openat
 rust-opener
+rust-opener0.5
 rust-openpgp-cert-d
 rust-open
 rust-openssh-keys
@@ -10420,24 +10467,14 @@ rust-pure-rust-locales
 rust-pwd
 rust-pyo3-build-config
 rust-pyo3-build-config0.15
-rust-pyo3-build-config0.16
-rust-pyo3-build-config0.18
 rust-pyo3-ffi
-rust-pyo3-ffi0.16
-rust-pyo3-ffi0.18
 rust-pyo3-log
 rust-pyo3-macros-backend
 rust-pyo3-macros-backend0.15
-rust-pyo3-macros-backend0.16
-rust-pyo3-macros-backend0.18
 rust-pyo3-macros
 rust-pyo3-macros0.15
-rust-pyo3-macros0.16
-rust-pyo3-macros0.18
 rust-pyo3
 rust-pyo3_0.15
-rust-pyo3_0.16
-rust-pyo3_0.18
 rust-pyproject-toml
 rust-pythonize
 rust-python-launcher
@@ -11580,6 +11617,7 @@ tesseract
 tesseract-tessdata
 testcloud
 testng
+testssl
 tetgen
 tex-fonts-hebrew
 texinfo
@@ -11694,6 +11732,7 @@ ucx
 udica
 udis86
 ufdbGuard
+ufraw
 ufw
 uglify-js
 ugrep
@@ -11816,6 +11855,7 @@ vulkan-tools
 vulkan-validation-layers
 vultr-cli
 vym
+v4l-utils
 wagesreiter-patrick-hand-fonts
 wagyu
 WALinuxAgent
@@ -11839,6 +11879,7 @@ wdt
 weasyprint
 webkit2gtk4.0
 webp-pixbuf-loader
+webrtc-audio-processing
 websvn
 weiweihuanghuang-work-sans-fonts
 weldr-client
@@ -11856,6 +11897,7 @@ whipper
 whois
 whowatch
 why3
+widevine-installer
 wiiuse
 wike
 will-crash

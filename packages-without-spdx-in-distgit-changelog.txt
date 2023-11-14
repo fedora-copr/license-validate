@@ -32,6 +32,7 @@ adplug
 adwaita-blue-gtk-theme
 adwaita-icon-theme
 adw-gtk3-theme
+aemu
 aeskeyfind
 aespipe
 afetch
@@ -219,6 +220,7 @@ asciiquarium
 asc-music
 asc
 asdcplib
+asmjit
 asm6809
 asnip
 asnmap
@@ -310,7 +312,6 @@ axmail
 ax25-apps
 ax25-tools
 a2jmidid
-a52dec
 backintime
 backup-light
 backupninja
@@ -409,6 +410,7 @@ bkhive
 blackbox
 blackbox-terminal
 black-hole-solver
+blake3
 blaze
 bleachbit
 blender
@@ -930,7 +932,6 @@ d-din-fonts
 ddiskit
 ddnet
 ddpt
-dd_rescue
 ddrescue
 ddupdate
 dd2
@@ -1478,7 +1479,6 @@ exim
 exodusii
 exo
 expatpp
-expat
 external-editor-revived
 extra-cmake-modules
 extractpdfmark
@@ -3419,7 +3419,6 @@ golang-github-prometheus-node-exporter
 golang-github-prometheus-procfs
 golang-github-prometheus-prom2json
 golang-github-prometheus
-golang-github-prometheus-tsdb
 golang-github-protobuf
 golang-github-protonmail-crypto
 golang-github-puerkitobio-goquery
@@ -4042,7 +4041,6 @@ gstreamer-plugins-fc
 gstreamer1-doc
 gstreamer1-plugin-libav
 gstreamer1-plugins-bad-free
-gstreamer1-plugins-base
 gstreamer1-plugins-good
 gstreamer1-plugins-ugly-free
 gstreamer1-rtsp-server
@@ -4061,6 +4059,7 @@ gtk-doc
 gtkd
 gtk+extra
 gtk-gnutella
+gtkgreet
 gtkhash
 gtkhtml3
 gtkimageview
@@ -4139,13 +4138,13 @@ hdf5
 hdhomerun
 hd-idle
 hdmf-common-schema
-hdparm
 headsetcontrol
 heaptrack
 heat-cfntools
 heimdall
 heimdal
 heisenbug-backgrounds
+helix
 HepMC
 HepMC3
 herbstluftwm
@@ -4324,6 +4323,7 @@ inertiablast
 infinipath-psm
 inchi
 inih
+initoverlayfs
 ini2toml
 inkscape-psd
 innoextract
@@ -4510,7 +4510,6 @@ js-jquery-ui-touch-punch
 js-jsroot
 jsmath-fonts
 jsoncpp
-json-c
 json-fortran
 json-parser
 jsonrpc-glib
@@ -4710,6 +4709,7 @@ kf6-ktexteditor
 kf6-ktexttemplate
 kf6-ktextwidgets
 kf6-kunitconversion
+kf6-kuserfeedback
 kf6-kwallet
 kf6-kwayland
 kf6-kwidgetsaddons
@@ -4998,6 +4998,7 @@ levien-museum-fonts
 levmar
 lgogdownloader
 lhapdf
+lhasa
 libacars
 libaccounts-glib
 libaccounts-qt
@@ -5006,7 +5007,6 @@ libaesgm
 libAfterImage
 libahp-gt
 libalkimia
-libao
 libappindicator
 libapreq2
 libarcus
@@ -5093,7 +5093,6 @@ libdockapp
 libdsk
 libdstr
 libdvbpsi
-libdvdnav
 libdvdread
 libdv
 libdxfrw
@@ -5204,7 +5203,6 @@ libinjection
 libint
 libint2
 libiodbc
-libiptcdata
 libipuz
 libircclient
 libirecovery
@@ -5233,7 +5231,6 @@ libkscreen-qt5
 libksysguard
 liblas
 liblbfgs
-libldac
 libldm
 libliftoff
 liblinear
@@ -5386,7 +5383,6 @@ librsync
 librs232
 librx
 libsafec
-libsass
 libsavitar
 libsbml
 libsbw
@@ -5488,7 +5484,6 @@ libvirt-test-API
 libvisual
 libvma
 libvmi
-libvorbis
 libvpx7
 libvterm
 libv3270
@@ -5668,6 +5663,7 @@ luxcorerender
 lvm2
 lv2-abGate
 lv2-c++-tools
+lv2-eq10q
 lv2-fabla
 lv2-ir-plugins
 lv2-ll-plugins
@@ -6703,7 +6699,6 @@ openbox-theme-mistral-thin-dark
 openbox-theme-mistral-thin
 opencascade
 opencity
-opencl-filesystem
 openclonk
 OpenColorIO
 openconnect-gateway
@@ -7203,7 +7198,6 @@ perl-Class-Inner
 perl-Class-Iterator
 perl-Class-Measure
 perl-Class-Observable
-perl-Class-Prototyped
 perl-Class-Refresh
 perl-CLASS
 perl-Class-Std-Fast
@@ -7212,7 +7206,6 @@ perl-Class-Virtual
 perl-Class-Whitehole
 perl-CLI-Osprey
 perl-Clipboard
-perl-Clone-Choose
 perl-Clownfish-CFC
 perl-Clownfish
 perl-Color-Calc
@@ -7224,7 +7217,6 @@ perl-Config-ApacheFormat
 perl-Config-Augeas
 perl-Config-Auto
 perl-Config-Extend-MySQL
-perl-Config-General
 perl-Config-Generator
 perl-Config-GitLike
 perl-Config-Grammar
@@ -7300,7 +7292,6 @@ perl-Dancer2
 perl-Data-AMF
 perl-Data-AsObject
 perl-Data-Constraint
-perl-Data-Denter
 perl-Data-Dmp
 perl-Data-Dump-Color
 perl-Data-Dumper-Concise
@@ -7327,10 +7318,8 @@ perl-Data-Random
 perl-Data-Record
 perl-Data-Report
 perl-Data-Rmap
-perl-Data-Serializer
 perl-Data-Stream-Bulk
 perl-Data-Structure-Util
-perl-Data-Taxi
 perl-Data-Types
 perl-Data-Uniqid
 perl-Data-Validate-Domain
@@ -7750,7 +7739,6 @@ perl-LWP-Protocol-PSGI
 perl-LWP-UserAgent-Determined
 perl-LWP-UserAgent-DNS-Hosts
 perl-Mail-Alias
-perl-Mail-Box-Parser-C
 perl-Mail-Box
 perl-Mail-IMAPClient
 perl-Mail-Procmail
@@ -8096,7 +8084,6 @@ perl-RDF-TrineX-Compatibility-Attean
 perl-RDF-TriN3
 perl-ReadonlyX
 perl-Reaper
-perl-re-engine-PCRE
 perl-Regexp-Assemble-Compressed
 perl-Regexp-Grammars
 perl-Regexp-Pattern-Perl
@@ -8288,7 +8275,6 @@ perl-Test-Toolbox
 perl-Test-Type
 perl-Test-Unit-Runner-Xml
 perl-Test-Unit
-perl-Test-Without-Module
 perl-Test-WriteVariants
 perl-Test-WWW-Mechanize-Catalyst
 perl-Test-WWW-Mechanize-CGIApp
@@ -10553,6 +10539,7 @@ python-pycodestyle
 python-pycoingecko
 python-pycomfoair
 python-pycomm3
+python-pycomposefile
 python-pycosat
 python-pycxx
 python-pydantic-core
@@ -11407,6 +11394,7 @@ python3-py3dns
 python3-saml
 python3-simpletal
 python3-zope-fixers
+python3.11-testpath-epel
 python3.6
 python38-hvac
 python38-ntlm-auth-epel
@@ -11574,7 +11562,6 @@ rabbitsign
 R-abind
 raceintospace
 R-acepack
-radare2
 radcli
 raddump
 radeon-profile-daemon
@@ -11620,7 +11607,6 @@ ratools
 ratpoison
 rats
 R-AUC
-rawstudio
 raysession
 R-backports
 rbanffy-3270-fonts
@@ -12330,6 +12316,7 @@ rust-below-store
 rust-below-view
 rust-bencher
 rust-bigdecimal
+rust-bigdecimal0.3
 rust-bindgen-cli
 rust-bindgen
 rust-bindgen0.59
@@ -13029,6 +13016,7 @@ rust-inventory0.1
 rust-inventory0.2
 rust-io-close
 rust-io-lifetimes
+rust-io-lifetimes1
 rust-io-uring
 rust-io-uring0.5
 rust-iovec
@@ -13280,6 +13268,7 @@ rust-opaque-debug
 rust-openat-ext
 rust-openat
 rust-opener
+rust-opener0.5
 rust-openpgp-cert-d
 rust-openssh-keys
 rust-openssl-macros
@@ -13458,24 +13447,14 @@ rust-pure-rust-locales
 rust-pwd
 rust-pyo3-build-config
 rust-pyo3-build-config0.15
-rust-pyo3-build-config0.16
-rust-pyo3-build-config0.18
 rust-pyo3-ffi
-rust-pyo3-ffi0.16
-rust-pyo3-ffi0.18
 rust-pyo3-log
 rust-pyo3-macros-backend
 rust-pyo3-macros-backend0.15
-rust-pyo3-macros-backend0.16
-rust-pyo3-macros-backend0.18
 rust-pyo3-macros
 rust-pyo3-macros0.15
-rust-pyo3-macros0.16
-rust-pyo3-macros0.18
 rust-pyo3
 rust-pyo3_0.15
-rust-pyo3_0.16
-rust-pyo3_0.18
 rust-pyproject-toml
 rust-pythonize
 rust-python-pkginfo
@@ -14966,7 +14945,6 @@ udt
 udunits2
 ufiformat
 uflash
-ufraw
 ufw-kde
 ufw
 ugene
@@ -15192,7 +15170,6 @@ vttest
 VulkanMemoryAllocator
 vultr
 vxl
-v4l-utils
 v4l2ucp
 v8-314
 wabt
@@ -15236,7 +15213,6 @@ webextension-token-signing
 webkitgtk
 webkit2gtk4.0
 webkit2-sharp
-webrtc-audio-processing
 websec
 websocketpp
 webtech
@@ -15266,6 +15242,7 @@ whsniff
 wicked
 wide-dhcpv6
 widelands
+widevine-installer
 wiggle
 wike
 wiki2beamer
