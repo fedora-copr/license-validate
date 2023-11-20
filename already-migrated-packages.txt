@@ -57,6 +57,9 @@ AGReader
 ahcpd
 aide
 aircrack-ng
+airinv
+airrac
+airtsp
 akonadi
 alacarte
 aldo
@@ -115,7 +118,6 @@ anthy-unicode
 antic
 antimicrox
 antiword
-antlr-maven-plugin
 antlr
 antlrworks
 antlr3
@@ -154,6 +156,7 @@ api-sanity-checker
 apostrophe
 appeditor
 appstream-data
+appstream-generator
 appstream
 appstream0.16
 appx-util
@@ -174,6 +177,7 @@ arc-kde
 ardour6
 ardour7
 ardour8
+argon2
 argparse-manpage
 argus
 argyllcms
@@ -308,7 +312,6 @@ beakerlib-libraries
 bear
 beefy-miracle-kde-theme
 bee2
-belle-sip
 bench
 beust-jcommander
 bfs
@@ -700,6 +703,7 @@ debhelper
 debian-keyring
 debmirror
 debugbreak
+debugedit
 deepin-account-faces
 deepin-calculator
 deepin-calendar
@@ -800,6 +804,7 @@ drat2er
 drbdlinks
 dr_libs
 drm_info
+dropwatch
 DSDP
 d-spy
 dssp
@@ -1206,6 +1211,7 @@ gdouros-musica-fonts
 gdouros-symbola-fonts
 gd
 gearhead2
+gearmand
 gedit-control-your-tabs
 gegl04
 genchemlab
@@ -2475,6 +2481,7 @@ google-roboto-slab-fonts
 google-rubik-fonts
 gops
 go-rpm-macros
+gotcha
 gource
 gpart
 gpaste
@@ -2523,6 +2530,7 @@ gstreamer1-plugin-libav
 gstreamer1-plugins-base
 gstreamer1
 gst
+gtest
 gthumb
 GtkAda
 GtkAda3
@@ -2615,6 +2623,7 @@ hledger-web
 hlint
 hostapd
 hostname
+hotspot
 hplip
 hpx
 hqx
@@ -2821,12 +2830,14 @@ check
 chessx
 chibi-scheme
 chipmunk
+chirp
 chkconfig
 chkrootkit
 choqok
 chromium
 chrony
 chrpath
+iaito
 iapetal
 ibus-anthy
 ibus-cangjie
@@ -2924,6 +2935,7 @@ iputils
 ipvsadm
 ipxe
 irqbalance
+iscsi-initiator-utils
 isns-utils
 iso-codes
 isomaster
@@ -3018,6 +3030,7 @@ jrnl
 js-d3-flame-graph
 jsch
 js-jsroot
+jsoncpp
 json-c
 json-glib
 jsonnet
@@ -3363,6 +3376,7 @@ ldc1.32
 ldns
 leatherman
 ledmon
+legofy
 leland-fonts
 lemonldap-ng
 lexertl14
@@ -3548,6 +3562,7 @@ liblangtag
 liblastfm
 liblayout
 liblcf
+liblc3
 libldac
 libldb
 liblerc
@@ -3561,6 +3576,7 @@ libmad
 libmatheval
 libmatchbox
 libmaxminddb
+libmbim
 libmd
 libmediainfo
 libmemcached-awesome
@@ -3646,6 +3662,7 @@ libpst
 libptytty
 libpwquality
 libqb
+libqmi
 libqrtr-glib
 libqtolm
 libquotient
@@ -3717,6 +3734,7 @@ libsvm
 libsv
 libtalloc
 libtasn1
+libtbox
 libtdb
 libtevent
 libtexprintf
@@ -3854,6 +3872,7 @@ lmdbxx
 Lmod
 logrotate
 logwatch
+log4cplus
 log4cxx
 log4j
 lohit-assamese-fonts
@@ -4024,6 +4043,7 @@ matchbox-window-manager
 matio
 matrix-synapse
 maturin
+mat2
 maven-antrun-plugin
 maven-archiver
 maven-artifact-transfer
@@ -4087,6 +4107,7 @@ memtailor
 memtest86+
 menu-cache
 mepack
+merkaartor
 merkuro
 mesa-demos
 mesa-libGLU
@@ -4394,10 +4415,15 @@ net-snmp
 netsurf-buildsystem
 nettle
 net-tools
+network-manager-applet
+NetworkManager-fortisslvpn
 NetworkManager-libreswan
 NetworkManager-l2tp
+NetworkManager-openvpn
+NetworkManager-pptp
 NetworkManager
 NetworkManager-sstp
+NetworkManager-vpnc
 neverball
 newsx
 newt
@@ -4419,6 +4445,7 @@ nmon
 nmstate
 nnn
 nodejs-cjs-module-lexer
+nodejs-undici
 nodejs20
 nomarch
 noopenh264
@@ -4722,11 +4749,11 @@ openxr
 optee_client
 optee_os
 oqsprovider
+orage
 ORBit2
 orca
 ormolu
 orocos-kdl
-ortp
 osbuild-composer
 osbuild
 oscap-anaconda-addon
@@ -6580,6 +6607,7 @@ pgmodeler
 pg_repack
 phd2
 phosh-mobile-settings
+photoqt
 php-adodb
 php-ast
 php-composer-spdx-licenses
@@ -6673,6 +6701,7 @@ php-phpunit-php-timer6
 php-phpunit-php-token-stream4
 php-phpunit-Text-Template
 php-phpunit-Version
+php-sabre-dav4
 php-sabre-http5
 php-sabre-uri2
 php-sabre-vobject4
@@ -6809,6 +6838,7 @@ poke
 polarsys-b612-fonts
 policycoreutils
 polkit-pkla-compat
+polkit-qt-1
 polkit
 polyclipping
 polymake
@@ -7089,6 +7119,7 @@ python-crossword
 python-cryptography
 python-crypto
 python-cssutils
+python-cups
 python-cvxopt
 python-cyipopt
 python-cysignals
@@ -7637,6 +7668,7 @@ python-prompt-toolkit
 python-proto-plus
 python-psutil
 python-psycopg2
+python-ptyprocess
 python-pulp
 python-pure-protobuf
 python-puzpy
@@ -7813,6 +7845,7 @@ python-rope
 python-roundrobin
 python-rpds-py
 python-rpi-gpio2
+python-rpmautospec-core
 python-rpm-generators
 python-rpm-macros
 python-rq
@@ -7953,6 +7986,7 @@ python-term-background
 python-terminado
 python-testing.common.database
 python-testing.postgresql
+python-testpath
 python-testtools
 python-texext
 python-textdistance
@@ -8069,6 +8103,7 @@ python-zope-testrunner
 python-zopeundo
 python-zopfli
 python-zstandard
+python-zstd
 python3-cangjie
 python3-discid
 python3-docs
@@ -8214,6 +8249,7 @@ radiotray-ng
 radsecproxy
 raft
 rakudo
+randomx
 range-v3
 rang
 R-ape
@@ -8236,6 +8272,7 @@ RBTools
 rclone
 rc
 rcs
+rdfind
 rdiff-backup
 R-discretization
 rdist
@@ -8298,6 +8335,7 @@ rit-rachana-fonts
 rit-sundar-fonts
 rit-tn-joy-fonts
 river
+rizin
 rkcommon
 rkdeveloptool
 R-kernlab
@@ -8307,8 +8345,10 @@ rlottie
 R-lpSolve
 R-measurements
 R-metaheuristicopt
+rmol
 R-multcomp
 rnp
+rocalution
 rocblas
 rocclr
 rocm-cmake
@@ -8797,7 +8837,6 @@ rubygem-timers
 rubygem-tins
 rubygem-tk
 rubygem-tomlrb
-rubygem-transaction-simple
 rubygem-treetop
 rubygem-ttfunk
 rubygem-tty-color
@@ -9088,6 +9127,8 @@ rust-capnp
 rust-cap
 rust-caps
 rust-cargo-config2
+rust-cargo-credential-libsecret
+rust-cargo-credential
 rust-cargo-c
 rust-cargo-husky
 rust-cargo-insta
@@ -9107,6 +9148,7 @@ rust-castaway
 rust-cast
 rust-cbc
 rust-cbindgen
+rust-cbindgen0.24
 rust-cc
 rust-cdylib-link-lines
 rust-cexpr
@@ -9157,6 +9199,7 @@ rust-colored_json2
 rust-colored
 rust-colored1
 rust-colorful
+rust-colorgrad
 rust-colorchoice
 rust-color-print-proc-macro
 rust-color-print
@@ -9417,6 +9460,7 @@ rust-entities
 rust-enum-as-inner
 rust-enumber
 rust-enum_dispatch
+rust-enum-display-derive
 rust-enumflags2_derive
 rust-enumflags2_derive0.6
 rust-enumflags2
@@ -9453,6 +9497,7 @@ rust-esphome
 rust-etcetera
 rust-ethtool
 rust-event-listener
+rust-event-listener-strategy
 rust-event-listener2
 rust-event-manager
 rust-executable-path
@@ -9920,6 +9965,16 @@ rust-json5
 rust-just
 rust-jwalk
 rust-jwalk0.6
+rust-jxl-bitstream
+rust-jxl-coding
+rust-jxl-color
+rust-jxl-frame
+rust-jxl-grid
+rust-jxl-image
+rust-jxl-modular
+rust-jxl-oxide
+rust-jxl-render
+rust-jxl-vardct
 rust-kamadak-exif
 rust-keccak
 rust-khronos_api
@@ -10467,14 +10522,19 @@ rust-pure-rust-locales
 rust-pwd
 rust-pyo3-build-config
 rust-pyo3-build-config0.15
+rust-pyo3-build-config0.19
 rust-pyo3-ffi
+rust-pyo3-ffi0.19
 rust-pyo3-log
 rust-pyo3-macros-backend
 rust-pyo3-macros-backend0.15
+rust-pyo3-macros-backend0.19
 rust-pyo3-macros
 rust-pyo3-macros0.15
+rust-pyo3-macros0.19
 rust-pyo3
 rust-pyo3_0.15
+rust-pyo3_0.19
 rust-pyproject-toml
 rust-pythonize
 rust-python-launcher
@@ -10799,6 +10859,7 @@ rust-snafu
 rust-snake_case
 rust-snapbox-macros
 rust-snapbox
+rust-snap
 rust-snphost
 rust-socket2
 rust-socket2_0.4
@@ -10883,6 +10944,7 @@ rust-sys-locale
 rust-syslog
 rust-system-deps
 rust-system76_ectool
+rust-szip
 rust-tabled_derive
 rust-tabled
 rust-tabular
@@ -11283,6 +11345,7 @@ sasl-xoauth2
 satyr
 sazanami-fonts
 sbcl
+sbc
 sbd
 sblim-cim-client
 sblim-cim-client2
@@ -11304,7 +11367,6 @@ sblim-sfcc
 sblim-smis-hba
 sblim-testsuite
 sblim-wbemcli
-scalacheck
 scalasca
 scala
 scap-security-guide
@@ -11364,6 +11426,7 @@ setroubleshoot
 setup
 setuptool
 setxkbmap
+sevmgr
 sexpp
 SFML
 sfnt2woff-zopfli
@@ -11415,6 +11478,7 @@ sil-tai-heritage-pro-fonts
 simde
 simdjson
 simdutf
+simfqt
 SIMVoleon
 singularity-ce
 Singular
@@ -11511,12 +11575,14 @@ srain
 src
 srecord
 srpc
+sscg
 ssldump
 sssd
 star
 startdde
 stats-collect
 stb
+stdair
 steinberg-bravura-fonts
 steinberg-petaluma-fonts
 stellarium
@@ -11681,12 +11747,14 @@ tracer
 tracker-miners
 tracker
 trac
+trademgen
 transfig
 transflac
 translate-shell
 translate-toolkit
 transmission
 transtats-cli
+travelccm
 treelayout
 tree-pkg
 tree-sitter
@@ -11750,6 +11818,7 @@ un-extra-fonts
 unhide
 unicode-emoji
 unicode-ucd
+unifdef
 uniol-fonts
 units
 univocity-parsers
@@ -11786,6 +11855,7 @@ ustreamer
 uswds-public-sans-fonts
 utf8cpp
 utf8proc
+uthash
 utop
 utrac
 uuid
@@ -11801,6 +11871,7 @@ vcpkg
 vcs-diff-lint
 vdrift
 vdr-tvscraper
+veccore
 velocity
 verbiste
 veristat
@@ -11852,6 +11923,7 @@ vulkan-headers
 vulkan-loader
 VulkanMemoryAllocator
 vulkan-tools
+vulkan-utility-libraries
 vulkan-validation-layers
 vultr-cli
 vym
@@ -11996,6 +12068,7 @@ xkill
 xload
 xlogo
 xmag
+xmake
 xmessage
 xmlada
 xml-commons-apis

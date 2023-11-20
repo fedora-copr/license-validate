@@ -52,7 +52,6 @@ apache-commons-logging
 apache-commons-net
 appstream
 appstream-data
-appstream0.16
 apr
 apr-util
 asciidoc
@@ -254,6 +253,7 @@ ethtool
 evince
 evolution-data-server
 exempi
+exfatprogs
 exiv2
 expat
 expect
@@ -667,7 +667,6 @@ jakarta-oro
 jansi
 jansson
 jasper
-java-11-openjdk
 java-17-openjdk
 java-21-openjdk
 javapackages-tools
@@ -752,7 +751,6 @@ libXft
 libXi
 libXinerama
 libXmu
-libXp
 libXpm
 libXrandr
 libXrender
@@ -849,6 +847,7 @@ libkcapi
 libkdumpfile
 libkeepalive
 libksba
+liblc3
 libldac
 libldb
 liblerc
@@ -1072,7 +1071,6 @@ memtest86+
 mesa
 mesa-demos
 mesa-libGLU
-mesa-libGLw
 microcode_ctl
 microdnf
 micropipenv
@@ -1098,7 +1096,6 @@ mod_security
 mod_security_crs
 mod_wsgi
 mokutil
-motif
 mozilla-filesystem
 mozjs115
 mpdecimal
@@ -1609,12 +1606,6 @@ python-simpleline
 python-six
 python-sphinx
 python-sphinx-theme-alabaster
-python-sphinxcontrib-applehelp
-python-sphinxcontrib-devhelp
-python-sphinxcontrib-htmlhelp
-python-sphinxcontrib-jsmath
-python-sphinxcontrib-qthelp
-python-sphinxcontrib-serializinghtml
 python-sqlalchemy
 python-systemd
 python-tomli-w
@@ -2023,7 +2014,6 @@ xorg-x11-proto-devel
 xorg-x11-server
 xorg-x11-server-Xwayland
 xorg-x11-xauth
-xorg-x11-xbitmaps
 xorg-x11-xinit
 xpdf
 xprop

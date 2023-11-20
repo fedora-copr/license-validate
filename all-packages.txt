@@ -223,7 +223,6 @@ anthy-unicode
 antic
 antimicrox
 antiword
-antlr-maven-plugin
 antlr
 antlrworks
 antlr3
@@ -607,7 +606,6 @@ beep
 beesu
 beets
 bee2
-belle-sip
 bemenu
 beneath-a-steel-sky-cd
 beneath-a-steel-sky
@@ -1012,8 +1010,6 @@ clamtk
 clamz
 clanbomber
 clang
-clang11
-clang13
 clang14
 clang15
 clang16
@@ -3863,7 +3859,6 @@ golang-deepin-go-lib
 golang-entgo-ent
 golang-etcd-bbolt
 golang-filippo-edwards25519
-golang-gioui
 golang-github-aalpar-deheap
 golang-github-aaronjanse-pty
 golang-github-abbot-http-auth
@@ -5521,6 +5516,7 @@ gops
 go-rpm-macros
 gosnake
 gotags
+gotcha
 gotun
 gource
 goverlay
@@ -6111,6 +6107,7 @@ chessx
 chibi-scheme
 chicken
 chipmunk
+chirp
 chisel
 chisholm-letterslaughing-fonts
 chisholm-to-be-continued-fonts
@@ -7610,6 +7607,7 @@ liblastfm
 liblayout
 liblbfgs
 liblcf
+liblc3
 libldac
 libldb
 libldm
@@ -7933,6 +7931,7 @@ libs3
 libtalloc
 libtar
 libtasn1
+libtbox
 libtcd
 libtdb
 libteam
@@ -8191,7 +8190,6 @@ lldb
 lldpad
 lldpd
 lld
-lld13
 lld14
 lld15
 lld16
@@ -8553,6 +8551,7 @@ matchbox-window-manager
 matio
 matrix-synapse
 maturin
+mat2
 maui-mauikit
 maven-antrun-plugin
 maven-archetype
@@ -9549,6 +9548,7 @@ nodejs-nodemon
 nodejs-packaging
 nodejs-replace-require-self
 nodejs-underscore
+nodejs-undici
 nodejs18
 nodejs20
 nodm
@@ -10091,6 +10091,7 @@ opus-tools
 oqsprovider
 oraculum
 orafce
+orage
 orangefs
 ORBit2
 orca
@@ -10100,7 +10101,6 @@ orocos-bfl
 orocos-kdl
 orsa
 orthorobot
-ortp
 os-autoinst
 osbs-client
 osbuild-composer
@@ -13220,7 +13220,6 @@ perl-Tree-XPathEngine
 perl-true
 perl-TryCatch
 perl-Try-Tiny
-perl-Twiggy
 perl-Types-DateTime
 perl-Types-Path-Tiny
 perl-Types-Serialiser
@@ -15926,7 +15925,6 @@ python-oslo-metrics
 python-oslo-middleware
 python-oslo-serialization
 python-oslo-service
-python-oslo-sphinx
 python-oslotest
 python-oslo-utils
 python-osrf-pycommon
@@ -16545,6 +16543,7 @@ python-rpdb
 python-rpds-py
 python-rpi-gpio2
 python-rply
+python-rpmautospec-core
 python-rpmautospec
 python-rpmfluff
 python-rpm-generators
@@ -17524,6 +17523,7 @@ rakarrack
 rakudo
 ramond
 rancid
+randomx
 Random123
 ranger
 range-v3
@@ -17633,6 +17633,7 @@ R-deldir
 R-desc
 rdesktop
 R-devtools
+rdfind
 rdiff-backup
 R-diffobj
 R-digest
@@ -17907,6 +17908,7 @@ robin-map
 robodoc
 robotfindskitten
 roca-detect
+rocalution
 rocblas
 rocclr
 rocksdb
@@ -18590,7 +18592,6 @@ rubygem-timers
 rubygem-tins
 rubygem-tk
 rubygem-tomlrb
-rubygem-transaction-simple
 rubygem-treetop
 rubygem-ttfunk
 rubygem-tty-color
@@ -18898,6 +18899,8 @@ rust-capnp
 rust-cap
 rust-caps
 rust-cargo-config2
+rust-cargo-credential-libsecret
+rust-cargo-credential
 rust-cargo-c
 rust-cargo-husky
 rust-cargo-insta
@@ -18917,6 +18920,7 @@ rust-castaway
 rust-cast
 rust-cbc
 rust-cbindgen
+rust-cbindgen0.24
 rust-cc
 rust-cdylib-link-lines
 rust-cexpr
@@ -18967,6 +18971,7 @@ rust-colored_json2
 rust-colored
 rust-colored1
 rust-colorful
+rust-colorgrad
 rust-colorchoice
 rust-color-print-proc-macro
 rust-color-print
@@ -19230,6 +19235,7 @@ rust-entities
 rust-enum-as-inner
 rust-enumber
 rust-enum_dispatch
+rust-enum-display-derive
 rust-enumflags2_derive
 rust-enumflags2_derive0.6
 rust-enumflags2
@@ -19267,6 +19273,7 @@ rust-esphome
 rust-etcetera
 rust-ethtool
 rust-event-listener
+rust-event-listener-strategy
 rust-event-listener2
 rust-event-manager
 rust-executable-path
@@ -19736,6 +19743,16 @@ rust-json5
 rust-just
 rust-jwalk
 rust-jwalk0.6
+rust-jxl-bitstream
+rust-jxl-coding
+rust-jxl-color
+rust-jxl-frame
+rust-jxl-grid
+rust-jxl-image
+rust-jxl-modular
+rust-jxl-oxide
+rust-jxl-render
+rust-jxl-vardct
 rust-kamadak-exif
 rust-keccak
 rust-khronos_api
@@ -20285,14 +20302,19 @@ rust-pure-rust-locales
 rust-pwd
 rust-pyo3-build-config
 rust-pyo3-build-config0.15
+rust-pyo3-build-config0.19
 rust-pyo3-ffi
+rust-pyo3-ffi0.19
 rust-pyo3-log
 rust-pyo3-macros-backend
 rust-pyo3-macros-backend0.15
+rust-pyo3-macros-backend0.19
 rust-pyo3-macros
 rust-pyo3-macros0.15
+rust-pyo3-macros0.19
 rust-pyo3
 rust-pyo3_0.15
+rust-pyo3_0.19
 rust-pyproject-toml
 rust-pythonize
 rust-python-launcher
@@ -20625,6 +20647,7 @@ rust-snafu
 rust-snake_case
 rust-snapbox-macros
 rust-snapbox
+rust-snap
 rust-snphost
 rust-socket2
 rust-socket2_0.4
@@ -20709,6 +20732,7 @@ rust-sys-locale
 rust-syslog
 rust-system-deps
 rust-system76_ectool
+rust-szip
 rust-tabled_derive
 rust-tabled
 rust-tabular
@@ -21193,7 +21217,6 @@ sblim-smis-hba
 sblim-testsuite
 sblim-wbemcli
 sbsigntools
-scalacheck
 scalapack
 scalasca
 scala
@@ -22515,6 +22538,7 @@ vdrsymbol-fonts
 vdr-tvguide
 vdr-tvscraper
 vdr-vnsiserver
+veccore
 vecmath1.2
 velocity
 vemana2000-fonts
@@ -22647,6 +22671,7 @@ vulkan-headers
 vulkan-loader
 VulkanMemoryAllocator
 vulkan-tools
+vulkan-utility-libraries
 vulkan-validation-layers
 vultr-cli
 vultr
@@ -23040,6 +23065,7 @@ xlsfonts
 xl2tpd
 xmag
 xmakemol
+xmake
 xmbdfed
 xmedcon
 xmessage

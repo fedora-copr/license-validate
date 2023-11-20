@@ -22,7 +22,6 @@ dbus-glib
 dconf
 dconf-editor
 ddiskit
-debugedit
 dejagnu
 desktop-file-utils
 device-mapper-multipath
@@ -99,7 +98,6 @@ gssproxy
 gstreamer1-plugins-bad-free
 gstreamer1-plugins-good
 gstreamer1-plugins-ugly-free
-gtest
 gtk-doc
 gtksourceview4
 gvfs
@@ -110,17 +108,14 @@ ima-evm-utils
 iperf3
 iprutils
 irssi
-iscsi-initiator-utils
 iw
 jansson
-java-11-openjdk
 java-17-openjdk
 java-17-openjdk-portable
 jbigkit
 jdependency
 jitterentropy
 jq
-jsoncpp
 kernel-srpm-macros
 keylime
 kmod
@@ -144,12 +139,10 @@ libhandy
 libieee1284
 libjpeg-turbo
 liblouis
-libmbim
 libmediaart
 libmtp
 libnsl2
 libpng
-libqmi
 librabbitmq
 libsecret
 libshout
@@ -177,7 +170,6 @@ lldpad
 lldpd
 lm_sensors
 lockdev
-log4cplus
 low-memory-monitor
 lsscsi
 ltrace
@@ -200,7 +192,6 @@ mod_authnz_pam
 mod_intercept_form_submit
 mod_lookup_identity
 mokutil
-motif
 mozilla-filesystem
 mpich
 mstflint
@@ -210,7 +201,6 @@ mutt
 mutter
 ndctl
 netpbm
-network-manager-applet
 nfs-utils
 nmap
 nodejs-nodemon
@@ -230,7 +220,6 @@ opus
 orc
 os-prober
 pangomm
-parallel
 patchelf
 pavucontrol
 pcaudiolib
@@ -256,7 +245,6 @@ pyelftools
 python-PyMySQL
 python-argcomplete
 python-configshell
-python-cups
 python-decorator
 python-distutils-extra
 python-gssapi
@@ -272,7 +260,6 @@ python-netifaces
 python-pexpect
 python-pid
 python-pkgconfig
-python-ptyprocess
 python-pytest-benchmark
 python-pytest-lazy-fixture
 python-pytest-mock
@@ -284,12 +271,10 @@ python-semantic_version
 python-smartypants
 python-sphinx-copybutton
 python-sqlalchemy
-python-testpath
 python-typogrify
 python-urllib-gssapi
 python-urwid
 python-wcwidth
-python-zstd
 python3-mallard-ducktype
 pythran
 pyxattr
@@ -312,7 +297,6 @@ rteval-loads
 ruby
 rust-coreos-installer
 sanlock
-sbc
 scipy
 scons
 sdl12-compat
@@ -328,7 +312,6 @@ sip6
 softhsm
 sound-theme-freedesktop
 soundtouch
-sscg
 stalld
 startup-notification
 stress-ng
@@ -357,9 +340,7 @@ ttembed
 tuna
 tzdata
 udisks2
-unifdef
 unixODBC
-uthash
 util-linux
 valgrind
 virt-who
