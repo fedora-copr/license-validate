@@ -577,6 +577,7 @@ batik
 bats
 battray
 bbkeys
+bcachefs-tools
 bcache-tools
 bcal
 bcc
@@ -3846,7 +3847,24 @@ golang-bazil-fuse
 golang-bitbucket-creachadair-shell
 golang-bitbucket-ww-goautoneg
 golang-bug-serial-1
+golang-cloud-google-bigquery
+golang-cloud-google-compute-metadata
+golang-cloud-google-compute
+golang-cloud-google-datacatalog
+golang-cloud-google-datastore
+golang-cloud-google-firestore
+golang-cloud-google-iam
+golang-cloud-google-kms
+golang-cloud-google-logging
+golang-cloud-google-longrunning
+golang-cloud-google-monitoring
+golang-cloud-google-osconfig
+golang-cloud-google-pubsub
+golang-cloud-google-secretmanager
+golang-cloud-google-spanner
 golang-cloud-google
+golang-cloud-google-storage
+golang-cloud-google-trace
 golang-code-cloudfoundry-bytefmt
 golang-code-cloudfoundry-clock
 golang-contrib-opencensus-exporter-aws
@@ -5562,6 +5580,7 @@ grammalecte
 gramps
 granatier
 granite
+granite-7
 grantlee-editor
 grantlee-qt5
 grantlee
@@ -5831,6 +5850,7 @@ highfive
 highlight
 highway
 hikari
+hipblas
 hipcub
 hipify
 hiran-perizia-fonts
@@ -6321,6 +6341,7 @@ irrlicht
 irsim
 irssi
 irstlm
+isa-l
 iscan-firmware
 iscsi-initiator-utils
 is-it-in-rhel
@@ -9700,6 +9721,7 @@ ocaml-cinaps
 ocaml-cmdliner
 ocaml-compiler-libs-janestreet
 ocaml-cppo
+ocaml-crunch
 ocaml-cryptokit
 ocaml-csexp
 ocaml-csv
@@ -9796,6 +9818,7 @@ ocaml-ppx-sexp-conv
 ocaml-ppx-stable-witness
 ocaml-ppx-variants-conv
 ocaml-psmt2-frontend
+ocaml-ptime
 ocaml-ptmap
 ocaml-pyml
 ocaml-qcheck
@@ -9816,6 +9839,7 @@ ocaml-srpm-macros
 ocaml-ssl
 ocaml-stdcompat
 ocaml-stdio
+ocaml-stdlib-random
 ocaml-time-now
 ocaml-topkg
 ocaml-trie
@@ -10859,6 +10883,7 @@ perl-Crypt-GCrypt
 perl-Crypt-GeneratePassword
 perl-Crypt-GPG
 perl-Crypt-IDEA
+perl-Crypt-JWT
 perl-Crypt-MySQL
 perl-Crypt-OpenSSL-AES
 perl-Crypt-OpenSSL-Bignum
@@ -10953,6 +10978,7 @@ perl-Data-Page-Pageset
 perl-Data-Pageset
 perl-Data-Page
 perl-Data-Password
+perl-Data-Password-zxcvbn
 perl-Data-Peek
 perl-Data-Perl
 perl-Data-Pond
@@ -14583,6 +14609,7 @@ python-binary-memcached
 python-binaryornot
 python-binstruct
 python-biopython
+python-bioread
 python-biscuits
 python-bitarray
 python-bitcoinlib
@@ -16140,6 +16167,8 @@ python-pyct
 python-pycurl
 python-pycxx
 python-pydantic-core
+python-pydantic-extra-types
+python-pydantic-settings
 python-pydantic
 python-pydata-sphinx-theme
 python-pydbus
@@ -18739,6 +18768,7 @@ rust-asn1
 rust-assert_approx_eq
 rust-assert_cli
 rust-assert_cmd
+rust-assert-eq-float
 rust-assert_fs
 rust-assert-impl
 rust-assert-json-diff
@@ -19360,6 +19390,7 @@ rust-futures-executor
 rust-futures-channel
 rust-futures-io
 rust-futures-lite
+rust-futures-lite1
 rust-futures-macro
 rust-futures-sink
 rust-futures
@@ -19603,7 +19634,6 @@ rust-hex
 rust-hexyl
 rust-hidapi
 rust-hkdf
-rust-hkdf0.11
 rust-hmac
 rust-hmac0.11
 rust-home
@@ -19696,7 +19726,6 @@ rust-invalidstring
 rust-inventory-impl
 rust-inventory
 rust-inventory0.1
-rust-inventory0.2
 rust-io-close
 rust-iocuddle
 rust-io-lifetimes
@@ -19790,7 +19819,6 @@ rust-libbpf-rs
 rust-libbpf-sys
 rust-libcryptsetup-rs
 rust-libcryptsetup-rs-sys
-rust-libcryptsetup-rs0.8
 rust-libc
 rust-libcst_derive
 rust-libcst
@@ -19921,7 +19949,6 @@ rust-memoffset
 rust-memoffset0.5
 rust-memoffset0.6
 rust-memoffset0.7
-rust-memoffset0.8
 rust-memsec
 rust-micro-timer-macros
 rust-micro-timer
@@ -19991,7 +20018,6 @@ rust-nix0.26
 rust-noisy_float
 rust-nom
 rust-nom-supreme
-rust-nom4
 rust-nom5
 rust-noop_proc_macro
 rust-no-panic
@@ -20215,6 +20241,7 @@ rust-pnet_sys
 rust-png
 rust-png0.16
 rust-polling
+rust-polling2
 rust-polyval
 rust-pom
 rust-pore
@@ -20598,6 +20625,8 @@ rust-shlex
 rust-scheduled-thread-pool
 rust-schemafy_core
 rust-schemafy_lib
+rust-schemars_derive
+rust-schemars
 rust-signal-hook-mio
 rust-signal-hook-registry
 rust-signal-hook
@@ -20622,6 +20651,7 @@ rust-simplelog
 rust-simplelog0.11
 rust-sinit
 rust-siphasher
+rust-siphasher0.3
 rust-sized-chunks
 rust-skeptic
 rust-skim
@@ -22249,6 +22279,7 @@ travelccm
 traverso
 treelayout
 tree-pkg
+tree-sitter-java
 tree-sitter
 trelby
 trellis

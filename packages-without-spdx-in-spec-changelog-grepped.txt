@@ -391,6 +391,7 @@ batik
 bats
 battray
 bbkeys
+bcachefs-tools
 bcache-tools
 bcal
 bcd
@@ -977,7 +978,6 @@ crystal-stacker
 crystal-stacker-themes
 cscope
 csmith
-csnappy
 csound
 csslint
 cstream
@@ -2781,7 +2781,6 @@ git-pull-request
 GitPython
 gitqlient
 git-remote-gcrypt
-git-remote-hg
 git-repair
 git-review
 git-secret
@@ -3075,7 +3074,24 @@ golang-bazil-fuse
 golang-bitbucket-creachadair-shell
 golang-bitbucket-ww-goautoneg
 golang-bug-serial-1
+golang-cloud-google-bigquery
+golang-cloud-google-compute-metadata
+golang-cloud-google-compute
+golang-cloud-google-datacatalog
+golang-cloud-google-datastore
+golang-cloud-google-firestore
+golang-cloud-google-iam
+golang-cloud-google-kms
+golang-cloud-google-logging
+golang-cloud-google-longrunning
+golang-cloud-google-monitoring
+golang-cloud-google-osconfig
+golang-cloud-google-pubsub
+golang-cloud-google-secretmanager
+golang-cloud-google-spanner
 golang-cloud-google
+golang-cloud-google-storage
+golang-cloud-google-trace
 golang-code-cloudfoundry-bytefmt
 golang-code-cloudfoundry-clock
 golang-contrib-opencensus-exporter-aws
@@ -4734,6 +4750,7 @@ grafx2
 gr-air-modes
 grammalecte
 granite
+granite-7
 grantlee-editor
 grantlee-qt5
 graphene
@@ -4812,7 +4829,6 @@ gstream
 gst
 gst123
 gtengine
-gtest
 gthree
 gthumb
 gtimelog
@@ -4956,6 +4972,7 @@ highfive
 highlight
 highway
 hikari
+hipblas
 hipcub
 hipify
 hiran-perizia-fonts
@@ -5038,7 +5055,6 @@ checksec
 cheese
 chemical-mime-data
 CheMPS2
-chemtool
 chess_db
 chessx
 chibi-scheme
@@ -5202,6 +5218,7 @@ irrlicht
 irsim
 irssi
 irstlm
+isa-l
 iscan-firmware
 iscsi-initiator-utils
 is-it-in-rhel
@@ -6052,7 +6069,6 @@ libcaca
 libcamera-apps
 libcamera
 libcangjie
-libcap
 libccd
 libcdaudio
 libcddb
@@ -6765,7 +6781,6 @@ logitech-27mhz-keyboard-encryption-setup
 logjam
 logserial
 logstalgia
-log4cplus
 log4cpp
 log4c
 log4cxx
@@ -7608,7 +7623,6 @@ mupdf
 mupen64plus
 mup
 muse
-MUSIC
 musl
 mussh
 mustache
@@ -7685,7 +7699,6 @@ ndctl
 ndesk-dbus-glib
 ndesk-dbus
 ndiscover-exo-2-fonts
-ndisc6
 ndppd
 neard
 NearTree
@@ -7928,6 +7941,7 @@ ocaml-camlp5-buildscripts
 ocaml-cinaps
 ocaml-cmdliner
 ocaml-compiler-libs-janestreet
+ocaml-crunch
 ocaml-csexp
 ocaml-csv
 ocaml-ctypes
@@ -7977,12 +7991,14 @@ ocaml-ppx-optcomp
 ocaml-ppx-sexp-conv
 ocaml-ppx-stable-witness
 ocaml-ppx-variants-conv
+ocaml-ptime
 ocaml-rresult
 ocaml-sedlex
 ocaml-sexplib0
 ocaml-sha
 ocaml-srpm-macros
 ocaml-stdio
+ocaml-stdlib-random
 ocaml-time-now
 ocaml-topkg
 ocaml-trie
@@ -8870,6 +8886,7 @@ perl-Crypt-Eksblowfish
 perl-Crypt-GCrypt
 perl-Crypt-GeneratePassword
 perl-Crypt-GPG
+perl-Crypt-JWT
 perl-Crypt-MySQL
 perl-Crypt-OpenSSL-AES
 perl-Crypt-OpenSSL-DSA
@@ -8940,6 +8957,7 @@ perl-Data-ObjectDriver
 perl-Data-Pageset
 perl-Data-Page
 perl-Data-Password
+perl-Data-Password-zxcvbn
 perl-Data-Peek
 perl-Data-Pond
 perl-Data-Printer
@@ -9188,7 +9206,6 @@ perl-Exporter-Lite
 perl-Exporter
 perl-ExtUtils-CChecker
 perl-ExtUtils-Config
-perl-ExtUtils-CppGuess
 perl-ExtUtils-Depends
 perl-ExtUtils-F77
 perl-ExtUtils-HasCompiler
@@ -9674,7 +9691,6 @@ perl-LWP-Authen-Wsse
 perl-LWP-ConsoleLogger
 perl-LWP-Online
 perl-LWP-Protocol-connect
-perl-LWP-Protocol-PSGI
 perl-LWP-UserAgent-Determined
 perl-LWP-UserAgent-DNS-Hosts
 perl-Mail-Alias
@@ -10239,7 +10255,6 @@ perl-Proc-Guard
 perl-Proc-InvokeEditor
 perl-Proc-PID-File
 perl-Proc-Queue
-perl-Proc-Simple
 perl-Proc-SyncExec
 perl-Proc-Terminator
 perl-Promises
@@ -11526,7 +11541,6 @@ ptex
 pthreadpool
 pthsem
 ptlib
-ptouch-driver
 ptpython
 ptrash
 pt-sans-fonts
@@ -11899,6 +11913,7 @@ python-binary-memcached
 python-binaryornot
 python-binstruct
 python-biopython
+python-bioread
 python-biscuits
 python-bitarray
 python-bitcoinlib
@@ -12326,7 +12341,6 @@ python-falcon
 python-fasjson-client
 python-fastapi
 python-fastavro
-python-fastbencode
 python-fasteners
 python-fastprogress
 python-fastpurge
@@ -12543,7 +12557,6 @@ python-graphql-core
 python-graphql-relay
 python-graph-tool
 python-graphviz
-python-GridDataFormats
 python-grokmirror
 python-grpc-google-iam-v1
 python-grpcio-gcp
@@ -13289,6 +13302,8 @@ python-pycountry
 python-pyct
 python-pycxx
 python-pydantic-core
+python-pydantic-extra-types
+python-pydantic-settings
 python-pydantic
 python-pydbus
 python-pydepsdev
@@ -13798,7 +13813,6 @@ python-sphinxcontrib-websupport
 python-sphinx-copybutton
 python-sphinx-documatt-theme
 python-sphinxemoji
-python-sphinx-epytext
 python-sphinxext-opengraph
 python-sphinxext-rediraffe
 python-sphinx-gallery
@@ -13849,6 +13863,7 @@ python-starlette
 python-statsd
 python-statsmodels
 python-stdiomask
+python-stdlib-list
 python-stdnum
 python-steam
 python-stem
@@ -15162,6 +15177,7 @@ rust-asn1
 rust-assert_approx_eq
 rust-assert_cli
 rust-assert_cmd
+rust-assert-eq-float
 rust-assert_fs
 rust-assert_matches
 rust-assert-str
@@ -15666,6 +15682,7 @@ rust-futures-executor
 rust-futures-channel
 rust-futures-io
 rust-futures-lite
+rust-futures-lite1
 rust-futures-macro
 rust-futures-sink
 rust-futures
@@ -15861,7 +15878,6 @@ rust-hex-literal0.3
 rust-hex
 rust-hexyl
 rust-hkdf
-rust-hkdf0.11
 rust-hmac
 rust-hmac0.11
 rust-home
@@ -15936,7 +15952,6 @@ rust-intl_pluralrules
 rust-inventory-impl
 rust-inventory
 rust-inventory0.1
-rust-inventory0.2
 rust-io-close
 rust-iocuddle
 rust-io-lifetimes
@@ -16012,7 +16027,6 @@ rust-libbpf-rs
 rust-libbpf-sys
 rust-libcryptsetup-rs
 rust-libcryptsetup-rs-sys
-rust-libcryptsetup-rs0.8
 rust-libc
 rust-libcst_derive
 rust-libcst
@@ -16115,7 +16129,6 @@ rust-memmap2_0.5
 rust-memmem
 rust-memoffset0.6
 rust-memoffset0.7
-rust-memoffset0.8
 rust-miette-derive
 rust-miette
 rust-mimalloc
@@ -16307,6 +16320,7 @@ rust-pnet_sys
 rust-png
 rust-png0.16
 rust-polling
+rust-polling2
 rust-polyval
 rust-pore
 rust-pori
@@ -16622,6 +16636,8 @@ rust-shlex
 rust-scheduled-thread-pool
 rust-schemafy_core
 rust-schemafy_lib
+rust-schemars_derive
+rust-schemars
 rust-signal-hook-mio
 rust-signal-hook-registry
 rust-signal-hook
@@ -16642,6 +16658,7 @@ rust-simplelog
 rust-simplelog0.11
 rust-sinit
 rust-siphasher
+rust-siphasher0.3
 rust-sized-chunks
 rust-skeptic
 rust-slog-async
@@ -17686,7 +17703,6 @@ taxipilot
 taxi
 tayga
 tbb2020.3
-tcalc
 tcd-utils
 tclap
 tcl-ezsmtp
@@ -18259,7 +18275,6 @@ wafw00f
 wagesreiter-patrick-hand-fonts
 wagyu
 waifu2x-converter-cpp
-wallpapoz
 wangle
 wapanel
 wapiti
@@ -18692,7 +18707,6 @@ yara
 yarnpkg
 yaru-theme
 yash
-yasm
 yast2-devtools
 yast2-filesystem
 yaz
