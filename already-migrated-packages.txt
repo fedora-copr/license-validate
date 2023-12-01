@@ -67,6 +67,7 @@ alerque-libertinus-fonts
 alex
 alien
 alliance
+almanah
 alpine
 alsa-firmware
 alsa-lib
@@ -82,7 +83,7 @@ amavisd-milter
 amiri-fonts
 amtk
 anaconda
-anaconda-user-help
+anaconda-webui
 ancient
 android-file-transfer
 anjuta
@@ -323,6 +324,7 @@ biber
 BibTool
 bicon
 bigloo
+bijiben
 biloba
 bindep
 bind
@@ -382,6 +384,7 @@ bpfmon
 bpftrace
 braille-printer-app
 brainfuck
+breeze-gtk
 breeze-icon-theme
 breezy
 brewtarget
@@ -434,6 +437,7 @@ cachelib
 cairomm
 cairomm1.16
 cairo
+calamares
 calamaris
 calceph
 CalcMySky
@@ -671,6 +675,7 @@ cups
 cura
 curblaster
 curl
+cutter-re
 cvc5
 cvs
 cvsutils
@@ -782,6 +787,7 @@ dnf-plugins-extras
 dnf
 dnf5
 DNS-Compliance-Testing
+dnsmap
 dnsmasq
 dnssec-trigger
 dnstwist
@@ -795,6 +801,7 @@ dogtag-pki
 dokuwiki
 dolfin
 dolphin-plugins
+dolphin
 dosbox-staging
 dosfstools
 dos2unix
@@ -862,6 +869,9 @@ eggdrop
 eglexternalplatform
 egl-wayland
 eigen3
+elementary-camera
+elementary-code
+elementary-notifications
 elfutils
 elinks
 emacs-apel
@@ -905,6 +915,7 @@ evemu
 evolution-data-server
 evolution-ews
 evolution-mapi
+evolution-rspam
 evolution
 evtest
 execstack
@@ -1851,6 +1862,7 @@ git
 givaro
 gjots2
 gkrellm-top
+glabels
 glab
 glances
 glava
@@ -1985,10 +1997,12 @@ gnome-shell-extension-screen-autorotate
 gnome-shell-extension-system-monitor-applet
 gnome-shell-extension-vertical-workspaces
 gnome-shell-frippery
+gnome-shell
 gnome-software
 gnome-sudoku
 gnome-system-monitor
 gnome-text-editor
+gnome-todo
 gnome-tweaks
 gnome-user-docs
 gnome-vfs2-monikers
@@ -2361,6 +2375,7 @@ golang-github-spkg-bom
 golang-github-sql-driver-mysql
 golang-github-syndtr-gocapability
 golang-github-task-slim-sprig
+golang-github-task-slim-sprig3
 golang-github-tencentcloud-sdk
 golang-github-tenox7-wrp
 golang-github-theoapp-theo-agent
@@ -2549,6 +2564,7 @@ grep
 grib_api
 gridsite
 groff
+groonga
 grpc
 gr-rds
 grub-customizer
@@ -2600,6 +2616,8 @@ guile
 gulrak-filesystem
 gumbo-parser
 gupnp-igd
+gupnp
+gupnp-tools
 gust-antykwa-torunska-fonts
 gutenprint
 guvcview
@@ -2613,6 +2631,7 @@ gyp
 gzip
 g2clib
 g3kb-switch
+g4music
 hackrf
 hadolint
 hamcrest
@@ -2864,6 +2883,7 @@ chatterino2
 chayang
 checkpolicy
 check
+cheese
 chemtool
 chessx
 chibi-scheme
@@ -3115,7 +3135,9 @@ kcolorpicker
 kdbg
 kddockwidgets
 kdebase3
+kde-cli-tools
 kdegames3
+kde-gtk-config
 kde-inotify-survey
 kdelibs
 kdelibs3
@@ -3125,6 +3147,8 @@ kdevelop-php
 kdevelop
 kde-workspace
 kdiff3
+kdsingleapplication
+kdsoap-ws-discovery-client
 kdump-anaconda-addon
 kealib
 kea
@@ -3340,6 +3364,7 @@ khmer-os-fonts
 kicad
 kimageannotator
 kio-admin
+kio-extras-kf5
 kio-gdrive
 kismet
 kissat
@@ -3352,6 +3377,7 @@ kjournald
 klamav
 klavaro
 klog
+kmenuedit
 kmymoney
 knights
 knm-new-fixed-fonts
@@ -3372,11 +3398,14 @@ kpipewire
 kpmcore
 krb5-auth-dialog
 krb5
+krfb
 krita
 kronometer
 kronosnet
+kruler
 krusader
 ksanecore
+kscreenlocker
 ksc
 kseexpr
 ksh
@@ -3385,9 +3414,13 @@ ksnip
 kst
 ktextaddons
 ktls-utils
+ktorrent
 ktuberling
 kurdit-unikurd-web-fonts
 kvantum
+kwayland-integration
+kwayland
+kwrited
 kyotocabinet
 k3b
 labwc
@@ -3407,6 +3440,7 @@ LaTeXML
 latex2html
 lato-fonts
 latte-integrale
+layer-shell-qt
 lazarus
 lazpaint
 lazygal
@@ -3430,6 +3464,7 @@ libabigail
 libabw
 libadwaita
 libahp-gt
+libahp-xc
 libaiff
 libaio
 libao
@@ -3508,6 +3543,7 @@ libepoxy
 libepubgen
 liberation-fonts
 liberation-narrow-fonts
+libesedb
 libestr
 libetonyek
 libetpan
@@ -3534,6 +3570,7 @@ libgcroots
 libgcrypt
 libgda
 libgda5
+libgdl
 libgedit-gtksourceview
 libgexiv2
 libgit2_1.5
@@ -3595,11 +3632,13 @@ libjodycode
 libkcapi
 libkdumpfile
 libkeepalive
+libkexiv2
 libkindrv
 libkiwix
 libkkc
 libkrun
 libksba
+libkscreen
 liblangtag
 liblastfm
 liblayout
@@ -3690,6 +3729,7 @@ libpfm
 libphidget22
 libpinyin
 libpipeline
+libplasma
 libplist
 libpoly
 libportal
@@ -3821,6 +3861,7 @@ libwacom
 libwapcaplet
 libwbxml
 libwmf
+libwnck3
 libwpd
 libwpg
 libwps
@@ -3845,6 +3886,7 @@ libxkbcommon
 libxkbfile
 libxmlb
 libxml++
+libxml++30
 libXmu
 libXNVCtrl
 libXpm
@@ -4051,6 +4093,7 @@ mailcap
 maildir-utils
 maildrop
 mailman3
+mail-notification
 mailprocessing
 mailx
 mairix
@@ -4185,6 +4228,7 @@ mingw-freetype
 mingw-gettext
 mingw-glib-networking
 mingw-glib2
+mingw-glslang
 mingw-gsettings-desktop-schemas
 mingw-gstreamer1-plugins-bad-free
 mingw-gstreamer1-plugins-base
@@ -4359,6 +4403,7 @@ mrtg
 msitools
 msmtp
 msolve
+msv
 mtdev
 mtools
 mtr
@@ -4465,6 +4510,7 @@ network-manager-applet
 NetworkManager-fortisslvpn
 NetworkManager-libreswan
 NetworkManager-l2tp
+NetworkManager-openconnect
 NetworkManager-openvpn
 NetworkManager-pptp
 NetworkManager
@@ -4744,6 +4790,7 @@ openbabel
 openbgpd
 openbios
 openblas
+openblas-srpm-macros
 openbox
 opencc
 opencl-filesystem
@@ -4827,6 +4874,7 @@ otf2
 overpass-fonts
 owfs
 oxygen-icon-theme
+oxygen-sounds
 pacemaker
 PackageKit
 packetdrill
@@ -4861,6 +4909,7 @@ papi
 pappl
 paps
 paratype-pt-mono-fonts
+paraview
 parcimonie.sh
 pari-elldata
 pari-galdata
@@ -4893,6 +4942,7 @@ pcaro-hermit-fonts
 pcem
 pcg-cpp
 pciutils
+pcmanfm-qt
 pcmanfm
 pcp
 pcre
@@ -5396,6 +5446,7 @@ perl-Email-Stuffer
 perl-Email-Valid
 perl-Encode-Detect
 perl-Encode-EUCJPASCII
+perl-Encode-JIS2K
 perl-Encode-Locale
 perl-Encode-Newlines
 perl-Encode
@@ -5739,6 +5790,7 @@ perl-Locale-Utils-PlaceholderBabelFish
 perl-Locale-Utils-PlaceholderMaketext
 perl-Locale-Utils-PlaceholderNamed
 perl-local-lib
+perl-Log-Any-Adapter-Callback
 perl-Log-Any-IfLOG
 perl-Log-Any
 perl-Log-Contextual
@@ -5780,6 +5832,7 @@ perl-Mail-SPF
 perl-MailTools
 perl-Mail-Transport
 perl-Makefile-DOM
+perl-MARC-Record
 perl-Mason-Tidy
 perl-MasonX-Interp-WithCallbacks
 perl-Math-Base-Convert
@@ -6812,6 +6865,7 @@ php-sebastian-type4
 php-sebastian-version3
 php-sebastian-version4
 php-simplepie
+php-smarty-gettext
 php-smbclient
 php
 php-splitbrain-php-archive
@@ -6853,13 +6907,27 @@ planarity
 planets
 plantri
 plantuml
+plasma-activities
+plasma-activities-stats
 plasma-bigscreen
+plasma-breeze
+plasma-browser-integration
 plasma-dialer
+plasma-discover
+plasma-milou
 plasma-nano
+plasma-nm
+plasma-oxygen
+plasma-pa
 plasma-phonebook
+plasma-print-manager
+plasma-sdk
+plasma-systemsettings
 plasmatube
 plasma-wallpapers-dynamic
+plasma-wayland-protocols
 plasma-welcome
+plasma5support
 player
 plexus-archiver
 plexus-build-api
@@ -6880,6 +6948,7 @@ plocate
 plog
 pl
 plug
+plymouth-kcm
 pmars
 pmbootstrap
 pmix
@@ -6899,6 +6968,7 @@ poetry
 poke
 polarsys-b612-fonts
 policycoreutils
+polkit-kde
 polkit-pkla-compat
 polkit-qt-1
 polkit
@@ -6912,9 +6982,19 @@ postgres-decoderbufs
 postgresql-jdbc
 postgresql-odbc
 postgresql
+postgresql15-decoderbufs
+postgresql15-pgaudit
+postgresql15-pg_repack
+postgresql15
+postgresql16-decoderbufs
+postgresql16-pgaudit
+postgresql16-pg_repack
+postgresql16
 povray
+powerdevil
 powerline-go
 powerline
+powermanga
 powerpc-utils
 power-profiles-daemon
 powerstat
@@ -7116,6 +7196,7 @@ python-blosc
 python-blosc2
 python-blowfish
 python-bluepyopt
+python-boltons
 python-botocore
 python-boto
 python-boto3
@@ -7494,6 +7575,7 @@ python-jupyter-console
 python-jupyter-events
 python-jupyter-kernel-singular
 python-jupyter-kernel-test
+python-jupyterlab_pygments
 python-jupyterlab-server
 python-jupyter-lsp
 python-jupyter-packaging
@@ -7547,6 +7629,7 @@ python-llvmlite
 python-localzone
 python-logbook
 python-looseversion
+python-lqrt
 python-lxml
 python-ly
 python-magnumclient
@@ -7715,7 +7798,9 @@ python-pem
 python-pep440
 python-perky
 python-persistent
+python-pexpect
 python-pgspecial
+python-photutils
 python-phply
 python-phyghtmap
 python-pidfile
@@ -7870,6 +7955,7 @@ python-pytest-timeout
 python-pytest-tldr
 python-pytest-tornado
 python-pytest-vcr
+python-pytest-venv
 python-pytimeparse
 python-pytoolconfig
 python-pytzdata
@@ -8065,6 +8151,7 @@ python-tabulate
 python-tackerclient
 python-taskflow
 python-tblib
+python-tcxreader
 python-tcx2gpx
 python-tdlib
 python-teamcity-messages
@@ -8139,6 +8226,7 @@ python-virt-firmware
 python-virtualenv-api
 python-vitrageclient
 python-vkbasalt-cli
+python-voluptuous
 python-wadllib
 python-waitress
 python-warlock
@@ -8250,6 +8338,7 @@ qsf
 qsopt-ex
 qsynth
 qt-creator
+qtile
 qt-jdenticon
 qtpass
 qtspell
@@ -8360,6 +8449,7 @@ rbm
 R-bookdown
 RBTools
 rclone
+R-covr
 rc
 rcs
 rdfind
@@ -9187,6 +9277,7 @@ rust-bugreport
 rust-build-context
 rust-build-fs-tree
 rust-bumpalo
+rust-bwrap
 rust-bytecount
 rust-bytecheck_derive
 rust-bytecheck
@@ -9224,6 +9315,7 @@ rust-cargo-config2
 rust-cargo-credential-libsecret
 rust-cargo-credential
 rust-cargo-c
+rust-cargo-deny
 rust-cargo-husky
 rust-cargo-insta
 rust-cargo-lock
@@ -9263,6 +9355,7 @@ rust-clang-ast
 rust-clang-sys
 rust-clang-tidy-sarif
 rust-clap_builder
+rust-clap_complete_command
 rust-clap_complete_fig
 rust-clap_complete_nushell
 rust-clap_complete
@@ -9277,6 +9370,7 @@ rust-clap
 rust-clap-verbosity-flag
 rust-clap2
 rust-clap3
+rust-clearscreen
 rust-clicolors-control
 rust-clippy-sarif
 rust-clircle
@@ -9338,6 +9432,7 @@ rust-coolor
 rust-copydeps
 rust-copypasta
 rust-cordic
+rust-countme
 rust-count-zeroes
 rust-cpc
 rust-cpio
@@ -9515,6 +9610,7 @@ rust-drm-ffi
 rust-drm-fourcc
 rust-drm
 rust-drm-sys
+rust-drop_bomb
 rust-dtoa-short
 rust-dtoa
 rust-dtoa0.4
@@ -9529,6 +9625,7 @@ rust-easy-parallel
 rust-ecdsa
 rust-edit-distance
 rust-edit
+rust-educe
 rust-ed25519-compact
 rust-ed25519
 rust-effective-limits
@@ -9566,6 +9663,7 @@ rust-enum-map-derive0.6
 rust-enum-map
 rust-enum-map1
 rust-enumn
+rust-enum-ordinalize
 rust-enumset_derive
 rust-enumset
 rust-environment
@@ -9590,6 +9688,7 @@ rust-escargot
 rust-esphome
 rust-etcetera
 rust-ethtool
+rust-euclid
 rust-event-listener
 rust-event-listener-strategy
 rust-event-listener2
@@ -9664,11 +9763,13 @@ rust-freetype-rs0.26
 rust-freetype
 rust-freetype-sys
 rust-freetype-sys0.13
+rust-fs_at
 rust-fscommon
 rust-fs-err
 rust-fs_extra
 rust-fsio
 rust-fslock
+rust-fs-set-times
 rust-fs2
 rust-funty
 rust-futf
@@ -9996,12 +10097,14 @@ rust-Inflector
 rust-inlinable_string
 rust-inotify
 rust-inotify-sys
+rust-inotify0.9
 rust-inout
 rust-input_buffer
 rust-input-linux
 rust-input-linux-sys
 rust-input
 rust-input-sys
+rust-insta-cmd
 rust-instant
 rust-insta
 rust-interpolate_name
@@ -10519,6 +10622,7 @@ rust-plotters-bitmap
 rust-plotters
 rust-plotters-svg
 rust-pmac
+rust-pmutil
 rust-pnet_base
 rust-pnet_datalink
 rust-pnet_sys
@@ -10612,19 +10716,15 @@ rust-pulse
 rust-pure-rust-locales
 rust-pwd
 rust-pyo3-build-config
-rust-pyo3-build-config0.15
 rust-pyo3-build-config0.19
 rust-pyo3-ffi
 rust-pyo3-ffi0.19
 rust-pyo3-log
 rust-pyo3-macros-backend
-rust-pyo3-macros-backend0.15
 rust-pyo3-macros-backend0.19
 rust-pyo3-macros
-rust-pyo3-macros0.15
 rust-pyo3-macros0.19
 rust-pyo3
-rust-pyo3_0.15
 rust-pyo3_0.19
 rust-pyproject-toml
 rust-pythonize
@@ -10717,6 +10817,7 @@ rust-relative-path
 rust-remain
 rust-remoteprocess
 rust-remove_dir_all
+rust-remove_dir_all0.7
 rust-rend
 rust-reqwest
 rust-resctl-bench-intf
@@ -10786,6 +10887,7 @@ rust-rustversion
 rust-rusty-fork
 rust-rustyline-derive
 rust-rustyline
+rust-ruzstd
 rust-rxml_proc
 rust-rxml
 rust-rxml_validation
@@ -10858,7 +10960,9 @@ rust-serde_urlencoded
 rust-serde_url_params
 rust-serde-value
 rust-serde_with_macros
+rust-serde_with_macros1
 rust-serde_with
+rust-serde_with1
 rust-serde-xml-rs
 rust-serde_yaml
 rust-serde_yaml0.8
@@ -11006,6 +11110,7 @@ rust-strum
 rust-strum0.21
 rust-subprocess
 rust-subtle
+rust-suggest
 rust-supports-color
 rust-supports-hyperlinks
 rust-supports-unicode
@@ -11182,6 +11287,7 @@ rust-tree-sitter-highlight
 rust-tree-sitter-loader
 rust-tree-sitter
 rust-tree-sitter-tags
+rust-triomphe
 rust-trust-dns-client
 rust-trust-dns-proto
 rust-trust-dns-recursor
@@ -11189,6 +11295,7 @@ rust-trust-dns-resolver
 rust-trust-dns-server
 rust-trybuild
 rust-trybuild2
+rust-trycmd
 rust-try-lock
 rust-tss-esapi
 rust-tss-esapi-sys
@@ -11475,6 +11582,7 @@ scim-pinyin
 scim
 scim-thai
 sciplot
+scipy
 scl-utils
 scorep
 scponly
@@ -11482,6 +11590,7 @@ screenruler
 screen
 scrub
 sdbus-cpp
+sddm-kcm
 sdformat
 SDL_gfx
 SDL_image
@@ -11709,6 +11818,7 @@ supertuxkart
 surf-geometry
 suricata
 suseconnect-ng
+svt-av1
 swaks
 swatchdog
 sway-config-fedora
@@ -11728,6 +11838,7 @@ sympol
 sympow
 sympy
 synapse
+syncevolution
 synce4l
 syncthing
 synfig
@@ -11832,6 +11943,7 @@ tomoe
 TOPCOM
 toppler
 torbrowser-launcher
+torque
 touchcal
 tpm2-abrmd-selinux
 tpm2-abrmd
@@ -11978,6 +12090,7 @@ vernnobile-muli-fonts
 vernnobile-nunito-fonts
 vernnobile-oswald-fonts
 veusz
+vgrep
 v-hacd
 vhostmd
 video-downloader
@@ -12120,6 +12233,7 @@ xbyak_aarch64
 xbyak
 xcb-proto
 xcb-util-cursor
+xcb-util-errors
 xcb-util-image
 xcb-util-keysyms
 xcb-util-renderutil
@@ -12165,6 +12279,7 @@ xinput
 xisxwayland
 xkbcomp
 xkb-switch
+xkeyboard-config
 xkill
 xload
 xlogo

@@ -5,6 +5,7 @@ ImageMagick
 MUMPS
 PyQt-builder
 R-rpm-macros
+SDL2_image
 SuperLU
 Xaw3d
 accountsservice
@@ -111,7 +112,6 @@ ghc-unliftio
 giflib
 gjs
 gl2ps
-glade
 glew
 glib-networking
 glibc
@@ -126,7 +126,6 @@ gnome-extensions-app
 gnome-keyring
 gnome-logs
 gnome-menus
-gnome-shell
 gnome-shell-extension-background-logo
 gnome-shell-extensions
 gnome-terminal
@@ -164,9 +163,9 @@ iprutils
 ipython
 irssi
 iw
+jack-audio-connection-kit
 jansson
 java-17-openjdk
-java-17-openjdk-portable
 jdependency
 jitterentropy
 jq
@@ -185,6 +184,7 @@ libavc1394
 libbluray
 libbs2b
 libcaca
+libcacard
 libcdio
 libcdio-paranoia
 libcerf
@@ -196,7 +196,6 @@ libevent
 libffi
 libfprint
 libgdither
-libgdl
 libgee
 libgeotiff
 libgnomekbd
@@ -238,7 +237,6 @@ libva
 libverto
 libvma
 libwebp
-libwnck3
 libwpe
 libxklavier
 libxml2
@@ -264,6 +262,7 @@ mdadm
 meson
 metis
 microcode_ctl
+mimalloc
 mingw-bzip2
 mingw-curl
 mingw-dlfcn
@@ -310,7 +309,6 @@ ogdi
 oneVPL
 opae
 open-sans-fonts
-openblas-srpm-macros
 openjpeg2
 openldap
 openmpi
@@ -364,7 +362,6 @@ python-black
 python-bleach
 python-build
 python-chai
-python-codecov
 python-configshell
 python-constantly
 python-cssselect
@@ -421,7 +418,6 @@ python-json-logger
 python-json5
 python-jupyter-client
 python-jupyter-core
-python-jupyterlab_pygments
 python-jwt
 python-kdcproxy
 python-kmod
@@ -445,7 +441,6 @@ python-pandocfilters
 python-parsel
 python-parso
 python-pbr
-python-pexpect
 python-pickleshare
 python-pid
 python-pillow
@@ -467,7 +462,6 @@ python-pytest-asyncio
 python-pytest-benchmark
 python-pytest-cov
 python-pytest-expect
-python-pytest-flakes
 python-pytest-forked
 python-pytest-lazy-fixture
 python-pytest-mock
@@ -549,7 +543,6 @@ pythran
 pyxattr
 pyxdg
 qatlib
-qrencode
 quota
 radvd
 ragel
@@ -571,7 +564,6 @@ rust-rav1e
 sanlock
 scalapack
 schroedinger
-scipy
 scons
 scotch
 sdl12-compat
@@ -590,6 +582,7 @@ sord
 sound-theme-freedesktop
 soundtouch
 soxr
+spice
 sratom
 srt
 stalld
@@ -597,7 +590,6 @@ startup-notification
 stress-ng
 subscription-manager-cockpit
 sushi
-svt-av1
 switcheroo-control
 symlinks
 sysfsutils
@@ -616,7 +608,6 @@ tk
 tlog
 tomcat
 toolbox
-torque
 totem
 totem-pl-parser
 tre
@@ -645,7 +636,6 @@ xdg-desktop-portal
 xdg-user-dirs
 xen
 xerces-c
-xkeyboard-config
 xmlrpc-c
 xorg-x11-font-utils
 xz

@@ -80,7 +80,6 @@ allegro
 allegro5
 allgeyer-fonts
 alligator
-almanah
 alot
 alphabet-soup
 alsamixergui
@@ -105,6 +104,7 @@ amsynth
 amtterm
 am-utils
 anaconda-realmd
+anaconda-webui
 anagramarama
 analitza
 anarch
@@ -381,7 +381,6 @@ biboumi
 bibutils
 bib2html
 bidiv
-bijiben
 binaryen
 binclock
 bind-dyndb-ldap
@@ -1232,7 +1231,10 @@ ElectricFence
 electron-cash
 electronics-menu
 electrum
+elementary-camera
+elementary-code
 elementary-icon-theme
+elementary-notifications
 elementary-onboarding
 elementary
 elementary-xfce-icon-theme
@@ -1453,7 +1455,6 @@ eureka
 eurephia
 eventlog
 evince
-evolution-rspam
 exaile
 examiner
 exec-maven-plugin
@@ -2129,7 +2130,6 @@ gkrellm
 gkrellm-sun
 gkrellm-top
 gkrellm-wifi
-glabels
 glab
 glade
 glances
@@ -2267,7 +2267,6 @@ gnome-shell-extension-suspend-button
 gnome-shell-extension-unite
 gnome-shell-extension-vertical-workspaces
 gnome-shell-frippery
-gnome-shell
 gnome-shell-theme-flat-remix
 gnome-sound-recorder
 gnome-subtitles
@@ -2279,7 +2278,6 @@ gnome-terminal
 gnome-tetravex
 gnome-text-editor
 gnome-themes-extra
-gnome-todo
 gnome-tour
 gnome-translate
 gnome-usage
@@ -4008,7 +4006,6 @@ grive2
 gromacs
 gron
 groonga-normalizer-mysql
-groonga
 gr-osmosdr
 group-service
 growlight
@@ -4116,6 +4113,7 @@ gxmms2
 gyazo
 gydl
 g3kb-switch
+g4music
 hakrevdns
 halibut
 harec
@@ -4235,7 +4233,6 @@ cheat
 check-create-certificate
 check_postgres
 checksec
-cheese
 chemical-mime-data
 CheMPS2
 chess_db
@@ -4617,7 +4614,9 @@ kdiskmark
 kdissert
 kdnssd-avahi
 kdnssd
+kdsingleapplication
 kdsoap
+kdsoap-ws-discovery-client
 kealib
 kea
 keditbookmarks
@@ -4749,6 +4748,7 @@ kiln
 kim-api
 kinfocenter
 kio-admin
+kio-extras-kf5
 kio-extras
 kio-ftps
 kio-fuse
@@ -4913,6 +4913,7 @@ kwallet
 kwave
 kwayland-integration
 kwayland-server
+kwayland
 kweathercore
 kweather
 kwebkitpart
@@ -5001,6 +5002,7 @@ libaec
 libaesgm
 libAfterImage
 libahp-gt
+libahp-xc
 libalkimia
 libappindicator
 libapreq2
@@ -5214,6 +5216,7 @@ libkdegames
 libkdtree++
 libkdumpfile
 libkeduvocdocument
+libkexiv2
 libkgapi
 libkkc-data
 libkmahjongg
@@ -5222,6 +5225,7 @@ libkolabxml
 libkomparediff2
 libkrunfw
 libkscreen-qt5
+libkscreen
 libksysguard
 liblas
 liblbfgs
@@ -5326,6 +5330,7 @@ libpgf
 libphidget22
 libphonenumber
 libplacebo
+libplasma
 libpng
 libpng12
 libpng15
@@ -5488,7 +5493,6 @@ libwfut
 libwhirlpool
 libwiimote
 libwnck
-libwnck3
 libwpe
 libwvstreams
 libXcm
@@ -5724,7 +5728,6 @@ machineball
 maildir-utils
 mailman3-fedmsg-plugin
 mailnag
-mail-notification
 mailprocessing
 maim
 makebootfat
@@ -6275,6 +6278,7 @@ msolve
 msort
 msr-tools
 mstflint
+msv
 mtd-utils
 mtn-browse
 mtpaint
@@ -6409,7 +6413,6 @@ netstat-nat
 netsurf
 nettee
 NetworkManager-iodine
-NetworkManager-openconnect
 NetworkManager-ssh
 NetworkManager-strongswan
 neuron
@@ -6678,7 +6681,6 @@ open-amp
 openarc
 openbgpd
 openblas
-openblas-srpm-macros
 openbox-theme-mistral-thin-dark
 openbox-theme-mistral-thin
 opencascade
@@ -6856,7 +6858,6 @@ paprefs
 parallel
 paratype-pt-mono-fonts
 paratype-pt-serif-fonts
-paraview
 parcellite
 parlaylib
 parley
@@ -6891,7 +6892,6 @@ pcc
 pcem
 pcfi
 pcl
-pcmanfm-qt
 pcmanfm
 pcmanx-gtk2
 pcmciautils
@@ -7730,7 +7730,6 @@ perl-Mail-SPF-Iterator
 perl-Mail-Transport-Dbx
 perl-Makefile-Parser
 perl-Mango
-perl-MARC-Record
 perl-Math-BaseCnv
 perl-Math-Cartesian-Product
 perl-Math-Expression-Evaluator
@@ -8645,6 +8644,7 @@ php-pear-Net-URL2
 php-pear-OLE
 php-pear-PEAR-Command-Packaging
 php-pear-PHP-CodeSniffer
+php-pear
 php-pear-Text-Figlet
 php-pear-Text-Password
 php-pear-XML-Parser
@@ -8735,6 +8735,7 @@ php-sebastian-version4
 php-seld-cli-prompt
 php-seld-phar-utils
 php-sentry
+php-smarty-gettext
 php-Smarty
 php-splitbrain-php-archive
 php-splitbrain-php-cli
@@ -8825,6 +8826,8 @@ pkgdiff
 plank
 plantri
 plantumlqeditor
+plasma-activities
+plasma-activities-stats
 plasma-applet-translator
 plasma-applet-weather-widget
 plasma-bigscreen
@@ -8848,6 +8851,7 @@ plasma-pa
 plasma-pass
 plasma-phonebook
 plasma-pk-updates
+plasma-print-manager
 plasma-sdk
 plasma-settings
 plasma-systemmonitor
@@ -8859,6 +8863,7 @@ plasma-welcome
 plasma-widget-menubar
 plasma-workspace
 plasma-workspace-wallpapers
+plasma5support
 platform
 playerctl
 playitagainsam
@@ -8921,6 +8926,14 @@ postgis
 postgresql-ip4r
 postgresql-pgpool-II
 postgresqltuner
+postgresql15-decoderbufs
+postgresql15-pgaudit
+postgresql15-pg_repack
+postgresql15
+postgresql16-decoderbufs
+postgresql16-pgaudit
+postgresql16-pg_repack
+postgresql16
 postgrey
 postproof
 postsrsd
@@ -9328,6 +9341,7 @@ python-blosc2
 python-bluepyopt
 python-blurb
 python-bokeh
+python-boltons
 python-booleanoperations
 python-boolean.py
 python-Bottleneck
@@ -10112,6 +10126,7 @@ python-logfury
 python-logutils
 python-logzero
 python-looseversion
+python-lqrt
 python-lsp-black
 python-lsp-jsonrpc
 python-lsp-server
@@ -10407,7 +10422,6 @@ python-pep8-naming
 python-periodictable
 python-perky
 python-persist-queue
-python-pexpect
 python-pg8000
 python-phonenumbers
 python-photutils
@@ -10694,7 +10708,6 @@ python-pytest-sugar
 python-pytest-testmon
 python-pytest-tldr
 python-pytest-trio
-python-pytest-venv
 python-pytest-watch
 python-pytest-xdist
 python-pytest-xprocess
@@ -10743,7 +10756,6 @@ python-rak811
 python-rangeparser
 python-rapidfuzz
 python-rarfile
-python-ratelimiter
 python-ratinabox
 python-raven
 python-rawkit
@@ -11031,7 +11043,6 @@ python-tasmotadevicecontroller
 python-tbtrim
 python-tcolorpy
 python-tcxparser
-python-tcxreader
 python-tcx2gpx
 python-teletype
 python-tempdir
@@ -11184,7 +11195,6 @@ python-vobject
 python-volatile
 python-volkszaehler
 python-voluptuous-serialize
-python-voluptuous
 python-vpoller
 python-vsts-cd-manager
 python-vsts
@@ -11614,7 +11624,6 @@ R-combinat
 R-commonmark
 R-conflicted
 R-corpus
-R-covr
 R-cpp11
 R-crayon
 R-credentials
@@ -12193,7 +12202,6 @@ rust-asahi-wifisync
 rust-ascii-canvas
 rust-ascii
 rust-ashpd
-rust-askalono-cli
 rust-askalono
 rust-askama_derive
 rust-askama_escape
@@ -12315,6 +12323,7 @@ rust-bugreport
 rust-build-context
 rust-build-fs-tree
 rust-bumpalo
+rust-bwrap
 rust-bytecount
 rust-bytemuck_derive
 rust-bytemuck
@@ -12337,6 +12346,7 @@ rust-caps
 rust-cargo-config2
 rust-cargo-credential-libsecret
 rust-cargo-credential
+rust-cargo-deny
 rust-cargo-insta
 rust-cargo-lock
 rust-cargo-manifest
@@ -12372,6 +12382,7 @@ rust-clang-ast
 rust-clang-sys
 rust-clang-tidy-sarif
 rust-clap_builder
+rust-clap_complete_command
 rust-clap_complete_fig
 rust-clap_complete_nushell
 rust-clap_complete
@@ -12385,6 +12396,7 @@ rust-clap-num
 rust-clap
 rust-clap-verbosity-flag
 rust-clap3
+rust-clearscreen
 rust-clippy-sarif
 rust-clircle
 rust-clru
@@ -12429,6 +12441,7 @@ rust-copydeps
 rust-copypasta
 rust-cordic
 rust-coreos-installer
+rust-countme
 rust-count-zeroes
 rust-cpc
 rust-cpp_demangle
@@ -12571,6 +12584,7 @@ rust-drm-ffi
 rust-drm-fourcc
 rust-drm
 rust-drm-sys
+rust-drop_bomb
 rust-dtoa-short
 rust-dtoa
 rust-dtoa0.4
@@ -12584,6 +12598,7 @@ rust-easy-parallel
 rust-ecdsa
 rust-edit-distance
 rust-edit
+rust-educe
 rust-ed25519-compact
 rust-ed25519
 rust-effective-limits
@@ -12614,6 +12629,7 @@ rust-enum-map-derive0.6
 rust-enum-map
 rust-enum-map1
 rust-enumn
+rust-enum-ordinalize
 rust-enumset_derive
 rust-enumset
 rust-environment
@@ -12637,6 +12653,7 @@ rust-error-chain
 rust-escape_string
 rust-escargot
 rust-etcetera
+rust-euclid
 rust-event-listener
 rust-event-listener-strategy
 rust-event-listener2
@@ -12697,8 +12714,10 @@ rust-fragile
 rust-freetype-rs0.26
 rust-freetype
 rust-freetype-sys0.13
+rust-fs_at
 rust-fs-err
 rust-fsio
+rust-fs-set-times
 rust-fs2
 rust-futf
 rust-futures-core
@@ -12963,12 +12982,14 @@ rust-indoc
 rust-indoc1
 rust-Inflector
 rust-inlinable_string
+rust-inotify0.9
 rust-inout
 rust-input_buffer
 rust-input-linux
 rust-input-linux-sys
 rust-input
 rust-input-sys
+rust-insta-cmd
 rust-instant
 rust-insta
 rust-intl-memoizer
@@ -13337,6 +13358,7 @@ rust-plain
 rust-platforms
 rust-pleaser
 rust-pmac
+rust-pmutil
 rust-pnet_base
 rust-pnet_datalink
 rust-pnet_sys
@@ -13417,19 +13439,15 @@ rust-pulse
 rust-pure-rust-locales
 rust-pwd
 rust-pyo3-build-config
-rust-pyo3-build-config0.15
 rust-pyo3-build-config0.19
 rust-pyo3-ffi
 rust-pyo3-ffi0.19
 rust-pyo3-log
 rust-pyo3-macros-backend
-rust-pyo3-macros-backend0.15
 rust-pyo3-macros-backend0.19
 rust-pyo3-macros
-rust-pyo3-macros0.15
 rust-pyo3-macros0.19
 rust-pyo3
-rust-pyo3_0.15
 rust-pyo3_0.19
 rust-pyproject-toml
 rust-pythonize
@@ -13510,6 +13528,7 @@ rust-regex-test
 rust-relative-path
 rust-remain
 rust-remove_dir_all
+rust-remove_dir_all0.7
 rust-reqwest
 rust-resctl-bench-intf
 rust-resctl-bench
@@ -13559,6 +13578,7 @@ rust-rustsec
 rust-rusttype
 rust-rustversion
 rust-rusty-fork
+rust-ruzstd
 rust-rxml_proc
 rust-rxml
 rust-rxml_validation
@@ -13626,7 +13646,9 @@ rust-serde_tuple
 rust-serde_urlencoded
 rust-serde_url_params
 rust-serde_with_macros
+rust-serde_with_macros1
 rust-serde_with
+rust-serde_with1
 rust-serde_yaml
 rust-serde_yaml0.8
 rust-serial_test_derive0.6
@@ -13739,6 +13761,7 @@ rust-struct-patch
 rust-strum_macros0.24
 rust-subprocess
 rust-subtle
+rust-suggest
 rust-supports-color
 rust-supports-hyperlinks
 rust-supports-unicode
@@ -13849,6 +13872,7 @@ rust-transpose
 rust-tree_magic_db
 rust-tree_magic_mini
 rust-tree-sitter
+rust-triomphe
 rust-trust-dns-client
 rust-trust-dns-proto
 rust-trust-dns-recursor
@@ -13856,6 +13880,7 @@ rust-trust-dns-resolver
 rust-trust-dns-server
 rust-trybuild
 rust-trybuild2
+rust-trycmd
 rust-tss-esapi
 rust-tss-esapi-sys
 rust-ttf-parser
@@ -14103,7 +14128,6 @@ scapy
 scdoc
 scd2html
 sciplot
-scipy
 scitokens-cpp
 scl-utils-build-helpers
 scmxx
@@ -14574,7 +14598,6 @@ svgpart
 svg2svgt
 svnkit
 svn2cl
-svt-av1
 svt-vp9
 svxlink
 swappy
@@ -14598,7 +14621,6 @@ sylfilter
 sylpheed
 symbian-m-yuppy-gb-fonts
 symlinks
-syncevolution
 synce4l
 syncthing
 synergy
@@ -14815,7 +14837,6 @@ topline
 toppler
 torcs-data
 torcs
-torque
 torrent-file-editor
 torsocks
 tor
@@ -15239,7 +15260,6 @@ wl-gammactl
 wl-mirror
 wlogout
 wlopm
-wlroots0.14
 wlroots0.15
 wlr-sunclock
 wlsunset
@@ -15319,6 +15339,7 @@ xcalib
 xca
 xcat
 xcb-imdkit
+xcb-util-errors
 xcb-util-xrm
 xcfun
 xcircuit
@@ -15422,7 +15443,6 @@ xchm
 xine-lib
 xiphos
 xkbset
-xkeyboard-config
 xkeycaps
 xlcrack
 xloadimage

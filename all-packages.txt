@@ -169,7 +169,7 @@ amtterm
 am-utils
 anaconda-realmd
 anaconda
-anaconda-user-help
+anaconda-webui
 anagramarama
 analitza
 anarch
@@ -1877,7 +1877,10 @@ ElectricFence
 electron-cash
 electronics-menu
 electrum
+elementary-camera
+elementary-code
 elementary-icon-theme
+elementary-notifications
 elementary-onboarding
 elementary
 elementary-xfce-icon-theme
@@ -5132,6 +5135,7 @@ golang-github-subosito-gotenv
 golang-github-syndtr-gocapability
 golang-github-syndtr-goleveldb
 golang-github-task-slim-sprig
+golang-github-task-slim-sprig3
 golang-github-task
 golang-github-tdewolff-minify
 golang-github-tdewolff-parse
@@ -5771,6 +5775,7 @@ gyp
 gzip
 g2clib
 g3kb-switch
+g4music
 hackrf
 hadolint
 hakrevdns
@@ -6698,7 +6703,9 @@ kdiskmark
 kdissert
 kdnssd-avahi
 kdnssd
+kdsingleapplication
 kdsoap
+kdsoap-ws-discovery-client
 kdump-anaconda-addon
 kealib
 kea
@@ -6962,6 +6969,7 @@ kimageannotator
 kim-api
 kinfocenter
 kio-admin
+kio-extras-kf5
 kio-extras
 kio-ftps
 kio-fuse
@@ -7151,6 +7159,7 @@ kwallet
 kwave
 kwayland-integration
 kwayland-server
+kwayland
 kweathercore
 kweather
 kwebkitpart
@@ -7271,6 +7280,7 @@ libaec
 libaesgm
 libAfterImage
 libahp-gt
+libahp-xc
 libaiff
 libaio
 libalkimia
@@ -7608,6 +7618,7 @@ libkdtree++
 libkdumpfile
 libkeduvocdocument
 libkeepalive
+libkexiv2
 libkgapi
 libkindrv
 libkiwix
@@ -7621,6 +7632,7 @@ libkrunfw
 libkrun
 libksba
 libkscreen-qt5
+libkscreen
 libksysguard
 liblangtag
 liblas
@@ -7793,6 +7805,7 @@ libphonenumber
 libpinyin
 libpipeline
 libplacebo
+libplasma
 libplist
 libpng
 libpng12
@@ -9263,6 +9276,7 @@ msolve
 msort
 msr-tools
 mstflint
+msv
 mtdev
 mtd-utils
 mtn-browse
@@ -13818,6 +13832,7 @@ php-seld-cli-prompt
 php-seld-phar-utils
 php-sentry
 php-simplepie
+php-smarty-gettext
 php-Smarty
 php-smbclient
 php
@@ -13932,6 +13947,8 @@ plank
 plantri
 plantumlqeditor
 plantuml
+plasma-activities
+plasma-activities-stats
 plasma-applet-translator
 plasma-applet-weather-widget
 plasma-bigscreen
@@ -13955,6 +13972,7 @@ plasma-pa
 plasma-pass
 plasma-phonebook
 plasma-pk-updates
+plasma-print-manager
 plasma-sdk
 plasma-settings
 plasma-systemmonitor
@@ -13968,6 +13986,7 @@ plasma-welcome
 plasma-widget-menubar
 plasma-workspace
 plasma-workspace-wallpapers
+plasma5support
 platform
 playerctl
 player
@@ -14074,6 +14093,14 @@ postgresql-odbc
 postgresql-pgpool-II
 postgresql
 postgresqltuner
+postgresql15-decoderbufs
+postgresql15-pgaudit
+postgresql15-pg_repack
+postgresql15
+postgresql16-decoderbufs
+postgresql16-pgaudit
+postgresql16-pg_repack
+postgresql16
 postgrey
 postproof
 postsrsd
@@ -14628,6 +14655,7 @@ python-blowfish
 python-bluepyopt
 python-blurb
 python-bokeh
+python-boltons
 python-booleanoperations
 python-boolean.py
 python-botocore
@@ -15647,6 +15675,7 @@ python-logfury
 python-logutils
 python-logzero
 python-looseversion
+python-lqrt
 python-lsp-black
 python-lsp-jsonrpc
 python-lsp-server
@@ -16475,7 +16504,6 @@ python-rangeparser
 python-rapidfuzz
 python-rarfile
 python-rasterio
-python-ratelimiter
 python-ratelimitingfilter
 python-ratinabox
 python-raven
@@ -17386,6 +17414,7 @@ qterminal
 qterm
 qtermwidget
 qtchooser
+qtile
 qtiocompressor
 qt-jdenticon
 qtkeychain
@@ -18895,6 +18924,7 @@ rust-bugreport
 rust-build-context
 rust-build-fs-tree
 rust-bumpalo
+rust-bwrap
 rust-bytecount
 rust-bytecheck_derive
 rust-bytecheck
@@ -18932,6 +18962,7 @@ rust-cargo-config2
 rust-cargo-credential-libsecret
 rust-cargo-credential
 rust-cargo-c
+rust-cargo-deny
 rust-cargo-husky
 rust-cargo-insta
 rust-cargo-lock
@@ -18971,6 +19002,7 @@ rust-clang-ast
 rust-clang-sys
 rust-clang-tidy-sarif
 rust-clap_builder
+rust-clap_complete_command
 rust-clap_complete_fig
 rust-clap_complete_nushell
 rust-clap_complete
@@ -18985,6 +19017,7 @@ rust-clap
 rust-clap-verbosity-flag
 rust-clap2
 rust-clap3
+rust-clearscreen
 rust-clicolors-control
 rust-clippy-sarif
 rust-clircle
@@ -19047,6 +19080,7 @@ rust-copydeps
 rust-copypasta
 rust-cordic
 rust-coreos-installer
+rust-countme
 rust-count-zeroes
 rust-cpc
 rust-cpio
@@ -19225,6 +19259,7 @@ rust-drm-ffi
 rust-drm-fourcc
 rust-drm
 rust-drm-sys
+rust-drop_bomb
 rust-dtoa-short
 rust-dtoa
 rust-dtoa0.4
@@ -19240,6 +19275,7 @@ rust-easy-parallel
 rust-ecdsa
 rust-edit-distance
 rust-edit
+rust-educe
 rust-ed25519-compact
 rust-ed25519
 rust-effective-limits
@@ -19277,6 +19313,7 @@ rust-enum-map-derive0.6
 rust-enum-map
 rust-enum-map1
 rust-enumn
+rust-enum-ordinalize
 rust-enumset_derive
 rust-enumset
 rust-environment
@@ -19302,6 +19339,7 @@ rust-escargot
 rust-esphome
 rust-etcetera
 rust-ethtool
+rust-euclid
 rust-event-listener
 rust-event-listener-strategy
 rust-event-listener2
@@ -19376,11 +19414,13 @@ rust-freetype-rs0.26
 rust-freetype
 rust-freetype-sys
 rust-freetype-sys0.13
+rust-fs_at
 rust-fscommon
 rust-fs-err
 rust-fs_extra
 rust-fsio
 rust-fslock
+rust-fs-set-times
 rust-fs2
 rust-funty
 rust-futf
@@ -19710,12 +19750,14 @@ rust-Inflector
 rust-inlinable_string
 rust-inotify
 rust-inotify-sys
+rust-inotify0.9
 rust-inout
 rust-input_buffer
 rust-input-linux
 rust-input-linux-sys
 rust-input
 rust-input-sys
+rust-insta-cmd
 rust-instant
 rust-insta
 rust-interpolate_name
@@ -20235,6 +20277,7 @@ rust-plotters-bitmap
 rust-plotters
 rust-plotters-svg
 rust-pmac
+rust-pmutil
 rust-pnet_base
 rust-pnet_datalink
 rust-pnet_sys
@@ -20328,19 +20371,15 @@ rust-pulse
 rust-pure-rust-locales
 rust-pwd
 rust-pyo3-build-config
-rust-pyo3-build-config0.15
 rust-pyo3-build-config0.19
 rust-pyo3-ffi
 rust-pyo3-ffi0.19
 rust-pyo3-log
 rust-pyo3-macros-backend
-rust-pyo3-macros-backend0.15
 rust-pyo3-macros-backend0.19
 rust-pyo3-macros
-rust-pyo3-macros0.15
 rust-pyo3-macros0.19
 rust-pyo3
-rust-pyo3_0.15
 rust-pyo3_0.19
 rust-pyproject-toml
 rust-pythonize
@@ -20435,6 +20474,7 @@ rust-relative-path
 rust-remain
 rust-remoteprocess
 rust-remove_dir_all
+rust-remove_dir_all0.7
 rust-rend
 rust-reqwest
 rust-resctl-bench-intf
@@ -20505,6 +20545,7 @@ rust-rustversion
 rust-rusty-fork
 rust-rustyline-derive
 rust-rustyline
+rust-ruzstd
 rust-rxml_proc
 rust-rxml
 rust-rxml_validation
@@ -20582,7 +20623,9 @@ rust-serde_urlencoded
 rust-serde_url_params
 rust-serde-value
 rust-serde_with_macros
+rust-serde_with_macros1
 rust-serde_with
+rust-serde_with1
 rust-serde-xml-rs
 rust-serde_yaml
 rust-serde_yaml0.8
@@ -20730,6 +20773,7 @@ rust-strum
 rust-strum0.21
 rust-subprocess
 rust-subtle
+rust-suggest
 rust-supports-color
 rust-supports-hyperlinks
 rust-supports-unicode
@@ -20907,6 +20951,7 @@ rust-tree-sitter-highlight
 rust-tree-sitter-loader
 rust-tree-sitter
 rust-tree-sitter-tags
+rust-triomphe
 rust-trust-dns-client
 rust-trust-dns-proto
 rust-trust-dns-recursor
@@ -20914,6 +20959,7 @@ rust-trust-dns-resolver
 rust-trust-dns-server
 rust-trybuild
 rust-trybuild2
+rust-trycmd
 rust-try-lock
 rust-tss-esapi
 rust-tss-esapi-sys
@@ -22842,7 +22888,6 @@ wl-mirror
 wlogout
 wlopm
 wlroots
-wlroots0.14
 wlroots0.15
 wlr-randr
 wlr-sunclock
@@ -22947,6 +22992,7 @@ xcat
 xcb-imdkit
 xcb-proto
 xcb-util-cursor
+xcb-util-errors
 xcb-util-image
 xcb-util-keysyms
 xcb-util-renderutil
