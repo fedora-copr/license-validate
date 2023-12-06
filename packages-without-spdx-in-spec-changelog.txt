@@ -1087,7 +1087,6 @@ ddclient
 ddcutil
 ddgr
 d-din-fonts
-ddiskit
 ddnet
 ddpt
 ddrescue
@@ -2046,6 +2045,7 @@ f38-backgrounds
 f39-backgrounds
 gabedit
 gajim
+gala
 galculator
 galera
 gambas3
@@ -3158,6 +3158,7 @@ golang-github-alecthomas-assert-2
 golang-github-alecthomas-colour
 golang-github-alecthomas-chroma
 golang-github-alecthomas-chroma-2
+golang-github-alecthomas-kingpin2
 golang-github-alecthomas-kong-hcl
 golang-github-alecthomas-kong
 golang-github-alecthomas-repr
@@ -3939,6 +3940,7 @@ golang-github-mattn-tty
 golang-github-mattn-xmlrpc
 golang-github-mattn-zglob
 golang-github-matttproud-protobuf-extensions
+golang-github-matttproud-protobuf-extensions2
 golang-github-maxatome-testdeep
 golang-github-maxhalford-halfgone
 golang-github-max-sum-base32768
@@ -4718,6 +4720,7 @@ golang-x-time
 golang-x-tools
 golang-x-vuln
 golang-x-xerrors
+goldendict-ng
 goldendict
 GoldenCheetah
 golist
@@ -4789,6 +4792,7 @@ granite
 granite-7
 grantlee-editor
 grantlee-qt5
+grantleetheme
 graphene
 GraphicsMagick
 graphlcd-base
@@ -5012,6 +5016,7 @@ hikari
 hipblas
 hipcub
 hipify
+hipsparse
 hiran-perizia-fonts
 hiredis
 hitch
@@ -5431,6 +5436,7 @@ julietaula-montserrat-fonts
 julius
 julius-voxforge
 jumpnbump
+JUnitParams
 junit
 junit5
 jupp
@@ -5466,7 +5472,6 @@ kasts
 kate
 kate4
 katomic
-kaudiocreator
 kawa
 kbackup
 kbdd
@@ -5693,8 +5698,6 @@ kf6-attica
 kf6-baloo
 kf6-bluez-qt
 kf6-frameworkintegration
-kf6-kactivities
-kf6-kactivities-stats
 kf6-karchive
 kf6-kauth
 kf6-kbookmarks
@@ -5723,8 +5726,8 @@ kf6-kiconthemes
 kf6-kidletime
 kf6-kimageformats
 kf6-kio
-kf6-kirigami2-addons
-kf6-kirigami2
+kf6-kirigami-addons
+kf6-kirigami
 kf6-kitemmodels
 kf6-kitemviews
 kf6-ki18n
@@ -5749,14 +5752,11 @@ kf6-ktextwidgets
 kf6-kunitconversion
 kf6-kuserfeedback
 kf6-kwallet
-kf6-kwayland
 kf6-kwidgetsaddons
 kf6-kwindowsystem
 kf6-kxmlgui
 kf6-modemmanager-qt
 kf6-networkmanager-qt
-kf6-plasma
-kf6-plasma5support
 kf6-prison
 kf6-purpose
 kf6-qqc2-desktop-style
@@ -5779,7 +5779,6 @@ khangman
 khard
 khealthcertificate
 khelpcenter
-khotkeys
 kcharselect
 kcheckers
 kchmviewer
@@ -5837,7 +5836,6 @@ kmetronome
 kmid2
 kmines
 kmix
-kmod
 kmodtool
 kmousetool
 kmouth
@@ -6292,6 +6290,7 @@ libhandy
 libhbaapi
 libhbalinux
 libheif
+libheinz
 libhid
 libhomfly
 libhubbub
@@ -6367,6 +6366,7 @@ libksba
 libkscreen-qt5
 libkscreen
 libksysguard
+libktorrent
 liblas
 liblbfgs
 liblc3
@@ -7516,6 +7516,7 @@ mingw-usbredir
 mingw-vulkan-headers
 mingw-vulkan-loader
 mingw-vulkan-tools
+mingw-vulkan-utility-libraries
 mingw-vulkan-validation-layers
 mingw-wavpack
 mingw-windows-default-manifest
@@ -7691,6 +7692,7 @@ mpris-scrobbler
 mp
 mpssh
 mpv_inhibit_gnome
+mpvqt
 mpv
 mp3fs
 mp3gain
@@ -8330,6 +8332,7 @@ openttd
 opentype-sanitizer
 openvdb
 openvkl
+open-vmdk
 open-vm-tools
 openvpn-auth-ldap
 openvpn-otp
@@ -11561,7 +11564,6 @@ postgresql-ip4r
 postgresql-jdbc
 postgresql-odbc
 postgresql-pgpool-II
-postgresql
 postgresqltuner
 postgresql15-decoderbufs
 postgresql15-pgaudit
@@ -11870,6 +11872,7 @@ python-argon2-cffi-bindings
 python-argon2-cffi
 python-argopt
 python-archinfo
+python-archspec
 python-arpeggio
 python-arpy
 python-arrow
@@ -12963,7 +12966,6 @@ python-linetable
 python-linkheader
 python-linkify-it-py
 python-linuxdoc
-python-linux-procfs
 python-lit
 python-littleutils
 python-livereload
@@ -13819,6 +13821,7 @@ python-rpds-py
 python-rpi-gpio2
 python-rply
 python-rpmautospec-core
+python-rpmautospec-koji
 python-rpmautospec
 python-rpmfluff
 python-rpyc
@@ -14120,6 +14123,7 @@ python-tomlkit
 python-toml
 python-toolz
 python-toposort
+python-torch
 python-tosca-parser
 python-towncrier
 python-tox-current-env
@@ -16738,9 +16742,7 @@ rust-intervaltree
 rust-intl-memoizer
 rust-intl_pluralrules
 rust-invalidstring
-rust-inventory-impl
 rust-inventory
-rust-inventory0.1
 rust-io-close
 rust-iocuddle
 rust-io-lifetimes
@@ -16980,7 +16982,6 @@ rust-minimal-lexical
 rust-miniz_oxide
 rust-miniz_oxide0.3
 rust-miniz_oxide0.5
-rust-miniz_oxide0.6
 rust-mint
 rust-minus
 rust-mio-extras
@@ -17041,6 +17042,7 @@ rust-normpath
 rust-notify-debouncer-mini
 rust-notify-rust
 rust-notify
+rust-notify5
 rust-nparse
 rust-nu-ansi-term
 rust-nu-ansi-term0.46
@@ -17372,6 +17374,7 @@ rust-quickcheck0.9
 rust-quick-xml
 rust-quick-xml0.17
 rust-quick-xml0.27
+rust-quick-xml0.30
 rust-quinn-proto
 rust-quinn
 rust-quinn-udp
@@ -17513,6 +17516,7 @@ rust-rustls-pemfile
 rust-rustls
 rust-rustls-webpki
 rust-rustsec
+rust-rust-stemmers
 rust-rusttype
 rust-rustversion
 rust-rusty-fork
@@ -18003,6 +18007,7 @@ rust-unix_socket
 rust-unsafe-libyaml
 rust-untrusted
 rust-untrusted0.7
+rustup
 rust-urid-derive
 rust-urid
 rust-uriparse
@@ -18968,7 +18973,6 @@ tikzit
 tilda
 tilibs
 tilp_and_gfm
-timescaledb
 timeshift
 timespan
 time
@@ -19104,7 +19108,6 @@ tucnak
 tuigreet
 tulrich-tuffy-fonts
 tumbler
-tuna
 tunctl
 tuned-profiles-nfv-host-bin
 tuned-switcher
@@ -19310,6 +19313,7 @@ vdr-tvguide
 vdr-tvscraper
 vdr-vnsiserver
 veccore
+vecgeom
 vecmath1.2
 vemana2000-fonts
 verilator
