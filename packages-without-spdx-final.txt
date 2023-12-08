@@ -114,6 +114,9 @@ ansible-collection-microsoft-sql warning: valid as old and new and no changelong
 ansible-collections-openstack - can be trivially converted to GPL-3.0-or-later
 ansible-openstack-modules - can be trivially converted to GPL-3.0-only
 ansifilter - can be trivially converted to GPL-3.0-or-later
+antiword - can be trivially converted to GPL-2.0-or-later
+antlrworks
+ants - can be trivially converted to LicenseRef-Fedora-Public-Domain
 anyterm - can be trivially converted to GPL-2.0-or-later
 anyterm - can be trivially converted to GPL-2.0-or-later
 aoetools - can be trivially converted to GPL-2.0-only
@@ -1427,7 +1430,6 @@ firefox-pkcs11-loader
 firefox
 firewalk
 fishbowl warning: valid as old and new and no changelong entry, please check
-fish
 five-or-more
 fixedptc
 flamerobin
@@ -2140,7 +2142,6 @@ golang-github-containerd-aufs - can be trivially converted to Apache-2.0
 golang-github-containerd-btrfs - can be trivially converted to Apache-2.0
 golang-github-containerd-imgcrypt - can be trivially converted to Apache-2.0
 golang-github-containerd-stargz-snapshotter warning: not valid neither as Callaway nor as SPDX, please check
-golang-github-containerd-ttrpc - can be trivially converted to Apache-2.0
 golang-github-containerd-zfs - can be trivially converted to Apache-2.0
 golang-github-containernetworking-cni - can be trivially converted to Apache-2.0
 golang-github-containernetworking-plugins - can be trivially converted to Apache-2.0
@@ -3116,7 +3117,6 @@ golang-sourcegraph-appdash-data warning: valid as old and new and no changelong 
 golang-sourcegraph-appdash warning: valid as old and new and no changelong entry, please check
 golang-sr-spc-log - can be trivially converted to GPL-3.0-only
 golang-starlark
-golang-storj-common
 golang-storj-drpc warning: valid as old and new and no changelong entry, please check
 golang-storj-uplink warning: valid as old and new and no changelong entry, please check
 golang-torproject-pluggable-transports-goptlib - can be trivially converted to CC0-1.0
@@ -3761,7 +3761,6 @@ kdevelop-pg-qt warning: not valid neither as Callaway nor as SPDX, please check
 kde-wallpapers - can be trivially converted to LGPL-3.0-only
 kdewebdev - can be trivially converted to GPL-2.0-only
 kdf - can be trivially converted to GPL-2.0-or-later
-kdiagram - can be trivially converted to GPL-2.0-or-later
 kdialog
 kdiamond
 kdiskmark - can be trivially converted to GPL-3.0-or-later
@@ -3834,9 +3833,6 @@ kiriki
 kismon
 kiss - can be trivially converted to GPL-3.0-only
 kita - can be trivially converted to GPL-2.0-or-later
-kiten - can be trivially converted to GPL-2.0-or-later
-kiten
-kiten
 kitutuki - can be trivially converted to GPL-1.0-or-later
 kiwi-boxed-plugin - can be trivially converted to GPL-3.0-or-later
 kjots - can be trivially converted to GPL-2.0-only
@@ -4132,6 +4128,7 @@ libdmapsharing4
 libdnet
 libdnf-plugin-txnupd
 libdockapp warning: valid as old and new and no changelong entry, please check
+libdrm-armada
 libdsk
 libdstr - can be trivially converted to LicenseRef-Fedora-Public-Domain
 libdvbpsi
@@ -4286,6 +4283,7 @@ libmml - can be trivially converted to GPL-3.0-only OR LGPL-2.0-or-later WITH FL
 libmodbus
 libmodman
 libmodplug - can be trivially converted to LicenseRef-Fedora-Public-Domain
+libmodulemd1 warning: valid as old and new and no changelong entry, please check
 libmpcdec
 libmpdclient
 libmpd - can be trivially converted to GPL-2.0-or-later
@@ -4388,7 +4386,6 @@ librs232 warning: valid as old and new and no changelong entry, please check
 librs232 warning: valid as old and new and no changelong entry, please check
 librx - can be trivially converted to GPL-2.0-or-later
 libsafec warning: valid as old and new and no changelong entry, please check
-libsbml
 libsbw
 libscrypt
 libsecp256k1 warning: valid as old and new and no changelong entry, please check
@@ -4499,7 +4496,6 @@ libXfont warning: valid as old and new and no changelong entry, please check
 libxklavier
 libxls
 libxlsxwriter
-libxml2 warning: valid as old and new and no changelong entry, please check
 libxmp
 libxnm - can be trivially converted to GPL-2.0-or-later
 libxo
@@ -4639,6 +4635,51 @@ lsyncd - can be trivially converted to GPL-2.0-or-later
 lterm - can be trivially converted to GPL-2.0-only
 ltrace - can be trivially converted to GPL-2.0-or-later
 ltunify - can be trivially converted to GPL-3.0-or-later
+lua-alt-getopt warning: valid as old and new and no changelong entry, please check
+lua-argparse warning: valid as old and new and no changelong entry, please check
+lua-basexx warning: valid as old and new and no changelong entry, please check
+lua-binaryheap warning: valid as old and new and no changelong entry, please check
+luabind warning: valid as old and new and no changelong entry, please check
+lua-bitop warning: valid as old and new and no changelong entry, please check
+lua-bit32 warning: valid as old and new and no changelong entry, please check
+lua-compat53 warning: valid as old and new and no changelong entry, please check
+lua-coxpcall warning: valid as old and new and no changelong entry, please check
+lua-cqueues warning: valid as old and new and no changelong entry, please check
+lua-dbi warning: valid as old and new and no changelong entry, please check
+lua-event warning: valid as old and new and no changelong entry, please check
+lua-expat warning: valid as old and new and no changelong entry, please check
+lua-fifo warning: valid as old and new and no changelong entry, please check
+lua-filesystem warning: valid as old and new and no changelong entry, please check
+lua-http warning: valid as old and new and no changelong entry, please check
+lua-inotify warning: valid as old and new and no changelong entry, please check
+luajit warning: valid as old and new and no changelong entry, please check
+lua-json warning: valid as old and new and no changelong entry, please check
+lua-ldap warning: valid as old and new and no changelong entry, please check
+lua-ldoc
+lua-lgi warning: valid as old and new and no changelong entry, please check
+lua-lgi
+lua-loop warning: valid as old and new and no changelong entry, please check
+lua-lpeg-patterns warning: valid as old and new and no changelong entry, please check
+lua-lpeg warning: valid as old and new and no changelong entry, please check
+lua-luaossl warning: valid as old and new and no changelong entry, please check
+lua-lunitx warning: valid as old and new and no changelong entry, please check
+lua-lxc
+lua-markdown warning: valid as old and new and no changelong entry, please check
+lua-md5 warning: valid as old and new and no changelong entry, please check
+lua-mmdb warning: valid as old and new and no changelong entry, please check
+lua-moonscript warning: valid as old and new and no changelong entry, please check
+lua-mosquitto warning: valid as old and new and no changelong entry, please check
+lua-mpack warning: valid as old and new and no changelong entry, please check
+lua-penlight warning: valid as old and new and no changelong entry, please check
+lua-posix warning: valid as old and new and no changelong entry, please check
+lua-psl warning: valid as old and new and no changelong entry, please check
+lua-readline warning: valid as old and new and no changelong entry, please check
+luarocks warning: valid as old and new and no changelong entry, please check
+lua-sec warning: valid as old and new and no changelong entry, please check
+lua-socket warning: valid as old and new and no changelong entry, please check
+lua-sql warning: valid as old and new and no changelong entry, please check
+lua-term warning: valid as old and new and no changelong entry, please check
+lua-unbound warning: valid as old and new and no changelong entry, please check
 lucene++ - can be trivially converted to Apache-2.0 OR LGPL-3.0-or-later
 lucene
 lugaru - can be trivially converted to GPL-2.0-or-later
@@ -5527,7 +5568,6 @@ ocspd - can be trivially converted to Apache-1.0
 octave-brain2mesh - can be trivially converted to GPL-2.0-or-later
 octave-communications - can be trivially converted to GPL-3.0-or-later
 octave-control - can be trivially converted to GPL-3.0-or-later
-octave-doctest
 octave-flexiblas - can be trivially converted to GPL-3.0-or-later
 octave-general
 octave-gsl - can be trivially converted to GPL-2.0-or-later
@@ -5550,7 +5590,6 @@ octave-signal - can be trivially converted to GPL-3.0-or-later
 octave - can be trivially converted to GPL-3.0-or-later
 octave-specfun
 octave-struct - can be trivially converted to GPL-3.0-or-later
-octave-symbolic - can be trivially converted to GPL-3.0-or-later
 octave-zmat
 octomap
 oct2spec - can be trivially converted to GPL-3.0-or-later
@@ -5734,7 +5773,6 @@ pacrunner - can be trivially converted to GPL-2.0-only
 padthv1 - can be trivially converted to GPL-2.0-or-later
 pagure-dist-git - can be trivially converted to GPL-2.0-or-later
 pagure - can be trivially converted to GPL-2.0-or-later
-paho-c warning: not valid neither as Callaway nor as SPDX, please check
 pachi - can be trivially converted to GPL-2.0-or-later
 paintown
 paintown - can be trivially converted to LicenseRef-Fedora-Public-Domain
@@ -7276,7 +7314,6 @@ php-ircmaxell-security-lib warning: valid as old and new and no changelong entry
 php-jdorn-sql-formatter warning: valid as old and new and no changelong entry, please check
 php-justinrainbow-json-schema5 warning: valid as old and new and no changelong entry, please check
 php-khanamiryan-qrcode-detector-decoder
-php-kolab-net-ldap3 - can be trivially converted to GPL-3.0-or-later
 php-kukulich-fshl - can be trivially converted to GPL-2.0-or-later
 phpldapadmin - can be trivially converted to GPL-2.0-or-later
 php-league-container4 warning: valid as old and new and no changelong entry, please check
@@ -7322,16 +7359,12 @@ php-pear-Console-Getargs - can be trivially converted to PHP-3.01
 php-pear-Console-Table
 php-pear-Crypt-Blowfish
 php-pear-Crypt-CHAP
-php-pear-Date-Holidays - can be trivially converted to PHP-3.01
-php-pear-Date-Holidays-USA - can be trivially converted to PHP-3.01
 php-pear-Date
 php-pear-DB - can be trivially converted to PHP-3.01
 php-pear-File-Fstab - can be trivially converted to PHP-3.01
 php-pear-File-Passwd - can be trivially converted to PHP-3.01
 php-pear-HTML-Template-IT
-php-pear-HTTP-OAuth
 php-pear-HTTP-Request
-php-pear-HTTP-Request2
 php-pear-Image-Text - can be trivially converted to PHP-3.01
 php-pear-Log warning: valid as old and new and no changelong entry, please check
 php-pear-Mail-mimeDecode
@@ -7341,20 +7374,15 @@ php-pear-MDB2-Driver-pgsql
 php-pear-MDB2-Schema
 php-pear-MDB2
 php-pear-Net-Curl
-php-pear-Net-DNS2
 php-pear-Net-IDNA2
 php-pear-Net-IMAP - can be trivially converted to GPL-2.0-or-later AND PHP-3.01
-php-pear-Net-LDAP2 - can be trivially converted to LGPL-3.0-only
 php-pear-Net-Sieve
 php-pear-Net-URL
-php-pear-Net-URL2
 php-pear-OLE - can be trivially converted to PHP-3.01
 php-pear-PEAR-Command-Packaging - can be trivially converted to PHP-3.01
 php-pear-PHP-CodeSniffer warning: not valid neither as Callaway nor as SPDX, please check
 php-pear-Text-Figlet - can be trivially converted to PHP-3.01
-php-pear-Text-Password warning: valid as old and new and no changelong entry, please check
 php-pear-XML-Parser
-php-pear-XML-Serializer
 php-pear-XML-SVG - can be trivially converted to LGPL-3.0-only
 php-pecl-ds warning: valid as old and new and no changelong entry, please check
 php-pecl-krb5 warning: valid as old and new and no changelong entry, please check
@@ -8146,7 +8174,6 @@ python-daemonize warning: valid as old and new and no changelong entry, please c
 python-daikin - can be trivially converted to GPL-3.0-only
 python-daiquiri - can be trivially converted to Apache-2.0
 python-danfossair - can be trivially converted to Apache-2.0
-python-daphne
 python-datadog
 python-datalad warning: valid as old and new and no changelong entry, please check
 python-dateutils - can be trivially converted to LicenseRef-Fedora-Public-Domain
@@ -8485,6 +8512,7 @@ python-inflection warning: valid as old and new and no changelong entry, please 
 python-inflect warning: valid as old and new and no changelong entry, please check
 python-influxdb warning: valid as old and new and no changelong entry, please check
 python-iniparse
+python-inotify_simple
 python-inspyred warning: valid as old and new and no changelong entry, please check
 python-instant
 python-interrogate warning: valid as old and new and no changelong entry, please check
@@ -9163,6 +9191,7 @@ python-serpy warning: valid as old and new and no changelong entry, please check
 python-service-identity warning: valid as old and new and no changelong entry, please check
 python-setproctitle
 python-setuptools_git
+python-setuptools_scm_git_archive warning: valid as old and new and no changelong entry, please check
 python-sgmllib3k
 python-shade - can be trivially converted to Apache-2.0
 python-shamir-mnemonic warning: valid as old and new and no changelong entry, please check
@@ -9190,7 +9219,6 @@ python-slixmpp warning: valid as old and new and no changelong entry, please che
 python-slugify
 python-sly
 python-smart_open warning: valid as old and new and no changelong entry, please check
-python-smartypants
 python-smbprotocol warning: valid as old and new and no changelong entry, please check
 python-smi
 python-snappy
@@ -9355,7 +9383,6 @@ python-types-requests - can be trivially converted to Apache-2.0
 python-types-six - can be trivially converted to Apache-2.0
 python-typing-inspect warning: valid as old and new and no changelong entry, please check
 python-typish warning: valid as old and new and no changelong entry, please check
-python-typogrify
 python-tzlocal warning: valid as old and new and no changelong entry, please check
 python-ufl - can be trivially converted to LGPL-3.0-or-later
 python-uinput - can be trivially converted to GPL-3.0-only
@@ -10601,7 +10628,6 @@ sqlgrey - can be trivially converted to GPL-2.0-or-later
 sqliteman
 sqliteodbc
 sqlite2 - can be trivially converted to LicenseRef-Fedora-Public-Domain
-sqljet - can be trivially converted to GPL-2.0-only
 sqlninja - can be trivially converted to GPL-2.0-or-later
 sqm-scripts - can be trivially converted to GPL-2.0-only
 squashfuse
@@ -10756,7 +10782,6 @@ sysfsutils
 syslinux - can be trivially converted to GPL-2.0-or-later
 syslog-ng - can be trivially converted to GPL-2.0-or-later
 sysmontask
-sysprof warning: valid as old and new and no changelong entry, please check
 sysreporter warning: valid as old and new and no changelong entry, please check
 sysrepo
 system-config-rootpassword - can be trivially converted to GPL-1.0-or-later
@@ -11683,7 +11708,6 @@ xdesktopwaves - can be trivially converted to GPL-2.0-or-later
 xdffileio - can be trivially converted to LGPL-3.0-or-later
 xdg-dbus-proxy
 xdg-desktop-portal
-xdg-user-dirs
 xdialog - can be trivially converted to GPL-1.0-or-later
 xdotool
 xdrawchem - can be trivially converted to GPL-2.0-or-later

@@ -1079,7 +1079,6 @@ libvpx
 libwacom
 libwebp
 libwnck3
-libwpe
 libxcb
 libxcrypt
 libxcvt
@@ -1774,6 +1773,9 @@ postfix
 postgresql-jdbc
 postgresql-odbc
 postgresql16
+postgresql16-decoderbufs
+postgresql16-pg_repack
+postgresql16-pgaudit
 potrace
 power-profiles-daemon
 powerpc-utils
@@ -1992,9 +1994,6 @@ qemu-kvm
 qpdf
 qt5
 qt5-qtbase
-qt5-qtdeclarative
-qt5-qtsvg
-qt5-qtwayland
 qt6
 qt6-qt3d
 qt6-qt5compat
@@ -2368,7 +2367,6 @@ wireshark
 woff2
 words
 wpa_supplicant
-wpebackend-fdo
 wsdd
 wsmancli
 x3270
@@ -2412,9 +2410,7 @@ xmvn-generator
 xorg-x11-drivers
 xorg-x11-drv-dummy
 xorg-x11-drv-evdev
-xorg-x11-drv-fbdev
 xorg-x11-drv-libinput
-xorg-x11-drv-vmware
 xorg-x11-drv-wacom
 xorg-x11-font-utils
 xorg-x11-fonts

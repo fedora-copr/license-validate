@@ -1188,6 +1188,7 @@ compsize
 conakry-fonts
 conan
 concordance
+conda-build
 conda
 condor
 configsnap
@@ -5451,11 +5452,9 @@ golang
 golang-sr-emersion-gqlclient
 golang-sr-emersion-scfg
 golang-sr-nelsam-hel
-golang-sr-rockorager-tcell-term
 golang-sr-sircmpwn-getopt
 golang-sr-spc-log
 golang-starlark
-golang-storj-common
 golang-storj-drpc
 golang-storj-picobuf
 golang-storj-uplink
@@ -6298,6 +6297,7 @@ intel-igc
 intel-ipp-crypto-mb
 intel-ipsec-mb
 intel-llvm8.0-vc-intrinsics
+intel-media-driver-free
 intel-mediasdk
 intel-mpi-benchmarks
 intelone-mono-fonts
@@ -7013,6 +7013,7 @@ kmail
 kmenuedit
 kmetronome
 kmid2
+kmime
 kmines
 kmix
 kmod
@@ -7054,6 +7055,7 @@ konqueror
 konquest
 konsole
 konsole5
+kontactinterface
 kontact
 kontrast
 konversation
@@ -7070,7 +7072,9 @@ kpcli
 kpeoplevcard
 kphotoalbum
 kpilot
+kpimtextedit
 kpipewire
+kpkpass
 kpmcore
 kproperty
 kpublictransport
@@ -7110,6 +7114,7 @@ kshutdown
 ksig
 ks-install
 ksirk
+ksmtp
 ksmtuned
 ksnakeduel
 ksnip
@@ -7616,6 +7621,7 @@ libkcapi
 libkcddb
 libkcompactdisc
 libkdegames
+libkdepim
 libkdtree++
 libkdumpfile
 libkeduvocdocument
@@ -7626,6 +7632,7 @@ libkindrv
 libkiwix
 libkkc-data
 libkkc
+libkleo
 libkmahjongg
 libkml
 libkolabxml
@@ -7666,6 +7673,7 @@ liblxqt
 liblzf
 libmacaroons
 libmad
+libmamba
 libmanette
 libmash
 libmatekbd
@@ -7834,7 +7842,6 @@ libqb
 libQGLViewer
 libqmi
 libqrtr-glib
-libqtolm
 libqtxdg
 libquentier
 libquotient
@@ -8029,6 +8036,7 @@ libusbmuxd
 libusb1
 libuser
 libutempter
+libuvc
 libuv
 libu2f-host
 libu2f-server
@@ -11333,7 +11341,6 @@ perl-Fedora-Rebuild
 perl-Fedora-VSP
 perl-Feed-Find
 perl-Fennec-Lite
-perl-Fennec
 perl-FFI-CheckLib
 perl-FFI-Platypus
 perl-File-BaseDir
@@ -13464,14 +13471,12 @@ pf-bb-config
 pfstools
 pg_activity
 pgadmin4
-pgaudit
 pg_auto_failover
 pgbouncer
 pgcli
 pgmodeler
 pgpdump
 pgp-tools
-pg_repack
 pg-semver
 pgsphere
 pg_top
@@ -13581,7 +13586,6 @@ php-jdorn-sql-formatter
 php-justinrainbow-json-schema5
 php-khanamiryan-qrcode-detector-decoder
 php-kissifrot-php-ixr
-php-kolab-net-ldap3
 php-kukulich-fshl
 phpldapadmin
 php-league-container4
@@ -13638,16 +13642,12 @@ php-pear-Console-Getargs
 php-pear-Console-Table
 php-pear-Crypt-Blowfish
 php-pear-Crypt-CHAP
-php-pear-Date-Holidays
-php-pear-Date-Holidays-USA
 php-pear-Date
 php-pear-DB
 php-pear-File-Fstab
 php-pear-File-Passwd
 php-pear-HTML-Template-IT
-php-pear-HTTP-OAuth
 php-pear-HTTP-Request
-php-pear-HTTP-Request2
 php-pear-Image-Text
 php-pear-Log
 php-pear-Mail-mimeDecode
@@ -13659,23 +13659,18 @@ php-pear-MDB2-Driver-pgsql
 php-pear-MDB2-Schema
 php-pear-MDB2
 php-pear-Net-Curl
-php-pear-Net-DNS2
 php-pear-Net-IDNA2
 php-pear-Net-IMAP
-php-pear-Net-LDAP2
 php-pear-Net-Sieve
 php-pear-Net-SMTP
 php-pear-Net-Socket
 php-pear-Net-URL
-php-pear-Net-URL2
 php-pear-OLE
 php-pear-PEAR-Command-Packaging
 php-pear-PHP-CodeSniffer
 php-pear
 php-pear-Text-Figlet
-php-pear-Text-Password
 php-pear-XML-Parser
-php-pear-XML-Serializer
 php-pear-XML-SVG
 php-pecl-amqp
 php-pecl-apcu
@@ -14092,7 +14087,6 @@ postfix-mta-sts-resolver
 postfix
 postfwd
 postgis
-postgres-decoderbufs
 postgresql-ip4r
 postgresql-jdbc
 postgresql-odbc
@@ -14820,6 +14814,8 @@ python-comm
 python-compal
 python-compreffor
 python-compressed-rtf
+python-conda-index
+python-conda-libmamba-solver
 python-conda-package-handling
 python-conda-package-streaming
 python-configargparse
@@ -15742,6 +15738,7 @@ python-meh
 python-mechanicalsoup
 python-mechanize
 python-memcached
+python-menuinst
 python-mercantile
 python-mergedeep
 python-merge3
@@ -16463,7 +16460,6 @@ python-pyudev
 python-pyunicorn
 python-pyupgrade
 python-pyvat
-python-pyvhacd
 python-pyvirtualdisplay
 python-pyvirtualize
 python-pyvit
@@ -19908,6 +19904,7 @@ rust-libudev-sys
 rust-libxml
 rust-libz-sys
 rust-lib0
+rust-line-numbers
 rust-line-wrap
 rust-link-cplusplus
 rust-linked-hash-map
@@ -20627,6 +20624,7 @@ rust-serde_stacker
 rust-serde_test
 rust-serde_tuple_macros
 rust-serde_tuple
+rust-serde-untagged
 rust-serde_urlencoded
 rust-serde_url_params
 rust-serde-value
@@ -21778,7 +21776,6 @@ sqliteman
 sqliteodbc
 sqlite
 sqlite2
-sqljet
 sqlninja
 sqm-scripts
 squashfs-tools-ng
