@@ -69,7 +69,12 @@ aisleriot
 akmods
 akonadi-calendar-tools
 akonadiconsole
+akonadi-contacts
 akonadi-import-wizard
+akonadi-mime
+akonadi-notes
+akonadi-search
+akonadi-server
 akregator
 alacarte
 alef-fonts
@@ -1255,7 +1260,6 @@ dnf5
 DNS-Compliance-Testing
 dnscrypt-proxy
 dnsdist
-dnsenum
 dnsgen
 dnsmap
 dnsperf
@@ -1296,6 +1300,7 @@ dosbox-staging
 dotconf
 dotnet6.0
 dotnet7.0
+dotnet8.0
 dot2tex
 doublecmd
 double-conversion
@@ -2842,6 +2847,7 @@ glib-networking
 glib2
 glide
 glimmer
+glimpse
 gliv
 glmark2
 glm
@@ -2935,7 +2941,6 @@ gnome-autoar
 gnome-backgrounds
 gnome-battery-bench
 gnome-bluetooth
-gnome-bluetooth3.34
 gnome-boxes
 gnome-break-timer
 gnome-browser-connector
@@ -4844,7 +4849,6 @@ gsi-openssh
 gsl-lite
 gsl
 gsmartcontrol
-gsm
 gsoap
 gsound
 gspell
@@ -5217,7 +5221,7 @@ intel-llvm8.0-vc-intrinsics
 intel-media-driver-free
 intel-mediasdk
 intel-mpi-benchmarks
-intelone-mono-fonts
+intel-one-mono-fonts
 intel-opencl-clang
 intel-undervolt
 inxi
@@ -5484,6 +5488,7 @@ kbruch
 kBuild
 kcachegrind
 kcalc
+kcalutils
 kcat
 kcbench
 kclock
@@ -5782,6 +5787,7 @@ kcharselect
 kcheckers
 kchmviewer
 kiconedit
+kidentitymanagement
 kid3
 kigo
 kig
@@ -5790,6 +5796,7 @@ killbots
 kiln
 kimageannotator
 kim-api
+kimap
 kinfocenter
 kio-admin
 kio-extras-kf5
@@ -5809,6 +5816,7 @@ kiss-fft
 kiss
 kita
 kiten
+kitinerary
 kitty
 kitutuki
 kiwi-boxed-plugin
@@ -5820,6 +5828,7 @@ kjournald
 kjumpingcube
 klatexformula
 klavaro
+kldap
 kleopatra
 klettres
 klickety
@@ -5830,6 +5839,8 @@ kmag
 kmahjongg
 kmail-account-wizard
 kmail
+kmailtransport
+kmbox
 kmenuedit
 kmetronome
 kmid2
@@ -5944,6 +5955,7 @@ ktextaddons
 ktikz
 ktimer
 ktls-utils
+ktnef
 ktorrent
 ktouch
 ktp-accounts-kcm
@@ -6229,7 +6241,6 @@ libfilteraudio
 libfishsound
 libfixposix
 libfm-qt
-libfm
 libfontenc
 libfplll
 libfprint
@@ -6333,6 +6344,7 @@ libiodbc
 libiptcdata
 libipuz
 libircclient
+libirc
 libirecovery
 libirman
 libiscsi
@@ -6585,7 +6597,6 @@ libsepol
 libserialport
 libsexymm
 libsexy
-libshout
 libshumate
 libsidplayfp
 libsigc++20
@@ -6726,6 +6737,7 @@ libxcvt
 libxdiff
 libxfce4ui
 libxfce4util
+libxfce4windowing
 libXfont
 libXISF
 libxklavier
@@ -6757,7 +6769,6 @@ libyuv
 libzbd
 libzdb
 libzdnn
-libzeitgeist
 libzen
 libzfcphbaapi
 libzim
@@ -7236,6 +7247,7 @@ milter-regex
 mimalloc
 mimedefang
 mimetic
+mimetreeparser
 mimic
 minder
 mindless
@@ -7810,7 +7822,6 @@ nazghul
 nbc
 nbd-runner
 nbd
-nbtscan
 ncdc
 ncid
 ncl
@@ -7948,6 +7959,7 @@ nodejs-less
 nodejs-linefix
 nodejs-nodemon
 nodejs-packaging
+nodejs-pnpm
 nodejs-replace-require-self
 nodejs-underscore
 nodejs-undici
@@ -8043,6 +8055,7 @@ obfs4
 objenesis
 objfw
 obs-build
+obs-cef
 obsctl
 observable
 obserware
@@ -8215,7 +8228,6 @@ olpc-utils
 omniORBpy
 omniORB
 ompl
-onboard
 oneapi-level-zero
 onednn
 onedrive
@@ -8271,7 +8283,6 @@ opengrm-ngram
 openhantek
 openhpi
 openhpi-subagent
-openh264
 openchange
 openigtlink
 openiked
@@ -8529,6 +8540,7 @@ pdf2svg
 pd-mapper
 pdns-recursor
 pdns
+pdqsort
 pdsh
 pe-bear
 peek
@@ -11079,7 +11091,6 @@ pgmodeler
 pgpdump
 pgp-tools
 pg-semver
-pgsphere
 pg_top
 pg_view
 pgzero
@@ -11412,6 +11423,7 @@ pidgin-window-merge
 pigeonascent
 pigz
 pilot-link
+pimcommon
 pim-data-exporter
 pimd
 pim-sieve-editor
@@ -11550,7 +11562,6 @@ portaudio
 portreserve
 poster
 postfix-mta-sts-resolver
-postfix
 postfwd
 postgis
 postgresql-ip4r
@@ -11578,14 +11589,12 @@ powerline-go
 powermanga
 power-profiles-daemon
 powerstat
-powertop
 powwow
 poxml
 po4a
 pplite
 ppp
 pptpd
-pptp
 pqmarble
 practrand
 pragha
@@ -11613,7 +11622,6 @@ prison
 procdump
 procinfo-ng
 procinfo
-procmail
 procServ
 procyon
 production-type-spectral-fonts
@@ -11667,6 +11675,7 @@ ptex
 pthreadpool
 pthsem
 ptlib
+ptl
 ptpython
 ptrash
 pt-sans-fonts
@@ -13218,10 +13227,10 @@ python-openidc-client
 python-openid-cla
 python-openid-teams
 python-openoffice
-python-openopt
 python-openpaperwork-core
 python-openpaperwork-gtk
 python-openpyxl
+python-opensearch-py
 python-opensensemap-api
 python-openshift
 python-openslide
@@ -13404,7 +13413,6 @@ python-protego
 python-proto-plus
 python-prov
 python-psycogreen
-python-psycopg2
 python-psycopg3
 python-ptrace
 python-ptyprocess
@@ -14176,7 +14184,6 @@ python-types-pyopenssl
 python-types-pyyaml
 python-types-requests
 python-types-six
-python-typing-inspect
 python-typish
 python-typogrify
 python-tzlocal
@@ -15659,7 +15666,6 @@ rubygem-xml-simple
 rubygem-xpath
 rubygem-yaml-lint
 rubygem-zeitwerk
-rubygem-zoom
 ruby-gnome2
 ruby-icon-artist
 ruby-mecab
@@ -15917,6 +15923,7 @@ rust-byte-unit
 rust-byte-unit3
 rust-bzip2
 rust-bzip2-sys
+rust-cachedir
 rust-cache-padded
 rust-cairo-rs
 rust-cairo-rs0.15
@@ -16090,6 +16097,7 @@ rust-crossterm0.24
 rust-crossterm0.25
 rust-crossterm0.26
 rust-crunchy
+rust-crypto-auditing
 rust-crypto-bigint
 rust-crypto-bigint0.2
 rust-crypto-common
@@ -16338,6 +16346,7 @@ rust-fancy-regex0.7
 rust-faster-hex
 rust-fastrand
 rust-fastrand1
+rust-fast-srgb8
 rust-fatfs
 rust-fat-macho
 rust-fb_procfs
@@ -16704,6 +16713,7 @@ rust-imagequant-sys
 rust-image
 rust-image0.23
 rust-imara-diff
+rust-imperative
 rust-impl-more
 rust-impls
 rust-im-rc
@@ -16755,12 +16765,14 @@ rust-is_ci
 rust-is_debug
 rust-is-docker
 rust-is_executable
+rust-is-macro
 rust-iso8601
 rust-is-terminal
 rust-is-wsl
 rust-itertools-num
 rust-itertools
 rust-itertools0.10
+rust-itertools0.11
 rust-itertools0.8
 rust-itertools0.9
 rust-itoap
@@ -16959,6 +16971,7 @@ rust-memchr
 rust-memmap
 rust-memmap2
 rust-memmap2_0.5
+rust-memmap2_0.7
 rust-memmem
 rust-memoffset
 rust-memoffset0.5
@@ -17132,7 +17145,9 @@ rust-pad
 rust-pager
 rust-page_size
 rust-palette_derive
+rust-palette_derive0.6
 rust-palette
+rust-palette0.6
 rust-pam
 rust-pam-sys
 rust-pancurses
@@ -17369,6 +17384,7 @@ rust-quickcheck_macros
 rust-quickcheck
 rust-quickcheck0.6
 rust-quickcheck0.9
+rust-quick-junit
 rust-quick-xml
 rust-quick-xml0.17
 rust-quick-xml0.27
@@ -17874,6 +17890,7 @@ rust-tokio-native-tls
 rust-tokio-openssl
 rust-tokio-reactor
 rust-tokio-rustls
+rust-tokio-serde
 rust-tokio-socks
 rust-tokio
 rust-tokio-stream
@@ -17893,6 +17910,7 @@ rust-tokio0.2
 rust-toml_datetime
 rust-toml_edit
 rust-toml_edit0.19
+rust-toml_edit0.20
 rust-toml
 rust-toml0.4
 rust-toml0.5
@@ -18586,6 +18604,7 @@ spawn
 spdlog
 spdrs60
 spectacle
+spectra
 spectre-meltdown-checker
 spectrographic
 spec2scl
@@ -18674,7 +18693,6 @@ stardict-dic-cs_CZ
 stargz-snapshotter
 starplot-contrib
 starplot-gliese3
-starplot
 starplot-yale5
 star
 startdde
@@ -19002,7 +19020,6 @@ tkdnd
 tkimg
 tklib
 tkrzw
-tk
 tktray
 tldr
 tlf
@@ -19271,7 +19288,6 @@ vagrant-vagrant_cloud
 vakzination
 vala-language-server
 vala
-valgrind
 valkyrie
 vamp-plugin-sdk
 vanityhash
@@ -19536,6 +19552,7 @@ wl-mirror
 wlogout
 wlopm
 wlroots0.15
+wlroots0.16
 wlr-sunclock
 wlsunset
 wmacpi
@@ -19835,6 +19852,7 @@ xvidtune
 xvinfo
 xvkbd
 xwax
+xwayland-run
 xwaylandvideobridge
 xwininfo
 xwm
@@ -19907,6 +19925,7 @@ yubihsm-shell
 yubikey-manager
 yubikey-personalization-gui
 yubikey-val
+yyjson
 zam-plugins
 zanshin
 zasx
@@ -19916,7 +19935,6 @@ zd1211-firmware
 zeal
 zeek
 zegrapher
-zeitgeist
 zenity
 zerofree
 zeromq-ada

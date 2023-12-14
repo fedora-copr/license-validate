@@ -105,7 +105,12 @@ aisleriot
 akmods
 akonadi-calendar-tools
 akonadiconsole
+akonadi-contacts
 akonadi-import-wizard
+akonadi-mime
+akonadi-notes
+akonadi-search
+akonadi-server
 akonadi
 akregator
 alacarte
@@ -1706,6 +1711,7 @@ dos2unix
 dotconf
 dotnet6.0
 dotnet7.0
+dotnet8.0
 dot2tex
 doublecmd
 double-conversion
@@ -3565,6 +3571,7 @@ glib
 glib2
 glide
 glimmer
+glimpse
 gliv
 gl-manpages
 glmark2
@@ -6300,7 +6307,7 @@ intel-llvm8.0-vc-intrinsics
 intel-media-driver-free
 intel-mediasdk
 intel-mpi-benchmarks
-intelone-mono-fonts
+intel-one-mono-fonts
 intel-opencl-clang
 intel-undervolt
 intltool
@@ -6644,6 +6651,7 @@ kbruch
 kBuild
 kcachegrind
 kcalc
+kcalutils
 kcat
 kcbench
 kcc
@@ -6960,6 +6968,7 @@ kcheckers
 kchmviewer
 kicad
 kiconedit
+kidentitymanagement
 kid3
 kigo
 kig
@@ -6968,6 +6977,7 @@ killbots
 kiln
 kimageannotator
 kim-api
+kimap
 kinfocenter
 kio-admin
 kio-extras-kf5
@@ -6988,6 +6998,7 @@ kiss-fft
 kiss
 kita
 kiten
+kitinerary
 kitty
 kitutuki
 kiwi-boxed-plugin
@@ -7000,6 +7011,7 @@ kjumpingcube
 klamav
 klatexformula
 klavaro
+kldap
 kleopatra
 klettres
 klickety
@@ -7010,6 +7022,8 @@ kmag
 kmahjongg
 kmail-account-wizard
 kmail
+kmailtransport
+kmbox
 kmenuedit
 kmetronome
 kmid2
@@ -7134,6 +7148,7 @@ ktextaddons
 ktikz
 ktimer
 ktls-utils
+ktnef
 ktorrent
 ktouch
 ktp-accounts-kcm
@@ -7601,6 +7616,7 @@ libiptcdata
 libipt
 libipuz
 libircclient
+libirc
 libirecovery
 libirman
 libiscsi
@@ -8103,6 +8119,7 @@ libXdmcp
 libXext
 libxfce4ui
 libxfce4util
+libxfce4windowing
 libXfixes
 libXfont
 libXfont2
@@ -8758,6 +8775,7 @@ mimalloc
 mimedefang
 mimetex
 mimetic
+mimetreeparser
 mimic
 minder
 mindless
@@ -9594,6 +9612,7 @@ nodejs-less
 nodejs-linefix
 nodejs-nodemon
 nodejs-packaging
+nodejs-pnpm
 nodejs-replace-require-self
 nodejs-underscore
 nodejs-undici
@@ -9707,6 +9726,7 @@ objectweb-asm
 objenesis
 objfw
 obs-build
+obs-cef
 obsctl
 observable
 obserware
@@ -9972,7 +9992,6 @@ omniORBpy
 omniORB
 omping
 ompl
-onboard
 oneapi-level-zero
 onednn
 onedrive
@@ -10359,6 +10378,7 @@ pdf2svg
 pd-mapper
 pdns-recursor
 pdns
+pdqsort
 pdsh
 pe-bear
 peek
@@ -13910,6 +13930,7 @@ pidgin-window-merge
 pigeonascent
 pigz
 pilot-link
+pimcommon
 pim-data-exporter
 pimd
 pim-sieve-editor
@@ -14223,6 +14244,7 @@ ptex
 pthreadpool
 pthsem
 ptlib
+ptl
 ptouch-driver
 ptpython
 ptrash
@@ -15944,7 +15966,6 @@ python-openidc-client
 python-openid-cla
 python-openid-teams
 python-openoffice
-python-openopt
 python-openpaperwork-core
 python-openpaperwork-gtk
 python-openpyxl
@@ -18947,6 +18968,7 @@ rust-byte-unit
 rust-byte-unit3
 rust-bzip2
 rust-bzip2-sys
+rust-cachedir
 rust-cache-padded
 rust-cairo-rs
 rust-cairo-rs0.15
@@ -19120,6 +19142,7 @@ rust-crossterm0.24
 rust-crossterm0.25
 rust-crossterm0.26
 rust-crunchy
+rust-crypto-auditing
 rust-crypto-bigint
 rust-crypto-bigint0.2
 rust-crypto-common
@@ -19368,6 +19391,7 @@ rust-fancy-regex0.7
 rust-faster-hex
 rust-fastrand
 rust-fastrand1
+rust-fast-srgb8
 rust-fatfs
 rust-fat-macho
 rust-fb_procfs
@@ -19734,6 +19758,7 @@ rust-imagequant-sys
 rust-image
 rust-image0.23
 rust-imara-diff
+rust-imperative
 rust-impl-more
 rust-impls
 rust-im-rc
@@ -19785,12 +19810,14 @@ rust-is_ci
 rust-is_debug
 rust-is-docker
 rust-is_executable
+rust-is-macro
 rust-iso8601
 rust-is-terminal
 rust-is-wsl
 rust-itertools-num
 rust-itertools
 rust-itertools0.10
+rust-itertools0.11
 rust-itertools0.8
 rust-itertools0.9
 rust-itoap
@@ -19989,6 +20016,7 @@ rust-memchr
 rust-memmap
 rust-memmap2
 rust-memmap2_0.5
+rust-memmap2_0.7
 rust-memmem
 rust-memoffset
 rust-memoffset0.5
@@ -20162,7 +20190,9 @@ rust-pad
 rust-pager
 rust-page_size
 rust-palette_derive
+rust-palette_derive0.6
 rust-palette
+rust-palette0.6
 rust-pam
 rust-pam-sys
 rust-pancurses
@@ -20399,6 +20429,7 @@ rust-quickcheck_macros
 rust-quickcheck
 rust-quickcheck0.6
 rust-quickcheck0.9
+rust-quick-junit
 rust-quick-xml
 rust-quick-xml0.17
 rust-quick-xml0.27
@@ -20905,6 +20936,7 @@ rust-tokio-native-tls
 rust-tokio-openssl
 rust-tokio-reactor
 rust-tokio-rustls
+rust-tokio-serde
 rust-tokio-socks
 rust-tokio
 rust-tokio-stream
@@ -20924,6 +20956,7 @@ rust-tokio0.2
 rust-toml_datetime
 rust-toml_edit
 rust-toml_edit0.19
+rust-toml_edit0.20
 rust-toml
 rust-toml0.4
 rust-toml0.5
@@ -21726,6 +21759,7 @@ spawn
 spdlog
 spdrs60
 spectacle
+spectra
 spectre-meltdown-checker
 spectrographic
 spec-version-maven-plugin
@@ -22896,6 +22930,7 @@ wlogout
 wlopm
 wlroots
 wlroots0.15
+wlroots0.16
 wlr-randr
 wlr-sunclock
 wlsunset
@@ -23288,6 +23323,7 @@ xvidtune
 xvinfo
 xvkbd
 xwax
+xwayland-run
 xwaylandvideobridge
 xwd
 xwininfo
@@ -23373,6 +23409,7 @@ yubikey-manager-qt
 yubikey-manager
 yubikey-personalization-gui
 yubikey-val
+yyjson
 zabbix
 zaf
 zam-plugins
