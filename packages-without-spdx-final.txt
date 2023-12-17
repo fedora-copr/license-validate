@@ -43,9 +43,7 @@ airspyone_host
 aisleriot
 akmods warning: valid as old and new and no changelong entry, please check
 akonadi-calendar-tools
-akonadiconsole
-akonadi-import-wizard
-akregator
+akonadiconsole warning: not valid neither as Callaway nor as SPDX, please check
 alef-fonts
 alembic
 alevt - can be trivially converted to GPL-2.0-only
@@ -737,8 +735,6 @@ CubicSDR
 cuetools - can be trivially converted to GPL-2.0-only
 cups-pk-helper - can be trivially converted to GPL-2.0-or-later
 cups-x2go - can be trivially converted to GPL-2.0-or-later
-CuraEngine - can be trivially converted to AGPL-3.0-or-later
-cura-fdm-materials - can be trivially converted to LicenseRef-Fedora-Public-Domain
 curlftpfs - can be trivially converted to GPL-1.0-or-later
 curlpp warning: valid as old and new and no changelong entry, please check
 cutecom - can be trivially converted to GPL-3.0-only
@@ -1800,7 +1796,6 @@ glglobe - can be trivially converted to GPL-2.0-only
 glibc
 glibc32
 glibd warning: not valid neither as Callaway nor as SPDX, please check
-glib-networking
 glide warning: valid as old and new and no changelong entry, please check
 glimmer - can be trivially converted to ClArtistic
 gliv - can be trivially converted to GPL-2.0-or-later
@@ -2810,7 +2805,6 @@ golang-github-rjeczalik-notify warning: valid as old and new and no changelong e
 golang-github-robertkrimen-otto warning: valid as old and new and no changelong entry, please check
 golang-github-rodaine-hclencoder warning: valid as old and new and no changelong entry, please check
 golang-github-rogpeppe-fastuuid
-golang-github-rogpeppe-internal
 golang-github-rs-cors warning: valid as old and new and no changelong entry, please check
 golang-github-rs-xid warning: valid as old and new and no changelong entry, please check
 golang-github-rs-zerolog warning: valid as old and new and no changelong entry, please check
@@ -3173,9 +3167,7 @@ grace
 gr-air-modes - can be trivially converted to GPL-3.0-or-later
 grammalecte
 granite - can be trivially converted to LGPL-3.0-or-later
-grantlee-editor
 grantlee-qt5
-graphene warning: valid as old and new and no changelong entry, please check
 GraphicsMagick warning: valid as old and new and no changelong entry, please check
 graphlcd-base - can be trivially converted to GPL-2.0-or-later
 graphlcd-base - can be trivially converted to GPL-2.0-or-later
@@ -3458,7 +3450,6 @@ ike-scan - can be trivially converted to GPL-3.0-or-later
 ikiwiki
 ilbc
 ilmbase
-ilua
 ima-evm-utils - can be trivially converted to GPL-2.0-only
 imagefactory-plugins - can be trivially converted to Apache-2.0
 imagefactory - can be trivially converted to Apache-2.0
@@ -3729,16 +3720,15 @@ kdegraphics-thumbnailers - can be trivially converted to GPL-2.0-or-later
 kde-i18n
 kde-l10n
 kdenetwork-filesharing - can be trivially converted to GPL-2.0-only OR GPL-3.0-only
-kdepim-addons
+kdepim-addons warning: not valid neither as Callaway nor as SPDX, please check
 kdepimlibs
 kdepimlibs
-kdepim-runtime - can be trivially converted to GPL-2.0-only
+kdepim-runtime warning: not valid neither as Callaway nor as SPDX, please check
 kdepim - can be trivially converted to GPL-2.0-only
 kdepim3 - can be trivially converted to GPL-2.0-only
 kdepim4
 kdeplasma-addons warning: not valid neither as Callaway nor as SPDX, please check
 kde-plasma-ihatethecashew - can be trivially converted to GPL-2.0-only
-kde-print-manager
 kde-runtime
 kdesdk-kioslaves - can be trivially converted to GPL-2.0-only AND GPL-2.0-or-later
 kdesdk-thumbnailers - can be trivially converted to GPL-2.0-or-later
@@ -3790,7 +3780,7 @@ kf5-kjsembed
 kf5-kjs
 kget
 kgoldrunner
-kgpg - can be trivially converted to GPL-2.0-or-later
+kgpg warning: not valid neither as Callaway nor as SPDX, please check
 kgrab - can be trivially converted to GPL-2.0-or-later
 kguitar - can be trivially converted to GPL-2.0-or-later
 khal warning: valid as old and new and no changelong entry, please check
@@ -3835,7 +3825,7 @@ klt - can be trivially converted to LicenseRef-Fedora-Public-Domain
 kmag - can be trivially converted to GPL-2.0-only
 kmahjongg
 kmail-account-wizard - can be trivially converted to GPL-2.0-or-later
-kmail
+kmail warning: not valid neither as Callaway nor as SPDX, please check
 kmetronome - can be trivially converted to GPL-2.0-or-later
 kmid2
 kmid2 - can be trivially converted to GPL-2.0-or-later
@@ -3887,7 +3877,7 @@ konquest
 konsole warning: not valid neither as Callaway nor as SPDX, please check
 kontact
 kopete
-korganizer
+korganizer warning: not valid neither as Callaway nor as SPDX, please check
 koules - can be trivially converted to GPL-2.0-only
 koverartist - can be trivially converted to GPL-2.0-or-later
 kover - can be trivially converted to GPL-2.0-or-later
@@ -3974,7 +3964,6 @@ kyua
 k3guitune - can be trivially converted to GPL-2.0-only AND GPL-2.0-or-later
 k4dirstat
 labiryntowy-fonts
-LabPlot - can be trivially converted to GPL-2.0-or-later
 la-capitaine-cursor-theme - can be trivially converted to LGPL-3.0-only
 la-capitaine-icon-theme
 lacewing - can be trivially converted to GPL-2.0-or-later
@@ -4048,8 +4037,6 @@ libAfterImage
 libalkimia
 libappindicator
 libapreq2 - can be trivially converted to Apache-2.0
-libarcus - can be trivially converted to LGPL-3.0-or-later
-libarcus
 libart_lgpl
 libart
 libASL
@@ -4168,7 +4155,6 @@ libgee06
 libgenht - can be trivially converted to LicenseRef-Fedora-Public-Domain
 libgeotiff warning: valid as old and new and no changelong entry, please check
 libgepub
-libghemical - can be trivially converted to GPL-2.0-or-later
 libgit2-glib
 libgit2
 libglade2
@@ -4704,7 +4690,6 @@ lwtools - can be trivially converted to GPL-3.0-only
 lxcfs - can be trivially converted to Apache-2.0
 lxc
 lxde-icon-theme - can be trivially converted to LGPL-3.0-only
-lxdm
 lxhotkey - can be trivially converted to GPL-2.0-or-later
 lximage-qt - can be trivially converted to GPL-2.0-or-later
 lxinput - can be trivially converted to GPL-2.0-or-later
@@ -4837,7 +4822,6 @@ maven-verifier-plugin - can be trivially converted to Apache-2.0
 mawk - can be trivially converted to GPL-2.0-only
 maxima - can be trivially converted to GPL-2.0-only
 Mayavi warning: not valid neither as Callaway nor as SPDX, please check
-mbox-importer
 mbpfan - can be trivially converted to GPL-3.0-only
 mbuffer - can be trivially converted to GPL-3.0-or-later
 mb2md - can be trivially converted to LicenseRef-Fedora-Public-Domain
@@ -5217,7 +5201,6 @@ motif
 mousepad - can be trivially converted to GPL-2.0-or-later
 mousetweaks
 movit - can be trivially converted to GPL-2.0-or-later
-mozilla-filesystem
 mozilla-fira-fonts
 mozilla-https-everywhere - can be trivially converted to GPL-2.0-or-later
 mozilla-privacy-badger
@@ -7517,9 +7500,7 @@ pidgin
 pidgin-window-merge - can be trivially converted to GPL-3.0-or-later
 pigeonascent warning: valid as old and new and no changelong entry, please check
 pilot-link
-pim-data-exporter
 pimd
-pim-sieve-editor
 pinpoint
 pinta
 pioneer
@@ -7871,7 +7852,6 @@ python-ast-monitor warning: valid as old and new and no changelong entry, please
 python-astor
 python-astral - can be trivially converted to Apache-2.0
 python-astroML
-python-astropy-helpers
 python-astroquery
 python-astroscrappy
 python-astunparse
@@ -8850,7 +8830,6 @@ python-pudb warning: valid as old and new and no changelong entry, please check
 python-pulsectl warning: valid as old and new and no changelong entry, please check
 python-pure-eval warning: valid as old and new and no changelong entry, please check
 python-pvc
-python-pwntools
 python-pyactivetwo warning: valid as old and new and no changelong entry, please check
 python-pyaes warning: valid as old and new and no changelong entry, please check
 python-pyaib - can be trivially converted to Apache-2.0
@@ -9359,7 +9338,6 @@ python-unipath warning: valid as old and new and no changelong entry, please che
 python-unpaddedbase64 - can be trivially converted to Apache-2.0
 python-upnpy warning: valid as old and new and no changelong entry, please check
 python-uptime
-python-uranium - can be trivially converted to LGPL-3.0-or-later
 python-uritemplate
 python-urlgrabber
 python-urllib-gssapi - can be trivially converted to Apache-2.0
@@ -9556,7 +9534,6 @@ qastools - can be trivially converted to GPL-3.0-only
 qatlib
 qbittorrent - can be trivially converted to GPL-2.0-or-later
 qbrew
-qbs warning: not valid neither as Callaway nor as SPDX, please check
 qbs
 qcad warning: not valid neither as Callaway nor as SPDX, please check
 qca-qt4
@@ -10414,7 +10391,6 @@ shelldap
 shellinabox - can be trivially converted to GPL-2.0-only
 shellz - can be trivially converted to GPL-3.0-only
 shigofumi
-shim
 shim-unsigned-aarch64
 shim-unsigned-x64
 shippy - can be trivially converted to GPL-1.0-or-later
@@ -10471,7 +10447,6 @@ six - can be trivially converted to GPL-1.0-or-later
 sjasm
 sj-fonts
 sjinn - can be trivially converted to GPL-2.0-or-later
-skanpage warning: not valid neither as Callaway nor as SPDX, please check
 skf warning: not valid neither as Callaway nor as SPDX, please check
 ski warning: not valid neither as Callaway nor as SPDX, please check
 skkdic
@@ -11514,7 +11489,6 @@ warsow - can be trivially converted to GPL-2.0-or-later
 warzone2100
 wasmedge - can be trivially converted to Apache-2.0 AND CC0-1.0
 watchman warning: not valid neither as Callaway nor as SPDX, please check
-wavbreaker - can be trivially converted to GPL-2.0-or-later
 wavemon - can be trivially converted to GPL-2.0-or-later
 wayfire-config-manager warning: valid as old and new and no changelong entry, please check
 wayfire warning: valid as old and new and no changelong entry, please check
@@ -11892,7 +11866,7 @@ yubihsm-shell - can be trivially converted to Apache-2.0
 yubikey-personalization-gui
 yubikey-val
 zam-plugins - can be trivially converted to GPL-2.0-or-later AND ISC
-zanshin - can be trivially converted to GPL-2.0-only
+zanshin warning: not valid neither as Callaway nor as SPDX, please check
 zasx - can be trivially converted to GPL-2.0-or-later AND LicenseRef-Fedora-UltraPermissive
 zaz
 zd1211-firmware - can be trivially converted to GPL-2.0-only

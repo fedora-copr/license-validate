@@ -60,12 +60,15 @@ aircrack-ng
 airinv
 airrac
 airtsp
+akonadi-calendar
 akonadi-contacts
+akonadi-import-wizard
 akonadi-mime
 akonadi-notes
 akonadi-search
 akonadi-server
 akonadi
+akregator
 alacarte
 aldo
 alerque-libertinus-fonts
@@ -448,6 +451,7 @@ CalcMySky
 calc
 calcurse
 calendar
+calendarsupport
 calf
 calibre
 campivisivi-titillium-fonts
@@ -681,6 +685,8 @@ cups-browsed
 cups-filters
 cups-pdf
 cups
+CuraEngine
+cura-fdm-materials
 cura
 curblaster
 curl
@@ -926,6 +932,7 @@ ethtool
 ETL
 ettercap
 evemu
+eventviews
 evolution-data-server
 evolution-ews
 evolution-mapi
@@ -1886,6 +1893,7 @@ glava
 glfw
 glibmm2.4
 glibmm2.68
+glib-networking
 glib
 glib2
 glimpse
@@ -2370,6 +2378,7 @@ golang-github-rexray-gocsi
 golang-github-robfig-cron
 golang-github-rodaine-table
 golang-github-rogpeppe-charset
+golang-github-rogpeppe-internal
 golang-github-rootless-containers-rootlesskit
 golang-github-r3labs-diff-3
 golang-github-sacloud-api-client
@@ -2578,8 +2587,10 @@ grafx2
 gramps
 granatier
 granite-7
+grantlee-editor
 grantlee
 grantleetheme
+graphene
 graphite2
 grass
 greenboot
@@ -2967,6 +2978,7 @@ ignition
 igraph
 iir1
 ii
+ilua
 imagej
 imath
 imgp
@@ -2980,6 +2992,7 @@ impressive
 imsettings
 imvirt
 imv
+incidenceeditor
 indent
 indistarter
 indi-3rdparty-drivers
@@ -2998,6 +3011,7 @@ intel-clear-sans-fonts
 intel-cmt-cat
 intel-ipp-crypto-mb
 intel-ipsec-mb
+intel-lpmd
 intel-media-driver-free
 intel-one-mono-fonts
 intltool
@@ -3291,11 +3305,9 @@ kf5-libkcddb
 kf5-libkcompactdisc
 kf5-libkdcraw
 kf5-libkdepim
-kf5-libkexiv2
 kf5-libkgeomap
 kf5-libkipi
 kf5-libkleo
-kf5-libksane
 kf5-libksieve
 kf5-libktorrent
 kf5-mailcommon
@@ -3466,6 +3478,7 @@ kwayland
 kwrited
 kyotocabinet
 k3b
+LabPlot
 labwc
 ladspa-autotalent-plugins
 ladvd
@@ -3513,6 +3526,7 @@ libaiff
 libaio
 libao
 libappstream-glib
+libarcus
 libarchive
 libarrow
 libassuan
@@ -3617,6 +3631,7 @@ libgda5
 libgdl
 libgedit-gtksourceview
 libgexiv2
+libghemical
 libgit2_1.5
 libgit2_1.6
 libglademm24
@@ -3629,6 +3644,7 @@ libgpg-error
 libgphoto2
 libgpiod
 libgpod
+libgravatar
 libgringotts
 libgsf
 libgtop2
@@ -3685,8 +3701,10 @@ libkiwix
 libkkc
 libkleo
 libkrun
+libksane
 libksba
 libkscreen
+libksieve
 libktorrent
 liblangtag
 liblastfm
@@ -4075,6 +4093,7 @@ lv2-zynadd-plugins
 lxappearance-obconf
 lxappearance
 lxde-common
+lxdm
 lxi-tools
 lxmusic
 lxpanel
@@ -4102,12 +4121,13 @@ magicmirror
 magic
 magpie
 mailcap
+mailcommon
 maildir-utils
 maildrop
+mailimporter
 mailman3
 mail-notification
 mailprocessing
-mailx
 mairix
 makemusic-finale-fonts
 make
@@ -4176,6 +4196,7 @@ maven-surefire
 maven-verifier
 maven-wagon
 mbedtls
+mbox-importer
 mcelog
 mcpanel
 mcqd
@@ -4210,6 +4231,7 @@ mesa-demos
 mesa-libGLU
 mesa-libGLw
 mesa
+messagelib
 messiggy
 metacity
 metamath
@@ -4397,6 +4419,7 @@ morphio
 motoya-lcedar-fonts
 motoya-lmaru-fonts
 mozc
+mozilla-filesystem
 mozilla-noscript
 mozjs102
 mozjs115
@@ -6747,6 +6770,7 @@ pgcli
 pgmodeler
 pgsphere
 phd2
+phonon-backend-vlc
 phosh-mobile-settings
 photoqt
 php-adodb
@@ -6916,6 +6940,8 @@ picosat
 pidgin-sipe
 pigz
 pimcommon
+pim-data-exporter
+pim-sieve-editor
 pinball
 pinentry
 pinfo
@@ -7272,6 +7298,7 @@ python-cogapp
 python-coincidence
 python-colcon-alias
 python-colcon-installed-package-information
+python-colcon-override-check
 python-colcon-rerun
 python-collectd_cvmfs
 python-colorama
@@ -7334,6 +7361,7 @@ python-designateclient
 python-dialog
 python-diff-match-patch
 python-dijitso
+python-dirhash
 python-dirty-equals
 python-diskcache
 python-distro
@@ -7881,6 +7909,7 @@ python-ptyprocess
 python-pulp
 python-pure-protobuf
 python-puzpy
+python-pwntools
 python-pyABF
 python-pyahocorasick
 python-py-algorand-sdk
@@ -8223,6 +8252,7 @@ python-tmuxp
 python-toml-adapt
 python-tomli-w
 python-toposort
+python-torchdata
 python-torch
 python-tornado
 python-tox
@@ -8255,6 +8285,7 @@ python-uhashring
 python-ujson
 python-ukkonen
 python-unicodedata2
+python-uranium
 python-uri-template
 python-uritools
 python-urllib3
@@ -8506,6 +8537,7 @@ R-docopt
 R-DT
 readline
 readosm
+readstat
 realmd
 realtime-setup
 realtime-tests
@@ -9474,6 +9506,7 @@ rust-const-random-macro
 rust-const-random
 rust-content_inspector
 rust-convert_case
+rust-convert_case0.4
 rust-cookie-factory
 rust-cookie
 rust-cookie_store
@@ -9518,6 +9551,10 @@ rust-crossterm0.24
 rust-crossterm0.25
 rust-crossterm0.26
 rust-crunchy
+rust-crypto-auditing-agent
+rust-crypto-auditing-client
+rust-crypto-auditing-event-broker
+rust-crypto-auditing-log-parser
 rust-crypto-auditing
 rust-crypto-bigint
 rust-crypto-bigint0.2
@@ -9957,6 +9994,7 @@ rust-gix-worktree-state
 rust-gix-worktree-stream
 rust-gl_generator
 rust-glib-build-tools
+rust-glib-build-tools0.17
 rust-glib-macros
 rust-glib-macros0.15
 rust-glib-macros0.17
@@ -10251,6 +10289,7 @@ rust-lebe
 rust-leb128
 rust-lev_distance
 rust-lexical-core
+rust-lexical-util
 rust-lexiclean
 rust-lexopt
 rust-libadwaita
@@ -10749,6 +10788,7 @@ rust-prometheus-client-derive-encode
 rust-prometheus-client
 rust-prometheus
 rust-proptest-derive
+rust-proptest-derive0.3
 rust-proptest
 rust-proptest0.10
 rust-prost-build
@@ -11106,6 +11146,7 @@ rust-slotmap
 rust-slug
 rust-smallbitvec
 rust-smallstr
+rust-smallstr0.2
 rust-smallvec
 rust-smart-default
 rust-smartstring
@@ -11335,6 +11376,7 @@ rust-tracing-core
 rust-tracing_facade
 rust-tracing-futures
 rust-tracing_chromium
+rust-tracing-indicatif
 rust-tracing-log
 rust-tracing-serde
 rust-tracing
@@ -11558,6 +11600,7 @@ rust-yansi-term
 rust-yeslogic-fontconfig-sys
 rust-yrs
 rust-y4m
+rust-z-base-32
 rust-zbus_macros
 rust-zbus_macros1
 rust-zbus_names
@@ -11710,6 +11753,7 @@ shared-mime-info
 shdoc
 shell-color-prompt
 ShellCheck
+shim
 shotwell
 shyaml
 sid
@@ -11761,6 +11805,7 @@ sirocco
 sisu-mojos
 sisu
 skanlite
+skanpage
 skopeo
 skychart
 slang
@@ -12191,6 +12236,10 @@ virt-what
 visidata
 vkmark
 vkroots
+vlc-plugin-bittorrent
+vlc-plugin-pause-click
+vlc-plugin-pipewire
+vlc
 vl-gothic-fonts
 vmaf
 vo-amrwbenc
@@ -12222,6 +12271,7 @@ wallpapoz
 wangle
 wasi-libc
 watchdog
+wavbreaker
 wavextract
 wavpack
 waybar
@@ -12489,6 +12539,7 @@ zsh
 zstd
 zswap-cli
 zvbi
+zxcvbn-c
 zxing-cpp
 zycore-c
 zziplib

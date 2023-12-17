@@ -2,6 +2,7 @@
 PyQt-builder
 Xaw3d
 accountsservice
+afflib
 atkmm
 autoconf-archive
 bacula
@@ -58,7 +59,6 @@ geocode-glib
 gflags
 giflib
 gjs
-glib-networking
 glibc
 glibc32
 glslang
@@ -76,7 +76,6 @@ gnu-efi
 gnulib
 golang-github-cpuguy83-md2man
 gom
-graphene
 graphviz
 grilo
 grilo-plugins
@@ -89,6 +88,7 @@ gstreamer1-rtsp-server
 gtk-doc
 gtksourceview4
 gvfs
+hfsplus-tools
 hicolor-icon-theme
 http-parser
 iio-sensor-proxy
@@ -115,6 +115,7 @@ libdvdread
 libeconf
 libell
 libevent
+libewf
 libffi
 libfprint
 libgee
@@ -123,6 +124,7 @@ libgnomekbd
 libhandy
 libieee1284
 libjpeg-turbo
+libldm
 libmediaart
 libmtp
 libnsl2
@@ -155,6 +157,7 @@ ltrace
 lua-posix
 lvm2
 lzo
+mac-robber
 mallard-rng
 mariadb
 maven-shade-plugin
@@ -171,7 +174,6 @@ mod_authnz_pam
 mod_intercept_form_submit
 mod_lookup_identity
 mokutil
-mozilla-filesystem
 mstflint
 multilib-rpm-config
 munge
@@ -184,8 +186,10 @@ nmap
 nodejs-nodemon
 nodejs-packaging
 nss-altfiles
+ntfs-3g
 nv-codec-headers
 nvmetcli
+ocaml-cmdliner
 oddjob
 opae
 open-sans-fonts
@@ -268,10 +272,10 @@ sendmail
 setserial
 sg3_utils
 sharutils
-shim
 shim-unsigned-aarch64
 shim-unsigned-x64
 sip6
+sleuthkit
 softhsm
 sound-theme-freedesktop
 stalld
@@ -290,6 +294,7 @@ texlive
 thermald
 tlog
 tomcat
+toml11
 toolbox
 totem
 totem-pl-parser

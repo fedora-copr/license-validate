@@ -103,6 +103,7 @@ airspyone_host
 airtsp
 aisleriot
 akmods
+akonadi-calendar
 akonadi-calendar-tools
 akonadiconsole
 akonadi-contacts
@@ -866,6 +867,7 @@ CalcMySky
 calc
 calcurse
 calendar
+calendarsupport
 calf
 calibre
 calindori
@@ -2137,6 +2139,7 @@ eureka
 eurephia
 evemu
 eventlog
+eventviews
 evince
 evolution-data-server
 evolution-ews
@@ -6268,6 +6271,7 @@ imvirt
 imv
 imwheel
 inadyn-mt
+incidenceeditor
 incron
 indent
 indistarter
@@ -6304,6 +6308,7 @@ intel-igc
 intel-ipp-crypto-mb
 intel-ipsec-mb
 intel-llvm8.0-vc-intrinsics
+intel-lpmd
 intel-media-driver-free
 intel-mediasdk
 intel-mpi-benchmarks
@@ -6696,7 +6701,6 @@ kdepim3
 kdepim4
 kdeplasma-addons
 kde-plasma-ihatethecashew
-kde-print-manager
 kde-runtime
 kdesdk-kioslaves
 kdesdk-thumbnailers
@@ -6854,11 +6858,9 @@ kf5-libkcddb
 kf5-libkcompactdisc
 kf5-libkdcraw
 kf5-libkdepim
-kf5-libkexiv2
 kf5-libkgeomap
 kf5-libkipi
 kf5-libkleo
-kf5-libksane
 kf5-libksieve
 kf5-libktorrent
 kf5-mailcommon
@@ -7550,6 +7552,7 @@ libgpg-error
 libgphoto2
 libgpiod
 libgpod
+libgravatar
 libgringotts
 libgrss
 libgsasl
@@ -7655,9 +7658,11 @@ libkolabxml
 libkomparediff2
 libkrunfw
 libkrun
+libksane
 libksba
 libkscreen-qt5
 libkscreen
+libksieve
 libksysguard
 libktorrent
 liblangtag
@@ -8516,14 +8521,15 @@ magic
 magpie
 machineball
 mailcap
+mailcommon
 maildir-utils
 maildrop
+mailimporter
 mailman3-fedmsg-plugin
 mailman3
 mailnag
 mail-notification
 mailprocessing
-mailx
 maim
 mairix
 makebootfat
@@ -8734,6 +8740,7 @@ mesa
 meshbird
 meshlab
 meson
+messagelib
 messiggy
 metacity
 metamath
@@ -13507,6 +13514,7 @@ phd2
 phoc
 phodav
 phonon-backend-gstreamer
+phonon-backend-vlc
 phonon-qt4-backend-gstreamer
 phonon-qt4
 phonon
@@ -14487,7 +14495,6 @@ python-astroid
 python-astroML
 python-astroplan
 python-astropy-healpix
-python-astropy-helpers
 python-astropy
 python-astroquery
 python-astroscrappy
@@ -14800,6 +14807,7 @@ python-colcon-metadata
 python-colcon-mixin
 python-colcon-notification
 python-colcon-output
+python-colcon-override-check
 python-colcon-package-information
 python-colcon-package-selection
 python-colcon-parallel-executor
@@ -14965,6 +14973,7 @@ python-dijitso
 python-dill
 python-dingz
 python-dipy
+python-dirhash
 python-dirq
 python-dirty-equals
 python-diskcache
@@ -16979,6 +16988,7 @@ python-tomlkit
 python-toml
 python-toolz
 python-toposort
+python-torchdata
 python-torch
 python-tornado
 python-tosca-parser
@@ -17737,6 +17747,7 @@ R-DT
 R-DynDoc
 readline
 readosm
+readstat
 realmd
 realtime-setup
 realtime-tests
@@ -19097,6 +19108,7 @@ rust-const-random-macro
 rust-const-random
 rust-content_inspector
 rust-convert_case
+rust-convert_case0.4
 rust-cookie-factory
 rust-cookie
 rust-cookie_store
@@ -19142,6 +19154,10 @@ rust-crossterm0.24
 rust-crossterm0.25
 rust-crossterm0.26
 rust-crunchy
+rust-crypto-auditing-agent
+rust-crypto-auditing-client
+rust-crypto-auditing-event-broker
+rust-crypto-auditing-log-parser
 rust-crypto-auditing
 rust-crypto-bigint
 rust-crypto-bigint0.2
@@ -19583,6 +19599,7 @@ rust-gix-worktree-state
 rust-gix-worktree-stream
 rust-gl_generator
 rust-glib-build-tools
+rust-glib-build-tools0.17
 rust-glib-macros
 rust-glib-macros0.15
 rust-glib-macros0.17
@@ -19879,6 +19896,7 @@ rust-lebe
 rust-leb128
 rust-lev_distance
 rust-lexical-core
+rust-lexical-util
 rust-lexiclean
 rust-lexopt
 rust-libadwaita
@@ -20379,6 +20397,7 @@ rust-prometheus-client-derive-encode
 rust-prometheus-client
 rust-prometheus
 rust-proptest-derive
+rust-proptest-derive0.3
 rust-proptest
 rust-proptest0.10
 rust-prost-build
@@ -20744,6 +20763,7 @@ rust-slotmap
 rust-slug
 rust-smallbitvec
 rust-smallstr
+rust-smallstr0.2
 rust-smallvec
 rust-smart-default
 rust-smartstring
@@ -20974,6 +20994,7 @@ rust-tracing-core
 rust-tracing_facade
 rust-tracing-futures
 rust-tracing_chromium
+rust-tracing-indicatif
 rust-tracing-log
 rust-tracing-serde
 rust-tracing
@@ -21199,6 +21220,7 @@ rust-yeslogic-fontconfig-sys
 rust-yrs
 rust-yubibomb
 rust-y4m
+rust-z-base-32
 rust-zbase32
 rust-zbus_macros
 rust-zbus_macros1
@@ -22743,6 +22765,10 @@ vkd3d
 vkeybd
 vkmark
 vkroots
+vlc-plugin-bittorrent
+vlc-plugin-pause-click
+vlc-plugin-pipewire
+vlc
 vlfrx-tools
 vl-gothic-fonts
 vmaf
@@ -23485,6 +23511,7 @@ zstd
 zswap-cli
 zulucrypt
 zvbi
+zxcvbn-c
 zxing-cpp
 zycore-c
 zynaddsubfx
