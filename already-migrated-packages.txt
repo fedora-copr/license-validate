@@ -384,6 +384,7 @@ borgmatic
 bottles
 bovo
 bowtie2
+boxed-cpp
 boxes
 Box2D
 box64
@@ -391,6 +392,7 @@ bpfmon
 bpftrace
 braille-printer-app
 brainfuck
+brasero
 breeze-gtk
 breeze-icon-theme
 breezy
@@ -650,6 +652,7 @@ createrepo_c
 credentials-fetcher
 criu
 cr-marcstevens-snippets
+croaring
 cronie
 crontabs
 cross-binutils
@@ -883,12 +886,16 @@ ed
 edwin-fonts
 eegview
 efax
+efibootmgr
+efi-rpm-macros
 efivar
 efs-utils
 eggdrop
 eglexternalplatform
 egl-wayland
 eigen3
+elementary-calculator
+elementary-calendar
 elementary-camera
 elementary-code
 elementary-notifications
@@ -906,6 +913,7 @@ emacs-iedit
 emacs
 emacs-terraform-mode
 emacs-vm
+EMBOSS
 embree
 embree3
 enchant2
@@ -967,6 +975,7 @@ fbrnch
 fbterm
 fbthrift
 fb303
+fcft
 fcitx-libpinyin
 fcitx
 fcitx5-zhuyin
@@ -2673,6 +2682,7 @@ g3kb-switch
 g4music
 hackrf
 hadolint
+half
 hamcrest
 hamlib
 hanamin-fonts
@@ -3162,6 +3172,7 @@ kaccounts-integration
 kacst-fonts
 kactivitymanagerd
 kaddressbook
+kaffeine
 kaidan
 kajongg
 kakasi
@@ -3194,6 +3205,7 @@ kdevelop-php
 kdevelop
 kde-workspace
 kdiagram
+kdiagram2
 kdiff3
 kdsingleapplication
 kdsoap-ws-discovery-client
@@ -3305,6 +3317,7 @@ kf5-libkcddb
 kf5-libkcompactdisc
 kf5-libkdcraw
 kf5-libkdepim
+kf5-libkgapi
 kf5-libkgeomap
 kf5-libkipi
 kf5-libkleo
@@ -3696,6 +3709,7 @@ libkdepim
 libkdumpfile
 libkeepalive
 libkexiv2
+libkgapi
 libkindrv
 libkiwix
 libkkc
@@ -3769,6 +3783,7 @@ libodfgen
 libodiosacd
 libofx
 libogg
+liboglappth
 libolm
 libomemo-c
 libomemo
@@ -3904,6 +3919,7 @@ libuecc
 libunarr
 libunibreak
 libunicode
+libunifex
 libuninameslist
 libunistring
 libunistring1.0
@@ -3956,6 +3972,7 @@ libXISF
 libXi
 libxkbcommon
 libxkbfile
+libxklavier
 libxmlb
 libxml++
 libxml2
@@ -4235,6 +4252,7 @@ messagelib
 messiggy
 metacity
 metamath
+metis
 mfem
 mftrace
 mgetty
@@ -4271,6 +4289,7 @@ mingw-gstreamer1-plugins-good
 mingw-gstreamer1
 mingw-gtkmm30
 mingw-gtksourceviewmm3
+mingw-gtk3
 mingw-gtk4
 mingw-g2clib
 mingw-hicolor-icon-theme
@@ -4312,6 +4331,7 @@ mingw-python-toml
 mingw-python-waitress
 mingw-python-wheel
 mingw-python3
+mingw-qca
 mingw-qscintilla
 mingw-qt5-qtbase
 mingw-qt5-qtdeclarative
@@ -4339,6 +4359,7 @@ mingw-qwt
 mingw-readline
 mingw-SDL_mixer
 mingw-sdl12-compat
+mingw-SDL2_image
 mingw-SDL2_mixer
 mingw-SDL2
 mingw-SDL2_ttf
@@ -4404,6 +4425,7 @@ mod_wsgi
 moe
 mojo-executor
 mojo-parent
+mokutil
 mold
 molsketch
 mom
@@ -5306,6 +5328,7 @@ perl-curry
 perl-Cwd-Guard
 perl-Daemon-Control
 perl-Dancer
+perl-Dancer2
 perl-Danga-Socket
 perl-Database-DumpTruck
 perl-Data-Binary
@@ -5644,6 +5667,7 @@ perl-Glib-IO
 perl-Glib-Object-Introspection
 perl-Glib
 perl-Gnome2-VFS
+perl-GnuPG-Interface
 perl-GooCanvas2
 perl-Graph-Easy
 perl-Graphics-ColorNames-HTML
@@ -5777,6 +5801,7 @@ perl-Jemplate
 perl-JSON-Any
 perl-JSON-Color
 perl-JSON-MaybeXS
+perl-JSON-Path
 perl-JSON-PP
 perl-JSON
 perl-JSON-XS
@@ -7086,6 +7111,7 @@ proxysql
 prrte
 prunerepo
 psacct
+psblas3
 psimd
 psi-plus
 psi
@@ -7407,6 +7433,7 @@ python-enchant
 python-envisage
 python-epel-rpm-macros
 python-exabgp
+python-expandvars
 python-extractcode-libarchive
 python-extractcode
 python-extractcode-7z
@@ -7437,6 +7464,7 @@ python-flask-migrate
 python-flask-mongoengine
 python-flask-oidc
 python-flask-restx
+python-flask-session
 python-flask-socketio
 python-flask-whooshee
 python-flask-wtf-decorators
@@ -7585,6 +7613,7 @@ python-imapclient
 python-imbalanced-learn
 python-immutabledict
 python-immutables
+python-impacket
 python-indexed_gzip
 python-influxdb-client
 python-iniconfig
@@ -7662,6 +7691,7 @@ python-keystoneclient
 python-kiwisolver
 python-krb5
 python-k5test
+python-landslide
 python-langdetect
 python-lark
 python-latexcodec
@@ -7697,6 +7727,7 @@ python-lqrt
 python-lxml
 python-ly
 python-magnumclient
+python-mako
 python-managesieve
 python-manilaclient
 python-manuel
@@ -7946,6 +7977,7 @@ python-pyfakefs
 python-pyfastnoisesimd
 python-pygdbmi
 python-PyGithub
+python-pygit2
 python-pyglet
 python-pygmars
 python-pygments-git
@@ -8642,6 +8674,7 @@ rpm-local-generator-support
 rpm-mpi-hooks
 rpm-ostree
 rpmreaper
+rpmspectool
 rp-pppoe
 rpy
 R-qtl
@@ -8721,7 +8754,6 @@ rubygem-bson
 rubygem-builder
 rubygem-bundler_ext
 rubygem-bundler
-rubygem-byebug
 rubygem-cairo-gobject
 rubygem-cairo
 rubygem-capybara
@@ -10111,6 +10143,9 @@ rust-hex-literal0.2
 rust-hex-literal0.3
 rust-hex
 rust-hexyl
+rust-hickory-client
+rust-hickory-proto
+rust-hickory-resolver
 rust-hidapi
 rust-hkdf
 rust-hmac
@@ -10239,6 +10274,7 @@ rust-i18n-embed-fl
 rust-i18n-embed-impl
 rust-i18n-embed
 rust-i3ipc
+rust-jiter
 rust-jobserver
 rust-joinery
 rust-joinery2
@@ -11180,6 +11216,7 @@ rust-ssh-key-dir
 rust-stable_deref_trait
 rust-stacker
 rust-standback
+rust-startup-disk
 rust-static_assertions
 rust-statistical
 rust-statrs
@@ -11213,6 +11250,7 @@ rust-strum
 rust-strum0.21
 rust-subprocess
 rust-subtle
+rust-sudo
 rust-suggest
 rust-supports-color
 rust-supports-hyperlinks
@@ -11895,6 +11933,7 @@ srpc
 sscg
 ssldump
 sssd
+stalld
 starplot
 star
 startdde
@@ -11914,6 +11953,7 @@ stratagus
 stratis-cli
 stratisd
 strawberry
+stress-ng
 stress
 string-template-maven-plugin
 stringtemplate4
@@ -11957,6 +11997,7 @@ synce4l
 syncthing
 synfig
 synfigstudio
+syslinux
 sysprof
 sysstat
 system-config-language
@@ -12247,6 +12288,7 @@ vobcopy
 voikko-fi
 vokoscreenNG
 volume_key
+voms-api-java
 voms
 vorta
 vrms-rpm

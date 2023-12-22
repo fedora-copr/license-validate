@@ -459,12 +459,12 @@ bouncycastle
 bournal
 bout++
 bowtie
+boxed-cpp
 box64
 bpg-fonts
 bpython
 bpytop
 braille-printer-app
-brasero
 brazil
 breeze-gtk
 breeze-icon-theme
@@ -824,6 +824,7 @@ CriticalMass
 cri-tools
 cr-marcstevens-snippets
 crm114
+croaring
 cronolog
 cross-gcc
 crossguid
@@ -1215,9 +1216,7 @@ ed2k_hash
 ed25519-java
 eegdev
 EekBoek
-efibootmgr
 efifs
-efi-rpm-macros
 efitools
 efl
 efont-unicode-bdf
@@ -1236,9 +1235,14 @@ ElectricFence
 electron-cash
 electronics-menu
 electrum
+elementary-calculator
+elementary-calendar
 elementary-camera
 elementary-code
+elementary-files
 elementary-icon-theme
+elementary-mail
+elementary-music
 elementary-notifications
 elementary-onboarding
 elementary
@@ -1516,7 +1520,6 @@ fbida
 fbthrift
 fbzx
 fb303
-fcft
 fcgi
 fcgiwrap
 fcitx-anthy
@@ -4117,6 +4120,7 @@ gydl
 g3kb-switch
 g4music
 hakrevdns
+half
 halibut
 harec
 haruna
@@ -4532,6 +4536,7 @@ jxrlib
 j4-dmenu-desktop
 kaccounts-providers
 kactivities
+kaffeine
 kafs-client
 kaidan
 kakoune
@@ -4611,6 +4616,7 @@ kde-wallpapers
 kdewebdev
 kdf
 kdiagram
+kdiagram2
 kdialog
 kdiamond
 kdiff3
@@ -4650,6 +4656,7 @@ kf5-kipi-plugins
 kf5-kirigami
 kf5-kjsembed
 kf5-kjs
+kf5-libkgapi
 kf6-attica
 kf6-baloo
 kf6-bluez-qt
@@ -5227,7 +5234,6 @@ libkdtree++
 libkdumpfile
 libkeduvocdocument
 libkexiv2
-libkgapi
 libkkc-data
 libkleo
 libkmahjongg
@@ -5317,7 +5323,6 @@ libobjc2
 libodiosacd
 libofa
 liboggz
-liboglappth
 liboil
 libomemo-c
 libomemo
@@ -5468,6 +5473,7 @@ libuInputPlus
 libunicapgtk
 libunicap
 libunicode
+libunifex
 libuninum
 libunistring1.0
 libunity
@@ -5516,7 +5522,6 @@ libxfce4util
 libxfce4windowing
 libXfont
 libXISF
-libxklavier
 libxls
 libxlsxwriter
 libxml2
@@ -6272,7 +6277,6 @@ module-build
 mod_xsendfile
 mod2c
 moka-icon-theme
-mokutil
 molequeue
 monafont
 mongoose
@@ -7346,7 +7350,6 @@ perl-Dancer
 perl-Dancer2-Plugin-Database
 perl-Dancer2-Plugin-DBIC
 perl-Dancer2-Plugin-REST
-perl-Dancer2
 perl-Data-AMF
 perl-Data-AsObject
 perl-Data-Constraint
@@ -7572,7 +7575,6 @@ perl-Gnome2-Canvas
 perl-Gnome2-GConf
 perl-Gnome2
 perl-Gnome2-Vte
-perl-GnuPG-Interface
 perl-Goo-Canvas
 perl-GooCanvas2-CairoTypes
 perl-goto-file
@@ -7729,7 +7731,6 @@ perl-Iterator-Simple-Lookahead
 perl-Iterator-Simple
 perl-JSON-Create
 perl-JSON-Parse
-perl-JSON-Path
 perl-JSON-Pointer
 perl-JSON-RPC-Common
 perl-JSON-RPC-LWP
@@ -9764,6 +9765,7 @@ python-execnet
 python-executing
 python-exif
 python-exoscale
+python-expandvars
 python-extension-helpers
 python-extractcode-libarchive
 python-extractcode
@@ -9824,6 +9826,7 @@ python-flask-openid
 python-flask-paranoid
 python-flask-principal
 python-flask-security-too
+python-flask-session
 python-flask
 python-flask-sqlalchemy
 python-flask-talisman
@@ -10210,7 +10213,6 @@ python-mailmanclient
 python-mailmerge
 python-makeelf
 python-makefun
-python-mako
 python-manatools
 python-manilaclient
 python-mapclassify
@@ -10309,7 +10311,6 @@ python-mwclient
 python-myhdl
 python-myrepos-utils
 python-mysqlclient
-python-mysql
 python-mystrom
 python-m2r
 python-m3u8
@@ -10605,7 +10606,6 @@ python-pygeoip
 python-pyghmi
 python-pygiftiio
 python-PyGithub
-python-pygit2
 python-pygmars
 python-pygments-better-html
 python-pygments-git
@@ -12992,6 +12992,9 @@ rust-hex-literal0.2
 rust-hex-literal0.3
 rust-hex
 rust-hexyl
+rust-hickory-client
+rust-hickory-proto
+rust-hickory-resolver
 rust-hkdf
 rust-hmac
 rust-hmac0.11
@@ -13092,6 +13095,7 @@ rust-itoap
 rust-itoa
 rust-itoa0.4
 rust-ivf
+rust-jiter
 rust-jobserver
 rust-joinery
 rust-joinery2
@@ -13819,6 +13823,7 @@ rust-ssh-key-dir
 rust-stable_deref_trait
 rust-stacker
 rust-standback
+rust-startup-disk
 rust-static_assertions
 rust-stats_alloc
 rust-stderrlog
@@ -13844,6 +13849,7 @@ rust-struct-patch
 rust-strum_macros0.24
 rust-subprocess
 rust-subtle
+rust-sudo
 rust-suggest
 rust-supports-color
 rust-supports-hyperlinks
@@ -14583,7 +14589,6 @@ sstp-client
 stacer
 staden-io_lib
 stage
-stalld
 stalonetray
 standard-test-roles
 starcal
@@ -14615,7 +14620,6 @@ strawberry
 streameye
 streamtuner
 stressapptest
-stress-ng
 stringtemplate
 stripesnoop
 strongswan
@@ -14714,7 +14718,6 @@ synthv1
 sysbench
 sysconftool
 sysfsutils
-syslinux
 syslog-ng
 sysmontask
 sysreporter
@@ -15335,6 +15338,7 @@ wine-dxvk
 wine-mono
 wine
 winetricks
+wingpanel
 winpdb
 wipe
 wireguard-tools
