@@ -371,6 +371,7 @@ ascii
 asc-music
 asc
 asdcplib
+asio-grpc
 asio
 asmjit
 asm6809
@@ -928,6 +929,7 @@ ccd2iso
 CCfits
 ccgo
 cciss_vol_status
+ccluster
 ccnet
 ccrtp
 ccsm
@@ -1263,6 +1265,7 @@ cozy
 co2mon
 cpanspec
 cpdup
+cpeditor
 cpio
 cpipe
 cpl
@@ -1378,6 +1381,7 @@ cups-pdf
 cups-pk-helper
 cups
 cups-x2go
+CuraEngine_grpc_definitions
 CuraEngine
 cura-fdm-materials
 cura
@@ -2570,6 +2574,7 @@ ftnchek
 ftplib
 ftp
 fts-rest-client
+ftxui
 fuelmanager
 functionalplus
 funguloids
@@ -5881,6 +5886,7 @@ hikari
 hipblas
 hipcub
 hipify
+hiprand
 hipsparse
 hiran-perizia-fonts
 hiredis
@@ -6442,6 +6448,7 @@ jakarta-saaj
 jakarta-server-pages
 jakarta-servlet
 jakarta-xml-ws
+jalv_select
 jalv
 jam
 janet
@@ -7209,6 +7216,7 @@ k3guitune
 k4dirstat
 labiryntowy-fonts
 LabPlot
+labwc-menu-generator
 labwc
 la-capitaine-cursor-theme
 la-capitaine-icon-theme
@@ -8797,7 +8805,6 @@ mimetic
 mimetreeparser
 mimic
 minder
-mindless
 mine_detector
 minetestmapper
 minetest
@@ -9436,6 +9443,7 @@ nagios-plugins-ssl_cert
 nagios-plugins-systemd
 nagios
 nagi
+nanoflann
 nanomsg
 nanopb
 nano
@@ -10077,6 +10085,7 @@ openfst
 opengl-games-utils
 opengrm-ngram
 openhantek
+openhmd
 openhpi
 openhpi-subagent
 openh264
@@ -12868,7 +12877,6 @@ perl-Swim
 perl-Switch
 perl-Symbol-Global-Name
 perl-Symbol-Util
-perl-Syntax-Feature-Loop
 perl-Syntax-Highlight-Engine-Kate
 perl-Syntax-Highlight-Perl-Improved
 perl-Syntax-Highlight-Perl6
@@ -13964,7 +13972,6 @@ pioneer
 pioneers
 pipebench
 pipenightdreams
-pipenv
 pipepanic
 piper
 pipewalker
@@ -14487,6 +14494,7 @@ python-argcomplete
 python-argon2-cffi-bindings
 python-argon2-cffi
 python-argopt
+python-argparse-dataclass
 python-archinfo
 python-archspec
 python-arpeggio
@@ -14857,6 +14865,7 @@ python-compal
 python-compreffor
 python-compressed-rtf
 python-conda-index
+python-conda-inject
 python-conda-libmamba-solver
 python-conda-package-handling
 python-conda-package-streaming
@@ -15168,6 +15177,7 @@ python-fastpurge
 python-fauxquests
 python-fb-re2
 python-fedmsg-meta-fedora-infrastructure
+python-fedora-sig-onboard
 python-fedora
 python-feedgenerator
 python-feedgen
@@ -16265,6 +16275,7 @@ python-pyev
 python-pyface
 python-pyfakefs
 python-pyfastnoisesimd
+python-pyfiglet
 python-pyfim
 python-pyftdi
 python-pygal
@@ -16408,6 +16419,7 @@ python-pysocks
 python-pysodium
 python-pysol-cards
 python-py
+python-pyspellchecker
 python-pyspf
 python-pyspiflash
 python-pyspike
@@ -16771,6 +16783,7 @@ python-smbpasswd
 python-smbprotocol
 python-smi
 python-smmap
+python-snakemake-interface-common
 python-snappy
 python-snaptime
 python-sniffio
@@ -16797,7 +16810,6 @@ python-sphinx-basic-ng
 python-sphinx-bootstrap-theme
 python-sphinx-click
 python-sphinxcontrib-apidoc
-python-sphinxcontrib-applehelp
 python-sphinxcontrib-asyncio
 python-sphinxcontrib-autoprogram
 python-sphinxcontrib-bibtex
@@ -16807,7 +16819,6 @@ python-sphinxcontrib-github-alt
 python-sphinxcontrib-htmlhelp
 python-sphinxcontrib-httpdomain
 python-sphinxcontrib-jquery
-python-sphinxcontrib-jsmath
 python-sphinxcontrib-log-cabinet
 python-sphinxcontrib-openapi
 python-sphinxcontrib-pecanwsme
@@ -17663,6 +17674,7 @@ R-AUC
 ravada
 rawstudio
 rawtherapee
+raylib
 raysession
 R-backports
 rbanffy-3270-fonts
@@ -18842,6 +18854,7 @@ rust-askama_shared
 rust-askama
 rust-asn1_derive
 rust-asn1
+rust-as-raw-xcb-connection
 rust-assert_approx_eq
 rust-assert_cli
 rust-assert_cmd
@@ -19000,6 +19013,7 @@ rust-cairo-sys-rs
 rust-cairo-sys-rs0.15
 rust-cairo-sys-rs0.17
 rust-calloop
+rust-calloop-wayland-source
 rust-camino
 rust-capng
 rust-capnp-futures
@@ -19201,6 +19215,7 @@ rust-cursive_core0.2
 rust-cursive
 rust-cursive-tabs
 rust-cursive0.16
+rust-cursor-icon
 rust-curve25519-dalek
 rust-custom_error
 rust-cvss
@@ -19887,6 +19902,7 @@ rust-jxl-oxide
 rust-jxl-render
 rust-jxl-vardct
 rust-kamadak-exif
+rust-kbs-types
 rust-keccak
 rust-khronos_api
 rust-konst_macro_rules
@@ -19912,6 +19928,8 @@ rust-lebe
 rust-leb128
 rust-lev_distance
 rust-lexical-core
+rust-lexical-parse-float
+rust-lexical-parse-integer
 rust-lexical-util
 rust-lexiclean
 rust-lexopt
@@ -20370,6 +20388,7 @@ rust-predicates
 rust-predicates-tree
 rust-predicates1
 rust-predicates2
+rust-prefixdevname
 rust-pretty_assertions
 rust-pretty_assertions0.6
 rust-pretty_assertions0.7
@@ -20515,6 +20534,7 @@ rust-ratatui
 rust-rav1e
 rust-rawpointer
 rust-raw-window-handle
+rust-raw-window-handle0.5
 rust-rayon-core
 rust-rayon
 rust-rbspy-ruby-structs
@@ -20603,6 +20623,7 @@ rust-rustfft
 rust-rustfix
 rust-rust-ini
 rust-rust-ini0.17
+rust-rustix-openpty
 rust-rustix
 rust-rustix0.37
 rust-rustls-native-certs
@@ -20809,6 +20830,8 @@ rust-spki
 rust-spki0.4
 rust-sptr
 rust-spytools
+rust-sscanf_macro
+rust-sscanf
 rust-ssh-key-dir
 rust-stable_deref_trait
 rust-stacker
@@ -21088,6 +21111,8 @@ rust-unicode_categories
 rust-unicode-general-category
 rust-unicode-ident
 rust-unicode-linebreak
+rust-unicode_names2_generator
+rust-unicode_names2
 rust-unicode-normalization
 rust-unicode-segmentation
 rust-unicode-truncate
@@ -21177,11 +21202,15 @@ rust-warp
 rust-wasmer_enumset_derive
 rust-wasmer_enumset
 rust-wax
+rust-wayland-backend
 rust-wayland-client
 rust-wayland-commons
+rust-wayland-csd-frame
 rust-wayland-cursor
 rust-wayland-egl
+rust-wayland-protocols-plasma
 rust-wayland-protocols
+rust-wayland-protocols-wlr
 rust-wayland-scanner
 rust-wayland-server
 rust-wayland-sys
@@ -21215,7 +21244,10 @@ rust-xcursor
 rust-xdg-home
 rust-xdg
 rust-xi-unicode
+rust-xkbcommon-dl
 rust-xkbcommon
+rust-xkbcommon0.4
+rust-xkeysym
 rust-xmlparser
 rust-xml-rs
 rust-xmlwriter
@@ -21909,6 +21941,7 @@ statsd
 statserial
 stb
 stdair
+stduuid
 steghide
 steinberg-bravura-fonts
 steinberg-petaluma-fonts
@@ -23325,6 +23358,7 @@ xreader
 xrefresh
 xrestop
 xrestrict
+xr-hardware
 xrootd
 xrotor
 xsane
@@ -23487,6 +23521,7 @@ zfstream
 zchunk
 zidrav
 zig
+zig-srpm-macros
 zile
 zimg
 Zim

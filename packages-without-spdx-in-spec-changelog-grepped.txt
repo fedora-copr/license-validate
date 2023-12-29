@@ -266,6 +266,7 @@ asciiquarium
 asc-music
 asc
 asdcplib
+asio-grpc
 asio
 asmjit
 asm6809
@@ -334,7 +335,6 @@ authbind
 authd
 authselect
 auto-buildrequires
-autoconf-archive
 autoconf213
 autojump
 autokey
@@ -669,6 +669,7 @@ ccdciel
 ccd2iso
 ccgo
 cciss_vol_status
+ccluster
 ccnet
 ccrtp
 ccsm
@@ -925,11 +926,11 @@ cowpatty
 cowsay-beefymiracle
 co2mon
 cpdup
+cpeditor
 cpio
 cpipe
 cpl
 cpmtools
-cppad
 cppcodec
 cpp-hocon
 cpphs
@@ -1013,6 +1014,7 @@ cups-filters
 cups-pdf
 cups-pk-helper
 cups-x2go
+CuraEngine_grpc_definitions
 CuraEngine
 cura-fdm-materials
 cura
@@ -1422,9 +1424,7 @@ ed25519-java
 eegdev
 eegview
 EekBoek
-efibootmgr
 efifs
-efi-rpm-macros
 efitools
 efivar
 efl
@@ -2001,6 +2001,7 @@ ftgl
 ftnchek
 ftplib
 fts-rest-client
+ftxui
 fuelmanager
 functionalplus
 funguloids
@@ -3012,7 +3013,6 @@ gnome-shell-extension-dash-to-dock
 gnome-shell-extension-dash-to-panel
 gnome-shell-extension-disconnect-wifi
 gnome-shell-extension-forge
-gnome-shell-extension-freon
 gnome-shell-extension-gamemode
 gnome-shell-extension-gamerzilla
 gnome-shell-extension-gsconnect
@@ -4797,7 +4797,6 @@ grilo-plugins
 grilo
 grimmer-proggy-squaresz-fonts
 grimmer-proggy-tinysz-fonts
-grim
 grin
 grip
 gr-iqbal
@@ -5000,6 +4999,7 @@ hikari
 hipblas
 hipcub
 hipify
+hiprand
 hipsparse
 hiran-perizia-fonts
 hiredis
@@ -5298,6 +5298,7 @@ jakarta-mail1
 jakarta-saaj
 jakarta-server-pages
 jakarta-xml-ws
+jalv_select
 jalv
 jam
 janet
@@ -5982,6 +5983,7 @@ k3guitune
 k4dirstat
 labiryntowy-fonts
 LabPlot
+labwc-menu-generator
 labwc
 la-capitaine-cursor-theme
 la-capitaine-icon-theme
@@ -6374,7 +6376,6 @@ liblc3
 libldac
 libldm
 liblerc
-libliftoff
 liblinear
 libloc
 liblo
@@ -6979,7 +6980,6 @@ lxde-icon-theme
 lxdm
 lxhotkey
 lximage-qt
-lxinput
 lxi-tools
 lxlauncher
 lxmenu-data
@@ -7003,7 +7003,6 @@ lxqt-themes
 lxqt-wallet
 lxrandr
 lxsession
-lxshortcut
 lxsplit
 lxtask
 lyx
@@ -7042,7 +7041,6 @@ make-it-quick
 makemusic-finale-fonts
 makepasswd
 makeself
-mako
 malaga
 malcontent
 maliit-framework
@@ -7231,7 +7229,6 @@ mimetic
 mimetreeparser
 mimic
 minder
-mindless
 mine_detector
 minetestmapper
 minetest
@@ -7621,7 +7618,6 @@ modulemd-tools
 mod_xsendfile
 mod2c
 moka-icon-theme
-mokutil
 molequeue
 molsketch
 monafont
@@ -7784,6 +7780,7 @@ nagios-plugins
 nagios-plugins-ssl_cert
 nagios-plugins-systemd
 nagios
+nanoflann
 nanomsg
 nanopb
 nanosvg
@@ -8260,6 +8257,7 @@ openfortivpn
 openfst
 opengrm-ngram
 openhantek
+openhmd
 openhpi
 openhpi-subagent
 openchange
@@ -8373,7 +8371,6 @@ osmo-fl2k
 osmo
 osmpbf
 osm2pgsql
-os-prober
 osslsigncode
 ossobuffo-jura-fonts
 ostrichriders
@@ -8652,7 +8649,6 @@ perl-Authen-SCRAM
 perl-Authen-Simple
 perl-Authen-U2F
 perl-Authen-U2F-Tester
-perl-Authen-WebAuthn
 perl-autobox-Core
 perl-autobox-dump
 perl-autobox-Junctions
@@ -9867,7 +9863,6 @@ perl-MaxMind-DB-Reader-XS
 perl-Maypole
 perl-MDV-Packdrakeng
 perl-MD5
-perl-mecab
 perl-Memoize-ExpireLRU
 perl-Menlo-Legacy
 perl-Messaging-Message
@@ -10532,7 +10527,6 @@ perl-SVN-Look
 perl-SVN-Simple
 perl-Swim
 perl-Switch
-perl-Syntax-Feature-Loop
 perl-Syntax-Highlight-Engine-Kate
 perl-Syntax-Highlight-Perl-Improved
 perl-Syntax-Highlight-Perl6
@@ -11408,7 +11402,6 @@ pinta
 pioneer
 pioneers
 pipebench
-pipenv
 pipepanic
 piper
 pipewire
@@ -11847,6 +11840,7 @@ python-argcomplete
 python-argon2-cffi-bindings
 python-argon2-cffi
 python-argopt
+python-argparse-dataclass
 python-archinfo
 python-archspec
 python-arpeggio
@@ -12186,6 +12180,7 @@ python-compal
 python-compreffor
 python-compressed-rtf
 python-conda-index
+python-conda-inject
 python-conda-libmamba-solver
 python-conda-package-streaming
 python-configargparse
@@ -12258,7 +12253,6 @@ python-dateutils
 python-datrie
 python-dbfread
 python-dbf
-python-dbus-next
 python-dbus-python-client-gen
 python-dbus-signature-pyparsing
 python-dbutils
@@ -12463,6 +12457,7 @@ python-fastpurge
 python-fauxquests
 python-fb-re2
 python-fedmsg-meta-fedora-infrastructure
+python-fedora-sig-onboard
 python-fedora
 python-feedgenerator
 python-feedgen
@@ -13038,7 +13033,6 @@ python-mistune
 python-mistune08
 python-mitogen
 python-mizani
-python-mmtf
 python-mne-bids
 python-mnemonic
 python-mne
@@ -13440,6 +13434,7 @@ python-pyemd
 python-pyerfa
 python-pyev
 python-pyface
+python-pyfiglet
 python-pyfim
 python-pyftdi
 python-pygal
@@ -13570,6 +13565,7 @@ python-pysnmp-mibs
 python-pysnooper
 python-pysol-cards
 python-py
+python-pyspellchecker
 python-pyspf
 python-pyspiflash
 python-pyspike
@@ -13893,6 +13889,7 @@ python-smbpasswd
 python-smbprotocol
 python-smi
 python-smmap
+python-snakemake-interface-common
 python-snappy
 python-snaptime
 python-sniffio
@@ -14629,6 +14626,7 @@ rats
 R-AUC
 ravada
 rawtherapee
+raylib
 raysession
 R-backports
 rbanffy-3270-fonts
@@ -15292,6 +15290,7 @@ rust-askama_shared
 rust-askama
 rust-asn1_derive
 rust-asn1
+rust-as-raw-xcb-connection
 rust-assert_approx_eq
 rust-assert_cli
 rust-assert_cmd
@@ -15424,6 +15423,7 @@ rust-cairo-rs0.15
 rust-cairo-rs0.17
 rust-cairo-sys-rs0.15
 rust-cairo-sys-rs0.17
+rust-calloop-wayland-source
 rust-camino
 rust-capng
 rust-cap
@@ -15586,6 +15586,7 @@ rust-cursive_buffered_backend0.5
 rust-cursive_core0.2
 rust-cursive-tabs
 rust-cursive0.16
+rust-cursor-icon
 rust-curve25519-dalek
 rust-custom_error
 rust-cvss
@@ -16143,6 +16144,7 @@ rust-jxl-oxide
 rust-jxl-render
 rust-jxl-vardct
 rust-kamadak-exif
+rust-kbs-types
 rust-keccak
 rust-khronos_api
 rust-krates
@@ -16162,6 +16164,8 @@ rust-lddtree
 rust-lebe
 rust-leb128
 rust-lexical-core
+rust-lexical-parse-float
+rust-lexical-parse-integer
 rust-lexical-util
 rust-lexiclean
 rust-libadwaita
@@ -16488,6 +16492,7 @@ rust-predicates
 rust-predicates-tree
 rust-predicates1
 rust-predicates2
+rust-prefixdevname
 rust-pretty_assertions
 rust-pretty_assertions0.6
 rust-pretty_assertions0.7
@@ -16614,6 +16619,7 @@ rust-ratatui
 rust-rav1e
 rust-rawpointer
 rust-raw-window-handle
+rust-raw-window-handle0.5
 rust-rayon-core
 rust-rayon
 rust-rctree
@@ -16677,6 +16683,7 @@ rust-rustdct
 rust-rustfft
 rust-rustfix
 rust-rust-ini0.17
+rust-rustix-openpty
 rust-rustix
 rust-rustix0.37
 rust-rustls-native-certs
@@ -16845,6 +16852,8 @@ rust-spki
 rust-spki0.4
 rust-sptr
 rust-spytools
+rust-sscanf_macro
+rust-sscanf
 rust-ssh-key-dir
 rust-stable_deref_trait
 rust-stacker
@@ -17039,6 +17048,8 @@ rust-unicode_categories
 rust-unicode-general-category
 rust-unicode-ident
 rust-unicode-linebreak
+rust-unicode_names2_generator
+rust-unicode_names2
 rust-unicode-normalization
 rust-unicode-segmentation
 rust-unicode-truncate
@@ -17111,6 +17122,10 @@ rust-warp-sessions
 rust-wasmer_enumset_derive
 rust-wasmer_enumset
 rust-wax
+rust-wayland-backend
+rust-wayland-csd-frame
+rust-wayland-protocols-plasma
+rust-wayland-protocols-wlr
 rust-wayland-sys0.29
 rust-weak-table
 rust-webbrowser
@@ -17136,6 +17151,9 @@ rust-xattr0.2
 rust-xdg-home
 rust-xdg
 rust-xi-unicode
+rust-xkbcommon-dl
+rust-xkbcommon0.4
+rust-xkeysym
 rust-xmlparser
 rust-xml5ever
 rust-xterm-query
@@ -17315,7 +17333,6 @@ seahorse-caja
 seahorse-nautilus
 seahorse
 seamonkey
-seatd
 seaview
 secilc
 secrets
@@ -17499,7 +17516,6 @@ slowloris
 slrn
 sl
 slurm
-slurp
 smaclient
 smartsim
 smatch
@@ -17683,12 +17699,12 @@ starplot-gliese3
 starplot-yale5
 star
 startdde
-startup-notification
 stats-collect
 statsd
 statserial
 stb
 stdair
+stduuid
 steghide
 stellarsolver
 step
@@ -17789,11 +17805,8 @@ swappy
 swarp
 swatchdog
 swatch
-swaybg
 sway-config-fedora
 swayidle
-swaylock
-sway-systemd
 sweeper
 swell-foop
 swiftlint
@@ -17817,7 +17830,6 @@ synthv1
 sysbench
 sysconftool
 sysfsutils
-syslinux
 syslog-ng
 sysmontask
 sysreporter
@@ -17966,7 +17978,6 @@ thunar-sendto-clamtk
 Thunar
 thunar-vcs-plugin
 thunar-volman
-tideEditor
 tiedot
 tig
 tikzit
@@ -17980,7 +17991,6 @@ timew
 timidity++
 tinc
 tini
-tin
 tinycompress
 tinydir
 tinyexr
@@ -18007,7 +18017,6 @@ tkrzw
 tktray
 tldr
 tlf
-tllist
 tlmi-auth
 tlock
 tlog
@@ -18456,7 +18465,6 @@ waydroid
 wayfire-config-manager
 wayfire
 waycheck
-wayland-logout
 waylandpp
 wayvnc
 wbox
@@ -18539,7 +18547,6 @@ wlopm
 wlroots0.15
 wlroots0.16
 wlr-sunclock
-wlsunset
 wmacpi
 wmapmload
 wmbusmeters
@@ -18799,6 +18806,7 @@ xrdp
 xreader
 xrefresh
 xrestrict
+xr-hardware
 xrootd
 xrotor
 xscreensaver
@@ -18926,6 +18934,7 @@ zfstream
 zchunk
 zidrav
 zig
+zig-srpm-macros
 zile
 Zim
 zint

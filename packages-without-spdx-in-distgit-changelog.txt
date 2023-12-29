@@ -11,7 +11,6 @@ abrt-server-info-page
 academic-admin
 accerciser
 accounts-qml-module
-accountsservice
 aces_container
 AcetoneISO
 ack
@@ -97,7 +96,6 @@ amarok
 amavis
 american-fuzzy-lop
 AMF
-amg4psblas
 amiri-fonts
 aml
 amoebax
@@ -228,6 +226,7 @@ asciiquarium
 asc-music
 asc
 asdcplib
+asio-grpc
 asmjit
 asm6809
 asnip
@@ -257,7 +256,6 @@ atasm
 aterm
 atf
 atinout
-atkmm
 atkmm2.36
 atlantik
 atmel-firmware
@@ -287,7 +285,6 @@ auter
 authbind
 authd
 auto-buildrequires
-autoconf-archive
 autoconf213
 autojump
 autokey
@@ -538,7 +535,6 @@ callaudiod
 callgit
 calligraplan
 calligra
-calls
 calypso
 cambozola
 camorama
@@ -573,6 +569,7 @@ cbrpager
 ccache
 ccd2iso
 ccgo
+ccluster
 ccnet
 ccrtp
 ccsm
@@ -789,10 +786,10 @@ cowpatty
 cowsay-beefymiracle
 co2mon
 cpdup
+cpeditor
 cpipe
 cpl
 cpmtools
-cppad
 cppcodec
 cpp-httplib
 cppi
@@ -865,6 +862,7 @@ cups-filters
 cups-pdf
 cups-pk-helper
 cups-x2go
+CuraEngine_grpc_definitions
 cura
 curlftpfs
 curlpp
@@ -1744,6 +1742,7 @@ ftgl
 ftnchek
 ftplib
 fts-rest-client
+ftxui
 fuelmanager
 functionalplus
 funguloids
@@ -2230,7 +2229,6 @@ gnome-kra-ora-thumbnailer
 gnome-logs
 gnome-mahjongg
 gnome-maps
-gnome-menus
 gnome-mime-data
 gnome-mines
 gnome-monitor-config
@@ -2257,7 +2255,6 @@ gnome-shell-extension-dash-to-dock
 gnome-shell-extension-dash-to-panel
 gnome-shell-extension-disconnect-wifi
 gnome-shell-extension-forge
-gnome-shell-extension-freon
 gnome-shell-extension-gamemode
 gnome-shell-extension-gamerzilla
 gnome-shell-extension-gsconnect
@@ -4005,7 +4002,6 @@ grilo-plugins
 grilo
 grimmer-proggy-squaresz-fonts
 grimmer-proggy-tinysz-fonts
-grim
 grin
 grip
 gr-iqbal
@@ -4174,6 +4170,7 @@ hikari
 hipblas
 hipcub
 hipify
+hiprand
 hipsparse
 hiran-perizia-fonts
 hiredis
@@ -4234,7 +4231,6 @@ h5py
 chafa
 charliecloud
 CharLS
-chatty
 chayang
 cheat
 check-create-certificate
@@ -4432,6 +4428,7 @@ jakarta-mail1
 jakarta-saaj
 jakarta-server-pages
 jakarta-xml-ws
+jalv_select
 jalv
 jam
 janet
@@ -4943,6 +4940,7 @@ k3guitune
 k4dirstat
 labiryntowy-fonts
 LabPlot
+labwc-menu-generator
 la-capitaine-cursor-theme
 la-capitaine-icon-theme
 lacewing
@@ -5251,7 +5249,6 @@ liblas
 liblbfgs
 liblc3
 libldm
-libliftoff
 liblinear
 libloc
 liblo
@@ -5411,7 +5408,6 @@ libsexymm
 libsexy
 libshumate
 libsidplayfp
-libsigc++20
 libsigc++30
 libsignal-protocol-c
 libsigrokdecode
@@ -5756,9 +5752,7 @@ lxde-icon-theme
 lxdm
 lxhotkey
 lximage-qt
-lxinput
 lxi-tools
-lxlauncher
 lxmenu-data
 lxqt-about
 lxqt-admin
@@ -5777,7 +5771,6 @@ lxqt-session
 lxqt-sudo
 lxqt-themes
 lxqt-wallet
-lxshortcut
 lxsplit
 lxtask
 lyx
@@ -5813,7 +5806,6 @@ make-it-quick
 makemusic-finale-fonts
 makepasswd
 makeself
-mako
 malaga
 malcontent
 maliit-framework
@@ -6413,6 +6405,7 @@ nagios-plugins-openmanage
 nagios-plugins-snmp-disk-proc
 nagios-plugins
 nagios
+nanoflann
 nanomsg
 nanopb
 nanosvg
@@ -6780,6 +6773,7 @@ openfortivpn
 openfst
 opengrm-ngram
 openhantek
+openhmd
 openhpi
 openhpi-subagent
 openigtlink
@@ -6876,7 +6870,6 @@ osm-gps-map
 osmo-fl2k
 osmo
 osm2pgsql
-os-prober
 ossobuffo-jura-fonts
 ostrichriders
 otf2bdf
@@ -7093,7 +7086,6 @@ perl-Authen-SCRAM
 perl-Authen-Simple
 perl-Authen-U2F
 perl-Authen-U2F-Tester
-perl-Authen-WebAuthn
 perl-autobox-Junctions
 perl-AWS-Signature4
 perl-BackPAN-Index
@@ -7826,7 +7818,6 @@ perl-MaxMind-DB-Common
 perl-MaxMind-DB-Reader-XS
 perl-Maypole
 perl-MD5
-perl-mecab
 perl-Messaging-Message
 perl-Metrics-Any
 perl-MikroTik-API
@@ -8879,7 +8870,6 @@ pinta
 pioneer
 pioneers
 pipebench
-pipenv
 pipepanic
 pipewire
 pipewire0.2
@@ -9256,8 +9246,8 @@ python-apsw
 python-apt
 python-apypie
 python-aresponses
-python-argcomplete
 python-argon2-cffi-bindings
+python-argparse-dataclass
 python-archinfo
 python-archspec
 python-arpeggio
@@ -9536,6 +9526,7 @@ python-comm
 python-compal
 python-compressed-rtf
 python-conda-index
+python-conda-inject
 python-conda-libmamba-solver
 python-conda-package-streaming
 python-configargparse
@@ -9598,7 +9589,6 @@ python-datetimerange
 python-dateutils
 python-dbfread
 python-dbf
-python-dbus-next
 python-dbus-python-client-gen
 python-dbus-signature-pyparsing
 python-dbutils
@@ -9782,6 +9772,7 @@ python-fastpurge
 python-fauxquests
 python-fb-re2
 python-fedmsg-meta-fedora-infrastructure
+python-fedora-sig-onboard
 python-fedora
 python-feedgenerator
 python-feedgen
@@ -10053,7 +10044,6 @@ python-influxdb-client
 python-influxdb
 python-iniparse
 python-inkex
-python-inotify_simple
 python-inspyred
 python-instant
 python-intbitset
@@ -10267,7 +10257,6 @@ python-mistune
 python-mistune08
 python-mitogen
 python-mizani
-python-mmtf
 python-mne-bids
 python-mnemonic
 python-mne
@@ -10597,6 +10586,7 @@ python-pyemd
 python-pyerfa
 python-pyev
 python-pyface
+python-pyfiglet
 python-pyfim
 python-pyftdi
 python-pygal
@@ -10711,6 +10701,7 @@ python-pysnmp-mibs
 python-pysnooper
 python-pysol-cards
 python-py
+python-pyspellchecker
 python-pyspf
 python-pyspiflash
 python-pyspike
@@ -10995,6 +10986,7 @@ python-smart_open
 python-smbpasswd
 python-smbprotocol
 python-smi
+python-snakemake-interface-common
 python-snappy
 python-snaptime
 python-sniffio
@@ -11434,7 +11426,6 @@ python3.9
 pythran
 pywebdav
 pyxattr
-pyxdg
 PyX
 p0f
 p0rn-comfort
@@ -11457,7 +11448,6 @@ qca
 qcas
 qcint
 qcomicbook
-qdbm
 qdigidoc
 qdirstat
 qemu-sanity-check
@@ -11636,6 +11626,7 @@ ratools
 ratpoison
 rats
 R-AUC
+raylib
 raysession
 R-backports
 rbanffy-3270-fonts
@@ -12271,6 +12262,7 @@ rust-askama_shared
 rust-askama
 rust-asn1_derive
 rust-asn1
+rust-as-raw-xcb-connection
 rust-assert_approx_eq
 rust-assert_cli
 rust-assert_cmd
@@ -12402,6 +12394,7 @@ rust-cairo-rs0.15
 rust-cairo-rs0.17
 rust-cairo-sys-rs0.15
 rust-cairo-sys-rs0.17
+rust-calloop-wayland-source
 rust-camino
 rust-capng
 rust-cap
@@ -12563,6 +12556,7 @@ rust-cursive_buffered_backend0.5
 rust-cursive_core0.2
 rust-cursive-tabs
 rust-cursive0.16
+rust-cursor-icon
 rust-curve25519-dalek
 rust-custom_error
 rust-cvss
@@ -13118,6 +13112,7 @@ rust-jxl-oxide
 rust-jxl-render
 rust-jxl-vardct
 rust-kamadak-exif
+rust-kbs-types
 rust-keccak
 rust-khronos_api
 rust-krates
@@ -13137,6 +13132,8 @@ rust-lddtree
 rust-lebe
 rust-leb128
 rust-lexical-core
+rust-lexical-parse-float
+rust-lexical-parse-integer
 rust-lexical-util
 rust-lexiclean
 rust-libadwaita
@@ -13463,6 +13460,7 @@ rust-predicates
 rust-predicates-tree
 rust-predicates1
 rust-predicates2
+rust-prefixdevname
 rust-pretty_assertions
 rust-pretty_assertions0.6
 rust-pretty_assertions0.7
@@ -13589,6 +13587,7 @@ rust-ratatui
 rust-rav1e
 rust-rawpointer
 rust-raw-window-handle
+rust-raw-window-handle0.5
 rust-rayon-core
 rust-rayon
 rust-rctree
@@ -13652,6 +13651,7 @@ rust-rustdct
 rust-rustfft
 rust-rustfix
 rust-rust-ini0.17
+rust-rustix-openpty
 rust-rustix
 rust-rustix0.37
 rust-rustls-native-certs
@@ -13819,6 +13819,8 @@ rust-spki
 rust-spki0.4
 rust-sptr
 rust-spytools
+rust-sscanf_macro
+rust-sscanf
 rust-ssh-key-dir
 rust-stable_deref_trait
 rust-stacker
@@ -14012,6 +14014,8 @@ rust-unicode_categories
 rust-unicode-general-category
 rust-unicode-ident
 rust-unicode-linebreak
+rust-unicode_names2_generator
+rust-unicode_names2
 rust-unicode-normalization
 rust-unicode-segmentation
 rust-unicode-truncate
@@ -14083,6 +14087,10 @@ rust-warp-sessions
 rust-wasmer_enumset_derive
 rust-wasmer_enumset
 rust-wax
+rust-wayland-backend
+rust-wayland-csd-frame
+rust-wayland-protocols-plasma
+rust-wayland-protocols-wlr
 rust-wayland-sys0.29
 rust-weak-table
 rust-webbrowser
@@ -14108,6 +14116,9 @@ rust-xattr0.2
 rust-xdg-home
 rust-xdg
 rust-xi-unicode
+rust-xkbcommon-dl
+rust-xkbcommon0.4
+rust-xkeysym
 rust-xmlparser
 rust-xml5ever
 rust-xterm-query
@@ -14276,7 +14287,6 @@ seahorse-adventures
 seahorse-caja
 seahorse
 seamonkey
-seatd
 seaview
 secrets
 sec
@@ -14435,7 +14445,6 @@ slowhttptest
 slowloris
 slrn
 slurm
-slurp
 smaclient
 smartsim
 smatch
@@ -14598,11 +14607,11 @@ starplot-contrib
 starplot-gliese3
 starplot-yale5
 startdde
-startup-notification
 stats-collect
 statsd
 statserial
 stdair
+stduuid
 steghide
 step
 stfl
@@ -14694,11 +14703,8 @@ swappy
 swarp
 swatchdog
 swatch
-swaybg
 sway-config-fedora
 swayidle
-swaylock
-sway-systemd
 sweeper
 swell-foop
 swiftlint
@@ -14846,7 +14852,6 @@ thunar-sendto-clamtk
 Thunar
 thunar-vcs-plugin
 thunar-volman
-tideEditor
 tiedot
 tikzit
 tilda
@@ -14858,7 +14863,6 @@ timew
 timidity++
 tinc
 tini
-tin
 tinycompress
 tinydir
 tinyexr
@@ -14885,7 +14889,6 @@ tkrzw
 tktray
 tldr
 tlf
-tllist
 tlmi-auth
 tlock
 tlog
@@ -15283,7 +15286,6 @@ waydroid
 wayfire-config-manager
 wayfire
 waycheck
-wayland-logout
 waylandpp
 wayvnc
 wbox
@@ -15353,7 +15355,6 @@ wlopm
 wlroots0.15
 wlroots0.16
 wlr-sunclock
-wlsunset
 wmacpi
 wmapmload
 wmbusmeters
@@ -15597,6 +15598,7 @@ xrdp
 xreader
 xrefresh
 xrestrict
+xr-hardware
 xrootd
 xrotor
 xscreensaver
@@ -15713,6 +15715,7 @@ zfp
 zfstream
 zidrav
 zig
+zig-srpm-macros
 zile
 zint
 ZipArchive
