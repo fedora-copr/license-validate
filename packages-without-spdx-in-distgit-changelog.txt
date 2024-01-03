@@ -70,7 +70,6 @@ alef-fonts
 alembic
 alerque-libertinus-fonts
 alevt
-alexandria
 alex4
 alfont
 alglib
@@ -435,7 +434,6 @@ bluez
 bluez-tools
 blurhash-cpp
 bmap-tools
-bodr
 boinc-client
 bolt
 bolzplatz2006
@@ -1176,6 +1174,7 @@ dvdisaster
 dvd+rw-tools
 dvgrab
 dvtm
+dwayland
 dwgrep
 dwlocstat
 dwz
@@ -1448,7 +1447,6 @@ esmi_ib_library
 esmtp
 esorex
 esound
-espeak-ng
 espeak
 espresso
 etcd
@@ -1873,7 +1871,6 @@ genius
 genromfs
 gensio
 gentoo
-geoclue2
 geocode-glib
 GeographicLib
 geometry-hpp
@@ -2217,7 +2214,6 @@ gnome-feeds
 gnome-font-viewer
 gnome-hexgl
 gnome-characters
-gnome-chemistry-utils
 gnome-icon-theme
 gnome-initial-setup
 gnome-js-common
@@ -4179,7 +4175,6 @@ hledger-ui
 hmmer
 hnb
 hokuyoaist
-home-assistant-cli
 homebank
 honggfuzz
 horai-ume-fonts
@@ -4220,7 +4215,6 @@ hydra
 hydrogen
 hyena
 hylafax+
-hyperestraier
 hyperhdr
 hyperrogue
 hyperscan
@@ -4236,7 +4230,6 @@ cheat
 check-create-certificate
 check_postgres
 checksec
-chemical-mime-data
 CheMPS2
 chess_db
 chibi-scheme
@@ -4800,7 +4793,6 @@ kmodtool
 kmousetool
 kmouth
 kmplayer
-kmplot
 kmscube
 kmymoney
 knavalbattle
@@ -4846,15 +4838,16 @@ kphotoalbum
 kpilot
 kpimtextedit
 kpipewire
+kpipewire5
 kpkpass
 kproperty
 kpublictransport
 kqoauth-qt5
-kqtquickcharts
 kquickimageeditor
 krazy2
 krb5-auth-dialog
 krdc
+krdp
 krecipes
 krecorder
 kreetingkard
@@ -5206,7 +5199,6 @@ libigloo
 libiio
 libime
 libimobiledevice-glue
-libindicator
 libindi
 libinjection
 libint
@@ -5226,6 +5218,7 @@ libjwt
 libkate
 libkcddb
 libkcompactdisc
+libkdcraw
 libkdegames
 libkdepim
 libkdtree++
@@ -5291,7 +5284,6 @@ libmpd
 libmpris-qt5
 libmp4v2
 libmseed
-libmtp
 libmusicbrainz5
 libmygpo-qt
 libmypaint
@@ -5750,7 +5742,6 @@ lxcfs
 lxc
 lxde-icon-theme
 lxdm
-lxhotkey
 lximage-qt
 lxi-tools
 lxmenu-data
@@ -6583,7 +6574,6 @@ nsca
 NsCDE
 nsdiff
 nsd
-nsnake
 nsntrace
 nss-altfiles
 nss-mdns
@@ -6593,7 +6583,6 @@ nss_updatedb
 ns-tiza-chalk-fonts
 ntfs2btrfs
 ntfs-3g
-nudoku
 nuget
 nulib2
 nullmodem
@@ -6656,6 +6645,7 @@ ocaml-ptime
 ocaml-sedlex
 ocaml-sha
 ocaml-stdlib-random
+ocaml-unionfind
 ocaml-uucd
 ocaml-uucp
 ocaml-uunf
@@ -7044,7 +7034,6 @@ perl-Apache-DBI
 perl-Apache-Htpasswd
 perl-Apache-Session-NoSQL
 perl-Apache-Session-Wrapper
-perl-Apache2-SOAP
 perl-App-Asciio
 perl-App-Cache
 perl-App-CLI
@@ -7376,7 +7365,6 @@ perl-Data-Stream-Bulk
 perl-Data-Structure-Util
 perl-Data-Types
 perl-Data-Uniqid
-perl-Data-Validate-Domain
 perl-Data-Validate-IP
 perl-Data-Validate-Type
 perl-Date-HolidayParser
@@ -8180,7 +8168,6 @@ perl-Sort-Maker
 perl-Sort-MergeSort
 perl-Spoon
 perl-Spreadsheet-ParseExcel-Simple
-perl-Spreadsheet-ParseExcel
 perl-Spreadsheet-ParseXLSX
 perl-Spreadsheet-WriteExcel-Simple
 perl-Spreadsheet-WriteExcel
@@ -8940,7 +8927,6 @@ plplot
 pluma-plugins
 pluma
 plymouth-kcm
-plymouth
 plymouth-theme-breeze
 plymouth-theme-hot-dog
 pmount
@@ -9433,7 +9419,6 @@ python-catkin_lint
 python-catkin_pkg
 python-catkin-sphinx
 python-cccolutils
-python-ccdproc
 python-cclib
 python-celery
 python-cerberus
@@ -9740,6 +9725,7 @@ python-ephyviewer
 python-epi
 python-epson-projector
 python-epub
+python-esbonio
 python-esphomeflasher
 python-etcd
 python-etcd3gw
@@ -9824,6 +9810,7 @@ python-flask-talisman
 python-flask-wtf
 python-flask-xml-rpc
 python-flexcache
+python-flexparser
 python-flit-scm
 python-flock
 python-flufl-bounce
@@ -9862,6 +9849,7 @@ python-gabbi
 python-gammu
 python-gatspy
 python-gbinder
+python-gbulb
 python-gearbox
 python-gear
 python-gekitchen
@@ -9870,6 +9858,7 @@ python-gemfileparser2
 python-genshi
 python-gensim
 python-genty
+python-geodatasets
 python-GeoIP
 python-geojson
 python-geopandas
@@ -10191,6 +10180,7 @@ python-looseversion
 python-lqrt
 python-lsp-black
 python-lsp-jsonrpc
+python-lsprotocol
 python-lsp-server
 python-lunr
 python-lupa
@@ -10362,7 +10352,6 @@ python-ntplib
 python-nuheat
 python-numcodecs
 python-numexpr
-python-numpydoc
 python-numpy-stl
 python-num2words
 python-oauth
@@ -10596,6 +10585,7 @@ python-pygeoip
 python-pyghmi
 python-pygiftiio
 python-PyGithub
+python-pygls
 python-pygmars
 python-pygments-better-html
 python-pygments-git
@@ -10742,6 +10732,7 @@ python-pytest-isort
 python-pytest-jupyter
 python-pytest-lazy-fixture
 python-pytest-localserver
+python-pytest-lsp
 python-pytest-mock
 python-pytest-mpi
 python-pytest-mpl
@@ -10751,7 +10742,6 @@ python-pytest-ordering
 python-pytest-postgresql
 python-pytest-randomly
 python-pytest-relaxed
-python-pytest-remotedata
 python-pytest-repeat
 python-pytest-runner
 python-pytest-services
@@ -10781,7 +10771,6 @@ python-pyvirtualdisplay
 python-pyvirtualize
 python-pyvit
 python-pyvlx
-python-pyvo
 python-pywayland
 python-pywizlight
 python-pywlroots
@@ -10805,6 +10794,7 @@ python-qstylizer
 python-qtconsole
 python-QtPy
 python-qt5
+python-qudida
 python-queuelib
 python-qutepart
 python-radexreader
@@ -11193,9 +11183,11 @@ python-types-cryptography
 python-types-docutils
 python-types-enum34
 python-types-ipaddress
+python-types-pygments
 python-types-pyopenssl
 python-types-pyyaml
 python-types-requests
+python-types-setuptools
 python-types-six
 python-typish
 python-tzlocal
@@ -12708,6 +12700,7 @@ rust-envsubst
 rust-epoll
 rust-equivalent
 rust-erased-serde
+rust-erased-serde0.3
 rust-erdtree
 rust-err-derive
 rust-errno
@@ -13141,7 +13134,9 @@ rust-libadwaita-sys
 rust-libblkid-rs
 rust-libblkid-rs-sys
 rust-libbpf-cargo
+rust-libbpf-cargo0.21
 rust-libbpf-rs
+rust-libbpf-rs0.21
 rust-libbpf-sys
 rust-libcryptsetup-rs
 rust-libcryptsetup-rs-sys
@@ -14408,6 +14403,7 @@ SimGear
 simh
 simple-ccsm
 Simple-Fuzzer
+simpleini
 simple-mail
 simple-scan
 simspark
@@ -14613,7 +14609,6 @@ statserial
 stdair
 stduuid
 steghide
-step
 stfl
 stix-fonts
 stk
@@ -15004,7 +14999,6 @@ typespeed
 typetogether-literata-fonts
 typetype-molot-fonts
 tytools
-tzclock
 tzdata
 t1lib
 t1utils
@@ -15334,6 +15328,7 @@ widevine-installer
 wiggle
 wike
 wiki2beamer
+wildcard
 wildmagic5
 wildmidi
 wine-dxvk
@@ -15717,6 +15712,7 @@ zidrav
 zig
 zig-srpm-macros
 zile
+zimpl
 zint
 ZipArchive
 zipios++
