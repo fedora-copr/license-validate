@@ -449,7 +449,6 @@ cadical
 cadvisor
 caffe
 cage
-cagibi
 cachefilesd
 cachelib
 cairomm
@@ -661,6 +660,7 @@ crash-gcore-command
 crash
 crash-trace-command
 create-fake-rpm
+createrepo-agent
 createrepo_c
 credentials-fetcher
 criu
@@ -980,6 +980,7 @@ extundelete
 e00compr
 fancontrol-gui
 fann
+fantasdic
 fapolicy-analyzer
 fapolicyd
 fast-cdr
@@ -988,7 +989,6 @@ fasterxml-oss-parent
 fastfetch
 fast_float
 faust
-fbf-mukti-fonts
 fbreader
 fbrnch
 fbterm
@@ -1424,7 +1424,6 @@ ghc-contravariant
 ghc-cprng-aes
 ghc-criterion
 ghc-crypto-api
-ghc-crypto-cipher-types
 ghc-cryptohash-md5
 ghc-cryptohash-sha1
 ghc-cryptohash-sha256
@@ -1897,6 +1896,7 @@ gimp-fourier-plugin
 gimp-help
 gimp
 ginac
+ginga
 girara
 git-annex
 git-autofixup
@@ -3248,6 +3248,7 @@ kdump-anaconda-addon
 kealib
 kea
 keepalived
+keepass
 kemie-bellota-fonts
 kernel-headers
 kernelshark
@@ -3672,6 +3673,7 @@ libfilezilla
 libfm
 libfontenc
 libfonts
+libformfactor
 libformula
 libfplll
 libfreehand
@@ -4073,6 +4075,7 @@ linuxdoc-tools
 linux-libertine-fonts
 linuxptp
 liquidctl
+liquidshell
 liquidwar
 lite-xl
 live555
@@ -4181,6 +4184,7 @@ Macaulay2
 mac
 madan-fonts
 Maelstrom
+magic_enum
 magicmirror-module-airnow
 magicmirror-module-onthisday
 magicmirror-module-singlestock
@@ -4979,6 +4983,7 @@ openwsman
 openxr
 optee_client
 optee_os
+opus
 oqsprovider
 orage
 ORBit2
@@ -5034,6 +5039,7 @@ pamtester
 pam-u2f
 pam_wrapper
 pandoc
+pangomm
 pango
 paper-icon-theme
 paperkey
@@ -5462,6 +5468,7 @@ perl-DateTime-Format-MySQL
 perl-DateTime-Format-Natural
 perl-DateTime-Format-Oracle
 perl-DateTime-Format-Pg
+perl-DateTime-Format-RFC3339
 perl-DateTime-Format-SQLite
 perl-DateTime-Format-Strptime
 perl-DateTime-Format-W3CDTF
@@ -7123,6 +7130,7 @@ polyclipping
 polymake
 polyml
 pop-gtk-theme
+poppler-data
 portmidi
 postfix
 postfwd
@@ -7508,6 +7516,7 @@ python-enchant
 python-envisage
 python-epel-rpm-macros
 python-esbonio
+python-EvoPreprocess
 python-exabgp
 python-expandvars
 python-extension-helpers
@@ -7525,6 +7534,7 @@ python-fastbencode
 python-fasteners
 python-fastjsonschema
 python-fedora-sig-onboard
+python-feedgen
 python-ffc
 python-ffmpeg-python
 python-fingerprints
@@ -7645,6 +7655,7 @@ python-google-crc32c
 python-google-resumable-media
 python-gpiozero
 python-gpxpy
+python-grabbit
 python-grafeas
 python-graph-tool
 python-greenlet
@@ -8060,6 +8071,7 @@ python-pydyf
 python-pyedflib
 python-pyelectro
 python-pyembroidery
+python-pyerfa
 python-pyfakefs
 python-pyfastnoisesimd
 python-pyfiglet
@@ -8126,6 +8138,7 @@ python-pystemd
 python-pyswip
 python-pytest-arraydiff
 python-pytest-astropy-header
+python-pytest-astropy
 python-pytest-bdd
 python-pytest-click
 python-pytest-console-scripts
@@ -8775,6 +8788,7 @@ rpm-local-generator-support
 rpm-mpi-hooks
 rpm-ostree
 rpmreaper
+rpm
 rpmspectool
 rp-pppoe
 rpy
@@ -9258,7 +9272,6 @@ rubygem-webrobots
 rubygem-websocket-driver
 rubygem-websocket-extensions
 rubygem-websocket
-rubygem-whiskey_disk
 rubygem-xmlparser
 rubygem-xmlrpc
 rubygem-xml-simple
@@ -9382,6 +9395,7 @@ rust-async-fs
 rust-asyncgit
 rust-async-global-executor
 rust-async-channel
+rust-async-channel1
 rust-async-io
 rust-async-lock
 rust-async-mutex
@@ -9918,6 +9932,7 @@ rust-euclid
 rust-event-listener
 rust-event-listener-strategy
 rust-event-listener2
+rust-event-listener3
 rust-event-manager
 rust-executable-path
 rust-exitcode
@@ -10369,7 +10384,6 @@ rust-itertools
 rust-itertools0.10
 rust-itertools0.11
 rust-itertools0.8
-rust-itertools0.9
 rust-itoap
 rust-itoa
 rust-itoa0.4
@@ -11162,6 +11176,7 @@ rust-scrypt
 rust-scrypt0.8
 rust-sctk-adwaita
 rust-sct
+rust-scx_utils
 rust-sd-notify
 rust-sd
 rust-seahash
@@ -11196,7 +11211,6 @@ rust-serde_fmt
 rust-serde_ignored
 rust-serde_json
 rust-serde_path_to_error
-rust-serde_qs
 rust-serde_regex
 rust-serde_repr
 rust-serde-sarif
@@ -11517,7 +11531,6 @@ rust-toml
 rust-toml0.4
 rust-toml0.5
 rust-toml0.7
-rust-totp-lite
 rust-tower-http
 rust-tower-layer
 rust-tower-service
@@ -11793,6 +11806,7 @@ rust-z85
 rust2rpm-helper
 rust2rpm
 rutabaga-gfx-ffi
+rwhoisd
 R-winch
 rw
 rxvt-unicode
@@ -12185,7 +12199,6 @@ testcloud
 testng
 testssl
 tetgen
-tex-fonts-hebrew
 texinfo
 texi2html
 texworks
@@ -12329,7 +12342,6 @@ unhide
 unicode-emoji
 unicode-ucd
 unifdef
-uniol-fonts
 units
 univocity-parsers
 unlambda
@@ -12629,6 +12641,7 @@ xorg-x11-drv-libinput
 xorg-x11-drv-vmware
 xorg-x11-drv-wacom
 xorg-x11-fonts
+xorg-x11-font-utils
 xorg-x11-proto-devel
 xorg-x11-server
 xorg-x11-server-Xwayland
@@ -12732,6 +12745,7 @@ zvbi
 zxcvbn-c
 zxing-cpp
 zycore-c
+zydis
 zziplib
 zzuf
 z3
