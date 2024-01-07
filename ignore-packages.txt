@@ -22,9 +22,6 @@ python-requests_ntlm$
 python-tomli-w$
 yt-dlp$
 
-# ignore for now, pvalena should handle it
-^rubygem-*
-
 # ignore for now, most of the rust packages are generated and will be automatically updated via new template when rebased 
 #^rust-*
 
