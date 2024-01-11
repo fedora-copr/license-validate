@@ -289,7 +289,6 @@ appres
 appstream-data
 appstream-generator
 appstream
-appstream0.16
 apptainer
 appx-util
 apr-api-docs
@@ -1022,7 +1021,6 @@ ClanLib06
 ClanLib1
 clapper
 cl-asdf
-clash
 classification-banner
 classified-ads
 classloader-leak-test-framework
@@ -2359,6 +2357,7 @@ firewalld
 firmitas
 fishbowl
 fish
+fitsverify
 fityk
 five-or-more
 fixedptc
@@ -4244,6 +4243,7 @@ golang-github-envoyproxy-control-plane
 golang-github-envoyproxy-protoc-gen-validate
 golang-github-erikgeiser-promptkit
 golang-github-erikstmartin-testdb
+golang-github-erkexzcx-valetudopng
 golang-github-errors
 golang-github-etcd-io-gofail
 golang-github-euank-kmsg-parser
@@ -5881,6 +5881,7 @@ honggfuzz
 horai-ume-fonts
 hostapd
 hostname
+host-spawn
 hotspot
 hot-tux
 howl
@@ -6751,7 +6752,6 @@ kf5-akonadi-notes
 kf5-akonadi-search
 kf5-akonadi-server
 kf5-attica
-kf5-audiocd-kio
 kf5-baloo
 kf5-bluez-qt
 kf5-calendarsupport
@@ -6843,7 +6843,6 @@ kf5-kxmlgui
 kf5-kxmlrpcclient
 kf5-libgravatar
 kf5-libkcddb
-kf5-libkcompactdisc
 kf5-libkdcraw
 kf5-libkdepim
 kf5-libkgapi
@@ -6871,6 +6870,7 @@ kf6-attica
 kf6-baloo
 kf6-bluez-qt
 kf6-frameworkintegration
+kf6-kapidox
 kf6-karchive
 kf6-kauth
 kf6-kbookmarks
@@ -7108,7 +7108,6 @@ krop
 kruler
 krusader
 ksanecore
-kscd
 kscope
 kscreenlocker
 kscreen
@@ -7572,7 +7571,6 @@ libica
 libICE
 libicns
 libicu71
-libicu72
 libIDL
 libidn
 libidn1.34
@@ -8087,7 +8085,6 @@ libwmf
 libwnck
 libwnck3
 libwpd
-libwpe
 libwpg
 libwps
 libwvstreams
@@ -8455,6 +8452,7 @@ lxqt-build-tools
 lxqt-config-randr
 lxqt-config
 lxqt-globalkeys
+lxqt-menu-data
 lxqt-notificationd
 lxqt-openssh-askpass
 lxqt-panel
@@ -9282,7 +9280,6 @@ mrack
 mrbs
 mrcpp
 mrchem
-mrpt
 mrrescue
 mrtg
 mrxvt
@@ -9663,6 +9660,7 @@ ntfs2btrfs
 ntfs-3g
 ntfs-3g-system-compression
 ntl
+ntpd-rs
 ntp-refclock
 ntpsec
 ntpstat
@@ -10246,6 +10244,7 @@ pam_mysql
 pam_radius
 pam_script
 pam
+pam-ssh-auth-info
 pam_ssh
 pamtester
 pam_url
@@ -15083,7 +15082,6 @@ python-epi
 python-epson-projector
 python-epub
 python-esbonio
-python-esphomeflasher
 python-etcd
 python-etcd3gw
 python-etcd3
@@ -15432,6 +15430,7 @@ python-h2
 python-h5io
 python-h5netcdf
 python-chai
+python-chalice
 python-chameleon
 python-chaospy
 python-chardet
@@ -15480,6 +15479,7 @@ python-inject
 python-inkex
 python-inotify_simple
 python-inotify
+python-inquirer
 python-inspyred
 python-installer
 python-instant
@@ -15820,6 +15820,7 @@ python-multitasking
 python-munch
 python-munkres
 python-murano-pkg-check
+python-murmurhash
 python-musicbrainzngs
 python-music21
 python-mutagen
@@ -16098,6 +16099,7 @@ python-plaintable
 python-plaster-pastedeploy
 python-plaster
 python-platformdirs
+python-platformio
 python-play-scraper
 python-plotly
 python-plotnine
@@ -16869,7 +16871,6 @@ python-stuf
 python-subarulink
 python-subliminal
 python-subprocess-tee
-python-subvertpy
 python-succulent
 python-suds
 python-supersmoother
@@ -16965,6 +16966,7 @@ python-toolz
 python-toposort
 python-torchdata
 python-torch
+python-torchvision
 python-tornado
 python-tosca-parser
 python-towncrier
@@ -17140,6 +17142,7 @@ python-widgetsnbextension
 python-wiffi
 python-wikipedia
 python-wikitcms
+python-willow
 python-winacl
 python-winrm
 python-winsspi
@@ -17161,11 +17164,13 @@ python-wxnatpy
 python-wxpython4
 python-w3lib
 python-xapp
+python-xarray-einstats
 python-xarray
 python-xattr
 python-xbout
 python-xboxapi
 python-xcffib
+python-xdfile
 python-xdot
 python-xeddsa
 python-xiaomi-gateway
@@ -17489,6 +17494,7 @@ qt5-qtx11extras
 qt5-qt3d
 qt5
 qt6ct
+qt6-doc
 qt6-qtbase
 qt6-qtconnectivity
 qt6-qtdatavis3d
@@ -18698,6 +18704,7 @@ ruby-taglib
 rudeconfig
 rudesocket
 R-udunits2
+ruff
 rumor
 runc
 rundoc
@@ -18815,14 +18822,18 @@ rust-async-broadcast
 rust-async-compression
 rust-async-executor
 rust-async-fs
+rust-async-fs1
 rust-asyncgit
 rust-async-global-executor
 rust-async-channel
 rust-async-channel1
 rust-async-io
+rust-async-io1
 rust-async-lock
+rust-async-lock2
 rust-async-mutex
 rust-async-process
+rust-async-process1
 rust-async-recursion
 rust-async-session
 rust-async-signal
@@ -18899,9 +18910,11 @@ rust-bitmaps
 rust-bitreader
 rust-bit-set
 rust-bitstream-io
+rust-bitstream-io1
 rust-bitvec_helpers
 rust-bit-vec
 rust-bitvec
+rust-blake2b_simd
 rust-blake2
 rust-blake3
 rust-blobby
@@ -19259,6 +19272,7 @@ rust-dlib
 rust-dlv-list
 rust-dlv-list0.2
 rust-dns-lookup
+rust-dns-lookup1
 rust-doc-comment
 rust-docmatic
 rust-docopt
@@ -19279,6 +19293,7 @@ rust-drop_bomb
 rust-dtoa-short
 rust-dtoa
 rust-dtoa0.4
+rust-dtparse
 rust-dua-cli
 rust-duct_sh
 rust-duct
@@ -19289,6 +19304,7 @@ rust-dyn-clone
 rust-easy-cast
 rust-easy-parallel
 rust-ecdsa
+rust-editdistancek
 rust-edit-distance
 rust-edit
 rust-educe
@@ -19389,6 +19405,7 @@ rust-fb_procfs
 rust-fdeflate
 rust-fd-find
 rust-fd-lock
+rust-fd-lock3
 rust-fedora
 rust-fedora-update-feedback
 rust-femme
@@ -19686,6 +19703,7 @@ rust-heatseeker
 rust-heck
 rust-heck0.3
 rust-helvum
+rust-hexf-parse
 rust-hex-literal-impl
 rust-hex-literal
 rust-hex-literal0.2
@@ -19745,6 +19763,7 @@ rust-idna
 rust-idna0.1
 rust-idna0.2
 rust-idna0.3
+rust-idna0.4
 rust-ifcfg-devname
 rust-ignition-config
 rust-ignore
@@ -19942,6 +19961,7 @@ rust-linux-loader
 rust-linux_proc
 rust-linux-raw-sys
 rust-linux-raw-sys0.3
+rust-linux-raw-sys0.4
 rust-listenfd
 rust-litrs
 rust-llvm-bitcode
@@ -19964,11 +19984,13 @@ rust-log-panics
 rust-log
 rust-log0.3
 rust-loopdev
+rust-loopdev-3
 rust-lopdf
 rust-lru-cache
 rust-lru
 rust-lscolors
 rust-lscolors0.13
+rust-lscolors0.15
 rust-lsd
 rust-lsp-types
 rust-lv2-atom
@@ -19983,6 +20005,8 @@ rust-lv2-units
 rust-lv2-urid
 rust-lv2-worker
 rust-lzma-sys
+rust-lz4
+rust-lz4-sys
 rust-mac_address
 rust-mac
 rust-madvr_parse
@@ -20097,10 +20121,14 @@ rust-no-panic
 rust-normalize-line-endings
 rust-normpath
 rust-notify-debouncer-mini
+rust-notify-debouncer-mini0.2
 rust-notify-rust
 rust-notify
 rust-notify5
 rust-nparse
+rust-ntest
+rust-ntest_test_cases
+rust-ntest_timeout
 rust-nu-ansi-term
 rust-nu-ansi-term0.46
 rust-nucleo-matcher
@@ -20256,6 +20284,7 @@ rust-pem
 rust-pem0.8
 rust-pem1
 rust-pep440_rs
+rust-pep440_rs0.3
 rust-pep440
 rust-pep508_rs
 rust-percent-encoding
@@ -20360,9 +20389,11 @@ rust-print-positions
 rust-privdrop
 rust-probe
 rust-process_control
+rust-procfs-core
 rust-procfs
 rust-procfs0.12
 rust-procfs0.14
+rust-procfs0.15
 rust-procfs0.9
 rust-proc-macro-crate
 rust-proc-macro-crate0.1
@@ -20500,6 +20531,7 @@ rust-readwrite
 rust-reedline
 rust-ref-cast-impl
 rust-ref-cast
+rust-reference-counted-singleton
 rust-regex-automata
 rust-regex-automata0.1
 rust-regex-lite
@@ -20521,6 +20553,8 @@ rust-resctl-bench
 rust-resctl-demo
 rust-resize
 rust-resolv-conf
+rust-result-like-derive
+rust-result-like
 rust-retry
 rust-rfc2047-decoder
 rust-rfc6979
@@ -20594,6 +20628,7 @@ rust-ryu
 rust-r2d2
 rust-safe_arch
 rust-safemem
+rust-safetensors
 rust-safe-transmute
 rust-salsa20
 rust-salsa20_0.9
@@ -20621,6 +20656,7 @@ rust-secret-service
 rust-sec1
 rust-selectors
 rust-self_cell
+rust-selinux-sys
 rust-semver-parser
 rust-semver-parser0.9
 rust-semver
@@ -20698,6 +20734,7 @@ rust-sha-1_0.9
 rust-sha2-asm
 rust-sha2
 rust-sha2_0.9
+rust-sha256
 rust-sha3
 rust-sha3_0.9
 rust-shell-escape
@@ -20758,6 +20795,7 @@ rust-smithay-client-toolkit
 rust-smithay-clipboard
 rust-smol_str
 rust-smol_str0.1
+rust-sm3
 rust-snafu-derive
 rust-snafu
 rust-snake_case
@@ -21098,9 +21136,13 @@ rust-utf-8
 rust-utf8-width
 rust-uucore_procs
 rust-uucore
+rust-uuhelp_parser
 rust-uuid
 rust-uuid0.7
 rust-uuid0.8
+rust-uu_mkdir
+rust-uu_mktemp
+rust-uu_whoami
 rust-uzers
 rust-value-bag-serde1
 rust-value-bag
@@ -21856,6 +21898,7 @@ srt
 sscg
 ssdeep
 sselp
+ssh-audit
 sshexport
 sshguard
 sshpass
@@ -22627,6 +22670,7 @@ vagrant-vagrant_cloud
 vakzination
 vala-language-server
 vala
+valeronoi
 valgrind
 valkyrie
 vamp-plugin-sdk
@@ -22988,7 +23032,6 @@ worminator
 wpan-tools
 wpa_supplicant
 wp-cli
-wpebackend-fdo
 wput
 wqy-bitmap-fonts
 wqy-microhei-fonts
@@ -23506,6 +23549,7 @@ zsh-syntax-highlighting
 z
 zssh
 zstd
+zstr
 zswap-cli
 zulucrypt
 zvbi

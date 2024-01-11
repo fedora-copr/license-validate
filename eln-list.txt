@@ -86,7 +86,6 @@ authselect
 autoconf
 autoconf-archive
 autofs
-autogen
 automake
 avahi
 awscli2
@@ -321,7 +320,6 @@ file
 filesystem
 findutils
 fio
-firebird
 firewalld
 flac
 flashrom
@@ -348,7 +346,6 @@ freeipa-healthcheck
 freeipmi
 freeradius
 freerdp
-freetds
 freetype
 fribidi
 frr
@@ -363,7 +360,6 @@ fwupd-efi
 fxload
 galera
 gawk
-gc
 gcab
 gcc
 gcc-libraries
@@ -493,7 +489,6 @@ gtksourceview4
 gtksourceview5
 guava
 guestfs-tools
-guile22
 gutenprint
 gvfs
 gvisor-tap-vsock
@@ -758,6 +753,7 @@ java_cup
 javacc
 javacc-maven-plugin
 javapackages-tools
+javaparser
 jaxb
 jaxb-api
 jaxb-dtd-parser
@@ -1043,7 +1039,6 @@ libsoup
 libsoup3
 libspectre
 libspiro
-libsqlite3x
 libsrtp
 libssh
 libstoragemgmt
@@ -1057,8 +1052,6 @@ libtheora
 libtiff
 libtimezonemap
 libtirpc
-libtomcrypt
-libtommath
 libtool
 libtpms
 libtracecmd
@@ -1112,6 +1105,7 @@ lld
 lldb
 lldpad
 lldpd
+llhttp
 llvm
 lm_sensors
 lmdb
@@ -1255,6 +1249,7 @@ mod_security
 mod_security_crs
 mod_wsgi
 modello
+moditect
 modulemaker-maven-plugin
 mojo-parent
 mokutil
@@ -1357,10 +1352,8 @@ openblas
 openblas-srpm-macros
 opencl-filesystem
 opencl-headers
-opencore-amr
 opencryptoki
 opencsd
-opendbx
 opendnssec
 openexr
 openjade
@@ -2075,6 +2068,7 @@ rootfiles
 rpcbind
 rpcsvc-proto
 rpm
+rpm-local-generator-support
 rpm-mpi-hooks
 rpm-ostree
 rpmdevtools
@@ -2092,6 +2086,7 @@ rubygem-coderay
 rubygem-diff-lcs
 rubygem-eventmachine
 rubygem-kramdown
+rubygem-kramdown-parser-gfm
 rubygem-mustache
 rubygem-mysql2
 rubygem-nokogiri
@@ -2203,7 +2198,6 @@ spirv-headers
 spirv-tools
 splix
 sqlite
-sqlite2
 squashfs-tools
 squid
 sscg
@@ -2439,6 +2433,7 @@ xrdb
 xrestop
 xsimd
 xterm
+xwayland-run
 xxhash
 xz
 xz-java
@@ -2449,7 +2444,6 @@ yelp-xsl
 yggdrasil
 yggdrasil-worker-package-manager
 zaf
-zchunk
 zip
 zlib
 zlib-ng
