@@ -733,6 +733,7 @@ cksfv
 clamav
 clamsmtp
 clanbomber
+clang13
 clang14
 ClanLib
 ClanLib06
@@ -758,7 +759,6 @@ clibs-list
 clifm
 clinfo
 clingo
-clipit
 clipsmm
 clips
 clitest
@@ -1297,7 +1297,6 @@ dotnet7.0
 dotnet8.0
 dot2tex
 doublecmd
-double-conversion
 douceur
 doxy2man
 dpdk
@@ -1331,7 +1330,6 @@ drumstick0
 drupal7
 dSFMT
 dsniff
-dsp
 d-spy
 dssi
 dtach
@@ -1788,6 +1786,7 @@ fedora-appstream-metadata
 fedora-autofirstboot
 fedora-bookmarks
 fedora-business-cards
+fedora-distro-aliases
 fedora-dockerfiles
 fedora-flathub-remote
 fedora-gnat-project-common
@@ -1942,6 +1941,7 @@ fpc
 fpc-srpm-macros
 fpdns
 fping
+fplus
 fpm2
 fprettify
 fprintd
@@ -2286,6 +2286,7 @@ ghc-control-monad-free
 ghc-cookie
 ghc-cprng-aes
 ghc-crypto-api
+ghc-crypto-cipher-types
 ghc-cryptohash-md5
 ghc-cryptohash-sha1
 ghc-cryptohash-sha256
@@ -3229,10 +3230,12 @@ golang-github-bep-debounce
 golang-github-bep-gitmap
 golang-github-bep-goat
 golang-github-bep-godartsass
+golang-github-bep-godartsass2
 golang-github-bep-golibsass
 golang-github-bep-gowebp
 golang-github-bep-helpers
 golang-github-bep-lazycache
+golang-github-bep-mclib
 golang-github-bep-overlayfs
 golang-github-bep-simplecobra
 golang-github-bep-tmc
@@ -4187,7 +4190,6 @@ golang-github-prometheus-client
 golang-github-prometheus-common
 golang-github-prometheus-community-runit
 golang-github-prometheus-exporter-toolkit
-golang-github-prometheus-node-exporter
 golang-github-prometheus-procfs
 golang-github-prometheus-prom2json
 golang-github-prometheus
@@ -4379,6 +4381,8 @@ golang-github-thoj-ircevent
 golang-github-tchap-patricia
 golang-github-tidwall-pretty
 golang-github-tinylib-msgp
+golang-github-tj-assert
+golang-github-tj-spin
 golang-github-tklauser-numcpus
 golang-github-tklauser-sysconf
 golang-github-tmc-grpc-websocket-proxy
@@ -5063,6 +5067,7 @@ hyphen-it
 hypre
 hyprland-protocols
 hyprland
+hyprlang
 h5py
 chafa
 charliecloud
@@ -5876,7 +5881,6 @@ kphotoalbum
 kpilot
 kpimtextedit
 kpipewire
-kpipewire5
 kpkpass
 kpmcore
 kproperty
@@ -5890,8 +5894,6 @@ krdc
 krdp
 krecipes
 krecorder
-kreetingkard
-kreetingkard_templates
 kremotecontrol
 krename
 kreport
@@ -6126,6 +6128,7 @@ libcue
 libcupsfilters
 libcutl
 libcxx
+libcyaml
 libdap
 libdasm
 libdatachannel
@@ -6264,7 +6267,6 @@ libgtop2
 libguess
 libgusb
 libgweather
-libgweather4
 libgxps
 libg15render
 libhandy
@@ -6495,6 +6497,7 @@ libpri
 libprojectM
 libprometheus-cpp
 libproxy
+libpsl
 libpsm2
 libpst
 libqalculate
@@ -6792,6 +6795,7 @@ llconf
 lldb
 lldpad
 lldpd
+lld13
 lld14
 llhttp
 llmnrd
@@ -6963,7 +6967,6 @@ lxappearance
 lxcfs
 lxc
 lxde-common
-lxde-icon-theme
 lxdm
 lximage-qt
 lxi-tools
@@ -7146,7 +7149,6 @@ mdns
 md4c
 md5deep
 meanwhile
-mecab-java
 mecab-jumandic
 mediaconch
 mediainfo
@@ -7194,7 +7196,6 @@ mgarepo
 mgopen-fonts
 mg
 mhonarc
-microcode_ctl
 microdnf
 micronucleus
 micropipenv
@@ -7381,6 +7382,7 @@ mingw-portaudio
 mingw-postgresql
 mingw-protobuf
 mingw-python-affine
+mingw-python-blinker
 mingw-python-build
 mingw-python-certifi
 mingw-python-click
@@ -7682,6 +7684,8 @@ mrack
 mrcpp
 mrchem
 mrrescue
+mrsw-biz-udgothic-fonts
+mrsw-biz-udmincho-fonts
 mrxvt
 mscgen
 msgpack
@@ -7907,6 +7911,7 @@ nmon
 nmstate
 nng
 nnn
+node-exporter
 nodejs-acorn-object-spread
 nodejs-backbone
 nodejs-bash-language-server
@@ -8389,6 +8394,7 @@ pagure-cli
 pagure-dist-git
 pagure-exporter
 pagure
+paho-cpp
 paho-c
 pachi
 painless-password-rotation
@@ -8756,7 +8762,6 @@ perl-CGI-Ajax
 perl-CGI-Application-Dispatch
 perl-CGI-Application-FastCGI
 perl-CGI-Application-Plugin-ActionDispatch
-perl-CGI-Application-Plugin-Authentication
 perl-CGI-Application-Plugin-AutoRunmode
 perl-CGI-Application-Plugin-CAPTCHA
 perl-CGI-Application-Plugin-ConfigAuto
@@ -8791,7 +8796,6 @@ perl-CGI-Application-Structured
 perl-CGI-Application-Structured-Tools
 perl-CGI-Compile
 perl-CGI-Deurl-XS
-perl-CGI-Ex
 perl-CGI-Fast
 perl-CGI-FastTemplate
 perl-CGI-FormBuilder
@@ -11979,6 +11983,7 @@ python-billiard
 python-binary-memcached
 python-binaryornot
 python-binstruct
+python-bioframe
 python-biopython
 python-bioread
 python-biscuits
@@ -12132,6 +12137,7 @@ python-colored-traceback
 python-colorful
 python-colorlog
 python-colorspacious
+python-colorthief
 python-colorzero
 python-colour
 python-commandparse
@@ -13555,6 +13561,7 @@ python-pysword
 python-pytaglib
 python-pytapo
 python-pyte
+python-py-tes
 python-pytest-aiohttp
 python-pytest-arraydiff
 python-pytest-astropy-header
@@ -13832,6 +13839,7 @@ python-setuptools_scm_git_archive
 python-setuptools_scm
 python-sgmllib3k
 python-sgp4
+python-sgqlc
 python-shade
 python-shamir-mnemonic
 python-shapely
@@ -13874,6 +13882,8 @@ python-smbprotocol
 python-smi
 python-smmap
 python-snakemake-interface-common
+python-snakemake-interface-executor-plugins
+python-snakemake-interface-storage-plugins
 python-snappy
 python-snaptime
 python-sniffio
@@ -14017,6 +14027,7 @@ python-tempdir
 python-tempita
 python-tempora
 python-tenacity
+python-tensile
 python-term-background
 python-termcolor
 python-terminaltables
@@ -14047,6 +14058,7 @@ python-throttler
 python-tidy
 python-tifffile
 python-tiktoken
+python-timelib
 python-time-machine
 python-timeout-decorator
 python-tinycss2
@@ -14167,6 +14179,7 @@ python-vcrpy
 python-vcstool
 python-vdf
 python-vecrec
+python-vedo
 python-velbus
 python-venusian
 python-verboselogs
@@ -14339,6 +14352,7 @@ python-zeroconf
 python-zict
 python-zipp
 python-zipstream
+python-zlib-ng
 python-zmq
 python-zm
 python-zoidberg
@@ -14444,7 +14458,6 @@ qmc2
 qm-dsp
 qmidiarp
 qmlkonsole
-qmltermwidget
 qmmp-plugin-pack
 qmmp
 QMsgBox
@@ -14955,6 +14968,7 @@ rocrand
 rocsparse
 rocs
 rocthrust
+roctracer
 R-odbc
 rofimoji
 rofi
@@ -15301,7 +15315,6 @@ rubygem-globalid
 rubygem-glu
 rubygem-glut
 rubygem-gobject-introspection
-rubygem-goocanvas1
 rubygem-gssapi
 rubygem-gstreamer
 rubygem-gtksourceview3
@@ -15833,6 +15846,7 @@ rust-blsctl
 rust-bodhi-cli
 rust-bodhi
 rust-box_drawing
+rust-bracoxide
 rust-brotli-decompressor
 rust-brotli
 rust-brownstone
@@ -15873,6 +15887,7 @@ rust-cairo-rs0.17
 rust-cairo-sys-rs
 rust-cairo-sys-rs0.15
 rust-cairo-sys-rs0.17
+rust-calamine
 rust-calloop
 rust-calloop-wayland-source
 rust-camino
@@ -15999,6 +16014,8 @@ rust-convert_case0.4
 rust-cookie-factory
 rust-cookie
 rust-cookie_store
+rust-cookie_store0.16
+rust-cookie0.16
 rust-cool_asserts
 rust-coolor
 rust-copydeps
@@ -16315,6 +16332,7 @@ rust-ff
 rust-fiat-crypto
 rust-field-offset
 rust-filedescriptor
+rust-file-id
 rust-filesize
 rust-filetime
 rust-filetreelist
@@ -16379,6 +16397,7 @@ rust-futures0.1
 rust-fuzzy-matcher
 rust-fxhash
 rust-gag
+rust-gcd
 rust-gdk-pixbuf
 rust-gdk-pixbuf-sys
 rust-gdk-pixbuf-sys0.15
@@ -16505,6 +16524,7 @@ rust-glib0.17
 rust-globset
 rust-glob
 rust-globwalk
+rust-globwalk0.8
 rust-glutin_egl_sys
 rust-glutin_glx_sys
 rust-glutin
@@ -16630,6 +16650,8 @@ rust-http-body
 rust-httpdate
 rust-http-range-header
 rust-http
+rust-http0.2
+rust-human-date-parser
 rust-human_format
 rust-human-panic
 rust-humansize
@@ -16712,6 +16734,7 @@ rust-invalidstring
 rust-inventory
 rust-io-close
 rust-iocuddle
+rust-io-extras
 rust-io-lifetimes
 rust-io-lifetimes1
 rust-io-uring
@@ -16815,6 +16838,8 @@ rust-libc
 rust-libcst_derive
 rust-libcst
 rust-libdbus-sys
+rust-libdeflater
+rust-libdeflate-sys
 rust-libflate_lz77
 rust-libflate
 rust-libgit2-sys
@@ -17115,6 +17140,7 @@ rust-overload
 rust-owned_ttf_parser
 rust-owning_ref
 rust-owo-colors
+rust-owo-colors3
 rust-packaging
 rust-pad
 rust-pager
@@ -17146,6 +17172,7 @@ rust-parking_lot0.11
 rust-parking
 rust-parsec-client
 rust-parsec-interface
+rust-parse_datetime
 rust-parse-zoneinfo
 rust-partial-io
 rust-partition-identity
@@ -17298,6 +17325,7 @@ rust-procfs0.15
 rust-procfs0.9
 rust-proc-macro-crate
 rust-proc-macro-crate0.1
+rust-proc-macro-crate1
 rust-proc-macro-error-attr
 rust-proc-macro-error
 rust-proc-macro-hack
@@ -17565,6 +17593,7 @@ rust-semver0.11
 rust-send_wrapper
 rust-sequoia-autocrypt
 rust-sequoia-cert-store
+rust-sequoia-chameleon-gnupg
 rust-sequoia-ipc
 rust-sequoia-keyring-linter
 rust-sequoia-net
@@ -17704,6 +17733,7 @@ rust-snapbox-macros
 rust-snapbox
 rust-snap
 rust-snphost
+rust-socketpair
 rust-socket2
 rust-socket2_0.4
 rust-sop
@@ -18034,14 +18064,44 @@ rust-users0.10
 rust-utf8parse
 rust-utf-8
 rust-utf8-width
+rust-uu_basename
+rust-uu_basenc
+rust-uu_base32
+rust-uu_base64
+rust-uu_cat
+rust-uu_cksum
+rust-uu_comm
 rust-uucore_procs
 rust-uucore
+rust-uu_csplit
+rust-uu_cut
+rust-uu_date
+rust-uu_dd
+rust-uu_df
+rust-uu_dirname
+rust-uu_du
+rust-uu_echo
+rust-uu_env
+rust-uu_expand
+rust-uu_expr
+rust-uu_factor
+rust-uu_false
+rust-uu_fmt
+rust-uu_fold
+rust-uu_hashsum
+rust-uu_head
 rust-uuhelp_parser
 rust-uuid
 rust-uuid0.7
 rust-uuid0.8
+rust-uu_join
+rust-uu_link
+rust-uu_ln
 rust-uu_mkdir
 rust-uu_mktemp
+rust-uu_more
+rust-uu_mv
+rust-uutils_term_grid
 rust-uu_whoami
 rust-uzers
 rust-value-bag-serde1
@@ -18345,7 +18405,6 @@ selinux-policy
 semver
 senamirmir-washra-fonts
 sendemail
-sendmail
 sendxmpp
 sensible-utils
 sen

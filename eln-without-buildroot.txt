@@ -41,7 +41,6 @@ ansible-pcp
 ant
 anthy-unicode
 antlr
-aom
 aopalliance
 apache-commons-cli
 apache-commons-codec
@@ -88,7 +87,6 @@ bind-dyndb-ldap
 binutils
 biosdevname
 bison
-bitmap-fonts
 blktrace
 bluez
 bolt
@@ -180,7 +178,6 @@ cups-pk-helper
 curl
 cyrus-imapd
 cyrus-sasl
-dav1d
 dbus
 dbus-broker
 dbus-glib
@@ -217,7 +214,7 @@ dogtag-pki
 dos2unix
 dosfstools
 dotconf
-dotnet6.0
+dotnet8.0
 double-conversion
 dovecot
 doxygen
@@ -430,7 +427,6 @@ hdparm
 help2man
 hexedit
 hicolor-icon-theme
-highway
 hivex
 host-verification-service
 hostapd
@@ -687,7 +683,6 @@ jitterentropy
 jna
 jomolhari-fonts
 jose
-jpegxl
 jq
 js-d3-flame-graph
 jsch
@@ -714,7 +709,6 @@ keycloak-httpd-client-install
 keylime
 keylime-agent-rust
 keyutils
-khmer-os-fonts
 kmod
 kmod-kvdo
 kpatch
@@ -769,7 +763,6 @@ libarchive
 libassuan
 libasyncns
 libatasmart
-libavif
 libblkio
 libblockdev
 libbpf
@@ -788,6 +781,7 @@ libdaemon
 libdatrie
 libdb
 libdecor
+libdex
 libdnf
 libdrm
 libdvdnav
@@ -827,7 +821,7 @@ libgudev
 libguestfs
 libguestfs-winsupport
 libgusb
-libgweather4
+libgweather
 libgxps
 libhandy
 libhangul
@@ -892,6 +886,7 @@ libopenraw
 liboqs
 libosinfo
 libotf
+libpanel
 libpaper
 libpcap
 libpciaccess
@@ -928,7 +923,6 @@ libserf
 libservicelog
 libshout
 libsigc++20
-libsigsegv
 libslirp
 libsmbios
 libsmi
@@ -956,6 +950,7 @@ libtracecmd
 libtraceevent
 libtracefs
 libunistring
+libunwind
 liburing
 libusb1
 libuser
@@ -1015,6 +1010,7 @@ lohit-bengali-fonts
 lohit-devanagari-fonts
 lohit-gujarati-fonts
 lohit-kannada-fonts
+lohit-marathi-fonts
 lohit-odia-fonts
 lohit-tamil-fonts
 lohit-telugu-fonts
@@ -1029,7 +1025,6 @@ lsof
 lsscsi
 lsvpd
 ltrace
-lttng-ust
 lua
 lua-posix
 lua-rpm-macros
@@ -1139,8 +1134,10 @@ nginx
 nispor
 nmap
 nmstate
+nodejs-cjs-module-lexer
 nodejs-nodemon
 nodejs-packaging
+nodejs-undici
 nodejs20
 npth
 nss
@@ -1636,8 +1633,6 @@ qatzip
 qclib
 qemu-kvm
 qpdf
-qt5
-qt5-qtbase
 qt6
 qt6-qt3d
 qt6-qt5compat
@@ -1777,6 +1772,7 @@ sgml-common
 sgpio
 shadow-utils
 shared-mime-info
+shell-color-prompt
 shim
 shim-unsigned-aarch64
 shim-unsigned-x64
@@ -1785,7 +1781,6 @@ sil-abyssinica-fonts
 sil-mingzat-fonts
 sil-nuosu-fonts
 sil-padauk-fonts
-sil-scheherazade-fonts
 sisu
 skopeo
 slang
@@ -1834,7 +1829,6 @@ sudo
 supermin
 support-tools-container
 sushi
-svt-av1
 swig
 switcheroo-control
 swtpm
@@ -1871,7 +1865,6 @@ time
 tinycdb
 tk
 tlog
-tlwg-fonts
 tmpwatch
 tmux
 tog-pegasus
@@ -1944,7 +1937,6 @@ virt-what
 virt-who
 virtio-win
 virtiofsd
-vmaf
 volume_key
 vsftpd
 vte291
@@ -1962,7 +1954,7 @@ webkitgtk
 webp-pixbuf-loader
 webrtc-audio-processing
 weldr-client
-wget
+wget2
 which
 whois
 wireless-regdb
@@ -2029,7 +2021,7 @@ yggdrasil
 yggdrasil-worker-package-manager
 zaf
 zip
-zlib
+zlib-ng
 zsh
 zstd
 zziplib

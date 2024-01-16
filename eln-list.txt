@@ -44,7 +44,6 @@ ansible-pcp
 ant
 anthy-unicode
 antlr
-aom
 aopalliance
 apache-commons-beanutils
 apache-commons-cli
@@ -109,7 +108,6 @@ bind-dyndb-ldap
 binutils
 biosdevname
 bison
-bitmap-fonts
 blis
 blktrace
 bluez
@@ -214,7 +212,6 @@ cups-pk-helper
 curl
 cyrus-imapd
 cyrus-sasl
-dav1d
 dblatex
 dbus
 dbus-broker
@@ -256,7 +253,7 @@ dogtag-pki
 dos2unix
 dosfstools
 dotconf
-dotnet6.0
+dotnet8.0
 double-conversion
 dovecot
 doxygen
@@ -376,7 +373,6 @@ geoclue2
 geocode-glib
 geolite2
 gettext
-gflags
 gfs2-utils
 ghc-srpm-macros
 ghostscript
@@ -501,7 +497,6 @@ help2man
 hexedit
 hicolor-icon-theme
 highlight
-highway
 hivex
 host-verification-service
 hostapd
@@ -776,7 +771,6 @@ jitterentropy
 jna
 jomolhari-fonts
 jose
-jpegxl
 jq
 js-d3-flame-graph
 jsch
@@ -805,7 +799,6 @@ keycloak-httpd-client-install
 keylime
 keylime-agent-rust
 keyutils
-khmer-os-fonts
 kmod
 kmod-kvdo
 kpatch
@@ -865,7 +858,6 @@ libassuan
 libasyncns
 libatasmart
 libatomic_ops
-libavif
 libblkio
 libblockdev
 libbpf
@@ -927,7 +919,7 @@ libgudev
 libguestfs
 libguestfs-winsupport
 libgusb
-libgweather4
+libgweather
 libgxps
 libhandy
 libhangul
@@ -1119,6 +1111,7 @@ lohit-bengali-fonts
 lohit-devanagari-fonts
 lohit-gujarati-fonts
 lohit-kannada-fonts
+lohit-marathi-fonts
 lohit-odia-fonts
 lohit-tamil-fonts
 lohit-telugu-fonts
@@ -1301,8 +1294,10 @@ ninja-build
 nispor
 nmap
 nmstate
+nodejs-cjs-module-lexer
 nodejs-nodemon
 nodejs-packaging
+nodejs-undici
 nodejs20
 npth
 nss
@@ -1993,8 +1988,6 @@ qclib
 qdox
 qemu-kvm
 qpdf
-qt5
-qt5-qtbase
 qt6
 qt6-qt3d
 qt6-qt5compat
@@ -2157,6 +2150,7 @@ shaderc
 shadow-utils
 shared-mime-info
 sharutils
+shell-color-prompt
 shim
 shim-unsigned-aarch64
 shim-unsigned-x64
@@ -2165,7 +2159,6 @@ sil-abyssinica-fonts
 sil-mingzat-fonts
 sil-nuosu-fonts
 sil-padauk-fonts
-sil-scheherazade-fonts
 sip6
 sisu
 sisu-mojos
@@ -2219,7 +2212,6 @@ sudo
 supermin
 support-tools-container
 sushi
-svt-av1
 swig
 switcheroo-control
 swtpm
@@ -2258,7 +2250,6 @@ tinycdb
 tix
 tk
 tlog
-tlwg-fonts
 tmpwatch
 tmux
 tog-pegasus
@@ -2342,7 +2333,6 @@ virt-what
 virt-who
 virtio-win
 virtiofsd
-vmaf
 voikko-fi
 volume_key
 vsftpd
@@ -2352,6 +2342,7 @@ vulkan-loader
 vulkan-tools
 vulkan-utility-libraries
 vulkan-validation-layers
+wasi-libc
 watchdog
 wavpack
 wayland
@@ -2363,7 +2354,6 @@ webkitgtk
 webp-pixbuf-loader
 webrtc-audio-processing
 weldr-client
-wget
 wget2
 which
 whois
@@ -2445,7 +2435,6 @@ yggdrasil
 yggdrasil-worker-package-manager
 zaf
 zip
-zlib
 zlib-ng
 zsh
 zstd

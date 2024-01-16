@@ -73,7 +73,7 @@ alphabet-soup - can be trivially converted to CrystalStacker
 alsamixergui - can be trivially converted to GPL-2.0-or-later
 altermime
 amanith - can be trivially converted to QPL-1.0
-amarok - can be trivially converted to GPL-2.0-only OR GPL-3.0-only
+amarok warning: not valid neither as Callaway nor as SPDX, please check
 amavis
 american-fuzzy-lop - can be trivially converted to Apache-2.0
 AMF warning: valid as old and new and no changelong entry, please check
@@ -382,7 +382,6 @@ bpytop - can be trivially converted to Apache-2.0
 brazil - can be trivially converted to SPL-1.0
 bridge-utils - can be trivially converted to GPL-2.0-or-later
 brightnessctl warning: valid as old and new and no changelong entry, please check
-brotli warning: valid as old and new and no changelong entry, please check
 brutalchess - can be trivially converted to GPL-2.0-or-later
 bsd-games
 bsdiff
@@ -517,6 +516,8 @@ cksfv - can be trivially converted to GPL-2.0-or-later
 clamav warning: not valid neither as Callaway nor as SPDX, please check
 clamsmtp
 clanbomber - can be trivially converted to GPL-2.0-or-later
+clang13 warning: valid as old and new and no changelong entry, please check
+clang13
 ClanLib warning: valid as old and new and no changelong entry, please check
 ClanLib06
 ClanLib1 warning: valid as old and new and no changelong entry, please check
@@ -946,7 +947,6 @@ drumstick0 - can be trivially converted to GPL-2.0-or-later
 drupal7
 dSFMT
 dsniff
-dsp
 dssi warning: valid as old and new and no changelong entry, please check
 dssi - can be trivially converted to LicenseRef-Fedora-Public-Domain
 dssi
@@ -1812,7 +1812,6 @@ gnome-keyring
 gnome-keyring
 gnome-klotski
 gnome-kra-ora-thumbnailer - can be trivially converted to GPL-2.0-or-later
-gnome-logs - can be trivially converted to GPL-3.0-or-later
 gnome-mahjongg
 gnome-mime-data - can be trivially converted to GPL-1.0-or-later
 gnome-mines
@@ -2193,7 +2192,6 @@ golang-github-facebookincubator-dhcplb warning: valid as old and new and no chan
 golang-github-facebookincubator-flog - can be trivially converted to Apache-2.0
 golang-github-facebookincubator-go2chef - can be trivially converted to Apache-2.0
 golang-github-facebookincubator-nvdtools - can be trivially converted to Apache-2.0
-golang-github-facebook-time - can be trivially converted to Apache-2.0
 golang-github-fanliao-promise warning: valid as old and new and no changelong entry, please check
 golang-github-fatih-camelcase warning: valid as old and new and no changelong entry, please check
 golang-github-fatih-color warning: valid as old and new and no changelong entry, please check
@@ -2859,6 +2857,8 @@ golang-github-thoj-ircevent
 golang-github-tchap-patricia warning: valid as old and new and no changelong entry, please check
 golang-github-tidwall-pretty warning: valid as old and new and no changelong entry, please check
 golang-github-tinylib-msgp warning: valid as old and new and no changelong entry, please check
+golang-github-tj-assert warning: valid as old and new and no changelong entry, please check
+golang-github-tj-spin warning: valid as old and new and no changelong entry, please check
 golang-github-tmc-grpc-websocket-proxy warning: valid as old and new and no changelong entry, please check
 golang-github-tomasen-realip warning: valid as old and new and no changelong entry, please check
 golang-github-tomnomnom-linkheader warning: valid as old and new and no changelong entry, please check
@@ -3263,7 +3263,6 @@ hfsutils - can be trivially converted to GPL-2.0-or-later
 hgsvn - can be trivially converted to GPL-3.0-or-later
 hgview - can be trivially converted to GPL-2.0-or-later
 hibernate-jpa-2.0-api warning: not valid neither as Callaway nor as SPDX, please check
-hicolor-icon-theme - can be trivially converted to GPL-2.0-or-later
 hidapi
 hidrd - can be trivially converted to GPL-2.0-or-later
 hid4java warning: valid as old and new and no changelong entry, please check
@@ -3792,7 +3791,7 @@ konqueror
 konquest
 konsole warning: not valid neither as Callaway nor as SPDX, please check
 kontact
-kopete
+kopete warning: not valid neither as Callaway nor as SPDX, please check
 korganizer warning: not valid neither as Callaway nor as SPDX, please check
 koules - can be trivially converted to GPL-2.0-only
 koverartist - can be trivially converted to GPL-2.0-or-later
@@ -3810,8 +3809,6 @@ kquickimageeditor - can be trivially converted to GPL-2.0-or-later
 krazy2 - can be trivially converted to GPL-2.0-or-later
 krdc
 krecipes - can be trivially converted to GPL-2.0-or-later
-kreetingkard - can be trivially converted to GPL-2.0-or-later
-kreetingkard_templates - can be trivially converted to GPL-1.0-or-later
 kremotecontrol - can be trivially converted to GPL-2.0-or-later
 krename - can be trivially converted to GPL-2.0-only
 kreport
@@ -4048,7 +4045,6 @@ libgdamm
 libgdata
 libgdiplus warning: valid as old and new and no changelong entry, please check
 libgdither - can be trivially converted to GPL-2.0-or-later
-libgee
 libgee06
 libgenht - can be trivially converted to LicenseRef-Fedora-Public-Domain
 libgeotiff warning: valid as old and new and no changelong entry, please check
@@ -4074,7 +4070,6 @@ libgsystem
 libgta
 libgtextutils - can be trivially converted to AGPL-3.0-or-later
 libguess
-libgweather - can be trivially converted to GPL-2.0-or-later
 libg15render - can be trivially converted to GPL-2.0-or-later
 libhandy
 libhbaapi warning: valid as old and new and no changelong entry, please check
@@ -4318,7 +4313,6 @@ libu2f-host
 libu2f-host - can be trivially converted to GPL-3.0-or-later
 libu2f-server
 libvarlink warning: not valid neither as Callaway nor as SPDX, please check
-libva warning: valid as old and new and no changelong entry, please check
 libva-utils
 libva-vdpau-driver - can be trivially converted to GPL-2.0-or-later
 libva-v4l2-request
@@ -4436,6 +4430,7 @@ lksctp-tools
 llconf
 lldpad - can be trivially converted to GPL-2.0-only
 lldpd warning: valid as old and new and no changelong entry, please check
+lld13 warning: valid as old and new and no changelong entry, please check
 llmnrd - can be trivially converted to GPL-2.0-only
 llvm-test-suite
 llvm11 warning: valid as old and new and no changelong entry, please check
@@ -4575,7 +4570,6 @@ lwp
 lwtools - can be trivially converted to GPL-3.0-only
 lxcfs - can be trivially converted to Apache-2.0
 lxc
-lxde-icon-theme - can be trivially converted to LGPL-3.0-only
 lximage-qt - can be trivially converted to GPL-2.0-or-later
 lxmenu-data
 lxqt-about
@@ -4720,7 +4714,6 @@ mdk
 md5deep - can be trivially converted to GPL-2.0-only
 meanwhile
 meanwhile
-mecab-java
 mecab-jumandic
 mediaconch
 media-player-info
@@ -4755,7 +4748,6 @@ mgarepo - can be trivially converted to GPL-2.0-or-later
 mgopen-fonts - can be trivially converted to LicenseRef-MgOpen
 mg
 mhonarc - can be trivially converted to GPL-2.0-or-later
-microcode_ctl warning: not valid neither as Callaway nor as SPDX, please check
 micronucleus warning: valid as old and new and no changelong entry, please check
 micro
 midisport-firmware warning: not valid neither as Callaway nor as SPDX, please check
@@ -4901,7 +4893,6 @@ mingw-python-flask
 mingw-python-chardet
 mingw-python-charset-normalizer warning: valid as old and new and no changelong entry, please check
 mingw-python-itsdangerous
-mingw-python-jinja2
 mingw-python-markupsafe
 mingw-python-pyparsing warning: valid as old and new and no changelong entry, please check
 mingw-python-pyproj warning: valid as old and new and no changelong entry, please check
@@ -5361,7 +5352,6 @@ oath-toolkit
 oath-toolkit
 oath-toolkit
 oath-toolkit - can be trivially converted to GPL-3.0-or-later
-obconf-qt - can be trivially converted to GPL-2.0-or-later
 obfs4
 obserware - can be trivially converted to GPL-3.0-or-later
 obs-service-extract_file - can be trivially converted to GPL-2.0-or-later
@@ -5385,7 +5375,6 @@ ocspd - can be trivially converted to Apache-1.0
 octave-brain2mesh - can be trivially converted to GPL-2.0-or-later
 octave-communications - can be trivially converted to GPL-3.0-or-later
 octave-control - can be trivially converted to GPL-3.0-or-later
-octave-flexiblas - can be trivially converted to GPL-3.0-or-later
 octave-general
 octave-gsl - can be trivially converted to GPL-2.0-or-later
 octave-image - can be trivially converted to GPL-2.0-or-later
@@ -5812,7 +5801,6 @@ perl-CGI-Ajax - can be trivially converted to GPL-1.0-or-later OR Artistic-1.0-P
 perl-CGI-Application-Dispatch - can be trivially converted to GPL-1.0-or-later OR Artistic-1.0-Perl
 perl-CGI-Application-FastCGI - can be trivially converted to GPL-1.0-or-later OR Artistic-1.0-Perl
 perl-CGI-Application-Plugin-ActionDispatch - can be trivially converted to GPL-1.0-or-later OR Artistic-1.0-Perl
-perl-CGI-Application-Plugin-Authentication - can be trivially converted to GPL-1.0-or-later OR Artistic-1.0-Perl
 perl-CGI-Application-Plugin-AutoRunmode - can be trivially converted to GPL-1.0-or-later OR Artistic-1.0-Perl
 perl-CGI-Application-Plugin-CAPTCHA - can be trivially converted to GPL-1.0-or-later OR Artistic-1.0-Perl
 perl-CGI-Application-Plugin-ConfigAuto - can be trivially converted to GPL-1.0-or-later OR Artistic-1.0-Perl
@@ -5847,7 +5835,6 @@ perl-CGI-Application-Structured - can be trivially converted to GPL-1.0-or-later
 perl-CGI-Application-Structured-Tools - can be trivially converted to GPL-1.0-or-later OR Artistic-1.0-Perl
 perl-CGI-Compile - can be trivially converted to GPL-1.0-or-later OR Artistic-1.0-Perl
 perl-CGI-Deurl-XS - can be trivially converted to ( GPL-1.0-or-later OR Artistic-1.0-Perl ) AND Apache-2.0
-perl-CGI-Ex - can be trivially converted to GPL-1.0-or-later OR Artistic-1.0-Perl
 perl-CGI-FastTemplate - can be trivially converted to GPL-1.0-or-later OR Artistic-1.0-Perl
 perl-CGI-FormBuilder - can be trivially converted to GPL-1.0-or-later OR Artistic-1.0-Perl
 perl-CGI-Prototype - can be trivially converted to GPL-1.0-or-later OR Artistic-1.0-Perl
@@ -6924,7 +6911,6 @@ perl-URI-Encode - can be trivially converted to GPL-1.0-or-later OR Artistic-1.0
 perl-URI-Escape-XS - can be trivially converted to GPL-1.0-or-later OR Artistic-1.0-Perl
 perl-URI-Find - can be trivially converted to GPL-1.0-or-later OR Artistic-1.0-Perl
 perl-URI-FromHash - can be trivially converted to GPL-1.0-or-later OR Artistic-1.0-Perl
-perl-URI-NamespaceMap - can be trivially converted to ( GPL-1.0-or-later OR Artistic-1.0-Perl ) OR LicenseRef-Fedora-Public-Domain
 perl-URI-Nested - can be trivially converted to GPL-1.0-or-later OR Artistic-1.0-Perl
 perl-URI-Query - can be trivially converted to GPL-1.0-or-later OR Artistic-1.0-Perl
 perl-URI-ws - can be trivially converted to GPL-1.0-or-later OR Artistic-1.0-Perl
@@ -7506,7 +7492,6 @@ publican warning: not valid neither as Callaway nor as SPDX, please check
 puddletag - can be trivially converted to GPL-3.0-or-later
 pugixml warning: valid as old and new and no changelong entry, please check
 pulledpork - can be trivially converted to GPL-2.0-or-later
-pulseaudio-qt warning: not valid neither as Callaway nor as SPDX, please check
 pulseaudio
 pulseaudio
 pulseaudio
@@ -8137,7 +8122,6 @@ python-formencode
 python-fqdn - can be trivially converted to MPL-2.0
 python-freecell_solver warning: valid as old and new and no changelong entry, please check
 python-freeipa warning: valid as old and new and no changelong entry, please check
-python-freetype
 python-freezegun - can be trivially converted to Apache-2.0
 python-friendlyloris warning: valid as old and new and no changelong entry, please check
 python-frozendict warning: valid as old and new and no changelong entry, please check
@@ -8691,7 +8675,6 @@ python-pymod2pkg - can be trivially converted to Apache-2.0
 python-pymochad - can be trivially converted to GPL-3.0-or-later
 python-pymongo
 python-Pympler
-python-PyMySQL warning: valid as old and new and no changelong entry, please check
 python-pynacl - can be trivially converted to Apache-2.0
 python-pynest2d - can be trivially converted to LGPL-3.0-only
 python-pynetdicom
@@ -9340,7 +9323,6 @@ qmc2 - can be trivially converted to GPL-2.0-only
 qm-dsp - can be trivially converted to GPL-2.0-or-later
 qmidiarp - can be trivially converted to GPL-2.0-or-later
 qmlkonsole - can be trivially converted to GPL-2.0-or-later
-qmltermwidget - can be trivially converted to GPL-2.0-or-later
 qmmp-plugin-pack - can be trivially converted to GPL-2.0-or-later
 qmmp warning: not valid neither as Callaway nor as SPDX, please check
 QMsgBox - can be trivially converted to GPL-3.0-or-later
@@ -9754,7 +9736,6 @@ R-odbc warning: valid as old and new and no changelong entry, please check
 rofimoji warning: valid as old and new and no changelong entry, please check
 rofi warning: valid as old and new and no changelong entry, please check
 rogue
-rootfiles - can be trivially converted to LicenseRef-Fedora-Public-Domain
 rootsh - can be trivially converted to GPL-3.0-or-later
 root-tail - can be trivially converted to GPL-2.0-or-later
 R-openssl warning: valid as old and new and no changelong entry, please check
@@ -9933,371 +9914,86 @@ R-tweenr
 rubber - can be trivially converted to GPL-1.0-or-later
 ruby-augeas
 ruby-bsearch warning: valid as old and new and no changelong entry, please check
-rubygem-abrt warning: valid as old and new and no changelong entry, please check
-rubygem-actioncable warning: valid as old and new and no changelong entry, please check
-rubygem-actionmailbox warning: valid as old and new and no changelong entry, please check
-rubygem-actionmailer warning: valid as old and new and no changelong entry, please check
-rubygem-actionpack warning: valid as old and new and no changelong entry, please check
-rubygem-actiontext warning: valid as old and new and no changelong entry, please check
-rubygem-actionview warning: valid as old and new and no changelong entry, please check
-rubygem-activejob warning: valid as old and new and no changelong entry, please check
-rubygem-activemodel-serializers-xml warning: valid as old and new and no changelong entry, please check
-rubygem-activemodel warning: valid as old and new and no changelong entry, please check
-rubygem-activerecord warning: valid as old and new and no changelong entry, please check
-rubygem-activestorage warning: valid as old and new and no changelong entry, please check
-rubygem-activesupport warning: valid as old and new and no changelong entry, please check
-rubygem-acts_as_list warning: valid as old and new and no changelong entry, please check
-rubygem-afm warning: valid as old and new and no changelong entry, please check
-rubygem-ammeter warning: valid as old and new and no changelong entry, please check
 rubygem-ansi
-rubygem-appraisal warning: valid as old and new and no changelong entry, please check
-rubygem-aruba warning: valid as old and new and no changelong entry, please check
-rubygem-asciidoctor-pdf warning: valid as old and new and no changelong entry, please check
-rubygem-Ascii85 warning: valid as old and new and no changelong entry, please check
-rubygem-async_sinatra warning: valid as old and new and no changelong entry, please check
-rubygem-awesome_print warning: valid as old and new and no changelong entry, please check
 rubygem-aws-sigv4 - can be trivially converted to Apache-2.0
-rubygem-backports warning: valid as old and new and no changelong entry, please check
-rubygem-bacon-colored_output warning: valid as old and new and no changelong entry, please check
-rubygem-bacon warning: valid as old and new and no changelong entry, please check
-rubygem-base32 warning: valid as old and new and no changelong entry, please check
 rubygem-bcrypt_pbkdf
 rubygem-bcrypt
-rubygem-benchmark-ips warning: valid as old and new and no changelong entry, please check
 rubygem-between_meals - can be trivially converted to Apache-2.0
-rubygem-bindex warning: valid as old and new and no changelong entry, please check
-rubygem-bootsnap warning: valid as old and new and no changelong entry, please check
-rubygem-builder warning: valid as old and new and no changelong entry, please check
-rubygem-bundler_ext warning: valid as old and new and no changelong entry, please check
-rubygem-bundler warning: valid as old and new and no changelong entry, please check
-rubygem-capybara warning: valid as old and new and no changelong entry, please check
-rubygem-clockwork warning: valid as old and new and no changelong entry, please check
-rubygem-codeclimate-test-reporter warning: valid as old and new and no changelong entry, please check
-rubygem-coderay warning: valid as old and new and no changelong entry, please check
-rubygem-colorator warning: valid as old and new and no changelong entry, please check
 rubygem-colorize - can be trivially converted to GPL-2.0-only
-rubygem-color warning: valid as old and new and no changelong entry, please check
-rubygem-comp_tree warning: valid as old and new and no changelong entry, please check
-rubygem-concurrent-ruby warning: valid as old and new and no changelong entry, please check
-rubygem-connection_pool warning: valid as old and new and no changelong entry, please check
 rubygem-cookiejar
-rubygem-coveralls warning: valid as old and new and no changelong entry, please check
-rubygem-crack warning: valid as old and new and no changelong entry, please check
-rubygem-crass warning: valid as old and new and no changelong entry, please check
-rubygem-css_parser warning: valid as old and new and no changelong entry, please check
-rubygem-cucumber-core warning: valid as old and new and no changelong entry, please check
-rubygem-cucumber-create-meta warning: valid as old and new and no changelong entry, please check
-rubygem-cucumber-cucumber-expressions warning: valid as old and new and no changelong entry, please check
-rubygem-cucumber-gherkin warning: valid as old and new and no changelong entry, please check
-rubygem-cucumber-messages warning: valid as old and new and no changelong entry, please check
-rubygem-cucumber warning: valid as old and new and no changelong entry, please check
-rubygem-cucumber-tag-expressions warning: valid as old and new and no changelong entry, please check
-rubygem-cucumber-wire warning: valid as old and new and no changelong entry, please check
 rubygem-curb warning: valid as old and new and no changelong entry, please check
-rubygem-daemon_controller warning: valid as old and new and no changelong entry, please check
 rubygem-daemons
-rubygem-dalli warning: valid as old and new and no changelong entry, please check
-rubygem-deep_merge warning: valid as old and new and no changelong entry, please check
-rubygem-delorean warning: valid as old and new and no changelong entry, please check
-rubygem-diffy warning: valid as old and new and no changelong entry, please check
 rubygem-dnsruby - can be trivially converted to Apache-2.0
-rubygem-docile warning: valid as old and new and no changelong entry, please check
-rubygem-drake warning: valid as old and new and no changelong entry, please check
-rubygem-ejs warning: valid as old and new and no changelong entry, please check
 rubygem-elasticsearch-transport - can be trivially converted to Apache-2.0
-rubygem-em-http-request warning: valid as old and new and no changelong entry, please check
-rubygem-em-socksify warning: valid as old and new and no changelong entry, please check
-rubygem-em-spec warning: valid as old and new and no changelong entry, please check
-rubygem-em-websocket-client warning: valid as old and new and no changelong entry, please check
-rubygem-em-websocket warning: valid as old and new and no changelong entry, please check
-rubygem-ensure_valid_encoding warning: valid as old and new and no changelong entry, please check
-rubygem-erubi warning: valid as old and new and no changelong entry, please check
-rubygem-ethon warning: valid as old and new and no changelong entry, please check
 rubygem-eventmachine - can be trivially converted to GPL-2.0-only OR Ruby
-rubygem-excon warning: valid as old and new and no changelong entry, please check
-rubygem-execjs warning: valid as old and new and no changelong entry, please check
-rubygem-facon warning: valid as old and new and no changelong entry, please check
-rubygem-factory_bot warning: valid as old and new and no changelong entry, please check
-rubygem-fakefs warning: valid as old and new and no changelong entry, please check
-rubygem-fake_ftp warning: valid as old and new and no changelong entry, please check
-rubygem-faraday warning: valid as old and new and no changelong entry, please check
 rubygem-ffi
-rubygem-flexmock warning: valid as old and new and no changelong entry, please check
-rubygem-fog-core warning: valid as old and new and no changelong entry, please check
-rubygem-fog-json warning: valid as old and new and no changelong entry, please check
-rubygem-fog-libvirt warning: valid as old and new and no changelong entry, please check
-rubygem-fog-xml warning: valid as old and new and no changelong entry, please check
-rubygem-formatador warning: valid as old and new and no changelong entry, please check
-rubygem-forwardable-extended warning: valid as old and new and no changelong entry, please check
-rubygem-gem-nice-install warning: valid as old and new and no changelong entry, please check
 rubygem-gem2rpm - can be trivially converted to GPL-2.0-or-later
-rubygem-generator_spec warning: valid as old and new and no changelong entry, please check
-rubygem-gist warning: valid as old and new and no changelong entry, please check
-rubygem-git warning: valid as old and new and no changelong entry, please check
-rubygem-globalid warning: valid as old and new and no changelong entry, please check
-rubygem-glu warning: valid as old and new and no changelong entry, please check
-rubygem-glut warning: valid as old and new and no changelong entry, please check
-rubygem-gssapi warning: valid as old and new and no changelong entry, please check
-rubygem-guard-compat warning: valid as old and new and no changelong entry, please check
-rubygem-guard-livereload warning: valid as old and new and no changelong entry, please check
-rubygem-guard-shell warning: valid as old and new and no changelong entry, please check
-rubygem-guard warning: valid as old and new and no changelong entry, please check
 rubygem-haml
-rubygem-hashdiff warning: valid as old and new and no changelong entry, please check
 rubygem-hashery
 rubygem-hashicorp-checkpoint - can be trivially converted to MPL-2.0
-rubygem-hashie warning: valid as old and new and no changelong entry, please check
-rubygem-hashr warning: valid as old and new and no changelong entry, please check
 rubygem-hiera-vault - can be trivially converted to Apache-2.0
 rubygem-highline
-rubygem-hikidoc warning: valid as old and new and no changelong entry, please check
 rubygem-hiredis
 rubygem-hitimes warning: valid as old and new and no changelong entry, please check
 rubygem-hocon - can be trivially converted to Apache-2.0
-rubygem-hoe warning: valid as old and new and no changelong entry, please check
 rubygem-hrx - can be trivially converted to Apache-2.0
-rubygem-htmlentities warning: valid as old and new and no changelong entry, please check
-rubygem-http-accept warning: valid as old and new and no changelong entry, please check
-rubygem-httparty warning: valid as old and new and no changelong entry, please check
 rubygem-httpclient
-rubygem-http_connection warning: valid as old and new and no changelong entry, please check
-rubygem-http-cookie warning: valid as old and new and no changelong entry, please check
 rubygem-http_parser.rb warning: valid as old and new and no changelong entry, please check
-rubygem-chake warning: valid as old and new and no changelong entry, please check
-rubygem-childprocess warning: valid as old and new and no changelong entry, please check
-rubygem-chronic warning: valid as old and new and no changelong entry, please check
-rubygem-chunky_png warning: valid as old and new and no changelong entry, please check
 rubygem-icaro - can be trivially converted to GPL-3.0-only
 rubygem-idn
-rubygem-image_processing warning: valid as old and new and no changelong entry, please check
 rubygem-imagesize - can be trivially converted to GPL-2.0-only OR Ruby
-rubygem-importmap-rails warning: valid as old and new and no changelong entry, please check
-rubygem-introspection warning: valid as old and new and no changelong entry, please check
-rubygem-ipaddress warning: valid as old and new and no changelong entry, please check
-rubygem-isolate warning: valid as old and new and no changelong entry, please check
-rubygem-jbuilder warning: valid as old and new and no changelong entry, please check
-rubygem-jekyll-asciidoc warning: valid as old and new and no changelong entry, please check
-rubygem-jekyll-email-protect warning: valid as old and new and no changelong entry, please check
-rubygem-jekyll-feed warning: valid as old and new and no changelong entry, please check
-rubygem-jekyll-git-authors warning: valid as old and new and no changelong entry, please check
-rubygem-jekyll-sass-converter warning: valid as old and new and no changelong entry, please check
-rubygem-jekyll-seo-tag warning: valid as old and new and no changelong entry, please check
-rubygem-jekyll warning: valid as old and new and no changelong entry, please check
-rubygem-jekyll-toc warning: valid as old and new and no changelong entry, please check
-rubygem-jekyll-watch warning: valid as old and new and no changelong entry, please check
-rubygem-json_spec warning: valid as old and new and no changelong entry, please check
-rubygem-kramdown-syntax-coderay warning: valid as old and new and no changelong entry, please check
 rubygem-krb5-auth
 rubygem-launchy warning: valid as old and new and no changelong entry, please check
-rubygem-linked-list warning: valid as old and new and no changelong entry, please check
-rubygem-liquid warning: valid as old and new and no changelong entry, please check
-rubygem-listen warning: valid as old and new and no changelong entry, please check
 rubygem-logstash-event - can be trivially converted to Apache-2.0
 rubygem-log4r - can be trivially converted to LGPL-3.0-only
-rubygem-loofah warning: valid as old and new and no changelong entry, please check
-rubygem-lumberjack warning: valid as old and new and no changelong entry, please check
 rubygem-macaddr
-rubygem-mail warning: valid as old and new and no changelong entry, please check
 rubygem-marcel
-rubygem-marc warning: valid as old and new and no changelong entry, please check
-rubygem-memfs warning: valid as old and new and no changelong entry, please check
-rubygem-mercenary warning: valid as old and new and no changelong entry, please check
-rubygem-metaclass warning: valid as old and new and no changelong entry, please check
-rubygem-method_source warning: valid as old and new and no changelong entry, please check
-rubygem-middleware warning: valid as old and new and no changelong entry, please check
-rubygem-mimemagic warning: valid as old and new and no changelong entry, please check
-rubygem-mime-types-data warning: valid as old and new and no changelong entry, please check
-rubygem-mime-types warning: valid as old and new and no changelong entry, please check
-rubygem-mini_magick warning: valid as old and new and no changelong entry, please check
-rubygem-minima warning: valid as old and new and no changelong entry, please check
-rubygem-mini_mime warning: valid as old and new and no changelong entry, please check
-rubygem-mini_portile warning: valid as old and new and no changelong entry, please check
-rubygem-mini_portile2 warning: valid as old and new and no changelong entry, please check
-rubygem-minitest-around warning: valid as old and new and no changelong entry, please check
-rubygem-minitest-profile warning: valid as old and new and no changelong entry, please check
-rubygem-minitest-stub-const warning: valid as old and new and no changelong entry, please check
-rubygem-minitest4 warning: valid as old and new and no changelong entry, please check
 rubygem-mixlib-cli - can be trivially converted to Apache-2.0
 rubygem-mixlib-config - can be trivially converted to Apache-2.0
 rubygem-mixlib-log - can be trivially converted to Apache-2.0
 rubygem-mixlib-shellout - can be trivially converted to Apache-2.0
-rubygem-mizuho warning: valid as old and new and no changelong entry, please check
-rubygem-mkrf warning: valid as old and new and no changelong entry, please check
-rubygem-mkrf
-rubygem-mongoid warning: valid as old and new and no changelong entry, please check
 rubygem-mongo - can be trivially converted to Apache-2.0
-rubygem-moped warning: valid as old and new and no changelong entry, please check
 rubygem-msgpack - can be trivially converted to Apache-2.0
-rubygem-multi_json warning: valid as old and new and no changelong entry, please check
-rubygem-multipart-post warning: valid as old and new and no changelong entry, please check
-rubygem-multi_test warning: valid as old and new and no changelong entry, please check
-rubygem-multi_xml warning: valid as old and new and no changelong entry, please check
-rubygem-mustache warning: valid as old and new and no changelong entry, please check
-rubygem-mustermann warning: valid as old and new and no changelong entry, please check
-rubygem-mysql2 warning: valid as old and new and no changelong entry, please check
 rubygem-narray
 rubygem-ncursesw
 rubygem-ncursesw
-rubygem-nenv warning: valid as old and new and no changelong entry, please check
-rubygem-nesty warning: valid as old and new and no changelong entry, please check
-rubygem-net-http-digest_auth warning: valid as old and new and no changelong entry, please check
 rubygem-net-irc - can be trivially converted to GPL-2.0-only OR Ruby
-rubygem-net-ldap warning: valid as old and new and no changelong entry, please check
-rubygem-netrc warning: valid as old and new and no changelong entry, please check
-rubygem-net-scp warning: valid as old and new and no changelong entry, please check
-rubygem-net-ssh warning: valid as old and new and no changelong entry, please check
 rubygem-nifti - can be trivially converted to LGPL-3.0-or-later
-rubygem-notiffany warning: valid as old and new and no changelong entry, please check
 rubygem-opennebula - can be trivially converted to Apache-2.0
 rubygem-open4
-rubygem-optimist warning: valid as old and new and no changelong entry, please check
-rubygem-ox warning: valid as old and new and no changelong entry, please check
-rubygem-parallel warning: valid as old and new and no changelong entry, please check
-rubygem-parseconfig warning: valid as old and new and no changelong entry, please check
-rubygem-parse-cron warning: valid as old and new and no changelong entry, please check
-rubygem-pastel warning: valid as old and new and no changelong entry, please check
 rubygem-pathspec - can be trivially converted to Apache-2.0
-rubygem-pathutil warning: valid as old and new and no changelong entry, please check
 rubygem-pdf-core - can be trivially converted to GPL-2.0-only OR GPL-3.0-only OR Ruby
 rubygem-pdf-inspector - can be trivially converted to GPL-2.0-only OR GPL-3.0-only OR Ruby
-rubygem-pdf-reader warning: valid as old and new and no changelong entry, please check
-rubygem-polyglot warning: valid as old and new and no changelong entry, please check
-rubygem-posix-spawn warning: valid as old and new and no changelong entry, please check
-rubygem-powerpack warning: valid as old and new and no changelong entry, please check
 rubygem-prawn-icon - can be trivially converted to Ruby OR GPL-2.0-only OR GPL-3.0-only
 rubygem-prawn - can be trivially converted to ( GPL-2.0-only OR GPL-3.0-only OR Ruby ) AND APAFML
-rubygem-prawn-svg warning: valid as old and new and no changelong entry, please check
 rubygem-prawn-table - can be trivially converted to Ruby OR GPL-2.0-only OR GPL-3.0-only
 rubygem-prawn-templates - can be trivially converted to Ruby OR GPL-2.0-only OR GPL-3.0-only
-rubygem-progressbar warning: valid as old and new and no changelong entry, please check
-rubygem-proxifier warning: valid as old and new and no changelong entry, please check
-rubygem-pry-byebug warning: valid as old and new and no changelong entry, please check
-rubygem-pry warning: valid as old and new and no changelong entry, please check
-rubygem-pundit warning: valid as old and new and no changelong entry, please check
-rubygem-puppet-lint warning: valid as old and new and no changelong entry, please check
-rubygem-rack-accept warning: valid as old and new and no changelong entry, please check
-rubygem-rack-cache warning: valid as old and new and no changelong entry, please check
-rubygem-rack-cors warning: valid as old and new and no changelong entry, please check
-rubygem-rack-protection warning: valid as old and new and no changelong entry, please check
-rubygem-rack-restful_submit warning: valid as old and new and no changelong entry, please check
 rubygem-rack
-rubygem-rack-test warning: valid as old and new and no changelong entry, please check
-rubygem-rails-controller-testing warning: valid as old and new and no changelong entry, please check
-rubygem-rails-deprecated_sanitizer warning: valid as old and new and no changelong entry, please check
-rubygem-rails-dom-testing warning: valid as old and new and no changelong entry, please check
-rubygem-rails-html-sanitizer warning: valid as old and new and no changelong entry, please check
-rubygem-rails warning: valid as old and new and no changelong entry, please check
-rubygem-rails
-rubygem-railties warning: valid as old and new and no changelong entry, please check
-rubygem-rainbow warning: valid as old and new and no changelong entry, please check
-rubygem-rake-contrib warning: valid as old and new and no changelong entry, please check
-rubygem-rake warning: valid as old and new and no changelong entry, please check
-rubygem-rb-inotify warning: valid as old and new and no changelong entry, please check
-rubygem-rbvmomi warning: valid as old and new and no changelong entry, please check
 rubygem-rdoc warning: not valid neither as Callaway nor as SPDX, please check
-rubygem-RedCloth warning: valid as old and new and no changelong entry, please check
-rubygem-red-colors warning: valid as old and new and no changelong entry, please check
-rubygem-redis warning: valid as old and new and no changelong entry, please check
-rubygem-ref warning: valid as old and new and no changelong entry, please check
-rubygem-regexp_parser warning: valid as old and new and no changelong entry, please check
-rubygem-regexp_property_values warning: valid as old and new and no changelong entry, please check
-rubygem-require_all warning: valid as old and new and no changelong entry, please check
-rubygem-resolve-hostname warning: valid as old and new and no changelong entry, please check
-rubygem-rest-client warning: valid as old and new and no changelong entry, please check
-rubygem-rgen warning: valid as old and new and no changelong entry, please check
 rubygem-rchardet
 rubygem-rmail
-rubygem-ronn-ng warning: valid as old and new and no changelong entry, please check
-rubygem-rr warning: valid as old and new and no changelong entry, please check
-rubygem-rspec-its warning: valid as old and new and no changelong entry, please check
-rubygem-rspec-mocks warning: valid as old and new and no changelong entry, please check
-rubygem-rspec-pending_for warning: valid as old and new and no changelong entry, please check
-rubygem-rspec-rails warning: valid as old and new and no changelong entry, please check
-rubygem-rspec warning: valid as old and new and no changelong entry, please check
 rubygem-rttool warning: valid as old and new and no changelong entry, please check
-rubygem-ruby_dep warning: valid as old and new and no changelong entry, please check
-rubygem-ruby_engine warning: valid as old and new and no changelong entry, please check
-rubygem-rubygems-mirror warning: valid as old and new and no changelong entry, please check
 rubygem-ruby-libvirt
-rubygem-ruby-opengl warning: valid as old and new and no changelong entry, please check
-rubygem-ruby-progressbar warning: valid as old and new and no changelong entry, please check
-rubygem-ruby-rc4 warning: valid as old and new and no changelong entry, please check
 rubygem-ruby-shadow - can be trivially converted to LicenseRef-Fedora-Public-Domain
-rubygem-ruby_version warning: valid as old and new and no changelong entry, please check
-rubygem-ruby-vips warning: valid as old and new and no changelong entry, please check
 rubygem-rubyzip
-rubygem-rugged warning: valid as old and new and no changelong entry, please check
-rubygem-safe_yaml warning: valid as old and new and no changelong entry, please check
 rubygem-sassc-rails
-rubygem-sassc warning: valid as old and new and no changelong entry, please check
-rubygem-sass-rails warning: valid as old and new and no changelong entry, please check
-rubygem-sass warning: valid as old and new and no changelong entry, please check
 rubygem-scanf
-rubygem-scrub_rb warning: valid as old and new and no changelong entry, please check
-rubygem-sd_notify warning: valid as old and new and no changelong entry, please check
 rubygem-selenium-webdriver - can be trivially converted to Apache-2.0
-rubygem-semantic warning: valid as old and new and no changelong entry, please check
-rubygem-sequel warning: valid as old and new and no changelong entry, please check
 rubygem-serialport - can be trivially converted to GPL-2.0-only
-rubygem-settingslogic warning: valid as old and new and no changelong entry, please check
-rubygem-shellany warning: valid as old and new and no changelong entry, please check
-rubygem-shindo warning: valid as old and new and no changelong entry, please check
-rubygem-shoulda-context warning: valid as old and new and no changelong entry, please check
-rubygem-shoulda-matchers warning: valid as old and new and no changelong entry, please check
-rubygem-simplecov-html warning: valid as old and new and no changelong entry, please check
-rubygem-simplecov warning: valid as old and new and no changelong entry, please check
-rubygem-simpleidn warning: valid as old and new and no changelong entry, please check
-rubygem-sinatra-cross_origin warning: valid as old and new and no changelong entry, please check
 rubygem-sinatra-rabbit - can be trivially converted to Apache-2.0
-rubygem-sinatra warning: valid as old and new and no changelong entry, please check
-rubygem-slim warning: valid as old and new and no changelong entry, please check
-rubygem-snmp warning: valid as old and new and no changelong entry, please check
-rubygem-spring warning: valid as old and new and no changelong entry, please check
-rubygem-sprockets-rails warning: valid as old and new and no changelong entry, please check
-rubygem-sprockets warning: valid as old and new and no changelong entry, please check
 rubygem-sqlite3
-rubygem-sshkey warning: valid as old and new and no changelong entry, please check
 rubygems
 rubygem-sugarjar - can be trivially converted to Apache-2.0
-rubygem-syck warning: valid as old and new and no changelong entry, please check
 rubygem-systemu warning: valid as old and new and no changelong entry, please check
 rubygem-sys-uname - can be trivially converted to Apache-2.0
-rubygem-temple warning: valid as old and new and no changelong entry, please check
-rubygem-terminal-table warning: valid as old and new and no changelong entry, please check
-rubygem-test_construct warning: valid as old and new and no changelong entry, please check
-rubygem-test_declarative warning: valid as old and new and no changelong entry, please check
-rubygem-text warning: valid as old and new and no changelong entry, please check
-rubygem-thor warning: valid as old and new and no changelong entry, please check
-rubygem-thread_order warning: valid as old and new and no changelong entry, please check
-rubygem-tilt warning: valid as old and new and no changelong entry, please check
-rubygem-timecop warning: valid as old and new and no changelong entry, please check
-rubygem-timers warning: valid as old and new and no changelong entry, please check
-rubygem-tins warning: valid as old and new and no changelong entry, please check
-rubygem-tomlrb warning: valid as old and new and no changelong entry, please check
-rubygem-treetop warning: valid as old and new and no changelong entry, please check
 rubygem-ttfunk - can be trivially converted to GPL-2.0-only OR GPL-3.0-only OR Ruby
-rubygem-tty-color warning: valid as old and new and no changelong entry, please check
-rubygem-turbolinks-source warning: valid as old and new and no changelong entry, please check
-rubygem-turbolinks warning: valid as old and new and no changelong entry, please check
-rubygem-typhoeus warning: valid as old and new and no changelong entry, please check
-rubygem-tzinfo warning: valid as old and new and no changelong entry, please check
-rubygem-unf_ext warning: valid as old and new and no changelong entry, please check
-rubygem-unicode-display_width warning: valid as old and new and no changelong entry, please check
 rubygem-unicode warning: valid as old and new and no changelong entry, please check
 rubygem-uuid
 rubygem-vault - can be trivially converted to MPL-2.0
-rubygem-vcr warning: valid as old and new and no changelong entry, please check
-rubygem-web-console warning: valid as old and new and no changelong entry, please check
-rubygem-webmock warning: valid as old and new and no changelong entry, please check
 rubygem-webrick warning: not valid neither as Callaway nor as SPDX, please check
 rubygem-websocket-driver - can be trivially converted to Apache-2.0
-rubygem-websocket warning: valid as old and new and no changelong entry, please check
 rubygem-xmlparser warning: not valid neither as Callaway nor as SPDX, please check
 rubygem-xmlrpc
-rubygem-xml-simple warning: valid as old and new and no changelong entry, please check
-rubygem-xpath warning: valid as old and new and no changelong entry, please check
-rubygem-yaml-lint warning: valid as old and new and no changelong entry, please check
-rubygem-zeitwerk warning: valid as old and new and no changelong entry, please check
 ruby-gnome2
 ruby-mecab
 rubypick warning: valid as old and new and no changelong entry, please check
