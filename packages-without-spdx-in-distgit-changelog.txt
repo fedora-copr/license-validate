@@ -619,7 +619,6 @@ clamav
 clamsmtp
 clanbomber
 clang13
-clang14
 ClanLib
 ClanLib06
 ClanLib1
@@ -836,7 +835,6 @@ csound
 cstream
 ctan-cm-lgc-fonts
 ctan-kerkis-fonts
-ctk
 CTL
 CTML
 ctpl
@@ -1489,6 +1487,7 @@ fatrace
 fatresize
 fatsort
 FAudio
+fawltydeps
 fbb
 fbg2
 fbida
@@ -1657,6 +1656,7 @@ fonts-compare
 fonts-KOI8-R
 fontsquirrel-crete-round-fonts
 foomuuri
+foonathan-memory
 foot
 foremost
 forge-parent
@@ -1705,6 +1705,7 @@ frogr
 fros
 frozen-bubble
 frozen
+frugally-deep
 fruit
 frysk
 fsarchiver
@@ -1850,7 +1851,6 @@ genius
 genromfs
 gensio
 gentoo
-geocode-glib
 GeographicLib
 geometry-hpp
 geomview
@@ -1976,6 +1976,7 @@ ghc-lens-aeson
 ghc-lens-family-core
 ghc-lens
 ghc-libffi
+ghc-linear
 ghc-logict
 ghc-megaparsec
 ghc-memory
@@ -2894,7 +2895,6 @@ golang-github-hodgesds-perf-utils
 golang-github-hokaccha-prettyjson
 golang-github-hooklift-assert
 golang-github-howeyc-gopass
-golang-github-hpcloud-tail
 golang-github-hsiafan-glow
 golang-github-hsiafan-vlog
 golang-github-huandu-xstrings
@@ -3574,9 +3574,11 @@ golang-github-thlib-timezone-local
 golang-github-thoas-funk
 golang-github-thoj-ircevent
 golang-github-tchap-patricia
+golang-github-tidwall-match
 golang-github-tidwall-pretty
 golang-github-tinylib-msgp
 golang-github-tj-assert
+golang-github-tj-buffer
 golang-github-tj-spin
 golang-github-tklauser-numcpus
 golang-github-tklauser-sysconf
@@ -4008,8 +4010,6 @@ gstreamer-plugins-fc
 gstreamer1-doc
 gstreamer1-plugin-libav
 gstreamer1-plugins-bad-free
-gstreamer1-plugins-good
-gstreamer1-rtsp-server
 gstreamer1-vaapi
 gstream
 gst123
@@ -4367,7 +4367,6 @@ ivtv-firmware
 ivykis
 iwd
 iwidgets
-iw
 iwyu
 iyfct
 i3blocks
@@ -4376,6 +4375,7 @@ i3lock
 jabberd
 jack-audio-connection-kit
 jack_capture
+jack-example-tools
 jack-keyboard
 jack-mixer
 jackson-dataformats-binary
@@ -4394,7 +4394,6 @@ jam
 janet
 janino
 jansi-native
-jansson
 java-dirq
 javaewah
 java-jd-decompiler
@@ -4411,6 +4410,7 @@ java-17-openjdk
 java-1.8.0-openjdk-aarch32
 java-1.8.0-openjdk-portable
 java-1.8.0-openjdk
+java-21-openjdk-portable
 jaxb-api2
 jaxen
 jbosscache-support
@@ -4791,7 +4791,6 @@ kontactinterface
 kontact
 kontrast
 kopeninghours
-kopete
 korganizer
 kosmindoormap
 koules
@@ -5365,7 +5364,6 @@ libsonata
 libsoundio
 libspatialaudio
 libspatialite
-libspectre
 libspectrum
 libspelling
 libspf2
@@ -5536,7 +5534,6 @@ lldb
 lldpad
 lldpd
 lld13
-lld14
 llmnrd
 llvm-bolt
 llvm-test-suite
@@ -5757,7 +5754,6 @@ maloc
 manafirewall
 manedit
 mangohud
-man-pages-ko
 man-pages-l10n
 man2html
 mapserver
@@ -6225,7 +6221,6 @@ mono-reflection
 monotone
 mono-tools
 mono-zeroconf
-moodycamel-concurrentqueue
 mooltipass-udev
 moon-buggy
 moose
@@ -6635,7 +6630,6 @@ octave-zmat
 octomap
 oct2spec
 oddjob-gpupdate
-oddjob
 ode
 odfpy
 odhcp6c
@@ -7869,7 +7863,6 @@ perl-Net-BGP
 perl-Net-Daemon
 perl-Net-DHCP
 perl-Net-DNS-Resolver-Mock
-perl-Net-DNS-SEC
 perl-Net-Domain-TLD
 perl-Net-eBay
 perl-Net-Facebook-Oauth2
@@ -8442,6 +8435,7 @@ pg_auto_failover
 pgbouncer
 pgpdump
 pgp-tools
+pgrouting
 pg-semver
 pg_top
 pgzero
@@ -8591,13 +8585,11 @@ php-pear-Console-Table
 php-pear-Crypt-Blowfish
 php-pear-Crypt-CHAP
 php-pear-Date
-php-pear-DB
 php-pear-File-Fstab
 php-pear-File-Passwd
 php-pear-HTML-Template-IT
 php-pear-HTTP-Request
 php-pear-Image-Text
-php-pear-Log
 php-pear-Mail-mimeDecode
 php-pear-math-biginteger
 php-pear-MDB2-Driver-mysqli
@@ -9454,7 +9446,6 @@ python-coverage_pth
 python-coverage
 python-coveralls
 python-cpio
-python-cppheaderparser
 python-cradox
 python-crank
 python-crashtest
@@ -9859,7 +9850,6 @@ python-graphql-relay
 python-graphviz
 python-grokmirror
 python-gsd
-python-gssapi
 python-gstreamer1
 python-guessit
 python-gunicorn
@@ -11853,6 +11843,7 @@ roca-detect
 rocalution
 rocblas
 rocclr
+rocfft
 rocksdb
 rocksndiamonds
 rocm-cmake
@@ -11863,6 +11854,7 @@ rocm-rpm-macros
 rocm-runtime
 rocprim
 rocrand
+rocsolver
 rocsparse
 rocs
 rocthrust
@@ -12355,6 +12347,7 @@ rust-bindgen0.63
 rust-biquad
 rust-bit_field
 rust-bitfield
+rust-bitfield0.13
 rust-bitflags
 rust-bitflags1
 rust-bitreader
@@ -12770,6 +12763,7 @@ rust-fd-lock3
 rust-fedora
 rust-fedora-update-feedback
 rust-femme
+rust-fend-core
 rust-ff
 rust-fiat-crypto
 rust-field-offset
@@ -13305,6 +13299,7 @@ rust-mktemp
 rust-mockall_derive
 rust-mockall_double
 rust-mockall
+rust-mock_instant
 rust-msru
 rust-multimap
 rust-mutate_once
@@ -13351,6 +13346,7 @@ rust-num-complex
 rust-num-complex0.3
 rust-num_cpus
 rust-num-derive
+rust-num-derive0.3
 rust-num_enum_derive
 rust-num_enum
 rust-num-format
@@ -13513,6 +13509,7 @@ rust-pretty_assertions0.7
 rust-pretty-bytes
 rust-pretty_env_logger
 rust-pretty_env_logger0.4
+rust-pretty-hex0.3
 rust-prettyplease
 rust-prettytable-rs
 rust-primal-bit
@@ -13559,6 +13556,7 @@ rust-prost-types
 rust-prost0.8
 rust-psa-crypto
 rust-psa-crypto-sys
+rust-psl
 rust-psl-types
 rust-psm
 rust-ptyprocess
@@ -13675,6 +13673,7 @@ rust-ring
 rust-ring0.16
 rust-ripgrep
 rust-rle-decode-fast
+rust-rlimit
 rust-roff
 rust-roff0.1
 rust-ron
@@ -14139,8 +14138,16 @@ rust-uu_mkdir
 rust-uu_mktemp
 rust-uu_more
 rust-uu_mv
+rust-uu_nl
+rust-uu_numfmt
+rust-uu_od
+rust-uu_paste
+rust-uu_pr
 rust-uutils_term_grid
+rust-uu_true
+rust-uu_truncate
 rust-uu_whoami
+rust-uu_yes
 rust-uzers
 rust-value-bag-serde1
 rust-value-bag
@@ -14241,7 +14248,9 @@ rust-zeroize
 rust-zmq
 rust-zmq-sys
 rust-zstd-safe
+rust-zstd-safe6
 rust-zstd-sys
+rust-zstd0.12
 rust-zvariant_derive2
 rust-zvariant_utils
 rust-zvariant2
@@ -15292,6 +15301,7 @@ vips
 virt-backup
 virt-bootstrap
 virt-lightning
+virtme-ng
 virtme
 virtualbox-guest-additions
 VirtualGL
@@ -15434,6 +15444,7 @@ wl-gammactl
 wl-mirror
 wlogout
 wlopm
+wlrctl
 wlroots0.15
 wlroots0.16
 wlr-sunclock
@@ -15810,7 +15821,6 @@ zita-resampler
 zita-rev1
 zix
 zlib-ada
-zlib-ng
 zmap
 zmat
 znc-clientbuffer

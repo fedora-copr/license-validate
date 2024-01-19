@@ -536,7 +536,6 @@ clamav-unofficial-sigs
 clamtk
 clamz
 clang
-clang14
 clang15
 clang16
 classification-banner
@@ -698,6 +697,7 @@ csslint
 cswrap
 ctags
 ctemplate
+ctk
 ctstream
 cube
 culmus-fonts
@@ -996,6 +996,7 @@ fasterxml-oss-parent
 fastfetch
 fast_float
 faust
+fawltydeps
 fbreader
 fbrnch
 fbterm
@@ -1110,6 +1111,7 @@ foobillard
 foomatic-db
 foomatic
 foomuuri
+foonathan-memory
 foo2zjs
 fop
 forge-srpm-macros
@@ -1150,6 +1152,7 @@ frobby
 frotz
 frozen
 frr
+frugally-deep
 frysk
 fscrypt
 fstrm
@@ -1306,6 +1309,7 @@ genchemlab
 gensio
 genwqe-tools
 geoclue2
+geocode-glib
 GeoIP-GeoLite-data
 GeoIP
 geoipupdate
@@ -1625,6 +1629,7 @@ ghc-libffi
 ghc-libmpd
 ghc-libxml-sax
 ghc-lifted-base
+ghc-linear
 ghc-listsafe
 ghc-logging-facade
 ghc-logict
@@ -2150,6 +2155,7 @@ golang-github-awslabs-aws-multi-module-repository-tools
 golang-github-aws-sdk
 golang-github-aws-sdk-2
 golang-github-aws-smithy
+golang-github-aybabtme-rgbterm
 golang-github-aymanbagabas-osc52
 golang-github-azuread-microsoft-authentication-library
 golang-github-azure-sdk-azcore
@@ -2462,6 +2468,7 @@ golang-github-task-slim-sprig3
 golang-github-tencentcloud-sdk
 golang-github-tenox7-wrp
 golang-github-theoapp-theo-agent
+golang-github-tidwall-match
 golang-github-tklauser-numcpus
 golang-github-tklauser-sysconf
 golang-github-tonistiigi-archvariant
@@ -2671,7 +2678,9 @@ gst-devtools
 gst-editing-services
 gstreamer1-plugin-libav
 gstreamer1-plugins-base
+gstreamer1-plugins-good
 gstreamer1-plugins-ugly-free
+gstreamer1-rtsp-server
 gstreamer1
 gst
 gtest
@@ -2750,6 +2759,7 @@ hdmf-common-schema
 hdparm
 HdrHistogram_c
 healpix
+heaptrack
 hedgewars
 hedley
 helix
@@ -3111,10 +3121,12 @@ ispc
 itinerary
 itstool
 itzam-core
+iw
 i2c-tools
 i3
 i3status
 jaaa
+jack-example-tools
 jackson-annotations
 jackson-bom
 jackson-core
@@ -3137,6 +3149,7 @@ janet
 janino
 jansi
 jansi1
+jansson
 japanese-bitmap-fonts
 japa
 jasper
@@ -3150,6 +3163,7 @@ javaparser
 javassist
 java-11-openjdk-portable
 java-1.8.0-openjdk-portable
+java-21-openjdk-portable
 jaxb-api
 jaxb-api2
 jaxb-dtd-parser
@@ -3252,6 +3266,7 @@ kddockwidgets
 kdebase3
 kde-cli-tools
 kde-connect
+kde-dev-scripts
 kde-dev-utils
 kdegames3
 kdegraphics-thumbnailers
@@ -3521,6 +3536,7 @@ kontactinterface
 kontrast
 konversation
 kopeninghours
+kopete
 kosmindoormap
 kpeoplevcard
 kpimtextedit
@@ -3968,6 +3984,7 @@ libsolv
 libsoup
 libsoup3
 libspatialite
+libspectre
 libspelling
 libspiro
 libspng
@@ -4118,9 +4135,7 @@ live555
 lklug-fonts
 lldb
 lld
-lld14
 lld15
-lld16
 llhttp
 llvm-bolt
 llvm
@@ -4395,6 +4410,7 @@ mingw-jasper
 mingw-json-glib
 mingw-libffi
 mingw-libgusb
+mingw-libidn
 mingw-libidn2
 mingw-libmng
 mingw-libpng
@@ -4542,6 +4558,7 @@ mono
 mon
 monsterz
 moodle
+moodycamel-concurrentqueue
 moolticute
 mooltipass-udev
 morphio
@@ -4953,6 +4970,7 @@ octave-flexiblas
 octave-statistics
 octave-symbolic
 odcs
+oddjob
 odio-sacd
 oflb-asana-math-fonts
 oggvideotools
@@ -4962,6 +4980,7 @@ oidentd
 oidn
 okular
 OliveTin
+omniORBpy
 omping
 oneapi-level-zero
 ongres-scram
@@ -6219,6 +6238,7 @@ perl-Net-DBus-GLib
 perl-Net-DBus
 perl-Net-DNS-Resolver-Mock
 perl-Net-DNS-Resolver-Programmable
+perl-Net-DNS-SEC
 perl-Net-DNS
 perl-Net-eBay
 perl-Net-FTP-AutoReconnect
@@ -6931,6 +6951,7 @@ pfstools
 pgadmin4
 pgcli
 pgmodeler
+pgrouting
 pgsphere
 phd2
 phonon-backend-vlc
@@ -7499,6 +7520,7 @@ python-copr-common
 python-copr
 python-coverage
 python-coveralls
+python-cppheaderparser
 python-cppy
 python-cpuinfo
 python-cram
@@ -7733,6 +7755,7 @@ python-GridDataFormats
 python-grpc-google-iam-v1
 python-grpcio-gcp
 python-gsd
+python-gssapi
 python-hacking
 python-hamcrest
 python-hatch-fancy-pypi-readme
@@ -8852,11 +8875,13 @@ rnp
 rocalution
 rocblas
 rocclr
+rocfft
 rocm-cmake
 rocm-rpm-macros
 rocm-smi
 rocprim
 rocrand
+rocsolver
 rocsparse
 rocthrust
 roc-toolkit
@@ -9491,6 +9516,7 @@ rust-bindgen0.63
 rust-biquad
 rust-bit_field
 rust-bitfield
+rust-bitfield0.13
 rust-bitflags
 rust-bitflags1
 rust-bitmaps
@@ -9997,6 +10023,7 @@ rust-fd-lock3
 rust-fedora
 rust-fedora-update-feedback
 rust-femme
+rust-fend-core
 rust-fern
 rust-ff
 rust-fiat-crypto
@@ -10668,6 +10695,7 @@ rust-mktemp
 rust-mockall_derive
 rust-mockall_double
 rust-mockall
+rust-mock_instant
 rust-mockito
 rust-mptcp-pm
 rust-msru
@@ -10740,6 +10768,7 @@ rust-num-complex
 rust-num-complex0.3
 rust-num_cpus
 rust-num-derive
+rust-num-derive0.3
 rust-num_enum_derive
 rust-num_enum
 rust-num-format
@@ -10969,6 +10998,7 @@ rust-pretty_env_logger
 rust-pretty_env_logger0.4
 rust-pretty-git-prompt
 rust-pretty-hex
+rust-pretty-hex0.3
 rust-prettyplease
 rust-prettytable-rs
 rust-primal-bit
@@ -11021,6 +11051,7 @@ rust-protobuf-codegen
 rust-protobuf
 rust-psa-crypto
 rust-psa-crypto-sys
+rust-psl
 rust-psl-types
 rust-psm
 rust-ptr_meta_derive
@@ -11158,6 +11189,7 @@ rust-ripgrep
 rust-rkyv_derive
 rust-rkyv
 rust-rle-decode-fast
+rust-rlimit
 rust-rmp-serde
 rust-rmp
 rust-rmpv
@@ -11759,8 +11791,16 @@ rust-uu_mkdir
 rust-uu_mktemp
 rust-uu_more
 rust-uu_mv
+rust-uu_nl
+rust-uu_numfmt
+rust-uu_od
+rust-uu_paste
+rust-uu_pr
 rust-uutils_term_grid
+rust-uu_true
+rust-uu_truncate
 rust-uu_whoami
+rust-uu_yes
 rust-uzers
 rust-value-bag-serde1
 rust-value-bag
@@ -11896,8 +11936,10 @@ rust-zoneinfo_compiled
 rust-zoxide
 rust-zram-generator
 rust-zstd-safe
+rust-zstd-safe6
 rust-zstd
 rust-zstd-sys
+rust-zstd0.12
 rust-zvariant_derive
 rust-zvariant_derive2
 rust-zvariant
@@ -12530,6 +12572,7 @@ virglrenderer
 virtiofsd
 virt-lightning
 virt-manager
+virtme-ng
 virt-p2v
 virt-top
 virt-viewer
@@ -12630,6 +12673,7 @@ wl-clipboard
 wlcs
 wl-mirror
 wlopm
+wlrctl
 wlroots
 wlroots0.15
 wlroots0.16
@@ -12845,6 +12889,7 @@ Zim
 zinnia
 zip
 zix
+zlib-ng
 zlib
 zopfli
 zpaq

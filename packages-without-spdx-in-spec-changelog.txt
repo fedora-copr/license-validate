@@ -734,7 +734,6 @@ clamav
 clamsmtp
 clanbomber
 clang13
-clang14
 ClanLib
 ClanLib06
 ClanLib1
@@ -1729,6 +1728,7 @@ fatrace
 fatresize
 fatsort
 FAudio
+fawltydeps
 fbb
 fbg2
 fbida
@@ -1921,6 +1921,7 @@ fonts-compare
 fonts-KOI8-R
 fontsquirrel-crete-round-fonts
 foomuuri
+foonathan-memory
 foot
 foo2zjs
 fop
@@ -1978,6 +1979,7 @@ fros
 frotz
 frozen-bubble
 frozen
+frugally-deep
 fruit
 frysk
 fsarchiver
@@ -2476,6 +2478,7 @@ ghc-libffi
 ghc-libmpd
 ghc-libxml-sax
 ghc-lifted-base
+ghc-linear
 ghc-listsafe
 ghc-logging-facade
 ghc-logict
@@ -3204,6 +3207,7 @@ golang-github-aws-sdk
 golang-github-aws-sdk-2
 golang-github-aws-smithy
 golang-github-axgle-mahonia
+golang-github-aybabtme-rgbterm
 golang-github-aykevl-wasm
 golang-github-aymanbagabas-osc52
 golang-github-azuread-microsoft-authentication-library
@@ -3691,7 +3695,6 @@ golang-github-hodgesds-perf-utils
 golang-github-hokaccha-prettyjson
 golang-github-hooklift-assert
 golang-github-howeyc-gopass
-golang-github-hpcloud-tail
 golang-github-hsiafan-glow
 golang-github-hsiafan-vlog
 golang-github-huandu-xstrings
@@ -4379,9 +4382,11 @@ golang-github-thlib-timezone-local
 golang-github-thoas-funk
 golang-github-thoj-ircevent
 golang-github-tchap-patricia
+golang-github-tidwall-match
 golang-github-tidwall-pretty
 golang-github-tinylib-msgp
 golang-github-tj-assert
+golang-github-tj-buffer
 golang-github-tj-spin
 golang-github-tklauser-numcpus
 golang-github-tklauser-sysconf
@@ -5281,6 +5286,7 @@ jaaa
 jabberd
 jack-audio-connection-kit
 jack_capture
+jack-example-tools
 jack-keyboard
 jack-mixer
 jackson-dataformats-binary
@@ -5322,6 +5328,7 @@ java-17-openjdk
 java-1.8.0-openjdk-aarch32
 java-1.8.0-openjdk-portable
 java-1.8.0-openjdk
+java-21-openjdk-portable
 jaxb-api
 jaxb-api2
 jaxen
@@ -6288,7 +6295,6 @@ libica
 libicns
 libicu71
 libIDL
-libidn
 libidn1.34
 libidn2
 libid3tag
@@ -6796,7 +6802,6 @@ lldb
 lldpad
 lldpd
 lld13
-lld14
 llhttp
 llmnrd
 llvm-bolt
@@ -7043,7 +7048,6 @@ manafirewall
 man-db
 manedit
 mangohud
-man-pages-ko
 man-pages-l10n
 man-pages
 man2html
@@ -11029,6 +11033,7 @@ pgbouncer
 pgmodeler
 pgpdump
 pgp-tools
+pgrouting
 pg-semver
 pg_top
 pgzero
@@ -11179,13 +11184,11 @@ php-pear-Console-Table
 php-pear-Crypt-Blowfish
 php-pear-Crypt-CHAP
 php-pear-Date
-php-pear-DB
 php-pear-File-Fstab
 php-pear-File-Passwd
 php-pear-HTML-Template-IT
 php-pear-HTTP-Request
 php-pear-Image-Text
-php-pear-Log
 php-pear-Mail-mimeDecode
 php-pear-math-biginteger
 php-pear-MDB2-Driver-mysqli
@@ -11420,6 +11423,7 @@ plasma-systemmonitor
 plasma-systemsettings
 plasma-thunderbolt
 plasma-vault
+plasma-wallpapers-dynamic
 plasma-wayland-protocols
 plasma-welcome
 plasma-workspace
@@ -12175,7 +12179,6 @@ python-coverage_pth
 python-coverage
 python-coveralls
 python-cpio
-python-cppheaderparser
 python-cppy
 python-cradox
 python-crank
@@ -14954,6 +14957,7 @@ roca-detect
 rocalution
 rocblas
 rocclr
+rocfft
 rocksdb
 rocksndiamonds
 rocm-cmake
@@ -14965,6 +14969,7 @@ rocm-runtime
 rocm-smi
 rocprim
 rocrand
+rocsolver
 rocsparse
 rocs
 rocthrust
@@ -15820,6 +15825,7 @@ rust-bindgen0.63
 rust-biquad
 rust-bit_field
 rust-bitfield
+rust-bitfield0.13
 rust-bitflags
 rust-bitflags1
 rust-bitmaps
@@ -16327,6 +16333,7 @@ rust-fd-lock3
 rust-fedora
 rust-fedora-update-feedback
 rust-femme
+rust-fend-core
 rust-fern
 rust-ff
 rust-fiat-crypto
@@ -17000,6 +17007,7 @@ rust-mktemp
 rust-mockall_derive
 rust-mockall_double
 rust-mockall
+rust-mock_instant
 rust-mockito
 rust-mptcp-pm
 rust-msru
@@ -17074,6 +17082,7 @@ rust-num-complex
 rust-num-complex0.3
 rust-num_cpus
 rust-num-derive
+rust-num-derive0.3
 rust-num_enum_derive
 rust-num_enum
 rust-num-format
@@ -17303,6 +17312,7 @@ rust-pretty_env_logger
 rust-pretty_env_logger0.4
 rust-pretty-git-prompt
 rust-pretty-hex
+rust-pretty-hex0.3
 rust-prettyplease
 rust-prettytable-rs
 rust-primal-bit
@@ -17355,6 +17365,7 @@ rust-protobuf-codegen
 rust-protobuf
 rust-psa-crypto
 rust-psa-crypto-sys
+rust-psl
 rust-psl-types
 rust-psm
 rust-ptr_meta_derive
@@ -17494,6 +17505,7 @@ rust-ripgrep
 rust-rkyv_derive
 rust-rkyv
 rust-rle-decode-fast
+rust-rlimit
 rust-rmp-serde
 rust-rmp
 rust-rmpv
@@ -18101,8 +18113,16 @@ rust-uu_mkdir
 rust-uu_mktemp
 rust-uu_more
 rust-uu_mv
+rust-uu_nl
+rust-uu_numfmt
+rust-uu_od
+rust-uu_paste
+rust-uu_pr
 rust-uutils_term_grid
+rust-uu_true
+rust-uu_truncate
 rust-uu_whoami
+rust-uu_yes
 rust-uzers
 rust-value-bag-serde1
 rust-value-bag
@@ -18240,8 +18260,10 @@ rust-zoneinfo_compiled
 rust-zoxide
 rust-zram-generator
 rust-zstd-safe
+rust-zstd-safe6
 rust-zstd
 rust-zstd-sys
+rust-zstd0.12
 rust-zvariant_derive
 rust-zvariant_derive2
 rust-zvariant
@@ -19442,6 +19464,7 @@ virt-backup
 virt-bootstrap
 virt-lightning
 virt-manager
+virtme-ng
 virtme
 virtualbox-guest-additions
 VirtualGL
@@ -19610,6 +19633,7 @@ wl-gammactl
 wl-mirror
 wlogout
 wlopm
+wlrctl
 wlroots0.15
 wlroots0.16
 wlr-sunclock
