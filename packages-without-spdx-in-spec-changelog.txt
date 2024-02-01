@@ -352,7 +352,6 @@ avogadro2-libs
 avogadro2
 avoision
 avra
-avrdude
 awesfx
 awesome
 awesome-vim-colorschemes
@@ -446,6 +445,7 @@ biber
 biblesync
 bibletime
 biboumi
+BibTool
 bibutils
 bib2html
 bijiben
@@ -659,14 +659,12 @@ cawbird
 cbios
 cbonsai
 cbootimage
-cbrpager
 ccache
 ccdciel
 ccd2iso
 ccgo
 cciss_vol_status
 ccluster
-ccnet
 ccrtp
 ccsm
 ccze
@@ -1062,6 +1060,7 @@ dav1d
 dayplanner
 dbcsr
 dbench
+dblatex
 dbus-broker
 dbus-c++
 dbus-glib
@@ -1197,6 +1196,7 @@ diff-pdf
 diffpdf
 diff-so-fancy
 diffstat
+diffuse
 digitemp
 dillo
 ding-libs
@@ -1292,7 +1292,6 @@ dontpanic
 dosbox-staging
 dotconf
 dotnet6.0
-dotnet7.0
 dotnet8.0
 dot2tex
 doublecmd
@@ -1385,7 +1384,6 @@ earcut-hpp
 earlyoom
 easyeffects
 easyloggingpp
-easystroke
 easytag
 eblook
 ebook-tools
@@ -1881,6 +1879,7 @@ fleet-commander-client
 flent
 flexiport
 flexmark-java
+flickcurl
 FlightCrew
 FlightGear-Atlas
 FlightGear-data
@@ -2466,6 +2465,7 @@ ghc-json
 ghc-JuicyPixels
 ghc-koji
 ghc-language-c
+ghc-language-c99
 ghc-language-docker
 ghc-language-ecmascript
 ghc-language-javascript
@@ -4814,6 +4814,7 @@ grisbi
 grive2
 groff
 gromacs
+gromit-mpx
 gron
 groonga-normalizer-mysql
 groonga
@@ -5151,7 +5152,6 @@ iio-sensor-proxy
 iir1
 ike-scan
 ikiwiki
-ilbc
 ilmbase
 ilua
 ima-evm-utils
@@ -5329,9 +5329,11 @@ java-1.8.0-openjdk-aarch32
 java-1.8.0-openjdk-portable
 java-1.8.0-openjdk
 java-21-openjdk-portable
+java-21-openjdk
 jaxb-api
 jaxb-api2
 jaxen
+jbig2dec
 jblas
 jbosscache-support
 jboss-jaxrs-2.0-api
@@ -6047,6 +6049,7 @@ levien-inconsolata-fonts
 levien-museum-fonts
 levmar
 lexertl14
+lfortran
 lgogdownloader
 lhapdf
 lhasa
@@ -7959,6 +7962,7 @@ notmuch
 not-ocamlfind
 nova-agent
 novnc
+npth
 nqc
 nqp
 nrpe
@@ -8192,7 +8196,6 @@ oksh
 okteta
 oldstandard-sfd-fonts
 OliveTin
-olpc-utils
 omniORBpy
 omniORB
 ompl
@@ -8443,6 +8446,7 @@ parsec
 parsec-tool
 parserng
 parsero
+parsertl14
 partclone
 partio
 parzip
@@ -9608,6 +9612,7 @@ perl-Inline-Python
 perl-Inline-Struct
 perl-IO-All
 perl-IO-Any
+perl-IO-Async-Loop-Mojo
 perl-IO-Async
 perl-IO-Capture-Extended
 perl-IO-CaptureOutput
@@ -12046,7 +12051,6 @@ python-cartopy
 python-case
 python-casttube
 python-catkin_lint
-python-catkin_pkg
 python-catkin-sphinx
 python-cattrs
 python-cccolutils
@@ -13480,7 +13484,6 @@ python-pyModbusTCP
 python-pymod2pkg
 python-pymochad
 python-pymongo
-python-Pympler
 python-PyMunin3
 python-PyMySQL
 python-pynacl
@@ -13612,7 +13615,6 @@ python-pytest-postgresql
 python-pytest-randomly
 python-pytest-regressions
 python-pytest-relaxed
-python-pytest-repeat
 python-pytest-runner
 python-pytest-services
 python-pytest-shutil
@@ -13871,6 +13873,7 @@ python-simple-websocket
 python-singledispatch
 python-six
 python-sklearn-genetic-opt
+python-sklearn-genetic
 python-sklearn-nature-inspired-algorithms
 python-slacker
 python-slixmpp-omemo
@@ -13884,9 +13887,13 @@ python-smbpasswd
 python-smbprotocol
 python-smi
 python-smmap
+python-snakemake-executor-plugin-cluster-generic
+python-snakemake-executor-plugin-tes
 python-snakemake-interface-common
 python-snakemake-interface-executor-plugins
 python-snakemake-interface-storage-plugins
+python-snakemake-storage-plugin-http
+python-snakemake-storage-plugin-s3
 python-snappy
 python-snaptime
 python-sniffio
@@ -13931,6 +13938,7 @@ python-sphinx-hoverxref
 python-sphinx-inline-tabs
 python-sphinx-intl
 python-sphinx-issues
+python-sphinx-jsonschema
 python-sphinx-kr-theme
 python-sphinx-last-updated-by-git
 python-sphinx_lv2_theme
@@ -14008,6 +14016,7 @@ python-swiftclient
 python-sybil
 python-syrupy
 python-syslog-rfc5424-formatter
+python-sysrsync
 python-system-calls
 python-systemd
 python-sysv_ipc
@@ -14154,6 +14163,7 @@ python-unidecode
 python-unidiff
 python-unipath
 python-unpaddedbase64
+python-untangle
 python-upnpy
 python-uptime
 python-uranium
@@ -14534,6 +14544,7 @@ qt5-qtstyleplugins
 qt5-qtwebengine
 qt6ct
 qt6-doc
+qt6-qtgrpc
 qt6-qthttpserver
 qt6-qtlanguageserver
 qt6-qtlocation
@@ -15318,7 +15329,6 @@ rubygem-git
 rubygem-glib2
 rubygem-globalid
 rubygem-glu
-rubygem-glut
 rubygem-gobject-introspection
 rubygem-gssapi
 rubygem-gstreamer
@@ -15570,7 +15580,6 @@ rubygem-sqlite3
 rubygem-sshkey
 rubygems
 rubygem-sugarjar
-rubygem-syck
 rubygem-sync
 rubygem-sys-filesystem
 rubygem-systemu
@@ -15792,6 +15801,7 @@ rust-backtrace
 rust-bankstown-lv2
 rust-base-x
 rust-base16ct
+rust-base32
 rust-base64ct
 rust-base64
 rust-base64_0.12
@@ -15861,6 +15871,7 @@ rust-bstr0.2
 rust-btoi
 rust-btrd
 rust-buffered-reader
+rust-buf-min
 rust-bufstream
 rust-bugreport
 rust-build-context
@@ -15885,6 +15896,7 @@ rust-byte-unit
 rust-byte-unit3
 rust-bzip2
 rust-bzip2-sys
+rust-b3sum
 rust-cachedir
 rust-cache-padded
 rust-cairo-rs
@@ -15929,6 +15941,7 @@ rust-cbindgen
 rust-cbindgen0.24
 rust-cc
 rust-cdylib-link-lines
+rust-cedarwood
 rust-cexpr
 rust-cfb
 rust-cfg_aliases
@@ -15987,6 +16000,7 @@ rust-color_quant
 rust-combine
 rust-comfy-table
 rust-compact_str
+rust-compare
 rust-compress-tools
 rust-comrak
 rust-concat-idents
@@ -16242,15 +16256,9 @@ rust-elliptic-curve
 rust-email-encoding
 rust-ena
 rust-encode_unicode
-rust-encoding-index-japanese
-rust-encoding-index-korean
-rust-encoding-index-simpchinese
-rust-encoding-index-singlebyte
 rust-encoding_index_tests
-rust-encoding-index-tradchinese
 rust-encoding_rs_io
 rust-encoding_rs
-rust-encoding
 rust-endian-type
 rust-enquote
 rust-entities
@@ -16384,6 +16392,8 @@ rust-fsio
 rust-fslock
 rust-fs-set-times
 rust-fs2
+rust-fundu-core
+rust-fundu
 rust-funty
 rust-futf
 rust-futures-core
@@ -16884,6 +16894,7 @@ rust-libudev-sys
 rust-libxml
 rust-libz-sys
 rust-lib0
+rust-lifeguard
 rust-line-numbers
 rust-line-wrap
 rust-link-cplusplus
@@ -17054,6 +17065,7 @@ rust-noop_proc_macro
 rust-no-panic
 rust-normalize-line-endings
 rust-normpath
+rust-notify-debouncer-full
 rust-notify-debouncer-mini
 rust-notify-debouncer-mini0.2
 rust-notify-rust
@@ -17286,6 +17298,7 @@ rust-png0.16
 rust-polling
 rust-polling2
 rust-polyval
+rust-poly1305
 rust-pom
 rust-pore
 rust-pori
@@ -17587,6 +17600,9 @@ rust-scrypt
 rust-scrypt0.8
 rust-sctk-adwaita
 rust-sct
+rust-scx_layered
+rust-scx_rustland
+rust-scx_rusty
 rust-scx_utils
 rust-sd-notify
 rust-sd
@@ -17597,6 +17613,7 @@ rust-secret-service
 rust-sec1
 rust-selectors
 rust-self_cell
+rust-selinux
 rust-selinux-sys
 rust-semver-parser
 rust-semver-parser0.9
@@ -17951,6 +17968,7 @@ rust-toml
 rust-toml0.4
 rust-toml0.5
 rust-toml0.7
+rust-topological-sort
 rust-tower-http
 rust-tower-layer
 rust-tower-service
@@ -18117,10 +18135,34 @@ rust-uu_nl
 rust-uu_numfmt
 rust-uu_od
 rust-uu_paste
+rust-uu_printenv
+rust-uu_printf
 rust-uu_pr
+rust-uu_ptx
+rust-uu_pwd
+rust-uu_readlink
+rust-uu_realpath
+rust-uu_rmdir
+rust-uu_rm
+rust-uu_seq
+rust-uu_shred
+rust-uu_sleep
+rust-uu_split
+rust-uu_sum
+rust-uu_tac
+rust-uu_tail
+rust-uu_tee
+rust-uu_test
 rust-uutils_term_grid
+rust-uu_touch
+rust-uu_tr
 rust-uu_true
 rust-uu_truncate
+rust-uu_tsort
+rust-uu_unexpand
+rust-uu_uniq
+rust-uu_unlink
+rust-uu_wc
 rust-uu_whoami
 rust-uu_yes
 rust-uzers
@@ -18196,6 +18238,7 @@ rust-wezterm-color-types
 rust-wezterm-dynamic-derive
 rust-wezterm-dynamic
 rust-which
+rust-which4
 rust-whoami
 rust-wide
 rust-widestring
@@ -18398,7 +18441,6 @@ SDL2_net
 SDL2_Pango
 SDL2_sound
 SDL2
-SDL2_ttf
 sdorfehs
 sdparm
 sdrangel
@@ -18455,6 +18497,7 @@ sexpp
 sextractor
 SFCGAL
 sfnt2woff-zopfli
+sfsexp
 sfxr
 sgtk-menu
 sg3_utils
@@ -19228,7 +19271,6 @@ typespeed
 typetogether-literata-fonts
 typetype-molot-fonts
 tytools
-tzdata
 t1lib
 t1utils
 uARMSolver

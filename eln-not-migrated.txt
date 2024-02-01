@@ -1,8 +1,8 @@
 389-ds-base
 PyQt-builder
 Xaw3d
+autoconf213
 bacula
-beakerlib
 bind-dyndb-ldap
 bluez
 bolt
@@ -35,13 +35,14 @@ exec-maven-plugin
 exempi
 fabtests
 file
-fprintd
+firefox
 freerdp
 freetype
 gcab
 gcc
 gdisk
 gdk-pixbuf2
+gflags
 giflib
 glibc
 glibc32
@@ -58,7 +59,6 @@ gnu-efi
 gnulib
 golang-github-cpuguy83-md2man
 gom
-graphviz
 grilo
 grilo-plugins
 gsl
@@ -72,15 +72,12 @@ iio-sensor-proxy
 ima-evm-utils
 iperf3
 iprutils
-irssi
 java-17-openjdk
 jdependency
 jitterentropy
 jq
-kernel-srpm-macros
 keylime
 lasso
-lcms2
 leptonica
 less
 libcdio
@@ -101,7 +98,6 @@ libnsl2
 libpng
 librabbitmq
 libsmbios
-libteam
 libtheora
 libtiff
 libtimezonemap
@@ -120,7 +116,6 @@ lsscsi
 ltrace
 lua-posix
 lvm2
-lzo
 mallard-rng
 mariadb
 maven-shade-plugin
@@ -164,7 +159,6 @@ plotutils
 poppler
 popt
 potrace
-ppp
 pulseaudio
 pybind11
 pyelftools
@@ -202,7 +196,6 @@ rdma-core
 rear
 rng-tools
 rpcsvc-proto
-rrdtool
 ruby
 rubygem-eventmachine
 rubygem-rubyzip
@@ -234,15 +227,12 @@ toolbox
 totem
 totem-pl-parser
 ttembed
-tzdata
 udisks2
 util-linux
 virt-who
 vte291
 web-assets
-webkitgtk
 wireless-regdb
-xdg-dbus-proxy
 xdg-desktop-portal
 xmlrpc-c
 xz

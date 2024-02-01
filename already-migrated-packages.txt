@@ -182,6 +182,7 @@ aqute-bnd
 ara
 arbor
 arb
+arc-gui-clients
 arc-kde
 ardour6
 ardour7
@@ -290,6 +291,7 @@ autorestic
 autotrace
 avahi
 avr-binutils
+avrdude
 avr-gcc
 avr-libc
 awscli2
@@ -491,6 +493,7 @@ catch22
 cave9
 cbmc
 cbonsai
+cbrpager
 ccdciel
 CCfits
 cciss_vol_status
@@ -519,6 +522,7 @@ cfn-lint
 cgit
 cglib
 cgnslib
+CGSI-gSOAP
 c-icap-modules
 c-icap
 cifs-utils
@@ -663,6 +667,7 @@ cracklib
 crash-gcore-command
 crash
 crash-trace-command
+crawl
 create-fake-rpm
 createrepo-agent
 createrepo_c
@@ -845,7 +850,6 @@ dolphin
 dosbox-staging
 dosfstools
 dos2unix
-dotnet7.0
 dotnet8.0
 dot2tex
 doublecmd
@@ -1120,6 +1124,7 @@ fox
 fparser
 fpc-srpm-macros
 fplus
+fprintd
 FP16
 fractal
 frama-c
@@ -1618,6 +1623,7 @@ ghc-JuicyPixels
 ghc-kan-extensions
 ghc-koji
 ghc-language-c
+ghc-language-c99
 ghc-language-docker
 ghc-language-ecmascript
 ghc-language-javascript
@@ -2650,6 +2656,7 @@ grantlee
 grantleetheme
 graphene
 graphite2
+graphviz
 grass
 greenboot
 greetd
@@ -2659,6 +2666,7 @@ grib_api
 gridsite
 grim
 groff
+gromit-mpx
 groonga-normalizer-mysql
 groonga
 grpc
@@ -2672,6 +2680,7 @@ gsettings-desktop-schemas
 gsi-openssh
 gsl-lite
 gsm
+gsoap
 gsound
 gspell
 gst-devtools
@@ -2699,6 +2708,7 @@ gtk+
 gtkspellmm30
 gtkspell
 gtkspell3
+gtkterm
 gtk-vnc
 gtkwave
 gtk2hs-buildtools
@@ -3052,6 +3062,7 @@ ignition
 igraph
 iir1
 ii
+ilbc
 ilua
 imagej
 imath
@@ -3111,6 +3122,7 @@ iputils
 ipvsadm
 ipxe
 irqbalance
+irssi
 isa-l
 iscsi-initiator-utils
 isns-utils
@@ -3164,6 +3176,7 @@ javassist
 java-11-openjdk-portable
 java-1.8.0-openjdk-portable
 java-21-openjdk-portable
+java-21-openjdk
 jaxb-api
 jaxb-api2
 jaxb-dtd-parser
@@ -3226,6 +3239,7 @@ jsr-305
 jss
 jstest-gtk
 Judy
+juk
 julietaula-montserrat-fonts
 JUnitParams
 junit
@@ -3294,6 +3308,7 @@ kemie-bellota-fonts
 kernel-headers
 kernelshark
 kernel
+kernel-srpm-macros
 kernel-tools
 kexec-tools
 kexi
@@ -3603,6 +3618,7 @@ lazarus
 lazpaint
 lazygal
 lcms
+lcms2
 lcov
 ldapjdk
 ldc1.32
@@ -3614,6 +3630,7 @@ legofy
 leland-fonts
 lemonldap-ng
 lexertl14
+lfortran
 lfsc
 lftp
 L-function
@@ -4003,6 +4020,7 @@ libtalloc
 libtasn1
 libtbox
 libtdb
+libteam
 libtevent
 libtexprintf
 libthai
@@ -4233,6 +4251,7 @@ lziprecover
 lzip
 lzma-sdk
 lzop
+lzo
 lz4
 Macaulay2
 mac
@@ -4427,6 +4446,7 @@ mingw-pixman
 mingw-python-blinker
 mingw-python-build
 mingw-python-click
+mingw-python-flask
 mingw-python-flit-core
 mingw-python-homography
 mingw-python-idna
@@ -5136,6 +5156,7 @@ pari-seadata
 pari
 parlaylib
 parserng
+parsertl14
 par
 partclone
 parted
@@ -5197,6 +5218,7 @@ perl-Algorithm-Cron
 perl-Algorithm-C3
 perl-Algorithm-Dependency
 perl-Algorithm-Diff
+perl-Algorithm-Diff-XS
 perl-Algorithm-IncludeExclude
 perl-Algorithm-Merge
 perl-aliased
@@ -5532,6 +5554,7 @@ perl-Date-Simple
 perl-DateTime-Calendar-Mayan
 perl-DateTime-Event-ICal
 perl-DateTime-Event-Recurrence
+perl-DateTime-Format-Atom
 perl-DateTime-Format-Builder
 perl-DateTime-Format-DateParse
 perl-DateTime-Format-DBI
@@ -5650,6 +5673,7 @@ perl-Dist-Metadata
 perl-Dist-Milla
 perl-Dist-Zilla-App-Command-cover
 perl-Dist-Zilla-Plugin-GithubMeta
+perl-Dist-Zilla-Plugin-Git
 perl-Dist-Zilla-Plugin-ModuleBuildTiny
 perl-Dist-Zilla-Plugin-PodWeaver
 perl-Dist-Zilla-Plugin-Test-Compile
@@ -5817,6 +5841,7 @@ perl-gettext
 perl-GIS-Distance-Fast
 perl-GIS-Distance
 perl-Git-CPAN-Patch
+perl-Git-Repository-Plugin-AUTOLOAD
 perl-Glib-IO
 perl-Glib-Object-Introspection
 perl-Glib
@@ -5911,6 +5936,7 @@ perl-Inline-Python
 perl-Inline
 perl-IO-AIO
 perl-IO-All
+perl-IO-Async-Loop-Mojo
 perl-IO-CaptureOutput
 perl-IO-Compress-Brotli
 perl-IO-Compress-Lzma
@@ -7120,6 +7146,7 @@ pianobar
 picard
 piccata
 pick
+picom
 picosat
 pidgin-sipe
 pigz
@@ -7241,6 +7268,7 @@ po4a
 ppc64-diag
 pplite
 ppl
+ppp
 pps-tools
 pptp
 pqmarble
@@ -7469,6 +7497,7 @@ python-calcephpy
 python-canonicaljson
 pythoncapi-compat
 python-cartopy
+python-catkin_pkg
 python-catkin_tools
 python-cattrs
 python-cbor2
@@ -7958,6 +7987,7 @@ python-mistune08
 python-mizani
 python-mmtf
 python-mne-bids
+python-mne
 python-mock
 python-moddb
 python-mpd2
@@ -8197,6 +8227,7 @@ python-pylsqpack
 python-pymapvbvd
 python-pymaven-patch
 python-pymediawiki
+python-Pympler
 python-pymssql
 python-PyMunin3
 python-PyMuPDF
@@ -8258,6 +8289,7 @@ python-pytest-postgresql
 python-pytest-regressions
 python-pytest-relaxed
 python-pytest-remotedata
+python-pytest-repeat
 python-pytest-rerunfailures
 python-pytest-subtests
 python-pytest-testinfra
@@ -8389,9 +8421,13 @@ python-smartypants
 python-smbc
 python-smbpasswd
 python-smmap
+python-snakemake-executor-plugin-cluster-generic
+python-snakemake-executor-plugin-tes
 python-snakemake-interface-common
 python-snakemake-interface-executor-plugins
 python-snakemake-interface-storage-plugins
+python-snakemake-storage-plugin-http
+python-snakemake-storage-plugin-s3
 python-sniffio
 python-social-auth-core
 python-socketio
@@ -8420,6 +8456,7 @@ python-sphinxext-rediraffe
 python-sphinx-gallery
 python-sphinx-inline-tabs
 python-sphinx-issues
+python-sphinx-jsonschema
 python-sphinx-markdown-tables
 python-sphinx-math-dollar
 python-sphinx-mdinclude
@@ -8462,6 +8499,7 @@ python-swagger-spec-validator
 python-swiftclient
 python-syrupy
 python-syslog-rfc5424-formatter
+python-sysrsync
 python-system-calls
 python-systemd
 python-s3transfer
@@ -8537,6 +8575,7 @@ python-uhashring
 python-ujson
 python-ukkonen
 python-unicodedata2
+python-untangle
 python-uranium
 python-uri-template
 python-uritools
@@ -8673,6 +8712,7 @@ qr-code-generator
 qrtr
 qsf
 qsopt-ex
+qstardict
 qsynth
 qt-creator
 qtile
@@ -8720,6 +8760,7 @@ qt6-qtbase
 qt6-qtconnectivity
 qt6-qtdatavis3d
 qt6-qtdeclarative
+qt6-qtgrpc
 qt6-qthttpserver
 qt6-qtcharts
 qt6-qtimageformats
@@ -8915,6 +8956,7 @@ rp-pppoe
 rpy
 R-qtl
 R-Rcpp
+rrdtool
 R-RInside
 R-rJava
 R-rlecuyer
@@ -9484,6 +9526,7 @@ rust-backtrace
 rust-bankstown-lv2
 rust-base-x
 rust-base16ct
+rust-base32
 rust-base64ct
 rust-base64
 rust-base64_0.12
@@ -9552,6 +9595,7 @@ rust-bstr
 rust-bstr0.2
 rust-btoi
 rust-buffered-reader
+rust-buf-min
 rust-bufstream
 rust-bugreport
 rust-build-context
@@ -9576,6 +9620,7 @@ rust-byte-unit
 rust-byte-unit3
 rust-bzip2
 rust-bzip2-sys
+rust-b3sum
 rust-cachedir
 rust-cache-padded
 rust-cairo-rs
@@ -9620,6 +9665,7 @@ rust-cbindgen
 rust-cbindgen0.24
 rust-cc
 rust-cdylib-link-lines
+rust-cedarwood
 rust-cexpr
 rust-cfb
 rust-cfg_aliases
@@ -9678,6 +9724,7 @@ rust-color_quant
 rust-combine
 rust-comfy-table
 rust-compact_str
+rust-compare
 rust-compress-tools
 rust-comrak
 rust-concat-idents
@@ -9932,15 +9979,9 @@ rust-elliptic-curve
 rust-email-encoding
 rust-ena
 rust-encode_unicode
-rust-encoding-index-japanese
-rust-encoding-index-korean
-rust-encoding-index-simpchinese
-rust-encoding-index-singlebyte
 rust-encoding_index_tests
-rust-encoding-index-tradchinese
 rust-encoding_rs_io
 rust-encoding_rs
-rust-encoding
 rust-endian-type
 rust-enquote
 rust-entities
@@ -10074,6 +10115,8 @@ rust-fsio
 rust-fslock
 rust-fs-set-times
 rust-fs2
+rust-fundu-core
+rust-fundu
 rust-funty
 rust-futf
 rust-futures-core
@@ -10572,6 +10615,7 @@ rust-libudev-sys
 rust-libxml
 rust-libz-sys
 rust-lib0
+rust-lifeguard
 rust-line-numbers
 rust-line-wrap
 rust-link-cplusplus
@@ -10740,6 +10784,7 @@ rust-noop_proc_macro
 rust-no-panic
 rust-normalize-line-endings
 rust-normpath
+rust-notify-debouncer-full
 rust-notify-debouncer-mini
 rust-notify-debouncer-mini0.2
 rust-notify-rust
@@ -10972,6 +11017,7 @@ rust-png0.16
 rust-polling
 rust-polling2
 rust-polyval
+rust-poly1305
 rust-pom
 rust-pore
 rust-pori
@@ -11270,6 +11316,9 @@ rust-scrypt
 rust-scrypt0.8
 rust-sctk-adwaita
 rust-sct
+rust-scx_layered
+rust-scx_rustland
+rust-scx_rusty
 rust-scx_utils
 rust-sd-notify
 rust-sd
@@ -11280,6 +11329,7 @@ rust-secret-service
 rust-sec1
 rust-selectors
 rust-self_cell
+rust-selinux
 rust-selinux-sys
 rust-semver-parser
 rust-semver-parser0.9
@@ -11630,6 +11680,7 @@ rust-toml
 rust-toml0.4
 rust-toml0.5
 rust-toml0.7
+rust-topological-sort
 rust-tower-http
 rust-tower-layer
 rust-tower-service
@@ -11795,10 +11846,34 @@ rust-uu_nl
 rust-uu_numfmt
 rust-uu_od
 rust-uu_paste
+rust-uu_printenv
+rust-uu_printf
 rust-uu_pr
+rust-uu_ptx
+rust-uu_pwd
+rust-uu_readlink
+rust-uu_realpath
+rust-uu_rmdir
+rust-uu_rm
+rust-uu_seq
+rust-uu_shred
+rust-uu_sleep
+rust-uu_split
+rust-uu_sum
+rust-uu_tac
+rust-uu_tail
+rust-uu_tee
+rust-uu_test
 rust-uutils_term_grid
+rust-uu_touch
+rust-uu_tr
 rust-uu_true
 rust-uu_truncate
+rust-uu_tsort
+rust-uu_unexpand
+rust-uu_uniq
+rust-uu_unlink
+rust-uu_wc
 rust-uu_whoami
 rust-uu_yes
 rust-uzers
@@ -11874,6 +11949,7 @@ rust-wezterm-color-types
 rust-wezterm-dynamic-derive
 rust-wezterm-dynamic
 rust-which
+rust-which4
 rust-whoami
 rust-wide
 rust-widestring
@@ -12028,6 +12104,7 @@ SDL_ttf
 SDL2_gfx
 SDL2_Pango
 SDL2
+SDL2_ttf
 sdorfehs
 sdsl-lite
 sdubby
@@ -12259,6 +12336,7 @@ subunit
 subversion
 sudo
 suitesparse
+sundials
 sunpinyin
 supermin
 supertuxkart
@@ -12459,6 +12537,7 @@ typescript
 typesetit-great-vibes-fonts
 typetogether-literata-fonts
 tzclock
+tzdata
 t4k_common
 uacme
 ubdsrv
@@ -12682,6 +12761,7 @@ wlsunset
 wmweather+
 woff
 woff2
+wordgrinder
 wordnet
 wordpress
 words
@@ -12722,6 +12802,7 @@ xclipboard
 xclock
 xcowsay
 xcursorgen
+xdg-dbus-proxy
 xdg-desktop-portal-gnome
 xdg-desktop-portal-gtk
 xdg-desktop-portal-hyprland
