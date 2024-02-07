@@ -2568,6 +2568,7 @@ fuelmanager
 functionalplus
 funguloids
 funionfs
+furnace
 fuse-btfs
 fuse-emulator
 fuse-emulator-utils
@@ -3745,6 +3746,7 @@ gnome-phone-manager
 gnome-photos
 gnome-pkg-tools
 gnome-pomodoro
+gnome-ponytail-daemon
 gnome-power-manager
 gnome-radio
 gnome-rdp
@@ -4007,6 +4009,7 @@ golang-github-beevik-ntp
 golang-github-benbjohnson-clock
 golang-github-beorn7-perks
 golang-github-bep-clock
+golang-github-bep-clocks
 golang-github-bep-debounce
 golang-github-bep-gitmap
 golang-github-bep-goat
@@ -4016,6 +4019,7 @@ golang-github-bep-golibsass
 golang-github-bep-gowebp
 golang-github-bep-helpers
 golang-github-bep-lazycache
+golang-github-bep-logg
 golang-github-bep-mclib
 golang-github-bep-overlayfs
 golang-github-bep-simplecobra
@@ -6750,7 +6754,6 @@ kernel-headers
 kernelshark
 kernel
 kernel-srpm-macros
-kernel-tools
 kexec-tools
 kexi
 keybinder
@@ -7005,7 +7008,6 @@ kirc
 kirigami-gallery
 kiriki
 kismet
-kismon
 kissat
 kiss-fft
 kiss
@@ -8105,6 +8107,7 @@ libwmf
 libwnck
 libwnck3
 libwpd
+libwpe
 libwpg
 libwps
 libwvstreams
@@ -8572,6 +8575,7 @@ mariadb-connector-c
 mariadb-connector-odbc
 mariadb-java-client
 mariadb
+mariadb10.11
 marisa
 markdownpart
 marked
@@ -8815,7 +8819,6 @@ mingw-curl
 mingw-Cython
 mingw-dbus-glib
 mingw-dbus
-mingw-dirac
 mingw-djvulibre
 mingw-dlfcn
 mingw-drmingw
@@ -9119,6 +9122,7 @@ mirrormanager2
 mir
 mISDN
 mkbootdisk
+mk-configure
 mk-files
 mkfontscale
 mkosi-initrd
@@ -10140,6 +10144,7 @@ OpenStego
 opensubdiv
 opensurge
 opentest4j
+opentofu
 opentoonz
 opentrep
 openttd-opengfx
@@ -12977,6 +12982,7 @@ perl-Test-Email
 perl-Test-EOL
 perl-Test-Exception
 perl-Test-Exit
+perl-Test-ExpectAndCheck
 perl-Test-Expect
 perl-Test-Exports
 perl-Test-FailWarnings
@@ -14023,8 +14029,10 @@ plexus-languages
 plexus-pom
 plexus-resources
 plexus-sec-dispatcher
+plexus-testing
 plexus-utils
 plexus-velocity
+plexus-xml
 plib
 plocate
 plog
@@ -14387,6 +14395,7 @@ python-aiogqlc
 python-aiohomekit
 python-aiohttp-cors
 python-aiohttp-negotiate
+python-aiohttp-oauthlib
 python-aiohttp-retry
 python-aiohttp-socks
 python-aiohttp
@@ -15367,6 +15376,7 @@ python-hglib
 python-hidapi
 python-hid-parser
 python-hikvision
+python-hiredis
 python-hl7
 python-hole
 python-homeconnect
@@ -15399,6 +15409,7 @@ python-hupper
 python-husl
 python-hvac
 python-hwdata
+python-hypercorn
 python-hyperframe
 python-hyperkitty
 python-hyperlink
@@ -15709,7 +15720,6 @@ python-matrix-common
 python-matrix-nio
 python-matrix-synapse-ldap3
 python-maxminddb
-python-maya
 python-mbstrdecoder
 python-mccabe
 python-mdit-py-plugins
@@ -16437,6 +16447,7 @@ python-pytest-watch
 python-pytest-xdist
 python-pytest-xprocess
 python-pytest-xvfb
+python-python-ulid
 python-pytile
 python-pytimeparse
 python-pytn3270
@@ -16827,6 +16838,7 @@ python-sqlalchemy-filters
 python-sqlalchemy_schemadisplay
 python-sqlalchemy
 python-sqlalchemy-utils
+python-sqlalchemy1.4
 python-sqlglot
 python-sqlparse
 python-sql
@@ -18400,7 +18412,6 @@ rubygem-hiredis
 rubygem-hitimes
 rubygem-hocon
 rubygem-hoe
-rubygem-hrx
 rubygem-htmlentities
 rubygem-http-accept
 rubygem-httparty
@@ -18441,7 +18452,6 @@ rubygem-kramdown-syntax-coderay
 rubygem-krb5-auth
 rubygem-launchy
 rubygem-levenshtein
-rubygem-linked-list
 rubygem-liquid
 rubygem-listen
 rubygem-locale
@@ -18919,13 +18929,13 @@ rust-bitmaps
 rust-bitreader
 rust-bit-set
 rust-bitstream-io
-rust-bitstream-io1
 rust-bitvec_helpers
 rust-bit-vec
 rust-bitvec
 rust-blake2b_simd
 rust-blake2
 rust-blake3
+rust-blanket
 rust-blobby
 rust-blobby0.1
 rust-block-buffer
@@ -19273,6 +19283,7 @@ rust-difftastic
 rust-digest_auth
 rust-digest
 rust-digest0.9
+rust-dircpy
 rust-directories-next
 rust-directories
 rust-directories3
@@ -19534,7 +19545,6 @@ rust-ghash
 rust-gh-emoji
 rust-ghost
 rust-gif
-rust-gif0.11
 rust-gimli
 rust-gimoji
 rust-gio
@@ -19792,7 +19802,6 @@ rust-ignore
 rust-imagequant
 rust-imagequant-sys
 rust-image
-rust-image0.23
 rust-imara-diff
 rust-imperative
 rust-impl-more
@@ -19872,7 +19881,6 @@ rust-joinery
 rust-joinery2
 rust-josekit
 rust-jpeg-decoder
-rust-jpeg-decoder0.1
 rust-jql-parser
 rust-jql-runner
 rust-jql
@@ -20090,7 +20098,6 @@ rust-minimad
 rust-minimal-lexical
 rust-miniz_oxide
 rust-miniz_oxide0.3
-rust-miniz_oxide0.5
 rust-mint
 rust-minus
 rust-mio-extras
@@ -20235,7 +20242,6 @@ rust-os_display
 rust-os_info
 rust-osmesa-sys
 rust-os_pipe
-rust-os_pipe0.9
 rust-os-release
 rust-os_str_bytes
 rust-os_type
@@ -20677,6 +20683,7 @@ rust-safe-transmute
 rust-salsa20
 rust-salsa20_0.9
 rust-same-file
+rust-sanitize-filename
 rust-sarif-fmt
 rust-scan_fmt
 rust-scoped_threadpool
@@ -20725,6 +20732,7 @@ rust-sequoia-sq
 rust-sequoia-sqv
 rust-sequoia-wot
 rust-serde-big-array
+rust-serde-big-array0.4
 rust-serde_bser
 rust-serde_buf
 rust-serde_bytes
@@ -20997,7 +21005,6 @@ rust-thread_local
 rust-threadpool
 rust-thread-tree
 rust-tiff
-rust-tiff0.6
 rust-tiger
 rust-timeago
 rust-timebomb
@@ -21344,7 +21351,6 @@ rust-widestring
 rust-wild
 rust-winit
 rust-winnow
-rust-winnow0.4
 rust-wl-clipboard-rs
 rust-wmidi
 rust-wu-diff
@@ -21638,8 +21644,6 @@ sensible-utils
 sen
 sentencepiece
 sepolicy_analysis
-seqan
-seqan2
 seqan3
 sequeler
 sequence-library
@@ -22144,7 +22148,6 @@ sugar-yupana
 suil
 suitesparse
 sundials
-sundials2
 sunpinyin
 sunwait
 sunxi-tools
@@ -22178,6 +22181,7 @@ swatchdog
 swatch
 swaybg
 sway-config-fedora
+sway-contrib
 swayidle
 swaylock
 sway
@@ -22210,6 +22214,7 @@ synapse
 syncevolution
 synce4l
 syncthing
+syndication-domination
 synergy
 synfig
 synfigstudio
@@ -23109,7 +23114,6 @@ wireguard-tools
 wireless-regdb
 wireplumber
 wireshark
-wise2
 withlock
 wkhtmltopdf
 wl-clipboard
@@ -23159,6 +23163,7 @@ worminator
 wpan-tools
 wpa_supplicant
 wp-cli
+wpebackend-fdo
 wqy-bitmap-fonts
 wqy-microhei-fonts
 wqy-unibit-fonts

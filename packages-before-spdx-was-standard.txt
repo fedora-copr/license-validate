@@ -97,7 +97,6 @@ am-utils
 anaconda-realmd
 anagramarama
 analitza
-anarch
 android-tools
 anet
 angband
@@ -590,7 +589,6 @@ cockpit-machines
 cockpit-navigator
 cockpit-ostree
 cockpit-podman
-cockpit-session-recording
 cockpit
 cocot
 codeblocks
@@ -742,7 +740,6 @@ CubicSDR
 cuetools
 cups-filters
 cups-pdf
-cups-pk-helper
 cups-x2go
 cura
 curlftpfs
@@ -790,8 +787,6 @@ dbus
 dcfldd
 dcmtk
 dcm2niix
-dconf-editor
-dconf
 dcw-gmt
 dc3dd
 ddate
@@ -1307,7 +1302,6 @@ et
 eureka
 eurephia
 eventlog
-evince
 exaile
 examiner
 exec-maven-plugin
@@ -1438,7 +1432,6 @@ fig2ps
 filebench
 filedrop
 file-roller
-file
 fillets-ng-data
 fillets-ng
 fips
@@ -1509,7 +1502,6 @@ fortune-firefly
 fortune-mod
 fossil
 foundation-icons-fonts
-four-in-a-row
 FoXlibf
 foxtrotgps
 fpart
@@ -1536,7 +1528,6 @@ freerdp2
 freerouting
 FreeSOLID
 freetds
-freetype
 freewrl
 freeze
 free42
@@ -1679,7 +1670,6 @@ genius
 genromfs
 gentoo
 GeographicLib
-geometry-hpp
 geomview
 geos
 gerbv
@@ -1991,7 +1981,6 @@ gnome-desktop-testing
 gnome-desktop3
 gnome-devel-docs
 gnome-dictionary
-gnome-directory-thumbnailer
 gnome-disk-utility
 gnome-do
 gnome-epub-thumbnailer
@@ -2004,14 +1993,11 @@ gnome-icon-theme
 gnome-initial-setup
 gnome-js-common
 gnome-keyring-sharp
-gnome-keyring
 gnome-kiosk
 gnome-klotski
-gnome-kra-ora-thumbnailer
 gnome-mahjongg
 gnome-maps
 gnome-mime-data
-gnome-mines
 gnome-monitor-config
 gnome-multi-writer
 gnome-music
@@ -2037,7 +2023,6 @@ gnome-shell-extension-gamemode
 gnome-shell-extension-gsconnect
 gnome-shell-extension-just-perfection
 gnome-shell-extension-netspeed
-gnome-shell-extension-openweather
 gnome-shell-extension-pidgin
 gnome-shell-extension-pop-shell
 gnome-shell-extension-refresh-wifi
@@ -2051,7 +2036,6 @@ gnome-subtitles
 gnome-sudoku
 gnome-system-log
 gnome-system-monitor
-gnome-taquin
 gnome-terminal
 gnome-tetravex
 gnome-text-editor
@@ -3525,7 +3509,6 @@ grhino
 gr-hpsdr
 gridloc
 grilo-plugins
-grilo
 grimmer-proggy-squaresz-fonts
 grimmer-proggy-tinysz-fonts
 grin
@@ -3557,7 +3540,6 @@ gsoap
 gspell
 gssdp
 gssntlmssp
-gssproxy
 gstreamermm
 gstreamer-plugins-espeak
 gstreamer-plugins-fc
@@ -3624,7 +3606,6 @@ gvfs
 gv
 gwebsockets
 gxemul
-gxkb
 gxmms2
 gyazo
 gydl
@@ -3748,9 +3729,6 @@ ibm-plex-fonts
 ibp
 ibsim
 ibus-cangjie
-ibus-fep
-ibus-kkc
-ibus-unikey
 icc-profiles-basiccolor-printing2009
 icc-profiles-openicc
 icebreaker
@@ -3955,7 +3933,6 @@ jpeginfo
 jpegoptim
 jpilot-backup
 jpnevulator
-jq
 jreen
 jsch-agent-proxy
 js-jquery-mousewheel
@@ -4126,7 +4103,6 @@ kio-upnp-ms
 kirc
 kirigami-gallery
 kiriki
-kismon
 kiss-fft
 kiss
 kita
@@ -4313,7 +4289,6 @@ lensfun
 leonidas-backgrounds
 leonidas-kde-theme
 leptonica
-less
 leveldb
 levien-inconsolata-fonts
 levien-museum-fonts
@@ -4355,7 +4330,6 @@ libcaca
 libcangjie
 libccd
 libcdaudio
-libcddb
 libcdio-paranoia
 libcdio
 libcerf
@@ -4369,7 +4343,6 @@ libclaw
 libcloudproviders
 libcmpiutil
 libcoap
-libCombine
 libcompizconfig
 libconfig
 libcorrect
@@ -4404,7 +4377,6 @@ libdvbpsi
 libdv
 libdxfrw
 libeatmydata
-libebml
 libecb
 libeconf
 libecpint
@@ -4455,7 +4427,6 @@ libglpng
 libgnomecanvasmm26
 libgnomecanvas
 libgnome-games-support
-libgnomekbd
 libgnome-keyring
 libgnome
 libgnt
@@ -4541,7 +4512,6 @@ libmatroska
 libmawk
 libmaxminddb
 libmcrypt
-libmediaart
 libmediainfo
 libmemcached-awesome
 libmetal
@@ -4728,7 +4698,6 @@ libva-utils
 libva-vdpau-driver
 libva-v4l2-request
 libvdpau-va-gl
-libverto
 libvidcap
 libvirt-cim
 libvirt-java
@@ -4747,6 +4716,7 @@ libwfut
 libwhirlpool
 libwiimote
 libwnck
+libwpe
 libwvstreams
 libXcm
 libxc
@@ -5013,6 +4983,7 @@ mapserver
 marble
 marco
 mariadb
+mariadb10.11
 marked
 marker
 marsshooter
@@ -5152,7 +5123,6 @@ mingw-crossreport
 mingw-curl
 mingw-dbus-glib
 mingw-dbus
-mingw-dirac
 mingw-dlfcn
 mingw-drmingw
 mingw-expat
@@ -5477,7 +5447,6 @@ mpop
 mppenc
 mpqc
 mpris-scrobbler
-mp
 mpssh
 mp3fs
 mp3gain
@@ -5511,7 +5480,6 @@ multitail
 multiwatch
 mum-hash
 MUMPS
-munge
 munin
 muParser
 mupen64plus
@@ -5590,7 +5558,6 @@ neo
 neovim-qt
 nes_ntsc
 ne
-nest
 netatalk
 netbox
 netbsd-iscsi
@@ -5796,7 +5763,6 @@ octave-zmat
 octomap
 oct2spec
 oddjob-gpupdate
-ode
 odfpy
 odhcp6c
 odt2txt
@@ -5879,7 +5845,6 @@ openmpi
 openms
 openmsx
 open-mtools
-openni-primesense
 openni
 OpenNL
 openocd
@@ -5895,7 +5860,6 @@ openscad
 OpenSceneGraph
 open-sendmail
 openslide
-opensm
 opensmtpd
 openspecfun
 openssh-ldap-authkeys
@@ -5939,7 +5903,6 @@ osmctools
 osm-gps-map
 osmo-fl2k
 osmo
-osm2pgsql
 ossobuffo-jura-fonts
 ostrichriders
 otf2bdf
@@ -6055,7 +6018,6 @@ pem
 pepc
 PerceptualDiff
 percolator
-perftest
 perl-Acme-Alien-DontPanic
 perl-Acme-Alien-DontPanic2
 perl-Acme-Damn
@@ -6084,7 +6046,6 @@ perl-AnyData
 perl-AnyEvent-AIO
 perl-AnyEvent-CacheDNS
 perl-AnyEvent-DBus
-perl-AnyEvent-HTTP-Server
 perl-AnyEvent-HTTP
 perl-Any-URI-Escape
 perl-Apache-Htpasswd
@@ -6169,7 +6130,6 @@ perl-Catalyst-Controller-HTML-FormFu
 perl-Catalyst-Devel
 perl-Catalyst-Engine-Apache
 perl-Catalyst-Helper-FastCGI-ExternalServer
-perl-Catalyst-Manual
 perl-Catalyst-Model-Adaptor
 perl-Catalyst-Model-DBIC-Schema
 perl-Catalyst-Model-XMLRPC
@@ -6443,7 +6403,6 @@ perl-DepGen-Perl-Tests
 perl-Devel-ArgNames
 perl-Devel-Autoflush
 perl-Devel-Caller-IgnoreNamespaces
-perl-Devel-Callsite
 perl-Devel-Comments
 perl-Devel-DProf
 perl-Devel-Gladiator
@@ -6557,7 +6516,6 @@ perl-Font-TTFMetrics
 perl-forks
 perl-Fsdb
 perl-Future-AsyncAwait
-perl-Future-IO
 perl-Future
 perl-Games-Solitaire-Verify
 perl-GD-SecurityImage
@@ -6699,7 +6657,6 @@ perl-iCal-Parser
 perl-Icon-FamFamFam-Silk
 perl-Ima-DBI
 perl-Image-Base
-perl-Image-Dot
 perl-Image-ExifTool
 perl-Image-Sane
 perl-Image-Size
@@ -6739,7 +6696,6 @@ perl-JSON-Create
 perl-JSON-Parse
 perl-JSON-Pointer
 perl-JSON-RPC-Common
-perl-JSON-RPC-LWP
 perl-JSON-RPC
 perl-JSON-Tiny
 perl-JSON-Util
@@ -6833,7 +6789,6 @@ perl-Maypole
 perl-MD5
 perl-Messaging-Message
 perl-Metrics-Any
-perl-MikroTik-API
 perl-MIME-Base32
 perl-MIME-EncWords
 perl-MIME-Lite-HTML
@@ -6894,7 +6849,6 @@ perl-MooseX-Clone
 perl-MooseX-CoercePerAttribute
 perl-MooseX-Daemonize
 perl-MooseX-Declare
-perl-MooseX-Deprecated
 perl-MooseX-Emulate-Class-Accessor-Fast
 perl-MooseX-Has-Options
 perl-MooseX-Has-Sugar
@@ -7159,7 +7113,6 @@ perl-Scalar-Does
 perl-Scalar-String
 perl-Scriptalicious
 perl-SDL
-perl-Search-Elasticsearch
 perl-Search-Xapian
 perl-Sentry-Raven
 perl-ServiceNow-API
@@ -7173,7 +7126,6 @@ perl-Shipwright
 perl-Schedule-Cron-Events
 perl-Schedule-Cron
 perl-smartmatch
-perl-SNMP-Simple
 perl-SOAP-WSDL
 perl-Socket-GetAddrInfo
 perl-Socket-MsgHdr
@@ -7264,7 +7216,6 @@ perl-Test-Carp
 perl-Test-Cmd
 perl-Test-Data-Split
 perl-Test-DBICSchemaLoaderDigest
-perl-Test-Deep-Fuzzy
 perl-Test-Deep-JSON
 perl-Test-Deep-Type
 perl-Test-DiagINC
@@ -7357,7 +7308,6 @@ perl-Text-Layout
 perl-Text-Levenshtein
 perl-Text-LevenshteinXS
 perl-Text-Ngram
-perl-Text-Password-Pronounceable
 perl-Text-Patch
 perl-Text-RecordParser
 perl-Text-Reflow
@@ -7390,7 +7340,6 @@ perl-Tie-Hash-ReadonlyStack
 perl-Time-Clock
 perl-Time-Fake
 perl-Time-Interval
-perl-Time-Mock
 perl-Time-Moment
 perl-Time-OlsonTZ-Download
 perl-Time-Out
@@ -7406,7 +7355,6 @@ perl-Tk-Pod
 perl-Tk-ProgressBar-Mac
 perl-Tk-Stderr
 perl-Tk-TableMatrix
-perl-TOML-Parser
 perl-Trace-Mask
 perl-Tree
 perl-Types-DateTime
@@ -7826,7 +7774,6 @@ pipewire0.2
 pisg
 pixiewps
 pkcs11-dump
-pkcs11-helper
 pkgconf
 pkgdiff
 plank
@@ -7902,7 +7849,6 @@ poly2tri
 pop-gtk-theme
 pop-icon-theme
 poppler-sharp
-poppler
 popt
 popub
 porcupine
@@ -7918,7 +7864,6 @@ postgrey
 postproof
 postsrsd
 pothana2000-fonts
-potrace
 powdertoy
 poweradmin
 powerdevil
@@ -7976,7 +7921,6 @@ prwd
 psad
 psblas3
 pscan
-psfex
 psftools
 psiconv
 psi-notify
@@ -8056,7 +8000,6 @@ pypy
 pypy3.10
 pypy3.9
 pyp2rpm
-PyQt-builder
 pyqtwebengine
 PyQt4
 py-radix
@@ -8275,7 +8218,6 @@ python-bitmath
 python-bitstring
 python-bitstruct
 python-black
-python-bleach
 python-blessed
 python-blessings
 python-blinker
@@ -8877,7 +8819,6 @@ python-kajiki
 python-kanboard
 python-kaptan
 python-kazoo
-python-kdcproxy
 python-keep
 python-keystoneauth1
 python-keystoneclient
@@ -8954,8 +8895,6 @@ python-matplotlib-scalebar
 python-matplotlib-venn
 python-matrix-synapse-ldap3
 python-maxminddb
-python-maya
-python-mccabe
 python-mdx_gh_links
 python-meautility
 python-mechanicalsoup
@@ -9532,7 +9471,6 @@ python-scss
 python-seaborn
 python-SecretStorage
 python-secure_cookie
-python-selenium
 python-semantic_version
 python-send2trash
 python-sentinels
@@ -9603,8 +9541,6 @@ python-sphinxcontrib-seqdiag
 python-sphinxcontrib-spelling
 python-sphinxcontrib-svg2pdfconverter
 python-sphinxcontrib-trio
-python-sphinxcontrib-websupport
-python-sphinx-copybutton
 python-sphinxemoji
 python-sphinxext-opengraph
 python-sphinx-hoverxref
@@ -10341,7 +10277,6 @@ R-import
 R-ini
 R-inline
 rinutils
-ripmime
 R-IRanges
 R-IRdisplay
 R-IRkernel
@@ -10647,7 +10582,6 @@ rubygem-highline
 rubygem-hiredis
 rubygem-hitimes
 rubygem-hocon
-rubygem-hrx
 rubygem-httpclient
 rubygem-http_parser.rb
 rubygem-icaro
@@ -11907,7 +11841,6 @@ sayonara
 sbsigntools
 scalapack
 scalpel
-scamp
 scanless
 scanmem
 scannotation
@@ -11975,8 +11908,6 @@ sendemail
 sen
 sentencepiece
 sepolicy_analysis
-seqan
-seqan3
 sequence-library
 serafettin-cartoon-fonts
 serdisplib
@@ -12082,7 +12013,6 @@ sing
 sipcalc
 sip
 sipvicious
-sip6
 siril
 sirius
 six
@@ -12321,7 +12251,6 @@ sugar-xoirc
 sugar-yupana
 suil
 sundials
-sundials2
 sunwait
 sunxi-tools
 supercollider
@@ -12612,7 +12541,6 @@ twlog
 txt2man
 txt2rss
 txt2tags
-typelib-srpm-macros
 typesetit-great-vibes-fonts
 typespeed
 typetogether-literata-fonts
@@ -12920,7 +12848,6 @@ wingpanel
 winpdb
 wipe
 wireguard-tools
-wise2
 withlock
 wkhtmltopdf
 wl-gammactl
@@ -12950,6 +12877,7 @@ worminator-data
 worminator
 wpan-tools
 wp-cli
+wpebackend-fdo
 wqy-bitmap-fonts
 ws-commons-util
 wsdlpull
@@ -12977,7 +12905,6 @@ xastir
 xautolock
 xautomation
 xawtv
-Xaw3d
 xbacklight
 xbanish
 xbar
@@ -13009,7 +12936,6 @@ xdffileio
 xdg-desktop-portal-gnome
 xdg-desktop-portal-gtk
 xdg-desktop-portal-kde
-xdg-desktop-portal
 xdg-user-dirs-gtk
 xdialog
 xdotool
@@ -13196,7 +13122,6 @@ x2goclient
 x2godesktopsharing
 x2goserver
 x2gowswrapper
-yacreader
 yadifa
 yad
 YafaRay
@@ -13224,9 +13149,6 @@ ykushcmd
 yoshimi
 yosys
 youtube-dl
-ypbind
-ypserv
-yp-tools
 ytalk
 ytnef
 ytree
