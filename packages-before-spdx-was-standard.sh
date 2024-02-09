@@ -4,15 +4,12 @@
 # https://pagure.io/packaging-committee/pull-request/1142#request_diff
 # consider everything created after 2022-08-01 as SPDX
 
-test -d ~/spdx || mkdir ~/spdx/
 WORKING_DIR=${PWD}
 
 while read -r package; do
 
-        pushd ~/spdx/ >/dev/null
+        pushd ~/spdx/"$package" >/dev/null
 
-        # the leading dot is important otherwise the change dir will not work
-        . ${WORKING_DIR}/fedpkg-clone-and-cd-package.sh "$package"
         DATE=$(git log --reverse --format="format:%as" --all | head -n 1)
         if [[ "$DATE" < 2022-08-01 ]]; then
                 # and if the package has main/rawhide branch
