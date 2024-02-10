@@ -1003,7 +1003,6 @@ cuetools
 cups-browsed
 cups-filters
 cups-pdf
-cups-pk-helper
 cups-x2go
 CuraEngine_grpc_definitions
 CuraEngine
@@ -1072,8 +1071,6 @@ dcap
 dcfldd
 dcmtk
 dcm2niix
-dconf-editor
-dconf
 dcw-gmt
 dc3dd
 ddate
@@ -1663,7 +1660,6 @@ eureka
 eurephia
 eventlog
 eventviews
-evince
 evolution-data-server
 evolution-ews
 evolution-mapi
@@ -1829,7 +1825,6 @@ fig2ps
 filebench
 filedrop
 file-roller
-file
 fillets-ng-data
 fillets-ng
 fim
@@ -1961,7 +1956,6 @@ freerdp2
 freerouting
 FreeSOLID
 freetds
-freetype
 freewrl
 freexl
 freeze
@@ -2922,7 +2916,6 @@ gnatcoll-bindings
 gnatcoll-db
 gnatcoll
 gnat-srpm-macros
-gnome-abrt
 gnome-applets
 gnome-autoar
 gnome-backgrounds
@@ -3029,7 +3022,6 @@ gnome-tetravex
 gnome-text-editor
 gnome-themes-extra
 gnome-todo
-gnome-tour
 gnome-translate
 gnome-usage
 gnome-user-docs
@@ -3255,6 +3247,7 @@ golang-github-bmatcuk-doublestar-4
 golang-github-bmizerany-assert
 golang-github-bmkessler-fastdiv
 golang-github-bobesa-domain-util
+golang-github-bobusumisu-aho-corasick
 golang-github-boltdb-bolt
 golang-github-boombuler-barcode
 golang-github-bradenhilton-cityhash
@@ -5007,6 +5000,7 @@ hiran-perizia-fonts
 hiredis
 hitch
 hledger-ui
+hmat-oss
 hmmer
 hnb
 hokuyoaist
@@ -5200,6 +5194,7 @@ intel-llvm8.0-vc-intrinsics
 intel-lpmd
 intel-media-driver-free
 intel-mediasdk
+intel-metee
 intel-mpi-benchmarks
 intel-one-mono-fonts
 intel-opencl-clang
@@ -5367,7 +5362,6 @@ jid
 jigawatts
 jigdo
 jimtcl
-jitterentropy
 jkmeter
 jmeters
 jmock
@@ -5987,6 +5981,7 @@ lagan
 lagrange
 lame
 lammps
+langtable
 lasem
 lasi
 lasso
@@ -6031,7 +6026,6 @@ lensfun
 leonidas-backgrounds
 leonidas-kde-theme
 leptonica
-less
 leveldb
 levien-inconsolata-fonts
 levien-museum-fonts
@@ -6263,7 +6257,6 @@ libgusb
 libgweather
 libgxps
 libg15render
-libhandy
 libhbaapi
 libhbalinux
 libheif
@@ -6672,7 +6665,7 @@ libvncserver
 libvoikko
 libvorbis
 libvpx
-libvpx7
+libvpx8
 libvterm
 libv3270
 libwapcaplet
@@ -6934,7 +6927,6 @@ lunchbox
 lure
 lutok
 lutris
-luv-icon-theme
 luxcorerender
 lvm2
 lv2-abGate
@@ -7306,7 +7298,6 @@ mingw-libglade2
 mingw-libgnurx
 mingw-libgovirt
 mingw-libgpg-error
-mingw-libgsf
 mingw-libgta
 mingw-libgusb
 mingw-libcharset
@@ -8275,7 +8266,6 @@ openshadinglanguage
 openshot
 opensips
 openslide
-opensm
 opensmtpd
 openspecfun
 openssh-ldap-authkeys
@@ -8371,6 +8361,7 @@ pacman
 pacrunner
 padthv1
 pageedit
+pagmo2
 pag
 pagure-cli
 pagure-dist-git
@@ -8431,7 +8422,6 @@ passivetex
 pass-otp
 pass
 passwdqc
-passwd
 pastebinit
 past-time
 pasystray
@@ -9363,6 +9353,7 @@ perl-File-Temp
 perl-File-Touch
 perl-File-Type
 perl-File-Type-WebImages
+perl-File-Unpack2
 perl-File-Zglob
 perl-Filter-Encoding
 perl-Filter-Simple
@@ -9822,6 +9813,7 @@ perl-Menlo-Legacy
 perl-Messaging-Message
 perl-Meta-Builder
 perl-MetaCPAN-API
+perl-meta
 perl-Method-Signatures-Simple
 perl-Metrics-Any
 perl-MIME-Base32
@@ -10028,6 +10020,7 @@ perl-Net-Amazon-S3
 perl-Net-AMQP
 perl-Net-Appliance-Session
 perl-Net-ARP
+perl-Net-Async-SOCKS
 perl-Net-BGP
 perl-Net-CIDR-Lite
 perl-Net-CIDR
@@ -10109,6 +10102,7 @@ perl-Object-Accessor
 perl-Object-Deadly
 perl-Object-Event
 perl-Object-ID
+perl-Object-Import
 perl-Object-InsideOut
 perl-Object-MultiType
 perl-Object-Pad
@@ -10595,6 +10589,7 @@ perl-Test-Harness-Straps
 perl-Test-HasVersion
 perl-Test-HexDifferences
 perl-Test-HexString
+perl-Test-HTTP-LocalServer
 perl-Test-CheckDeps
 perl-Test-CheckChanges
 perl-Test-Identity
@@ -11167,7 +11162,6 @@ php-pear-Net-URL
 php-pear-OLE
 php-pear-PEAR-Command-Packaging
 php-pear-PHP-CodeSniffer
-php-pear
 php-pear-Text-Figlet
 php-pear-XML-Parser
 php-pear-XML-SVG
@@ -11460,7 +11454,6 @@ pop-gtk-theme
 pop-icon-theme
 poppler-data
 poppler-sharp
-poppler
 popt
 popub
 porcupine
@@ -11640,7 +11633,6 @@ pylint
 PyMca
 pymilia
 pymol
-pyodbc
 pyOpenSSL
 pyosmium
 pyotherside
@@ -11920,6 +11912,7 @@ python-azure-mgmt-support
 python-azure-mgmt-synapse
 python-azure-mgmt-trafficmanager
 python-azure-mgmt-web
+python-azure-monitor-query
 python-azure-multiapi-storage
 python-azure-servicebus
 python-azure-storage-blob
@@ -12221,7 +12214,6 @@ python-didl-lite
 python-diff-cover
 python-diff-match-patch
 python-digitalocean
-python-dill
 python-dingz
 python-dipy
 python-dirhash
@@ -12736,6 +12728,7 @@ python-jenkins
 python-jinja2-cli
 python-jinja2_pluralize
 python-jinja2-time
+python-jira
 python-jmespath
 python-jnius
 python-josepy
@@ -14369,7 +14362,6 @@ qalculate-gtk
 qalculate-qt
 qastools
 qatengine
-qatlib
 qatzip
 qbe
 qbittorrent
@@ -14699,6 +14691,7 @@ rekonq
 relaxng-datatype-java
 R-ellipsis
 relval
+remind
 remoot
 RemoteBox
 renameutils
@@ -14885,12 +14878,12 @@ R-mockr
 R-modelr
 rmol
 R-msm
+rmtfs
 R-multcomp
 R-munsell
 R-mvtnorm
 R-nanotime
 R-ncdf4
-rng-tools
 R-NISTunits
 rnnoise
 rnp
@@ -15764,6 +15757,7 @@ rust-bindgen-cli
 rust-bindgen
 rust-bindgen0.59
 rust-bindgen0.63
+rust-bindgen0.68
 rust-biquad
 rust-bit_field
 rust-bitfield
@@ -16489,6 +16483,7 @@ rust-gobject-sys0.17
 rust-goblin
 rust-goblin0.5
 rust-goblin0.6
+rust-goblin0.7
 rust-gptman
 rust-gpt
 rust-graphene-rs
@@ -17445,6 +17440,7 @@ rust-resolv-conf
 rust-result-like-derive
 rust-result-like
 rust-retry
+rust-retry1
 rust-rfc2047-decoder
 rust-rfc6979
 rust-rgb
@@ -17535,7 +17531,9 @@ rust-scopeguard
 rust-scopetime
 rust-scratch
 rust-scroll_derive
+rust-scroll_derive0.11
 rust-scroll
+rust-scroll0.11
 rust-scrypt
 rust-scrypt0.8
 rust-sctk-adwaita
@@ -17780,6 +17778,7 @@ rust-symlink
 rust-sync_wrapper
 rust-syn
 rust-synstructure
+rust-synstructure0.12
 rust-syntect
 rust-syntect4
 rust-syn0.15
@@ -17910,6 +17909,7 @@ rust-toml0.4
 rust-toml0.5
 rust-toml0.7
 rust-topological-sort
+rust-totp-lite
 rust-tower-http
 rust-tower-layer
 rust-tower-service
@@ -18247,6 +18247,7 @@ rust-zip
 rust-zmq
 rust-zmq-sys
 rust-zoneinfo_compiled
+rust-zopfli
 rust-zoxide
 rust-zram-generator
 rust-zstd-safe
@@ -18869,6 +18870,7 @@ svt-av1
 svt-vp9
 svxlink
 swaks
+swami
 swappy
 swarp
 swatchdog
@@ -19119,7 +19121,6 @@ tomcli
 tomlplusplus
 toml11
 tomsfastmath
-toolbox
 toolshed
 toot
 topgit

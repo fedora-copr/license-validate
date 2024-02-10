@@ -147,7 +147,6 @@ cockpit-session-recording
 color-filesystem
 colord
 colord-gtk
-community-mysql
 compat-locales-sap
 compiler-rt
 composefs
@@ -353,6 +352,7 @@ gnome-kiosk
 gnome-logs
 gnome-menus
 gnome-online-accounts
+gnome-ponytail-daemon
 gnome-remote-desktop
 gnome-session
 gnome-settings-daemon
@@ -989,7 +989,6 @@ libzfcphbaapi
 libzip
 libzpc
 linux-firmware
-linuxconsoletools
 linuxdoc-tools
 linuxptp
 lksctp-tools
@@ -1044,10 +1043,10 @@ make
 man-db
 man-pages
 man-pages-overrides
-mariadb
 mariadb-connector-c
 mariadb-connector-odbc
 mariadb-java-client
+mariadb10.11
 marshalparser
 matchbox-window-manager
 maven
@@ -1108,8 +1107,8 @@ munge
 mutt
 mutter
 mvapich2
-mysql
 mysql-selinux
+mysql8.0
 mythes-eo
 nano
 nautilus
@@ -1213,7 +1212,6 @@ paps
 parted
 passim
 passt
-passwd
 patch
 patchutils
 pavucontrol
@@ -1232,7 +1230,6 @@ perl-App-cpanminus
 perl-Archive-Tar
 perl-Archive-Zip
 perl-Authen-SASL
-perl-BSD-Resource
 perl-Bit-Vector
 perl-CGI
 perl-CPAN
@@ -1251,10 +1248,6 @@ perl-Compress-Raw-Zlib
 perl-Config-Perl-V
 perl-Convert-ASN1
 perl-Crypt-DES
-perl-Crypt-OpenSSL-Bignum
-perl-Crypt-OpenSSL-RSA
-perl-Crypt-OpenSSL-Random
-perl-CryptX
 perl-DBD-MariaDB
 perl-DBD-MySQL
 perl-DBD-Pg
@@ -1275,7 +1268,6 @@ perl-Digest-MD5
 perl-Digest-SHA
 perl-Digest-SHA1
 perl-Encode
-perl-Encode-Detect
 perl-Encode-Locale
 perl-Env
 perl-Error
@@ -1325,10 +1317,6 @@ perl-LWP-Protocol-https
 perl-Locale-Maketext
 perl-MIME-Base64
 perl-MRO-Compat
-perl-Mail-AuthenticationResults
-perl-Mail-DKIM
-perl-Mail-SPF
-perl-MailTools
 perl-Math-BigInt
 perl-Math-BigInt-FastCalc
 perl-Module-Build
@@ -1340,15 +1328,11 @@ perl-Module-Metadata
 perl-Module-Signature
 perl-Mozilla-CA
 perl-NTLM
-perl-Net-CIDR-Lite
-perl-Net-DNS
 perl-Net-HTTP
 perl-Net-Ping
-perl-Net-SMTP-SSL
 perl-Net-SNMP
 perl-Net-SSLeay
 perl-Net-Server
-perl-NetAddr-IP
 perl-Object-HashBase
 perl-Package-Generator
 perl-Params-Check
@@ -1407,6 +1391,7 @@ perl-XML-NamespaceSupport
 perl-XML-Parser
 perl-XML-SAX
 perl-XML-SAX-Base
+perl-XML-Simple
 perl-XML-TokeParser
 perl-XML-XPath
 perl-YAML
@@ -1536,6 +1521,7 @@ python-iniparse
 python-inotify
 python-installer
 python-into-dbus-python
+python-iso639
 python-jinja2
 python-jmespath
 python-jsonpatch
@@ -1619,6 +1605,7 @@ python-virt-firmware
 python-wcwidth
 python-websockets
 python-wheel
+python-xkbregistry
 python-yubico
 python-zstandard
 python3.12
@@ -1725,7 +1712,6 @@ rust
 rust-afterburn
 rust-bootupd
 rust-coreos-installer
-rust-packaging
 rust-rpm-sequoia
 rust-sevctl
 rust-ssh-key-dir
@@ -1758,7 +1744,6 @@ seabios
 seahorse
 sed
 selinux-policy
-sendmail
 servicelog
 setools
 setroubleshoot
@@ -1796,7 +1781,6 @@ sos
 sound-theme-freedesktop
 soundtouch
 source-highlight
-spamassassin
 spausedd
 speech-dispatcher
 speex
@@ -1922,6 +1906,8 @@ util-linux
 uuid
 v4l-utils
 valgrind
+varnish
+varnish-modules
 vazirmatn-fonts
 vdo
 vhostmd

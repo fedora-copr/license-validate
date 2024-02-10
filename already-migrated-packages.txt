@@ -299,6 +299,7 @@ avrdude
 avr-gcc
 avr-libc
 awscli2
+axel
 azote
 azove
 azure-cli
@@ -606,7 +607,6 @@ colord-kde
 colord
 color-filesystem
 colorful
-community-mysql
 compat-guichan05
 compat-guile18
 compat-readline5
@@ -803,6 +803,7 @@ deja-dup
 dejavu-fonts
 delve
 desktop-backgrounds
+desktop-file-utils
 deutex
 devscripts
 dex-autostart
@@ -867,6 +868,7 @@ dolphin
 dosbox-staging
 dosfstools
 dos2unix
+dotconf
 dotnet8.0
 dot2tex
 doublecmd
@@ -1010,6 +1012,7 @@ extra-enforcer-rules
 extremetuxracer
 extundelete
 e00compr
+fabtests
 fancontrol-gui
 fann
 fantasdic
@@ -1211,6 +1214,7 @@ f38-backgrounds
 f39-backgrounds
 gala
 galera
+gamehub
 gamerzillagobj
 GAPDoc
 gappalib-coq
@@ -2053,12 +2057,14 @@ gmic
 gmime30
 gmp-ecm
 gmp
+gmsh
 gmult
 gnet2
 gnofract4d
 gnokii
 gnome-abrt
 gnome-applets
+gnome-autoar
 gnome-backgrounds
 gnome-bluetooth
 gnome-bluetooth3.34
@@ -2073,6 +2079,7 @@ gnome-connections
 gnome-console
 gnome-contacts
 gnome-control-center
+gnome-desktop3
 gnome-directory-thumbnailer
 gnome-disk-utility
 gnome-doc-utils
@@ -2126,8 +2133,10 @@ gnome-software
 gnome-sudoku
 gnome-system-monitor
 gnome-taquin
+gnome-terminal
 gnome-text-editor
 gnome-todo
+gnome-tour
 gnome-tweaks
 gnome-user-docs
 gnome-vfs2-monikers
@@ -2219,6 +2228,7 @@ golang-github-bep-simplecobra
 golang-github-bmatcuk-doublestar
 golang-github-bmatcuk-doublestar-4
 golang-github-bmkessler-fastdiv
+golang-github-bobusumisu-aho-corasick
 golang-github-briandowns-spinner
 golang-github-brunnre8-notmuch
 golang-github-brunoscheufler-aws-ecs-metadata
@@ -2468,6 +2478,7 @@ golang-github-prometheus-client-model
 golang-github-prometheus-client
 golang-github-prometheus-common
 golang-github-prometheus-community-runit
+golang-github-prometheus-exporter-toolkit
 golang-github-prometheus-procfs
 golang-github-prometheus-prom2json
 golang-github-protobuf
@@ -2848,6 +2859,7 @@ hledger
 hledger-ui
 hledger-web
 hlint
+hmat-oss
 home-assistant-cli
 hostapd
 hostname
@@ -3156,13 +3168,13 @@ intel-ipp-crypto-mb
 intel-ipsec-mb
 intel-lpmd
 intel-media-driver-free
+intel-metee
 intel-one-mono-fonts
 intltool
 inxi
 Io-language
 iotools
 iotop-c
-iotop
 ipa-exgothic-fonts
 ipa-exmincho-fonts
 ipa-gothic-fonts
@@ -3270,6 +3282,7 @@ jFormatString
 jigdo
 jimtcl
 jisksp16-1990-fonts
+jitterentropy
 jline
 jline2
 jmol
@@ -3615,6 +3628,7 @@ koji-tool
 kolorfill
 komikku
 kommit
+kompare
 konsole5
 kontactinterface
 kontrast
@@ -3744,6 +3758,7 @@ libcap-ng
 libcap
 libcbor
 libcddb
+libcdio
 libcdr
 libcdson
 libcec
@@ -3856,6 +3871,7 @@ libgusb
 libgweather
 libgxim
 libgxps
+libhandy
 libhangul
 libharu
 libhbalinux
@@ -4107,6 +4123,7 @@ libteam
 libtevent
 libtexprintf
 libthai
+libtheora
 libtickit
 libtiff
 libtins
@@ -4147,7 +4164,7 @@ libvoikko
 libvorbis
 libvpd
 libvpx
-libvpx7
+libvpx8
 libwacom
 libwapcaplet
 libwbxml
@@ -4241,6 +4258,7 @@ lklug-fonts
 lldb
 lld
 lld15
+lld16
 llhttp
 llvm-bolt
 llvm
@@ -4308,6 +4326,7 @@ lujavrite
 luksmeta
 luminance-hdr
 lunchbox
+luv-icon-theme
 luxcorerender
 lv
 lv2dynparam
@@ -4466,6 +4485,7 @@ mesa-libGLU
 mesa-libGLw
 mesa
 meshlab
+meson
 messagelib
 messiggy
 metacity
@@ -4521,6 +4541,7 @@ mingw-libffi
 mingw-libgusb
 mingw-libidn
 mingw-libidn2
+mingw-libjpeg-turbo
 mingw-libmng
 mingw-libpng
 mingw-LibRaw
@@ -4707,6 +4728,7 @@ mrtg
 msitools
 msmtp
 msolve
+mstflint
 msv
 mtdev
 mtools
@@ -4734,6 +4756,7 @@ mysql-connector-java
 mysql-selinux
 mysql++
 mysqltuner
+mysql8.0
 mythes-bg
 mythes-ca
 mythes-cs
@@ -4849,6 +4872,7 @@ nmstate
 nnn
 node-exporter
 nodejs-cjs-module-lexer
+nodejs-nodemon
 nodejs-pnpm
 nodejs-undici
 nodejs20
@@ -5220,6 +5244,7 @@ pack
 pacman
 pads
 pageedit
+pagmo2
 pag
 pagure-cli
 pagure-exporter
@@ -5271,7 +5296,6 @@ pasdoc
 passim
 passt
 passwdqc
-passwd
 pasystray
 patat
 patch
@@ -5919,6 +5943,7 @@ perl-File-Temp
 perl-File-Touch
 perl-File-TreeCreate
 perl-File-Type-WebImages
+perl-File-Unpack2
 perl-File-Which
 perl-File-Zglob
 perl-Filter-Simple
@@ -6237,6 +6262,7 @@ perl-Menlo
 perl-Meta-Builder
 perl-MetaCPAN-API
 perl-MetaCPAN-Client
+perl-meta
 perl-Method-Signatures-Simple
 perl-MikroTik-API
 perl-MIME-Base64
@@ -6368,6 +6394,7 @@ perl-namespace-sweep
 perl-NetAddr-IP
 perl-Net-Amazon
 perl-Net-Amazon-S3
+perl-Net-Async-SOCKS
 perl-Net-CalDAVTalk
 perl-Net-CardDAVTalk
 perl-Net-CIDR-Lite
@@ -6377,6 +6404,7 @@ perl-Net-CUPS
 perl-Net-DAVTalk
 perl-Net-DBus-GLib
 perl-Net-DBus
+perl-Net-DHCP
 perl-Net-DNS-Resolver-Mock
 perl-Net-DNS-Resolver-Programmable
 perl-Net-DNS-SEC
@@ -6434,6 +6462,7 @@ perl-Object-Accessor
 perl-Object-Deadly
 perl-Object-HashBase
 perl-Object-ID
+perl-Object-Import
 perl-Object-InsideOut
 perl-Object-Pad
 perl-Object-Pluggable
@@ -6825,6 +6854,7 @@ perl-Test-Harness
 perl-Test-Harness-Straps
 perl-Test-HasVersion
 perl-Test-HexDifferences
+perl-Test-HTTP-LocalServer
 perl-Test-HTTP-Server-Simple
 perl-Test-HTTP-Server-Simple-StashWarnings
 perl-Test-CheckDeps
@@ -7594,6 +7624,7 @@ python-azure-mgmt-rdbms
 python-azure-mgmt-resource
 python-azure-mgmt-sql
 python-azure-mgmt-support
+python-azure-monitor-query
 python-azure-multiapi-storage
 python-azure-sdk-tools
 python-azure-servicebus
@@ -7739,6 +7770,7 @@ python-designateclient
 python-dialog
 python-diff-match-patch
 python-dijitso
+python-dill
 python-dirhash
 python-dirty-equals
 python-diskcache
@@ -8241,6 +8273,7 @@ python-perky
 python-persistent
 python-pexpect
 python-pgspecial
+python-pg8000
 python-photutils
 python-phply
 python-phyghtmap
@@ -8710,6 +8743,7 @@ python-untangle
 python-uranium
 python-uri-template
 python-uritools
+python-urllib-gssapi
 python-urllib3
 python-url-normalize
 python-urlpy
@@ -8817,6 +8851,7 @@ qadwaitadecorations
 qalculate-qt
 qascade
 qatengine
+qatlib
 qatzip
 qbe
 qclib
@@ -8940,6 +8975,7 @@ rabbitsign
 rabbitvcs
 racket
 radare2
+radcli
 radiotray-ng
 radsecproxy
 raft
@@ -8997,6 +9033,7 @@ regextester
 regina-rexx
 relaxng-datatype-java
 remake
+remind
 remmina
 replacer
 reportd
@@ -9051,7 +9088,9 @@ R-maps
 R-measurements
 R-metaheuristicopt
 rmol
+rmtfs
 R-multcomp
+rng-tools
 rnp
 rocalution
 rocblas
@@ -9698,6 +9737,7 @@ rust-bindgen-cli
 rust-bindgen
 rust-bindgen0.59
 rust-bindgen0.63
+rust-bindgen0.68
 rust-biquad
 rust-bit_field
 rust-bitfield
@@ -10421,6 +10461,7 @@ rust-gobject-sys0.17
 rust-goblin
 rust-goblin0.5
 rust-goblin0.6
+rust-goblin0.7
 rust-gptman
 rust-gpt
 rust-graphene-rs
@@ -11372,6 +11413,7 @@ rust-resolv-conf
 rust-result-like-derive
 rust-result-like
 rust-retry
+rust-retry1
 rust-rfc2047-decoder
 rust-rfc6979
 rust-rgb
@@ -11461,7 +11503,9 @@ rust-scopeguard
 rust-scopetime
 rust-scratch
 rust-scroll_derive
+rust-scroll_derive0.11
 rust-scroll
+rust-scroll0.11
 rust-scrypt
 rust-scrypt0.8
 rust-sctk-adwaita
@@ -11702,6 +11746,7 @@ rust-symlink
 rust-sync_wrapper
 rust-syn
 rust-synstructure
+rust-synstructure0.12
 rust-syntect
 rust-syntect4
 rust-syn0.15
@@ -11832,6 +11877,7 @@ rust-toml0.4
 rust-toml0.5
 rust-toml0.7
 rust-topological-sort
+rust-totp-lite
 rust-tower-http
 rust-tower-layer
 rust-tower-service
@@ -12166,6 +12212,7 @@ rust-zip
 rust-zmq
 rust-zmq-sys
 rust-zoneinfo_compiled
+rust-zopfli
 rust-zoxide
 rust-zram-generator
 rust-zstd-safe
@@ -12480,6 +12527,7 @@ stellarium
 stellarsolver
 step
 stix-fonts
+stlink
 stlsplit
 stockfish
 stp
@@ -12511,6 +12559,7 @@ suricata
 suseconnect-ng
 svt-av1
 swaks
+swami
 swatchdog
 swaybg
 sway-config-fedora
@@ -12559,6 +12608,7 @@ s390utils
 tabbed
 tacacs
 tack
+taglib
 talk
 tangerine
 tang
@@ -12648,6 +12698,7 @@ tomcli
 tomlplusplus
 tomoe-gtk
 tomoe
+toolbox
 TOPCOM
 toppler
 torbrowser-launcher
@@ -12854,6 +12905,7 @@ vrpn
 vsftpd
 vsomeip3
 vte
+vte291
 vtk
 vulkan-headers
 vulkan-loader
@@ -13113,6 +13165,7 @@ yash
 yasm
 yawn
 yaz
+yelp-tools
 yggdrasil
 yggdrasil-worker-package-manager
 yices
