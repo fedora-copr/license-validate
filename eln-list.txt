@@ -139,6 +139,7 @@ cairo
 cairomm
 cairomm1.16
 capstone
+cargo2rpm
 catatonit
 catch
 catch1
@@ -1087,6 +1088,7 @@ libzdnn
 libzfcphbaapi
 libzip
 libzpc
+licensecheck
 linux-firmware
 linuxconsoletools
 linuxdoc-tools
@@ -1411,8 +1413,10 @@ perl-Algorithm-Diff
 perl-App-cpanminus
 perl-Archive-Tar
 perl-Archive-Zip
+perl-Array-IntSpan
 perl-Authen-SASL
 perl-B-COW
+perl-B-Hooks-EndOfScope
 perl-BSD-Resource
 perl-Bit-Vector
 perl-CGI
@@ -1453,6 +1457,7 @@ perl-Date-Calc
 perl-Date-Manip
 perl-Devel-CheckLib
 perl-Devel-GlobalDestruction
+perl-Devel-Hide
 perl-Devel-PPPort
 perl-Devel-Size
 perl-Devel-StackTrace
@@ -1463,6 +1468,7 @@ perl-Digest-HMAC
 perl-Digest-MD5
 perl-Digest-SHA
 perl-Digest-SHA1
+perl-Dist-CheckConflicts
 perl-Encode
 perl-Encode-EUCJPASCII
 perl-Encode-Locale
@@ -1481,6 +1487,8 @@ perl-ExtUtils-Manifest
 perl-ExtUtils-ParseXS
 perl-ExtUtils-PkgConfig
 perl-FCGI
+perl-Feature-Compat-Class
+perl-Feature-Compat-Try
 perl-Fedora-VSP
 perl-File-BaseDir
 perl-File-DesktopEntry
@@ -1497,6 +1505,7 @@ perl-File-Slurp
 perl-File-Slurper
 perl-File-Temp
 perl-File-Which
+perl-File-chdir
 perl-File-pushd
 perl-Filter
 perl-Filter-Simple
@@ -1517,6 +1526,7 @@ perl-IO-Compress
 perl-IO-Compress-Brotli
 perl-IO-Compress-Lzma
 perl-IO-HTML
+perl-IO-Interactive
 perl-IO-Multiplex
 perl-IO-Socket-INET6
 perl-IO-Socket-IP
@@ -1542,6 +1552,8 @@ perl-Lexical-Var
 perl-List-MoreUtils
 perl-List-MoreUtils-XS
 perl-Locale-Maketext
+perl-Log-Any
+perl-Log-Any-Adapter-Screen
 perl-MIME-Base64
 perl-MIME-Charset
 perl-MRO-Compat
@@ -1553,6 +1565,7 @@ perl-Module-Build
 perl-Module-Build-Tiny
 perl-Module-CPANfile
 perl-Module-CoreList
+perl-Module-Implementation
 perl-Module-Install
 perl-Module-Install-AuthorRequires
 perl-Module-Install-AuthorTests
@@ -1581,20 +1594,27 @@ perl-Net-SMTP-SSL
 perl-Net-SNMP
 perl-Net-SSLeay
 perl-Net-Server
+perl-Number-Compare
 perl-Object-Deadly
 perl-Object-HashBase
+perl-Object-Pad
 perl-Package-Generator
+perl-Package-Stash
+perl-Package-Stash-XS
 perl-Params-Check
 perl-Params-Util
 perl-Parse-PMFile
 perl-Parse-Yapp
 perl-Path-Class
+perl-Path-Iterator-Rule
 perl-Path-Tiny
 perl-PathTools
+perl-Perl-Destruct-Level
 perl-Perl-OSType
 perl-PerlIO-utf8_strict
 perl-PerlIO-via-QuotedPrint
 perl-Pod-Checker
+perl-Pod-Constants
 perl-Pod-Coverage
 perl-Pod-Escapes
 perl-Pod-Markdown
@@ -1603,14 +1623,20 @@ perl-Pod-Perldoc
 perl-Pod-Simple
 perl-Pod-Usage
 perl-Readonly
+perl-Regexp-Pattern
+perl-Regexp-Pattern-License
 perl-Role-Tiny
 perl-SGMLSpm
 perl-SNMP_Session
 perl-Scalar-List-Utils
+perl-Set-IntSpan
 perl-Socket
 perl-Socket6
 perl-Software-License
 perl-Storable
+perl-String-Copyright
+perl-String-Escape
+perl-String-License
 perl-String-ShellQuote
 perl-Sub-Exporter
 perl-Sub-Exporter-Progressive
@@ -1646,6 +1672,7 @@ perl-Test-Simple
 perl-Test-Warn
 perl-Test-Warnings
 perl-Test2-Suite
+perl-Test2-Tools-Command
 perl-Text-Balanced
 perl-Text-CharWidth
 perl-Text-Diff
@@ -1672,6 +1699,7 @@ perl-Unicode-LineBreak
 perl-Unicode-Normalize
 perl-Unicode-UTF8
 perl-Unix-Syslog
+perl-Variable-Magic
 perl-WWW-RobotRules
 perl-XML-Catalog
 perl-XML-LibXML
@@ -1683,6 +1711,7 @@ perl-XML-Simple
 perl-XML-TokeParser
 perl-XML-XPath
 perl-XS-Parse-Keyword
+perl-XS-Parse-Sublike
 perl-XString
 perl-YAML
 perl-YAML-Tiny
@@ -1698,6 +1727,7 @@ perl-libintl-perl
 perl-libnet
 perl-libwww-perl
 perl-local-lib
+perl-namespace-clean
 perl-parent
 perl-perlfaq
 perl-podlators
@@ -2062,7 +2092,6 @@ ruby
 rubygem-asciidoctor
 rubygem-coderay
 rubygem-diff-lcs
-rubygem-eventmachine
 rubygem-kramdown
 rubygem-kramdown-parser-gfm
 rubygem-mustache
@@ -2082,8 +2111,10 @@ rubygem-test-unit-ruby-core
 rubygem-thread_order
 rust
 rust-afterburn
+rust-askalono-cli
 rust-bootupd
 rust-coreos-installer
+rust-packaging
 rust-rpm-sequoia
 rust-sevctl
 rust-ssh-key-dir

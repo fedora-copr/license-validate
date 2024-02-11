@@ -4,7 +4,6 @@ byteman
 c-ares
 cjson
 copy-jdk-configs
-dejagnu
 device-mapper-multipath
 device-mapper-persistent-data
 diffstat
@@ -98,10 +97,11 @@ nvmetcli
 opae
 open-sans-fonts
 openjpeg2
-openldap
 openmpi
 patchelf
 pcaudiolib
+perl-Log-Any-Adapter-Screen
+perl-String-Escape
 pipewire
 pkgconf
 plotutils
@@ -113,7 +113,6 @@ python-configshell
 python-decorator
 python-distutils-extra
 python-iniparse
-python-iso639
 python-kmod
 python-markdown
 python-netifaces
@@ -135,14 +134,12 @@ rasdaemon
 rear
 rpcsvc-proto
 ruby
-rubygem-eventmachine
 rubygem-rubyzip
 sanlock
 scons
 sdl12-compat
 seahorse
 setserial
-sg3_utils
 shim-unsigned-aarch64
 shim-unsigned-x64
 softhsm
