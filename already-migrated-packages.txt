@@ -435,6 +435,7 @@ bubblewrap
 budgie-backgrounds
 budgie-desktop-defaults
 budgie-desktop
+budgie-session
 buildah
 buildbot
 build-helper-maven-plugin
@@ -747,6 +748,7 @@ c4fs
 c4log
 c4project
 daniel-wikholm-segment16-fonts
+dante
 darcs
 dash
 datefudge
@@ -839,6 +841,7 @@ distribution-gpg-keys
 dleyna
 dl-fedora
 dlib
+dlm
 dl_poly
 dlt-daemon
 dmidecode
@@ -1324,6 +1327,7 @@ gdal
 gdb-exploitable
 gdbm
 gdb
+gdisk
 gdk-pixbuf2-xlib
 gdl
 gdm
@@ -2081,6 +2085,7 @@ gnome-console
 gnome-contacts
 gnome-control-center
 gnome-desktop3
+gnome-devel-docs
 gnome-directory-thumbnailer
 gnome-disk-utility
 gnome-doc-utils
@@ -2296,6 +2301,7 @@ golang-github-facebook-time
 golang-github-fatih-semgroup
 golang-github-fluent-logger
 golang-github-fsnotify
+golang-github-gatherstars-com-jwz
 golang-github-gdamore-encoding
 golang-github-gdamore-tcell
 golang-github-gdamore-tcell-2
@@ -2352,6 +2358,7 @@ golang-github-hashicorp-memberlist
 golang-github-hashicorp-memdb
 golang-github-hashicorp-multierror
 golang-github-hashicorp-raft-boltdb
+golang-github-hashicorp-retryablehttp
 golang-github-hashicorp-serf
 golang-github-hashicorp-terraform-exec
 golang-github-hashicorp-terraform-json
@@ -2583,6 +2590,7 @@ golang-gopkg-jcmturner-rpc-0
 golang-gopkg-retry-1
 golang-gopkg-seborama-govcr-4
 golang-gopkg-sourcemap-1
+golang-gopkg-square-jose-2
 golang-gopkg-tomb-1
 golang-gopkg-tomb-2
 golang-gopkg-vmihailenco-msgpack-2
@@ -2798,6 +2806,7 @@ gupnp-tools
 gust-antykwa-torunska-fonts
 gutenprint
 guvcview
+gvfs
 gvisor-tap-vsock
 gweled
 gwenhywfar
@@ -4273,6 +4282,7 @@ llvm16
 lmdb
 lmdbxx
 Lmod
+logjam
 logrotate
 logwatch
 log4cplus
@@ -4305,6 +4315,7 @@ lsfrom
 lshw
 lsof
 ls-qpack
+lsscsi
 lsvpd
 lttng-tools
 lttng-ust
@@ -4334,6 +4345,7 @@ lunchbox
 lusol
 luv-icon-theme
 luxcorerender
+lvm2
 lv
 lv2dynparam
 lv2-eq10q
@@ -4925,6 +4937,7 @@ nuspell
 nut
 nvme-cli
 nvme-stas
+nvmetcli
 nvml
 nvtop
 nwg-wrapper
@@ -6952,6 +6965,7 @@ perl-Test2-Plugin-NoWarnings
 perl-Test2-Suite
 perl-Test2-Tools-Command
 perl-Test2-Tools-Explain
+perl-Test2-Tools-PerlCritic
 perl-Test2-Tools-Process
 perl-TeX-Hyphen
 perl-Text-Aligner
@@ -7721,13 +7735,13 @@ python-colorthief
 python-commoncode
 python-comm
 python-compreffor
-python-compressed-rtf
 python-conda-index
 python-conda-inject
 python-conda-libmamba-solver
 python-conda-package-handling
 python-conda-package-streaming
 python-configobj
+python-configshell
 python-configupdater
 python-confuse
 python-construct-classes
@@ -8063,6 +8077,7 @@ python-keyring
 python-keystoneauth1
 python-keystoneclient
 python-kiwisolver
+python-kmod
 python-krb5
 python-k5test
 python-landslide
@@ -8187,6 +8202,7 @@ python-nh3
 python-niaarm
 python-nifti-mrs
 python-nihtest
+python-nilearn
 python-nipy
 python-nmap
 python-nodeenv
@@ -8498,7 +8514,6 @@ python-readability
 python-readchar
 python-re-assert
 python-recordclass
-python-red-black-tree-mod
 python-referencing
 python-registry
 python-reproject
@@ -8535,6 +8550,7 @@ python-rq
 python-rsa
 python-rstcheck-core
 python-Rtree
+python-rtslib
 python-ruamel-yaml-clib
 python-ruamel-yaml
 python-rust-update-set
@@ -8574,6 +8590,7 @@ python-signedjson
 python-simframe
 python-simpleaudio
 python-simpleline
+python-simple-pid
 python-simple-rlp
 python-simple-websocket
 python-siphash
@@ -9031,6 +9048,7 @@ readstat
 realmd
 realtime-setup
 realtime-tests
+rear
 receptor
 recode
 redhat-fonts
@@ -12261,6 +12279,7 @@ samba
 sane-airscan
 sane-backends
 sane-frontends
+sanlock
 sasl-xoauth2
 satyr
 sazanami-fonts
@@ -12570,6 +12589,7 @@ supertuxkart
 surf-geometry
 suricata
 suseconnect-ng
+sushi
 svt-av1
 swaks
 swami
@@ -12625,6 +12645,7 @@ taglib
 talk
 tangerine
 tang
+targetcli
 targetd
 tar
 tart
@@ -12789,6 +12810,7 @@ ucommon
 ucs-miscfixed-fonts
 ucx
 udica
+udisks2
 udis86
 ufdbGuard
 ufraw
@@ -12825,6 +12847,7 @@ upx
 uqm
 uread
 uresourced
+uriparser
 urlscan
 urlview
 urw-base35-fonts

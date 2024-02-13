@@ -478,6 +478,7 @@ budgie-desktop-defaults
 budgie-desktop
 budgie-desktop-view
 budgie-screensaver
+budgie-session
 buffer
 bugzilla
 build-constraints-rpm-macros
@@ -863,6 +864,7 @@ daemonize
 daggy
 dahdi-tools
 danmaq
+dante
 dapl
 daq
 darkgarden-fonts
@@ -1022,7 +1024,6 @@ djview4
 djvulibre
 dkms
 dleyna
-dlm
 dl
 dmapd
 dmenu
@@ -1794,7 +1795,6 @@ gcstar
 gdcalc
 gdcm
 gdigi
-gdisk
 gdk-pixbuf2
 gdlmm
 gdm
@@ -2151,7 +2151,6 @@ gnome-contacts
 gnome-control-center
 gnome-desktop-sharp
 gnome-desktop-testing
-gnome-devel-docs
 gnome-dictionary
 gnome-disk-utility
 gnome-do
@@ -4033,7 +4032,6 @@ gupnp-igd
 gupnp
 gupnp-tools
 guvcview
-gvfs
 gvisor-tap-vsock
 gv
 gwebsockets
@@ -5490,7 +5488,6 @@ lockfile-progs
 logcheck
 logiops
 logitech-27mhz-keyboard-encryption-setup
-logjam
 logserial
 logstalgia
 log4cpp
@@ -5529,7 +5526,6 @@ lskat
 lsnipes
 lsp-plugins
 ls-qpack
-lsscsi
 lsw
 lsyncd
 lterm
@@ -5605,7 +5601,6 @@ lusol
 lutok
 lutris
 luxcorerender
-lvm2
 lv2-abGate
 lv2-c++-tools
 lv2-eq10q
@@ -6467,7 +6462,6 @@ nv-codec-headers
 nvidia-query-resource-opengl
 nvidia-texture-tools
 nvme-cli
-nvmetcli
 nvtop
 nwg-launchers
 nwg-panel
@@ -8151,7 +8145,6 @@ perl-Test2-Plugin-IOEvents
 perl-Test2-Plugin-MemUsage
 perl-Test2-Plugin-UUID
 perl-Test2-Tools-Command
-perl-Test2-Tools-PerlCritic
 perl-Test2-Tools-Process
 perl-TeX-Encode
 perl-Text-Affixes
@@ -9323,13 +9316,11 @@ python-commoncode
 python-CommonMark
 python-comm
 python-compal
-python-compressed-rtf
 python-conda-index
 python-conda-inject
 python-conda-libmamba-solver
 python-conda-package-streaming
 python-configargparse
-python-configshell
 python-confluent-kafka
 python-connect-box
 python-connection_pool
@@ -9901,7 +9892,6 @@ python-kismet-rest
 python-kitchen
 python-klein
 python-klusta
-python-kmod
 python-knack
 python-kombu
 python-korean-lunar-calendar
@@ -10091,7 +10081,6 @@ python-nibabel
 python-nifti-mrs
 python-nihtest
 python-nikola
-python-nilearn
 python-nine
 python-nitime
 python-nitrate
@@ -10578,7 +10567,6 @@ python-read-roi
 python-rebulk
 python-recommonmark
 python-recordclass
-python-red-black-tree-mod
 python-redis
 python-reedsolo
 python-referencing
@@ -10655,7 +10643,6 @@ python-rstcheck
 python-rst-linker
 python-rstr
 python-rtmidi
-python-rtslib
 python-ruffus
 python-rustcfg
 python-rust-update-set
@@ -10722,6 +10709,7 @@ python-simplebayes
 python-simpleeval
 python-simplegeneric
 python-simplejson
+python-simple-pid
 python-simple-rlp
 python-simple-salesforce
 python-simplevisor
@@ -11479,7 +11467,6 @@ R-dtplyr
 R-DT
 R-DynDoc
 readstat
-rear
 reaver
 rebase-helper
 rebloom
@@ -14228,7 +14215,6 @@ samefile
 samplv1
 samtools
 samurai
-sanlock
 saphire
 sar2
 sasl-xoauth2
@@ -14697,7 +14683,6 @@ surf
 surgescript
 suru-icon-theme
 suseconnect-ng
-sushi
 svgpart
 svg2svgt
 svnkit
@@ -14755,7 +14740,6 @@ tali
 tango-icon-theme-extras
 tango-icon-theme
 tarantool
-targetcli
 target-isns
 taskd
 taskflow
@@ -15021,7 +15005,6 @@ udftools
 udiskie
 udisks
 udisks2-qt5
-udisks2
 udns
 udpcast
 udpxy
@@ -15075,7 +15058,6 @@ urdfdom
 uredir
 urg
 urh
-uriparser
 urjtag
 urlbuster
 urlwatch
