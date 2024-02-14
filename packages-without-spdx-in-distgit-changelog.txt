@@ -961,7 +961,6 @@ desktopfolder
 detox
 devhelp
 device-mapper-multipath
-device-mapper-persistent-data
 DevIL
 devio
 devtodo
@@ -2028,7 +2027,6 @@ ghc9.8
 ghdl
 ghex
 gh
-giflib
 gifsicle
 gifticlib
 gif2png
@@ -4259,7 +4257,7 @@ intelhex
 intel-igc
 intel-ipp-crypto-mb
 intel-ipsec-mb
-intel-llvm8.0-vc-intrinsics
+intel-llvm-vc-intrinsics11
 intel-lpmd
 intel-media-driver-free
 intel-mediasdk
@@ -4282,7 +4280,6 @@ ipa-pgothic-fonts
 ipa-pmincho-fonts
 ipcgull
 iperf
-iperf3
 ipe
 ipmctl
 ipmiutil
@@ -4953,7 +4950,6 @@ libcloudproviders
 libcmpiutil
 libcoap
 libcompizconfig
-libconfig
 libcorrect
 libcouchbase
 libcpuid
@@ -5009,7 +5005,6 @@ libesedb
 libesmtp
 libetnaviv
 libevdevPlus
-libevent
 libewf
 libexif
 libfc14audiodecoder
@@ -5287,7 +5282,6 @@ libsexymm
 libsexy
 libshumate
 libsidplayfp
-libsigc++30
 libsignal-protocol-c
 libsigrokdecode
 libsigrok
@@ -5350,13 +5344,13 @@ libuninum
 libunistring1.0
 libunity
 libupnp
-liburing
 libusbauth-configparser
 libusb-compat-0.1
 libusbg
 libuvc
 libu2f-host
 libu2f-server
+libva-intel-hybrid-driver
 libva-nvidia-driver
 libvarlink
 libva-utils
@@ -5477,11 +5471,8 @@ llvm11
 llvm12
 llvm13
 llvm14
-llvm7.0
-llvm8.0
 lmfit
 lmms
-lm_sensors
 lnav
 lockdev
 lockfile-progs
@@ -6235,7 +6226,6 @@ muse
 musl
 mussh
 mutter
-mutt
 mvfst
 mxml
 mxparser
@@ -6493,7 +6483,6 @@ ocaml-crunch
 ocaml-csv
 ocaml-curl
 ocaml-lwt
-ocaml-migrate-parsetree
 ocaml-opam-file-format
 ocaml-pcre2
 ocaml-perl4caml
@@ -6627,7 +6616,6 @@ openjdk-asmtools7
 openjfx
 openjfx8
 openjpeg
-openjpeg2
 openkim-models
 openlibm
 openlierox
@@ -8767,7 +8755,6 @@ poly2tri
 pop-gtk-theme
 pop-icon-theme
 poppler-sharp
-popt
 popub
 porcupine
 portaudio
@@ -9387,7 +9374,6 @@ python-debian-inspector
 python-debrepo
 python-debtcollector
 python-deconz
-python-decorator
 python-deepdiff
 python-defcon
 python-defusedxml
@@ -10968,7 +10954,6 @@ python-urlgrabber
 python-url-normalize
 python-urlpy
 python-urwid-readline
-python-urwid
 python-urwidtrees
 python-user-agents
 python-usort
@@ -11153,6 +11138,7 @@ python-zope-i18nmessageid
 python-zope-schema
 python-zope-sqlalchemy
 python-zope-testing
+python-zope-testrunner
 python-zopeundo
 python-zuul-sphinx
 python-zxcvbn
@@ -13740,6 +13726,7 @@ rust-snphost
 rust-socketpair
 rust-socket2
 rust-socket2_0.4
+rust-socks
 rust-spdx
 rust-speakersafetyd
 rust-speedate
@@ -13870,6 +13857,7 @@ rust-tinystr
 rust-tinytemplate
 rust-tinyvec_macros
 rust-tinyvec
+rust-titlecase
 rust-tokio-core
 rust-tokio-openssl
 rust-tokio-rustls
@@ -14542,9 +14530,9 @@ spice
 spill
 spim
 spindown
+spirv-llvm-translator11
 spirv-llvm-translator16
 spirv-llvm15.0-translator
-spirv-llvm8.0-translator
 spi-tools
 splat
 splint
@@ -14627,7 +14615,6 @@ stripesnoop
 strongswan
 stun
 subfinder
-subnetcalc
 subscription-manager-cockpit
 subtitleeditor
 subversion-api-docs
@@ -15279,6 +15266,7 @@ webextension-token-signing
 webkitgtk
 webkit2gtk4.0
 webkit2-sharp
+webrtc-audio-processing0.3
 websec
 websocketpp
 webtech

@@ -373,7 +373,6 @@ go-rpm-macros
 gobject-introspection
 golang
 golang-github-openprinting-ipp-usb
-gom
 google-carlito-fonts
 google-crosextra-caladea-fonts
 google-droid-fonts
@@ -386,7 +385,6 @@ google-noto-serif-cjk-vf-fonts
 google-roboto-slab-fonts
 gperf
 gpgme
-gpm
 gpsd
 grafana
 grafana-pcp
@@ -395,8 +393,6 @@ graphite2
 graphviz
 greenboot
 grep
-grilo
-grilo-plugins
 groff
 grub2
 grubby
@@ -636,6 +632,7 @@ initoverlayfs
 initscripts
 insights-client
 intel-cmt-cat
+intel-lpmd
 iotop-c
 ipa
 ipa-healthcheck
@@ -856,7 +853,6 @@ libmad
 libmatchbox
 libmaxminddb
 libmbim
-libmediaart
 libmemcached-awesome
 libmicrohttpd
 libmng
@@ -1147,7 +1143,6 @@ numatop
 numpy
 nvme-cli
 nvmetcli
-nvml
 objectweb-asm
 ocaml-srpm-macros
 oci-seccomp-bpf-hook
@@ -1185,6 +1180,8 @@ openssh
 openssl
 openssl-ibmca
 openssl-pkcs11
+opentelemetry-collector
+opentelemetry-collector-cloudwatch-config
 opentest4j
 openwsman
 opus
@@ -1450,7 +1447,6 @@ postgresql16-decoderbufs
 postgresql16-pg_repack
 postgresql16-pgaudit
 potrace
-power-profiles-daemon
 powerpc-utils
 powertop
 ppc64-diag
@@ -1856,7 +1852,6 @@ tomcat
 tomcatjss
 toolbox
 torque
-totem
 totem-pl-parser
 tpm2-abrmd
 tpm2-abrmd-selinux
@@ -1936,7 +1931,7 @@ wayland
 wayland-utils
 waypipe
 webp-pixbuf-loader
-webrtc-audio-processing
+webrtc-audio-processing0.3
 weldr-client
 wget2
 which
