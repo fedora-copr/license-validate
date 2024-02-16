@@ -551,7 +551,6 @@ cawbird
 cbios
 cbonsai
 cbootimage
-ccache
 ccd2iso
 ccgo
 ccluster
@@ -2674,6 +2673,7 @@ golang-github-fnproject-fdk
 golang-github-fogleman-gg
 golang-github-form3tech-oss-jwt
 golang-github-fortytw2-leaktest
+golang-github-foxcpp-mockdns
 golang-github-francoispqt-gojay
 golang-github-franela-goblin
 golang-github-franela-goreq
@@ -3537,6 +3537,7 @@ golang-github-thlib-timezone-local
 golang-github-thoas-funk
 golang-github-thoj-ircevent
 golang-github-tchap-patricia
+golang-github-tidwall-gjson
 golang-github-tidwall-match
 golang-github-tidwall-pretty
 golang-github-tinylib-msgp
@@ -4504,7 +4505,6 @@ kde-gtk-config
 kde-inotify-survey
 kde-i18n
 kde-l10n
-kdenetwork-filesharing
 kdenlive
 kdepim-addons
 kdepimlibs
@@ -4791,7 +4791,6 @@ ksshaskpass
 kstars
 kstart
 ksudoku
-ksysguard
 ksystemlog
 ksystemstats
 kteatime
@@ -5183,7 +5182,6 @@ libnids
 libnitrokey
 libnotify
 libnova
-libnsl2
 libnss-mysql
 libntlm
 libnuml
@@ -5370,7 +5368,6 @@ libvpx8
 libvterm
 libv3270
 libwebcam
-libwebp
 libwebsockets
 libwfut
 libwhirlpool
@@ -5431,7 +5428,6 @@ lightly
 lightning
 lightpack
 lilv
-limnoria
 lincity-ng
 lingot
 linhpsdr
@@ -6638,7 +6634,6 @@ openqa
 openrdate
 openresolv
 openriichi
-open-sans-fonts
 openscad
 openscap-report
 OpenSceneGraph
@@ -7629,7 +7624,6 @@ perl-Messaging-Message
 perl-meta
 perl-Metrics-Any
 perl-MIME-Base32
-perl-MIME-EncWords
 perl-MIME-Lite-HTML
 perl-MIME-Lite-TT-HTML
 perl-Minion-Backend-SQLite
@@ -8503,7 +8497,6 @@ php-pecl-pq
 php-pecl-redis5
 php-phar-io-manifest
 php-phar-io-version
-php-PHP-CSS-Parser
 php-phpdocumentor-reflection-common
 php-phpdocumentor-reflection-common2
 php-phpdocumentor-reflection-docblock
@@ -9327,6 +9320,7 @@ python-coverage
 python-coveralls
 python-cpio
 python-cradox
+python-cramjam
 python-crank
 python-crashtest
 python-crayons
@@ -10488,7 +10482,6 @@ python-pytest-sourceorder
 python-pytest-spec
 python-pytest-steps
 python-pytest-subprocess
-python-pytest-sugar
 python-pytest-testmon
 python-pytest-tldr
 python-pytest-trio
@@ -11027,6 +11020,7 @@ python-winsspi
 python-wled
 python-wordcloud
 python-wsaccel
+python-wsgidav
 python-wsgi_intercept
 python-WSGIProxy2
 python-wsproto
@@ -12694,10 +12688,6 @@ rust-git-version-macro
 rust-git-version
 rust-git2-curl
 rust-git2
-rust-git2_0.13
-rust-git2_0.14
-rust-git2_0.16
-rust-git2_0.17
 rust-gix-actor
 rust-gix-archive
 rust-gix-attributes
@@ -13018,10 +13008,6 @@ rust-libdbus-sys
 rust-libdeflater
 rust-libdeflate-sys
 rust-libgit2-sys
-rust-libgit2-sys0.12
-rust-libgit2-sys0.13
-rust-libgit2-sys0.14
-rust-libgit2-sys0.15
 rust-libgweather
 rust-libhandy
 rust-libhandy-sys
@@ -13178,6 +13164,7 @@ rust-nucleo
 rust-nu-cmd-base
 rust-nu-cmd-lang
 rust-nu-color-config
+rust-nu-command
 rust-nu-explore
 rust-nu-glob
 rust-num-bigint-dig
@@ -13955,6 +13942,7 @@ rust-unix_socket
 rust-unsafe-libyaml
 rust-untrusted0.7
 rustup
+rust-ureq
 rust-urid-derive
 rust-urid
 rust-uriparse
@@ -14499,7 +14487,6 @@ sourcextractor++
 soxr
 sox
 spacebar
-spacefm
 spacenavd
 spamassassin-dqs
 spamassassin-iXhash2
@@ -14841,7 +14828,6 @@ tinyexr
 tinyfugue
 tinygo
 tinyobjloader
-tinyproxy
 tinyxml
 tinyxml2
 tinyxpath
@@ -14944,7 +14930,6 @@ truth
 tse3
 tsl-sparse-map
 ttcp
-ttembed
 ttf2pt1
 tty-copy
 tuba
@@ -15002,7 +14987,6 @@ uflash
 ufw-kde
 ufw
 ugene
-uget
 uglify-js
 ugrep
 uhd
@@ -15176,11 +15160,9 @@ virt-backup
 virt-bootstrap
 virt-lightning
 virtme-ng
-virtme
 virtualbox-guest-additions
 VirtualGL
 virtualpg
-virt-who
 visidata
 vis
 visualboyadvance-m

@@ -654,7 +654,6 @@ cawbird
 cbios
 cbonsai
 cbootimage
-ccache
 ccdciel
 ccd2iso
 ccgo
@@ -1140,7 +1139,6 @@ desktopfolder
 detox
 devhelp
 device-mapper-multipath
-device-mapper-persistent-data
 DevIL
 devio
 devscripts
@@ -3469,6 +3467,7 @@ golang-github-fnproject-fdk
 golang-github-fogleman-gg
 golang-github-form3tech-oss-jwt
 golang-github-fortytw2-leaktest
+golang-github-foxcpp-mockdns
 golang-github-francoispqt-gojay
 golang-github-franela-goblin
 golang-github-franela-goreq
@@ -4339,6 +4338,7 @@ golang-github-thlib-timezone-local
 golang-github-thoas-funk
 golang-github-thoj-ircevent
 golang-github-tchap-patricia
+golang-github-tidwall-gjson
 golang-github-tidwall-match
 golang-github-tidwall-pretty
 golang-github-tinylib-msgp
@@ -5066,6 +5066,7 @@ ibm-plex-fonts
 ibp
 ibsim
 ibus-cangjie
+ibus-m17n
 ibus-skk
 ibus-typing-booster
 icc-profiles-basiccolor-printing2009
@@ -5457,7 +5458,6 @@ kde-gtk-config
 kde-inotify-survey
 kde-i18n
 kde-l10n
-kdenetwork-filesharing
 kdenlive
 kde-partitionmanager
 kdepim-addons
@@ -5879,7 +5879,6 @@ ksshaskpass
 kstars
 kstart
 ksudoku
-ksysguard
 ksystemlog
 ksystemstats
 kteatime
@@ -6141,7 +6140,6 @@ libetnaviv
 libetonyek
 libetpan
 libevdevPlus
-libevent
 libewf
 libexif
 libextractor
@@ -6628,7 +6626,6 @@ libvterm
 libv3270
 libwapcaplet
 libwebcam
-libwebp
 libwebsockets
 libwfut
 libwhirlpool
@@ -6704,7 +6701,6 @@ lightning
 lightpack
 lightsoff
 lilv
-limnoria
 lincity-ng
 lingot
 linhpsdr
@@ -6749,7 +6745,6 @@ lmdb
 lmdbxx
 lmfit
 lmms
-lm_sensors
 lnav
 lockdev
 lockfile-progs
@@ -7926,7 +7921,6 @@ nvidia-query-resource-opengl
 nvidia-texture-tools
 nvme-cli
 nvme-stas
-nvmetcli
 nvtop
 nwg-launchers
 nwg-panel
@@ -9763,7 +9757,6 @@ perl-Method-Signatures-Simple
 perl-Metrics-Any
 perl-MIME-Base32
 perl-MIME-Base64
-perl-MIME-EncWords
 perl-MIME-Charset
 perl-MIME-Lite-HTML
 perl-MIME-Lite-TT-HTML
@@ -10622,7 +10615,6 @@ perl-Test-Unit
 perl-Test-UseAllModules
 perl-Test-utf8
 perl-Test-Valgrind
-perl-Test-Vars
 perl-Test-Version
 perl-Test-Warnings
 perl-Test-WriteVariants
@@ -11116,7 +11108,6 @@ php-pecl-pq
 php-pecl-redis5
 php-phar-io-manifest
 php-phar-io-version
-php-PHP-CSS-Parser
 php-phpdocumentor-reflection-common
 php-phpdocumentor-reflection-common2
 php-phpdocumentor-reflection-docblock
@@ -12077,6 +12068,7 @@ python-coveralls
 python-cpio
 python-cppy
 python-cradox
+python-cramjam
 python-crank
 python-crashtest
 python-crayons
@@ -14098,6 +14090,7 @@ python-wled
 python-wordcloud
 python-wrapt
 python-wsaccel
+python-wsgidav
 python-wsgi_intercept
 python-WSGIProxy2
 python-wsproto
@@ -15382,6 +15375,7 @@ rust-blowfish
 rust-blsctl
 rust-bodhi-cli
 rust-bodhi
+rust-bootupd
 rust-bracoxide
 rust-brotli-decompressor
 rust-brotli
@@ -15871,10 +15865,6 @@ rust-git-version-macro
 rust-git-version
 rust-git2-curl
 rust-git2
-rust-git2_0.13
-rust-git2_0.14
-rust-git2_0.16
-rust-git2_0.17
 rust-gix-actor
 rust-gix-archive
 rust-gix-attributes
@@ -16197,10 +16187,6 @@ rust-libdbus-sys
 rust-libdeflater
 rust-libdeflate-sys
 rust-libgit2-sys
-rust-libgit2-sys0.12
-rust-libgit2-sys0.13
-rust-libgit2-sys0.14
-rust-libgit2-sys0.15
 rust-libgweather
 rust-libhandy
 rust-libhandy-sys
@@ -16357,6 +16343,7 @@ rust-nucleo
 rust-nu-cmd-base
 rust-nu-cmd-lang
 rust-nu-color-config
+rust-nu-command
 rust-nu-explore
 rust-nu-glob
 rust-num-bigint-dig
@@ -17136,6 +17123,7 @@ rust-unix_socket
 rust-unsafe-libyaml
 rust-untrusted0.7
 rustup
+rust-ureq
 rust-urid-derive
 rust-urid
 rust-uriparse
@@ -17728,7 +17716,6 @@ sourcextractor++
 soxr
 sox
 spacebar
-spacefm
 spacenavd
 spamassassin-dqs
 spamassassin-iXhash2
@@ -18129,7 +18116,6 @@ tinyexr
 tinyfugue
 tinygo
 tinyobjloader
-tinyproxy
 tinyxml
 tinyxml2
 tinyxpath
@@ -18305,7 +18291,6 @@ ufraw
 ufw-kde
 ufw
 ugene
-uget
 uglify-js
 ugrep
 uhd
@@ -18506,7 +18491,6 @@ virt-bootstrap
 virt-lightning
 virt-manager
 virtme-ng
-virtme
 virtualbox-guest-additions
 VirtualGL
 virtualpg
