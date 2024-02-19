@@ -75,6 +75,7 @@ akonadi
 akregator
 alacarte
 aldo
+alembic
 alerque-libertinus-fonts
 alexandria
 alex
@@ -423,6 +424,7 @@ brise
 bristol
 brltty
 brotli
+bsfilter
 bsf
 bsp
 btop
@@ -480,6 +482,7 @@ calendarsupport
 calf
 calibre
 calindori
+callaudiod
 calls
 campivisivi-titillium-fonts
 candy-icon-theme
@@ -620,6 +623,7 @@ compose-utils
 conan
 conda-build
 conda
+config-kernel
 conky
 conman
 conmon
@@ -751,6 +755,7 @@ c4project
 daniel-wikholm-segment16-fonts
 dante
 darcs
+dasher
 dash
 datefudge
 date
@@ -2093,6 +2098,7 @@ gnome-devel-docs
 gnome-directory-thumbnailer
 gnome-disk-utility
 gnome-doc-utils
+gnome-epub-thumbnailer
 gnome-firmware
 gnome-flashback
 gnome-font-viewer
@@ -2152,6 +2158,7 @@ gnome-tweaks
 gnome-user-docs
 gnome-vfs2-monikers
 gnome-vfs2
+gnome-2048
 gnote
 gn
 gnubg
@@ -2214,6 +2221,7 @@ golang-github-apache-openwhisk-client
 golang-github-apache-thrift
 golang-github-apapsch-jsonmerge-2
 golang-github-apparentlymart-textseg-13
+golang-github-apparentlymart-textseg-15
 golang-github-arran4-ical
 golang-github-atotto-clipboard
 golang-github-awslabs-aws-multi-module-repository-tools
@@ -2547,6 +2555,7 @@ golang-github-tenox7-wrp
 golang-github-theoapp-theo-agent
 golang-github-tidwall-gjson
 golang-github-tidwall-match
+golang-github-tidwall-sjson
 golang-github-tklauser-numcpus
 golang-github-tklauser-sysconf
 golang-github-tonistiigi-archvariant
@@ -2855,6 +2864,7 @@ hedley
 helix
 hello
 help2man
+helvum
 HepMC3
 hevea
 hexedit
@@ -3617,6 +3627,7 @@ kirigami-gallery
 kismet
 kissat
 kiss-fft
+kita
 kiten
 kitinerary
 kitty
@@ -4285,6 +4296,7 @@ litehtml
 lite-xl
 live555
 lklug-fonts
+lksctp-tools
 lldb
 lld
 lld15
@@ -4632,6 +4644,7 @@ mingw-qt6-qtimageformats
 mingw-qt6-qtlocation
 mingw-qt6-qtmultimedia
 mingw-qt6-qtpositioning
+mingw-qt6-qtscxml
 mingw-qt6-qtsensors
 mingw-qt6-qtserialport
 mingw-qt6-qtshadertools
@@ -4674,6 +4687,7 @@ minisat2
 minizip-ng
 miniz
 minuet
+miopen
 mirage
 mirrorlist-server
 mir
@@ -5314,6 +5328,7 @@ pango
 paper-icon-theme
 paperkey
 paperwork
+papilo
 papirus-icon-theme
 papi
 pappl
@@ -5388,6 +5403,7 @@ perl-Acme-Alien-DontPanic2
 perl-Acme-PlayCode
 perl-Affix-Infix2Postfix
 perl-Algorithm-Annotate
+perl-Algorithm-Combinatorics
 perl-Algorithm-Cron
 perl-Algorithm-C3
 perl-Algorithm-Dependency
@@ -7375,6 +7391,7 @@ pixman
 pjproject
 pkcs11-helper
 pkcs11-provider
+pkcs11test
 pkgtreediff
 planarity
 planets
@@ -7961,6 +7978,7 @@ python-google-api-core
 python-googleapis-common-protos
 python-google-auth
 python-google-cloud-core
+python-google-cloud-monitoring
 python-google-cloud-storage
 python-google-crc32c
 python-google-resumable-media
@@ -8374,6 +8392,7 @@ python-pwntools
 python-pyABF
 python-pyahocorasick
 python-py-algorand-sdk
+python-pyasn
 python-pyasn1
 python-pyasyncore
 python-pyasynchat
@@ -9156,6 +9175,7 @@ rocblas
 rocclr
 rocfft
 rocm-cmake
+rocm-core
 rocm-rpm-macros
 rocm-smi
 rocprim
@@ -9666,6 +9686,7 @@ rust-anstyle
 rust-anyhow
 rust-aom-sys
 rust-app_dirs
+rust-app_dirs2
 rust-apple-nvram
 rust-approx
 rust-arbitrary
@@ -10603,7 +10624,6 @@ rust-heapsize
 rust-heatseeker
 rust-heck
 rust-heck0.3
-rust-helvum
 rust-hexf-parse
 rust-hex-literal-impl
 rust-hex-literal
@@ -10844,7 +10864,6 @@ rust-libspa
 rust-libspa-sys
 rust-libsqlite3-sys
 rust-libssh2-sys
-rust-libssh2-sys0.2
 rust-libsystemd
 rust-libtest-mimic
 rust-libudev
@@ -10894,6 +10913,7 @@ rust-lscolors
 rust-lscolors0.13
 rust-lscolors0.15
 rust-lsd
+rust-lsp-server
 rust-lsp-types
 rust-lv2-atom
 rust-lv2-core-derive
@@ -11034,6 +11054,7 @@ rust-nu-ansi-term
 rust-nu-ansi-term0.46
 rust-nucleo-matcher
 rust-nucleo
+rust-nu-cli
 rust-nu-cmd-base
 rust-nu-cmd-lang
 rust-nu-color-config
@@ -11042,12 +11063,14 @@ rust-nu-engine
 rust-nu-explore
 rust-nu-glob
 rust-nu-json
+rust-nu-lsp
 rust-number_prefix
 rust-num-bigint-dig
 rust-num-bigint
 rust-num-bigint0.3
 rust-num-complex
 rust-num-complex0.3
+rust-num-conv
 rust-num_cpus
 rust-num-derive
 rust-num-derive0.3
@@ -11068,6 +11091,7 @@ rust-nu-path
 rust-nu-plugin
 rust-nu-pretty-hex
 rust-nu-protocol
+rust-nu
 rust-nu-std
 rust-nu-system
 rust-nu-table
@@ -11586,6 +11610,7 @@ rust-sequoia-autocrypt
 rust-sequoia-cert-store
 rust-sequoia-chameleon-gnupg
 rust-sequoia-ipc
+rust-sequoia-keystore-backend
 rust-sequoia-net
 rust-sequoia-openpgp-mt
 rust-sequoia-openpgp
@@ -12569,6 +12594,7 @@ srain
 src
 srecord
 srpc
+srt
 sscg
 ssh-audit
 ssldump
@@ -13237,6 +13263,7 @@ yambar
 yaml-cpp
 yanone-kaffeesatz-fonts
 yara
+yarnpkg
 yascreen
 yash
 yasm

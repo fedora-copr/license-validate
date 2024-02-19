@@ -224,6 +224,7 @@ asc-music
 asc
 asdcplib
 asio-grpc
+asl
 asmjit
 asm6809
 asnip
@@ -314,7 +315,6 @@ backup-light
 backupninja
 BackupPC
 BackupPC-XS
-bacula-docs
 bacula
 badchars
 badvpn
@@ -459,7 +459,6 @@ brightnessctl
 brutalchess
 bsd-games
 bsdiff
-bsfilter
 bsh
 bspwm
 bst-external
@@ -517,7 +516,6 @@ calamares
 CalcMySky
 calendarsupport
 calindori
-callaudiod
 callgit
 calligraplan
 calligra
@@ -732,6 +730,7 @@ conakry-fonts
 concordance
 conda-build
 condor
+config-kernel
 configsnap
 congruity
 conman
@@ -872,7 +871,6 @@ darkman
 darkstat
 darktable
 dar
-dasher
 datamash
 dataquay
 davfs2
@@ -2151,7 +2149,6 @@ gnome-desktop-testing
 gnome-dictionary
 gnome-disk-utility
 gnome-do
-gnome-epub-thumbnailer
 gnome-extensions-app
 gnome-feeds
 gnome-font-viewer
@@ -2221,7 +2218,6 @@ gnome-user-share
 gnome-valgrind-session
 gnome-video-effects
 gnome-weather
-gnome-2048
 gns3-gui
 gns3-net-converter
 gns3-server
@@ -2354,6 +2350,7 @@ golang-github-apache-beam-2
 golang-github-apache-openwhisk-client
 golang-github-apapsch-jsonmerge-2
 golang-github-apex-logs
+golang-github-apparentlymart-textseg-15
 golang-github-appc-docker2aci
 golang-github-appc-spec
 golang-github-aquarapid-vaultlib
@@ -3540,6 +3537,7 @@ golang-github-tchap-patricia
 golang-github-tidwall-gjson
 golang-github-tidwall-match
 golang-github-tidwall-pretty
+golang-github-tidwall-sjson
 golang-github-tinylib-msgp
 golang-github-tj-assert
 golang-github-tj-buffer
@@ -4065,6 +4063,7 @@ heaptrack
 heimdall
 heimdal
 helix
+helvum
 HepMC
 HepMC3
 herbstluftwm
@@ -4675,7 +4674,6 @@ kirigami-gallery
 kiriki
 kiss-fft
 kiss
-kita
 kiten
 kitinerary
 kiwi-boxed-plugin
@@ -5454,7 +5452,6 @@ livecd-tools
 livesys-scripts
 live555
 lizardfs
-lksctp-tools
 llconf
 lldb
 lldpad
@@ -6008,6 +6005,7 @@ mingw-qt5-qt3d
 mingw-qt6-qtactiveqt
 mingw-qt6-qtlocation
 mingw-qt6-qtpositioning
+mingw-qt6-qtscxml
 mingw-qt6-qttools
 mingw-qt6-qttranslations
 mingw-rest
@@ -6058,6 +6056,7 @@ mint-themes
 mint-x-icons
 mint-y-icons
 minuet
+miopen
 mirmon
 mirrorlist-server
 mirrormagic
@@ -6747,6 +6746,7 @@ pango
 Panini
 panoglview
 paperwork
+papilo
 papirus-icon-theme
 paprefs
 parallel
@@ -6829,7 +6829,6 @@ perl-Acme-Damn
 perl-AI-Categorizer
 perl-AI-DecisionTree
 perl-Algorithm-BloomFilter
-perl-Algorithm-Combinatorics
 perl-Algorithm-Diff-XS
 perl-Algorithm-FastPermute
 perl-Algorithm-CheckDigits
@@ -8657,6 +8656,7 @@ pisg
 pixiewps
 pkcs11-dump
 pkcs11-provider
+pkcs11test
 pkgconf
 pkgdiff
 plank
@@ -9034,6 +9034,7 @@ python-ast-monitor
 python-astor
 python-astral
 python-astroML
+python-astroplan
 python-astroquery
 python-astroscrappy
 python-astunparse
@@ -9670,6 +9671,7 @@ python-gnupg
 python-google-auth-oauthlib
 python-google-cloud-core
 python-google-cloud-dns
+python-google-cloud-monitoring
 python-google-i18n-address
 python-gphoto2
 python-grabbit
@@ -10275,6 +10277,7 @@ python-pyaib
 python-pyairnow
 python-pyairvisual
 python-pyarlo
+python-pyasn
 python-pyasyncore
 python-pyasynchat
 python-pybalboa
@@ -10885,6 +10888,7 @@ python-tox-current-env
 python-tpm2-pytss
 python-tqdm
 python-trailrunner
+python-traitlets
 python-traitsui
 python-transaction
 python-translationstring
@@ -11675,6 +11679,7 @@ rocksdb
 rocksndiamonds
 rocm-cmake
 rocm-compilersupport
+rocm-core
 rocm-device-libs
 rocminfo
 rocm-rpm-macros
@@ -12056,6 +12061,7 @@ rust-anstyle-parse
 rust-anstyle-query
 rust-anstyle
 rust-anyhow
+rust-app_dirs2
 rust-apple-nvram
 rust-approx
 rust-arbitrary
@@ -12829,7 +12835,6 @@ rust-heapless
 rust-heapsize
 rust-heck
 rust-heck0.3
-rust-helvum
 rust-hexf-parse
 rust-hex-literal-impl
 rust-hex-literal
@@ -13024,7 +13029,6 @@ rust-librsvg
 rust-libseccomp-sys
 rust-libsodium-sys
 rust-libssh2-sys
-rust-libssh2-sys0.2
 rust-libsystemd
 rust-libtest-mimic
 rust-libz-sys
@@ -13065,6 +13069,7 @@ rust-lscolors
 rust-lscolors0.13
 rust-lscolors0.15
 rust-lsd
+rust-lsp-server
 rust-lsp-types
 rust-lv2-atom
 rust-lv2-core-derive
@@ -13161,17 +13166,20 @@ rust-ntest_timeout
 rust-nu-ansi-term0.46
 rust-nucleo-matcher
 rust-nucleo
+rust-nu-cli
 rust-nu-cmd-base
 rust-nu-cmd-lang
 rust-nu-color-config
 rust-nu-command
 rust-nu-explore
 rust-nu-glob
+rust-nu-lsp
 rust-num-bigint-dig
 rust-num-bigint
 rust-num-bigint0.3
 rust-num-complex
 rust-num-complex0.3
+rust-num-conv
 rust-num_cpus
 rust-num-derive
 rust-num-derive0.3
@@ -13189,6 +13197,7 @@ rust-num-traits
 rust-num0.3
 rust-nu-plugin
 rust-nu-pretty-hex
+rust-nu
 rust-nu-std
 rust-nu-system
 rust-nu-table
@@ -13220,6 +13229,7 @@ rust-ouroboros_macro
 rust-ouroboros
 rust-owned_ttf_parser
 rust-owo-colors3
+rust-oxipng
 rust-pager
 rust-page_size
 rust-palette_derive
@@ -13595,6 +13605,7 @@ rust-sequoia-cert-store
 rust-sequoia-chameleon-gnupg
 rust-sequoia-ipc
 rust-sequoia-keyring-linter
+rust-sequoia-keystore-backend
 rust-sequoia-net
 rust-sequoia-octopus-librnp
 rust-sequoia-openpgp-mt
@@ -14550,7 +14561,6 @@ srm-ifce
 srmio
 srm
 srpc
-srt
 ssdeep
 sselp
 ssh-audit

@@ -272,6 +272,7 @@ asc
 asdcplib
 asio-grpc
 asio
+asl
 asmjit
 asm6809
 asnip
@@ -377,7 +378,6 @@ backup-light
 backupninja
 BackupPC
 BackupPC-XS
-bacula-docs
 bacula
 badchars
 badvpn
@@ -542,7 +542,6 @@ brotli
 brutalchess
 bsd-games
 bsdiff
-bsfilter
 bsh
 bspwm
 bst-external
@@ -876,6 +875,7 @@ concordance
 conda-build
 conda
 condor
+config-kernel
 configsnap
 congruity
 conky
@@ -1025,6 +1025,7 @@ cxxopts
 cxxtools
 cyrus-sasl
 cyrus-timezones
+Cython
 czmq
 c2hs
 c4core
@@ -3163,6 +3164,7 @@ golang-github-apache-openwhisk-client
 golang-github-apapsch-jsonmerge-2
 golang-github-apex-logs
 golang-github-apparentlymart-textseg-13
+golang-github-apparentlymart-textseg-15
 golang-github-appc-docker2aci
 golang-github-appc-spec
 golang-github-aquarapid-vaultlib
@@ -4367,6 +4369,7 @@ golang-github-tchap-patricia
 golang-github-tidwall-gjson
 golang-github-tidwall-match
 golang-github-tidwall-pretty
+golang-github-tidwall-sjson
 golang-github-tinylib-msgp
 golang-github-tj-assert
 golang-github-tj-buffer
@@ -4957,6 +4960,7 @@ hedley
 heimdall
 heimdal
 helix
+helvum
 HepMC
 HepMC3
 herbstluftwm
@@ -7425,6 +7429,7 @@ mingw-qt6-qtimageformats
 mingw-qt6-qtlocation
 mingw-qt6-qtmultimedia
 mingw-qt6-qtpositioning
+mingw-qt6-qtscxml
 mingw-qt6-qtsensors
 mingw-qt6-qtserialport
 mingw-qt6-qtshadertools
@@ -7503,6 +7508,7 @@ mint-themes
 mint-x-icons
 mint-y-icons
 minuet
+miopen
 mirmon
 mirrorlist-server
 mirrormagic
@@ -8384,6 +8390,7 @@ pango
 Panini
 panoglview
 paperwork
+papilo
 papirus-icon-theme
 paprefs
 parallel
@@ -11324,6 +11331,7 @@ pisg
 pixiewps
 pkcs11-dump
 pkcs11-provider
+pkcs11test
 pkgconf
 pkgdiff
 pkgtreediff
@@ -11770,6 +11778,7 @@ python-astor
 python-astral
 python-astroid
 python-astroML
+python-astroplan
 python-astroquery
 python-astroscrappy
 python-asttokens
@@ -12525,6 +12534,7 @@ python-googleapis-common-protos
 python-google-auth-oauthlib
 python-google-cloud-core
 python-google-cloud-dns
+python-google-cloud-monitoring
 python-google-cloud-storage
 python-google-crc32c
 python-google-i18n-address
@@ -13275,6 +13285,7 @@ python-pyaib
 python-pyairnow
 python-pyairvisual
 python-pyarlo
+python-pyasn
 python-pyasyncore
 python-pyasynchat
 python-pybalboa
@@ -14006,6 +14017,7 @@ python-tox
 python-tpm2-pytss
 python-tqdm
 python-trailrunner
+python-traitlets
 python-traitsui
 python-transaction
 python-transforms3d
@@ -14882,6 +14894,7 @@ rocksdb
 rocksndiamonds
 rocm-cmake
 rocm-compilersupport
+rocm-core
 rocm-device-libs
 rocminfo
 rocm-rpm-macros
@@ -15607,6 +15620,7 @@ rust-anstyle
 rust-anyhow
 rust-aom-sys
 rust-app_dirs
+rust-app_dirs2
 rust-apple-nvram
 rust-approx
 rust-arbitrary
@@ -16548,7 +16562,6 @@ rust-heapsize
 rust-heatseeker
 rust-heck
 rust-heck0.3
-rust-helvum
 rust-hexf-parse
 rust-hex-literal-impl
 rust-hex-literal
@@ -16790,7 +16803,6 @@ rust-libspa
 rust-libspa-sys
 rust-libsqlite3-sys
 rust-libssh2-sys
-rust-libssh2-sys0.2
 rust-libsystemd
 rust-libtest-mimic
 rust-libudev
@@ -16840,6 +16852,7 @@ rust-lscolors
 rust-lscolors0.13
 rust-lscolors0.15
 rust-lsd
+rust-lsp-server
 rust-lsp-types
 rust-lv2-atom
 rust-lv2-core-derive
@@ -16982,6 +16995,7 @@ rust-nu-ansi-term
 rust-nu-ansi-term0.46
 rust-nucleo-matcher
 rust-nucleo
+rust-nu-cli
 rust-nu-cmd-base
 rust-nu-cmd-lang
 rust-nu-color-config
@@ -16990,12 +17004,14 @@ rust-nu-engine
 rust-nu-explore
 rust-nu-glob
 rust-nu-json
+rust-nu-lsp
 rust-number_prefix
 rust-num-bigint-dig
 rust-num-bigint
 rust-num-bigint0.3
 rust-num-complex
 rust-num-complex0.3
+rust-num-conv
 rust-num_cpus
 rust-num-derive
 rust-num-derive0.3
@@ -17016,6 +17032,7 @@ rust-nu-path
 rust-nu-plugin
 rust-nu-pretty-hex
 rust-nu-protocol
+rust-nu
 rust-nu-std
 rust-nu-system
 rust-nu-table
@@ -17065,6 +17082,7 @@ rust-owned_ttf_parser
 rust-owning_ref
 rust-owo-colors
 rust-owo-colors3
+rust-oxipng
 rust-packaging
 rust-pad
 rust-pager
@@ -17538,6 +17556,7 @@ rust-sequoia-cert-store
 rust-sequoia-chameleon-gnupg
 rust-sequoia-ipc
 rust-sequoia-keyring-linter
+rust-sequoia-keystore-backend
 rust-sequoia-net
 rust-sequoia-octopus-librnp
 rust-sequoia-openpgp-mt
