@@ -93,6 +93,7 @@ alsa-utils
 alt-ergo
 alure
 amanda
+amarok
 amavisd-milter
 amg4psblas
 amiri-fonts
@@ -339,6 +340,7 @@ beakerlib-libraries
 bear
 beefy-miracle-kde-theme
 bee2
+bemenu
 bench
 beust-jcommander
 bfs
@@ -411,6 +413,7 @@ Box2D
 box64
 bpfmon
 bpftrace
+bpg-fonts
 braille-printer-app
 brainfuck
 brasero
@@ -679,6 +682,7 @@ cpufetch
 cpuinfo
 cpu-x
 cracklib
+cramjam-cli
 crash-gcore-command
 crash
 crash-trace-command
@@ -939,6 +943,7 @@ edac-utils
 edflib
 edid-decode
 editline
+editorconfig-emacs
 editorconfig
 edk2
 ed
@@ -1825,6 +1830,7 @@ ghc-silently
 ghc-simple-cabal
 ghc-simple-cmd-args
 ghc-simple-cmd
+ghc-simple-prompt
 ghc-simple-sendfile
 ghc-singleton-bool
 ghc-skein
@@ -1864,6 +1870,7 @@ ghc-tasty
 ghc-temporary
 ghc-terminal-size
 ghc-texmath
+ghc-text-icu
 ghc-text-manipulate
 ghc-text-metrics
 ghc-text-short
@@ -2351,6 +2358,7 @@ golang-github-google-go-github
 golang-github-google-gopacket
 golang-github-google-nftables
 golang-github-google-renameio-2
+golang-github-google-safehtml
 golang-github-google-shlex
 golang-github-google-s2a
 golang-github-google-trillian
@@ -2401,6 +2409,7 @@ golang-github-ipinfo-2
 golang-github-ishidawataru-sctp
 golang-github-jamesruan-rfc1924
 golang-github-jba-printsrc
+golang-github-jba-templatecheck
 golang-github-jcmturner-gofork
 golang-github-jcmturner-gokrb5
 golang-github-jedib0t-pretty-6
@@ -2724,6 +2733,7 @@ gpm
 gpodder
 gprbuild
 gprconfig-kb
+gprof2dot
 gprolog
 gpsbabel
 gpsd
@@ -3709,6 +3719,7 @@ kvantum
 kwayland-integration
 kwayland
 kwin
+kwin-x11
 kwrited
 kyotocabinet
 k3b
@@ -4201,6 +4212,7 @@ libvncserver
 libvoikko
 libvorbis
 libvpd
+libvpl
 libvpx
 libvpx8
 libwacom
@@ -4346,6 +4358,7 @@ lsof
 ls-qpack
 lsscsi
 lsvpd
+ltrace
 lttng-tools
 lttng-ust
 lua-cassowary
@@ -4601,6 +4614,7 @@ mingw-nsis
 mingw-numpy
 mingw-opusfile
 mingw-pangomm
+mingw-pango
 mingw-pcre
 mingw-pixman
 mingw-poppler
@@ -4693,7 +4707,6 @@ mirrorlist-server
 mir
 mk-configure
 mkfontscale
-mkosi-initrd
 mkosi
 mkosi14
 mksh
@@ -4947,6 +4960,7 @@ nq
 nrg2iso
 NsCDE
 nsnake
+nss-altfiles
 nss-pam-ldapd
 nss
 nss_wrapper
@@ -7424,6 +7438,7 @@ plasma-vault
 plasma-wallpapers-dynamic
 plasma-wayland-protocols
 plasma-welcome
+plasma-workspace-x11
 plasma5support
 player
 plexus-archiver
@@ -7639,6 +7654,7 @@ python-astroML
 python-astroplan
 python-astropy-healpix
 python-astropy
+python-astroscrappy
 python-asttokens
 python-async-lru
 python-asyncmy
@@ -7703,6 +7719,7 @@ python-barbicanclient
 python-basemap
 python-bash-kernel
 python-bcrypt
+python-beartype
 python-behave
 python-beniget
 python-berkeleydb
@@ -8373,6 +8390,8 @@ python-pooch
 python-portalocker
 python-posix-ipc
 python-postorius
+python-pox
+python-ppft
 python-pplpy
 python-prettytable
 python-primecountpy
@@ -8694,6 +8713,7 @@ python-sphinx-gallery
 python-sphinx-inline-tabs
 python-sphinx-issues
 python-sphinx-jsonschema
+python-sphinx-lint
 python-sphinx-markdown-tables
 python-sphinx-math-dollar
 python-sphinx-mdinclude
@@ -9716,6 +9736,7 @@ rust-askalono-cli
 rust-askalono
 rust-askama_derive
 rust-askama_escape
+rust-askama_parser
 rust-askama_shared
 rust-askama
 rust-asn1_derive
@@ -9899,6 +9920,7 @@ rust-calloop
 rust-calloop-wayland-source
 rust-camino
 rust-capng
+rust-capnpc
 rust-capnp-futures
 rust-capnp-rpc
 rust-capnp
@@ -10556,7 +10578,6 @@ rust-group
 rust-gsk4
 rust-gsk4-sys
 rust-gsk4-sys0.6
-rust-gsk4_0.6
 rust-gst-plugin-gif
 rust-gst-plugin-gtk4
 rust-gst-plugin-reqwest
@@ -10593,11 +10614,8 @@ rust-gtk3-macros
 rust-gtk3-macros0.15
 rust-gtk3-macros0.17
 rust-gtk4-macros
-rust-gtk4-macros0.6
 rust-gtk4
 rust-gtk4-sys
-rust-gtk4-sys0.6
-rust-gtk4_0.6
 rust-gvdb-macros
 rust-gvdb
 rust-gweather-sys
@@ -11005,6 +11023,7 @@ rust-multimap
 rust-mutate_once
 rust-nalgebra-macros
 rust-nalgebra
+rust-names
 rust-nanorand
 rust-nasm-rs
 rust-native-tls
@@ -11445,6 +11464,7 @@ rust-rand0.5
 rust-rand0.6
 rust-rand0.7
 rust-ratatui
+rust-ratatui0.21
 rust-rawpointer
 rust-raw-window-handle
 rust-raw-window-handle0.5
@@ -11535,6 +11555,7 @@ rust-rustc-test
 rust-rustc_version
 rust-rustc_version0.3
 rust-rustdct
+rust-rust_decimal_macros
 rust-rust_decimal
 rust-rust-embed-impl
 rust-rust-embed
@@ -11765,6 +11786,7 @@ rust-spytools
 rust-sscanf_macro
 rust-sscanf
 rust-ssh-key-dir
+rust-stability
 rust-stable_deref_trait
 rust-stacker
 rust-standback
@@ -11951,6 +11973,7 @@ rust-toml_datetime
 rust-toml_edit
 rust-toml_edit0.19
 rust-toml_edit0.20
+rust-toml_edit0.21
 rust-toml
 rust-toml0.4
 rust-toml0.5
@@ -12241,6 +12264,7 @@ rust-widestring
 rust-wild
 rust-winit
 rust-winnow
+rust-winnow0.5
 rust-wl-clipboard-rs
 rust-wmidi
 rust-wu-diff
@@ -12536,6 +12560,7 @@ snoopy
 snowball
 socat
 socket_wrapper
+sofia-sip
 softnet-stat
 solarwolf
 sombok
@@ -12893,6 +12918,7 @@ unicode-ucd
 unifdef
 units
 univocity-parsers
+unixODBC-gui-qt
 unixODBC
 unlambda
 unoconv
@@ -13327,6 +13353,7 @@ zydis
 zziplib
 zzuf
 z3
+3proxy
 389-ds-base
 4diac-forte
 4Pane

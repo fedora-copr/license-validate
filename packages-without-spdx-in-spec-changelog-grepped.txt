@@ -938,6 +938,7 @@ CQRlib
 cqrlog
 crack-attack
 crack
+cramjam-cli
 cranc
 crawl
 createrepo-agent
@@ -1388,6 +1389,7 @@ edg-gridftp-client
 edg-mkgridmap
 edid-decode
 editline
+editorconfig-emacs
 editres
 edk2
 ed
@@ -2591,6 +2593,7 @@ ghc-silently
 ghc-simple-cabal
 ghc-simple-cmd-args
 ghc-simple-cmd
+ghc-simple-prompt
 ghc-simple-sendfile
 ghc-skein
 ghc-smallcheck
@@ -2621,6 +2624,7 @@ ghc-tasty-quickcheck
 ghc-tasty-rerun
 ghc-temporary
 ghc-terminal-size
+ghc-text-icu
 ghc-text-manipulate
 ghc-text-metrics
 ghc-text-short
@@ -3565,6 +3569,7 @@ golang-github-google-querystring
 golang-github-google-renameio
 golang-github-google-renameio-2
 golang-github-google-replayers
+golang-github-google-safehtml
 golang-github-google-shlex
 golang-github-google-subcommands
 golang-github-google-s2a
@@ -3722,6 +3727,7 @@ golang-github-jacobsa-reqtrace
 golang-github-jamesruan-rfc1924
 golang-github-jarcoal-httpmock
 golang-github-jawher-mow-cli
+golang-github-jba-templatecheck
 golang-github-jbenet-context
 golang-github-jcmturner-aescts
 golang-github-jcmturner-dnsutils
@@ -4093,7 +4099,6 @@ golang-github-phayes-permbits
 golang-github-philhofer-fwd
 golang-github-pierrec-cmdflag
 golang-github-pierrec-lz4
-golang-github-pierrre-compare
 golang-github-pierrre-geohash
 golang-github-pingcap-errors
 golang-github-pin-tftp-3
@@ -4721,7 +4726,6 @@ gplugin
 gpm
 gprconfig-kb
 gpredict
-gprof2dot
 gprolog
 gpscorrelate
 gpsim
@@ -5753,7 +5757,6 @@ kiriki
 kissat
 kiss-fft
 kiss
-kita
 kiten
 kitinerary
 kitty
@@ -5915,6 +5918,7 @@ kweathercore
 kweather
 kwebkitpart
 kwin
+kwin-x11
 kwooty
 kwordquiz
 kwrited
@@ -6624,6 +6628,7 @@ libvmi
 libvncserver
 libvoikko
 libvorbis
+libvpl
 libvpx
 libvpx8
 libvterm
@@ -7473,7 +7478,6 @@ mISDN
 mkbootdisk
 mk-configure
 mk-files
-mkosi-initrd
 mkosi
 mkosi14
 mkrdns
@@ -7893,7 +7897,6 @@ NsCDE
 nsdiff
 nsd
 nsntrace
-nss-altfiles
 nss-mdns
 nss_nis
 nss-pem
@@ -11327,6 +11330,7 @@ plasma-wayland-protocols
 plasma-welcome
 plasma-workspace
 plasma-workspace-wallpapers
+plasma-workspace-x11
 plasma5support
 platform
 playerctl
@@ -11876,6 +11880,7 @@ python-batinfo
 python-bcrypt
 python-beaker
 python-beanbag
+python-beartype
 python-beautifulsoup4
 python-beautifultable
 python-behave
@@ -11948,6 +11953,7 @@ python-catkin_lint
 python-catkin-sphinx
 python-cattrs
 python-cccolutils
+python-ccdproc
 python-cclib
 python-celery
 python-cerberus
@@ -13782,6 +13788,7 @@ python-sphinx-intl
 python-sphinx-jsonschema
 python-sphinx-kr-theme
 python-sphinx-last-updated-by-git
+python-sphinx-lint
 python-sphinx_lv2_theme
 python-sphinx-markdown-tables
 python-sphinx-mdinclude
@@ -14266,6 +14273,7 @@ pyxattr
 pyxdg
 PyX
 PyYAML
+py3c
 py3status
 p0f
 p0rn-comfort
@@ -15270,6 +15278,7 @@ rust-askalono-cli
 rust-askalono
 rust-askama_derive
 rust-askama_escape
+rust-askama_parser
 rust-askama_shared
 rust-askama
 rust-asn1_derive
@@ -15430,6 +15439,7 @@ rust-calamine
 rust-calloop-wayland-source
 rust-camino
 rust-capng
+rust-capnpc
 rust-cap
 rust-caps
 rust-cargo-config2
@@ -15969,7 +15979,6 @@ rust-grep-searcher
 rust-grep
 rust-group
 rust-gsk4-sys0.6
-rust-gsk4_0.6
 rust-gst-plugin-gif
 rust-gst-plugin-gtk4
 rust-gst-plugin-reqwest
@@ -15995,9 +16004,6 @@ rust-gtk0.15
 rust-gtk0.17
 rust-gtk3-macros0.15
 rust-gtk3-macros0.17
-rust-gtk4-macros0.6
-rust-gtk4-sys0.6
-rust-gtk4_0.6
 rust-gvdb-macros
 rust-gvdb
 rust-gweather-sys
@@ -16323,6 +16329,7 @@ rust-multimap
 rust-mutate_once
 rust-nalgebra-macros
 rust-nalgebra
+rust-names
 rust-nanorand
 rust-nasm-rs
 rust-native-tls
@@ -16660,6 +16667,7 @@ rust-rand0.5
 rust-rand0.6
 rust-rand0.7
 rust-ratatui
+rust-ratatui0.21
 rust-rav1e
 rust-rawpointer
 rust-raw-window-handle
@@ -16732,6 +16740,7 @@ rust-rustc-test
 rust-rustc_version
 rust-rustc_version0.3
 rust-rustdct
+rust-rust_decimal_macros
 rust-rustfft
 rust-rustfix
 rust-rust-ini0.17
@@ -16924,6 +16933,7 @@ rust-spytools
 rust-sscanf_macro
 rust-sscanf
 rust-ssh-key-dir
+rust-stability
 rust-stable_deref_trait
 rust-stacker
 rust-standback
@@ -17054,6 +17064,7 @@ rust-toml_datetime
 rust-toml_edit
 rust-toml_edit0.19
 rust-toml_edit0.20
+rust-toml_edit0.21
 rust-toml
 rust-toml0.4
 rust-toml0.5
@@ -17289,6 +17300,7 @@ rust-widestring
 rust-wild
 rust-winit
 rust-winnow
+rust-winnow0.5
 rust-wl-clipboard-rs
 rust-wmidi
 rust-wu-diff
@@ -17698,6 +17710,7 @@ snownews
 soapy-rtlsdr
 SoapySDR
 soapy-uhd
+socat
 socialscan
 soci
 socket_wrapper
@@ -17854,6 +17867,7 @@ stfl
 stix-fonts
 stk
 stlink
+stlsplit
 stockfish
 stoken
 stompclt
@@ -19112,7 +19126,6 @@ z88dk
 3Depict
 3dprinter-udev-rules
 3mux
-3proxy
 4th
 6tunnel
 64tass
