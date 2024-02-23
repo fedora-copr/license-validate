@@ -170,6 +170,7 @@ apiguardian
 api-sanity-checker
 apostrophe
 appeditor
+applet-window-buttons
 appstream-data
 appstream-generator
 appstream
@@ -360,7 +361,6 @@ bino
 binutils
 biosdevname
 bird
-bismuth
 bison
 bitlbee-facebook
 bitmap-fonts
@@ -2438,6 +2438,8 @@ golang-github-logr-zapr
 golang-github-lucasjones-reggen
 golang-github-macaron-inject
 golang-github-marekm4-color-extractor
+golang-github-matrix-org-gomatrix
+golang-github-matrix-org-util
 golang-github-mattn-localereader
 golang-github-mattn-zglob
 golang-github-matttproud-protobuf-extensions2
@@ -2611,6 +2613,7 @@ golang-gopkg-jcmturner-aescts-1
 golang-gopkg-jcmturner-dnsutils-1
 golang-gopkg-jcmturner-goidentity-2
 golang-gopkg-jcmturner-rpc-0
+golang-gopkg-macaroon2
 golang-gopkg-retry-1
 golang-gopkg-seborama-govcr-4
 golang-gopkg-sourcemap-1
@@ -4473,6 +4476,7 @@ matio
 matrix-synapse
 maturin
 mat2
+maui-mauiman
 maven-antrun-plugin
 maven-archiver
 maven-artifact-transfer
@@ -5193,6 +5197,7 @@ OliveTin
 omniORBpy
 omping
 oneapi-level-zero
+onednn
 ongres-scram
 ongres-stringprep
 oniguruma
@@ -5879,6 +5884,7 @@ perl-Dist-CheckConflicts
 perl-Dist-Metadata
 perl-Dist-Milla
 perl-Dist-Zilla-App-Command-cover
+perl-Dist-Zilla-Plugin-Git-Contributors
 perl-Dist-Zilla-Plugin-GithubMeta
 perl-Dist-Zilla-Plugin-Git
 perl-Dist-Zilla-Plugin-ModuleBuildTiny
@@ -8030,6 +8036,7 @@ python-httplib2
 python-httpretty
 python-http-server-mock
 python-httpx-socks
+python-httpx
 python-hudman
 python-humblewx
 python-hvac
@@ -8222,6 +8229,7 @@ python-mock
 python-moddb
 python-mpd2
 python-mpmath
+python-mrcfile
 python-msal-extensions
 python-msal
 python-msgpack
@@ -8302,6 +8310,9 @@ python-openslide
 python-openstackclient
 python-openstacksdk
 python-opentelemetry-contrib
+python-opentelemetry-propagator-aws-xray
+python-opentelemetry-resource-detector-azure
+python-opentelemetry-sdk-extension-aws
 python-opentelemetry
 python-opentype-sanitizer
 python-opfunu
@@ -10290,6 +10301,7 @@ rust-enumn
 rust-enum-ordinalize
 rust-enumset_derive
 rust-enumset
+rust-env_filter
 rust-environment
 rust-env_logger
 rust-env_logger0.4
@@ -10445,7 +10457,6 @@ rust-gdk4-wayland
 rust-gdk4-wayland-sys
 rust-gdk4-x11
 rust-gdk4-x11-sys
-rust-gdk4_0.6
 rust-generic-array
 rust-generic-array0.12
 rust-genetlink
@@ -10563,7 +10574,6 @@ rust-goblin0.7
 rust-gptman
 rust-gpt
 rust-graphene-rs
-rust-graphene-rs0.17
 rust-graphene-sys
 rust-graphene-sys0.17
 rust-greetd_ipc
@@ -10577,7 +10587,6 @@ rust-grep
 rust-group
 rust-gsk4
 rust-gsk4-sys
-rust-gsk4-sys0.6
 rust-gst-plugin-gif
 rust-gst-plugin-gtk4
 rust-gst-plugin-reqwest
@@ -10809,6 +10818,7 @@ rust-jxl-render
 rust-jxl-vardct
 rust-kamadak-exif
 rust-kbs-types
+rust-kdotool
 rust-keccak
 rust-khronos_api
 rust-konst_macro_rules

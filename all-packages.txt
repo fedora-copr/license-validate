@@ -655,7 +655,6 @@ biosdevname
 biosig4c++
 bio2jack
 bird
-bismuth
 bison
 bitcoin-core-selinux
 bitcoin-core
@@ -4723,6 +4722,8 @@ golang-github-masterminds-squirrel
 golang-github-masterminds-vcs
 golang-github-masterzen-simplexml
 golang-github-masterzen-winrm
+golang-github-matrix-org-gomatrix
+golang-github-matrix-org-util
 golang-github-matryer-try
 golang-github-mattbaird-jsonpatch
 golang-github-mattn-colorable
@@ -5360,6 +5361,7 @@ golang-gopkg-ldap-2
 golang-gopkg-logex-1
 golang-gopkg-macaron-1
 golang-gopkg-macaroon-1
+golang-gopkg-macaroon2
 golang-gopkg-mgo-2
 golang-gopkg-natefinch-lumberjack-2
 golang-gopkg-neurosnap-sentences-1
@@ -8642,6 +8644,7 @@ matrix-synapse
 maturin
 mat2
 maui-mauikit
+maui-mauiman
 maven-antrun-plugin
 maven-archetype
 maven-archiver
@@ -15975,6 +15978,9 @@ python-openstackclient
 python-openstackdocstheme
 python-openstacksdk
 python-opentelemetry-contrib
+python-opentelemetry-propagator-aws-xray
+python-opentelemetry-resource-detector-azure
+python-opentelemetry-sdk-extension-aws
 python-opentelemetry
 python-opentracing
 python-opentype-sanitizer
@@ -19408,6 +19414,7 @@ rust-enumn
 rust-enum-ordinalize
 rust-enumset_derive
 rust-enumset
+rust-env_filter
 rust-environment
 rust-env_logger
 rust-env_logger0.4
@@ -19563,7 +19570,6 @@ rust-gdk4-wayland
 rust-gdk4-wayland-sys
 rust-gdk4-x11
 rust-gdk4-x11-sys
-rust-gdk4_0.6
 rust-generic-array
 rust-generic-array0.12
 rust-genetlink
@@ -19682,7 +19688,6 @@ rust-goblin0.7
 rust-gptman
 rust-gpt
 rust-graphene-rs
-rust-graphene-rs0.17
 rust-graphene-sys
 rust-graphene-sys0.17
 rust-greetd_ipc
@@ -19696,7 +19701,6 @@ rust-grep
 rust-group
 rust-gsk4
 rust-gsk4-sys
-rust-gsk4-sys0.6
 rust-gst-plugin-gif
 rust-gst-plugin-gtk4
 rust-gst-plugin-reqwest
@@ -19929,6 +19933,7 @@ rust-jxl-render
 rust-jxl-vardct
 rust-kamadak-exif
 rust-kbs-types
+rust-kdotool
 rust-keccak
 rust-khronos_api
 rust-konst_macro_rules
