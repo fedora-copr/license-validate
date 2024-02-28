@@ -219,6 +219,7 @@ asciinema
 ascii
 asio-grpc
 asio
+asl
 asmjit
 asnmap
 aspell-af
@@ -367,6 +368,7 @@ bitmap-fonts
 bitwise
 blackbox-terminal
 blake3
+bleachbit
 blender
 bletchmame
 blinken
@@ -550,6 +552,7 @@ civetweb
 cjkuni-ukai-fonts
 cjkuni-uming-fonts
 cjose
+cjson
 ckb-next
 ckermit
 ck
@@ -604,8 +607,26 @@ coco-coq
 codec2
 coeurl
 cohomCalg
+coin-or-Alps
+coin-or-Bcp
+coin-or-Bcps
+coin-or-Blis
+coin-or-Bonmin
+coin-or-Cbc
+coin-or-Cgl
+coin-or-Clp
+coin-or-CoinMP
+coin-or-CoinUtils
+coin-or-Couenne
 coin-or-Data-miplib3
 coin-or-Data-Netlib
+coin-or-Dip
+coin-or-FlopC++
+coin-or-HiGHS
+coin-or-lemon
+coin-or-Osi
+coin-or-OS
+coin-or-SYMPHONY
 Coin2
 Coin3
 collada-dom
@@ -2149,6 +2170,7 @@ gnome-shell-extension-openweather
 gnome-shell-extension-pidgin
 gnome-shell-extension-pop-shell
 gnome-shell-extension-screen-autorotate
+gnome-shell-extensions
 gnome-shell-extension-system-monitor-applet
 gnome-shell-extension-vertical-workspaces
 gnome-shell-frippery
@@ -2906,6 +2928,7 @@ hostapd
 hostname
 host-spawn
 hotspot
+HPCombi
 hplip
 hpx
 hqx
@@ -3320,6 +3343,7 @@ jello
 jetbrains-annotations
 jetbrains-mono-fonts
 jetring
+jfbterm
 jflex
 jFormatString
 jigdo
@@ -3645,6 +3669,7 @@ kiten
 kitinerary
 kitty
 kitutuki
+kiwi-boxed-plugin
 kiwi
 kiwix-desktop
 kiwix-tools
@@ -4313,6 +4338,7 @@ live555
 lklug-fonts
 lksctp-tools
 lldb
+lldpad
 lld
 lld15
 lld16
@@ -4322,6 +4348,7 @@ llvm
 llvm14
 llvm15
 llvm16
+llvm17
 lmdb
 lmdbxx
 Lmod
@@ -4921,6 +4948,7 @@ NetworkManager
 NetworkManager-sstp
 NetworkManager-vpnc
 neverball
+newsboat
 newsx
 newt
 nfs-ganesha
@@ -5506,6 +5534,7 @@ perl-autobox
 perl-autodie
 perl-autovivification
 perl-AutoXS-Header
+perl-BackPAN-Index
 perl-Barcode-Code128
 perl-B-Compiling
 perl-B-COW
@@ -6705,6 +6734,7 @@ perl-Protocol-SOCKS
 perl-Protocol-WebSocket
 perl-RDF-NS-Curated
 perl-RDF-NS
+perl-RDF-RDFa-Generator
 perl-Readonly
 perl-Readonly-XS
 perl-Redis
@@ -7425,6 +7455,7 @@ plasma-browser-integration
 plasma-desktop
 plasma-dialer
 plasma-discover
+plasma-disks
 plasma-drkonqi
 plasma-firewall
 plasma-integration
@@ -7909,6 +7940,7 @@ python-epel-rpm-macros
 python-esbonio
 python-EvoPreprocess
 python-exabgp
+python-exdir
 python-expandvars
 python-extension-helpers
 python-extractcode-libarchive
@@ -8010,7 +8042,6 @@ python-gpxpy
 python-grabbit
 python-graph-tool
 python-greenlet
-python-GridDataFormats
 python-grpc-google-iam-v1
 python-grpcio-gcp
 python-gsd
@@ -8116,7 +8147,6 @@ python-jsonstreams
 python-junit_xml
 python-junitxml
 python-jupymake
-python-jupyter-collaboration
 python-jupyter-console
 python-jupyter-events
 python-jupyter-kernel-singular
@@ -8126,11 +8156,9 @@ python-jupyterlab-server
 python-jupyter-lsp
 python-jupyter-packaging
 python-jupyter-polymake
-python-jupyter-server-fileid
 python-jupyter-server
 python-jupyter-server-terminals
 python-jupyter-sphinx
-python-jupyter-ydoc
 python-justbases
 python-justbytes
 python-jwcrypto
@@ -8261,6 +8289,7 @@ python-ndjson-testrunner
 python-neo
 python-nest-asyncio
 python-netaddr
+python-netifaces
 python-netpyne
 python-networkx
 python-neurodsp
@@ -8907,8 +8936,6 @@ python-yamlloader
 python-yaml2ical
 python-yara
 python-yfinance
-python-y-py
-python-ypy-websocket
 python-yte
 python-yubico
 python-zaqarclient
@@ -9036,6 +9063,7 @@ qt5-qt3d
 qt5
 qt6-doc
 qt6-qtbase
+qt6-qtcoap
 qt6-qtconnectivity
 qt6-qtdatavis3d
 qt6-qtdeclarative
@@ -9047,8 +9075,10 @@ qt6-qtimageformats
 qt6-qtlanguageserver
 qt6-qtlocation
 qt6-qtlottie
+qt6-qtmqtt
 qt6-qtmultimedia
 qt6-qtnetworkauth
+qt6-qtopcua
 qt6-qtpositioning
 qt6-qtquicktimeline
 qt6-qtquick3d
@@ -10452,7 +10482,6 @@ rust-gdk0.15
 rust-gdk0.17
 rust-gdk4
 rust-gdk4-sys
-rust-gdk4-sys0.6
 rust-gdk4-wayland
 rust-gdk4-wayland-sys
 rust-gdk4-x11
@@ -10575,7 +10604,6 @@ rust-gptman
 rust-gpt
 rust-graphene-rs
 rust-graphene-sys
-rust-graphene-sys0.17
 rust-greetd_ipc
 rust-grep-cli
 rust-grep-matcher
@@ -10898,7 +10926,6 @@ rust-libudev
 rust-libudev-sys
 rust-libxml
 rust-libz-sys
-rust-lib0
 rust-lifeguard
 rust-line-numbers
 rust-line-wrap
@@ -11846,6 +11873,7 @@ rust-sval_dynamic
 rust-sval_flatten
 rust-sval_fmt
 rust-sval_json
+rust-sval_nested
 rust-sval_ref
 rust-sval_serde
 rust-sval
@@ -12308,7 +12336,6 @@ rust-yaml-rust0.3
 rust-yansi
 rust-yansi-term
 rust-yeslogic-fontconfig-sys
-rust-yrs
 rust-y4m
 rust-z-base-32
 rust-zbus_macros
@@ -12398,6 +12425,7 @@ scamp
 scap-security-guide
 scap-workbench
 scapy
+scdoc
 scd2html
 scidavis
 scim-fcitx
@@ -12407,6 +12435,7 @@ scim-pinyin
 scim
 scim-thai
 sciplot
+scip
 scipy
 scl-utils
 scorep
@@ -12571,11 +12600,13 @@ snowball
 socat
 socket_wrapper
 sofia-sip
+softhsm
 softnet-stat
 solarwolf
 sombok
 sonic-visualiser
 sonivox
+soplex
 SoQt
 sorkintype-merriweather-fonts
 sorkintype-merriweather-sans-fonts
@@ -12598,6 +12629,7 @@ spausedd
 spdlog
 spectra
 spec-version-maven-plugin
+spec2scl
 speedcrunch
 speedtest
 speech-dispatcher
@@ -12671,6 +12703,7 @@ subscription-manager-rhsm-certificates
 subscription-manager
 subunit
 subversion
+sudo-rs
 sudo
 suitesparse
 sundials
@@ -12903,6 +12936,7 @@ ucommon
 ucs-miscfixed-fonts
 ucx
 udica
+udiskie
 udisks2
 udis86
 ufdbGuard

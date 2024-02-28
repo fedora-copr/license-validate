@@ -1127,6 +1127,7 @@ coin-or-Data-Netlib
 coin-or-Dip
 coin-or-DyLP
 coin-or-FlopC++
+coin-or-HiGHS
 coin-or-Ipopt
 coin-or-lemon
 coin-or-Osi
@@ -1904,7 +1905,6 @@ elisa-player
 elixir
 elk
 ell
-elpa
 elph
 emacs-ansible
 emacs-ansible-vault-mode
@@ -5922,6 +5922,7 @@ host-spawn
 hotspot
 hot-tux
 howl
+HPCombi
 hping3
 hplip
 hpl
@@ -8293,6 +8294,7 @@ llvm13
 llvm14
 llvm15
 llvm16
+llvm17
 lmdb
 lmdbxx
 lmfit
@@ -15369,7 +15371,6 @@ python-graphql-relay
 python-graph-tool
 python-graphviz
 python-greenlet
-python-GridDataFormats
 python-grokmirror
 python-grpc-google-iam-v1
 python-grpcio-gcp
@@ -15592,7 +15593,6 @@ python-junitxml
 python-jupymake
 python-jupyter-c-kernel
 python-jupyter-client
-python-jupyter-collaboration
 python-jupyter-console
 python-jupyter-core
 python-jupyter-events
@@ -15603,11 +15603,9 @@ python-jupyterlab-server
 python-jupyter-lsp
 python-jupyter-packaging
 python-jupyter-polymake
-python-jupyter-server-fileid
 python-jupyter-server
 python-jupyter-server-terminals
 python-jupyter-sphinx
-python-jupyter-ydoc
 python-justbases
 python-justbytes
 python-jwcrypto
@@ -15615,7 +15613,6 @@ python-jwt
 python-j1m.sphinxautozconfig
 python-kadmin
 python-kafka
-python-kaitaistruct
 python-kajiki
 python-kanboard
 python-kaptan
@@ -17285,8 +17282,6 @@ python-yarl
 python-yaswfp
 python-yattag
 python-yfinance
-python-y-py
-python-ypy-websocket
 python-yte
 python-ytmusicapi
 python-yubico
@@ -17543,6 +17538,7 @@ qt5
 qt6ct
 qt6-doc
 qt6-qtbase
+qt6-qtcoap
 qt6-qtconnectivity
 qt6-qtdatavis3d
 qt6-qtdeclarative
@@ -17554,8 +17550,10 @@ qt6-qtimageformats
 qt6-qtlanguageserver
 qt6-qtlocation
 qt6-qtlottie
+qt6-qtmqtt
 qt6-qtmultimedia
 qt6-qtnetworkauth
+qt6-qtopcua
 qt6-qtpositioning
 qt6-qtquicktimeline
 qt6-qtquick3d
@@ -19565,7 +19563,6 @@ rust-gdk0.15
 rust-gdk0.17
 rust-gdk4
 rust-gdk4-sys
-rust-gdk4-sys0.6
 rust-gdk4-wayland
 rust-gdk4-wayland-sys
 rust-gdk4-x11
@@ -19689,7 +19686,6 @@ rust-gptman
 rust-gpt
 rust-graphene-rs
 rust-graphene-sys
-rust-graphene-sys0.17
 rust-greetd_ipc
 rust-grep-cli
 rust-grep-matcher
@@ -20013,7 +20009,6 @@ rust-libudev
 rust-libudev-sys
 rust-libxml
 rust-libz-sys
-rust-lib0
 rust-lifeguard
 rust-line-numbers
 rust-line-wrap
@@ -20972,6 +20967,7 @@ rust-sval_dynamic
 rust-sval_flatten
 rust-sval_fmt
 rust-sval_json
+rust-sval_nested
 rust-sval_ref
 rust-sval_serde
 rust-sval
@@ -21436,7 +21432,6 @@ rust-yansi
 rust-yansi-term
 rust-ybaas
 rust-yeslogic-fontconfig-sys
-rust-yrs
 rust-yubibomb
 rust-y4m
 rust-z-base-32
@@ -21600,6 +21595,7 @@ scim-pinyin
 scim
 scim-thai
 sciplot
+scip
 scipy
 scitokens-cpp
 scl-utils-build-helpers
@@ -21959,6 +21955,7 @@ sombok
 sonic-visualiser
 sonivox
 sooperlooper
+soplex
 soprano
 sopwith
 SoQt
@@ -22160,6 +22157,7 @@ subtitleeditor
 subunit
 subversion-api-docs
 subversion
+sudo-rs
 sudo
 sugar-abacus
 sugar-artwork
@@ -22311,7 +22309,6 @@ taglib-sharp
 taglib
 tagsoup
 tagtool
-tachyon
 taigo
 tali
 talk

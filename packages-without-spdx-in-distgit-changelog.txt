@@ -599,7 +599,6 @@ cinnamon-translations
 ciphertest
 civetweb
 cjdns
-cjson
 cjs
 ckeditor
 cksfv
@@ -666,26 +665,10 @@ codehaus-parent
 codespell
 code2html
 cogl
-coin-or-Alps
-coin-or-Bcp
-coin-or-Bcps
-coin-or-Blis
-coin-or-Bonmin
-coin-or-Cbc
-coin-or-Cgl
-coin-or-Clp
-coin-or-CoinMP
-coin-or-CoinUtils
-coin-or-Couenne
-coin-or-Dip
 coin-or-DyLP
-coin-or-FlopC++
+coin-or-HiGHS
 coin-or-Ipopt
-coin-or-lemon
-coin-or-Osi
-coin-or-OS
 coin-or-Sample
-coin-or-SYMPHONY
 coin-or-Vol
 coin
 Coin4
@@ -1210,7 +1193,6 @@ elisa-player
 elixir
 elk
 ell
-elpa
 elph
 emacs-ansible
 emacs-ansible-vault-mode
@@ -2197,7 +2179,6 @@ gnome-shell-extension-pidgin
 gnome-shell-extension-pop-shell
 gnome-shell-extension-refresh-wifi
 gnome-shell-extension-screen-autorotate
-gnome-shell-extensions
 gnome-shell-extension-suspend-button
 gnome-shell-extension-unite
 gnome-shell-extension-vertical-workspaces
@@ -4111,6 +4092,7 @@ host-spawn
 hotspot
 hot-tux
 howl
+HPCombi
 hping3
 hpl
 hsakmt
@@ -4382,7 +4364,6 @@ jemalloc
 jericho-html
 jetbrains-annotations
 jetty
-jfbterm
 jfreechart
 jfsutils
 jgit
@@ -5458,7 +5439,6 @@ live555
 lizardfs
 llconf
 lldb
-lldpad
 lldpd
 lld13
 llmnrd
@@ -6332,7 +6312,6 @@ NetworkManager-strongswan
 neuron
 newlisp
 newsbeuter
-newsboat
 newscache
 new-session-manager
 newtonsoft-json
@@ -8673,7 +8652,6 @@ plasma-browser-integration
 plasma-desktop
 plasma-dialer
 plasma-discover
-plasma-disks
 plasma-drkonqi
 plasma-firewall
 plasma-integration
@@ -9520,7 +9498,6 @@ python-et_xmlfile
 python-evdev
 python-eventlet
 python-events
-python-exdir
 python-execnet
 python-executing
 python-exif
@@ -9849,7 +9826,6 @@ python-json2table
 python-json5
 python-jupyter-c-kernel
 python-jupyter-client
-python-jupyter-collaboration
 python-jupyter-console
 python-jupyter-core
 python-jupyter-events
@@ -9858,13 +9834,10 @@ python-jupyterlab_pygments
 python-jupyterlab-server
 python-jupyter-lsp
 python-jupyter-polymake
-python-jupyter-server-fileid
 python-jupyter-server
 python-jupyter-server-terminals
-python-jupyter-ydoc
 python-jwt
 python-kafka
-python-kaitaistruct
 python-kajiki
 python-kanboard
 python-kaptan
@@ -10052,7 +10025,6 @@ python-nessus-file-reader
 python-netapp-lib
 python-netdata
 python-netdisco
-python-netifaces
 python-netmiko
 python-network-runner
 python-neurosynth
@@ -11115,7 +11087,6 @@ python-yara
 python-yarl
 python-yaswfp
 python-yattag
-python-ypy-websocket
 python-ytmusicapi
 python-zake
 python-zanata2fedmsg
@@ -11282,11 +11253,14 @@ qt5-qtstyleplugins
 qt5-qtwebengine
 qt6ct
 qt6-doc
+qt6-qtcoap
 qt6-qtgraphs
 qt6-qtgrpc
 qt6-qthttpserver
 qt6-qtlanguageserver
 qt6-qtlocation
+qt6-qtmqtt
+qt6-qtopcua
 qt6-qtspeech
 qt6-qtwebengine
 qt6-qtwebview
@@ -12677,7 +12651,6 @@ rust-gdk-sys0.15
 rust-gdk-sys0.17
 rust-gdk0.15
 rust-gdk0.17
-rust-gdk4-sys0.6
 rust-gdk4-wayland
 rust-gdk4-wayland-sys
 rust-gdk4-x11
@@ -12781,7 +12754,6 @@ rust-goblin0.6
 rust-goblin0.7
 rust-gptman
 rust-gpt
-rust-graphene-sys0.17
 rust-greetd_ipc
 rust-grep-cli
 rust-grep-matcher
@@ -13036,7 +13008,6 @@ rust-libssh2-sys
 rust-libsystemd
 rust-libtest-mimic
 rust-libz-sys
-rust-lib0
 rust-lifeguard
 rust-line-numbers
 rust-line-wrap
@@ -13785,6 +13756,7 @@ rust-sval_dynamic
 rust-sval_flatten
 rust-sval_fmt
 rust-sval_json
+rust-sval_nested
 rust-sval_ref
 rust-sval_serde
 rust-sval
@@ -14134,7 +14106,6 @@ rust-yansi
 rust-yansi-term
 rust-ybaas
 rust-yeslogic-fontconfig-sys
-rust-yrs
 rust-yubibomb
 rust-z-base-32
 rust-zbase32
@@ -14230,9 +14201,9 @@ scannotation
 scanssh
 scantailor
 scapy
-scdoc
 scd2html
 sciplot
+scip
 scitokens-cpp
 scl-utils-build-helpers
 scmxx
@@ -14480,7 +14451,6 @@ socket_wrapper
 sockperf
 socnetv
 softfloat
-softhsm
 softnet-stat
 SOIL
 solaar
@@ -14489,6 +14459,7 @@ solar-kde-theme
 SolarModel
 sonivox
 sooperlooper
+soplex
 soprano
 sopwith
 sord
@@ -14522,7 +14493,6 @@ spectacle
 spectra
 spectre-meltdown-checker
 spectrographic
-spec2scl
 speed-dreams
 speedtest-cli
 speedtest
@@ -14624,6 +14594,7 @@ subfinder
 subscription-manager-cockpit
 subtitleeditor
 subversion-api-docs
+sudo-rs
 sugar-abacus
 sugar-artwork
 sugar-browse
@@ -14727,7 +14698,6 @@ taglib-extras
 taglib-sharp
 tagsoup
 tagtool
-tachyon
 taigo
 tali
 tango-icon-theme-extras
@@ -14993,7 +14963,6 @@ ucpp
 ucviewer
 ucview
 udftools
-udiskie
 udisks
 udisks2-qt5
 udns
