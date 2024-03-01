@@ -2,9 +2,7 @@ bacula
 bluez
 byteman
 c-ares
-copy-jdk-configs
 device-mapper-multipath
-diffstat
 docbook2X
 docbook5-schemas
 docbook5-style-xsl
@@ -16,7 +14,6 @@ exec-maven-plugin
 gcab
 gcc
 gdk-pixbuf2
-glibc
 glibc32
 glslang
 gnome-extensions-app
@@ -27,9 +24,10 @@ gstreamer1-plugins-bad-free
 gtk-doc
 gtksourceview4
 http-parser
-iio-sensor-proxy
 ima-evm-utils
 iprutils
+java-1.8.0-openjdk
+java-11-openjdk
 java-17-openjdk
 jdependency
 keylime
@@ -47,7 +45,6 @@ libvma
 linux-firmware
 lldpd
 lockdev
-low-memory-monitor
 lua-posix
 mallard-rng
 mariadb10.11
@@ -66,7 +63,6 @@ mutter
 ndctl
 netpbm
 nfs-utils
-nmap
 nodejs-packaging
 nv-codec-headers
 opae
@@ -80,7 +76,6 @@ pulseaudio
 pybind11
 pyelftools
 python-distutils-extra
-python-iniparse
 python-markdown
 python-pkgconfig
 python-pytest-benchmark
@@ -88,12 +83,10 @@ python-pytest-lazy-fixture
 python-pytest-mock
 python-semantic_version
 python-sqlalchemy
-python-wcwidth
 python3-mallard-ducktype
 pythran
 pyxattr
 quota
-radvd
 rasdaemon
 rpcsvc-proto
 ruby
@@ -113,7 +106,6 @@ tlog
 tomcat
 toml11
 totem-pl-parser
-util-linux
 web-assets
 xmlrpc-c
 xz

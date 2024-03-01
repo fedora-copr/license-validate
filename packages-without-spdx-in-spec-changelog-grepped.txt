@@ -267,7 +267,6 @@ asc
 asdcplib
 asio-grpc
 asio
-asl
 asmjit
 asm6809
 asnip
@@ -1045,6 +1044,7 @@ dbus-qt3
 dbus-sharp-glib
 dbus-sharp
 dbus
+dbus-test-runner
 dcap
 dcfldd
 dcmtk
@@ -1204,6 +1204,7 @@ dl
 dmapd
 dmenu
 dmg2img
+dmidiplayer
 dmlite
 dmraid
 dmtcp
@@ -1467,6 +1468,7 @@ emacs-yaml-mode
 email2trac
 EMBOSS
 embree
+embree3
 emerald
 emerald-themes
 enblend
@@ -2184,6 +2186,7 @@ ghc-base-prelude
 ghc-base-unicode-symbols
 ghc-base16-bytestring
 ghc-base64-bytestring
+ghc-base64
 ghc-basic-prelude
 ghc-bencode
 ghc-bifunctors
@@ -2411,6 +2414,7 @@ ghc-integer-logarithms
 ghc-IOSpec
 ghc-io-streams
 ghc-iproute
+ghc-isocline
 ghc-iso8601-time
 ghc-js-flot
 ghc-js-chart
@@ -2784,7 +2788,6 @@ gle
 glew
 glfw
 glglobe
-glibc
 glibc32
 glibd
 glibmm2.4
@@ -3202,6 +3205,7 @@ golang-github-bgentry-speakeasy
 golang-github-bifurcation-mint
 golang-github-bitly-simplejson
 golang-github-bits-and-blooms-bitset
+golang-github-blackfireio-osinfo
 golang-github-blakesmith-ar
 golang-github-blang-semver
 golang-github-bmatcuk-doublestar
@@ -4314,6 +4318,7 @@ golang-github-syndtr-gocapability
 golang-github-syndtr-goleveldb
 golang-github-task-slim-sprig3
 golang-github-task
+golang-github-tdewolff-argp
 golang-github-tdewolff-minify
 golang-github-tdewolff-parse
 golang-github-tdewolff-test
@@ -5769,6 +5774,7 @@ kmailtransport
 kmbox
 kmenuedit
 kmetronome
+kmidimon
 kmid2
 kmime
 kmines
@@ -6018,6 +6024,9 @@ libavc1394
 libavif
 libavtp
 libax25
+libayatana-appindicator
+libayatana-ido
+libayatana-indicator
 libbatch
 libbgpdump
 libbinio
@@ -8324,6 +8333,7 @@ pamtester
 pam_url
 pam_yubico
 pam_2fa
+pandoc-cli
 pangomm
 pangomm2.48
 pango
@@ -9506,7 +9516,6 @@ perl-Inline-Struct
 perl-IO-All
 perl-IO-Any
 perl-IO-Async-Loop-Mojo
-perl-IO-Async
 perl-IO-Capture-Extended
 perl-IO-CaptureOutput
 perl-IO-Capture
@@ -9756,7 +9765,6 @@ perl-MIME-Lite-HTML
 perl-MIME-Lite-TT-HTML
 perl-MIME-tools
 perl-Minion-Backend-SQLite
-perl-Minion
 perl-Mixin-ExtraFields
 perl-mixin
 perl-MLDBM
@@ -12778,6 +12786,7 @@ python-magic
 python-magnumclient
 python-mailer
 python-mailmanclient
+python-mailman-web
 python-mailmerge
 python-makeelf
 python-makefun
@@ -12847,6 +12856,7 @@ python-mistune
 python-mistune08
 python-mitogen
 python-mizani
+python-mmtf
 python-mne-bids
 python-mnemonic
 python-mne
@@ -13375,6 +13385,7 @@ python-pyscaffold
 python-pyscf
 python-pyshark
 python-pyshtools
+python-pyside6
 python-pysignals
 python-pysimplesoap
 python-pysmb
@@ -13714,6 +13725,7 @@ python-snakemake-executor-plugin-slurm-jobstep
 python-snakemake-executor-plugin-tes
 python-snakemake-interface-common
 python-snakemake-interface-executor-plugins
+python-snakemake-interface-report-plugins
 python-snakemake-interface-storage-plugins
 python-snakemake-storage-plugin-azure
 python-snakemake-storage-plugin-fs
@@ -14203,13 +14215,10 @@ python-zm
 python-zoidberg
 python-zombie-imp
 python-zope-component
-python-zope-configuration
 python-zope-deprecation
 python-zope-event
-python-zope-exceptions
 python-zope-hookable
 python-zope-interface
-python-zope-i18nmessageid
 python-zope-schema
 python-zope-sqlalchemy
 python-zope-testing
@@ -14584,6 +14593,7 @@ redir
 RediSearch
 redis
 redshift
+redsocks
 rEFInd
 reflections
 regextester
@@ -15681,6 +15691,7 @@ rust-drm-fourcc
 rust-drm
 rust-drm-sys
 rust-drop_bomb
+rust-drop-tracker
 rust-dtoa-short
 rust-dtoa
 rust-dtoa0.4
@@ -15861,6 +15872,7 @@ rust-gettid
 rust-ghash
 rust-ghost
 rust-gif
+rust-gif0.12
 rust-gimli
 rust-gimoji
 rust-gio-sys0.15
@@ -16196,6 +16208,7 @@ rust-libloading0.7
 rust-libmimalloc-sys
 rust-libmount
 rust-libm
+rust-liboci-cli
 rust-liboverdrop
 rust-libpulse-binding
 rust-libpulse-sys
@@ -16886,7 +16899,6 @@ rust-slog-term
 rust-slug
 rust-smallbitvec
 rust-smallstr
-rust-smallstr0.2
 rust-smallvec
 rust-smartstring
 rust-smol_str
@@ -17458,7 +17470,6 @@ SDL2_sound
 SDL2
 sdorfehs
 sdparm
-sdrangel
 sdrpp
 sdsl-lite
 sdubby
@@ -18171,7 +18182,6 @@ toga2
 tokodon
 tolua++
 tomboy
-tomcatjss
 tomcat-native
 tomcat
 tomcat-taglibs-parent
@@ -18532,7 +18542,6 @@ vnstat
 vo-amrwbenc
 vodovod
 vokoscreenNG
-volk
 volpack
 volumeicon
 volume_key
@@ -18720,6 +18729,7 @@ wxapt
 wxGlade
 wxGTK
 wxMaxima
+wxmedit
 wxsqlite3
 w3c-markup-validator
 w3m
@@ -19105,6 +19115,7 @@ z88dk
 3Depict
 3dprinter-udev-rules
 3mux
+3proxy
 4th
 6tunnel
 64tass

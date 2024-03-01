@@ -103,6 +103,7 @@ anaconda-webui
 anarch
 ancient
 android-file-transfer
+anet
 anjuta
 annobin
 anope
@@ -585,6 +586,7 @@ cli11
 cln
 cloud-init
 cloud-utils
+clover2
 clusterssh
 cmake-fedora
 cmake
@@ -675,6 +677,7 @@ copr-keygen
 copr-messaging
 copr-rpmbuild
 copr-selinux
+copy-jdk-configs
 copyq
 coq
 coreutils
@@ -795,6 +798,7 @@ dbus-glib
 dbusmenu-qt
 dbus-python
 dbus
+dbus-test-runner
 dcap
 dconf-editor
 dconf
@@ -856,6 +860,7 @@ diction
 dietlibc
 diffoscope
 diff-so-fancy
+diffstat
 diffuse
 diffutils
 digikam
@@ -877,6 +882,7 @@ dlm
 dl_poly
 dlt-daemon
 dmidecode
+dmidiplayer
 dmtcp
 dnf-plugin-ovl
 dnf-plugins-core
@@ -998,11 +1004,13 @@ emacs-common-w3m
 emacs-company-mode
 emacs-flycheck-pycheckers
 emacs-iedit
+emacspeak
 emacs
 emacs-terraform-mode
 emacs-vm
 EMBOSS
 embree
+embree3
 enchant2
 enjarify
 enscript
@@ -1182,7 +1190,7 @@ foonathan-memory
 foo2zjs
 fop
 forge-srpm-macros
-fotoxx
+fotocx
 four-in-a-row
 fox
 fparser
@@ -1463,6 +1471,7 @@ ghc-basement
 ghc-base-unicode-symbols
 ghc-base16-bytestring
 ghc-base64-bytestring
+ghc-base64
 ghc-basic-prelude
 ghc-bencode
 ghc-bifunctors
@@ -1686,6 +1695,7 @@ ghc-integer-logarithms
 ghc-IOSpec
 ghc-io-streams
 ghc-iproute
+ghc-isocline
 ghc-iso8601-time
 ghc-js-flot
 ghc-js-chart
@@ -2022,6 +2032,7 @@ glab
 glances
 glava
 glfw
+glibc
 glibmm2.4
 glibmm2.68
 glib-networking
@@ -2273,6 +2284,7 @@ golang-github-bep-lazycache
 golang-github-bep-logg
 golang-github-bep-mclib
 golang-github-bep-simplecobra
+golang-github-blackfireio-osinfo
 golang-github-bmatcuk-doublestar
 golang-github-bmatcuk-doublestar-4
 golang-github-bmkessler-fastdiv
@@ -2444,6 +2456,7 @@ golang-github-juju-gnuflag
 golang-github-jwt-5
 golang-github-keybase-ps
 golang-github-kjk-lzmadec
+golang-github-klauspost-compress
 golang-github-leonelquinteros-gotext
 golang-github-lestrrat-backoff-2
 golang-github-lestrrat-blackmagic
@@ -2583,6 +2596,7 @@ golang-github-sql-driver-mysql
 golang-github-syndtr-gocapability
 golang-github-task-slim-sprig
 golang-github-task-slim-sprig3
+golang-github-tdewolff-argp
 golang-github-tencentcloud-sdk
 golang-github-tenox7-wrp
 golang-github-theoapp-theo-agent
@@ -3194,6 +3208,7 @@ iftop
 ifuse
 ignition
 igraph
+iio-sensor-proxy
 iir1
 ii
 ilbc
@@ -3683,6 +3698,7 @@ kmail
 kmailtransport
 kmbox
 kmenuedit
+kmidimon
 kmime
 kmix
 kmod
@@ -3812,6 +3828,9 @@ libasyncns
 libatasmart
 libatomic_ops
 libavif
+libayatana-appindicator
+libayatana-ido
+libayatana-indicator
 libbase
 libbgpdump
 libblkio
@@ -3869,6 +3888,7 @@ libdnf
 libdrm
 libdvdnav
 libdvdread
+libdv
 libdwarf
 libdxflib
 libeasyfc
@@ -4101,6 +4121,7 @@ libpfm
 libphidget22
 libpinyin
 libpipeline
+libplacebo
 libplasma
 libplist
 libpoly
@@ -4376,6 +4397,7 @@ loudgain
 loudmouth
 loupe
 lowdown
+low-memory-monitor
 lprint
 lpsolve
 lrcalc
@@ -4964,6 +4986,7 @@ nicotine+
 ninja-build
 nispor
 nkf
+nmap
 nml
 nmon
 nmstate
@@ -5368,6 +5391,7 @@ pam-ssh-auth-info
 pamtester
 pam-u2f
 pam_wrapper
+pandoc-cli
 pandoc
 pangomm
 pangomm2.48
@@ -6086,6 +6110,7 @@ perl-GIS-Distance-Fast
 perl-GIS-Distance
 perl-Git-CPAN-Patch
 perl-Git-Repository-Plugin-AUTOLOAD
+perl-Git-Repository
 perl-Glib-IO
 perl-Glib-Object-Introspection
 perl-Glib
@@ -6182,6 +6207,7 @@ perl-Inline
 perl-IO-AIO
 perl-IO-All
 perl-IO-Async-Loop-Mojo
+perl-IO-Async
 perl-IO-CaptureOutput
 perl-IO-Compress-Brotli
 perl-IO-Compress-Lzma
@@ -6380,6 +6406,7 @@ perl-MIME-Charset
 perl-MIME-Lite
 perl-MIME-tools
 perl-MIME-Types
+perl-Minion
 perl-Mixin-ExtraFields
 perl-Mixin-Linewise
 perl-MLDBM
@@ -7464,6 +7491,7 @@ plasma-nano
 plasma-nm
 plasma-oxygen
 plasma-pa
+plasma-pass
 plasma-phonebook
 plasma-print-manager
 plasma-sdk
@@ -7861,7 +7889,6 @@ python-cups
 python-cvxopt
 python-cyipopt
 python-cysignals
-python-cython0.29
 python-daemon
 python-damo
 python-daphne
@@ -8099,6 +8126,7 @@ python-impacket
 python-indexed_gzip
 python-influxdb-client
 python-iniconfig
+python-iniparse
 python-injector
 python-inject
 python-inkex
@@ -8212,6 +8240,7 @@ python-lsprotocol
 python-lxml
 python-ly
 python-magnumclient
+python-mailman-web
 python-mako
 python-managesieve
 python-manilaclient
@@ -8541,11 +8570,13 @@ python-pyrsistent
 python-pysaml2
 python-pysam
 python-pyshtools
+python-pyside6
 python-pysingular
 python-pysnmp-mibs
 python-pysocks
 python-pysodium
 python-pyspellchecker
+python-pyspike
 python-pystemd
 python-pyswip
 python-py-tes
@@ -8715,6 +8746,7 @@ python-snakemake-executor-plugin-slurm-jobstep
 python-snakemake-executor-plugin-tes
 python-snakemake-interface-common
 python-snakemake-interface-executor-plugins
+python-snakemake-interface-report-plugins
 python-snakemake-interface-storage-plugins
 python-snakemake-storage-plugin-azure
 python-snakemake-storage-plugin-fs
@@ -8905,6 +8937,7 @@ python-watchfiles
 python-wavio
 python-wcag-contrast-ratio
 python-wcmatch
+python-wcwidth
 python-webcolors
 python-websockets
 python-wheel
@@ -8950,7 +8983,10 @@ python-ZODB
 python-ZODB3
 python-zoidberg
 python-zombie-imp
+python-zope-configuration
+python-zope-exceptions
 python-zope-hookable
+python-zope-i18nmessageid
 python-zope-testrunner
 python-zopeundo
 python-zopfli
@@ -9116,6 +9152,7 @@ radare2
 radcli
 radiotray-ng
 radsecproxy
+radvd
 raft
 rakudo
 randomx
@@ -9166,6 +9203,7 @@ redhat-rpm-config
 redis
 redland
 rednotebook
+redsocks
 rEFInd
 regexp
 regextester
@@ -10281,6 +10319,7 @@ rust-drm-fourcc
 rust-drm
 rust-drm-sys
 rust-drop_bomb
+rust-drop-tracker
 rust-dtoa-short
 rust-dtoa
 rust-dtoa0.4
@@ -10503,6 +10542,7 @@ rust-ghash
 rust-gh-emoji
 rust-ghost
 rust-gif
+rust-gif0.12
 rust-gimli
 rust-gimoji
 rust-gio
@@ -10908,6 +10948,7 @@ rust-libloading0.7
 rust-libmimalloc-sys
 rust-libmount
 rust-libm
+rust-liboci-cli
 rust-liboverdrop
 rust-libpulse-binding
 rust-libpulse-sys
@@ -11787,7 +11828,6 @@ rust-slotmap
 rust-slug
 rust-smallbitvec
 rust-smallstr
-rust-smallstr0.2
 rust-smallvec
 rust-smart-default
 rust-smartstring
@@ -12459,6 +12499,7 @@ SDL2_Pango
 SDL2
 SDL2_ttf
 sdorfehs
+sdrangel
 sdsl-lite
 sdubby
 seabios
@@ -12855,7 +12896,6 @@ todocli
 tog-pegasus
 toilet
 tokyocabinet
-tomcatjss
 tomcli
 tomlplusplus
 tomoe-gtk
@@ -12999,6 +13039,7 @@ uswds-public-sans-fonts
 utf8cpp
 utf8proc
 uthash
+util-linux
 utop
 utrac
 uuid
@@ -13064,6 +13105,7 @@ vo-amrwbenc
 vobcopy
 voikko-fi
 vokoscreenNG
+volk
 volpack
 volume_key
 voms-api-java
@@ -13157,6 +13199,7 @@ wlroots0.15
 wlroots0.16
 wlr-randr
 wlsunset
+wmctrl
 wmenu
 wmweather+
 woff
@@ -13178,6 +13221,7 @@ wslay
 wsmancli
 wult
 wxmacmolplt
+wxmedit
 wxsvg
 xalan-c
 xalan-j2
@@ -13271,6 +13315,7 @@ xmvn
 xnnpack
 xonotic-data
 xonotic
+xonsh
 xorg-x11-drivers
 xorg-x11-drv-dummy
 xorg-x11-drv-evdev

@@ -223,7 +223,6 @@ asc-music
 asc
 asdcplib
 asio-grpc
-asl
 asmjit
 asm6809
 asnip
@@ -633,7 +632,6 @@ clonekeen
 cloog
 cloudcompare
 cloudy
-clover2
 clpeak
 clthreads
 clucene
@@ -728,7 +726,6 @@ converseen
 convertall
 cool-retro-term
 COPASI
-copy-jdk-configs
 copyq
 corectrl
 corkscrew
@@ -864,6 +861,7 @@ dbus-qt3
 dbus-sharp-glib
 dbus-sharp
 dbus
+dbus-test-runner
 dcfldd
 dcmtk
 dcm2niix
@@ -974,7 +972,6 @@ diffmark
 diff-pdf
 diffpdf
 diff-so-fancy
-diffstat
 diffuse
 dillo
 dino
@@ -1004,6 +1001,7 @@ dl
 dmapd
 dmenu
 dmg2img
+dmidiplayer
 dmlite
 dmraid
 dmtx-utils
@@ -1222,7 +1220,6 @@ emacs-json-snatcher
 emacs-logstash-conf
 emacs-lua
 emacs-magit
-emacspeak
 emacs-pkg-info
 emacs-popup
 emacs-python-environment
@@ -1236,6 +1233,7 @@ emacs-with-editor
 emacs-yaml-mode
 email2trac
 EMBOSS
+embree3
 emerald
 emerald-themes
 enblend
@@ -1854,6 +1852,7 @@ ghc-basement
 ghc-base-orphans
 ghc-base-prelude
 ghc-base64-bytestring
+ghc-base64
 ghc-bifunctors
 ghc-bower-json
 ghc-cached-json-file
@@ -1920,6 +1919,7 @@ ghc-http-client-tls
 ghc-HTTP
 ghc-http2
 ghc-io-streams
+ghc-isocline
 ghc-js-chart
 ghc-language-c
 ghc-language-c99
@@ -2072,7 +2072,6 @@ GLee
 gle
 glew
 glglobe
-glibc
 glibc32
 glibd
 glibmm2.4
@@ -2400,6 +2399,7 @@ golang-github-bgentry-speakeasy
 golang-github-bifurcation-mint
 golang-github-bitly-simplejson
 golang-github-bits-and-blooms-bitset
+golang-github-blackfireio-osinfo
 golang-github-blakesmith-ar
 golang-github-blang-semver
 golang-github-bmatcuk-doublestar
@@ -3502,6 +3502,7 @@ golang-github-syndtr-gocapability
 golang-github-syndtr-goleveldb
 golang-github-task-slim-sprig3
 golang-github-task
+golang-github-tdewolff-argp
 golang-github-tdewolff-minify
 golang-github-tdewolff-parse
 golang-github-tdewolff-test
@@ -4192,7 +4193,6 @@ ignition-transport
 ignuit
 igt-gpu-tools
 iguanaIR
-iio-sensor-proxy
 iir1
 ike-scan
 ikiwiki
@@ -4681,6 +4681,7 @@ kmailtransport
 kmbox
 kmenuedit
 kmetronome
+kmidimon
 kmid2
 kmime
 kmines
@@ -4899,6 +4900,9 @@ libatomic_ops
 libavc1394
 libavtp
 libax25
+libayatana-appindicator
+libayatana-ido
+libayatana-indicator
 libbatch
 libbgpdump
 libbinio
@@ -5200,7 +5204,6 @@ libpeas1
 libpgf
 libphidget22
 libphonenumber
-libplacebo
 libplasma
 libpng
 libpng12
@@ -5482,7 +5485,6 @@ lovelock-backgrounds
 lovelock-kde-theme
 love
 lowdown
-low-memory-monitor
 lpairs
 lpcnetfreedv
 lpf
@@ -6721,6 +6723,7 @@ pam_ssh
 pam_url
 pam_yubico
 pam_2fa
+pandoc-cli
 pangomm2.48
 pango
 Panini
@@ -7477,7 +7480,6 @@ perl-Inline-Python
 perl-Inline-Struct
 perl-IO-Any
 perl-IO-Async-Loop-Mojo
-perl-IO-Async
 perl-IO-Capture-Extended
 perl-IO-Capture
 perl-IO-Compress-Brotli
@@ -7606,7 +7608,6 @@ perl-MIME-Base32
 perl-MIME-Lite-HTML
 perl-MIME-Lite-TT-HTML
 perl-Minion-Backend-SQLite
-perl-Minion
 perl-mixin
 perl-Mock-MonkeyPatch
 perl-Mock-Sub
@@ -9753,7 +9754,6 @@ python-inflection
 python-inflect
 python-influxdb-client
 python-influxdb
-python-iniparse
 python-inkex
 python-inquirer
 python-inspyred
@@ -9905,6 +9905,7 @@ python-magic
 python-magnumclient
 python-mailer
 python-mailmanclient
+python-mailman-web
 python-mailmerge
 python-makeelf
 python-makefun
@@ -9960,6 +9961,7 @@ python-mistune
 python-mistune08
 python-mitogen
 python-mizani
+python-mmtf
 python-mne-bids
 python-mnemonic
 python-mockito
@@ -10395,6 +10397,7 @@ python-pysb
 python-pyscaffold
 python-pyscf
 python-pyshark
+python-pyside6
 python-pysignals
 python-pysimplesoap
 python-pysmb
@@ -10691,6 +10694,7 @@ python-snakemake-executor-plugin-slurm-jobstep
 python-snakemake-executor-plugin-tes
 python-snakemake-interface-common
 python-snakemake-interface-executor-plugins
+python-snakemake-interface-report-plugins
 python-snakemake-interface-storage-plugins
 python-snakemake-storage-plugin-azure
 python-snakemake-storage-plugin-fs
@@ -10974,7 +10978,6 @@ python-waterfurnace
 python-watchdog
 python-watchfiles
 python-watchgod
-python-wcwidth
 python-webcolors
 python-webencodings
 python-webob
@@ -11104,13 +11107,10 @@ python-zm
 python-zoidberg
 python-zombie-imp
 python-zope-component
-python-zope-configuration
 python-zope-deprecation
 python-zope-event
-python-zope-exceptions
 python-zope-hookable
 python-zope-interface
-python-zope-i18nmessageid
 python-zope-schema
 python-zope-sqlalchemy
 python-zope-testing
@@ -11311,7 +11311,6 @@ radicale
 radiotray-ng
 radius-engine
 radsecproxy
-radvd
 R-affyio
 raft
 ragel
@@ -11448,6 +11447,7 @@ redir
 RediSearch
 redis
 redshift
+redsocks
 rEFInd
 reflections
 regextester
@@ -12485,6 +12485,7 @@ rust-drm-fourcc
 rust-drm
 rust-drm-sys
 rust-drop_bomb
+rust-drop-tracker
 rust-dtoa-short
 rust-dtoa
 rust-dtoa0.4
@@ -12665,6 +12666,7 @@ rust-gettid
 rust-ghash
 rust-ghost
 rust-gif
+rust-gif0.12
 rust-gimli
 rust-gimoji
 rust-gio-sys0.15
@@ -12998,6 +13000,7 @@ rust-libloading0.7
 rust-libmimalloc-sys
 rust-libmount
 rust-libm
+rust-liboci-cli
 rust-liboverdrop
 rust-libpulse-binding
 rust-libpulse-sys
@@ -13687,7 +13690,6 @@ rust-slog-term
 rust-slug
 rust-smallbitvec
 rust-smallstr
-rust-smallstr0.2
 rust-smallvec
 rust-smartstring
 rust-smol_str
@@ -14245,7 +14247,6 @@ SDL2_sound
 SDL2
 sdorfehs
 sdparm
-sdrangel
 sdrpp
 sdsl-lite
 sdubby
@@ -15031,7 +15032,6 @@ usnic-tools
 ustreamer
 ustr
 uswds-public-sans-fonts
-util-linux
 utox
 uucp
 uudeview
@@ -15173,7 +15173,6 @@ vnc-reflector
 vnstat
 vo-amrwbenc
 vodovod
-volk
 volpack
 volumeicon
 voms-api-java
@@ -15295,7 +15294,6 @@ wmacpi
 wmapmload
 wmbusmeters
 wmCalClock
-wmctrl
 wmdocker
 wmenu
 wmfrog
@@ -15334,6 +15332,7 @@ wxapt
 wxGlade
 wxGTK
 wxMaxima
+wxmedit
 wxsqlite3
 w3c-markup-validator
 w3m
@@ -15495,7 +15494,6 @@ xmp-plugin-audacious
 xmvn-connector-ivy
 xnec2c
 xnnpack
-xonsh
 xoo
 xorgxrdp
 xorg-x11-drv-amdgpu
@@ -15688,6 +15686,7 @@ z88dk
 3Depict
 3dprinter-udev-rules
 3mux
+3proxy
 4th
 6tunnel
 8088_bios
