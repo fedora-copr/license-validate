@@ -528,6 +528,7 @@ brazil
 breakid
 breeze-gtk
 breeze-icon-theme
+breezy
 brewtarget
 bridge-utils
 brightnessctl
@@ -593,7 +594,6 @@ cadical
 cadvisor
 cachelib
 cairo-dock-plug-ins
-cairo-dock
 cairomm
 cairomm1.16
 cairo
@@ -760,7 +760,6 @@ cloudcompare
 cloud-init
 cloud-utils
 cloudy
-clover2
 clpeak
 clthreads
 clucene
@@ -832,6 +831,7 @@ compat-readline6
 compat-tolua++
 compface
 compiler-rt
+compiler-rt17
 compiz-bcop
 compizconfig-python
 compiz-manager
@@ -1294,7 +1294,6 @@ drpm
 drraw
 drumkv1
 drumstick
-drumstick0
 drupal7
 dSFMT
 dsniff
@@ -1435,10 +1434,8 @@ emacs-common-riece
 emacs-ctable
 emacs-dash
 emacs-deferred
-emacs-dockerfile-mode
 emacs-epc
 emacs-epl
-emacs-flycheck
 emacs-f
 emacs-goodies
 emacs-hcl-mode
@@ -1451,7 +1448,6 @@ emacs-json-snatcher
 emacs-logstash-conf
 emacs-lua
 emacs-magit
-emacspeak
 emacs-pkg-info
 emacs-popup
 emacs-python-environment
@@ -1558,7 +1554,6 @@ erlang-ibrowse
 erlang-iconv
 erlang-idna
 erlang-jiffy
-erlang-jose
 erlang-js
 erlang-jsx
 erlang-kvc
@@ -1789,6 +1784,7 @@ ffuf
 fgrun
 fido-device-onboard
 fido
+fielding
 Field3D
 figlet
 figtoipe
@@ -1909,6 +1905,7 @@ fprobe-ulog
 FP16
 fractal
 fragments
+francis
 freealut
 freecell-solver
 freecolor
@@ -2788,7 +2785,6 @@ gle
 glew
 glfw
 glglobe
-glibc32
 glibd
 glibmm2.4
 glibmm2.68
@@ -3040,6 +3036,7 @@ golang-bitbucket-creachadair-shell
 golang-bitbucket-ww-goautoneg
 golang-bug-serial-1
 golang-cloud-google-bigquery
+golang-cloud-google-cloudtasks
 golang-cloud-google-compute-metadata
 golang-cloud-google-compute
 golang-cloud-google-datacatalog
@@ -3497,7 +3494,6 @@ golang-github-glendc-gopher-json
 golang-github-gliderlabs-ssh
 golang-github-globalsign-mgo
 golang-github-glog
-golang-github-gobs-pretty
 golang-github-gobuffalo-envy
 golang-github-gobuffalo-flect
 golang-github-gobuffalo-here
@@ -4620,7 +4616,6 @@ golang-rsc-qr
 golang-schwanenlied-yawning-bsaes
 golang-sigs-k8s-apiserver-network-proxy
 golang-sigs-k8s-aws-iam-authenticator
-golang-sigs-k8s-kustomize
 golang-sigs-k8s-structured-merge-diff
 golang-sigs-k8s-yaml
 golang-software-sslmate-src-pkcs12
@@ -4646,7 +4641,6 @@ golang-uber-mock
 golang-uber-multierr
 golang-uber-ratelimit
 golang-uber-zap
-golang-vitess
 golang-x-arch
 golang-x-crypto
 golang-x-debug
@@ -5239,8 +5233,6 @@ jack_capture
 jack-example-tools
 jack-keyboard
 jack-mixer
-jackson-dataformats-binary
-jackson-dataformats-text
 jackson-jaxrs-providers
 jacktrip
 jacoco
@@ -5275,7 +5267,6 @@ java-11-openjdk-portable
 java-11-openjdk
 java-17-openjdk-portable
 java-17-openjdk
-java-1.8.0-openjdk-aarch32
 java-1.8.0-openjdk-portable
 java-1.8.0-openjdk
 java-21-openjdk-portable
@@ -5346,7 +5337,6 @@ jpegxl
 jpilot-backup
 jpnevulator
 jq
-jreen
 jrnl
 jsch-agent-proxy
 js-jquery-mousewheel
@@ -5430,7 +5420,6 @@ kcachegrind
 kcalc
 kcalutils
 kcat
-kcbench
 kclock
 kcm_systemd
 kcm_wacomtablet
@@ -5972,7 +5961,6 @@ ldapdomaindump
 ldapjdk
 ldapvi
 ldc
-ldc1.32
 ldeep
 leafpad
 lecm
@@ -5991,6 +5979,7 @@ levien-inconsolata-fonts
 levien-museum-fonts
 levmar
 lexertl14
+lexertl17
 lfortran
 lgogdownloader
 lhapdf
@@ -6094,7 +6083,6 @@ libdbusmenu
 libdca
 libdc1394
 libdeflate
-libdeltacloud
 libdex
 libdicom
 libdigidocpp
@@ -6152,7 +6140,6 @@ libfastjson
 libfc14audiodecoder
 libfep
 libffado
-libffi
 libfilteraudio
 libfishsound
 libfixposix
@@ -6315,6 +6302,7 @@ libltc
 liblxi
 liblxqt
 liblzf
+libmaa
 libmacaroons
 libmad
 libmamba
@@ -6570,7 +6558,6 @@ libtranslit
 libtree-ldd
 libtree
 libtwin
-libucil
 libucl
 libudfread
 libuecc
@@ -6578,8 +6565,6 @@ libuev
 libuInputPlus
 libunarr
 libunibreak
-libunicapgtk
-libunicap
 libunicode
 libunifex
 libuninum
@@ -7164,7 +7149,6 @@ mingw-cairomm
 mingw-cairo
 mingw-c-ares
 mingw-cfitsio
-mingw-clucene
 mingw-cmocka
 mingw-colord
 mingw-cppunit
@@ -7712,7 +7696,6 @@ nautilus
 nawk
 nazghul
 nbc
-nbd-runner
 nbd
 ncdc
 ncid
@@ -7843,7 +7826,6 @@ nodejs-buble
 nodejs-cjs-module-lexer
 nodejs-colors
 nodejs-diagnostic-language-server
-nodejs-generic-pool
 nodejs-less
 nodejs-linefix
 nodejs-nodemon
@@ -8093,7 +8075,6 @@ oflb-goudy-bookletter-1911-fonts
 oflb-notcouriersans-fonts
 oflb-prociono-fonts
 oflb-smonohand-fonts
-ofono
 ogdi
 oggvideotools
 ogre
@@ -11507,7 +11488,6 @@ pt-astra-sans-fonts
 pt-astra-serif-fonts
 ptex
 pthreadpool
-pthsem
 ptlib
 ptl
 ptpython
@@ -11663,6 +11643,7 @@ python-aiosmb
 python-aiosmtpd
 python-aiosnmp
 python-aiosqlite
+python-aiostream
 python-aiounifi
 python-aiounittest
 python-aiowinreg
@@ -12096,6 +12077,7 @@ python-cssselect2
 python-csvkit
 python-curio
 python-curtsies
+python-cvdupdate
 python-cvss
 python-cwcwidth
 python-cx-oracle
@@ -13961,6 +13943,7 @@ python-trololio
 python-trove-classifiers
 python-troveclient
 python-trustme
+python-trx-python
 python-ttystatus
 python-tubes
 python-tvb-data
@@ -15685,7 +15668,6 @@ rust-domain
 rust-dotenvy
 rust-downcast-rs
 rust-drain
-rust-drg
 rust-drm-ffi
 rust-drm-fourcc
 rust-drm
@@ -15738,6 +15720,7 @@ rust-enumset
 rust-env_filter
 rust-environment
 rust-env_logger
+rust-env_logger0.10
 rust-env_logger0.4
 rust-env_logger0.5
 rust-env_logger0.6
@@ -16144,6 +16127,7 @@ rust-jql-runner
 rust-json
 rust-just
 rust-jwalk0.6
+rust-jwt
 rust-jxl-bitstream
 rust-jxl-coding
 rust-jxl-color
@@ -16795,6 +16779,7 @@ rust-sequoia-chameleon-gnupg
 rust-sequoia-ipc
 rust-sequoia-keyring-linter
 rust-sequoia-keystore-backend
+rust-sequoia-keystore-softkeys
 rust-sequoia-net
 rust-sequoia-octopus-librnp
 rust-sequoia-openpgp-mt
@@ -17144,6 +17129,7 @@ rust-unindent0.1
 rust-universal-hash
 rust-unix_socket
 rust-unsafe-libyaml
+rust-unscanny
 rust-untrusted0.7
 rustup
 rust-ureq
@@ -17411,7 +17397,6 @@ sawfish-pager
 sawfish
 sayonara
 sbc
-sblim-cim-client
 sbsigntools
 scalapack
 scalpel
@@ -17474,8 +17459,6 @@ sdrpp
 sdsl-lite
 sdubby
 seabios
-seafile-client
-seafile
 seahorse-adventures
 seahorse-caja
 seahorse-nautilus
@@ -17855,6 +17838,7 @@ steghide
 stellarsolver
 step
 stfl
+stgit
 stix-fonts
 stk
 stlink
@@ -18297,7 +18281,6 @@ uClibc
 ucommon
 ucpp
 ucviewer
-ucview
 udftools
 udica
 udisks
@@ -18685,7 +18668,6 @@ wmacpi
 wmapmload
 wmbusmeters
 wmCalClock
-wmctrl
 wmdocker
 wmenu
 wmfrog

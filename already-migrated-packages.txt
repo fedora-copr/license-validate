@@ -172,6 +172,7 @@ api-sanity-checker
 apostrophe
 appeditor
 applet-window-buttons
+appres
 appstream-data
 appstream-generator
 appstream
@@ -473,6 +474,7 @@ caffe
 cage
 cachefilesd
 cachelib
+cairo-dock
 cairomm
 cairomm1.16
 cairo
@@ -563,6 +565,7 @@ clamz
 clang
 clang15
 clang16
+clang17
 cl-asdf
 classification-banner
 classloader-leak-test-framework
@@ -643,6 +646,7 @@ compat-guichan05
 compat-guile18
 compat-readline5
 compiler-rt
+compiler-rt17
 composefs
 composer
 compose-utils
@@ -856,6 +860,7 @@ dhcpcd
 dhcpdump
 dhcp
 dialog
+dia
 diction
 dietlibc
 diffoscope
@@ -885,6 +890,7 @@ dmidecode
 dmidiplayer
 dmtcp
 dnf-plugin-ovl
+dnf-plugin-perfmetrics
 dnf-plugins-core
 dnf-plugins-extras
 dnf
@@ -1002,7 +1008,9 @@ emacs-common-proofgeneral
 emacs-common-tuareg
 emacs-common-w3m
 emacs-company-mode
+emacs-dockerfile-mode
 emacs-flycheck-pycheckers
+emacs-flycheck
 emacs-iedit
 emacspeak
 emacs
@@ -1114,6 +1122,7 @@ ffmpeg
 ffmpegthumbs
 fftw
 fido-device-onboard
+fielding
 filelight
 file
 filesystem
@@ -1200,6 +1209,7 @@ fprintd
 FP16
 fractal
 frama-c
+francis
 freeciv
 freecol
 freedink-data
@@ -2033,6 +2043,7 @@ glances
 glava
 glfw
 glibc
+glibc32
 glibmm2.4
 glibmm2.68
 glib-networking
@@ -2222,6 +2233,7 @@ golang-aead-minisign
 golang-bitbucket-creachadair-shell
 golang-bug-serial-1
 golang-cloud-google-bigquery
+golang-cloud-google-cloudtasks
 golang-cloud-google-compute-metadata
 golang-cloud-google-compute
 golang-cloud-google-datacatalog
@@ -3428,6 +3440,7 @@ kbackup
 kbd
 kcalutils
 kcat
+kcbench
 kcc
 kcolorpicker
 kdbg
@@ -3471,6 +3484,7 @@ kernel
 kernel-srpm-macros
 kexec-tools
 kexi
+keybinder
 keycloak-httpd-client-install
 keylime-agent-rust
 keyrings-filesystem
@@ -3794,7 +3808,6 @@ lcms
 lcms2
 lcov
 ldapjdk
-ldc1.32
 ldns
 leafpad
 leatherman
@@ -3805,6 +3818,7 @@ leland-fonts
 lemonldap-ng
 less
 lexertl14
+lexertl17
 lfortran
 lfsc
 lftp
@@ -3920,6 +3934,7 @@ libfabric
 libfakekey
 libfaketime
 libfastjson
+libffi
 libfido2
 libfilezilla
 libfm
@@ -4038,6 +4053,7 @@ liblogging
 liblognorm
 liblouis
 liblxi
+libmaa
 libmad
 libmamba
 libmanette
@@ -4363,6 +4379,7 @@ lldpad
 lld
 lld15
 lld16
+lld17
 llhttp
 llvm-bolt
 llvm
@@ -7694,6 +7711,7 @@ python-aioquic
 python-aioruckus
 python-aiosignal
 python-aiosmtpd
+python-aiostream
 python-airspeed
 python-alembic
 python-alsa
@@ -7886,6 +7904,7 @@ python-crypto
 python-css-parser
 python-cssutils
 python-cups
+python-cvdupdate
 python-cvxopt
 python-cyipopt
 python-cysignals
@@ -8067,6 +8086,7 @@ python-google-resumable-media
 python-gpiozero
 python-gpxpy
 python-grabbit
+python-gradunwarp
 python-graph-tool
 python-greenlet
 python-grpc-google-iam-v1
@@ -8499,6 +8519,7 @@ python-pycparser
 python-pycryptodomex
 python-pyct
 python-pycurl
+python-pycxx
 python-pydantic-core
 python-pydantic-extra-types
 python-pydantic-settings
@@ -8653,6 +8674,7 @@ python-recordclass
 python-referencing
 python-registry
 python-reportlab
+python-repoze-sphinx-autointerface
 python-reproject
 python-requests-file
 python-requests-ftp
@@ -8885,6 +8907,7 @@ python-trio-websocket
 python-trove-classifiers
 python-troveclient
 python-trustme
+python-trx-python
 python-tvb-gdist
 python-txredisapi
 python-typecode-libmagic
@@ -9637,6 +9660,7 @@ rubygem-rspec-rails
 rubygem-rspec
 rubygem-rspec-support
 rubygem-rsvg2
+rubygem-rttool
 rubygem-ruby-dbus
 rubygem-ruby_dep
 rubygem-ruby_engine
@@ -9720,6 +9744,7 @@ rubygem-yard
 rubygem-zeitwerk
 rubygem-zoom
 ruby-mecab
+ruby-taglib
 ruff-lsp
 ruff
 rumor
@@ -10373,6 +10398,7 @@ rust-enumset
 rust-env_filter
 rust-environment
 rust-env_logger
+rust-env_logger0.10
 rust-env_logger0.4
 rust-env_logger0.5
 rust-env_logger0.6
@@ -10874,6 +10900,7 @@ rust-json5
 rust-just
 rust-jwalk
 rust-jwalk0.6
+rust-jwt
 rust-jxl-bitstream
 rust-jxl-coding
 rust-jxl-color
@@ -11710,6 +11737,7 @@ rust-sequoia-cert-store
 rust-sequoia-chameleon-gnupg
 rust-sequoia-ipc
 rust-sequoia-keystore-backend
+rust-sequoia-keystore-softkeys
 rust-sequoia-net
 rust-sequoia-openpgp-mt
 rust-sequoia-openpgp
@@ -12166,6 +12194,7 @@ rust-unindent0.1
 rust-universal-hash
 rust-unix_socket
 rust-unsafe-libyaml
+rust-unscanny
 rust-untrusted
 rust-untrusted0.7
 rustup
@@ -12505,6 +12534,8 @@ sdubby
 seabios
 seadrive-daemon
 seadrive-gui
+seafile-client
+seafile
 seahorse-nautilus
 seatd
 secilc
@@ -12630,6 +12661,7 @@ smc-tools
 smf-spf
 s-nail
 snakemake
+snapd-glib
 snapd
 snapper
 snappy
@@ -12660,6 +12692,7 @@ source-highlight
 spacebar
 spacefm
 spamassassin-dqs
+spamassassin-iXhash2
 spamassassin
 spamass-milter
 spandsp
@@ -12721,6 +12754,7 @@ steinberg-petaluma-fonts
 stellarium
 stellarsolver
 step
+stgit
 stix-fonts
 stlink
 stlsplit
@@ -12985,6 +13019,7 @@ ufw
 uget
 uglify-js
 ugrep
+uhttpmock
 uchardet
 uid_wrapper
 uim

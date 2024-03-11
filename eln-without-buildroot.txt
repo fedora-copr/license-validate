@@ -35,7 +35,6 @@ alsa-sof-firmware
 alsa-tools
 alsa-utils
 anaconda
-anaconda-webui
 annobin
 ansible-core
 ansible-freeipa
@@ -132,6 +131,7 @@ cim-schema
 cjose
 cjson
 clang
+clang17
 cldr-emoji-annotation
 clevis
 clevis-pin-tpm2
@@ -666,9 +666,7 @@ jakarta-oro
 jansi
 jansson
 jasper
-java-1.8.0-openjdk
 java-11-openjdk
-java-17-openjdk
 java-21-openjdk
 javapackages-tools
 jaxb
@@ -995,6 +993,7 @@ lldpad
 lldpd
 llhttp
 llvm
+llvm17
 lm_sensors
 lmdb
 lockdev
@@ -1735,6 +1734,7 @@ scapy
 scipy
 scl-utils
 scrub
+sdbus-cpp
 sdl12-compat
 seabios
 seahorse

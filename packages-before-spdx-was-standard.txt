@@ -149,7 +149,6 @@ apmd
 applet-window-buttons
 appliance-tools
 appmenu-qt5
-appres
 appstream-generator
 apptainer
 apr-api-docs
@@ -441,7 +440,6 @@ Cadence
 cadvisor
 cachelib
 cairo-dock-plug-ins
-cairo-dock
 cairo
 caja-actions
 caja-extensions
@@ -899,7 +897,6 @@ dnfdragora
 dnf-plugin-cow
 dnf-plugin-diff
 dnf-plugin-flunk_dependent_remove
-dnf-plugin-perfmetrics
 dnf-plugins-core
 dnf-plugins-extras
 dnf
@@ -961,7 +958,6 @@ drpm
 drraw
 drumkv1
 drumstick
-drumstick0
 drupal7
 dSFMT
 dsniff
@@ -1079,10 +1075,8 @@ emacs-common-riece
 emacs-ctable
 emacs-dash
 emacs-deferred
-emacs-dockerfile-mode
 emacs-epc
 emacs-epl
-emacs-flycheck
 emacs-f
 emacs-goodies
 emacs-hcl-mode
@@ -1193,7 +1187,6 @@ erlang-ibrowse
 erlang-iconv
 erlang-idna
 erlang-jiffy
-erlang-jose
 erlang-js
 erlang-jsx
 erlang-kvc
@@ -1886,7 +1879,6 @@ GLee
 gle
 glew
 glglobe
-glibc32
 glibd
 glibmm2.4
 glibmm2.68
@@ -2415,7 +2407,6 @@ golang-github-glendc-gopher-json
 golang-github-gliderlabs-ssh
 golang-github-globalsign-mgo
 golang-github-glog
-golang-github-gobs-pretty
 golang-github-gobuffalo-envy
 golang-github-gobuffalo-flect
 golang-github-gobuffalo-here
@@ -3354,7 +3345,6 @@ golang-rsc-pdf
 golang-schwanenlied-yawning-bsaes
 golang-sigs-k8s-apiserver-network-proxy
 golang-sigs-k8s-aws-iam-authenticator
-golang-sigs-k8s-kustomize
 golang-sigs-k8s-structured-merge-diff
 golang-sigs-k8s-yaml
 golang-sourcegraph-appdash-data
@@ -3375,7 +3365,6 @@ golang-uber-goleak
 golang-uber-multierr
 golang-uber-ratelimit
 golang-uber-zap
-golang-vitess
 golang-x-arch
 golang-x-crypto
 golang-x-debug
@@ -3805,8 +3794,6 @@ jack-audio-connection-kit
 jack_capture
 jack-keyboard
 jack-mixer
-jackson-dataformats-binary
-jackson-dataformats-text
 jacoco
 jaero
 jakarta-el
@@ -3830,7 +3817,6 @@ java-scrypt
 java-11-openjdk
 java-17-openjdk-portable
 java-17-openjdk
-java-1.8.0-openjdk-aarch32
 java-1.8.0-openjdk
 jaxen
 jbosscache-support
@@ -3874,7 +3860,6 @@ jpeginfo
 jpegoptim
 jpilot-backup
 jpnevulator
-jreen
 jsch-agent-proxy
 js-jquery-mousewheel
 js-jquery-prettyphoto
@@ -3935,7 +3920,6 @@ kbruch
 kBuild
 kcachegrind
 kcalc
-kcbench
 kclock
 kcm_systemd
 kcm_wacomtablet
@@ -3991,7 +3975,6 @@ keepassxc
 kemie-bellota-fonts
 kerberoast
 kexi
-keybinder
 keybinder3
 keychain
 keychecker
@@ -4295,7 +4278,6 @@ libdazzle
 libdbi-drivers
 libdbi
 libdbusextended-qt5
-libdeltacloud
 libdigidocpp
 libdirq
 libdiscid
@@ -4332,7 +4314,6 @@ libexif
 libfc14audiodecoder
 libfep
 libffado
-libffi
 libfilteraudio
 libfishsound
 libfixposix
@@ -4606,14 +4587,11 @@ libtranslit
 libtree-ldd
 libtree
 libtwin
-libucil
 libucl
 libudfread
 libuecc
 libuev
 libuInputPlus
-libunicapgtk
-libunicap
 libuninum
 libunity
 libupnp
@@ -5030,7 +5008,6 @@ mingw-bzip2
 mingw-cairomm
 mingw-c-ares
 mingw-cfitsio
-mingw-clucene
 mingw-cmocka
 mingw-colord
 mingw-cppunit
@@ -5438,7 +5415,6 @@ nautilus
 nawk
 nazghul
 nbc
-nbd-runner
 nbd
 ncdc
 ncid
@@ -5547,7 +5523,6 @@ nodejs-bash-language-server
 nodejs-buble
 nodejs-colors
 nodejs-diagnostic-language-server
-nodejs-generic-pool
 nodejs-less
 nodejs-linefix
 nodejs-packaging
@@ -5681,7 +5656,6 @@ oflb-goudy-bookletter-1911-fonts
 oflb-notcouriersans-fonts
 oflb-prociono-fonts
 oflb-smonohand-fonts
-ofono
 ogdi
 ogre
 ogr2osm
@@ -7824,7 +7798,6 @@ pssh
 pss
 pstoedit
 ptex
-pthsem
 ptlib
 ptpython
 ptrash
@@ -7954,6 +7927,7 @@ python-aiosmb
 python-aiosmtpd
 python-aiosnmp
 python-aiosqlite
+python-aiostream
 python-aiounifi
 python-aiounittest
 python-aiowinreg
@@ -8557,7 +8531,6 @@ python-google-i18n-address
 python-gphoto2
 python-grabbit
 python-grabserial
-python-gradunwarp
 python-graphene
 python-graphql-core
 python-graphql-relay
@@ -9065,7 +9038,6 @@ python-pycoingecko
 python-pycomfoair
 python-pycomm3
 python-pycosat
-python-pycxx
 python-pydantic
 python-pydbus
 python-pydispatcher
@@ -9279,7 +9251,6 @@ python-reparser
 python-repomd
 python-reportlab
 python-repoze-lru
-python-repoze-sphinx-autointerface
 python-repoze-tm2
 python-repoze-who-plugins-sa
 python-repoze-who
@@ -10499,7 +10470,6 @@ rubygem-rdiscount
 rubygem-rdoc
 rubygem-rchardet
 rubygem-rmail
-rubygem-rttool
 rubygem-ruby-dbus
 rubygem-ruby-libvirt
 rubygem-ruby-shadow
@@ -10528,7 +10498,6 @@ ruby-gnome2
 rubypick
 ruby-romkan
 ruby
-ruby-taglib
 rudeconfig
 rudesocket
 R-udunits2
@@ -10822,7 +10791,6 @@ rust-dns-lookup
 rust-docmatic
 rust-docopt
 rust-downcast-rs
-rust-drg
 rust-dtoa-short
 rust-dtoa
 rust-dummy
@@ -11763,8 +11731,6 @@ sdorfehs
 sdparm
 sdrpp
 sdsl-lite
-seafile-client
-seafile
 seahorse-adventures
 seahorse-caja
 seahorse
@@ -11931,7 +11897,6 @@ sms_ntsc
 smtpping
 snakeyaml
 snallygaster
-snapd-glib
 snapraid
 sndfile-tools
 snes_ntsc
@@ -12056,6 +12021,7 @@ statserial
 stdair
 steghide
 stfl
+stgit
 stix-fonts
 stk
 stlink
@@ -12417,7 +12383,6 @@ ucblogo
 uClibc
 ucpp
 ucviewer
-ucview
 udftools
 udisks
 udisks2-qt5

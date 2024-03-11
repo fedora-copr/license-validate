@@ -122,7 +122,6 @@ APLpy warning: valid as old and new and no changelong entry, please check
 apmd - can be trivially converted to GPL-2.0-or-later
 appliance-tools - can be trivially converted to GPL-2.0-only
 appmenu-qt5 - can be trivially converted to LGPL-3.0-only
-appres warning: valid as old and new and no changelong entry, please check
 apptainer
 apr-api-docs - can be trivially converted to Apache-2.0
 aprsd - can be trivially converted to GPL-2.0-or-later
@@ -398,7 +397,6 @@ cabextract - can be trivially converted to GPL-2.0-or-later
 cadaver - can be trivially converted to GPL-2.0-or-later
 Cadence - can be trivially converted to GPL-2.0-or-later
 cairo-dock-plug-ins - can be trivially converted to GPL-3.0-or-later
-cairo-dock - can be trivially converted to GPL-3.0-or-later
 caja-actions
 caja-extensions - can be trivially converted to GPL-2.0-or-later
 caja
@@ -769,11 +767,10 @@ dia-electronic - can be trivially converted to GPL-2.0-or-later
 dia-gnomeDIAicons - can be trivially converted to GPL-1.0-or-later
 dialect - can be trivially converted to GPL-3.0-or-later
 dia-optics - can be trivially converted to GPL-2.0-or-later
-dia - can be trivially converted to GPL-2.0-or-later
 dib-utils - can be trivially converted to Apache-2.0
 diceware - can be trivially converted to GPL-3.0-or-later
 dicomanonymizer
-dictd
+dictd warning: not valid neither as Callaway nor as SPDX, please check
 did - can be trivially converted to GPL-2.0-or-later
 dieharder - can be trivially converted to GPL-2.0-or-later
 diffmark - can be trivially converted to diffmark AND ( GPL-1.0-or-later OR Artistic-1.0-Perl )
@@ -814,7 +811,6 @@ dnfdragora - can be trivially converted to GPL-3.0-or-later
 dnf-plugin-cow warning: valid as old and new and no changelong entry, please check
 dnf-plugin-diff - can be trivially converted to GPL-2.0-or-later
 dnf-plugin-flunk_dependent_remove - can be trivially converted to GPL-2.0-only
-dnf-plugin-perfmetrics - can be trivially converted to GPL-2.0-only
 dnscrypt-proxy warning: valid as old and new and no changelong entry, please check
 dnsdist - can be trivially converted to GPL-2.0-only
 dnsgen warning: valid as old and new and no changelong entry, please check
@@ -870,7 +866,6 @@ drpm
 drraw
 drumkv1 - can be trivially converted to GPL-2.0-or-later
 drumstick - can be trivially converted to GPL-3.0-or-later
-drumstick0 - can be trivially converted to GPL-2.0-or-later
 drupal7
 dSFMT
 dsniff
@@ -978,10 +973,8 @@ emacs-common-riece - can be trivially converted to GPL-2.0-or-later
 emacs-ctable - can be trivially converted to GPL-3.0-or-later
 emacs-dash - can be trivially converted to GPL-3.0-or-later
 emacs-deferred - can be trivially converted to GPL-3.0-or-later
-emacs-dockerfile-mode - can be trivially converted to Apache-2.0
 emacs-epc - can be trivially converted to GPL-3.0-or-later
 emacs-epl - can be trivially converted to GPL-3.0-or-later
-emacs-flycheck - can be trivially converted to GPL-3.0-or-later
 emacs-f - can be trivially converted to GPL-3.0-or-later
 emacs-goodies - can be trivially converted to GPL-2.0-or-later AND GPL-3.0-only
 emacs-hcl-mode - can be trivially converted to GPL-3.0-or-later
@@ -1090,7 +1083,6 @@ erlang-ibrowse
 erlang-iconv - can be trivially converted to Apache-2.0
 erlang-idna warning: valid as old and new and no changelong entry, please check
 erlang-jiffy
-erlang-jose warning: valid as old and new and no changelong entry, please check
 erlang-js - can be trivially converted to Apache-2.0
 erlang-jsx warning: valid as old and new and no changelong entry, please check
 erlang-kvc warning: valid as old and new and no changelong entry, please check
@@ -1646,7 +1638,6 @@ GLee
 gle - can be trivially converted to GPL-2.0-or-later
 glew
 glglobe - can be trivially converted to GPL-2.0-only
-glibc32
 glibd warning: not valid neither as Callaway nor as SPDX, please check
 glide warning: valid as old and new and no changelong entry, please check
 glimmer - can be trivially converted to ClArtistic
@@ -2094,7 +2085,6 @@ golang-github-git-lfs-pktline warning: valid as old and new and no changelong en
 golang-github-git-lfs-wildmatch-2 warning: valid as old and new and no changelong entry, please check
 golang-github-glendc-gopher-json warning: valid as old and new and no changelong entry, please check
 golang-github-globalsign-mgo
-golang-github-gobs-pretty warning: valid as old and new and no changelong entry, please check
 golang-github-gobuffalo-envy warning: valid as old and new and no changelong entry, please check
 golang-github-gobuffalo-flect warning: valid as old and new and no changelong entry, please check
 golang-github-gobuffalo-here warning: valid as old and new and no changelong entry, please check
@@ -2897,7 +2887,6 @@ golang-rsc-pdf
 golang-schwanenlied-yawning-bsaes
 golang-sigs-k8s-apiserver-network-proxy - can be trivially converted to Apache-2.0
 golang-sigs-k8s-aws-iam-authenticator - can be trivially converted to Apache-2.0
-golang-sigs-k8s-kustomize - can be trivially converted to Apache-2.0
 golang-sigs-k8s-structured-merge-diff - can be trivially converted to Apache-2.0
 golang-sigs-k8s-yaml
 golang-sourcegraph-appdash-data warning: valid as old and new and no changelong entry, please check
@@ -2916,7 +2905,6 @@ golang-uber-goleak warning: valid as old and new and no changelong entry, please
 golang-uber-multierr warning: valid as old and new and no changelong entry, please check
 golang-uber-ratelimit warning: valid as old and new and no changelong entry, please check
 golang-uber-zap warning: valid as old and new and no changelong entry, please check
-golang-vitess
 golang-x-arch
 golang-x-debug
 golang-x-lint
@@ -3310,8 +3298,6 @@ jack-audio-connection-kit
 jack_capture
 jack-keyboard
 jack-mixer
-jackson-dataformats-binary
-jackson-dataformats-text - can be trivially converted to Apache-2.0
 jacoco warning: valid as old and new and no changelong entry, please check
 jaero
 jakarta-el
@@ -3334,7 +3320,6 @@ java-scrypt - can be trivially converted to Apache-2.0
 java-11-openjdk
 java-17-openjdk-portable
 java-17-openjdk
-java-1.8.0-openjdk-aarch32
 java-1.8.0-openjdk
 jaxen
 jbosscache-support warning: not valid neither as Callaway nor as SPDX, please check
@@ -3390,7 +3375,6 @@ jpeginfo - can be trivially converted to GPL-3.0-or-later
 jpegoptim - can be trivially converted to GPL-2.0-or-later
 jpilot-backup - can be trivially converted to GPL-2.0-or-later
 jpnevulator - can be trivially converted to GPL-2.0-or-later
-jreen - can be trivially converted to GPL-2.0-or-later
 jsch-agent-proxy
 js-jquery-mousewheel warning: valid as old and new and no changelong entry, please check
 js-jquery-prettyphoto - can be trivially converted to GPL-2.0-only
@@ -3445,7 +3429,6 @@ kbruch - can be trivially converted to GPL-2.0-or-later
 kBuild
 kcachegrind
 kcalc - can be trivially converted to GPL-2.0-or-later
-kcbench warning: valid as old and new and no changelong entry, please check
 kclock warning: not valid neither as Callaway nor as SPDX, please check
 kcm_systemd - can be trivially converted to GPL-2.0-or-later
 kcm_wacomtablet - can be trivially converted to GPL-2.0-or-later
@@ -3488,7 +3471,6 @@ kdsoap warning: valid as old and new and no changelong entry, please check
 keditbookmarks
 keepassxc
 kerberoast warning: valid as old and new and no changelong entry, please check
-keybinder warning: valid as old and new and no changelong entry, please check
 keybinder3 warning: valid as old and new and no changelong entry, please check
 keychain - can be trivially converted to GPL-2.0-only
 keychecker - can be trivially converted to GPL-2.0-or-later
@@ -3782,8 +3764,6 @@ libdazzle - can be trivially converted to GPL-3.0-or-later
 libdbi-drivers
 libdbi
 libdbusextended-qt5
-libdeltacloud
-libdeltacloud
 libdigidocpp
 libdirq - can be trivially converted to Apache-2.0
 libdkimpp - can be trivially converted to LGPL-3.0-or-later
@@ -3816,7 +3796,6 @@ libfep
 libffado - can be trivially converted to GPL-2.0-only OR GPL-3.0-only
 libffado - can be trivially converted to GPL-2.0-only OR GPL-3.0-only
 libffado - can be trivially converted to GPL-3.0-only AND GPL-3.0-or-later AND ( GPL-2.0-only OR GPL-3.0-only )
-libffi warning: valid as old and new and no changelong entry, please check
 libfilteraudio
 libfishsound
 libfixposix - can be trivially converted to BSL-1.0
@@ -4063,13 +4042,10 @@ libtranslit - can be trivially converted to GPL-3.0-or-later
 libtree-ldd warning: valid as old and new and no changelong entry, please check
 libtree warning: valid as old and new and no changelong entry, please check
 libtwin
-libucil - can be trivially converted to GPL-2.0-or-later
 libucl
 libudfread
 libuev warning: valid as old and new and no changelong entry, please check
 libuInputPlus warning: valid as old and new and no changelong entry, please check
-libunicapgtk - can be trivially converted to GPL-2.0-or-later
-libunicap - can be trivially converted to GPL-2.0-or-later
 libuninum
 libunity - can be trivially converted to GPL-3.0-only
 libupnp
@@ -4518,7 +4494,6 @@ mingw-bzip2
 mingw-cairomm
 mingw-c-ares
 mingw-cfitsio warning: valid as old and new and no changelong entry, please check
-mingw-clucene
 mingw-cmocka - can be trivially converted to Apache-2.0
 mingw-colord
 mingw-cppunit
@@ -4873,7 +4848,6 @@ nawk warning: valid as old and new and no changelong entry, please check
 nazghul - can be trivially converted to GPL-2.0-or-later
 nazghul
 nbc
-nbd-runner - can be trivially converted to GPL-2.0-only OR LGPL-3.0-or-later
 ncdc warning: valid as old and new and no changelong entry, please check
 ncid - can be trivially converted to GPL-3.0-or-later
 ncl
@@ -4999,7 +4973,6 @@ nodejs-bash-language-server warning: valid as old and new and no changelong entr
 nodejs-buble warning: valid as old and new and no changelong entry, please check
 nodejs-colors warning: valid as old and new and no changelong entry, please check
 nodejs-diagnostic-language-server warning: valid as old and new and no changelong entry, please check
-nodejs-generic-pool warning: valid as old and new and no changelong entry, please check
 nodejs-less
 nodejs-linefix warning: valid as old and new and no changelong entry, please check
 nodejs-packaging warning: valid as old and new and no changelong entry, please check
@@ -5127,7 +5100,6 @@ oflb-goudy-bookletter-1911-fonts - can be trivially converted to LicenseRef-Fedo
 oflb-notcouriersans-fonts - can be trivially converted to GPL-2.0-only
 oflb-prociono-fonts
 oflb-smonohand-fonts
-ofono - can be trivially converted to GPL-2.0-only
 ogdi
 ogre warning: not valid neither as Callaway nor as SPDX, please check
 ogr2osm warning: valid as old and new and no changelong entry, please check
@@ -7120,7 +7092,6 @@ pssh
 pss - can be trivially converted to LicenseRef-Fedora-Public-Domain
 pstoedit - can be trivially converted to GPL-2.0-or-later
 ptex
-pthsem
 ptlib
 ptrash - can be trivially converted to GPL-2.0-or-later
 publican warning: not valid neither as Callaway nor as SPDX, please check
@@ -7798,7 +7769,6 @@ python-google-cloud-dns - can be trivially converted to Apache-2.0
 python-google-i18n-address
 python-gphoto2 - can be trivially converted to GPL-3.0-or-later
 python-grabserial - can be trivially converted to GPL-2.0-only
-python-gradunwarp warning: valid as old and new and no changelong entry, please check
 python-graphene warning: valid as old and new and no changelong entry, please check
 python-graphql-core warning: valid as old and new and no changelong entry, please check
 python-graphql-relay warning: valid as old and new and no changelong entry, please check
@@ -8226,7 +8196,6 @@ python-pycoingecko warning: valid as old and new and no changelong entry, please
 python-pycomfoair warning: valid as old and new and no changelong entry, please check
 python-pycomm3 warning: valid as old and new and no changelong entry, please check
 python-pycosat warning: valid as old and new and no changelong entry, please check
-python-pycxx
 python-pydantic warning: valid as old and new and no changelong entry, please check
 python-pydbus
 python-pydispatcher
@@ -8422,7 +8391,6 @@ python-reno - can be trivially converted to Apache-2.0
 python-reparser warning: valid as old and new and no changelong entry, please check
 python-repomd warning: valid as old and new and no changelong entry, please check
 python-repoze-lru
-python-repoze-sphinx-autointerface
 python-repoze-tm2
 python-repoze-who-plugins-sa
 python-repoze-who
@@ -9539,7 +9507,6 @@ rubygem-rack
 rubygem-rdoc warning: not valid neither as Callaway nor as SPDX, please check
 rubygem-rchardet
 rubygem-rmail
-rubygem-rttool warning: valid as old and new and no changelong entry, please check
 rubygem-ruby-libvirt
 rubygem-ruby-shadow - can be trivially converted to LicenseRef-Fedora-Public-Domain
 rubygem-rubyzip
@@ -9570,7 +9537,6 @@ ruby warning: valid as old and new and no changelong entry, please check
 ruby warning: valid as old and new and no changelong entry, please check
 ruby warning: valid as old and new and no changelong entry, please check
 ruby warning: valid as old and new and no changelong entry, please check
-ruby-taglib warning: valid as old and new and no changelong entry, please check
 rudeconfig - can be trivially converted to GPL-2.0-or-later
 rudesocket - can be trivially converted to GPL-2.0-or-later
 R-udunits2 - can be trivially converted to GPL-2.0-only
@@ -9582,7 +9548,6 @@ R-usethis warning: valid as old and new and no changelong entry, please check
 rust-below warning: not valid neither as Callaway nor as SPDX, please check
 rust-btrd warning: not valid neither as Callaway nor as SPDX, please check
 rust-btrd warning: not valid neither as Callaway nor as SPDX, please check
-rust-drg - can be trivially converted to Apache-2.0
 rust-dutree warning: not valid neither as Callaway nor as SPDX, please check
 rust-dutree warning: not valid neither as Callaway nor as SPDX, please check
 rust-gmp-mpfr-sys warning: not valid neither as Callaway nor as SPDX, please check
@@ -9717,8 +9682,6 @@ SDL2_net warning: valid as old and new and no changelong entry, please check
 SDL2_sound
 sdparm
 sdrpp
-seafile-client
-seafile - can be trivially converted to GPL-2.0-only
 seahorse-adventures - can be trivially converted to GPL-2.0-or-later
 seahorse-caja - can be trivially converted to GPL-2.0-or-later
 seahorse
@@ -9848,7 +9811,6 @@ sms_ntsc
 smtpping - can be trivially converted to GPL-2.0-or-later
 snakeyaml - can be trivially converted to Apache-2.0
 snallygaster - can be trivially converted to CC0-1.0
-snapd-glib warning: not valid neither as Callaway nor as SPDX, please check
 sndfile-tools
 snes_ntsc
 sng warning: valid as old and new and no changelong entry, please check
@@ -9887,7 +9849,6 @@ sourcextractor++
 soxr
 sox
 spacenavd - can be trivially converted to GPL-3.0-or-later
-spamassassin-iXhash2 - can be trivially converted to Apache-2.0
 spampd - can be trivially converted to GPL-2.0-or-later
 sparkleshare - can be trivially converted to GPL-3.0-or-later
 sparsehash
@@ -10562,7 +10523,6 @@ ucblogo - can be trivially converted to GPL-3.0-or-later
 uClibc
 ucpp
 ucviewer - can be trivially converted to GPL-2.0-or-later
-ucview - can be trivially converted to GPL-2.0-or-later
 udftools - can be trivially converted to GPL-2.0-or-later
 udisks - can be trivially converted to GPL-2.0-or-later
 udisks2-qt5 - can be trivially converted to GPL-3.0-or-later
@@ -10576,7 +10536,6 @@ uflash warning: valid as old and new and no changelong entry, please check
 ufw-kde - can be trivially converted to GPL-3.0-only
 ugene - can be trivially converted to GPL-2.0-or-later AND GPL-2.0-only
 uhd - can be trivially converted to GPL-3.0-or-later
-uhttpmock
 uhubctl - can be trivially converted to GPL-2.0-only
 uisp - can be trivially converted to GPL-2.0-or-later
 ultimarc - can be trivially converted to GPL-2.0-only

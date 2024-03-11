@@ -1016,6 +1016,7 @@ clang
 clang13
 clang15
 clang16
+clang17
 ClanLib
 ClanLib06
 ClanLib1
@@ -1172,6 +1173,7 @@ compat-readline6
 compat-tolua++
 compface
 compiler-rt
+compiler-rt17
 compiz-bcop
 compizconfig-python
 compiz-manager
@@ -1752,7 +1754,6 @@ drpm
 drraw
 drumkv1
 drumstick
-drumstick0
 drupal7
 DSDP
 dSFMT
@@ -2056,7 +2057,6 @@ erlang-ibrowse
 erlang-iconv
 erlang-idna
 erlang-jiffy
-erlang-jose
 erlang-js
 erlang-jsx
 erlang-kvc
@@ -2334,6 +2334,7 @@ ffuf
 fgrun
 fido-device-onboard
 fido
+fielding
 Field3D
 figlet
 figtoipe
@@ -2500,6 +2501,7 @@ FP16
 fractal
 fragments
 frama-c
+francis
 freealut
 freecell-solver
 freeciv
@@ -3875,6 +3877,7 @@ golang-bitbucket-creachadair-shell
 golang-bitbucket-ww-goautoneg
 golang-bug-serial-1
 golang-cloud-google-bigquery
+golang-cloud-google-cloudtasks
 golang-cloud-google-compute-metadata
 golang-cloud-google-compute
 golang-cloud-google-datacatalog
@@ -4345,7 +4348,6 @@ golang-github-glendc-gopher-json
 golang-github-gliderlabs-ssh
 golang-github-globalsign-mgo
 golang-github-glog
-golang-github-gobs-pretty
 golang-github-gobuffalo-envy
 golang-github-gobuffalo-flect
 golang-github-gobuffalo-here
@@ -5484,7 +5486,6 @@ golang-rsc-qr
 golang-schwanenlied-yawning-bsaes
 golang-sigs-k8s-apiserver-network-proxy
 golang-sigs-k8s-aws-iam-authenticator
-golang-sigs-k8s-kustomize
 golang-sigs-k8s-structured-merge-diff
 golang-sigs-k8s-yaml
 golang-software-sslmate-src-pkcs12
@@ -5512,7 +5513,6 @@ golang-uber-mock
 golang-uber-multierr
 golang-uber-ratelimit
 golang-uber-zap
-golang-vitess
 golang-x-arch
 golang-x-crypto
 golang-x-debug
@@ -6447,8 +6447,6 @@ jackson-annotations
 jackson-bom
 jackson-core
 jackson-databind
-jackson-dataformats-binary
-jackson-dataformats-text
 jackson-jaxrs-providers
 jackson-modules-base
 jackson-parent
@@ -6502,7 +6500,6 @@ java-11-openjdk-portable
 java-11-openjdk
 java-17-openjdk-portable
 java-17-openjdk
-java-1.8.0-openjdk-aarch32
 java-1.8.0-openjdk-portable
 java-1.8.0-openjdk
 java-21-openjdk-portable
@@ -6596,7 +6593,6 @@ jpilot-backup
 jpilot
 jpnevulator
 jq
-jreen
 jrnl
 js-d3-flame-graph
 jsch-agent-proxy
@@ -7290,7 +7286,6 @@ ldapdomaindump
 ldapjdk
 ldapvi
 ldc
-ldc1.32
 ldeep
 ldns
 leafpad
@@ -7313,6 +7308,7 @@ levien-inconsolata-fonts
 levien-museum-fonts
 levmar
 lexertl14
+lexertl17
 lfortran
 lfsc
 lftp
@@ -7443,7 +7439,6 @@ libdca
 libdc1394
 libdecor
 libdeflate
-libdeltacloud
 libdex
 libdfp
 libdicom
@@ -7722,6 +7717,7 @@ libltc
 liblxi
 liblxqt
 liblzf
+libmaa
 libmacaroons
 libmad
 libmamba
@@ -8060,7 +8056,6 @@ libtrash
 libtree-ldd
 libtree
 libtwin
-libucil
 libucl
 libudfread
 libuecc
@@ -8068,8 +8063,6 @@ libuev
 libuInputPlus
 libunarr
 libunibreak
-libunicapgtk
-libunicap
 libunicode
 libunifex
 libuninameslist
@@ -8294,6 +8287,7 @@ lld
 lld13
 lld15
 lld16
+lld17
 llhttp
 llmnrd
 llvm-bolt
@@ -8840,7 +8834,6 @@ mingw-cairomm
 mingw-cairo
 mingw-c-ares
 mingw-cfitsio
-mingw-clucene
 mingw-cmocka
 mingw-colord
 mingw-cppunit
@@ -9486,7 +9479,6 @@ nawk
 nazghul
 nbc
 nbdkit
-nbd-runner
 nbd
 nbtscan
 ncdc
@@ -9652,7 +9644,6 @@ nodejs-buble
 nodejs-cjs-module-lexer
 nodejs-colors
 nodejs-diagnostic-language-server
-nodejs-generic-pool
 nodejs-less
 nodejs-linefix
 nodejs-nodemon
@@ -10014,7 +10005,6 @@ oflb-goudy-bookletter-1911-fonts
 oflb-notcouriersans-fonts
 oflb-prociono-fonts
 oflb-smonohand-fonts
-ofono
 ogdi
 oggvideotools
 ogmtools
@@ -14281,7 +14271,6 @@ pt-astra-sans-fonts
 pt-astra-serif-fonts
 ptex
 pthreadpool
-pthsem
 ptlib
 ptl
 ptouch-driver
@@ -14461,6 +14450,7 @@ python-aiosmb
 python-aiosmtpd
 python-aiosnmp
 python-aiosqlite
+python-aiostream
 python-aiounifi
 python-aiounittest
 python-aiowinreg
@@ -14941,6 +14931,7 @@ python-csvkit
 python-cups
 python-curio
 python-curtsies
+python-cvdupdate
 python-cvss
 python-cvxopt
 python-cwcwidth
@@ -17047,6 +17038,7 @@ python-trololio
 python-trove-classifiers
 python-troveclient
 python-trustme
+python-trx-python
 python-ttystatus
 python-tubes
 python-tvb-data
@@ -19370,7 +19362,6 @@ rust-dotenvy
 rust-downcast-rs
 rust-downcast
 rust-drain
-rust-drg
 rust-drm-ffi
 rust-drm-fourcc
 rust-drm
@@ -19431,6 +19422,7 @@ rust-enumset
 rust-env_filter
 rust-environment
 rust-env_logger
+rust-env_logger0.10
 rust-env_logger0.4
 rust-env_logger0.5
 rust-env_logger0.6
@@ -19934,6 +19926,7 @@ rust-json5
 rust-just
 rust-jwalk
 rust-jwalk0.6
+rust-jwt
 rust-jxl-bitstream
 rust-jxl-coding
 rust-jxl-color
@@ -20777,6 +20770,7 @@ rust-sequoia-chameleon-gnupg
 rust-sequoia-ipc
 rust-sequoia-keyring-linter
 rust-sequoia-keystore-backend
+rust-sequoia-keystore-softkeys
 rust-sequoia-net
 rust-sequoia-octopus-librnp
 rust-sequoia-openpgp-mt
@@ -21238,6 +21232,7 @@ rust-unindent0.1
 rust-universal-hash
 rust-unix_socket
 rust-unsafe-libyaml
+rust-unscanny
 rust-untrusted
 rust-untrusted0.7
 rustup
@@ -22135,6 +22130,7 @@ stellarium
 stellarsolver
 step
 stfl
+stgit
 stix-fonts
 stk
 stlink
@@ -22716,7 +22712,6 @@ ucommon
 ucpp
 ucs-miscfixed-fonts
 ucviewer
-ucview
 ucx
 udftools
 udica
