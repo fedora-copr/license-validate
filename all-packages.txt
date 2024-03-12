@@ -1394,6 +1394,7 @@ cvsps
 cvs
 cvsutils
 cvs2cl
+cvt12
 cwdaemon
 cwm
 cxsc
@@ -2625,6 +2626,7 @@ f36-backgrounds
 f37-backgrounds
 f38-backgrounds
 f39-backgrounds
+f40-backgrounds
 gabedit
 gajim
 gala
@@ -3399,6 +3401,7 @@ ghc-time-locale-compat
 ghc-time-manager
 ghc-tls-session-manager
 ghc-tls
+ghc-toml-parser
 ghc-torrent
 ghc-transformers-base
 ghc-transformers-compat
@@ -4204,6 +4207,7 @@ golang-github-dimchansky-utfbom
 golang-github-direnv-dotenv
 golang-github-disintegration-gift
 golang-github-disintegration-imaging
+golang-github-distribution-reference
 golang-github-distribution-3
 golang-github-djherbis-atime
 golang-github-djherbis-buffer
@@ -4248,6 +4252,8 @@ golang-github-eapache-xerial-snappy
 golang-github-ebitengine-purego
 golang-github-eclesh-welford
 golang-github-eclipse-paho-mqtt
+golang-github-edoardottt-golazy
+golang-github-edoardottt-lit-bb-hack-tools
 golang-github-edsrzf-mmap
 golang-github-eknkc-amber
 golang-github-elazarl-bindata-assetfs
@@ -4562,6 +4568,7 @@ golang-github-jackc-pgservicefile
 golang-github-jackc-pgtype
 golang-github-jackc-pgx
 golang-github-jackc-puddle
+golang-github-jackc-puddle2
 golang-github-jacobsa-oglematchers
 golang-github-jacobsa-ogletest
 golang-github-jacobsa-reqtrace
@@ -5302,6 +5309,7 @@ golang-github-youpy-riff
 golang-github-youpy-wav
 golang-github-yudai-golcs
 golang-github-yuin-goldmark-emoji
+golang-github-yuin-goldmark-meta
 golang-github-yuin-goldmark
 golang-github-yuin-gopher-lua
 golang-github-yunify-qingstor-sdk
@@ -5527,6 +5535,7 @@ golang-xorm-builder
 golang-x-perf
 golang-x-sync
 golang-x-sys
+golang-x-telemetry
 golang-x-term
 golang-x-text
 golang-x-time
@@ -5832,6 +5841,7 @@ hanamin-fonts
 hanyang-gothic-a1-fonts
 happy
 haproxy
+hardinfo2
 harec
 harfbuzz
 harmonyseq
@@ -6161,6 +6171,7 @@ hypre
 hyprland-protocols
 hyprland
 hyprlang
+h3
 h5py
 chafa
 chan
@@ -7737,7 +7748,6 @@ libmd
 libmediaart
 libmediainfo
 libmemcached-awesome
-libmetalink
 libmetal
 libmicrodns
 libmicrohttpd
@@ -8598,7 +8608,6 @@ marcsabatella-campania-fonts
 mariadb-connector-c
 mariadb-connector-odbc
 mariadb-java-client
-mariadb
 mariadb10.11
 marisa
 markdownpart
@@ -9334,6 +9343,7 @@ mrtg
 mrxvt
 mscgen
 msgpack
+msgraph
 msimonson-anonymouspro-fonts
 msitools
 msktutil
@@ -10337,7 +10347,7 @@ parsec
 parsec-tool
 parserng
 parsero
-parsertl14
+parsertl17
 par
 partclone
 parted
@@ -13670,6 +13680,7 @@ php-myclabs-php-enum
 php-netresearch-jsonmapper
 php-nikic-php-parser3
 php-nikic-php-parser4
+php-nikic-php-parser5
 php-nyholm-psr7
 php-oauth
 php-ocramius-code-generator-utils
@@ -14307,6 +14318,7 @@ pw3270
 pxz
 pyatspi
 pyaudio
+pybind11-json
 pybind11
 pybluez
 pybox2d
@@ -15076,6 +15088,7 @@ python-dockerpty
 python-docker-pycreds
 python-docker
 python-docker-squash
+python-docopt-ng
 python-docopt
 python-docs-theme
 python-docstring-parser
@@ -15573,6 +15586,7 @@ python-journal-brief
 python-jschema-to-python
 python-jsmin
 python-jsondiff
+python-jsonformatter
 python-json-logger
 python-json-minify
 python-jsonpath-ng
@@ -16436,6 +16450,7 @@ python-pytest-forked
 python-pytest-freezegun
 python-pytest-grpc
 python-pytest-harvest
+python-pytest-home
 python-pytest-httpbin
 python-pytest-httpserver
 python-pytest-httpx
@@ -17562,6 +17577,7 @@ qt6-qtnetworkauth
 qt6-qtopcua
 qt6-qtpositioning
 qt6-qtquicktimeline
+qt6-qtquick3dphysics
 qt6-qtquick3d
 qt6-qtremoteobjects
 qt6-qtscxml
@@ -18222,6 +18238,7 @@ R-selectr
 R-servr
 R-sessioninfo
 R-sfsmisc
+rsgain
 rshim
 R-shiny
 R-showtextdb
@@ -18926,6 +18943,7 @@ rust-axum-core
 rust-axum-macros
 rust-axum
 rust-az
+rust-backoff
 rust-backtrace-ext
 rust-backtrace
 rust-bankstown-lv2
@@ -20184,6 +20202,7 @@ rust-nix0.22
 rust-nix0.23
 rust-nix0.24
 rust-nix0.26
+rust-nix0.27
 rust-noisy_float
 rust-nom
 rust-nom-supreme
@@ -20253,6 +20272,7 @@ rust-nu-utils
 rust-object
 rust-octseq
 rust-oid
+rust-olpc-cjson
 rust-once_cell
 rust-onig
 rust-onig_sys
@@ -20998,6 +21018,7 @@ rust-sys-info
 rust-sysinfo
 rust-sysinfo0.19
 rust-sysinfo0.23
+rust-sysinfo0.29
 rust-sys-locale
 rust-syslog
 rust-system-deps
@@ -22278,6 +22299,7 @@ sympy
 synapse
 syncevolution
 synce4l
+syncplay
 syncthing
 syndication-domination
 synergy
@@ -22551,6 +22573,7 @@ tokodon
 tokyocabinet
 tolua++
 tomboy
+tomcat-jakartaee-migration
 tomcat-native
 tomcat
 tomcat-taglibs-parent
@@ -22660,6 +22683,7 @@ tuned
 tuned-switcher
 tunneler
 tuptime
+turbo-attack
 TurboGears2
 tuxanci
 tuxguitar

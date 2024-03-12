@@ -826,6 +826,7 @@ cvechecker
 cvise
 cvsps
 cvs2cl
+cvt12
 cwdaemon
 cwm
 cxxtools
@@ -1167,7 +1168,6 @@ eiskaltdcpp
 ektype-mukta-fonts
 ElectricFence
 electron-cash
-electronics-menu
 electrum
 elementary-calculator
 elementary-calendar
@@ -1711,6 +1711,7 @@ f35-backgrounds
 f36-backgrounds
 f38-backgrounds
 f39-backgrounds
+f40-backgrounds
 gabedit
 gajim
 gala
@@ -1752,7 +1753,6 @@ gbdfed
 gbrainy
 gcab
 gcal
-gcc
 gcin
 gcolor2
 gcolor3
@@ -1763,7 +1763,6 @@ gcovr
 gc
 gcstar
 gdcalc
-gdcm
 gdigi
 gdk-pixbuf2
 gdlmm
@@ -1978,6 +1977,7 @@ ghc-th-orphans
 ghc-threads
 ghc-time-compat
 ghc-tls
+ghc-toml-parser
 ghc-transformers-compat
 ghc-turtle
 ghc-typed-process
@@ -2021,6 +2021,7 @@ gimp-save-for-web
 gimp-separate+
 gimp-wavelet-decompose
 gimp-wavelet-denoise-plugin
+ginga
 gio-qt
 gio-sharp
 gip
@@ -2548,6 +2549,7 @@ golang-github-dimchansky-utfbom
 golang-github-direnv-dotenv
 golang-github-disintegration-gift
 golang-github-disintegration-imaging
+golang-github-distribution-reference
 golang-github-distribution-3
 golang-github-djherbis-atime
 golang-github-djherbis-buffer
@@ -2591,6 +2593,8 @@ golang-github-eapache-xerial-snappy
 golang-github-ebitengine-purego
 golang-github-eclesh-welford
 golang-github-eclipse-paho-mqtt
+golang-github-edoardottt-golazy
+golang-github-edoardottt-lit-bb-hack-tools
 golang-github-edsrzf-mmap
 golang-github-eknkc-amber
 golang-github-elazarl-bindata-assetfs
@@ -2890,6 +2894,7 @@ golang-github-jackc-pgservicefile
 golang-github-jackc-pgtype
 golang-github-jackc-pgx
 golang-github-jackc-puddle
+golang-github-jackc-puddle2
 golang-github-jacobsa-oglematchers
 golang-github-jacobsa-ogletest
 golang-github-jacobsa-reqtrace
@@ -3618,6 +3623,7 @@ golang-github-youpy-riff
 golang-github-youpy-wav
 golang-github-yudai-golcs
 golang-github-yuin-goldmark-emoji
+golang-github-yuin-goldmark-meta
 golang-github-yuin-goldmark
 golang-github-yuin-gopher-lua
 golang-github-yunify-qingstor-sdk
@@ -3832,6 +3838,7 @@ golang-xorm-builder
 golang-x-perf
 golang-x-sync
 golang-x-sys
+golang-x-telemetry
 golang-x-term
 golang-x-text
 golang-x-time
@@ -4018,6 +4025,7 @@ g4music
 hakrevdns
 half
 halibut
+hardinfo2
 harec
 haruna
 hashid
@@ -4128,6 +4136,7 @@ hypre
 hyprland-protocols
 hyprland
 hyprlang
+h3
 h5py
 chafa
 charliecloud
@@ -4357,7 +4366,6 @@ jetty
 jfreechart
 jfsutils
 jgit
-jglobus
 jgmenu
 jgoodies-common
 jgoodies-forms
@@ -4788,7 +4796,6 @@ kwave
 kwayland-integration
 kwayland-server
 kwayland
-kweathercore
 kweather
 kwebkitpart
 kwin
@@ -5643,7 +5650,6 @@ man2html
 mapserver
 marble
 marco
-mariadb
 mariadb10.11
 markdownpart
 marked
@@ -5715,7 +5721,6 @@ mdns
 md4c
 md5deep
 meanwhile
-mecab-jumandic
 mediaconch
 mediainfo
 media-player-info
@@ -5748,8 +5753,6 @@ metis
 metrics2mqtt
 metslib
 mfem
-mfiler3
-mfiler4
 mgarepo
 mgopen-fonts
 mg
@@ -6041,7 +6044,6 @@ mlmmj
 mlnx-tools
 mlton
 mlt
-mmapper
 mm-common
 mmc
 mmdb2
@@ -6156,6 +6158,7 @@ mrsw-biz-udmincho-fonts
 mrxvt
 mscgen
 msgpack
+msgraph
 msimonson-anonymouspro-fonts
 msktutil
 msm-cros-efs-loader
@@ -6464,7 +6467,6 @@ oc-inject
 oclock
 ocproxy
 ocp
-ocrmypdf
 ocsinventory-agent
 ocspd
 octave-brain2mesh
@@ -6722,7 +6724,7 @@ parsec
 parsec-tool
 parserng
 parsero
-parsertl14
+parsertl17
 partclone
 parzip
 par2cmdline
@@ -8408,6 +8410,7 @@ php-myclabs-php-enum
 php-netresearch-jsonmapper
 php-nikic-php-parser3
 php-nikic-php-parser4
+php-nikic-php-parser5
 php-nyholm-psr7
 php-oauth
 php-ocramius-code-generator-utils
@@ -8836,6 +8839,7 @@ pwncat
 pwsafe
 pw3270
 pxz
+pybind11-json
 pybind11
 pybox2d
 pybugz
@@ -9423,6 +9427,7 @@ python-dockerpty
 python-docker-pycreds
 python-docker
 python-docker-squash
+python-docopt-ng
 python-docopt
 python-docstring-parser
 python-docstring-to-markdown
@@ -9790,6 +9795,7 @@ python-jnius
 python-josepy
 python-journal-brief
 python-jsmin
+python-jsonformatter
 python-json-logger
 python-json-minify
 python-jsonpath-ng
@@ -9899,6 +9905,7 @@ python-markdown_2
 python-markdown2
 python-markups
 python-marshmallow-enum
+python-marshmallow
 python-masscan
 python-mathics-pygments
 python-mathics-scanner
@@ -10090,6 +10097,7 @@ python-opytimizer
 python-op1repacker
 python-op1svg
 python-oracledb
+python-ordered-set
 python-orjson
 python-osa
 python-osc-lib
@@ -10419,6 +10427,7 @@ python-pytest-flake8-path
 python-pytest-forked
 python-pytest-freezegun
 python-pytest-harvest
+python-pytest-home
 python-pytest-httpbin
 python-pytest-httpserver
 python-pytest-httpx
@@ -10464,6 +10473,7 @@ python-pyvirtualdisplay
 python-pyvirtualize
 python-pyvit
 python-pyvlx
+python-pyvo
 python-pywayland
 python-pywizlight
 python-pywlroots
@@ -11086,7 +11096,6 @@ python-zoidberg
 python-zombie-imp
 python-zope-component
 python-zope-deprecation
-python-zope-event
 python-zope-hookable
 python-zope-interface
 python-zope-schema
@@ -11239,6 +11248,7 @@ qt6-qtlanguageserver
 qt6-qtlocation
 qt6-qtmqtt
 qt6-qtopcua
+qt6-qtquick3dphysics
 qt6-qtspeech
 qt6-qtwebengine
 qt6-qtwebview
@@ -11791,6 +11801,7 @@ R-selectr
 R-servr
 R-sessioninfo
 R-sfsmisc
+rsgain
 R-shiny
 R-showtextdb
 R-showtext
@@ -11856,7 +11867,6 @@ R-tweenr
 rubberband
 rubber
 ruby-augeas
-ruby-bsearch
 ruby-build
 rubygem-addressable
 rubygem-ansi
@@ -11905,7 +11915,6 @@ rubygem-mongo
 rubygem-msgpack
 rubygem-narray
 rubygem-ncursesw
-rubygem-net-irc
 rubygem-nifti
 rubygem-nio4r
 rubygem-opennebula
@@ -12101,6 +12110,7 @@ rust-axum-core
 rust-axum-macros
 rust-axum
 rust-az
+rust-backoff
 rust-backtrace-ext
 rust-backtrace
 rust-bankstown-lv2
@@ -13104,6 +13114,7 @@ rust-nettle-sys
 rust-net2
 rust-nix0.24
 rust-nix0.26
+rust-nix0.27
 rust-noisy_float
 rust-nom-supreme
 rust-no-panic
@@ -13162,6 +13173,7 @@ rust-nu-test-support
 rust-object
 rust-octseq
 rust-oid
+rust-olpc-cjson
 rust-once_cell
 rust-opaque-debug
 rust-openat-ext
@@ -13750,6 +13762,7 @@ rust-synstructure0.12
 rust-syn0.15
 rust-syn1
 rust-sysinfo0.23
+rust-sysinfo0.29
 rust-sys-locale
 rust-system-deps
 rust-szip
@@ -14164,7 +14177,6 @@ samefile
 samplv1
 samtools
 samurai
-saphire
 sar2
 sasl-xoauth2
 sassc
@@ -14430,7 +14442,6 @@ socnetv
 softfloat
 softnet-stat
 SOIL
-solaar
 solar-backgrounds
 solar-kde-theme
 SolarModel
@@ -14650,6 +14661,7 @@ sylfilter
 sylpheed
 symbian-m-yuppy-gb-fonts
 synce4l
+syncplay
 syncthing
 syndication-domination
 synergy
@@ -14732,7 +14744,6 @@ teg
 techtalk-pse
 telepathy-accounts-signon
 telepathy-farstream
-telepathy-filesystem
 telepathy-gabble
 telepathy-idle
 telepathy-logger-qt
@@ -14836,6 +14847,7 @@ toga2
 tokodon
 tolua++
 tomboy
+tomcat-jakartaee-migration
 tomcat-native
 tomcat
 tomcat-taglibs-parent
@@ -14907,6 +14919,7 @@ tumbler
 tunctl
 tuned-profiles-nfv-host-bin
 tunneler
+turbo-attack
 TurboGears2
 tuxanci
 tuxguitar
