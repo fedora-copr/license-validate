@@ -165,6 +165,7 @@ apbs
 apcupsd
 apfs-fuse
 apitrace
+apk-tools
 APLpy
 apmd
 applet-window-buttons
@@ -501,7 +502,6 @@ caddy
 Cadence
 cadvisor
 cachelib
-cairo-dock-plug-ins
 cairo
 caja-actions
 caja-extensions
@@ -2000,6 +2000,7 @@ ghc-yesod-form
 ghc-yesod-persistent
 ghc-yesod
 ghc-zip-archive
+ghc9.10
 ghc9.8
 ghdl
 ghex
@@ -5265,7 +5266,6 @@ libsigrokdecode
 libsigrok
 libsixel
 libskk
-libsmbios
 libsmi
 libsocketcan
 libsodium
@@ -5551,7 +5551,6 @@ lua-unbound
 lua-vstruct
 lua-zlib
 lucene++
-lucene
 lugaru
 luit
 lumail
@@ -7464,6 +7463,7 @@ perl-Inline-Python
 perl-Inline-Struct
 perl-IO-Any
 perl-IO-Async-Loop-Mojo
+perl-IO-Async-SSL
 perl-IO-Capture-Extended
 perl-IO-Capture
 perl-IO-Compress-Brotli
@@ -7711,9 +7711,11 @@ perl-Net-Amazon-EC2
 perl-Net-AMQP
 perl-Net-Appliance-Session
 perl-Net-ARP
+perl-Net-Async-HTTP
 perl-Net-Async-SOCKS
 perl-Net-BGP
 perl-Net-Daemon
+perl-Net-DNS-Paranoid
 perl-Net-DNS-Resolver-Mock
 perl-Net-Domain-TLD
 perl-Net-eBay
@@ -9220,13 +9222,10 @@ python-colcon-argcomplete
 python-colcon-bash
 python-colcon-bazel
 python-colcon-bundle
-python-colcon-cd
 python-colcon-cmake
 python-colcon-common-extensions
-python-colcon-core
 python-colcon-coveragepy-result
 python-colcon-defaults
-python-colcon-devtools
 python-colcon-ed
 python-colcon-installed-package-information
 python-colcon-lcov-result
@@ -11903,7 +11902,6 @@ rubygem-httpclient
 rubygem-http_parser.rb
 rubygem-icaro
 rubygem-idn
-rubygem-imagesize
 rubygem-i18n
 rubygem-krb5-auth
 rubygem-launchy
@@ -11966,7 +11964,6 @@ rubygem-websocket-driver
 rubygem-websocket-extensions
 rubygem-xmlparser
 rubygem-xmlrpc
-ruby-gnome2
 rubypick
 ruby
 rudeconfig
@@ -12540,6 +12537,7 @@ rust-errno
 rust-errno0.2
 rust-error-chain
 rust-escape_string
+rust-escape8259
 rust-escargot
 rust-etcetera
 rust-euclid
@@ -14908,6 +14906,7 @@ trilead-ssh2
 trojan
 trophy
 trousers
+trunk
 trurl
 trustedqsl
 truth

@@ -200,6 +200,7 @@ apbs
 apcupsd
 apfs-fuse
 apitrace
+apk-tools
 APLpy
 apmd
 apostrophe
@@ -2717,6 +2718,7 @@ ghc-zip-archive
 ghc-zlib-bindings
 ghc-zlib
 ghc9.0
+ghc9.10
 ghc9.8
 ghdl
 ghex
@@ -7483,7 +7485,6 @@ mingw-zlib
 mingw-zstd
 miniaudio
 minicomputer
-minicom
 minigalaxy
 mininet
 minipro
@@ -9554,6 +9555,7 @@ perl-Inline-Struct
 perl-IO-All
 perl-IO-Any
 perl-IO-Async-Loop-Mojo
+perl-IO-Async-SSL
 perl-IO-Capture-Extended
 perl-IO-CaptureOutput
 perl-IO-Capture
@@ -9999,6 +10001,7 @@ perl-Net-Amazon-S3
 perl-Net-AMQP
 perl-Net-Appliance-Session
 perl-Net-ARP
+perl-Net-Async-HTTP
 perl-Net-Async-SOCKS
 perl-Net-BGP
 perl-Net-CIDR-Lite
@@ -10008,6 +10011,7 @@ perl-Net-Daemon
 perl-Net-DBus-GLib
 perl-Net-DBus
 perl-Net-DHCP
+perl-Net-DNS-Paranoid
 perl-Net-DNS-Resolver-Mock
 perl-Net-DNS-Resolver-Programmable
 perl-Net-DNS-SEC
@@ -12042,13 +12046,10 @@ python-colcon-argcomplete
 python-colcon-bash
 python-colcon-bazel
 python-colcon-bundle
-python-colcon-cd
 python-colcon-cmake
 python-colcon-common-extensions
-python-colcon-core
 python-colcon-coveragepy-result
 python-colcon-defaults
-python-colcon-devtools
 python-colcon-ed
 python-colcon-installed-package-information
 python-colcon-lcov-result
@@ -12433,6 +12434,7 @@ python-flask-wtf-decorators
 python-flask-wtf
 python-flask-xml-rpc
 python-flexcache
+python-flexmock
 python-flexparser
 python-flit-core
 python-flit-scm
@@ -12678,6 +12680,7 @@ python-ipgetter2
 python-ipmi
 python-iptools
 python-ipuz
+python-ipykernel
 python-ipyparallel
 python-IPy
 python-ipython_genutils
@@ -15293,7 +15296,6 @@ rubygem-icaro
 rubygem-idn
 rubygem-image_processing
 rubygem-image_size
-rubygem-imagesize
 rubygem-importmap-rails
 rubygem-introspection
 rubygem-ipaddress
@@ -15547,9 +15549,7 @@ rubygem-xml-simple
 rubygem-xpath
 rubygem-yaml-lint
 rubygem-zeitwerk
-ruby-gnome2
 rubypick
-ruby-romkan
 ruby
 rudeconfig
 rudesocket
@@ -16232,6 +16232,7 @@ rust-errno
 rust-errno0.2
 rust-error-chain
 rust-escape_string
+rust-escape8259
 rust-escargot
 rust-esphome
 rust-etcetera
@@ -19180,6 +19181,7 @@ trilead-ssh2
 trojan
 trophy
 trousers
+trunk
 trurl
 trustedqsl
 truth
