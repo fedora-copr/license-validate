@@ -246,6 +246,7 @@ emacs-auctex
 enchant2
 enscript
 environment-modules
+erofs-utils
 espeak-ng
 ethtool
 evince
@@ -288,7 +289,6 @@ freeglut
 freeipmi
 freeradius
 freerdp
-freerdp2
 freetype
 fribidi
 frr
@@ -326,7 +326,6 @@ gjs
 glib-networking
 glib2
 glibc
-glibc32
 glibmm2.4
 glibmm2.68
 glslang
@@ -412,7 +411,6 @@ gtk3
 gtk4
 gtkmm3.0
 gtkmm4.0
-gtksourceview4
 gtksourceview5
 guava
 guestfs-tools
@@ -781,7 +779,9 @@ libdaemon
 libdatrie
 libdb
 libdecor
+libdeflate
 libdex
+libdisplay-info
 libdnf
 libdrm
 libdvdnav
@@ -1001,15 +1001,6 @@ log4cplus
 log4j
 logrotate
 logwatch
-lohit-assamese-fonts
-lohit-bengali-fonts
-lohit-devanagari-fonts
-lohit-gujarati-fonts
-lohit-kannada-fonts
-lohit-marathi-fonts
-lohit-odia-fonts
-lohit-tamil-fonts
-lohit-telugu-fonts
 lorax
 lorax-templates-rhel
 loupe
@@ -1036,7 +1027,6 @@ m4
 madan-fonts
 mailcap
 make
-malcontent
 man-db
 man-pages
 man-pages-overrides
@@ -1452,7 +1442,6 @@ powertop
 ppc64-diag
 ppp
 pptp
-prefixdevname
 procmail
 procps-ng
 protobuf
@@ -1708,6 +1697,7 @@ rust
 rust-afterburn
 rust-bootupd
 rust-coreos-installer
+rust-prefixdevname
 rust-rpm-sequoia
 rust-sevctl
 rust-ssh-key-dir
@@ -1758,7 +1748,6 @@ shim
 shim-unsigned-aarch64
 shim-unsigned-x64
 sid
-sil-abyssinica-fonts
 sil-mingzat-fonts
 sil-nuosu-fonts
 sil-padauk-fonts
@@ -1807,7 +1796,6 @@ subscription-manager-rhsm-certificates
 subversion
 sudo
 supermin
-sushi
 svt-av1
 swig
 switcheroo-control
@@ -1901,8 +1889,6 @@ util-linux
 uuid
 v4l-utils
 valgrind
-varnish
-varnish-modules
 vazirmatn-fonts
 vdo
 vhostmd

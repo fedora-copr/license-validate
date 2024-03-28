@@ -286,7 +286,6 @@ balsa
 bamf
 bam
 bannergrab
-banner
 barcode
 BareBonesBrowserLaunch
 barman
@@ -340,7 +339,6 @@ bindfs
 bind-to-tinydns
 binwalk
 bionetgen
-biosig4c++
 bio2jack
 bird
 bitcoin-core-selinux
@@ -495,7 +493,6 @@ cdsclient
 cdw
 cegui06
 cekit
-celestia
 celt051
 centerim
 centos-packager
@@ -616,7 +613,6 @@ compface
 compiler-rt
 compiz-bcop
 compizconfig-python
-compiz-manager
 compiz-plugins-experimental
 compiz-plugins-extra
 compiz-plugins-main
@@ -957,6 +953,7 @@ drpm
 drraw
 drumkv1
 drumstick
+drumstick0
 drupal7
 dSFMT
 dsniff
@@ -1556,8 +1553,22 @@ gammu
 ganglia
 ganyremote
 gappalib-coq
+gap-pkg-jupyterviz
+gap-pkg-mapclass
 gap-pkg-openmath
+gap-pkg-orb
+gap-pkg-polycyclic
+gap-pkg-polymaking
+gap-pkg-primgrp
 gap-pkg-radiroot
+gap-pkg-recog
+gap-pkg-scscp
+gap-pkg-semigroups
+gap-pkg-singular
+gap-pkg-sophus
+gap-pkg-spinsym
+gap-pkg-transgrp
+gap-pkg-utils
 garcon
 gargi-fonts
 GarminPlugin
@@ -1981,7 +1992,6 @@ gnome-system-monitor
 gnome-tetravex
 gnome-text-editor
 gnome-themes-extra
-gnome-translate
 gnome-usage
 gnome-user-docs
 gnome-user-share
@@ -2056,7 +2066,6 @@ golang-github-ajstarks-svgo
 golang-github-akamai-akamaiopen-edgegrid
 golang-github-akamensky-argparse
 golang-github-akavel-rsrc
-golang-github-alcortesm-tgz
 golang-github-alecaivazis-survey-2
 golang-github-alecthomas-assert
 golang-github-alecthomas-colour
@@ -3084,7 +3093,6 @@ golang-github-spf13-viper
 golang-github-spyzhov-ajson
 golang-github-sql-civil
 golang-github-sql-driver-mysql
-golang-github-src-d-gcfg
 golang-github-ssgelm-cookiejarparser
 golang-github-ssor-bom
 golang-github-stack
@@ -3273,9 +3281,6 @@ golang-gopkg-russross-blackfriday-1
 golang-gopkg-russross-blackfriday-2
 golang-gopkg-sourcemap-1
 golang-gopkg-square-jose-2
-golang-gopkg-src-d-billy-4
-golang-gopkg-src-d-git-fixtures-3
-golang-gopkg-src-d-git-4
 golang-gopkg-stack-0
 golang-gopkg-tomb-1
 golang-gopkg-tomb-2
@@ -3351,7 +3356,6 @@ golang-sr-sircmpwn-getopt
 golang-sr-spc-log
 golang-starlark
 golang-storj-drpc
-golang-storj-uplink
 golang-torproject-pluggable-transports-goptlib
 golang-uber-atomic
 golang-uber-automaxprocs
@@ -3580,7 +3584,6 @@ hidrd
 hidviz
 hid4java
 hiera
-highfive
 highway
 hikari
 hiran-perizia-fonts
@@ -4130,7 +4133,6 @@ ktp-contact-runner
 ktp-desktop-applets
 ktrip
 kturtle
-kubernetes
 kubrick
 kuserfeedback
 kuser
@@ -4244,7 +4246,6 @@ libb64
 libcacard
 libcaca
 libcangjie
-libccd
 libcdaudio
 libcdio-paranoia
 libcerf
@@ -4285,7 +4286,6 @@ libdnf
 libdockapp
 libdrm-armada
 libdsk
-libdstr
 libdvbpsi
 libdv
 libdxfrw
@@ -4433,7 +4433,6 @@ libmnl
 libmodbus
 libmodman
 libmodplug
-libmodulemd1
 libmongocrypt
 libmpcdec
 libmpdclient
@@ -4576,7 +4575,6 @@ libtommath
 libtorrent
 libtpcimgio
 libtpcmisc
-libtranslate
 libtranslit
 libtree-ldd
 libtree
@@ -4662,7 +4660,6 @@ lightdm-gtk
 lightdm-settings
 lightdm
 light-locker
-lightly
 lightning
 lilv
 lincity-ng
@@ -4814,7 +4811,6 @@ lxc
 lxdm
 lximage-qt
 lxi-tools
-lxmenu-data
 lxqt-about
 lxqt-admin
 lxqt-archiver
@@ -5273,6 +5269,7 @@ module-build
 mod_xsendfile
 mod2c
 moka-icon-theme
+mold
 molequeue
 monafont
 mongoose
@@ -5603,7 +5600,6 @@ ocsinventory-agent
 ocspd
 octave-brain2mesh
 octave-communications
-octave-control
 octave-dicom
 octave-flexiblas
 octave-general
@@ -5642,6 +5638,7 @@ oflb-goudy-bookletter-1911-fonts
 oflb-notcouriersans-fonts
 oflb-prociono-fonts
 oflb-smonohand-fonts
+ofono
 ogdi
 ogre
 ogr2osm
@@ -5729,7 +5726,6 @@ openssh-ldap-authkeys
 openssl-gost-engine
 openssl-ibmca
 openssl-ibmpkcs11
-openssl1.1
 openstack-java-sdk
 OpenStego
 opensubdiv
@@ -7382,14 +7378,11 @@ php-doctrine-instantiator
 php-doctrine-lexer
 php-doctrine-orm
 php-doctrine-persistence
-php-doctrine-persistence2
 php-doctrine-reflection
 php-doctrine-sql-formatter
 php-domxml-php4-php5
 php-egulias-email-validator
 php-egulias-email-validator2
-php-echonest-api
-php-endroid-qrcode
 php-erusev-parsedown
 php-facedetect
 php-Faker
@@ -7413,13 +7406,9 @@ php-christophwurst-id3parser
 php-iamcal-lib-autolink
 php-icewind-smb2
 php-icewind-streams
-php-interfasys-lognormalizer
-php-ircmaxell-random-lib
-php-ircmaxell-security-lib
 php-jdorn-sql-formatter
 php-justinrainbow-json-schema5
 php-khanamiryan-qrcode-detector-decoder
-php-kukulich-fshl
 phpldapadmin
 php-league-container4
 php-league-flysystem
@@ -7435,7 +7424,6 @@ php-manual-en
 php-marcusschwarz-lesserphp
 php-masterminds-html5
 php-microsoft-tolerant-php-parser
-php-mikealmond-musicbrainz
 php-mikey179-vfsstream
 php-mnapoli-phpunit-easymock
 php-mockery
@@ -7451,7 +7439,6 @@ php-myclabs-php-enum
 php-netresearch-jsonmapper
 php-nikic-php-parser3
 php-nikic-php-parser4
-php-nyholm-psr7
 php-oauth
 php-ocramius-code-generator-utils
 php-ocramius-proxy-manager
@@ -7478,7 +7465,6 @@ php-pear-Mail-mimeDecode
 php-pear-math-biginteger
 php-pear-MDB2-Driver-mysqli
 php-pear-MDB2-Driver-pgsql
-php-pear-MDB2-Schema
 php-pear-MDB2
 php-pear-Net-Curl
 php-pear-Net-IDNA2
@@ -7500,7 +7486,6 @@ php-phar-io-manifest
 php-phar-io-version
 php-phpdocumentor-reflection-common
 php-phpdocumentor-reflection-common2
-php-phpdocumentor-reflection-docblock
 php-phpdocumentor-reflection-docblock2
 php-phpdocumentor-reflection-docblock4
 php-phpdocumentor-reflection-docblock5
@@ -7561,7 +7546,6 @@ php-swaggest-json-schema
 php-swiftmailer6
 php-symfony-contracts
 php-symfony-contracts2
-php-symfony-monolog-bundle
 php-symfony-polyfill
 php-symfony-psr-http-message-bridge
 php-symfony-requirements-checker
@@ -7575,7 +7559,6 @@ php-tecnickcom-tc-lib-color
 php-theseer-autoload
 php-theseer-directoryscanner
 php-theseer-fDOMDocument
-php-true-punycode
 php-twig
 phpunit7
 phpunit8
@@ -7951,6 +7934,7 @@ python-archinfo
 python-arpeggio
 python-arpy
 python-arrow
+python-arviz
 python-asciitree
 python-ase
 python-asteval
@@ -8157,9 +8141,7 @@ python-colcon-lcov-result
 python-colcon-library-path
 python-colcon-metadata
 python-colcon-mixin
-python-colcon-notification
 python-colcon-output
-python-colcon-package-information
 python-colcon-package-selection
 python-colcon-parallel-executor
 python-colcon-pkg-config
@@ -8267,7 +8249,6 @@ python-diff-cover
 python-diff-match-patch
 python-digitalocean
 python-dingz
-python-dipy
 python-dirq
 python-diskcache
 python-distlib
@@ -8406,7 +8387,6 @@ python-feedparser
 python-fiat
 python-fido2
 python-fields
-python-filecheck
 python-filelock
 python-filetype
 python-firehose
@@ -8918,6 +8898,7 @@ python-pam
 python-pandas-datareader
 python-pandocfilters
 python-paperwork-backend
+python-pari-jupyter
 python-parsedatetime
 python-parsel
 python-parse
@@ -8931,7 +8912,6 @@ python-pastel
 python-paste-script
 python-paste
 python-patatt
-python-pathos
 python-path
 python-pathtools
 python-pathvalidate
@@ -8982,6 +8962,7 @@ python-postorius
 python-pox
 python-poyo
 python-ppft
+python-pplpy
 python-prawcore
 python-praw
 python-precis_i18n
@@ -9290,7 +9271,6 @@ python-ruffus
 python-rustcfg
 python-rxjson
 python-saharaclient
-python-SALib
 python-samloader
 python-sanction
 python-sane
@@ -9770,7 +9750,6 @@ qpid-proton
 qpress
 qpwgraph
 qqc2-breeze-style
-qqc2-desktop-style
 qqwing
 qrencode
 qrmumps
@@ -9787,7 +9766,6 @@ qtbrowserplugin
 qt-creator
 qtcurve
 qterminal
-qterm
 qtermwidget
 qtchooser
 qtiocompressor
@@ -10004,7 +9982,6 @@ renderdoc
 renrot
 ren
 rep-gtk
-repo
 reposurgeon
 reprepro
 reproc
@@ -10238,7 +10215,6 @@ R-polynom
 rp-pppoe
 R-praise
 R-preprocessCore
-R-presser
 R-prettycode
 R-prettydoc
 R-prettyunits
@@ -11574,6 +11550,7 @@ rust-waker-fn
 rust-walkdir
 rust-wasmer_enumset_derive
 rust-wasmer_enumset
+rust-wasmparser
 rust-webbrowser
 rust-webpki-roots
 rust-weezl
@@ -11754,12 +11731,9 @@ shelldap
 shellinabox
 shellz
 shigofumi
-shim-unsigned-aarch64
-shim-unsigned-x64
 shippy
 shntool
 shobhika-fonts
-shogun-data
 shorewall
 shotwell
 shrinkpdf
@@ -11931,7 +11905,6 @@ speed-dreams
 speedtest-cli
 spglib
 spherical-cow-backgrounds
-sphinxbase
 sphinx
 spicctrl
 spice-html5
@@ -12072,7 +12045,6 @@ surgescript
 suru-icon-theme
 svgpart
 svg2svgt
-svnkit
 svn2cl
 svt-vp9
 svxlink
@@ -12090,6 +12062,7 @@ sxiv
 sylfilter
 sylpheed
 symbian-m-yuppy-gb-fonts
+sympy
 syncthing
 synergy
 synthv1
@@ -12638,7 +12611,6 @@ winpdb
 wipe
 wireguard-tools
 withlock
-wkhtmltopdf
 wl-gammactl
 wl-mirror
 wlogout
@@ -12795,6 +12767,7 @@ xfpanel-switch
 xfwm4
 xfwm4-themes
 xgamma
+xgap
 xgrep
 xgridloc
 xguest
@@ -12824,7 +12797,6 @@ xml-security-c
 xmlstreambuffer
 xml2
 xmms2
-xmountains
 xmount
 xmppc
 xmp-plugin-audacious
@@ -12899,7 +12871,6 @@ xwrits
 xwud
 xwxapt
 xxkb
-xyzsh
 xzgv
 xz
 x11docker

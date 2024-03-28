@@ -947,8 +947,6 @@ cdsclient
 cdw
 cegui06
 cekit
-celestia-data
-celestia
 celluloid
 cellwriter
 celt051
@@ -1334,6 +1332,7 @@ crrcsim-addon-models
 crrcsim
 crudini
 crun
+crun-vm
 cryfs
 cryptlib
 cryptobone
@@ -1757,6 +1756,7 @@ drpm
 drraw
 drumkv1
 drumstick
+drumstick0
 drupal7
 DSDP
 dSFMT
@@ -2654,6 +2654,7 @@ gappa
 gap-pkg-ace
 gap-pkg-aclib
 gap-pkg-alnuth
+gap-pkg-anupq
 gap-pkg-atlasrep
 gap-pkg-autodoc
 gap-pkg-automata
@@ -2894,6 +2895,7 @@ gfs-solomos-fonts
 gfs-theokritos-fonts
 gfs2-utils
 gftp
+gfxstream
 gf2x
 ggz-base-libs
 ghasher
@@ -3818,7 +3820,6 @@ gnome-text-editor
 gnome-themes-extra
 gnome-todo
 gnome-tour
-gnome-translate
 gnome-tweaks
 gnome-usage
 gnome-user-docs
@@ -3861,6 +3862,7 @@ gnustep-make
 gnutls
 goaccess
 goaltdns
+goarrange
 gobi_loader
 go-bindata
 gobject-introspection
@@ -3939,7 +3941,6 @@ golang-github-akamensky-argparse
 golang-github-akavel-rsrc
 golang-github-akutz-gosync
 golang-github-akutz-memconn
-golang-github-alcortesm-tgz
 golang-github-alecaivazis-survey-2
 golang-github-alecthomas-assert
 golang-github-alecthomas-assert-2
@@ -4381,6 +4382,7 @@ golang-github-gogo-googleapis
 golang-github-gogo-protobuf
 golang-github-gogo-status
 golang-github-gogs-chardet
+golang-github-gohugoio-hugo-goldmark-extensions
 golang-github-gohugoio-localescompressed
 golang-github-gohugoio-locales
 golang-github-gohugoio-testmodbuilder
@@ -4719,6 +4721,7 @@ golang-github-macaron-inject
 golang-github-magiconair-properties
 golang-github-mailru-easyjson
 golang-github-makenowjust-heredoc
+golang-github-makeworld-the-better-one-dither2
 golang-github-malfunkt-iprange
 golang-github-manifoldco-promptui
 golang-github-marcinbor85-gohex
@@ -5027,7 +5030,6 @@ golang-github-putdotio-putio
 golang-github-quay-clair-3
 golang-github-quay-goval-parser
 golang-github-quic-qpack
-golang-github-quic-qtls-go1-20
 golang-github-quic
 golang-github-racingmars-go3270
 golang-github-racksec-srslog
@@ -5170,7 +5172,6 @@ golang-github-spkg-bom
 golang-github-spyzhov-ajson
 golang-github-sql-civil
 golang-github-sql-driver-mysql
-golang-github-src-d-gcfg
 golang-github-ssgelm-cookiejarparser
 golang-github-ssor-bom
 golang-github-stack
@@ -5400,9 +5401,6 @@ golang-gopkg-russross-blackfriday-2
 golang-gopkg-seborama-govcr-4
 golang-gopkg-sourcemap-1
 golang-gopkg-square-jose-2
-golang-gopkg-src-d-billy-4
-golang-gopkg-src-d-git-fixtures-3
-golang-gopkg-src-d-git-4
 golang-gopkg-stack-0
 golang-gopkg-tomb-1
 golang-gopkg-tomb-2
@@ -5512,7 +5510,6 @@ golang-sr-spc-log
 golang-starlark
 golang-storj-drpc
 golang-storj-picobuf
-golang-storj-uplink
 golang-tinygo-x-llvm
 golang-torproject-pluggable-transports-goptlib
 golang-uber-atomic
@@ -6171,6 +6168,7 @@ hyphen-ta
 hyphen-te
 hyphen-tk
 hyphen-uk
+hyprcursor
 hypre
 hyprland-protocols
 hyprland
@@ -6581,6 +6579,7 @@ jitterentropy
 jkmeter
 jline
 jline2
+jl
 jmeters
 jmock
 jmol
@@ -6793,6 +6792,7 @@ kexi
 keybinder
 keybinder3
 keycloak-httpd-client-install
+keydb
 keychain
 keychecker
 keylime-agent-rust
@@ -6920,6 +6920,8 @@ kf5-pimcommon
 kf5-plasma
 kf5-prison
 kf5-purpose
+kf5-qqc2-breeze-style
+kf5-qqc2-desktop-style
 kf5-solid
 kf5-sonnet
 kf5
@@ -7768,7 +7770,6 @@ libmodman
 libmodplug
 libmodsecurity
 libmodulemd
-libmodulemd1
 libmongo-client
 libmongocrypt
 libmpcdec
@@ -7837,6 +7838,7 @@ libolm
 libomemo-c
 libomemo
 libomp
+libomp17
 libomxil-bellagio
 libopenmpt
 libopenraw
@@ -7966,6 +7968,7 @@ libsass
 libsavitar
 libsbml
 libsbw
+libscfg
 libscn
 libscrypt
 libsearpc
@@ -8064,7 +8067,6 @@ libtpms
 libtracecmd
 libtraceevent
 libtracefs
-libtranslate
 libtranslit
 libtrash
 libtree-ldd
@@ -8245,7 +8247,6 @@ lightdm-gtk
 lightdm-settings
 lightdm
 light-locker
-lightly
 lightning
 lightpack
 lightsoff
@@ -8293,6 +8294,7 @@ live555
 lizardfs
 lklug-fonts
 lksctp-tools
+llama-cpp
 llconf
 lldb
 lldpad
@@ -8464,6 +8466,7 @@ luksmeta
 lumail
 lumina-desktop
 luminance-hdr
+lunasvg
 lunchbox
 lure
 lusol
@@ -9180,6 +9183,7 @@ mlt
 mmapper
 mm-common
 mmc
+mmc-utils
 mmdb2
 mmg
 mmlib
@@ -9502,6 +9506,7 @@ ncid
 ncl
 ncmpcpp
 ncmpc
+ncnn
 ncompress
 nco
 ncrack
@@ -9867,7 +9872,6 @@ ocaml-mlmpfr
 ocamlmod
 ocaml-mtime
 ocaml-mysql
-ocaml-newt
 ocaml-num
 ocaml-obuild
 ocaml-ocamlbuild
@@ -10019,6 +10023,7 @@ oflb-goudy-bookletter-1911-fonts
 oflb-notcouriersans-fonts
 oflb-prociono-fonts
 oflb-smonohand-fonts
+ofono
 ogdi
 oggvideotools
 ogmtools
@@ -10174,7 +10179,6 @@ openssl-ibmpkcs11
 openssl-pkcs11-sign-provider
 openssl-pkcs11
 openssl
-openssl1.1
 openstack-java-sdk
 OpenStego
 opensubdiv
@@ -10245,6 +10249,7 @@ osm2pgsql
 os-prober
 osslsigncode
 ossobuffo-jura-fonts
+ostree-pin
 ostree
 ostrichriders
 otf2bdf
@@ -11510,6 +11515,7 @@ perl-Function-Parameters
 perl-Fuse
 perl-Future-AsyncAwait
 perl-Future-IO
+perl-Future-Mojo
 perl-Future
 perl-Games-Solitaire-Verify
 perl-GD-Barcode
@@ -11727,6 +11733,7 @@ perl-HTTP-Soup
 perl-HTTP-Thin
 perl-HTTP-Tinyish
 perl-HTTP-Tiny-Multipart
+perl-HTTP-Tiny-Paranoid
 perl-HTTP-Tiny
 perl-Chart
 perl-Chatbot-Eliza
@@ -13610,16 +13617,12 @@ php-doctrine-instantiator
 php-doctrine-lexer
 php-doctrine-orm
 php-doctrine-persistence
-php-doctrine-persistence2
-php-doctrine-persistence3
 php-doctrine-reflection
 php-doctrine-sql-formatter
 php-domxml-php4-php5
 php-egulias-email-validator
 php-egulias-email-validator2
-php-echonest-api
 php-email-address-validation
-php-endroid-qrcode
 php-erusev-parsedown
 php-facedetect
 php-Faker
@@ -13648,14 +13651,10 @@ php-iamcal-lib-autolink
 php-icewind-smb2
 php-icewind-streams
 php-IDNA_Convert
-php-interfasys-lognormalizer
-php-ircmaxell-random-lib
-php-ircmaxell-security-lib
 php-jdorn-sql-formatter
 php-justinrainbow-json-schema5
 php-khanamiryan-qrcode-detector-decoder
 php-kissifrot-php-ixr
-php-kukulich-fshl
 phpldapadmin
 php-league-container4
 php-league-flysystem
@@ -13673,7 +13672,6 @@ php-markdown
 php-masterminds-html5
 php-maxminddb
 php-microsoft-tolerant-php-parser
-php-mikealmond-musicbrainz
 php-mikey179-vfsstream
 php-mnapoli-phpunit-easymock
 php-mockery
@@ -13690,7 +13688,6 @@ php-netresearch-jsonmapper
 php-nikic-php-parser3
 php-nikic-php-parser4
 php-nikic-php-parser5
-php-nyholm-psr7
 php-oauth
 php-ocramius-code-generator-utils
 php-ocramius-proxy-manager
@@ -13723,7 +13720,6 @@ php-pear-Mail
 php-pear-math-biginteger
 php-pear-MDB2-Driver-mysqli
 php-pear-MDB2-Driver-pgsql
-php-pear-MDB2-Schema
 php-pear-MDB2
 php-pear-Net-Curl
 php-pear-Net-IDNA2
@@ -13788,7 +13784,6 @@ php-phar-io-version
 php-phar-io-version3
 php-phpdocumentor-reflection-common
 php-phpdocumentor-reflection-common2
-php-phpdocumentor-reflection-docblock
 php-phpdocumentor-reflection-docblock2
 php-phpdocumentor-reflection-docblock4
 php-phpdocumentor-reflection-docblock5
@@ -13917,7 +13912,6 @@ php-swaggest-json-schema
 php-swiftmailer6
 php-symfony-contracts
 php-symfony-contracts2
-php-symfony-monolog-bundle
 php-symfony-polyfill
 php-symfony-psr-http-message-bridge
 php-symfony-requirements-checker
@@ -13932,7 +13926,6 @@ php-theseer-autoload
 php-theseer-directoryscanner
 php-theseer-fDOMDocument
 php-theseer-tokenizer
-php-true-punycode
 php-twig
 phpunit10
 phpunit7
@@ -14525,6 +14518,7 @@ python-argopt
 python-argparse-dataclass
 python-archinfo
 python-archspec
+python-arm-preprocessing
 python-arpeggio
 python-arpy
 python-arrow
@@ -14830,6 +14824,7 @@ python-cloudpickle
 python-cloudscraper
 python-cloud-sptheme
 python-cmake-build-extension
+python-cmap
 python-cmarkgfm
 python-cma
 python-cmd2
@@ -15739,6 +15734,7 @@ python-magic
 python-magnumclient
 python-mailer
 python-mailmanclient
+python-mailman-hyperkitty
 python-mailman-web
 python-mailmerge
 python-makeelf
@@ -15992,6 +15988,7 @@ python-opendata-transport
 python-openidc-client
 python-openid-cla
 python-openid-teams
+python-openneuro
 python-openoffice
 python-openpaperwork-core
 python-openpaperwork-gtk
@@ -16243,6 +16240,7 @@ python-pycoingecko
 python-pycomfoair
 python-pycomm3
 python-pycomposefile
+python-pyconify
 python-pycosat
 python-pycotap
 python-pycountry
@@ -16480,6 +16478,7 @@ python-pytest-openfiles
 python-pytest-ordering
 python-pytest-param-files
 python-pytest-postgresql
+python-pytest-qt
 python-pytest-randomly
 python-pytest-regressions
 python-pytest-relaxed
@@ -16516,6 +16515,7 @@ python-pytoolconfig
 python-pytools
 python-pytzdata
 python-pytz-deprecation-shim
+python-pyuca
 python-pyudev
 python-pyunicorn
 python-pyupgrade
@@ -16792,7 +16792,9 @@ python-smi
 python-smmap
 python-snakemake-executor-plugin-cluster-generic
 python-snakemake-executor-plugin-cluster-sync
+python-snakemake-executor-plugin-kubernetes
 python-snakemake-executor-plugin-slurm-jobstep
+python-snakemake-executor-plugin-slurm
 python-snakemake-executor-plugin-tes
 python-snakemake-interface-common
 python-snakemake-interface-executor-plugins
@@ -16800,6 +16802,7 @@ python-snakemake-interface-report-plugins
 python-snakemake-interface-storage-plugins
 python-snakemake-storage-plugin-azure
 python-snakemake-storage-plugin-fs
+python-snakemake-storage-plugin-ftp
 python-snakemake-storage-plugin-gcs
 python-snakemake-storage-plugin-http
 python-snakemake-storage-plugin-s3
@@ -16942,6 +16945,7 @@ python-subliminal
 python-subprocess-tee
 python-succulent
 python-suds
+python-superqt
 python-supersmoother
 python-sure
 python-surt
@@ -17480,7 +17484,6 @@ qpid-proton
 qpress
 qpwgraph
 qqc2-breeze-style
-qqc2-desktop-style
 qqwing
 qr-code-generator
 qrencode
@@ -17502,7 +17505,6 @@ qtbrowserplugin
 qt-creator
 qtcurve
 qterminal
-qterm
 qtermwidget
 qtchooser
 qtile
@@ -18162,7 +18164,6 @@ R-polynom
 rp-pppoe
 R-praise
 R-preprocessCore
-R-presser
 R-prettycode
 R-prettydoc
 R-prettyunits
@@ -18682,7 +18683,6 @@ rubygem-rttool
 rubygem-ruby-dbus
 rubygem-ruby_dep
 rubygem-ruby_engine
-rubygem-rubygems-mirror
 rubygem-ruby-libvirt
 rubygem-ruby-opengl
 rubygem-ruby-progressbar
@@ -18799,6 +18799,7 @@ rundoc
 R-unitizer
 R-units
 R-unix
+ruqola
 rusers
 R-usethis
 rust-ab_glyph_rasterizer
@@ -18816,6 +18817,9 @@ rust-actix-tls
 rust-actix-utils
 rust-actix-web-codegen
 rust-actix-web
+rust-adblock
+rust-add-determinism
+rust-addr
 rust-addr2line
 rust-adler
 rust-adler32
@@ -19059,6 +19063,7 @@ rust-bytes0.4
 rust-bytes0.5
 rust-byte-unit
 rust-byte-unit3
+rust-byte-unit4
 rust-bzip2-rs
 rust-bzip2
 rust-bzip2-sys
@@ -19334,9 +19339,12 @@ rust-derivative
 rust-derive_arbitrary
 rust-derive_arbitrary0.4
 rust-derive_builder_core
+rust-derive_builder_core0.12
 rust-derive_builder_core0.9
 rust-derive_builder_macro
+rust-derive_builder_macro0.12
 rust-derive_builder
+rust-derive_builder0.12
 rust-derive_builder0.9
 rust-derive_more
 rust-derive-new
@@ -19383,6 +19391,7 @@ rust-dlv-list0.2
 rust-dns-lookup
 rust-dns-lookup1
 rust-doc-comment
+rust-docker_credential
 rust-docmatic
 rust-docopt
 rust-document-features
@@ -19500,6 +19509,7 @@ rust-fallible_collections
 rust-fallible-iterator
 rust-fallible-streaming-iterator
 rust-fancy-regex
+rust-fancy-regex0.11
 rust-fancy-regex0.7
 rust-faster-hex
 rust-fastrand
@@ -19566,6 +19576,7 @@ rust-fsio
 rust-fslock
 rust-fs-set-times
 rust-fs2
+rust-fs4
 rust-fundu-core
 rust-fundu
 rust-funty
@@ -19794,14 +19805,17 @@ rust-hashbrown0.9
 rust-hashlink
 rust-hash32-derive
 rust-hash32
+rust-hash32_0.2
 rust-hdrhistogram
 rust-headers-core
 rust-headers
 rust-heapless
+rust-heapless0.7
 rust-heapsize
 rust-heatseeker
 rust-heck
 rust-heck0.3
+rust-heck0.4
 rust-hexf-parse
 rust-hex-literal-impl
 rust-hex-literal
@@ -19813,6 +19827,7 @@ rust-hickory-client
 rust-hickory-proto
 rust-hickory-resolver
 rust-hidapi
+rust-histo
 rust-hkdf
 rust-hmac
 rust-hmac0.11
@@ -20085,7 +20100,6 @@ rust-logos
 rust-log-panics
 rust-log
 rust-log0.3
-rust-loopdev
 rust-loopdev-3
 rust-lopdf
 rust-lru-cache
@@ -20237,6 +20251,7 @@ rust-ntest_test_cases
 rust-ntest_timeout
 rust-nu-ansi-term
 rust-nu-ansi-term0.46
+rust-nu-ansi-term0.49
 rust-nucleo-matcher
 rust-nucleo
 rust-nu-cli
@@ -20284,6 +20299,7 @@ rust-nu-term-grid
 rust-nu-test-support
 rust-nu-utils
 rust-object
+rust-oci-spec
 rust-octseq
 rust-oid
 rust-olpc-cjson
@@ -20701,6 +20717,7 @@ rust-ropey
 rust-routinator
 rust-routinator-ui
 rust-roxmltree
+rust-roxmltree0.18
 rust-rpassword
 rust-rpassword5
 rust-rpds
@@ -20800,11 +20817,13 @@ rust-semver0.11
 rust-send_wrapper
 rust-sequoia-autocrypt
 rust-sequoia-cert-store
+rust-sequoia-gpg-agent
 rust-sequoia-chameleon-gnupg
 rust-sequoia-ipc
 rust-sequoia-keyring-linter
 rust-sequoia-keystore-backend
 rust-sequoia-keystore-softkeys
+rust-sequoia-keystore
 rust-sequoia-net
 rust-sequoia-octopus-librnp
 rust-sequoia-openpgp-mt
@@ -20852,10 +20871,12 @@ rust-serial_test_derive
 rust-serial_test_derive0.5
 rust-serial_test_derive0.6
 rust-serial_test_derive1
+rust-serial_test_derive2
 rust-serial_test
 rust-serial_test0.5
 rust-serial_test0.6
 rust-serial_test1
+rust-serial_test2
 rust-servo_arc
 rust-servo-fontconfig
 rust-servo-fontconfig-sys
@@ -20986,6 +21007,7 @@ rust-string_cache
 rust-strip-ansi-escapes
 rust-strip-ansi-escapes0.1
 rust-strsim
+rust-strsim0.10
 rust-str_stack
 rust-structopt-derive
 rust-structopt-derive0.2
@@ -20996,13 +21018,16 @@ rust-struct-patch
 rust-strum_macros
 rust-strum_macros0.21
 rust-strum_macros0.24
+rust-strum_macros0.25
 rust-strum
 rust-strum0.21
+rust-strum0.25
 rust-subprocess
 rust-subtle
 rust-sudo
 rust-suggest
 rust-supports-color
+rust-supports-color2
 rust-supports-hyperlinks
 rust-supports-unicode
 rust-sval_buffer
@@ -21080,6 +21105,7 @@ rust-test-case1
 rust-tester
 rust-test-generator
 rust-testing_logger
+rust-test-log-macros
 rust-test-log
 rust-text-block-macros
 rust-textwrap
@@ -21187,6 +21213,7 @@ rust-tree-sitter-highlight
 rust-tree-sitter-loader
 rust-tree-sitter
 rust-tree-sitter-tags
+rust-tree-sitter0.20
 rust-triomphe
 rust-trust-dns-client
 rust-trust-dns-proto
@@ -21412,6 +21439,7 @@ rust-warp-sessions
 rust-warp
 rust-wasmer_enumset_derive
 rust-wasmer_enumset
+rust-wasmparser
 rust-wax
 rust-wayland-backend
 rust-wayland-client
@@ -21803,7 +21831,6 @@ shim-unsigned-x64
 shippy
 shntool
 shobhika-fonts
-shogun-data
 shorewall
 shotwell
 shrinkpdf
@@ -22062,7 +22089,6 @@ speexdsp
 speex
 spglib
 spherical-cow-backgrounds
-sphinxbase
 sphinx
 spicctrl
 spice-gtk
@@ -22269,7 +22295,6 @@ suseconnect-ng
 sushi
 svgpart
 svg2svgt
-svnkit
 svn2cl
 svt-av1
 svt-vp9
@@ -22521,6 +22546,7 @@ timeshift
 timespan
 time
 timew
+timg
 timidity++
 tinc
 tini
@@ -22622,6 +22648,7 @@ toxcore
 tpm-tools
 tpm2-abrmd-selinux
 tpm2-abrmd
+tpm2-openssl
 tpm2-pkcs11
 tpm2-tools
 tpm2-tss-engine
@@ -23521,6 +23548,7 @@ xmvn-generator
 xmvn
 xnec2c
 xnnpack
+xnvme
 xonotic-data
 xonotic
 xonsh
