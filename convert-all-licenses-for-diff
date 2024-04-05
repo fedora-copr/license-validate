@@ -1,0 +1,10 @@
+#!/usr/bin/bash
+
+LICENSE='EUPL 1.2'
+### Takes list of packages as positional argument
+
+
+while read line; do
+        ./convert-spec.py "rpm-specs/$line.spec" "$LICENSE"
+done < "$1"
+
