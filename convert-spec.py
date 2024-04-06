@@ -14,6 +14,16 @@ def alter_license(license):
     #print("DBG" , output)
     return output
 
+def increment_last_number(input_string):
+    # Split the input string into parts based on the dot
+    parts = input_string.split('.')
+    
+    # Convert the last part to an integer, increment it by 1, and convert it back to string
+    parts[-1] = str(int(parts[-1]) + 1)
+    
+    # Join the parts back into a single string with dots
+    return '.'.join(parts)
+
 # this is dump, but do the work
 filename = sys.argv[1]
 old_license = sys.argv[2]
@@ -31,7 +41,7 @@ with specfile.sections() as sections:
                     #print(section.name, tags.license.value)
                     #tags.license = "MIT"
 if not specfile.has_autorelease:
-    specfile.release = str(int(specfile.expanded_release) + 1)
+    specfile.release = str(increment_last_number(specfile.expanded_release))
 if not specfile.has_autochangelog:
     specfile.add_changelog_entry(
         f"- convert license to SPDX",
