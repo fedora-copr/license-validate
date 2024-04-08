@@ -134,7 +134,6 @@ ant-antunit
 ant-contrib
 anthy
 anthy-unicode
-antic
 antimicrox
 antlr
 antlr3
@@ -190,7 +189,6 @@ aqualung
 aqute-bnd
 ara
 arbor
-arb
 arc-gui-clients
 arc-kde
 ardour6
@@ -289,6 +287,7 @@ audiocd-kio
 audiofile
 audit
 augeas
+aunit
 auryn
 authselect
 autoconf-archive
@@ -370,6 +369,7 @@ bird
 bison
 bitlbee-facebook
 bitmap-fonts
+bitstream-vera-fonts
 bitwise
 blackbox-terminal
 blake3
@@ -467,6 +467,8 @@ byebyebios
 byte-buddy
 bzip2
 bzip3
+b43-fwcutter
+b43-openfwwf
 cabal-install
 cabal-rpm
 cab
@@ -723,6 +725,7 @@ create-fake-rpm
 createrepo-agent
 createrepo_c
 credentials-fetcher
+cri-tools
 criu
 cr-marcstevens-snippets
 croaring
@@ -833,6 +836,7 @@ deepin-dock
 deepin-draw
 deepin-editor
 deepin-file-manager
+deepin-gettext-tools
 deepin-gir-generator
 deepin-gtk-theme
 deepin-launcher
@@ -1098,6 +1102,7 @@ fcft
 fcitx-libpinyin
 fcitx
 fcitx5-zhuyin
+fcode-utils
 fcoe-utils
 fdk-aac-free
 fdupes
@@ -1192,7 +1197,6 @@ folks
 folly
 foma
 fontaine
-fontawesome-fonts
 fontawesome4-fonts
 fontconfig
 fontforge
@@ -1206,6 +1210,7 @@ foomatic-db
 foomatic
 foomuuri
 foonathan-memory
+foot
 foo2zjs
 fop
 forge-srpm-macros
@@ -1277,6 +1282,7 @@ fwupd
 fxdiv
 fxload
 f2c
+f3d
 f37-backgrounds
 f38-backgrounds
 f39-backgrounds
@@ -1349,6 +1355,7 @@ gap-pkg-nautytracesinterface
 gap-pkg-nq
 gap-pkg-openmath
 gap-pkg-orb
+gap-pkg-permut
 gap-pkg-polenta
 gap-pkg-polycyclic
 gap-pkg-polymaking
@@ -2237,6 +2244,7 @@ gnubg
 gnucash-docs
 gnucash
 gnucobol
+gnu-efi
 gnu-free-fonts
 gnuchess
 gnujump
@@ -2421,7 +2429,6 @@ golang-github-google-cel
 golang-github-google-cel-spec
 golang-github-google-certificate-transparency
 golang-github-googlecloudplatform-cloudsql-proxy
-golang-github-googlecloudplatform-guest-logging
 golang-github-google-cmdtest
 golang-github-google-cmp
 golang-github-google-flatbuffers
@@ -2545,6 +2552,7 @@ golang-github-moby-sys
 golang-github-moby-term
 golang-github-modern-concurrent
 golang-github-modern-reflect2
+golang-github-mrunalp-fileutils
 golang-github-muesli-ansi
 golang-github-muesli-cancelreader
 golang-github-nathan-osman-sunrise
@@ -2778,13 +2786,10 @@ google-api-python-client
 google-auth-httplib2
 google-benchmark
 google-carlito-fonts
-google-compute-engine-guest-configs
 google-crc32c
 google-croscore-fonts
 google-crosextra-caladea-fonts
-google-disk-expand
 google-droid-fonts
-google-guest-agent
 google-guice
 google-noto-emoji-fonts
 google-noto-fonts
@@ -2793,7 +2798,6 @@ google-noto-sans-cjk-subset-fonts
 google-noto-sans-cjk-vf-fonts
 google-noto-serif-cjk-fonts
 google-noto-serif-cjk-vf-fonts
-google-osconfig-agent
 google-roboto-fonts
 google-roboto-mono-fonts
 google-roboto-slab-fonts
@@ -2802,6 +2806,8 @@ gops
 go-rpm-macros
 gotcha
 gource
+go-vendor-tools
+goverlay
 gpart
 gpaste
 gperf
@@ -2872,6 +2878,7 @@ gstreamer1
 gst
 gtest
 gthumb
+gtimelog
 GtkAda
 GtkAda3
 gtk-doc
@@ -2999,6 +3006,7 @@ hstr
 hstsparser
 ht-alegreya-fonts
 ht-alegreya-sans-fonts
+html-xml-utils
 html2ps
 html401-dtds
 httpcomponents-client
@@ -3260,6 +3268,7 @@ igraph
 iio-sensor-proxy
 iir1
 ii
+ikiwiki
 ilbc
 ilua
 imagej
@@ -3307,6 +3316,7 @@ iotop-c
 ipa-exgothic-fonts
 ipa-exmincho-fonts
 ipa-gothic-fonts
+ipa-hcc
 ipa-mincho-fonts
 ipa-pgothic-fonts
 ipa-pmincho-fonts
@@ -4557,6 +4567,7 @@ mailcommon
 maildir-utils
 maildrop
 mailimporter
+mailman3-fedmsg-plugin-schemas
 mailman3
 mail-notification
 mailprocessing
@@ -4582,6 +4593,7 @@ mariadb-connector-odbc
 mariadb-java-client
 marisa
 markdownpart
+marknote
 marshalparser
 massif-visualizer
 materia-kde
@@ -4758,6 +4770,7 @@ mingw-python-idna
 mingw-python-installer
 mingw-python-jinja2
 mingw-python-lxml
+mingw-python-markupsafe
 mingw-python-OWSLib
 mingw-python-packaging
 mingw-python-pep517
@@ -4823,6 +4836,7 @@ mingw-winpthreads
 mingw-w64-tools
 mingw-xerces-c
 mingw-zlib
+mingw-zstd
 miniaudio
 minicom
 minidlna
@@ -4910,6 +4924,7 @@ mpfr
 mpg123
 mpich
 mpi4py
+mpop
 mpsolve
 mp
 mptcpd
@@ -5938,6 +5953,7 @@ perl-DateTime-TimeZone-Tzfile
 perl-DateTime-Tiny
 perl-DateTimeX-Easy
 perl-DBD-CSV
+perl-DBD-Firebird
 perl-DBD-MariaDB
 perl-DBD-Multi
 perl-DBD-MySQL
@@ -6178,6 +6194,7 @@ perl-Frontier-RPC
 perl-Function-Parameters
 perl-Fuse
 perl-Future-AsyncAwait
+perl-Future-HTTP
 perl-Future-IO
 perl-Future-Mojo
 perl-GD-Barcode
@@ -6929,6 +6946,7 @@ perl-Specio
 perl-Spellunker
 perl-Spiffy
 perl-Spreadsheet-ParseExcel
+perl-Spreadsheet-XLSX
 perl-SQL-Abstract-Classic
 perl-SQL-Interp
 perl-SQL-Library
@@ -7367,7 +7385,6 @@ pgrouting
 pgsphere
 phd2
 phonon-backend-vlc
-phosh-mobile-settings
 photocollage
 photoqt
 php-adodb
@@ -7674,6 +7691,7 @@ postgresql16-pg_repack
 postgresql16
 potrace
 povray
+powdertoy
 powerdevil
 powerline-go
 powerline
@@ -7705,6 +7723,7 @@ procps-ng
 production-type-spectral-fonts
 professor-is-missing
 proftpd
+projecteur
 proj
 prometheus-podman-exporter
 prooftree
@@ -7726,6 +7745,7 @@ psi
 ps_mem
 psmisc
 pspp
+pstoedit
 pstreams-devel
 psutils
 pt-astra-sans-fonts
@@ -8083,6 +8103,7 @@ python-EvoPreprocess
 python-exabgp
 python-exdir
 python-expandvars
+python-expecttest
 python-extension-helpers
 python-extractcode-libarchive
 python-extractcode
@@ -8271,6 +8292,7 @@ python-janus
 python-jaraco-context
 python-jaraco-logging
 python-jaraco-stream
+python-jaraco-test
 python-javaproperties
 python-jdcal
 python-jenkins-job-builder
@@ -8354,6 +8376,7 @@ python-logbook
 python-looseversion
 python-lqrt
 python-lsprotocol
+python-lxml-html-clean
 python-lxml
 python-ly
 python-magnumclient
@@ -8385,6 +8408,7 @@ python-mdurl
 python-mdx_gh_links
 python-mediafile
 python-meh
+python-memray
 python-menuinst
 python-mercantile
 python-merge3
@@ -8833,6 +8857,7 @@ python-scitokens
 python-scour
 python-scripttester
 python-sdnotify
+python-SecretStorage
 python-selenium
 python-semver
 python-send2trash
@@ -9000,8 +9025,10 @@ python-tmuxp
 python-toml-adapt
 python-tomli-w
 python-toposort
+python-torchaudio
 python-torchdata
 python-torch
+python-torchtext
 python-torchvision
 python-tornado
 python-tox
@@ -9080,12 +9107,12 @@ python-wloc
 python-wordcloud
 python-wrapt
 python-wsgidav
-python-wtforms-sqlalchemy
 python-wurlitzer
 python-w3lib
 python-xarray-einstats
 python-xarray
 python-xattr
+python-xbout
 python-xcffib
 python-xdfile
 python-xkbcommon
@@ -9334,6 +9361,7 @@ receptor
 recode
 redhat-fonts
 redhat-rpm-config
+redict
 redis
 redland
 rednotebook
@@ -9363,6 +9391,7 @@ retsnoop
 reuse
 R-flexiblas
 R-fontawesome
+R-fontBitstreamVera
 R-fs
 R-future
 rgb
@@ -9403,6 +9432,7 @@ rmol
 rmtfs
 R-multcomp
 rng-tools
+R-niarules
 rnp
 rocalution
 rocblas
@@ -9761,7 +9791,6 @@ rubygem-regexp_parser
 rubygem-regexp_property_values
 rubygem-require_all
 rubygem-resolve-hostname
-rubygem-rest-client
 rubygem-rgen
 rubygem-rmagick
 rubygem-ronn-ng
@@ -9957,6 +9986,7 @@ rust-asahi-wifisync
 rust-ascii-canvas
 rust-ascii
 rust-ashpd
+rust-ashpd0.6
 rust-askalono-cli
 rust-askalono
 rust-askama_derive
@@ -9979,6 +10009,7 @@ rust-assert-str
 rust-associative-cache
 rust-async-attributes
 rust-async-broadcast
+rust-async-broadcast0.5
 rust-async-compression
 rust-async-executor
 rust-async-fs
@@ -9992,6 +10023,7 @@ rust-async-io1
 rust-async-lock
 rust-async-lock2
 rust-async-mutex
+rust-async-net
 rust-async-process
 rust-async-process1
 rust-async-recursion
@@ -10009,7 +10041,6 @@ rust-atk-sys0.17
 rust-atk0.15
 rust-atk0.17
 rust-atomic-polyfill
-rust-atomic-polyfill0.1
 rust-atomic_refcell
 rust-atomic
 rust-atomic-traits
@@ -10139,9 +10170,11 @@ rust-cache-padded
 rust-cairo-rs
 rust-cairo-rs0.15
 rust-cairo-rs0.17
+rust-cairo-rs0.18
 rust-cairo-sys-rs
 rust-cairo-sys-rs0.15
 rust-cairo-sys-rs0.17
+rust-cairo-sys-rs0.18
 rust-calamine
 rust-calloop
 rust-calloop-wayland-source
@@ -10194,6 +10227,7 @@ rust-ciborium
 rust-cint
 rust-cipher
 rust-cipher0.3
+rust-circular-buffer
 rust-clang-ast
 rust-clang-sys
 rust-clang-tidy-sarif
@@ -10417,7 +10451,6 @@ rust-der0.4
 rust-desed
 rust-deser-hjson
 rust-des
-rust-des0.7
 rust-detone
 rust-deunicode
 rust-devicemapper
@@ -10502,6 +10535,7 @@ rust-encode_unicode
 rust-encoding_rs_io
 rust-encoding_rs
 rust-endian-type
+rust-endi
 rust-enquote
 rust-entities
 rust-enum-as-inner
@@ -10552,8 +10586,10 @@ rust-ethtool
 rust-euclid
 rust-event-listener
 rust-event-listener-strategy
+rust-event-listener-strategy0.4
 rust-event-listener2
 rust-event-listener3
+rust-event-listener4
 rust-event-manager
 rust-exacl
 rust-executable-path
@@ -10628,9 +10664,11 @@ rust-four-cc
 rust-fragile
 rust-freetype-rs
 rust-freetype-rs0.26
+rust-freetype-rs0.32
 rust-freetype
 rust-freetype-sys
 rust-freetype-sys0.13
+rust-freetype-sys0.17
 rust-fs_at
 rust-fscommon
 rust-fs-err
@@ -10667,8 +10705,10 @@ rust-gdk-pixbuf
 rust-gdk-pixbuf-sys
 rust-gdk-pixbuf-sys0.15
 rust-gdk-pixbuf-sys0.17
+rust-gdk-pixbuf-sys0.18
 rust-gdk-pixbuf0.15
 rust-gdk-pixbuf0.17
+rust-gdk-pixbuf0.18
 rust-gdk
 rust-gdk-sys
 rust-gdk-sys0.15
@@ -10677,10 +10717,16 @@ rust-gdk0.15
 rust-gdk0.17
 rust-gdk4
 rust-gdk4-sys
+rust-gdk4-sys0.7
 rust-gdk4-wayland
 rust-gdk4-wayland-sys
+rust-gdk4-wayland-sys0.7
+rust-gdk4-wayland0.7
 rust-gdk4-x11
 rust-gdk4-x11-sys
+rust-gdk4-x11-sys0.7
+rust-gdk4-x11_0.7
+rust-gdk4_0.7
 rust-generic-array
 rust-generic-array0.12
 rust-genetlink
@@ -10705,8 +10751,10 @@ rust-gio
 rust-gio-sys
 rust-gio-sys0.15
 rust-gio-sys0.17
+rust-gio-sys0.18
 rust-gio0.15
 rust-gio0.17
+rust-gio0.18
 rust-gir-format-check
 rust-git-absorb
 rust-git-delta
@@ -10726,6 +10774,7 @@ rust-gix-config-value
 rust-gix-credentials
 rust-gix-date
 rust-gix-diff
+rust-gix-dir
 rust-gix-discover
 rust-gix-features
 rust-gix-filter
@@ -10774,12 +10823,15 @@ rust-glib-build-tools0.17
 rust-glib-macros
 rust-glib-macros0.15
 rust-glib-macros0.17
+rust-glib-macros0.18
 rust-glib
 rust-glib-sys
 rust-glib-sys0.15
 rust-glib-sys0.17
+rust-glib-sys0.18
 rust-glib0.15
 rust-glib0.17
+rust-glib0.18
 rust-globset
 rust-glob
 rust-globwalk
@@ -10792,6 +10844,7 @@ rust-glycin-utils
 rust-gobject-sys
 rust-gobject-sys0.15
 rust-gobject-sys0.17
+rust-gobject-sys0.18
 rust-goblin
 rust-goblin0.5
 rust-goblin0.6
@@ -10799,7 +10852,9 @@ rust-goblin0.7
 rust-gptman
 rust-gpt
 rust-graphene-rs
+rust-graphene-rs0.18
 rust-graphene-sys
+rust-graphene-sys0.18
 rust-greetd_ipc
 rust-grep-cli
 rust-grep-matcher
@@ -10811,32 +10866,56 @@ rust-grep
 rust-group
 rust-gsk4
 rust-gsk4-sys
+rust-gsk4-sys0.7
+rust-gsk4_0.7
 rust-gst-plugin-gif
 rust-gst-plugin-gtk4
 rust-gst-plugin-reqwest
 rust-gst-plugin-version-helper
 rust-gstreamer-audio
 rust-gstreamer-audio-sys
+rust-gstreamer-audio-sys0.21
+rust-gstreamer-audio0.21
 rust-gstreamer-base
 rust-gstreamer-base-sys
+rust-gstreamer-base-sys0.21
+rust-gstreamer-base0.21
 rust-gstreamer-editing-services
 rust-gstreamer-editing-services-sys
+rust-gstreamer-editing-services-sys0.21
+rust-gstreamer-editing-services0.21
 rust-gstreamer-gl-egl
 rust-gstreamer-gl-egl-sys
+rust-gstreamer-gl-egl-sys0.21
+rust-gstreamer-gl-egl0.21
 rust-gstreamer-gl
 rust-gstreamer-gl-sys
+rust-gstreamer-gl-sys0.21
 rust-gstreamer-gl-wayland
 rust-gstreamer-gl-wayland-sys
+rust-gstreamer-gl-wayland-sys0.21
+rust-gstreamer-gl-wayland0.21
 rust-gstreamer-gl-x11
 rust-gstreamer-gl-x11-sys
+rust-gstreamer-gl-x11-sys0.21
+rust-gstreamer-gl-x11_0.21
+rust-gstreamer-gl0.21
 rust-gstreamer-pbutils
 rust-gstreamer-pbutils-sys
+rust-gstreamer-pbutils-sys0.21
+rust-gstreamer-pbutils0.21
 rust-gstreamer-player
 rust-gstreamer-player-sys
+rust-gstreamer-player-sys0.21
+rust-gstreamer-player0.21
 rust-gstreamer
 rust-gstreamer-sys
+rust-gstreamer-sys0.21
 rust-gstreamer-video
 rust-gstreamer-video-sys
+rust-gstreamer-video-sys0.21
+rust-gstreamer-video0.21
+rust-gstreamer0.21
 rust-gtk
 rust-gtk-sys
 rust-gtk-sys0.15
@@ -10847,8 +10926,11 @@ rust-gtk3-macros
 rust-gtk3-macros0.15
 rust-gtk3-macros0.17
 rust-gtk4-macros
+rust-gtk4-macros0.7
 rust-gtk4
 rust-gtk4-sys
+rust-gtk4-sys0.7
+rust-gtk4_0.7
 rust-gvdb-macros
 rust-gvdb
 rust-gweather-sys
@@ -11026,6 +11108,8 @@ rust-joinery
 rust-joinery2
 rust-josekit
 rust-jpeg-decoder
+rust-jpegxl-rs
+rust-jpegxl-sys
 rust-jql-parser
 rust-jql-runner
 rust-jql
@@ -11080,6 +11164,8 @@ rust-lexiclean
 rust-lexopt
 rust-libadwaita
 rust-libadwaita-sys
+rust-libadwaita-sys0.5
+rust-libadwaita0.5
 rust-libblkid-rs
 rust-libblkid-rs-sys
 rust-libbpf-cargo
@@ -11114,12 +11200,15 @@ rust-liboverdrop
 rust-libpulse-binding
 rust-libpulse-sys
 rust-librsvg
+rust-libseccomp
 rust-libseccomp-sys
 rust-libslirp
 rust-libslirp-sys
 rust-libsodium-sys
 rust-libspa
 rust-libspa-sys
+rust-libspa-sys0.7
+rust-libspa0.7
 rust-libsqlite3-sys
 rust-libssh2-sys
 rust-libsystemd
@@ -11417,13 +11506,17 @@ rust-pancurses0.16
 rust-pangocairo
 rust-pangocairo-sys
 rust-pangocairo-sys0.17
+rust-pangocairo-sys0.18
 rust-pangocairo0.17
+rust-pangocairo0.18
 rust-pango
 rust-pango-sys
 rust-pango-sys0.15
 rust-pango-sys0.17
+rust-pango-sys0.18
 rust-pango0.15
 rust-pango0.17
+rust-pango0.18
 rust-papergrid
 rust-paris
 rust-parking_lot_core
@@ -11455,8 +11548,8 @@ rust-path-slash
 rust-pbkdf2
 rust-pbkdf2_0.10
 rust-pbkdf2_0.11
-rust-pbkdf2_0.9
 rust-pcap
+rust-pcg-mwc
 rust-pci-driver
 rust-pcre2
 rust-pcre2-sys
@@ -11514,12 +11607,12 @@ rust-pipe
 rust-pipe-trait
 rust-pipewire
 rust-pipewire-sys
+rust-pipewire-sys0.7
+rust-pipewire0.7
 rust-pkcs1
 rust-pkcs1_0.2
 rust-pkcs5
-rust-pkcs5_0.3
 rust-pkcs8
-rust-pkcs8_0.7
 rust-pkg-config
 rust-plain
 rust-platform-info
@@ -11568,7 +11661,6 @@ rust-pretty_env_logger
 rust-pretty_env_logger0.4
 rust-pretty-git-prompt
 rust-pretty-hex
-rust-pretty-hex0.3
 rust-prettyplease
 rust-prettytable-rs
 rust-primal-bit
@@ -11592,6 +11684,7 @@ rust-procfs0.9
 rust-proc-macro-crate
 rust-proc-macro-crate0.1
 rust-proc-macro-crate1
+rust-proc-macro-crate2
 rust-proc-macro-error-attr
 rust-proc-macro-error
 rust-proc-macro-hack
@@ -11612,10 +11705,8 @@ rust-proptest
 rust-proptest0.10
 rust-prost-build
 rust-prost-derive
-rust-prost-derive0.8
 rust-prost
 rust-prost-types
-rust-prost0.8
 rust-protobuf-codegen-pure
 rust-protobuf-codegen
 rust-protobuf
@@ -11628,8 +11719,10 @@ rust-ptr_meta_derive
 rust-ptr_meta
 rust-ptyprocess
 rust-publicsuffix
+rust-pulldown-cmark-escape
 rust-pulldown-cmark
 rust-pulldown-cmark0.8
+rust-pulldown-cmark0.9
 rust-pulse
 rust-pure-rust-locales
 rust-pwd
@@ -11716,6 +11809,7 @@ rust-rbspy-ruby-structs
 rust-rbspy
 rust-rbspy-testdata
 rust-rctree
+rust-rctree0.5
 rust-rd-agent-intf
 rust-rd-agent
 rust-rd-hashd-intf
@@ -11729,6 +11823,7 @@ rust-ref-cast
 rust-reference-counted-singleton
 rust-regex-automata
 rust-regex-automata0.1
+rust-regex-cursor
 rust-regex-lite
 rust-regex
 rust-regex-syntax
@@ -11812,6 +11907,7 @@ rust-rustix
 rust-rustix0.37
 rust-rustls-native-certs
 rust-rustls-pemfile
+rust-rustls-pki-types
 rust-rustls
 rust-rustls-webpki
 rust-rustsec
@@ -11847,7 +11943,6 @@ rust-scroll_derive0.11
 rust-scroll
 rust-scroll0.11
 rust-scrypt
-rust-scrypt0.8
 rust-sctk-adwaita
 rust-sct
 rust-scx_layered
@@ -11948,7 +12043,6 @@ rust-sha2
 rust-sha2_0.9
 rust-sha256
 rust-sha3
-rust-sha3_0.9
 rust-shell-escape
 rust-shellexpand
 rust-shellexpand2
@@ -12027,7 +12121,6 @@ rust-spin_on
 rust-spin
 rust-spin0.5
 rust-spki
-rust-spki0.4
 rust-sptr
 rust-spytools
 rust-sscanf_macro
@@ -12182,7 +12275,6 @@ rust-time0.1
 rust-time0.2
 rust-tiny-dfr
 rust-tiny_http
-rust-tiny_http0.6
 rust-tiny-keccak
 rust-tiny-skia-path
 rust-tiny-skia
@@ -12455,8 +12547,6 @@ rust-vec1
 rust-vergen
 rust-version-compare
 rust-version_check
-rust-versionize_derive
-rust-versionize
 rust-version
 rust-version-sync
 rust-version-sync0.8
@@ -12559,9 +12649,13 @@ rust-y4m
 rust-z-base-32
 rust-zbus_macros
 rust-zbus_macros1
+rust-zbus_macros3
 rust-zbus_names
+rust-zbus_names2
 rust-zbus
+rust-zbus_xml
 rust-zbus1
+rust-zbus3
 rust-zerocopy-derive
 rust-zerocopy-derive0.6
 rust-zerocopy
@@ -12583,9 +12677,11 @@ rust-zstd-sys
 rust-zstd0.12
 rust-zvariant_derive
 rust-zvariant_derive2
+rust-zvariant_derive3
 rust-zvariant
 rust-zvariant_utils
 rust-zvariant2
+rust-zvariant3
 rust-z85
 rust2rpm-helper
 rust2rpm
@@ -12939,6 +13035,7 @@ sudo
 suitesparse
 sundials
 sunpinyin
+SuperLU
 supermin
 supertuxkart
 surf-geometry
@@ -13119,6 +13216,7 @@ transfig
 transflac
 translate-shell
 translate-toolkit
+transmission-remote-gtk
 transmission
 transtats-cli
 travelccm
@@ -13129,6 +13227,7 @@ tree-sitter-java
 tree-sitter
 trelby
 tripwire
+trivy
 trojita
 trunk
 trurl
@@ -13175,6 +13274,7 @@ ucs-miscfixed-fonts
 ucx
 udica
 udiskie
+udisks2-qt5
 udisks2
 udis86
 ufdbGuard
@@ -13213,6 +13313,7 @@ unzip
 upower
 upx
 uqm
+urdfdom
 uread
 uresourced
 uriparser
@@ -13260,6 +13361,7 @@ veccore
 vecgeom
 velocity
 verbiste
+verilator
 veristat
 vernnobile-muli-fonts
 vernnobile-nunito-fonts

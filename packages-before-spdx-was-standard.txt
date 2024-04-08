@@ -217,7 +217,6 @@ atari800
 atasm
 aterm
 atf
-atinout
 atkmm2.36
 atmel-firmware
 AtomicParsley
@@ -235,7 +234,6 @@ audacious-plugins
 audacious
 audiotube
 auditwheel
-aunit
 auriferous
 AusweisApp2
 auter
@@ -348,7 +346,6 @@ bitlbee
 bitlbee-steam
 bitmap
 bitstream
-bitstream-vera-fonts
 bkhive
 blackbox
 black-hole-solver
@@ -428,8 +425,6 @@ bygfoot
 byobu
 byteman
 bzflag
-b43-fwcutter
-b43-openfwwf
 b43-tools
 cabextract
 cadaver
@@ -535,6 +530,7 @@ clatd
 clawsker
 claws-mail
 clc
+cldr-emoji-annotation
 cld2
 cleanfeed
 clearlooks-compact-gnome-theme
@@ -676,7 +672,6 @@ creds
 crest
 cri-o
 CriticalMass
-cri-tools
 crm114
 cronolog
 cross-gcc
@@ -1444,9 +1439,9 @@ folks
 folly-rpm-macros
 folly
 fondo
+fontawesome-fonts
 fonts-KOI8-R
 fontsquirrel-crete-round-fonts
-foot
 foremost
 forge-parent
 fortune-firefly
@@ -2003,7 +1998,6 @@ gns3-net-converter
 gns3-server
 gnubik
 gnucap
-gnu-efi
 gnugo
 gnulib
 gnumeric
@@ -3406,7 +3400,6 @@ gopass-jsonapi
 gopass
 gotags
 gotun
-goverlay
 go2rpm
 gparted
 gpaw-setups
@@ -3606,6 +3599,7 @@ ht-alegreya-fonts
 ht-alegreya-sans-fonts
 htmlcxx
 htmltest
+html-xml-utils
 htop
 htppu
 htslib
@@ -3689,7 +3683,6 @@ ignuit
 igt-gpu-tools
 iguanaIR
 ike-scan
-ikiwiki
 ilmbase
 ima-evm-utils
 imagefactory-plugins
@@ -4129,7 +4122,6 @@ ktikz
 ktimer
 ktorrent
 ktouch
-ktp-contact-runner
 ktp-desktop-applets
 ktrip
 kturtle
@@ -5318,7 +5310,6 @@ mpdris2
 mpdscribble
 mpibash
 mplus-fonts
-mpop
 mppenc
 mpqc
 mpris-scrobbler
@@ -6329,6 +6320,7 @@ perl-Exception-Tiny
 perl-Export-Attrs
 perl-Exporter-Easy
 perl-Exporter-Lite
+perl-ExtUtils-CppGuess
 perl-ExtUtils-F77
 perl-ExtUtils-H2PM
 perl-ExtUtils-LibBuilder
@@ -6835,7 +6827,6 @@ perl-PatchReader
 perl-PBKDF2-Tiny
 perl-PDF-Builder
 perl-PDF-Create
-perl-PDF-Haru
 perl-PDL
 perl-Pegex
 perl-Perlbal-XS-HTTPHeaders
@@ -7664,6 +7655,7 @@ plymouth-theme-hot-dog
 pmount
 pnglite
 pocketsphinx
+pocl
 poco
 po-debconf
 podman-tui
@@ -7699,7 +7691,6 @@ postgrey
 postproof
 postsrsd
 pothana2000-fonts
-powdertoy
 poweradmin
 powerdevil
 powerline-go
@@ -8084,6 +8075,7 @@ python-b4
 python-CacheControl
 python-cached_property
 python-cachy
+python-cairocffi
 python-cairosvg
 python-caja
 python-can
@@ -8747,6 +8739,7 @@ python-mmtf
 python-mne-bids
 python-mnemonic
 python-mockito
+python-mock
 python-mock-ssh-server
 python-modernize
 python-modestmaps
@@ -9286,7 +9279,6 @@ python-scripttest
 python-scrypt
 python-scss
 python-seaborn
-python-SecretStorage
 python-secure_cookie
 python-semantic_version
 python-send2trash
@@ -9592,7 +9584,6 @@ python-wxpython4
 python-w3lib
 python-xapp
 python-xarray
-python-xbout
 python-xboxapi
 python-xdot
 python-xeddsa
@@ -9853,7 +9844,6 @@ ranger
 R-AnnotationDbi
 rapid-photo-downloader
 rapidsvn
-raptor
 raptor2
 R-argon2
 rarpd
@@ -10017,7 +10007,6 @@ R-filehash
 R-filelock
 R-FMStable
 R-foghorn
-R-fontBitstreamVera
 R-fontLiberation
 R-forcats
 R-foreach
@@ -10721,7 +10710,6 @@ rust-derive_builder0.9
 rust-der
 rust-desed
 rust-des
-rust-des0.7
 rust-deunicode
 rust-devicemapper
 rust-devicemapper-sys
@@ -11191,10 +11179,8 @@ rust-proptest
 rust-proptest0.10
 rust-prost-build
 rust-prost-derive
-rust-prost-derive0.8
 rust-prost
 rust-prost-types
-rust-prost0.8
 rust-psa-crypto
 rust-psa-crypto-sys
 rust-psl-types
@@ -11453,7 +11439,6 @@ rust-time
 rust-time0.1
 rust-time0.2
 rust-tiny_http
-rust-tiny_http0.6
 rust-tiny-keccak
 rust-tiny-skia
 rust-tinystr
@@ -12036,7 +12021,6 @@ sunxi-tools
 supercollider
 superlu_dist
 SuperLUMT
-SuperLU
 supertux
 supervisor
 surfraw
@@ -12142,7 +12126,6 @@ telepathy-accounts-signon
 telepathy-farstream
 telepathy-gabble
 telepathy-idle
-telepathy-logger-qt
 telepathy-logger
 telepathy-mission-control
 telepathy-salut
@@ -12333,7 +12316,6 @@ ucpp
 ucviewer
 udftools
 udisks
-udisks2-qt5
 udns
 udpcast
 udpxy
@@ -12452,7 +12434,6 @@ vdr-tvguide
 vdr-vnsiserver
 vecmath1.2
 vemana2000-fonts
-verilator
 verne-backgrounds
 verne-kde-theme
 vernnobile-muli-fonts

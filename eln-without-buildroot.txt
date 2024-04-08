@@ -10,7 +10,6 @@ PEGTL
 PackageKit
 PyYAML
 SDL2
-SDL2_ttf
 WALinuxAgent
 Xaw3d
 a52dec
@@ -128,7 +127,6 @@ chrpath
 cifs-utils
 cim-schema
 cjose
-cjson
 clang
 clang17
 cldr-emoji-annotation
@@ -150,7 +148,6 @@ compat-locales-sap
 compiler-rt
 composefs
 conmon
-conntrack-tools
 console-login-helper-messages
 container-selinux
 container-tools
@@ -425,6 +422,7 @@ hdparm
 help2man
 hexedit
 hicolor-icon-theme
+highway
 hivex
 host-verification-service
 hostapd
@@ -639,7 +637,6 @@ iperf3
 ipmitool
 iproute
 iprutils
-ipset
 iptables
 iptraf-ng
 iputils
@@ -664,7 +661,6 @@ jakarta-oro
 jansi
 jansson
 jasper
-java-11-openjdk
 java-21-openjdk
 javapackages-tools
 jaxb
@@ -682,6 +678,7 @@ jitterentropy
 jna
 jomolhari-fonts
 jose
+jpegxl
 jq
 js-d3-flame-graph
 jsch
@@ -850,12 +847,10 @@ liblockfile
 liblognorm
 liblouis
 libmad
-libmatchbox
 libmaxminddb
 libmbim
 libmemcached-awesome
 libmicrohttpd
-libmng
 libmnl
 libmodulemd
 libmpc
@@ -866,9 +861,6 @@ libnbd
 libndp
 libnet
 libnetfilter_conntrack
-libnetfilter_cthelper
-libnetfilter_cttimeout
-libnetfilter_queue
 libnfnetlink
 libnftnl
 libnl3
@@ -969,6 +961,7 @@ libwebp
 libwnck3
 libxcb
 libxcrypt
+libxcrypt-epel
 libxcvt
 libxkbcommon
 libxkbfile
@@ -1035,7 +1028,6 @@ mariadb-connector-odbc
 mariadb-java-client
 mariadb10.11
 marshalparser
-matchbox-window-manager
 maven
 maven-resolver
 maven-shared-utils
@@ -1104,7 +1096,6 @@ ndctl
 net-snmp
 net-tools
 netavark
-netlabel_tools
 netpbm
 nettle
 network-manager-applet
@@ -1316,6 +1307,7 @@ perl-Module-Signature
 perl-Mozilla-CA
 perl-NTLM
 perl-Net-HTTP
+perl-Net-IP
 perl-Net-Ping
 perl-Net-SNMP
 perl-Net-SSLeay
@@ -1529,7 +1521,6 @@ python-markupsafe
 python-meh
 python-netaddr
 python-netifaces
-python-networkx
 python-oauthlib
 python-packaging
 python-pefile
@@ -1552,8 +1543,6 @@ python-pycurl
 python-pygit2
 python-pygments
 python-pyproject-hooks
-python-pyqt6
-python-pyqt6-sip
 python-pyudev
 python-qrcode
 python-referencing
@@ -1597,7 +1586,6 @@ python3.12
 pyusb
 pywbem
 pyxdg
-qadwaitadecorations
 qatengine
 qatlib
 qatzip
@@ -1605,36 +1593,15 @@ qclib
 qemu-kvm
 qpdf
 qt6
-qt6-qt3d
 qt6-qt5compat
 qt6-qtbase
-qt6-qtcharts
-qt6-qtconnectivity
-qt6-qtdatavis3d
 qt6-qtdeclarative
-qt6-qtimageformats
-qt6-qtlanguageserver
-qt6-qtlocation
-qt6-qtlottie
 qt6-qtmultimedia
-qt6-qtnetworkauth
-qt6-qtpositioning
 qt6-qtquick3d
 qt6-qtquicktimeline
-qt6-qtremoteobjects
 qt6-qtscxml
-qt6-qtsensors
-qt6-qtserialbus
-qt6-qtserialport
 qt6-qtshadertools
-qt6-qtspeech
 qt6-qtsvg
-qt6-qttools
-qt6-qttranslations
-qt6-qtvirtualkeyboard
-qt6-qtwayland
-qt6-qtwebchannel
-qt6-qtwebsockets
 quota
 radvd
 rasdaemon
@@ -1733,8 +1700,6 @@ sed
 selinux-policy
 servicelog
 setools
-setroubleshoot
-setroubleshoot-plugins
 setserial
 setup
 setxkbmap
@@ -1873,7 +1838,6 @@ unixODBC
 unzip
 upower
 uresourced
-uriparser
 urlview
 urw-base35-fonts
 usb_modeswitch
@@ -1889,6 +1853,8 @@ util-linux
 uuid
 v4l-utils
 valgrind
+varnish
+varnish-modules
 vazirmatn-fonts
 vdo
 vhostmd
