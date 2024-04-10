@@ -20,8 +20,8 @@ BuildRequires:  asciidoc
 BuildRequires:  libxslt
 
 # for test
-BuildRequires:  python3dist(lark-parser)
-Requires:       python3dist(lark-parser)
+BuildRequires:  (python3dist(lark) or python3dist(lark-parser))
+Requires:       (python3dist(lark) or python3dist(lark-parser))
 
 
 %description
