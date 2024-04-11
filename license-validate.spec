@@ -1,6 +1,6 @@
 Name:           license-validate
-Version:        22
-Release:        3%{?dist}
+Version:        23
+Release:        1%{?dist}
 Summary:        Validate SPEC license string
 
 License:        MIT
@@ -66,6 +66,9 @@ install -m644 license-fedora2spdx.1 %{buildroot}/%{_mandir}/man1/
 
 
 %changelog
+* Thu Apr 11 2024 Miroslav Suchý <msuchy@redhat.com> 23-1
+- lark-parser was renamed to lark, allow both
+
 * Thu Jan 25 2024 Fedora Release Engineering <releng@fedoraproject.org> - 22-3
 - Rebuilt for https://fedoraproject.org/wiki/Fedora_40_Mass_Rebuild
 
