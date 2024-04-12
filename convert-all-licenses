@@ -1,6 +1,6 @@
 #!/usr/bin/bash
 
-LICENSE='Bitstream Vera'
+LICENSE='EUPL 1.2'
 ### Takes list of packages as positional argument
 
 
@@ -9,7 +9,9 @@ for line in $(cat $1); do
         fedpkg clone "$line"
         cd "$line"
         /home/msuchy/projects/license-validate/convert-spec.py "$line.spec" "$LICENSE"
-        git commit -a -m "convert $LICENSE license to SPDX"
+        git commit -a -m "convert $LICENSE license to SPDX
+
+This is part of https://fedoraproject.org/wiki/Changes/SPDX_Licenses_Phase_4"
         git show
         echo "Check commit. Do git-push and hit Ctrl+D when you are done"
         bash
