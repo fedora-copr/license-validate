@@ -2271,7 +2271,6 @@ fdr
 fdupes
 featherpad
 fedfind
-fedmod
 fedmsg
 fedora-appstream-metadata
 fedora-autofirstboot
@@ -2326,6 +2325,7 @@ fex
 ffcall
 fflas-ffpack
 ffmpeg
+ffmpegthumbnailer
 ffmpegthumbs
 ffsb
 fftw
@@ -2682,6 +2682,7 @@ gap-pkg-fining
 gap-pkg-float
 gap-pkg-format
 gap-pkg-forms
+gap-pkg-fplsa
 gap-pkg-francy
 gap-pkg-fr
 gap-pkg-gbnp
@@ -4589,7 +4590,6 @@ golang-github-jcmturner-goidentity
 golang-github-jcmturner-gokrb5
 golang-github-jcmturner-rpc
 golang-github-jdkato-prose
-golang-github-jedib0t-pretty
 golang-github-jedib0t-pretty-6
 golang-github-jedisct1-clocksmith
 golang-github-jedisct1-dlog
@@ -5559,13 +5559,16 @@ google-authenticator
 google-auth-httplib2
 google-benchmark
 google-carlito-fonts
+google-compute-engine-guest-configs
 google-compute-engine-oslogin
 google-cpu_features
 google-crc32c
 google-croscore-fonts
 google-crosextra-caladea-fonts
+google-disk-expand
 google-droid-fonts
 google-gson
+google-guest-agent
 google-guice
 google-noto-emoji-fonts
 google-noto-fonts
@@ -5574,6 +5577,7 @@ google-noto-sans-cjk-subset-fonts
 google-noto-sans-cjk-vf-fonts
 google-noto-serif-cjk-fonts
 google-noto-serif-cjk-vf-fonts
+google-osconfig-agent
 google-roboto-fonts
 google-roboto-mono-fonts
 google-roboto-slab-fonts
@@ -7433,7 +7437,6 @@ libcuefile
 libcue
 libcupsfilters
 libcutl
-libcxl
 libcxx
 libcyaml
 libdaemon
@@ -8277,7 +8280,6 @@ linux-thermaltake-rgb
 linux-user-chroot
 liquidctl
 liquid-dsp
-liquidshell
 liquidwar
 lirc
 lis
@@ -9188,6 +9190,7 @@ mmlib
 mmsd-tng
 mmseq
 mm
+mmtests
 mmtf-cpp
 mmv
 mm3d
@@ -11552,7 +11555,6 @@ perl-GIS-Distance-Fast
 perl-GIS-Distance
 perl-Git-CPAN-Patch
 perl-GitLab-API-v4
-perl-Git-PurePerl
 perl-Git-Repository-Plugin-AUTOLOAD
 perl-Git-Repository
 perl-Git-Version-Compare
@@ -12347,7 +12349,6 @@ perl-Net-FTP-AutoReconnect
 perl-Net-FTP-RetrHandle
 perl-Net-FTPServer
 perl-Net-FTPSSL
-perl-Net-GitHub
 perl-Net-GPSD
 perl-Net-HTTP
 perl-Net-IDN-Encode
@@ -12817,10 +12818,8 @@ perl-Specio
 perl-Spellunker
 perl-Spiffy
 perl-Spoon
-perl-Spreadsheet-ParseExcel-Simple
 perl-Spreadsheet-ParseExcel
 perl-Spreadsheet-ParseXLSX
-perl-Spreadsheet-WriteExcel-Simple
 perl-Spreadsheet-WriteExcel
 perl-Spreadsheet-XLSX
 perl-SQL-Abstract-Classic
@@ -12854,7 +12853,6 @@ perl-String-CamelCase
 perl-String-Compare-ConstantTime
 perl-String-Copyright
 perl-String-CRC32
-perl-String-Diff
 perl-String-Dirify
 perl-String-Errf
 perl-String-Escape
@@ -13793,7 +13791,6 @@ php-phplang-scope-exit
 php-phpmailer6
 php-PHPParser
 php-phpseclib
-php-phpSmug
 php-phpspec-prophecy-phpunit
 php-phpspec-prophecy
 php-phpunit-git
@@ -14163,6 +14160,7 @@ postgresql15
 postgresql16-decoderbufs
 postgresql16-pgaudit
 postgresql16-pg_repack
+postgresql16-pgvector
 postgresql16
 postgrey
 postproof
@@ -18160,6 +18158,7 @@ rpm-ostree
 rpmreaper
 rpmrebuild
 rpm
+rpm-spec-language-server
 rpmspectool
 R-png
 R-poLCA
@@ -18894,7 +18893,6 @@ rust-asahi-wifisync
 rust-ascii-canvas
 rust-ascii
 rust-ashpd
-rust-ashpd0.6
 rust-askalono-cli
 rust-askalono
 rust-askama_derive
@@ -19230,7 +19228,6 @@ rust-cpc
 rust-cpio
 rust-cpp_demangle
 rust-cpufeatures
-rust-cpython
 rust-crates-io
 rust-crc-catalog
 rust-crc
@@ -19631,12 +19628,8 @@ rust-gdk4-sys
 rust-gdk4-sys0.7
 rust-gdk4-wayland
 rust-gdk4-wayland-sys
-rust-gdk4-wayland-sys0.7
-rust-gdk4-wayland0.7
 rust-gdk4-x11
 rust-gdk4-x11-sys
-rust-gdk4-x11-sys0.7
-rust-gdk4-x11_0.7
 rust-gdk4_0.7
 rust-generic-array
 rust-generic-array0.12
@@ -19787,46 +19780,30 @@ rust-gst-plugin-version-helper
 rust-gstreamer-audio
 rust-gstreamer-audio-sys
 rust-gstreamer-audio-sys0.21
-rust-gstreamer-audio0.21
 rust-gstreamer-base
 rust-gstreamer-base-sys
 rust-gstreamer-base-sys0.21
 rust-gstreamer-base0.21
 rust-gstreamer-editing-services
 rust-gstreamer-editing-services-sys
-rust-gstreamer-editing-services-sys0.21
-rust-gstreamer-editing-services0.21
 rust-gstreamer-gl-egl
 rust-gstreamer-gl-egl-sys
-rust-gstreamer-gl-egl-sys0.21
-rust-gstreamer-gl-egl0.21
 rust-gstreamer-gl
 rust-gstreamer-gl-sys
-rust-gstreamer-gl-sys0.21
 rust-gstreamer-gl-wayland
 rust-gstreamer-gl-wayland-sys
-rust-gstreamer-gl-wayland-sys0.21
-rust-gstreamer-gl-wayland0.21
 rust-gstreamer-gl-x11
 rust-gstreamer-gl-x11-sys
-rust-gstreamer-gl-x11-sys0.21
-rust-gstreamer-gl-x11_0.21
-rust-gstreamer-gl0.21
 rust-gstreamer-pbutils
 rust-gstreamer-pbutils-sys
-rust-gstreamer-pbutils-sys0.21
-rust-gstreamer-pbutils0.21
 rust-gstreamer-player
 rust-gstreamer-player-sys
-rust-gstreamer-player-sys0.21
-rust-gstreamer-player0.21
 rust-gstreamer
 rust-gstreamer-sys
 rust-gstreamer-sys0.21
 rust-gstreamer-video
 rust-gstreamer-video-sys
 rust-gstreamer-video-sys0.21
-rust-gstreamer-video0.21
 rust-gstreamer0.21
 rust-gtk
 rust-gtk-sys
@@ -19859,6 +19836,7 @@ rust-hashbrown0.12
 rust-hashbrown0.13
 rust-hashbrown0.9
 rust-hashlink
+rust-hashlink0.8
 rust-hash32-derive
 rust-hash32
 rust-hash32_0.2
@@ -19896,6 +19874,7 @@ rust-html5ever
 rust-httparse
 rust-http-auth
 rust-http-body
+rust-http-body0.4
 rust-httpdate
 rust-http-range-header
 rust-http
@@ -20123,6 +20102,7 @@ rust-libspa-sys
 rust-libspa-sys0.7
 rust-libspa0.7
 rust-libsqlite3-sys
+rust-libsqlite3-sys0.25
 rust-libssh2-sys
 rust-libsystemd
 rust-libtest-mimic
@@ -20451,7 +20431,6 @@ rust-partition-identity0.2
 rust-pasetors
 rust-passwd
 rust-password-hash
-rust-password-hash0.3
 rust-password-hash0.4
 rust-paste
 rust-path-absolutize
@@ -20462,7 +20441,6 @@ rust-pathfinder_simd
 rust-pathsearch
 rust-path-slash
 rust-pbkdf2
-rust-pbkdf2_0.10
 rust-pbkdf2_0.11
 rust-pcap
 rust-pcg-mwc
@@ -20657,7 +20635,6 @@ rust-pyproject-toml
 rust-pythonize
 rust-python-launcher
 rust-python-pkginfo
-rust-python3-sys
 rust-p384
 rust-qoi
 rust-qstring
@@ -20802,6 +20779,7 @@ rust-rtnetlink
 rust-rtoolbox
 rust-run_script
 rust-rusqlite
+rust-rusqlite0.28
 rust-rustbus_derive
 rust-rustbus
 rust-rustcat
@@ -20815,8 +20793,11 @@ rust-rustdct
 rust-rust_decimal_macros
 rust-rust_decimal
 rust-rust-embed-impl
+rust-rust-embed-impl6
 rust-rust-embed
 rust-rust-embed-utils
+rust-rust-embed-utils7
+rust-rust-embed6
 rust-rustfft
 rust-rustfix
 rust-rust-ini
@@ -20847,7 +20828,6 @@ rust-safemem
 rust-safetensors
 rust-safe-transmute
 rust-salsa20
-rust-salsa20_0.9
 rust-same-file
 rust-sanitize-filename
 rust-sarif-fmt
@@ -22978,6 +22958,7 @@ util-linux
 utop
 utox
 utrac
+ut
 uucp
 uudeview
 uuid
@@ -23001,6 +22982,7 @@ vala-language-server
 vala
 valeronoi
 valgrind
+valkey
 valkyrie
 vamp-plugin-sdk
 vanityhash

@@ -1,3 +1,4 @@
+chordpro
 cleanfeed
 libkdtree++
 R-AnnotationDbi
@@ -6,6 +7,7 @@ mingw-ftplib
 nicstat
 perl-Test-Bits
 perl-MaxMind-DB-Common
+perl-MaxMind-DB-Reader-XS
 perl-SQL-Abstract-Pg
 R-MatrixGenerics
 perl-Applify
@@ -13,14 +15,17 @@ perl-App-SVN-Bisect
 perl-App-SVN-Bisect
 perl-Business-ISSN
 perl-Crypt-PWSafe3
+perl-Dancer-Plugin-Database-Core
 perl-Dist-Zilla-Plugin-Config-Git
 perl-File-Next
 perl-Flickr-API
 perl-Ham-Reference-QRZ
+perl-HTML-FormatText-WithLinks-AndTables
 perl-HTTP-Tiny-Multipart
 perl-Inline-CPP
 perl-IPTables-ChainMgr
 perl-IPTables-Parse
+perl-JSON-Validator
 perl-Log-Agent
 perl-Mango
 perl-Minion-Backend-SQLite
@@ -33,8 +38,10 @@ perl-Mojo-Pg
 perl-Mojo-SQLite
 perl-MojoX-JSON-RPC
 perl-MooseX-ClassAttribute
+perl-MooseX-SemiAffordanceAccessor
 perl-Parse-CPAN-Distributions
 perl-Perl-Critic-Bangs
+perl-Razor-Agent
 perl-Set-Object
 perl-STD
 perl-Test-PostgreSQL
@@ -43,6 +50,8 @@ perl-Text-Context-EitherSide
 perl-Text-SimpleTable
 perl-Tie-Cycle
 perl-Unix-Groups-FFI
+perl-Unix-Groups-FFI
+perl-WWW-Shorten
 pv
 R-restfulr
 R-KEGGREST
@@ -64,9 +73,11 @@ R-matrixStats
 rpmgrill
 R-Rsamtools
 R-Rsolid
+R-S4Vectors
 R-SummarizedExperiment
 R-tkWidgets
 R-BiocIO
+R-XVector
 smaclient
 xxkb
 R-BiocFileCache

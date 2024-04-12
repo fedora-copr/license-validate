@@ -956,6 +956,7 @@ dtkcommon
 dtkcore
 dtkgui
 dtkwidget
+duf
 duktape
 dump
 dunst
@@ -1134,6 +1135,7 @@ fetchmail
 ffcall
 fflas-ffpack
 ffmpeg
+ffmpegthumbnailer
 ffmpegthumbs
 fftw
 fido-device-onboard
@@ -1327,6 +1329,7 @@ gap-pkg-fining
 gap-pkg-float
 gap-pkg-format
 gap-pkg-forms
+gap-pkg-fplsa
 gap-pkg-francy
 gap-pkg-fr
 gap-pkg-gbnp
@@ -2786,10 +2789,13 @@ google-api-python-client
 google-auth-httplib2
 google-benchmark
 google-carlito-fonts
+google-compute-engine-guest-configs
 google-crc32c
 google-croscore-fonts
 google-crosextra-caladea-fonts
+google-disk-expand
 google-droid-fonts
+google-guest-agent
 google-guice
 google-noto-emoji-fonts
 google-noto-fonts
@@ -2798,6 +2804,7 @@ google-noto-sans-cjk-subset-fonts
 google-noto-sans-cjk-vf-fonts
 google-noto-serif-cjk-fonts
 google-noto-serif-cjk-vf-fonts
+google-osconfig-agent
 google-roboto-fonts
 google-roboto-mono-fonts
 google-roboto-slab-fonts
@@ -3332,6 +3339,7 @@ iptraf-ng
 iputils
 ipvsadm
 ipxe
+ipython
 irqbalance
 irssi
 isa-l
@@ -3933,7 +3941,6 @@ libcss
 libcsv
 libcuefile
 libcupsfilters
-libcxl
 libcyaml
 libdaemon
 libdap
@@ -4290,6 +4297,7 @@ libsv
 libtalloc
 libtasn1
 libtbox
+libtcd
 libtdb
 libteam
 libtevent
@@ -4369,6 +4377,7 @@ libXi
 libxkbcommon
 libxkbfile
 libxklavier
+libxlsxwriter
 libxmlb
 libxml++
 libxml2
@@ -4426,7 +4435,6 @@ linux-libertine-fonts
 linuxptp
 linux-sysinfo-snapshot
 liquidctl
-liquidshell
 liquidwar
 litehtml
 lite-xl
@@ -4568,6 +4576,7 @@ maildir-utils
 maildrop
 mailimporter
 mailman3-fedmsg-plugin-schemas
+mailman3-fedmsg-plugin
 mailman3
 mail-notification
 mailprocessing
@@ -4865,6 +4874,7 @@ mmc-utils
 mmg
 mmlib
 mmsd-tng
+mmtests
 mmv
 moarvm
 mobile-broadband-provider-info
@@ -4905,6 +4915,7 @@ moodle
 moodycamel-concurrentqueue
 moolticute
 mooltipass-udev
+mopac7
 morphio
 mot-adms
 motoya-lcedar-fonts
@@ -5082,6 +5093,7 @@ NiaAML-GUI
 nicotine+
 ninja-build
 nispor
+nitrogen
 nkf
 nmap
 nml
@@ -5093,6 +5105,7 @@ nodejs-cjs-module-lexer
 nodejs-nodemon
 nodejs-pnpm
 nodejs-undici
+nodejs18
 nodejs20
 nomarch
 nom-tam-fits
@@ -5516,6 +5529,7 @@ pari-nftables
 pari-seadata
 pari
 parlaylib
+parsec
 parserng
 parsertl17
 par
@@ -5755,6 +5769,7 @@ perl-Class-Tiny
 perl-Class-Trigger
 perl-Class-Unload
 perl-Class-XSAccessor
+perl-Clipboard
 perl-Clone-Choose
 perl-Clone-PP
 perl-Clone
@@ -5890,6 +5905,7 @@ perl-Data-HexDump-XXD
 perl-Data-ICal
 perl-Data-ICal-TimeZone
 perl-Data-MessagePack
+perl-Data-Munge
 perl-Data-OptList
 perl-Data-Page-Pageset
 perl-Data-Password-zxcvbn
@@ -6695,6 +6711,7 @@ perl-Net-SSH2
 perl-Net-SSLeay
 perl-Net-Stomp
 perl-Net-Telnet
+perl-Net-Whois-Raw
 perl-Net-XMPP
 perl-Nmap-Parser
 perl-NNTPClient
@@ -7290,10 +7307,12 @@ perl-Unicode-Normalize
 perl-Unicode-UTF8
 perl-UNIVERSAL-moniker
 perl-UNIVERSAL-require
+perl-Unix-Groups-FFI
 perl-Unix-Mknod
 perl-Unix-Statgrab
 perl-Unix-Syslog
 perl-URI-cpan
+perl-URI-db
 perl-URI-Fetch
 perl-URI-Find-Simple
 perl-URI-NamespaceMap
@@ -7418,6 +7437,7 @@ php-pear-Console-Getargs
 php-pear-Mail-Mime
 php-pear-Mail
 php-pear-Net-IMAP
+php-pear-Net-Sieve
 php-pear-Net-SMTP
 php-pear-Net-Socket
 php-pear
@@ -7688,6 +7708,7 @@ postgresql15
 postgresql16-decoderbufs
 postgresql16-pgaudit
 postgresql16-pg_repack
+postgresql16-pgvector
 postgresql16
 potrace
 povray
@@ -8887,6 +8908,7 @@ python-six
 python-sklearn-genetic
 python-sklearn-nature-inspired-algorithms
 python-slackclient
+python-slacker
 python-smartcols
 python-smartypants
 python-smbc
@@ -9357,6 +9379,7 @@ realmd
 realtime-setup
 realtime-tests
 rear
+rebase-helper
 receptor
 recode
 redhat-fonts
@@ -9474,6 +9497,7 @@ rpm-mpi-hooks
 rpm-ostree
 rpmreaper
 rpm
+rpm-spec-language-server
 rpmspectool
 rp-pppoe
 rpy
@@ -9986,7 +10010,6 @@ rust-asahi-wifisync
 rust-ascii-canvas
 rust-ascii
 rust-ashpd
-rust-ashpd0.6
 rust-askalono-cli
 rust-askalono
 rust-askama_derive
@@ -10320,7 +10343,6 @@ rust-cpc
 rust-cpio
 rust-cpp_demangle
 rust-cpufeatures
-rust-cpython
 rust-crates-io
 rust-crc-catalog
 rust-crc
@@ -10720,12 +10742,8 @@ rust-gdk4-sys
 rust-gdk4-sys0.7
 rust-gdk4-wayland
 rust-gdk4-wayland-sys
-rust-gdk4-wayland-sys0.7
-rust-gdk4-wayland0.7
 rust-gdk4-x11
 rust-gdk4-x11-sys
-rust-gdk4-x11-sys0.7
-rust-gdk4-x11_0.7
 rust-gdk4_0.7
 rust-generic-array
 rust-generic-array0.12
@@ -10875,46 +10893,30 @@ rust-gst-plugin-version-helper
 rust-gstreamer-audio
 rust-gstreamer-audio-sys
 rust-gstreamer-audio-sys0.21
-rust-gstreamer-audio0.21
 rust-gstreamer-base
 rust-gstreamer-base-sys
 rust-gstreamer-base-sys0.21
 rust-gstreamer-base0.21
 rust-gstreamer-editing-services
 rust-gstreamer-editing-services-sys
-rust-gstreamer-editing-services-sys0.21
-rust-gstreamer-editing-services0.21
 rust-gstreamer-gl-egl
 rust-gstreamer-gl-egl-sys
-rust-gstreamer-gl-egl-sys0.21
-rust-gstreamer-gl-egl0.21
 rust-gstreamer-gl
 rust-gstreamer-gl-sys
-rust-gstreamer-gl-sys0.21
 rust-gstreamer-gl-wayland
 rust-gstreamer-gl-wayland-sys
-rust-gstreamer-gl-wayland-sys0.21
-rust-gstreamer-gl-wayland0.21
 rust-gstreamer-gl-x11
 rust-gstreamer-gl-x11-sys
-rust-gstreamer-gl-x11-sys0.21
-rust-gstreamer-gl-x11_0.21
-rust-gstreamer-gl0.21
 rust-gstreamer-pbutils
 rust-gstreamer-pbutils-sys
-rust-gstreamer-pbutils-sys0.21
-rust-gstreamer-pbutils0.21
 rust-gstreamer-player
 rust-gstreamer-player-sys
-rust-gstreamer-player-sys0.21
-rust-gstreamer-player0.21
 rust-gstreamer
 rust-gstreamer-sys
 rust-gstreamer-sys0.21
 rust-gstreamer-video
 rust-gstreamer-video-sys
 rust-gstreamer-video-sys0.21
-rust-gstreamer-video0.21
 rust-gstreamer0.21
 rust-gtk
 rust-gtk-sys
@@ -10947,6 +10949,7 @@ rust-hashbrown0.12
 rust-hashbrown0.13
 rust-hashbrown0.9
 rust-hashlink
+rust-hashlink0.8
 rust-hash32-derive
 rust-hash32
 rust-hash32_0.2
@@ -10984,6 +10987,7 @@ rust-html5ever
 rust-httparse
 rust-http-auth
 rust-http-body
+rust-http-body0.4
 rust-httpdate
 rust-http-range-header
 rust-http
@@ -11210,6 +11214,7 @@ rust-libspa-sys
 rust-libspa-sys0.7
 rust-libspa0.7
 rust-libsqlite3-sys
+rust-libsqlite3-sys0.25
 rust-libssh2-sys
 rust-libsystemd
 rust-libtest-mimic
@@ -11535,7 +11540,6 @@ rust-partition-identity0.2
 rust-pasetors
 rust-passwd
 rust-password-hash
-rust-password-hash0.3
 rust-password-hash0.4
 rust-paste
 rust-path-absolutize
@@ -11546,7 +11550,6 @@ rust-pathfinder_simd
 rust-pathsearch
 rust-path-slash
 rust-pbkdf2
-rust-pbkdf2_0.10
 rust-pbkdf2_0.11
 rust-pcap
 rust-pcg-mwc
@@ -11883,6 +11886,7 @@ rust-rtnetlink
 rust-rtoolbox
 rust-run_script
 rust-rusqlite
+rust-rusqlite0.28
 rust-rustbus_derive
 rust-rustbus
 rust-rustcat
@@ -11896,8 +11900,11 @@ rust-rustdct
 rust-rust_decimal_macros
 rust-rust_decimal
 rust-rust-embed-impl
+rust-rust-embed-impl6
 rust-rust-embed
 rust-rust-embed-utils
+rust-rust-embed-utils7
+rust-rust-embed6
 rust-rustfft
 rust-rustfix
 rust-rust-ini
@@ -11928,7 +11935,6 @@ rust-safemem
 rust-safetensors
 rust-safe-transmute
 rust-salsa20
-rust-salsa20_0.9
 rust-same-file
 rust-sanitize-filename
 rust-sarif-fmt
@@ -12990,6 +12996,7 @@ srpc
 srt
 sscg
 ssh-audit
+sshguard
 ssldump
 sssd
 stalld
@@ -13108,6 +13115,7 @@ tbb
 tbb2020.3
 tboot
 tcalc
+tcd-utils
 tcl-snack
 tcl
 tcl-trf
@@ -13342,12 +13350,14 @@ uthash
 util-linux
 utop
 utrac
+ut
 uuid
 uxplay
 vala-language-server
 vala
 valeronoi
 valgrind
+valkey
 varnish-modules
 varnish
 vazirmatn-fonts
@@ -13411,6 +13421,7 @@ volpack
 volume_key
 voms-api-java
 voms
+voro++
 vorta
 vrms-rpm
 vrpn
