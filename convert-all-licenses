@@ -1,6 +1,6 @@
 #!/usr/bin/bash
 
-LICENSE='EUPL 1.2'
+LICENSE='ZPLv2.1'
 ### Takes list of packages as positional argument
 
 
@@ -13,7 +13,8 @@ for line in $(cat $1); do
 
 This is part of https://fedoraproject.org/wiki/Changes/SPDX_Licenses_Phase_4"
         git show
-        echo "Check commit. Do git-push and hit Ctrl+D when you are done"
-        bash
+        #echo "Check commit. Hit Ctrl+D when you are ready. git-push will be done automatically"
+        #bash
+        git push
 done
 

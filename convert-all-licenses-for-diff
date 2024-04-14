@@ -1,10 +1,11 @@
 #!/usr/bin/bash
 
-LICENSE='Artistic 2.0'
+LICENSE='ASL 1.0'
 ### Takes list of packages as positional argument
 
 
 while read line; do
+        echo $line
         ./convert-spec.py "rpm-specs/$line.spec" "$LICENSE"
 done < "$1"
 
