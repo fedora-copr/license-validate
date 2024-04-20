@@ -226,7 +226,6 @@ delve
 desktop-file-utils
 device-mapper-multipath
 device-mapper-persistent-data
-dhcp
 dhcpcd
 dialog
 diffstat
@@ -281,6 +280,7 @@ elfutils
 elinks
 emacs
 emacs-auctex
+emacs-filesystem
 enchant2
 enscript
 environment-modules
@@ -1269,7 +1269,6 @@ nftables
 nghttp2
 nginx
 ninja-build
-nispor
 nmap
 nmstate
 nodejs-cjs-module-lexer
@@ -2065,6 +2064,7 @@ rust
 rust-afterburn
 rust-bootupd
 rust-coreos-installer
+rust-packaging
 rust-prefixdevname
 rust-rpm-sequoia
 rust-sevctl

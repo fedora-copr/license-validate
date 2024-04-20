@@ -21,6 +21,7 @@ ack
 acpica-tools
 acpi
 acpitool
+activemq-cpp
 act
 adanaxisgpl
 adapt
@@ -528,7 +529,6 @@ bpytop
 braille-printer-app
 brainfuck
 brasero
-brazil
 breakid
 breeze-gtk
 breeze-icon-theme
@@ -1047,7 +1047,6 @@ dblatex
 dbus-broker
 dbus-c++
 dbus-glib
-dbus-parsec
 dbus-python
 dbus-qt3
 dbus-sharp-glib
@@ -1186,7 +1185,6 @@ directory-maven-plugin
 direnv
 direwolf
 dirgra
-dirvish
 disciplining-minipod
 discount
 diskimage-builder
@@ -1270,6 +1268,7 @@ domtt
 dom4j
 dontpanic
 dosbox-staging
+dotconf
 dotnet6.0
 dotnet8.0
 dot2tex
@@ -1378,7 +1377,6 @@ ec2-metadata
 edac-utils
 edflib
 edgar
-edg-gridftp-client
 edg-mkgridmap
 edid-decode
 editline
@@ -1446,6 +1444,7 @@ emacs-dash
 emacs-deferred
 emacs-epc
 emacs-epl
+emacs-filesystem
 emacs-f
 emacs-goodies
 emacs-hcl-mode
@@ -1542,7 +1541,6 @@ erlang-erlsyslog
 erlang-erlware_commons
 erlang-erlydtl
 erlang-esasl
-erlang-esdl
 erlang-eunit_formatters
 erlang-exometer_core
 erlang-ezlib
@@ -1590,7 +1588,6 @@ erlang-providers
 erlang-p1_acme
 erlang-p1_mysql
 erlang-p1_oauth2
-erlang-p1_pgsql
 erlang-p1_utils
 erlang-ranch
 erlang-rebar
@@ -1755,7 +1752,6 @@ fedora-autofirstboot
 fedora-bookmarks
 fedora-business-cards
 fedora-distro-aliases
-fedora-dockerfiles
 fedora-flathub-remote
 fedora-gnat-project-common
 fedora-chromium-config
@@ -2852,7 +2848,6 @@ git-credential-oauth
 git-crypt
 git-evtag
 git-extras
-git-fame
 git-filter-repo
 git-ftp
 gitg
@@ -3249,7 +3244,6 @@ golang-github-appc-docker2aci
 golang-github-appc-spec
 golang-github-aquarapid-vaultlib
 golang-github-armon-circbuf
-golang-github-armon-consul-api
 golang-github-armon-gomdb
 golang-github-armon-metrics
 golang-github-armon-radix
@@ -3406,6 +3400,7 @@ golang-github-containerd-fuse-overlayfs-snapshotter
 golang-github-containerd-imgcrypt
 golang-github-containerd-nri
 golang-github-containerd-runc
+golang-github-containerd
 golang-github-containerd-stargz-snapshotter
 golang-github-containerd-ttrpc
 golang-github-containerd-typeurl
@@ -3516,6 +3511,7 @@ golang-github-eclipse-paho-mqtt
 golang-github-edoardottt-golazy
 golang-github-edoardottt-lit-bb-hack-tools
 golang-github-edsrzf-mmap
+golang-github-edwvee-exiffix
 golang-github-eknkc-amber
 golang-github-elazarl-bindata-assetfs
 golang-github-elazarl-goproxy
@@ -3586,6 +3582,7 @@ golang-github-fsouza-dockerclient
 golang-github-fvbommel-sortorder
 golang-github-fvbommel-util
 golang-github-gabriel-vasile-mimetype
+golang-github-gammazero-deque
 golang-github-gatherstars-com-jwz
 golang-github-gdamore-tcell-2
 golang-github-gddo
@@ -3714,18 +3711,13 @@ golang-github-haproxytech-config-parser
 golang-github-haproxytech-dataplaneapi
 golang-github-haproxytech-logger
 golang-github-harrymichal-version
-golang-github-hashicorp-cleanhttp
-golang-github-hashicorp-consul-migrate
 golang-github-hashicorp-consul
-golang-github-hashicorp-envparse
-golang-github-hashicorp-errwrap
 golang-github-hashicorp-hc-install
 golang-github-hashicorp-hclog
 golang-github-hashicorp-hcl
 golang-github-hashicorp-hcl-2
 golang-github-hashicorp-checkpoint
 golang-github-hashicorp-immutable-radix
-golang-github-hashicorp-logutils
 golang-github-hashicorp-lru
 golang-github-hashicorp-lru-2
 golang-github-hashicorp-mdns
@@ -3734,12 +3726,8 @@ golang-github-hashicorp-memdb
 golang-github-hashicorp-msgpack
 golang-github-hashicorp-multierror
 golang-github-hashicorp-raft-boltdb
-golang-github-hashicorp-raft-mdb
-golang-github-hashicorp-raft
 golang-github-hashicorp-retryablehttp
-golang-github-hashicorp-rootcerts
 golang-github-hashicorp-serf
-golang-github-hashicorp-sockaddr
 golang-github-hashicorp-syslog
 golang-github-hashicorp-terraform-exec
 golang-github-hashicorp-terraform-json
@@ -3823,6 +3811,7 @@ golang-github-jackc-pgproto3
 golang-github-jackc-pgservicefile
 golang-github-jackc-pgtype
 golang-github-jackc-pgx
+golang-github-jackc-pgx5
 golang-github-jackc-puddle
 golang-github-jackc-puddle2
 golang-github-jacobsa-oglematchers
@@ -3908,6 +3897,7 @@ golang-github-kolo-xmlrpc
 golang-github-koofr-httpclient
 golang-github-koofr-koofrclient
 golang-github-koppacetic-gpsd
+golang-github-kovidgoyal-imaging
 golang-github-kr-binarydist
 golang-github-kr-fs
 golang-github-krishicks-yaml-patch
@@ -3941,8 +3931,6 @@ golang-github-lestrrat-jwx
 golang-github-lestrrat-option
 golang-github-lestrrat-strftime
 golang-github-lestrrat-xstrings
-golang-github-letsencrypt-challtestsrv
-golang-github-letsencrypt-pebble
 golang-github-leveldb
 golang-github-liamg-scout
 golang-github-liamg-tml
@@ -3993,6 +3981,7 @@ golang-github-masterminds-squirrel
 golang-github-masterminds-vcs
 golang-github-masterzen-simplexml
 golang-github-masterzen-winrm
+golang-github-matrix-org-gomatrixserverlib
 golang-github-matrix-org-gomatrix
 golang-github-matrix-org-util
 golang-github-matryer-try
@@ -4001,6 +3990,7 @@ golang-github-mattn-colorable
 golang-github-mattn-ieproxy
 golang-github-mattn-isatty
 golang-github-mattn-localereader
+golang-github-mattn-pointer
 golang-github-mattn-runewidth
 golang-github-mattn-shellwords
 golang-github-mattn-sqlite3
@@ -4044,7 +4034,6 @@ golang-github-minio
 golang-github-minio-6
 golang-github-miolini-datacounter
 golang-github-mistifyio-zfs
-golang-github-mitchellh-cli
 golang-github-mitchellh-colorstring
 golang-github-mitchellh-copystructure
 golang-github-mitchellh-hashstructure
@@ -4125,14 +4114,10 @@ golang-github-nilslice-protolock
 golang-github-nkovacs-streamquote
 golang-github-nozzle-throttler
 golang-github-npat-efault-poller
-golang-github-nrdcg-auroradns
-golang-github-nrdcg-desec
 golang-github-nrdcg-dnspod
 golang-github-nrdcg-freemyip
 golang-github-nrdcg-goinwx
-golang-github-nrdcg-namesilo
 golang-github-nrdcg-nodion
-golang-github-nrdcg-porkbun
 golang-github-nsf-termbox
 golang-github-ns3777k-shodan
 golang-github-nu7hatch-gouuid
@@ -4255,7 +4240,6 @@ golang-github-projectdiscovery-mapcidr
 golang-github-projectdiscovery-ratelimit
 golang-github-projectdiscovery-reflectutil
 golang-github-projectdiscovery-retryabledns
-golang-github-projectdiscovery-retryablehttp
 golang-github-projectdiscovery-sliceutil
 golang-github-projectdiscovery-stringsutil
 golang-github-projectdiscovery-utils
@@ -4297,7 +4281,6 @@ golang-github-remind101-migrate
 golang-github-remyoudompheng-bigfft
 golang-github-restic-chunker
 golang-github-resty
-golang-github-revel-config
 golang-github-revel-log15
 golang-github-revel-pathtree
 golang-github-revel
@@ -4644,6 +4627,7 @@ golang-gopkg-seborama-govcr-4
 golang-gopkg-sourcemap-1
 golang-gopkg-square-jose-2
 golang-gopkg-stack-0
+golang-gopkg-telebot3
 golang-gopkg-tomb-1
 golang-gopkg-tomb-2
 golang-gopkg-tylerb-is-1
@@ -4682,8 +4666,10 @@ golang-k8s-sample-apiserver
 golang-k8s-sample-cli-plugin
 golang-k8s-sample-controller
 golang-k8s-utils
-golang-layeh-gopher-luar
 golang-lukechampine-uint128
+golang-maunium-mauflag
+golang-mau-util
+golang-mau-zeroconfig
 golang-modernc-ccgo-3
 golang-modernc-ccgo-4
 golang-modernc-ccorpus2
@@ -5208,6 +5194,7 @@ icewm
 icon-naming-utils
 icon
 icoutils
+icu4j
 idevicerestore
 idle3-tools
 idris
@@ -5451,6 +5438,7 @@ jkmeter
 jl
 jmeters
 jmock
+jmol
 jmtpfs
 jna
 jneuroml-core
@@ -5850,7 +5838,6 @@ kidentitymanagement
 kid3
 kigo
 kig
-kile
 killbots
 kiln
 kimageannotator
@@ -5933,7 +5920,6 @@ kolf
 kollision
 kolorfill
 kolourpaint
-komikku
 kommit
 kompare
 kongress
@@ -6392,7 +6378,6 @@ libjaylink
 libjcat
 libjodycode
 libjoedog
-libjwt
 libkate
 libkcapi
 libkcddb
@@ -6764,7 +6749,6 @@ libwpg
 libwps
 libwvstreams
 libXcm
-libxc
 libxcvt
 libxdiff
 libxfce4ui
@@ -6858,7 +6842,6 @@ llama-cpp
 llconf
 lldb
 lldpd
-lld
 lld13
 llhttp
 llmnrd
@@ -8369,7 +8352,6 @@ openvr
 openvswitch
 openxr
 openzwave
-open62541
 ophcrack
 optee_client
 optee_os
@@ -10069,6 +10051,7 @@ perl-MooX-HasEnv
 perl-MooX-Locale-Passthrough
 perl-MooX-Locale-TextDomain-OO
 perl-MooX-Options
+perl-MooX-Role-EventEmitter
 perl-MooX-Role-Logger
 perl-MooX-Role-Parameterized
 perl-MooX-Singleton
@@ -10099,6 +10082,7 @@ perl-Net-Appliance-Session
 perl-Net-ARP
 perl-Net-Async-HTTP
 perl-Net-Async-SOCKS
+perl-Net-Async-WebSocket
 perl-Net-BGP
 perl-Net-CIDR-Lite
 perl-Net-CIDR
@@ -10913,7 +10897,6 @@ perl-UNIVERSAL-isa
 perl-UNIVERSAL-moniker
 perl-UNIVERSAL-ref
 perl-UNIVERSAL-require
-perl-Unix-Groups-FFI
 perl-Unix-Mknod
 perl-Unix-Process
 perl-Unix-Syslog
@@ -11347,7 +11330,6 @@ php-wikimedia-avro
 php-wikimedia-cdb
 php-wikimedia-ip-set
 php-wikimedia-utfnormal
-php-williamdes-mariadb-mysql-kbs
 php-xmpphp
 php-yoast-phpunit-polyfills
 php-zetacomponents-base
@@ -11409,7 +11391,6 @@ plantuml
 plasma-activities
 plasma-activities-stats
 plasma-applet-translator
-plasma-applet-weather-widget
 plasma-bigscreen
 plasma-breeze
 plasma-browser-integration
@@ -11766,13 +11747,13 @@ python-aiohttp-negotiate
 python-aiohttp-oauthlib
 python-aiohttp-retry
 python-aiohttp-socks
+python-aiohttp
 python-aiohttp-sse-client
 python-aiohue
 python-aioiotprov
 python-aioitertools
 python-aiokafka
 python-aiolifx
-python-aiomqtt
 python-aiomultiprocess
 python-aiomysql
 python-aionotion
@@ -11882,7 +11863,6 @@ python-automaton
 python-Automat
 python-autopage
 python-autopep8
-python-autoprop
 python-avocado
 python-awesomeversion
 python-awscrt
@@ -12158,7 +12138,6 @@ python-collectd_cvmfs
 python-collectd_puppet
 python-collectd_systemd
 python-colorama
-python-colorcet
 python-colorclass
 python-coloredlogs
 python-colored
@@ -12194,7 +12173,6 @@ python-contourpy
 python-convertdate
 python-cookiecutter
 python-cooldict
-python-cornice
 python-coronavirus
 python-cotyledon
 python-cov-core
@@ -12275,7 +12253,6 @@ python-devtools
 python-dfdatetime
 python-dialog
 python-dictdiffer
-python-dictdumper
 python-dict-sorted
 python-dicttoxml
 python-didl-lite
@@ -12346,6 +12323,7 @@ python-django-taggit
 python-django-tastypie
 python-django-threadedcomments
 python-django-timezone-field
+python-django4.2
 python-djvulibre
 python-dkimpy
 python-dns-lexicon
@@ -12405,7 +12383,6 @@ python-emcee
 python-emoji
 python-empy
 python-engineio
-python-enlighten
 python-enrich
 python-enthought-sphinx-theme
 python-entrypoints
@@ -12531,7 +12508,6 @@ python-fontquery
 python-fontrpmspec
 python-formencode
 python-formulaic
-python-fqdn
 python-freecell_solver
 python-freeipa
 python-freetype
@@ -12910,6 +12886,7 @@ python-linuxdoc
 python-lit
 python-littleutils
 python-livereload
+python-llama-cpp-python
 python-llfuse
 python-llvmlite
 python-lmdb
@@ -13030,7 +13007,6 @@ python-more-executors
 python-more-itertools
 python-moreorless
 python-moss
-python-mozilla-django-oidc
 python-mpd
 python-mpd2
 python-mplcairo
@@ -13041,6 +13017,7 @@ python-mrcrowbar
 python-msal-extensions
 python-msal
 python-msgpack
+python-msgspec
 python-msldap
 python-msrestazure
 python-msrest
@@ -13066,7 +13043,6 @@ python-myst-parser
 python-mystrom
 python-m2r
 python-m3u8
-python-nagiosplugin
 python-Naked
 python-name-that-hash
 python-nanoid
@@ -13240,7 +13216,6 @@ python-papermill
 python-paperwork-backend
 python-parameter-expansion-patched
 python-parameterized
-python-param
 python-pari-jupyter
 python-parsedatetime
 python-parsel
@@ -13324,7 +13299,6 @@ python-plotnine
 python-pluggy
 python-pluginbase
 python-plugincode
-python-pluginlib
 python-plugnplay
 python-plumbum
 python-pmw
@@ -13346,7 +13320,6 @@ python-pplpy
 python-prawcore
 python-praw
 python-precis_i18n
-python-prefixed
 python-pretend
 python-prettyprinter
 python-prettytable
@@ -13404,7 +13377,6 @@ python-pyconify
 python-pycosat
 python-pycountry
 python-pycparser
-python-pyct
 python-pydantic-core
 python-pydantic-extra-types
 python-pydantic-settings
@@ -13491,6 +13463,7 @@ python-pynamodb
 python-pynest2d
 python-pynetbox
 python-pynetdicom
+python-pyngus
 python-pynn
 python-pynsgr
 python-pynuvo
@@ -13505,7 +13478,6 @@ python-pyopenuv
 python-pyotgw
 python-pyotp
 python-pypandoc
-python-pypcapkit
 python-pypck
 python-PyPDF2
 python-pypet
@@ -13665,6 +13637,7 @@ python-pyxs
 python-pyyaml-env-tag
 python-pyzabbix
 python-pyzolib
+python-pyzstd
 python-py2pack
 python-py27hash
 python-qcelemental
@@ -13676,6 +13649,7 @@ python-qpageview
 python-qrcode
 python-q
 python-qstylizer
+python-QtAwesome
 python-qtconsole
 python-QtPy
 python-qtsass
@@ -13862,7 +13836,6 @@ python-schedutils
 python-schema
 python-sievelib
 python-sieve
-python-signature-dispatch
 python-signedjson
 python-simpleaudio
 python-simplebayes
@@ -13924,6 +13897,7 @@ python-speedtest-cli
 python-speg
 python-sphinx-argparse-cli
 python-sphinx-argparse
+python-sphinx-autobuild
 python-sphinx-autodoc-typehints
 python-sphinx-bootstrap-theme
 python-sphinx-click
@@ -14063,6 +14037,7 @@ python-tempita
 python-tempora
 python-tenacity
 python-tensile
+python-tensordict
 python-term-background
 python-termcolor
 python-terminado
@@ -14128,7 +14103,6 @@ python-tqdm
 python-trailrunner
 python-traitlets
 python-traitsui
-python-transaction
 python-transforms3d
 python-translationstring
 python-translitcodec
@@ -14159,7 +14133,6 @@ python-tw2-forms
 python-txaio
 python-txredisapi
 python-txws
-python-txzmq
 python-typecode-libmagic
 python-typecode
 python-typedecorator
@@ -14219,7 +14192,6 @@ python-vconnector
 python-vcrpy
 python-vcstool
 python-vdf
-python-vecrec
 python-vedo
 python-velbus
 python-venusian
@@ -14266,7 +14238,6 @@ python-websocket-client
 python-websockets
 python-websockify
 python-webtest
-python-webthing
 python-webthing-ws
 python-werkzeug
 python-whatthepatch
@@ -14384,10 +14355,7 @@ python-zanata2fedmsg
 python-zaqarclient
 python-zarr
 python-zbase32
-python-zc-customdoctests
-python-zc-lockfile
 python-ZConfig
-python-zdaemon
 python-zeep
 python-zeroconf
 python-zict
@@ -14396,19 +14364,16 @@ python-zipstream
 python-zlib-ng
 python-zmq
 python-zm
+python-zodbpickle
 python-ZODB
 python-zoidberg
 python-zombie-imp
-python-zope-component
-python-zope-deprecation
 python-zope-hookable
 python-zope-interface
-python-zope-schema
-python-zope-sqlalchemy
-python-zope-testing
 python-zope-testrunner
 python-zopeundo
 python-zstandard
+python-zstarfile
 python-zstd
 python-zuul-sphinx
 python-zxcvbn
@@ -14427,7 +14392,6 @@ python3-prctl
 python3-py3dns
 python3-saml
 python3-simpletal
-python3-zope-fixers
 python3.10
 python3.11
 python3.11-testpath-epel
@@ -14706,6 +14670,7 @@ R-Cairo
 R-callr
 R-car
 R-caTools
+rccl
 R-cellranger
 R-cliapp
 R-clipr
@@ -14731,7 +14696,6 @@ rcssserver
 rcssserver3d
 R-curl
 R-cyclocomp
-R-data.table
 R-date
 R-DBI
 R-DBItest
@@ -15037,7 +15001,6 @@ R-pak
 R-parallelly
 R-parsedate
 R-pbapply
-R-pbdRPC
 R-pbdZMQ
 rpcsvc-proto
 rpc2
@@ -15370,7 +15333,6 @@ rubygem-guard
 rubygem-haml
 rubygem-hashdiff
 rubygem-hashery
-rubygem-hashicorp-checkpoint
 rubygem-hashie
 rubygem-hashr
 rubygem-hiera-vault
@@ -15629,7 +15591,6 @@ rubygem-unf_ext
 rubygem-unicode-display_width
 rubygem-unicode
 rubygem-uuid
-rubygem-vault
 rubygem-vcr
 rubygem-vte3
 rubygem-web-console
@@ -15646,7 +15607,6 @@ rubygem-xpath
 rubygem-yaml-lint
 rubygem-zeitwerk
 rubypick
-ruby
 rudeconfig
 rudesocket
 R-udunits2
@@ -15795,6 +15755,7 @@ rust-async-stream-impl
 rust-async-stream
 rust-async-task
 rust-async-trait
+rust-async_zip
 rust-atk
 rust-atk-sys
 rust-atk-sys0.15
@@ -15829,6 +15790,7 @@ rust-base64ct
 rust-base64
 rust-base64_0.12
 rust-base64_0.13
+rust-base64_0.21
 rust-basic-toml
 rust-bat
 rust-bcder
@@ -16330,6 +16292,7 @@ rust-env_logger0.8
 rust-env_logger0.9
 rust-env_proxy
 rust-envsubst
+rust-envy
 rust-epoll
 rust-equivalent
 rust-erased-serde
@@ -16633,11 +16596,8 @@ rust-gst-plugin-reqwest
 rust-gst-plugin-version-helper
 rust-gstreamer-audio
 rust-gstreamer-audio-sys
-rust-gstreamer-audio-sys0.21
 rust-gstreamer-base
 rust-gstreamer-base-sys
-rust-gstreamer-base-sys0.21
-rust-gstreamer-base0.21
 rust-gstreamer-editing-services
 rust-gstreamer-editing-services-sys
 rust-gstreamer-gl-egl
@@ -16654,11 +16614,8 @@ rust-gstreamer-player
 rust-gstreamer-player-sys
 rust-gstreamer
 rust-gstreamer-sys
-rust-gstreamer-sys0.21
 rust-gstreamer-video
 rust-gstreamer-video-sys
-rust-gstreamer-video-sys0.21
-rust-gstreamer0.21
 rust-gtk
 rust-gtk-sys
 rust-gtk-sys0.15
@@ -16728,6 +16685,7 @@ rust-html5ever
 rust-httparse
 rust-http-auth
 rust-http-body
+rust-http-body-util
 rust-http-body0.4
 rust-httpdate
 rust-http-range-header
@@ -16747,7 +16705,9 @@ rust-hyperlocal
 rust-hyper-rustls
 rust-hyper
 rust-hyper-tls
+rust-hyper0.14
 rust-h2
+rust-h2_0.3
 rust-h3-quinn
 rust-h3
 rust-chainerror
@@ -16850,6 +16810,7 @@ rust-i18n-embed
 rust-i3ipc
 rust-jiter
 rust-jobserver
+rust-jod-thread
 rust-joinery
 rust-joinery2
 rust-josekit
@@ -17136,6 +17097,7 @@ rust-noop_proc_macro
 rust-no-panic
 rust-normalize-line-endings
 rust-normpath
+rust-no-std-net
 rust-notify-debouncer-full
 rust-notify-debouncer-mini
 rust-notify-debouncer-mini0.2
@@ -17316,7 +17278,6 @@ rust-pem0.8
 rust-pem1
 rust-pem2
 rust-pep440_rs
-rust-pep440_rs0.3
 rust-pep440
 rust-pep508_rs
 rust-percent-encoding
@@ -17476,15 +17437,20 @@ rust-pure-rust-locales
 rust-pwd
 rust-pyo3-build-config
 rust-pyo3-build-config0.19
+rust-pyo3-build-config0.20
 rust-pyo3-ffi
 rust-pyo3-ffi0.19
+rust-pyo3-ffi0.20
 rust-pyo3-log
 rust-pyo3-macros-backend
 rust-pyo3-macros-backend0.19
+rust-pyo3-macros-backend0.20
 rust-pyo3-macros
 rust-pyo3-macros0.19
+rust-pyo3-macros0.20
 rust-pyo3
 rust-pyo3_0.19
+rust-pyo3_0.20
 rust-pyproject-toml
 rust-pythonize
 rust-python-launcher
@@ -18078,6 +18044,7 @@ rust-toml_edit
 rust-toml_edit0.19
 rust-toml_edit0.20
 rust-toml_edit0.21
+rust-toml-span
 rust-toml
 rust-toml0.4
 rust-toml0.5
@@ -18090,7 +18057,6 @@ rust-tower-service
 rust-tower
 rust-tower-test
 rust-tower-util
-rust-tpm2-policy
 rust-tracing-attributes
 rust-tracing-core
 rust-tracing_facade
@@ -18101,6 +18067,7 @@ rust-tracing-log
 rust-tracing-serde
 rust-tracing
 rust-tracing-subscriber
+rust-tracing-tree
 rust-transpose
 rust-trash
 rust-treebitmap
@@ -18580,7 +18547,6 @@ seahorse-adventures
 seahorse-caja
 seahorse-nautilus
 seahorse
-seamonkey
 seatd
 seaview
 secilc
@@ -18802,7 +18768,6 @@ soapy-rtlsdr
 SoapySDR
 soapy-uhd
 socat
-socialscan
 soci
 socket_wrapper
 sockperf
@@ -19342,6 +19307,7 @@ tree-sitter
 trellis
 tremulous-data
 tremulous
+trend
 tre
 trezor-common
 triehash
@@ -19616,7 +19582,6 @@ vim-nerdtree
 vim-omnicppcomplete
 vimpal
 vim-pathogen
-vim-perl-support
 vim-rhubarb
 vim-syntastic
 vim-taglist
@@ -19885,8 +19850,6 @@ xcb-imdkit
 xcb-util-cursor
 xcb-util-errors
 xcb-util-xrm
-xcfun
-xcircuit
 xclip
 xcompmgr
 xconvers
@@ -20059,6 +20022,7 @@ xrdp
 xreader
 xrefresh
 xrestrict
+xrgears
 xr-hardware
 xrootd
 xrotor

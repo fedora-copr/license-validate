@@ -18,8 +18,15 @@ def increment_last_number(input_string):
     # Split the input string into parts based on the dot
     parts = input_string.split('.')
     
-    # Convert the last part to an integer, increment it by 1, and convert it back to string
-    parts[-1] = str(int(parts[-1]) + 1)
+    index = -1
+    success = False
+    while not success:
+        try:
+            # Convert the last part to an integer, increment it by 1, and convert it back to string
+            parts[index] = str(int(parts[index]) + 1)
+            success = True
+        except ValueError:
+            index -= 1
     
     # Join the parts back into a single string with dots
     return '.'.join(parts)
