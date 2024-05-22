@@ -35,6 +35,10 @@ alsa-tools
 alsa-utils
 anaconda
 annobin
+ansible-collection-ansible-posix
+ansible-collection-community-general
+ansible-collection-containers-podman
+ansible-collection-microsoft-sql
 ansible-core
 ansible-freeipa
 ansible-pcp
@@ -134,6 +138,7 @@ clevis
 clevis-pin-tpm2
 cloud-init
 cloud-utils
+clutter
 cmake
 cockpit
 cockpit-composer
@@ -141,6 +146,7 @@ cockpit-machines
 cockpit-ostree
 cockpit-podman
 cockpit-session-recording
+cogl
 color-filesystem
 colord
 colord-gtk
@@ -252,6 +258,7 @@ exfatprogs
 exiv2
 expat
 expect
+fabtests
 fapolicyd
 fcoe-utils
 fdk-aac-free
@@ -352,6 +359,8 @@ gnome-session
 gnome-settings-daemon
 gnome-shell
 gnome-shell-extension-background-logo
+gnome-shell-extension-dash-to-dock
+gnome-shell-extension-dash-to-panel
 gnome-shell-extensions
 gnome-software
 gnome-system-monitor
@@ -426,7 +435,6 @@ hostapd
 hostname
 hplip
 hspell
-http-parser
 httpcomponents-client
 httpcomponents-core
 httpd
@@ -768,6 +776,7 @@ libcdio
 libcdio-paranoia
 libcomps
 libconfig
+libcpuid
 libcupsfilters
 libdaemon
 libdatrie
@@ -827,7 +836,6 @@ libijs
 libinput
 libipt
 libiptcdata
-libiscsi
 libisoburn
 libisofs
 libjcat
@@ -843,7 +851,6 @@ liblerc
 liblognorm
 liblouis
 libmad
-libmatchbox
 libmaxminddb
 libmbim
 libmicrohttpd
@@ -914,7 +921,6 @@ libshout
 libsigc++20
 libsigc++30
 libslirp
-libsmbios
 libsmi
 libsndfile
 libsolv
@@ -975,6 +981,7 @@ libzfcphbaapi
 libzip
 libzpc
 linux-firmware
+linux-system-roles
 linuxdoc-tools
 linuxptp
 lksctp-tools
@@ -1025,7 +1032,6 @@ mariadb-connector-odbc
 mariadb-java-client
 mariadb10.11
 marshalparser
-matchbox-window-manager
 maven
 maven-resolver
 maven-shared-utils
@@ -1051,7 +1057,6 @@ mingw-srvany
 minicom
 mkfontscale
 mksh
-mlocate
 mlxbf-bootctl
 mobile-broadband-provider-info
 mod_auth_gssapi
@@ -1079,6 +1084,7 @@ mt-st
 mtdev
 mtools
 mtr
+mtx
 munge
 mutt
 mutter
@@ -1110,6 +1116,7 @@ nodejs-nodemon
 nodejs-packaging
 nodejs-undici
 nodejs20
+nodejs22
 npth
 nss
 nss-altfiles
@@ -1407,6 +1414,7 @@ plexus-containers
 plexus-interpolation
 plexus-sec-dispatcher
 plexus-utils
+plocate
 plotutils
 plymouth
 pmix
@@ -1456,14 +1464,12 @@ pyserial
 pytest
 python-PyMySQL
 python-alembic
-python-appdirs
 python-argcomplete
 python-asn1crypto
 python-attrs
 python-augeas
 python-awscrt
 python-blivet
-python-botocore
 python-cffi
 python-charset-normalizer
 python-colorama
@@ -1525,6 +1531,7 @@ python-pefile
 python-pexpect
 python-pid
 python-pip
+python-platformdirs
 python-pluggy
 python-ply
 python-podman
@@ -1537,7 +1544,6 @@ python-ptyprocess
 python-pyasn1
 python-pycdio
 python-pycparser
-python-pycurl
 python-pygit2
 python-pygments
 python-pyproject-hooks
@@ -1832,6 +1838,7 @@ torque
 totem-pl-parser
 tpm2-abrmd
 tpm2-abrmd-selinux
+tpm2-openssl
 tpm2-pkcs11
 tpm2-tools
 tpm2-tss
@@ -1877,6 +1884,7 @@ util-linux
 uuid
 v4l-utils
 valgrind
+valkey
 varnish
 varnish-modules
 vazirmatn-fonts

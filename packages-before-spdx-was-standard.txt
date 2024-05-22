@@ -1049,7 +1049,6 @@ emacs-epl
 emacs-f
 emacs-goodies
 emacs-hcl-mode
-emacs-htmlize
 emacs-irsim-mode
 emacs-jedi
 emacs-json-mode
@@ -1390,7 +1389,6 @@ fprobe-ulog
 freealut
 freecell-solver
 freecolor
-freeDiameter
 freedv
 freefem++
 freeimage
@@ -1835,9 +1833,6 @@ gmediarender
 gmime
 gmm
 GMT
-gnatcoll-bindings
-gnatcoll-db
-gnatcoll
 gnat-srpm-macros
 gnome-backgrounds
 gnome-battery-bench
@@ -1891,7 +1886,6 @@ gnome-settings-daemon
 gnome-sharp
 gnome-shell-extension-argos
 gnome-shell-extension-caffeine
-gnome-shell-extension-dash-to-dock
 gnome-shell-extension-disconnect-wifi
 gnome-shell-extension-gamemode
 gnome-shell-extension-gsconnect
@@ -3508,7 +3502,6 @@ http_ping
 httprobe
 httptunnel
 httrack
-hugin
 hugo
 hugs98
 hulk
@@ -4140,7 +4133,6 @@ libcoap
 libcompizconfig
 libcorrect
 libcouchbase
-libcpuid
 libcryptui
 libcrystalhd
 libcue
@@ -4384,17 +4376,9 @@ librep
 libresample
 libre
 libretls
-libretro-beetle-ngp
-libretro-beetle-vb
-libretro-beetle-wswan
-libretro-bsnes-mercury
-libretro-desmume2015
 libretro-gw
 libretro-handy
-libretro-nestopia
 libretro-pcsx-rearmed
-libretro-prosystem
-libretro-stella2014
 librsvg2
 librsync
 librs232
@@ -4461,7 +4445,6 @@ libusbg
 libu2f-host
 libu2f-server
 libva-intel-hybrid-driver
-libvarlink
 libva-utils
 libva-vdpau-driver
 libva-v4l2-request
@@ -5247,7 +5230,6 @@ nas
 nativejit
 nats-server
 NaturalDocs
-natural-earth-map-data
 nautilus-python
 nautilus
 nawk
@@ -5261,7 +5243,6 @@ ncmpcpp
 nco
 ncrack
 ncview
-ndctl
 ndesk-dbus-glib
 ndesk-dbus
 ndiscover-exo-2-fonts
@@ -5503,7 +5484,6 @@ ompl
 onedrive
 oneko
 onesixtyone
-oneVPL-intel-gpu
 oneVPL
 onionscan
 onionshare
@@ -5575,7 +5555,6 @@ openssl-ibmpkcs11
 openstack-java-sdk
 OpenStego
 opensubdiv
-opensurge
 opentoonz
 opentrep
 openttd-opengfx
@@ -5914,7 +5893,6 @@ perl-CGI-FormBuilder
 perl-CGI-Prototype
 perl-CGI-PSGI
 perl-CGI-Session
-perl-CGI-Simple
 perl-CGI-Struct
 perl-CGI-Untaint-date
 perl-CGI-Untaint-email
@@ -5997,7 +5975,6 @@ perl-Crypt-DES_EDE3
 perl-Crypt-GCrypt
 perl-Crypt-GeneratePassword
 perl-Crypt-MySQL
-perl-Crypt-OpenSSL-DSA
 perl-Crypt-OpenSSL-ECDSA
 perl-Crypt-OpenSSL-EC
 perl-Crypt-OpenSSL-X509
@@ -6410,7 +6387,6 @@ perl-Locale-Maketext
 perl-Locale-SubCountry
 perl-LockFile-Simple
 perl-Log-Any-Adapter-Callback
-perl-Log-Any-Adapter-Screen
 perl-Log-Any-Adapter-TAP
 perl-Log-Dispatch-Config
 perl-Log-Dispatch-Configurator-Any
@@ -7112,7 +7088,6 @@ php-andrewsville-php-token-reflection
 php-aws-php-sns-message-validator
 php-aws-sdk3
 php-bacon-qr-code2
-php-bantu-ini-get-wrapper
 php-bartlett-PHP-CompatInfo
 php-brick-math
 php-brick-varexporter
@@ -7130,7 +7105,6 @@ phpcpd
 php-cs-fixer
 php-cssjanus
 php-dasprid-enum
-php-deepdiver-zipstreamer
 php-deepend-Mockery
 php-doctrine-annotations
 php-doctrine-cache
@@ -7138,7 +7112,6 @@ php-doctrine-collections
 php-doctrine-common
 php-doctrine-common3
 php-doctrine-datafixtures
-php-doctrine-dbal
 php-doctrine-deprecations
 php-doctrine-doctrine-bundle
 php-doctrine-doctrine-cache-bundle
@@ -7160,11 +7133,9 @@ php-Faker
 php-fedora-autoloader
 php-feedcreator
 php-felixfbecker-advanced-json-rpc3
-php-fgrosse-phpasn1
 php-fig-http-message-util
 php-fig-link-util
 php-gettext-gettext
-php-giggsey-locale
 php-google-recaptcha
 php-guzzlehttp-guzzle6
 php-guzzlehttp-promises
@@ -7173,7 +7144,6 @@ php-hamcrest2
 php-htmLawed
 php-http-interop-http-middleware
 php-http-message-factory
-php-christophwurst-id3parser
 php-iamcal-lib-autolink
 php-icewind-smb2
 php-icewind-streams
@@ -7186,7 +7156,6 @@ php-league-flysystem
 php-league-mime-type-detection
 php-league-plates
 php-league-tactician
-php-league-uri-interfaces
 php-libvirt
 php-LightweightPicasaAPI
 php-liuggio-statsd-php-client
@@ -7214,8 +7183,6 @@ php-oauth
 php-ocramius-code-generator-utils
 php-ocramius-proxy-manager
 php-oojs-oojs-ui
-php-opencloud-openstack
-php-opis-closure
 php-paragonie-constant-time-encoding
 php-paragonie-random-compat
 php-patchwork-jsqueeze
@@ -7274,12 +7241,12 @@ php-phpunit-php-code-coverage6
 php-phpunit-php-code-coverage9
 php-phpunit-php-timer3
 php-phpunit-php-token-stream3
-php-pimple
 php-pragmarx-google2fa5
 php-psr-cache
 php-psr-container
 php-psr-container2
 php-psr-event-dispatcher
+php-psr-http-client
 php-psr-http-factory
 php-psr-http-message
 php-psr-http-server-handler
@@ -7287,7 +7254,6 @@ php-psr-http-server-middleware
 php-psr-link
 php-PsrLog
 php-psr-simple-cache
-php-punic
 php-ralouphie-getallheaders
 php-ramsey-collection
 php-ramsey-uuid
@@ -7299,7 +7265,6 @@ php-sabre-vobject4
 php-sabre-xml2
 php-samyoul-u2f-php-server
 php-sanmai-phpunit-legacy-adapter
-php-scssphp
 php-sebastian-environment5
 php-sebastian-global-state2
 php-sebastian-recursion-context4
@@ -7308,7 +7273,6 @@ php-seld-cli-prompt
 php-seld-phar-utils
 php-sentry
 php-Smarty
-php-stecman-symfony-console-completion
 php-swaggest-json-diff
 php-swaggest-json-schema
 php-swiftmailer6
@@ -7565,7 +7529,6 @@ pycanberra
 pycmd
 pycolumnize
 pydeps
-pydot
 PyDrive2
 pyee
 pyelftools
@@ -7697,7 +7660,6 @@ python-asciitree
 python-ase
 python-asteval
 python-ast-monitor
-python-astor
 python-astral
 python-astroML
 python-astroplan
@@ -8097,7 +8059,6 @@ python-editor
 python-elasticsearch
 python-elastic-transport
 python-elementpath
-python-emcee
 python-empy
 python-enrich
 python-enthought-sphinx-theme
@@ -8107,7 +8068,6 @@ python-environs
 python-enzyme
 python-epc
 python-ephem
-python-ephyviewer
 python-epi
 python-epson-projector
 python-epub
@@ -8304,7 +8264,6 @@ python-h11
 python-h2
 python-chai
 python-chameleon
-python-chaospy
 python-check-manifest
 python-cheetah
 python-cheroot
@@ -8409,6 +8368,7 @@ python-knack
 python-kombu
 python-korean-lunar-calendar
 python-kubernetes
+python-k2hr3-osnl
 python-landslide
 python-lark
 python-lazr-config
@@ -8758,7 +8718,6 @@ python-pycosat
 python-pydantic
 python-pydbus
 python-pydispatcher
-python-pydocstyle
 python-pydotplus
 python-pyeclib
 python-pyelectro
@@ -9138,7 +9097,6 @@ python-ssdp
 python-sseclient-py
 python-sseclient
 python-ssh-python
-python-stack-data
 python-stackprinter
 python-statsd
 python-statsmodels
@@ -9865,7 +9823,6 @@ roca-detect
 rocksdb
 rocksndiamonds
 rocm-compilersupport
-rocm-device-libs
 rocminfo
 rocm-runtime
 rocs
@@ -10792,7 +10749,6 @@ rust-openssl-probe
 rust-openssl
 rust-option-operations
 rust-ord_subset
-rust-osmesa-sys
 rust-os_str_bytes
 rust-ouroboros_macro
 rust-ouroboros
@@ -10870,7 +10826,6 @@ rust-pretty_env_logger
 rust-prettytable-rs
 rust-print_bytes
 rust-procfs
-rust-procfs0.9
 rust-proc-macro-crate
 rust-proc-macro-crate0.1
 rust-proc-macro-error-attr
@@ -11379,7 +11334,6 @@ seahorse
 seaview
 sec
 security-menus
-secvarctl
 sediment
 senamirmir-washra-fonts
 sen
@@ -11424,7 +11378,6 @@ shrinkpdf
 shtool
 shunit2
 shutter
-shybrid
 schedtool
 schismtracker
 schroedinger-cat-backgrounds
@@ -11600,7 +11553,6 @@ spnavcfg
 spooky-c
 spor
 spread-sheet-widget
-springlobby
 spyder
 sqlcipher
 sqlgrey
@@ -11629,7 +11581,6 @@ ssldump
 sslh
 sslscan
 sslsplit
-ssmtp
 ssss
 sstp-client
 stacer
@@ -11717,7 +11668,6 @@ supertux
 supervisor
 surfraw
 surf
-surgescript
 suru-icon-theme
 svgpart
 svg2svgt
@@ -12045,7 +11995,6 @@ unrtf
 unuran
 unzoo
 uperf
-up-imapproxy
 upslug2
 uptimed
 urdfdom-headers
@@ -12290,7 +12239,6 @@ wmname
 wmx
 wob
 WoeUSB
-wofi
 wol
 wondershaper
 woodardworks-laconic-fonts

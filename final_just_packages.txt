@@ -262,7 +262,6 @@ bcache-tools
 bcd
 bcm283x-firmware
 bcm43xx-fwcutter
-bdii
 bdsync
 beakerlib
 beaker
@@ -730,7 +729,6 @@ dia-CMOS
 dia-Digital
 dia-electric2
 dia-electronic
-dia-gnomeDIAicons
 dialect
 dia-optics
 dib-utils
@@ -936,7 +934,6 @@ emacs-epl
 emacs-f
 emacs-goodies
 emacs-hcl-mode
-emacs-htmlize
 emacs-irsim-mode
 emacs-jedi
 emacs-json-mode
@@ -1256,7 +1253,6 @@ fprobe-ulog
 freealut
 freecell-solver
 freecolor
-freeDiameter
 freeimage
 freeipa-desktop-profile
 freeipa-fas
@@ -1407,7 +1403,6 @@ gears-backgrounds
 geary
 gecode
 gedit-color-schemes
-gedit-latex
 gedit-plugin-editorconfig
 gedit-plugins
 gedit
@@ -1493,7 +1488,6 @@ gio-sharp
 gip
 git-archive-all
 git-cinnabar
-git-crypt
 git-evtag
 git-extras
 git-ftp
@@ -1549,18 +1543,6 @@ gmediarender
 gmime
 gmm
 GMT
-gnatcoll-bindings
-gnatcoll-bindings
-gnatcoll-bindings
-gnatcoll-bindings
-gnatcoll-bindings
-gnatcoll-db
-gnatcoll-db
-gnatcoll-db
-gnatcoll-db
-gnatcoll-db
-gnatcoll
-gnatcoll
 gnat-srpm-macros
 gnome-battery-bench
 gnome-break-timer
@@ -1591,7 +1573,6 @@ gnome-robots
 gnome-screenshot
 gnome-sharp
 gnome-shell-extension-caffeine
-gnome-shell-extension-dash-to-dock
 gnome-shell-extension-disconnect-wifi
 gnome-shell-extension-gamemode
 gnome-shell-extension-netspeed
@@ -1607,7 +1588,6 @@ gnome-themes-extra
 gnome-user-share
 gnome-valgrind-session
 gnome-video-effects
-gnome-weather
 gns3-gui
 gns3-net-converter
 gns3-server
@@ -1809,7 +1789,6 @@ golang-github-common-nighthawk-figure
 golang-github-containerd-aufs
 golang-github-containerd-btrfs
 golang-github-containerd-imgcrypt
-golang-github-containerd-stargz-snapshotter
 golang-github-containerd-zfs
 golang-github-containernetworking-cni
 golang-github-containernetworking-plugins
@@ -1856,7 +1835,6 @@ golang-github-dghubble-twitter
 golang-github-dgrijalva-jwt
 golang-github-dchest-safefile
 golang-github-dchest-siphash
-golang-github-digitalocean-godo
 golang-github-dimchansky-utfbom
 golang-github-direnv-dotenv
 golang-github-disintegration-gift
@@ -1870,8 +1848,6 @@ golang-github-dnaeon-vcr
 golang-github-dnsimple
 golang-github-docker-credential-helpers
 golang-github-docker-go
-golang-github-docker-libkv
-golang-github-docker-metrics
 golang-github-docker-slim-uilive
 golang-github-docker-slim-uiprogress
 golang-github-docker-slim-update
@@ -2338,7 +2314,6 @@ golang-github-openapi-loads
 golang-github-openapi-spec
 golang-github-openapi-strfmt
 golang-github-openapi-swag
-golang-github-opencontainers-digest
 golang-github-opendns-vegadns2client
 golang-github-opentracing-basictracer
 golang-github-opentracing-contrib-grpc
@@ -2346,7 +2321,6 @@ golang-github-opentracing-contrib-stdlib
 golang-github-opentracing
 golang-github-openzipkin-zipkin
 golang-github-op-logging
-golang-github-oracle-oci-sdk
 golang-github-oracle-oci-sdk-24
 golang-github-oschwald-geoip2
 golang-github-oschwald-maxminddb
@@ -2691,7 +2665,6 @@ golang-gopkg-stack-0
 golang-gopkg-tylerb-is-1
 golang-gopkg-warnings-0
 golang-gopkg-yaml-1
-golang-gopkg-yaml-2
 golang-gorm
 golang-hein-version
 golang-jaytaylor-html2text
@@ -2957,7 +2930,6 @@ http_ping
 httprobe
 httptunnel
 httrack
-hugin
 hugo
 hugs98
 hulk
@@ -3554,7 +3526,6 @@ libcoap
 libcompizconfig
 libcorrect
 libcouchbase
-libcpuid
 libcryptui
 libcrystalhd
 libcrystalhd
@@ -3649,7 +3620,6 @@ libiec61883
 libieee1284
 libiio
 libime
-libindi
 libinjection
 libint
 libint2
@@ -3771,17 +3741,9 @@ libreoffice-TexMaths
 libreplaygain
 librep
 libresample
-libretro-beetle-ngp
-libretro-beetle-vb
-libretro-beetle-wswan
-libretro-bsnes-mercury
-libretro-desmume2015
 libretro-gw
 libretro-handy
-libretro-nestopia
 libretro-pcsx-rearmed
-libretro-prosystem
-libretro-stella2014
 librs232
 librs232
 librs232
@@ -3800,7 +3762,6 @@ libsigrokdecode
 libsigrok
 libskk
 libsodium
-libsonata
 libsoundio
 libspatialaudio
 libspectrum
@@ -3845,7 +3806,6 @@ libu2f-host
 libu2f-host
 libu2f-server
 libva-intel-hybrid-driver
-libvarlink
 libva-utils
 libva-vdpau-driver
 libva-v4l2-request
@@ -3946,6 +3906,7 @@ linux-firmware
 linux-firmware
 linux-firmware
 linux-firmware
+linux-firmware
 linux-system-roles
 linux-thermaltake-rgb
 linux-user-chroot
@@ -3997,7 +3958,6 @@ lrmi
 lsdvd
 lskat
 lsnipes
-lsp-plugins
 lsw
 lterm
 ltunify
@@ -4595,7 +4555,6 @@ nant
 nas
 nativejit
 NaturalDocs
-natural-earth-map-data
 nawk
 nazghul
 nazghul
@@ -4606,10 +4565,6 @@ ncl
 ncmpcpp
 ncrack
 ncview
-ndctl
-ndctl
-ndctl
-ndctl
 ndesk-dbus-glib
 ndesk-dbus
 neard
@@ -4852,7 +4807,6 @@ ompl
 onedrive
 oneko
 onesixtyone
-oneVPL-intel-gpu
 oneVPL
 onionscan
 onionshare
@@ -4920,8 +4874,6 @@ openssl-gost-engine
 openssl-ibmpkcs11
 openstack-java-sdk
 OpenStego
-opensurge
-opensurge
 opentoonz
 openttd-opengfx
 openvpn-auth-ldap
@@ -5229,7 +5181,6 @@ perl-CGI-FormBuilder
 perl-CGI-Prototype
 perl-CGI-PSGI
 perl-CGI-Session
-perl-CGI-Simple
 perl-CGI-Struct
 perl-CGI-Untaint-date
 perl-CGI-Untaint-email
@@ -5304,7 +5255,6 @@ perl-Crypt-DES_EDE3
 perl-Crypt-GCrypt
 perl-Crypt-GeneratePassword
 perl-Crypt-MySQL
-perl-Crypt-OpenSSL-DSA
 perl-Crypt-OpenSSL-ECDSA
 perl-Crypt-OpenSSL-EC
 perl-Crypt-Random-Seed
@@ -5662,7 +5612,6 @@ perl-Locale-Maketext-Fuzzy
 perl-Locale-Maketext-Gettext
 perl-Locale-SubCountry
 perl-LockFile-Simple
-perl-Log-Any-Adapter-Screen
 perl-Log-Any-Adapter-TAP
 perl-Log-Dispatch-Config
 perl-Log-Dispatch-Configurator-Any
@@ -6296,8 +6245,6 @@ php-andrewsville-php-token-reflection
 php-aws-php-sns-message-validator
 php-aws-sdk3
 php-bacon-qr-code2
-php-bantu-ini-get-wrapper
-php-bartlett-PHP-CompatInfo
 php-brick-math
 php-brick-varexporter
 php-cache-adapter-common
@@ -6310,7 +6257,6 @@ php-composer-pcre
 php-composer-xdebug-handler
 php-composer-xdebug-handler2
 phpcpd
-php-deepdiver-zipstreamer
 php-deepend-Mockery
 php-doctrine-annotations
 php-doctrine-cache
@@ -6318,7 +6264,6 @@ php-doctrine-collections
 php-doctrine-common
 php-doctrine-common3
 php-doctrine-datafixtures
-php-doctrine-dbal
 php-doctrine-deprecations
 php-doctrine-doctrine-bundle
 php-doctrine-doctrine-cache-bundle
@@ -6340,11 +6285,9 @@ php-Faker
 php-fedora-autoloader
 php-feedcreator
 php-felixfbecker-advanced-json-rpc3
-php-fgrosse-phpasn1
 php-fig-http-message-util
 php-fig-link-util
 php-gettext-gettext
-php-giggsey-locale
 php-guzzlehttp-guzzle6
 php-guzzlehttp-promises
 php-guzzlehttp-psr7
@@ -6352,7 +6295,6 @@ php-hamcrest2
 php-htmLawed
 php-http-interop-http-middleware
 php-http-message-factory
-php-christophwurst-id3parser
 php-iamcal-lib-autolink
 php-icewind-smb2
 php-icewind-streams
@@ -6365,7 +6307,6 @@ php-league-flysystem
 php-league-mime-type-detection
 php-league-plates
 php-league-tactician
-php-league-uri-interfaces
 php-libvirt
 php-LightweightPicasaAPI
 php-liuggio-statsd-php-client
@@ -6388,8 +6329,6 @@ php-oauth
 php-ocramius-code-generator-utils
 php-ocramius-proxy-manager
 php-oojs-oojs-ui
-php-opencloud-openstack
-php-opis-closure
 php-paragonie-constant-time-encoding
 php-paragonie-random-compat
 php-patchwork-jsqueeze
@@ -6439,12 +6378,12 @@ php-phpunitgoodpractices-polyfill
 php-phpunit-php-code-coverage6
 php-phpunit-php-timer3
 php-phpunit-php-token-stream3
-php-pimple
 php-pragmarx-google2fa5
 php-psr-cache
 php-psr-container
 php-psr-container2
 php-psr-event-dispatcher
+php-psr-http-client
 php-psr-http-factory
 php-psr-http-message
 php-psr-http-server-handler
@@ -6452,19 +6391,16 @@ php-psr-http-server-middleware
 php-psr-link
 php-PsrLog
 php-psr-simple-cache
-php-punic
 php-ralouphie-getallheaders
 php-ramsey-collection
 php-ramsey-uuid
 php-sabre-event5
 php-samyoul-u2f-php-server
-php-scssphp
 php-sebastian-global-state2
 php-seld-cli-prompt
 php-seld-phar-utils
 php-sentry
 php-Smarty
-php-stecman-symfony-console-completion
 php-swaggest-json-diff
 php-swaggest-json-schema
 php-swiftmailer6
@@ -6744,7 +6680,6 @@ pybugz
 pycanberra
 pycmd
 pycolumnize
-pydot
 pyee
 pyelftools
 pyflakes
@@ -6867,7 +6802,6 @@ python-asciitree
 python-ase
 python-asteval
 python-ast-monitor
-python-astor
 python-astral
 python-astunparse
 python-asyncssh
@@ -7235,7 +7169,6 @@ python-edimax
 python-editor
 python-elasticsearch
 python-elementpath
-python-emcee
 python-empy
 python-enrich
 python-enthought-sphinx-theme
@@ -7245,7 +7178,6 @@ python-environs
 python-enzyme
 python-epc
 python-ephem
-python-ephyviewer
 python-epi
 python-epson-projector
 python-epub
@@ -7415,7 +7347,6 @@ python-h11
 python-h2
 python-chai
 python-chameleon
-python-chaospy
 python-check-manifest
 python-cheetah
 python-cheroot
@@ -7505,6 +7436,7 @@ python-knack
 python-kombu
 python-korean-lunar-calendar
 python-kubernetes
+python-k2hr3-osnl
 python-lazyarray
 python-lazy-ops
 python-ldappool
@@ -7683,7 +7615,6 @@ python-op1svg
 python-osa
 python-os-client-config
 python-oslo-context
-python-oslo-messaging
 python-oslo-service
 python-osrf-pycommon
 python-os-service-types
@@ -7791,7 +7722,6 @@ python-pycosat
 python-pydantic
 python-pydbus
 python-pydispatcher
-python-pydocstyle
 python-pydotplus
 python-pyeclib
 python-pyemby
@@ -8134,7 +8064,6 @@ python-ssdeep
 python-ssdp
 python-sseclient-py
 python-sseclient
-python-stack-data
 python-stackprinter
 python-statsd
 python-statsmodels
@@ -8447,9 +8376,7 @@ qpdfview
 qperf
 qpid-dispatch
 qpid-proton
-qpress
 qpwgraph
-qqc2-breeze-style
 qqwing
 qrencode
 qrmumps
@@ -8800,7 +8727,6 @@ roca-detect
 rocksdb
 rocksndiamonds
 rocm-compilersupport
-rocm-device-libs
 rocminfo
 rocm-runtime
 R-odbc
@@ -9039,7 +8965,6 @@ rubygem-sys-uname
 rubygem-ttfunk
 rubygem-unicode
 rubygem-uuid
-rubygem-webrick
 rubygem-websocket-driver
 rubygem-xmlparser
 rubygem-xmlrpc
@@ -9060,6 +8985,7 @@ rust-dutree
 rust-gmp-mpfr-sys
 rust-ifcfg-devname
 rust-ifcfg-devname
+rust-libbpf-cargo
 rust-nettle
 rust-nettle-sys
 rust-oxipng
@@ -9186,7 +9112,6 @@ seahorse
 seaview
 sec
 security-menus
-secvarctl
 sediment
 sen
 sepolicy_analysis
@@ -9225,7 +9150,6 @@ shrinkpdf
 shtool
 shunit2
 shutter
-shybrid
 schedtool
 schismtracker
 schroedinger-cat-backgrounds
@@ -9266,7 +9190,6 @@ sjasm
 sj-fonts
 sjinn
 skf
-ski
 skkdic
 skrooge
 skyviewer
@@ -9364,7 +9287,6 @@ splint
 spnavcfg
 spooky-c
 spor
-springlobby
 spyder
 sqlgrey
 sqliteman
@@ -9390,7 +9312,6 @@ sshuttle
 sslh
 sslscan
 sslsplit
-ssmtp
 ssss
 sstp-client
 stacer
@@ -9464,14 +9385,10 @@ sunwait
 sunxi-tools
 supercollider
 superlu_dist
-SuperLUMT
 supertux
 supervisor
 surfraw
 surf
-surgescript
-surgescript
-surgescript
 suru-icon-theme
 svgpart
 svg2svgt
@@ -10029,7 +9946,6 @@ unrtf
 unuran
 unzoo
 uperf
-up-imapproxy
 upslug2
 uptimed
 urdfdom-headers
@@ -10187,7 +10103,6 @@ warsow-data
 warsow
 warzone2100
 wasmedge
-watchman
 wavemon
 wayfire-config-manager
 wayfire
@@ -10263,7 +10178,6 @@ wmname
 wmx
 wob
 WoeUSB
-wofi
 wol
 wondershaper
 woodardworks-laconic-fonts
@@ -10337,7 +10251,6 @@ xen
 xerces-c
 xeus
 xev
-xfburn
 xfce-polkit
 xfce-theme-manager
 xfce4-appfinder
