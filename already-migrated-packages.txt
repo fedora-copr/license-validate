@@ -547,6 +547,7 @@ cctz
 ccze
 cdbs
 cddlib
+cdecl
 cdi-api
 celluloid
 cellwriter
@@ -562,6 +563,7 @@ cfdg-fe
 cfdg
 cfitsio
 cfn-lint
+cgdb
 cgit
 cglib
 cgnslib
@@ -3385,6 +3387,8 @@ hypre
 hyprland-protocols
 hyprland
 hyprlang
+hyprpaper
+hyprpicker
 h3
 chan
 chatterino2
@@ -3487,6 +3491,7 @@ initscripts
 ini2toml
 inkscape
 inksmoto
+inotify-tools
 input-leap
 input-pad
 input-remapper
@@ -3499,6 +3504,7 @@ intel-lpmd
 intel-media-driver-free
 intel-metee
 intel-one-mono-fonts
+intel-vpl-gpu-rt
 intltool
 inxi
 Io-language
@@ -3669,7 +3675,6 @@ kaidan
 kajongg
 kakasi
 kalarm
-kalendar
 kalgebra
 kalk
 kalzium
@@ -4130,6 +4135,7 @@ libcpuid
 libcss
 libcsv
 libcuefile
+libcue
 libcupsfilters
 libcyaml
 libdaemon
@@ -4793,6 +4799,7 @@ mailman3
 mail-notification
 mailprocessing
 mairix
+makedumpfile
 makemusic-finale-fonts
 make
 mako
@@ -6429,6 +6436,7 @@ perl-File-KDBX
 perl-File-KeePass
 perl-File-LibMagic
 perl-File-Listing
+perl-File-LoadLines
 perl-File-MimeInfo
 perl-File-MMagic
 perl-File-Modified
@@ -8739,6 +8747,7 @@ python-llama-cpp-python
 python-llvmlite
 python-localzone
 python-logbook
+python-logdetective
 python-looseversion
 python-lqrt
 python-lsprotocol
@@ -10536,6 +10545,7 @@ rust-below-ethtool
 rust-below-gpu-stats
 rust-below-model
 rust-below-render
+rust-below
 rust-below-store
 rust-below-view
 rust-benfred-read-process-memory
@@ -11628,9 +11638,12 @@ rust-libadwaita-sys0.5
 rust-libadwaita0.5
 rust-libblkid-rs
 rust-libblkid-rs-sys
+rust-libbpf-cargo
 rust-libbpf-cargo0.21
+rust-libbpf-cargo0.22
 rust-libbpf-rs
 rust-libbpf-rs0.21
+rust-libbpf-rs0.22
 rust-libbpf-sys
 rust-libcramjam
 rust-libcryptsetup-rs
@@ -11704,6 +11717,7 @@ rust-local-channel
 rust-local_ipaddress
 rust-local-waker
 rust-lock_api
+rust-lockfree-object-pool
 rust-logging_timer_proc_macros
 rust-logging_timer
 rust-log-mdc
@@ -12310,6 +12324,7 @@ rust-remove_dir_all
 rust-remove_dir_all0.7
 rust-rend
 rust-reqwest-middleware
+rust-reqwest-retry
 rust-reqwest
 rust-reqwest0.11
 rust-resctl-bench-intf

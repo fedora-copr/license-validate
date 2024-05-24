@@ -937,6 +937,7 @@ cdbs
 cdcollect
 cd-discid
 cddlib
+cdecl
 cdi-api
 cdist
 cdk
@@ -6207,6 +6208,8 @@ hypre
 hyprland-protocols
 hyprland
 hyprlang
+hyprpaper
+hyprpicker
 h3
 h5py
 chafa
@@ -6399,6 +6402,7 @@ intel-mpi-benchmarks
 intel-one-mono-fonts
 intel-opencl-clang
 intel-undervolt
+intel-vpl-gpu-rt
 intltool
 inxi
 ioc-writer
@@ -6707,7 +6711,6 @@ kajongg
 kakasi
 kakoune
 kalarm
-kalendar
 kalgebra
 kalibrate-rtl
 kalk
@@ -8611,6 +8614,7 @@ mailprocessing
 maim
 mairix
 makebootfat
+makedumpfile
 make-it-quick
 makemusic-finale-fonts
 makepasswd
@@ -15745,6 +15749,7 @@ python-localzone
 python-locket
 python-lockfile
 python-logbook
+python-logdetective
 python-logfury
 python-logutils
 python-logzero
@@ -17867,6 +17872,7 @@ recoll
 recorder
 recutils
 redeclipse
+redfish-finder
 redhat-fonts
 redhat-lsb
 redhat-menus
@@ -20133,8 +20139,10 @@ rust-libblkid-rs
 rust-libblkid-rs-sys
 rust-libbpf-cargo
 rust-libbpf-cargo0.21
+rust-libbpf-cargo0.22
 rust-libbpf-rs
 rust-libbpf-rs0.21
+rust-libbpf-rs0.22
 rust-libbpf-sys
 rust-libcramjam
 rust-libcryptsetup-rs
@@ -20208,6 +20216,7 @@ rust-local-channel
 rust-local_ipaddress
 rust-local-waker
 rust-lock_api
+rust-lockfree-object-pool
 rust-logging_timer_proc_macros
 rust-logging_timer
 rust-log-mdc
@@ -20818,6 +20827,7 @@ rust-remove_dir_all
 rust-remove_dir_all0.7
 rust-rend
 rust-reqwest-middleware
+rust-reqwest-retry
 rust-reqwest
 rust-reqwest0.11
 rust-resctl-bench-intf

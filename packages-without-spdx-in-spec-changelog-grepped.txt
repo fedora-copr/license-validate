@@ -668,6 +668,7 @@ cdbs
 cdcollect
 cd-discid
 cddlib
+cdecl
 cdist
 cdk
 cdlabelgen
@@ -2129,7 +2130,6 @@ gbdfed
 gbrainy
 gcab
 gcal
-gcc
 gcin
 gcolor2
 gcolor3
@@ -3057,6 +3057,7 @@ gnome-shell-extension-gamerzilla
 gnome-shell-extension-gsconnect
 gnome-shell-extension-just-perfection
 gnome-shell-extension-netspeed
+gnome-shell-extension-no-overview
 gnome-shell-extension-openweather
 gnome-shell-extension-pidgin
 gnome-shell-extension-pop-shell
@@ -5123,6 +5124,8 @@ hypre
 hyprland-protocols
 hyprland
 hyprlang
+hyprpaper
+hyprpicker
 h3
 h5py
 chafa
@@ -5241,7 +5244,6 @@ inkscape
 innoextract
 innotop
 inn
-inotify-tools
 input-leap
 input-remapper
 insight
@@ -5264,6 +5266,7 @@ intel-mpi-benchmarks
 intel-one-mono-fonts
 intel-opencl-clang
 intel-undervolt
+intel-vpl-gpu-rt
 inxi
 ioc-writer
 iodine
@@ -5497,7 +5500,6 @@ kafs-client
 kaidan
 kakoune
 kalarm
-kalendar
 kalgebra
 kalibrate-rtl
 kalk
@@ -7036,6 +7038,7 @@ mailprocessing
 maim
 mairix
 makebootfat
+makedumpfile
 make-it-quick
 makemusic-finale-fonts
 makepasswd
@@ -12778,6 +12781,7 @@ python-lmdb
 python-localzone
 python-locket
 python-lockfile
+python-logdetective
 python-logfury
 python-logutils
 python-logzero
@@ -14093,6 +14097,7 @@ python-vsts
 python-vsure
 python-vulture
 python-wadllib
+python-waitress
 python-walkdir
 python-waqiasync
 python-waterfurnace
@@ -14594,6 +14599,7 @@ recoll
 recorder
 recutils
 redeclipse
+redfish-finder
 redhat-lsb
 redhat-menus
 redict
@@ -16254,8 +16260,10 @@ rust-libblkid-rs
 rust-libblkid-rs-sys
 rust-libbpf-cargo
 rust-libbpf-cargo0.21
+rust-libbpf-cargo0.22
 rust-libbpf-rs
 rust-libbpf-rs0.21
+rust-libbpf-rs0.22
 rust-libbpf-sys
 rust-libcramjam
 rust-libcryptsetup-rs
@@ -16313,6 +16321,7 @@ rust-lmdb-sys
 rust-local-channel
 rust-local-waker
 rust-lock_api
+rust-lockfree-object-pool
 rust-logging_timer_proc_macros
 rust-logging_timer
 rust-log-mdc
@@ -16785,6 +16794,7 @@ rust-remain
 rust-remove_dir_all
 rust-remove_dir_all0.7
 rust-reqwest-middleware
+rust-reqwest-retry
 rust-reqwest
 rust-reqwest0.11
 rust-resctl-bench-intf
@@ -17530,6 +17540,7 @@ sagator
 sailcut
 sakura
 salt-lint
+samba
 samcoupe-rom
 samdump2
 sameboy
@@ -17724,7 +17735,6 @@ sil-charis-fonts
 silkscreen-fonts
 sil-lateef-fonts
 SILLY
-sil-mingzat-fonts
 sil-mondulkiri-extra-fonts
 sil-mondulkiri-fonts
 sil-namdhinggo-fonts
