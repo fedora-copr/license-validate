@@ -67,6 +67,7 @@ adobe-source-serif-pro-fonts
 adplug
 advancecomp
 adwaita-blue-gtk-theme
+adwaita-icon-theme-legacy
 adwaita-icon-theme
 adwaita-qt
 adw-gtk3-theme
@@ -523,6 +524,7 @@ awf-gtk4
 aws-c-cal
 aws-c-common
 aws-c-compression
+aws-c-io
 awscli2
 aws-c-sdkutils
 aws-checksums
@@ -618,7 +620,6 @@ bemenu
 beneath-a-steel-sky-cd
 beneath-a-steel-sky
 bench
-berry
 berusky-data
 berusky
 berusky2-data
@@ -1776,6 +1777,8 @@ dtkcore
 dtkgui
 dtkwidget
 dtkwm
+dtk6core
+dtk6gui
 dt
 dtv-scan-tables
 dualscreen-mouse-utils
@@ -2194,6 +2197,7 @@ faience-icon-theme
 fail2ban
 fakechroot
 fakeroot
+faketpm
 falkon-pdfreader
 falkon
 fancontrol-gui
@@ -6148,7 +6152,6 @@ hxtools
 hydrapaper
 hydra
 hydrogen
-hyena
 hyfetch
 hylafax+
 hyperestraier
@@ -6714,6 +6717,7 @@ kalarm
 kalgebra
 kalibrate-rtl
 kalk
+kalm
 kalzium
 kamera
 kamoso
@@ -6728,6 +6732,7 @@ kapptemplate
 kasts
 kasumi
 kata-containers
+katago
 kate
 kate4
 katomic
@@ -7353,6 +7358,7 @@ legofy
 leland-fonts
 lemonldap-ng
 lensfun
+lens-magic
 leonidas-backgrounds
 leonidas-kde-theme
 leptonica
@@ -8366,6 +8372,7 @@ logjam
 logrotate
 logserial
 logstalgia
+loguru
 logwatch
 log4cplus
 log4cpp
@@ -9283,6 +9290,7 @@ mod_wsgi
 mod_xsendfile
 mod2c
 moe
+mogui
 mojo-executor
 mojo-parent
 moka-icon-theme
@@ -10459,7 +10467,6 @@ pdfcrack
 pdfgrep
 pdfmerge
 pdfmixtool
-pdfmod
 pdfpc
 pdfposter
 pdfresurrect
@@ -15848,6 +15855,7 @@ python-mistune
 python-mistune08
 python-mitogen
 python-mizani
+python-mkdocs-get-deps
 python-mmtf
 python-mne-bids
 python-mnemonic
@@ -16290,6 +16298,7 @@ python-pydantic-core
 python-pydantic-extra-types
 python-pydantic-settings
 python-pydantic
+python-pydapsys
 python-pydata-sphinx-theme
 python-pydbus
 python-pydepsdev
@@ -16339,6 +16348,7 @@ python-pyinels
 python-pyiqvia
 python-pyi2cflash
 python-pyjwkest
+python-pykcs11
 python-pykdtree
 python-pykeepass
 python-pykmip
@@ -20059,6 +20069,7 @@ rust-itertools-num
 rust-itertools
 rust-itertools0.10
 rust-itertools0.11
+rust-itertools0.12
 rust-itertools0.8
 rust-itoap
 rust-itoa
@@ -20264,6 +20275,7 @@ rust-match_cfg
 rust-matchers
 rust-matches
 rust-matchit
+rust-matchit0.7
 rust-matrixcompare-core
 rust-matrixcompare-mock
 rust-matrixcompare
@@ -20650,6 +20662,7 @@ rust-primal
 rust-primeorder
 rust-print_bytes
 rust-print-positions
+rust-priority-queue
 rust-privdrop
 rust-probe
 rust-process_control
@@ -20913,6 +20926,7 @@ rust-rustls
 rust-rustls-webpki
 rust-rustls-webpki0.101
 rust-rustls0.21
+rust-rust-netrc
 rust-rustsec
 rust-rust-stemmers
 rust-rusttype
@@ -21136,12 +21150,14 @@ rust-sscanf
 rust-ssh-cipher
 rust-ssh-encoding
 rust-ssh-key-dir
+rust-ssh-key
 rust-stability
 rust-stability0.1
 rust-stable_deref_trait
 rust-stacker
 rust-standback
 rust-startup-disk
+rust-state
 rust-static_assertions
 rust-statistical
 rust-statrs
@@ -21316,6 +21332,7 @@ rust-tokio-socks
 rust-tokio
 rust-tokio-stream
 rust-tokio-sync
+rust-tokio-tar
 rust-tokio-tcp
 rust-tokio-test
 rust-tokio-threadpool
@@ -21385,6 +21402,7 @@ rust-try-lock
 rust-tss-esapi
 rust-tss-esapi-sys
 rust-ttf-parser
+rust-tui-input
 rust-tuikit
 rust-tui-react
 rust-tui
@@ -23419,6 +23437,8 @@ wine-mono
 wine
 winetricks
 wingpanel-indicator-a11y
+wingpanel-indicator-bluetooth
+wingpanel-indicator-keyboard
 wingpanel
 winpdb
 wipe

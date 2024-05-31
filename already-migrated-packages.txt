@@ -43,6 +43,7 @@ adobe-source-han-serif-kr-fonts
 adobe-source-han-serif-tw-fonts
 adobe-source-sans-pro-fonts
 advancecomp
+adwaita-icon-theme-legacy
 adwaita-icon-theme
 adwaita-qt
 adw-gtk3-theme
@@ -168,6 +169,7 @@ apache-logging-parent
 apache-parent
 apache-resource-bundles
 apachetop
+apbs
 apg
 apiguardian
 api-sanity-checker
@@ -312,6 +314,7 @@ avr-libc
 aws-c-cal
 aws-c-common
 aws-c-compression
+aws-c-io
 awscli2
 aws-c-sdkutils
 aws-checksums
@@ -425,6 +428,7 @@ bootc
 booth
 borgbackup
 borgmatic
+boswars
 bottles
 bovo
 bowtie2
@@ -988,6 +992,8 @@ dtkcommon
 dtkcore
 dtkgui
 dtkwidget
+dtk6core
+dtk6gui
 duf
 duktape
 dump
@@ -995,6 +1001,7 @@ dunst
 duo_unix
 duperemove
 duplicity
+dvgrab
 dwarves
 dwayland
 dwz
@@ -1170,6 +1177,7 @@ extremetuxracer
 extundelete
 e00compr
 fabtests
+faketpm
 fancontrol-gui
 fann
 fantasdic
@@ -2185,6 +2193,7 @@ glib
 glib2
 glimpse
 glinf
+gliv
 gl-manpages
 globus-authz-callout-error
 globus-authz
@@ -3677,12 +3686,14 @@ kakasi
 kalarm
 kalgebra
 kalk
+kalm
 kalzium
 kamoso
 kanshi
 kapow
 kasumi
 kata-containers
+katago
 kbackup
 kbd
 kcalutils
@@ -4071,6 +4082,7 @@ legendary
 legofy
 leland-fonts
 lemonldap-ng
+lens-magic
 less
 lexertl14
 lexertl17
@@ -4678,6 +4690,7 @@ Lmod
 lm_sensors
 logjam
 logrotate
+loguru
 logwatch
 log4cplus
 log4cxx
@@ -5132,6 +5145,7 @@ modulemaker-maven-plugin
 modulemd-tools
 mod_wsgi
 moe
+mogui
 mojo-executor
 mojo-parent
 mokutil
@@ -5317,6 +5331,7 @@ NetworkManager
 NetworkManager-sstp
 NetworkManager-vpnc
 neverball
+newlisp
 newsboat
 newsx
 newt
@@ -7971,6 +7986,7 @@ plasma-welcome
 plasma-workspace-x11
 plasma5support
 player
+playonlinux
 plexus-archiver
 plexus-build-api
 plexus-build-api0
@@ -8796,6 +8812,7 @@ python-mistralclient
 python-mistune
 python-mistune08
 python-mizani
+python-mkdocs-get-deps
 python-mmtf
 python-mne-bids
 python-mne
@@ -8967,6 +8984,7 @@ python-pkginfo
 python-pkginfo2
 python-plac
 python-platformio
+python-plotly
 python-plotnine
 python-pluggy
 python-plugincode
@@ -9028,6 +9046,7 @@ python-pycxx
 python-pydantic-core
 python-pydantic-extra-types
 python-pydantic-settings
+python-pydapsys
 python-pydata-sphinx-theme
 python-pydepsdev
 python-pydicom
@@ -9053,6 +9072,7 @@ python-pygmtools
 python-pygraphviz
 python-pyhcl
 python-pyjwkest
+python-pykcs11
 python-pykdtree
 python-pykeepass
 python-PyLEMS
@@ -9351,6 +9371,7 @@ python-spur
 python-sqlalchemy_schemadisplay
 python-sqlalchemy1.4
 python-sqlglot
+python-sql
 python-sshpubkeys
 python-ssh-python
 python-sshtunnel
@@ -9583,6 +9604,7 @@ pyzor
 pyzy
 py3c
 py3status
+p0f
 p11-kit
 qaccessibilityclient
 qadwaitadecorations
@@ -9786,6 +9808,7 @@ rear
 rebase-helper
 receptor
 recode
+redfish-finder
 redhat-fonts
 redhat-rpm-config
 redict
@@ -11560,6 +11583,7 @@ rust-itertools-num
 rust-itertools
 rust-itertools0.10
 rust-itertools0.11
+rust-itertools0.12
 rust-itertools0.8
 rust-itoap
 rust-itoa
@@ -11765,6 +11789,7 @@ rust-match_cfg
 rust-matchers
 rust-matches
 rust-matchit
+rust-matchit0.7
 rust-matrixcompare-core
 rust-matrixcompare-mock
 rust-matrixcompare
@@ -12148,6 +12173,7 @@ rust-primal
 rust-primeorder
 rust-print_bytes
 rust-print-positions
+rust-priority-queue
 rust-privdrop
 rust-probe
 rust-process_control
@@ -12409,6 +12435,7 @@ rust-rustls
 rust-rustls-webpki
 rust-rustls-webpki0.101
 rust-rustls0.21
+rust-rust-netrc
 rust-rustsec
 rust-rust-stemmers
 rust-rusttype
@@ -12632,12 +12659,14 @@ rust-sscanf
 rust-ssh-cipher
 rust-ssh-encoding
 rust-ssh-key-dir
+rust-ssh-key
 rust-stability
 rust-stability0.1
 rust-stable_deref_trait
 rust-stacker
 rust-standback
 rust-startup-disk
+rust-state
 rust-static_assertions
 rust-statistical
 rust-statrs
@@ -12812,6 +12841,7 @@ rust-tokio-socks
 rust-tokio
 rust-tokio-stream
 rust-tokio-sync
+rust-tokio-tar
 rust-tokio-tcp
 rust-tokio-test
 rust-tokio-threadpool
@@ -12881,6 +12911,7 @@ rust-try-lock
 rust-tss-esapi
 rust-tss-esapi-sys
 rust-ttf-parser
+rust-tui-input
 rust-tuikit
 rust-tui-react
 rust-tui
@@ -13969,6 +14000,7 @@ volk
 volpack
 volume_key
 voms-api-java
+voms-clients-java
 voms
 voro++
 vorta
@@ -14040,6 +14072,7 @@ widevine-installer
 wiiuse
 wike
 wildcard
+wildmagic5
 will-crash
 wimlib
 WindowMaker-extra
@@ -14311,6 +14344,7 @@ zopfli
 zpaq
 zps
 zsh
+z
 zstd
 zstr
 zswap-cli

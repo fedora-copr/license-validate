@@ -42,6 +42,7 @@ adobe-source-serif-pro-fonts
 adplug
 advancecomp
 adwaita-blue-gtk-theme
+adwaita-icon-theme-legacy
 adwaita-icon-theme
 adw-gtk3-theme
 aemu
@@ -359,6 +360,7 @@ awf-gtk4
 aws-c-cal
 aws-c-common
 aws-c-compression
+aws-c-io
 awscli2
 aws-c-sdkutils
 aws-checksums
@@ -431,7 +433,6 @@ bemenu
 beneath-a-steel-sky-cd
 beneath-a-steel-sky
 bench
-berry
 berusky-data
 berusky
 berusky2-data
@@ -450,6 +451,7 @@ biboumi
 BibTool
 bibutils
 bib2html
+bicon
 bijiben
 binaryen
 binclock
@@ -1309,6 +1311,8 @@ dtkcore
 dtkgui
 dtkwidget
 dtkwm
+dtk6core
+dtk6gui
 dt
 dtv-scan-tables
 dualscreen-mouse-utils
@@ -1671,6 +1675,7 @@ faience-icon-theme
 fail2ban
 fakechroot
 fakeroot
+faketpm
 falkon-pdfreader
 falkon
 fancontrol-gui
@@ -5112,7 +5117,6 @@ hxtools
 hydrapaper
 hydra
 hydrogen
-hyena
 hyfetch
 hylafax+
 hyperhdr
@@ -5503,6 +5507,7 @@ kalarm
 kalgebra
 kalibrate-rtl
 kalk
+kalm
 kalzium
 kamera
 kamoso
@@ -5514,6 +5519,7 @@ kapman
 kapow
 kapptemplate
 kasts
+katago
 kate
 kate4
 katomic
@@ -6079,6 +6085,7 @@ legofy
 leland-fonts
 lemonldap-ng
 lensfun
+lens-magic
 leonidas-backgrounds
 leonidas-kde-theme
 leptonica
@@ -6839,6 +6846,7 @@ logitech-27mhz-keyboard-encryption-setup
 logjam
 logserial
 logstalgia
+loguru
 log4cpp
 log4c
 log4cxx
@@ -7610,6 +7618,7 @@ modulemaker-maven-plugin
 modulemd-tools
 mod_xsendfile
 mod2c
+mogui
 moka-icon-theme
 mold
 molequeue
@@ -8481,7 +8490,6 @@ pdfbox
 pdfcrack
 pdfgrep
 pdfmerge
-pdfmod
 pdfpc
 pdfposter
 pdfresurrect
@@ -11513,7 +11521,6 @@ ptlib
 ptl
 ptpython
 ptrash
-pt-sans-fonts
 publican
 public-inbox
 publicsuffix-list
@@ -12873,6 +12880,7 @@ python-mistune
 python-mistune08
 python-mitogen
 python-mizani
+python-mkdocs-get-deps
 python-mmtf
 python-mne-bids
 python-mnemonic
@@ -13264,6 +13272,7 @@ python-pydantic-core
 python-pydantic-extra-types
 python-pydantic-settings
 python-pydantic
+python-pydapsys
 python-pydbus
 python-pydepsdev
 python-pydicom
@@ -13306,6 +13315,7 @@ python-pyinels
 python-pyiqvia
 python-pyi2cflash
 python-pyjwkest
+python-pykcs11
 python-pykdtree
 python-pykeepass
 python-pykmip
@@ -13560,6 +13570,7 @@ python-rawkit
 python-rcssmin
 python-rdflib
 python-reactivex
+python-readability-lxml
 python-readchar
 python-readlike
 python-readme-renderer
@@ -13801,6 +13812,7 @@ python-sphinxcontrib-spelling
 python-sphinxcontrib-svg2pdfconverter
 python-sphinxcontrib-trio
 python-sphinxcontrib-websupport
+python-sphinx-design
 python-sphinx-documatt-theme
 python-sphinxemoji
 python-sphinx-epytext
@@ -14290,7 +14302,6 @@ PyX
 PyYAML
 py3c
 py3status
-p0f
 p0rn-comfort
 p11-kit
 p11-remote
@@ -16195,6 +16206,7 @@ rust-itertools-num
 rust-itertools
 rust-itertools0.10
 rust-itertools0.11
+rust-itertools0.12
 rust-itertools0.8
 rust-itoap
 rust-itoa
@@ -16365,6 +16377,7 @@ rust-markup5ever
 rust-match_cfg
 rust-matchers
 rust-matchit
+rust-matchit0.7
 rust-matrixmultiply
 rust-maybe-async
 rust-maybe-rayon
@@ -16641,6 +16654,7 @@ rust-primal
 rust-primeorder
 rust-print_bytes
 rust-print-positions
+rust-priority-queue
 rust-privdrop
 rust-probe
 rust-process_control
@@ -16862,6 +16876,7 @@ rust-rustls
 rust-rustls-webpki
 rust-rustls-webpki0.101
 rust-rustls0.21
+rust-rust-netrc
 rust-rustsec
 rust-rust-stemmers
 rust-rusttype
@@ -17048,12 +17063,14 @@ rust-sscanf
 rust-ssh-cipher
 rust-ssh-encoding
 rust-ssh-key-dir
+rust-ssh-key
 rust-stability
 rust-stability0.1
 rust-stable_deref_trait
 rust-stacker
 rust-standback
 rust-startup-disk
+rust-state
 rust-static_assertions
 rust-stats_alloc
 rust-stderrlog
@@ -17184,6 +17201,7 @@ rust-tokio-openssl
 rust-tokio-rustls
 rust-tokio-rustls0.24
 rust-tokio-serde
+rust-tokio-tar
 rust-tokio-uring
 rust-toml_datetime
 rust-toml_edit
@@ -17222,6 +17240,7 @@ rust-trycmd
 rust-tss-esapi
 rust-tss-esapi-sys
 rust-ttf-parser
+rust-tui-input
 rust-tui-textarea
 rust-tungstenite
 rust-twofish
@@ -17658,6 +17677,7 @@ setconf
 setools
 setroubleshoot-plugins
 setroubleshoot
+setup
 setzer
 sevmgr
 sexpp
@@ -18689,7 +18709,6 @@ volpack
 volumeicon
 volume_key
 voms-api-java
-voms-clients-java
 voms-mysql-plugin
 voms
 vorbisgain
@@ -18808,6 +18827,8 @@ wine-mono
 wine
 winetricks
 wingpanel-indicator-a11y
+wingpanel-indicator-bluetooth
+wingpanel-indicator-keyboard
 wingpanel
 winpdb
 wipe

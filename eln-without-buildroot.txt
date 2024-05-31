@@ -35,9 +35,6 @@ alsa-tools
 alsa-utils
 anaconda
 annobin
-ansible-collection-ansible-posix
-ansible-collection-community-general
-ansible-collection-containers-podman
 ansible-collection-microsoft-sql
 ansible-core
 ansible-freeipa
@@ -120,6 +117,7 @@ capstone
 catatonit
 catch1
 cdi-api
+cdparanoia
 cepces
 ceph
 certmonger
@@ -138,7 +136,6 @@ clevis
 clevis-pin-tpm2
 cloud-init
 cloud-utils
-clutter
 cmake
 cockpit
 cockpit-composer
@@ -146,7 +143,6 @@ cockpit-machines
 cockpit-ostree
 cockpit-podman
 cockpit-session-recording
-cogl
 color-filesystem
 colord
 colord-gtk
@@ -248,7 +244,6 @@ emacs-filesystem
 enchant2
 enscript
 environment-modules
-erofs-utils
 espeak-ng
 ethtool
 evince
@@ -305,7 +300,6 @@ fxload
 galera
 gawk
 gcc
-gcc-libraries
 gcr
 gcr3
 gd
@@ -629,7 +623,6 @@ ima-evm-utils
 imath
 inih
 iniparser
-initoverlayfs
 initscripts
 insights-client
 intel-cmt-cat
@@ -717,6 +710,7 @@ kronosnet
 ksc
 ksh
 ksmtuned
+ktls-utils
 kyotocabinet
 lame
 langpacks
@@ -773,6 +767,7 @@ libcap-ng
 libcbor
 libcdio
 libcdio-paranoia
+libclc
 libcomps
 libconfig
 libcpuid
@@ -853,7 +848,6 @@ libmad
 libmaxminddb
 libmbim
 libmicrohttpd
-libmng
 libmnl
 libmodulemd
 libmpc
@@ -955,6 +949,7 @@ libvirt
 libvirt-dbus
 libvirt-glib
 libvirt-python
+libvisual
 libvma
 libvorbis
 libvpd
@@ -980,7 +975,6 @@ libzfcphbaapi
 libzip
 libzpc
 linux-firmware
-linux-system-roles
 linuxdoc-tools
 linuxptp
 lksctp-tools
@@ -1098,7 +1092,6 @@ ndctl
 net-snmp
 net-tools
 netavark
-netlabel_tools
 netpbm
 nettle
 network-manager-applet
@@ -1110,11 +1103,8 @@ nghttp2
 nginx
 nmap
 nmstate
-nodejs-cjs-module-lexer
 nodejs-nodemon
 nodejs-packaging
-nodejs-undici
-nodejs20
 nodejs22
 npth
 nss
@@ -1474,6 +1464,7 @@ python-charset-normalizer
 python-colorama
 python-configobj
 python-configshell
+python-crypt-r
 python-cryptography
 python-cups
 python-dasbus
@@ -1522,7 +1513,6 @@ python-markupsafe
 python-meh
 python-netaddr
 python-netifaces
-python-networkx
 python-oauthlib
 python-packaging
 python-pam
@@ -1543,6 +1533,7 @@ python-ptyprocess
 python-pyasn1
 python-pycdio
 python-pycparser
+python-pyghmi
 python-pygit2
 python-pygments
 python-pyproject-hooks
@@ -1598,36 +1589,10 @@ qclib
 qemu-kvm
 qpdf
 qt6
-qt6-qt3d
-qt6-qt5compat
 qt6-qtbase
-qt6-qtcharts
-qt6-qtconnectivity
-qt6-qtdatavis3d
 qt6-qtdeclarative
-qt6-qtimageformats
-qt6-qtlanguageserver
-qt6-qtlocation
-qt6-qtlottie
-qt6-qtmultimedia
-qt6-qtnetworkauth
-qt6-qtpositioning
-qt6-qtquick3d
-qt6-qtquicktimeline
-qt6-qtremoteobjects
 qt6-qtscxml
-qt6-qtsensors
-qt6-qtserialbus
-qt6-qtserialport
-qt6-qtshadertools
-qt6-qtspeech
 qt6-qtsvg
-qt6-qttools
-qt6-qttranslations
-qt6-qtvirtualkeyboard
-qt6-qtwayland
-qt6-qtwebchannel
-qt6-qtwebsockets
 quota
 radvd
 rasdaemon
@@ -1638,6 +1603,7 @@ realtime-setup
 realtime-tests
 rear
 redhat-bookmarks
+redhat-cloud-client-configuration
 redhat-fonts
 redhat-indexhtml
 redhat-logos
@@ -1657,7 +1623,6 @@ rhc
 rhc-worker-playbook
 rhel-system-roles
 rhel-system-roles-sap
-rig
 rit-meera-new-fonts
 rit-rachana-fonts
 rng-tools
@@ -1728,8 +1693,6 @@ sed
 selinux-policy
 servicelog
 setools
-setroubleshoot
-setroubleshoot-plugins
 setserial
 setup
 setxkbmap
@@ -1814,7 +1777,6 @@ tcpdump
 tcsh
 teckit
 tecla
-telnet
 tesseract
 tesseract-tessdata
 texi2html
@@ -1858,6 +1820,7 @@ tzdata
 uchardet
 ucs-miscfixed-fonts
 ucx
+udftools
 udica
 udisks2
 unbound
@@ -1922,7 +1885,6 @@ whois
 wireguard-tools
 wireless-regdb
 wireplumber
-wireshark
 words
 wpa_supplicant
 wsdd
@@ -1942,7 +1904,6 @@ xdg-desktop-portal-gnome
 xdg-desktop-portal-gtk
 xdg-user-dirs
 xdg-user-dirs-gtk
-xdg-utils
 xdp-tools
 xerces-j2
 xfsdump
