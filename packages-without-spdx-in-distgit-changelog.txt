@@ -9,6 +9,7 @@ abrt-java-connector
 abrt-server-info-page
 academic-admin
 accerciser
+accessibility-inspector
 accounts-qml-module
 aces_container
 AcetoneISO
@@ -186,7 +187,6 @@ arachne-pnr
 arandr
 ara
 arbor
-arc-gui-clients
 arc
 arc-theme
 ardour8
@@ -310,6 +310,8 @@ axel
 axmail
 ax25-apps
 ax25-tools
+ax86-terminus-ttf-fonts
+azure-nvme-utils
 a2jmidid
 backintime
 backup-light
@@ -381,6 +383,7 @@ binclock
 bindep
 bindfs
 bind-to-tinydns
+bino
 binwalk
 bionetgen
 bio2jack
@@ -773,6 +776,7 @@ crosswords-puzzle-sets-oedipus
 crosswords-puzzle-sets-pzzl
 crosswords-puzzle-sets-xword-dl
 crosswords
+crow-translate
 crrcsim-addon-models
 crrcsim
 crudini
@@ -1071,6 +1075,7 @@ dtach
 dtkcommon
 dtkcore
 dtkgui
+dtkmultimedia
 dtkwidget
 dtkwm
 dtk6core
@@ -1246,7 +1251,6 @@ equalx
 eralchemy
 ergo
 eric
-erlang-amf
 erlang-base64url
 erlang-basho_stats
 erlang-bbmustache
@@ -1289,7 +1293,6 @@ erlang-neotoma
 erlang-oauth
 erlang-oauth2
 erlang-poolboy
-erlang-proper
 erlang-protobuffs
 erlang-p1_acme
 erlang-p1_mysql
@@ -1308,7 +1311,6 @@ erlang-rpm-macros
 erlang-sd_notify
 erlang-skerl
 erlang-snappy
-erlang
 erlang-ssl_verify_fun
 erlang-stdlib2
 esc
@@ -1805,6 +1807,8 @@ ghc-base-prelude
 ghc-base64-bytestring
 ghc-base64
 ghc-bifunctors
+ghc-bitwise
+ghc-BoundedChan
 ghc-bower-json
 ghc-cached-json-file
 ghc-call-stack
@@ -1893,6 +1897,8 @@ ghc-monad-logger
 ghc-network-uri
 ghc-optparse-applicative
 ghc-pandoc-types
+ghc-panic
+ghc-parameterized-utils
 ghc-parser-combinators
 ghc-parsers
 ghc-path-io
@@ -3128,6 +3134,7 @@ golang-github-nats-io-stan
 golang-github-nats-io-streaming-server
 golang-github-nbrownus-metrics-prometheus
 golang-github-nbutton23-zxcvbn
+golang-github-ncruces-strftime
 golang-github-ncw-acd
 golang-github-ncw-swift
 golang-github-ncw-swift-2
@@ -4081,11 +4088,14 @@ hyperrogue
 hyperscan
 hyprcursor
 hypre
+hypridle
 hyprland-protocols
 hyprland
 hyprlang
+hyprlock
 hyprpaper
 hyprpicker
+hyprwayland-scanner
 h3
 h5py
 chafa
@@ -4824,7 +4834,6 @@ libaccounts-glib
 libaccounts-qt
 libaec
 libaesgm
-libAfterImage
 libahp-gt
 libahp-xc
 libalkimia
@@ -5260,6 +5269,7 @@ libvisual
 libvma
 libvmi
 libvpl
+libvpl-tools
 libvterm
 libv3270
 libwebcam
@@ -5811,6 +5821,7 @@ mingw-mpfr
 mingw-nettle
 mingw-nsiswrapper
 mingw-numpy
+mingw-objfw
 mingw-openal-soft
 mingw-opencv
 mingw-openexr
@@ -6542,7 +6553,6 @@ optipng
 opusfile
 opus-tools
 oqsprovider
-oraculum
 orafce
 orage
 orangefs
@@ -6554,6 +6564,7 @@ osbs-client
 osbuild
 oscillatord
 osgearth
+osh
 osmctools
 osm-gps-map
 osmo-fl2k
@@ -6648,7 +6659,6 @@ pavumeter
 pax
 pax-utils
 pcaro-hermit-fonts
-pcaudiolib
 pcb-rnd
 pcb
 pcc
@@ -6680,7 +6690,6 @@ pdftk-java
 pdf2djvu
 pdf2svg
 pd-mapper
-pdns-recursor
 pdns
 pdqsort
 pdsh
@@ -6976,7 +6985,6 @@ perl-criticism
 perl-Crypt-Argon2
 perl-Crypt-Blowfish_PP
 perl-Crypt-Blowfish
-perl-Crypt-CipherSaber
 perl-Crypt-DES_EDE3
 perl-Crypt-GCrypt
 perl-Crypt-GeneratePassword
@@ -8043,6 +8051,7 @@ perl-URL-Encode-XS
 perl-User-Identity
 perl-User
 perl-User-Utmp
+perl-UUID
 perl-UUID-URandom
 perl-Version-Next
 perl-VM-EC2-Security-CredentialCache
@@ -8642,7 +8651,6 @@ puppet
 pure-ftpd
 purple-facebook
 purple-mm-sms
-purple-telegram
 putty
 puzzles
 pwauth
@@ -8768,6 +8776,7 @@ python-amply
 python-amqp
 python-ana
 python-animatplot
+python-annarchy
 python-annotated-types
 python-ansible-runner
 python-ansicolor
@@ -8808,6 +8817,7 @@ python-astral
 python-astroML
 python-astroplan
 python-astropy-healpix
+python-astropy-iers-data
 python-astroquery
 python-astunparse
 python-asyncssh
@@ -8827,6 +8837,7 @@ python-Automat
 python-autopage
 python-autopep8
 python-avocado
+python-aw-core
 python-awesomeversion
 python-awscrt
 python-AWSIoTPythonSDK
@@ -10168,6 +10179,7 @@ python-pyotgw
 python-pyotp
 python-pypandoc
 python-pypck
+python-pypdf
 python-PyPDF2
 python-pyphen
 python-pypng
@@ -10320,6 +10332,8 @@ python-QtAwesome
 python-qtconsole
 python-QtPy
 python-qt5
+python-quart
+python-quart-trio
 python-qudida
 python-queuelib
 python-qutepart
@@ -11797,9 +11811,11 @@ rust-ansiterm
 rust-ansitok
 rust-anstream
 rust-anstream0.3
+rust-anstyle-lossy
 rust-anstyle-parse
 rust-anstyle-query
 rust-anstyle
+rust-anstyle-svg
 rust-anyhow
 rust-appdirs
 rust-app_dirs2
@@ -11883,6 +11899,7 @@ rust-atomic0.5
 rust-atom
 rust-autocfg
 rust-automod
+rust-avt
 rust-av1-grain
 rust-awc
 rust-aws-nitro-enclaves-cose
@@ -11971,6 +11988,7 @@ rust-bufstream
 rust-bugreport
 rust-build-context
 rust-build-fs-tree
+rust-build_html
 rust-bumpalo
 rust-bwrap
 rust-bytecount
@@ -12069,6 +12087,7 @@ rust-clircle
 rust-clru
 rust-cmac
 rust-cmake
+rust-cmd_lib_macros
 rust-codepage
 rust-codespan-reporting
 rust-codespan
@@ -12111,6 +12130,7 @@ rust-cool_asserts
 rust-copydeps
 rust-copypasta
 rust-cordic
+rust-coreutils
 rust-core2
 rust-countme
 rust-count-zeroes
@@ -12229,6 +12249,7 @@ rust-detone
 rust-deunicode
 rust-devicemapper
 rust-devicemapper-sys
+rust-devise_core
 rust-diesel_derives
 rust-diesel
 rust-diesel_table_macro_syntax
@@ -12292,6 +12313,7 @@ rust-ed25519-compact
 rust-ed25519-dalek
 rust-ed25519
 rust-effective-limits
+rust-ego-tree
 rust-either
 rust-elf
 rust-elliptic-curve
@@ -12374,6 +12396,7 @@ rust-fastrand1
 rust-fast-srgb8
 rust-fat-macho
 rust-fb_procfs
+rust-fb_procfs0.7
 rust-fdeflate
 rust-fd-find
 rust-fd-lock
@@ -12709,6 +12732,7 @@ rust-ignition-config
 rust-ignore
 rust-imagequant
 rust-imagequant-sys
+rust-image-webp
 rust-imara-diff
 rust-imperative
 rust-impl-more
@@ -12876,6 +12900,7 @@ rust-linux_proc
 rust-linux-raw-sys
 rust-linux-raw-sys0.3
 rust-linux-raw-sys0.4
+rust-lipsum
 rust-listenfd
 rust-litrs
 rust-llvm-bitcode
@@ -12985,6 +13010,7 @@ rust-netstat2
 rust-nettle
 rust-nettle-sys
 rust-net2
+rust-newtype-uuid
 rust-nix0.24
 rust-nix0.26
 rust-nix0.27
@@ -13118,6 +13144,7 @@ rust-pcg-mwc
 rust-pci-driver
 rust-pcre2
 rust-pcre2-sys
+rust-pear_codegen
 rust-peeking_take_while
 rust-peg-macros0.6
 rust-peg-runtime0.6
@@ -13161,6 +13188,7 @@ rust-pkg-config
 rust-plain
 rust-platforms
 rust-pleaser
+rust-plex
 rust-pmac
 rust-pmutil
 rust-pnet_base
@@ -13203,6 +13231,7 @@ rust-primal-sieve
 rust-primal-slowsieve
 rust-primal
 rust-primeorder
+rust-primes
 rust-print_bytes
 rust-print-positions
 rust-priority-queue
@@ -13384,6 +13413,7 @@ rust-roff0.1
 rust-ron
 rust-ron0.7
 rust-ropey
+rust-route-recognizer
 rust-routinator
 rust-routinator-ui
 rust-roxmltree
@@ -13432,6 +13462,7 @@ rust-rustsec
 rust-rust-stemmers
 rust-rusttype
 rust-rustversion
+rust-rusty-forkfork
 rust-rusty-fork
 rust-ruzstd
 rust-rxml_proc
@@ -13459,6 +13490,7 @@ rust-scx_rustland
 rust-scx_rusty
 rust-scx_utils
 rust-sd-notify
+rust-sealed_test_derive
 rust-secrecy
 rust-secret-service
 rust-sec1
@@ -13617,6 +13649,7 @@ rust-ssh-key
 rust-stability
 rust-stability0.1
 rust-stable_deref_trait
+rust-stable-pattern
 rust-stacker
 rust-standback
 rust-startup-disk
@@ -13696,10 +13729,12 @@ rust-temptree
 rust-tendril
 rust-termbg
 rust-termcolor
+rust-terminal-colorsaurus
 rust-terminal-light
 rust-terminal_size
 rust-terminal_size0.1
 rust-terminal_size0.2
+rust-terminal-trx
 rust-termini
 rust-termion1
 rust-termion2
@@ -13769,6 +13804,7 @@ rust-tracing_facade
 rust-tracing-chrome
 rust-tracing_chromium
 rust-tracing-indicatif
+rust-tracing-journald
 rust-tracing-serde
 rust-tracing-subscriber
 rust-tracing-tree
@@ -13792,6 +13828,7 @@ rust-ttf-parser
 rust-tui-input
 rust-tui-textarea
 rust-tungstenite
+rust-two-face
 rust-twofish
 rust-twoway
 rust-typed-builder-macro
@@ -14306,6 +14343,7 @@ skanpage
 skf
 ski
 skkdic
+skladnik
 skrooge
 skyviewer
 SkyX
@@ -14418,7 +14456,6 @@ spill
 spim
 spindown
 spirv-llvm-translator11
-spirv-llvm-translator16
 spirv-llvm15.0-translator
 spi-tools
 splat
@@ -14905,6 +14942,7 @@ unifying-receiver-udev
 uniol-fonts
 unique
 unique3
+unison
 unittest-cpp
 unity-gtk-module
 unixcw
@@ -14965,6 +15003,7 @@ vamp-plugin-sdk
 vanityhash
 vapoursynth
 variety
+vaultwarden-web
 vavoom
 vboot-utils
 vcftools
@@ -15000,6 +15039,7 @@ vdr-vnsiserver
 veccore
 vecgeom
 vecmath1.2
+vectorscan
 vemana2000-fonts
 veristat
 verne-backgrounds
@@ -15476,7 +15516,6 @@ xwxapt
 xzgv
 xz
 x11docker
-x11-ssh-askpass
 x11trace
 x2goclient
 x2godesktopsharing
@@ -15587,6 +15626,7 @@ z88dk
 3dprinter-udev-rules
 3mux
 3proxy
+389-ds-base
 4th
 6tunnel
 8088_bios

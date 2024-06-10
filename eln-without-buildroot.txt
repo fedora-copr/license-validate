@@ -13,7 +13,6 @@ SDL2
 WALinuxAgent
 Xaw3d
 a52dec
-aajohan-comfortaa-fonts
 aardvark-dns
 abattis-cantarell-fonts
 accel-config
@@ -26,6 +25,7 @@ adobe-mappings-cmap
 adobe-mappings-pdf
 adobe-source-code-pro-fonts
 adwaita-icon-theme
+adwaita-icon-theme-legacy
 aide
 alsa-firmware
 alsa-lib
@@ -117,7 +117,6 @@ capstone
 catatonit
 catch1
 cdi-api
-cdparanoia
 cepces
 ceph
 certmonger
@@ -313,7 +312,6 @@ geocode-glib
 geolite2
 gettext
 gfs2-utils
-ghc-srpm-macros
 ghostscript
 giflib
 git
@@ -396,7 +394,6 @@ grubby
 gsettings-desktop-schemas
 gsm
 gsound
-gspell
 gssproxy
 gstreamer1
 gstreamer1-plugins-bad-free
@@ -685,7 +682,6 @@ json-glib
 jsoncpp
 jsr-305
 jss
-julietaula-montserrat-fonts
 junit
 junit5
 jzlib
@@ -766,8 +762,6 @@ libcap
 libcap-ng
 libcbor
 libcdio
-libcdio-paranoia
-libclc
 libcomps
 libconfig
 libcpuid
@@ -949,7 +943,6 @@ libvirt
 libvirt-dbus
 libvirt-glib
 libvirt-python
-libvisual
 libvma
 libvorbis
 libvpd
@@ -1018,6 +1011,7 @@ m4
 madan-fonts
 mailcap
 make
+makedumpfile
 man-db
 man-pages
 mariadb-connector-c
@@ -1127,7 +1121,6 @@ ongres-scram
 ongres-stringprep
 oniguruma
 opae
-opal-prd
 open-sans-fonts
 open-vm-tools
 openblas
@@ -1168,7 +1161,6 @@ osbuild-composer
 osinfo-db
 osinfo-db-tools
 ostree
-overpass-fonts
 p11-kit
 pacemaker
 package-notes
@@ -1189,6 +1181,7 @@ pavucontrol
 pbzip2
 pcaudiolib
 pciutils
+pcm
 pcp
 pcre2
 pcs
@@ -1218,7 +1211,9 @@ perl-Compress-Raw-Lzma
 perl-Compress-Raw-Zlib
 perl-Config-Perl-V
 perl-Convert-ASN1
+perl-Convert-Base32
 perl-Crypt-DES
+perl-Crypt-URandom
 perl-DBD-MariaDB
 perl-DBD-MySQL
 perl-DBD-Pg
@@ -1237,7 +1232,6 @@ perl-Digest
 perl-Digest-HMAC
 perl-Digest-MD5
 perl-Digest-SHA
-perl-Digest-SHA1
 perl-Encode
 perl-Encode-Locale
 perl-Env
@@ -1328,11 +1322,13 @@ perl-Storable
 perl-String-ShellQuote
 perl-Sub-Exporter
 perl-Sub-Install
+perl-Sub-Uplevel
 perl-Sys-Syslog
 perl-Term-ANSIColor
 perl-Term-Cap
 perl-Term-Table
 perl-TermReadKey
+perl-Test-Exception
 perl-Test-Harness
 perl-Test-NoWarnings
 perl-Test-Simple
@@ -1475,7 +1471,6 @@ python-dbus-signature-pyparsing
 python-dbusmock
 python-decorator
 python-distro
-python-dmidecode
 python-dns
 python-docutils
 python-drgn
@@ -1484,6 +1479,7 @@ python-flit-core
 python-greenlet
 python-gssapi
 python-idna
+python-ifaddr
 python-imagesize
 python-iniconfig
 python-iniparse
@@ -1520,11 +1516,9 @@ python-pefile
 python-pexpect
 python-pid
 python-pip
-python-platformdirs
 python-pluggy
 python-ply
 python-podman
-python-pooch
 python-productmd
 python-prompt-toolkit
 python-psutil

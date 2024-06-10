@@ -978,7 +978,6 @@ equalx - can be trivially converted to GPL-3.0-or-later
 eralchemy - can be trivially converted to Apache-2.0
 ergo - can be trivially converted to GPL-3.0-or-later
 eric - can be trivially converted to GPL-3.0-or-later
-erlang-amf
 erlang-base64url warning: valid as old and new and no changelong entry, please check
 erlang-bbmustache warning: valid as old and new and no changelong entry, please check
 erlang-certifi
@@ -986,7 +985,6 @@ erlang-cf
 erlang-cl warning: valid as old and new and no changelong entry, please check
 erlang-corba - can be trivially converted to Apache-2.0
 erlang-cowboy warning: valid as old and new and no changelong entry, please check
-erlang-cowlib - can be trivially converted to Apache-2.0
 erlang-cth_readable
 erlang-eflame warning: valid as old and new and no changelong entry, please check
 erlang-egeoip
@@ -1017,12 +1015,9 @@ erlang-mustache warning: valid as old and new and no changelong entry, please ch
 erlang-neotoma warning: valid as old and new and no changelong entry, please check
 erlang-oauth warning: valid as old and new and no changelong entry, please check
 erlang-oauth2 warning: valid as old and new and no changelong entry, please check
-erlang-poolboy - can be trivially converted to LicenseRef-Fedora-Public-Domain OR Apache-2.0
-erlang-proper - can be trivially converted to GPL-3.0-or-later
 erlang-p1_acme - can be trivially converted to Apache-2.0
 erlang-p1_mysql
 erlang-p1_oauth2 warning: valid as old and new and no changelong entry, please check
-erlang-p1_utils - can be trivially converted to Apache-2.0
 erlang-ranch warning: valid as old and new and no changelong entry, please check
 erlang-rebar warning: valid as old and new and no changelong entry, please check
 erlang-rebar3
@@ -1032,7 +1027,6 @@ erlang-riak_pb - can be trivially converted to Apache-2.0
 erlang-rpm-macros warning: valid as old and new and no changelong entry, please check
 erlang-sd_notify warning: valid as old and new and no changelong entry, please check
 erlang-skerl
-erlang - can be trivially converted to Apache-2.0
 erlang-ssl_verify_fun warning: valid as old and new and no changelong entry, please check
 erlang-stdlib2
 esh warning: valid as old and new and no changelong entry, please check
@@ -1526,7 +1520,6 @@ glob2 - can be trivially converted to GPL-3.0-or-later
 glogg - can be trivially converted to GPL-3.0-or-later
 glog
 gloox - can be trivially converted to GPL-3.0-only
-glslang warning: not valid neither as Callaway nor as SPDX, please check
 glues warning: valid as old and new and no changelong entry, please check
 gluster-block - can be trivially converted to GPL-2.0-only OR LGPL-3.0-or-later
 glyphicons-halflings-fonts warning: valid as old and new and no changelong entry, please check
@@ -2793,7 +2786,6 @@ growlight - can be trivially converted to GPL-3.0-or-later
 grpcurl warning: valid as old and new and no changelong entry, please check
 grsync - can be trivially converted to GPL-2.0-only
 gsequencer
-gsettings-qt - can be trivially converted to LGPL-3.0-only
 gshhg-gmt-nc4 - can be trivially converted to LGPL-3.0-or-later
 gshutdown - can be trivially converted to GPL-2.0-or-later
 gsim85 - can be trivially converted to GPL-2.0-or-later
@@ -3478,7 +3470,6 @@ libaccounts-glib
 libaccounts-qt
 libaec
 libaesgm
-libAfterImage
 libalkimia
 libappindicator
 libapreq2 - can be trivially converted to Apache-2.0
@@ -3846,7 +3837,6 @@ libyui
 libyui - can be trivially converted to GPL-2.0-or-later
 libyui - can be trivially converted to GPL-2.0-or-later
 libyui - can be trivially converted to GPL-2.0-or-later
-libyuv
 libzbd - can be trivially converted to LGPL-3.0-or-later AND GPL-3.0-or-later
 libzdb
 libzypp - can be trivially converted to GPL-2.0-or-later
@@ -4311,7 +4301,6 @@ mingw-portaudio
 mingw-postgresql warning: valid as old and new and no changelong entry, please check
 mingw-protobuf
 mingw-python-affine
-mingw-python-certifi warning: not valid neither as Callaway nor as SPDX, please check
 mingw-python-dateutil
 mingw-python-ephem warning: valid as old and new and no changelong entry, please check
 mingw-python-chardet
@@ -4882,7 +4871,6 @@ options - can be trivially converted to Apache-2.0
 optipng warning: valid as old and new and no changelong entry, please check
 opusfile
 opus-tools
-oraculum - can be trivially converted to GPL-2.0-or-later
 orafce
 orangefs
 orocos-bfl
@@ -4962,7 +4950,6 @@ pavucontrol-qt - can be trivially converted to GPL-2.0-or-later
 pavumeter - can be trivially converted to GPL-2.0-or-later
 pax
 pax-utils - can be trivially converted to GPL-2.0-only
-pcaudiolib - can be trivially converted to GPL-3.0-or-later
 pcb-rnd
 pcb - can be trivially converted to GPL-2.0-or-later
 pcc
@@ -4987,7 +4974,6 @@ pdfposter - can be trivially converted to GPL-3.0-or-later
 pdfsign - can be trivially converted to GPL-2.0-only
 pdf2djvu - can be trivially converted to GPL-2.0-or-later
 pdf2svg - can be trivially converted to GPL-2.0-or-later
-pdns-recursor - can be trivially converted to GPL-2.0-only
 pdns - can be trivially converted to GPL-2.0-only
 pdsh - can be trivially converted to GPL-2.0-or-later
 peek
@@ -5239,7 +5225,6 @@ perl-CPAN-Releases-Latest - can be trivially converted to GPL-1.0-or-later OR Ar
 perl-criticism - can be trivially converted to GPL-1.0-or-later OR Artistic-1.0-Perl
 perl-Crypt-Blowfish_PP - can be trivially converted to GPL-1.0-or-later OR Artistic-1.0-Perl
 perl-Crypt-Blowfish warning: not valid neither as Callaway nor as SPDX, please check
-perl-Crypt-CipherSaber - can be trivially converted to GPL-1.0-or-later OR Artistic-1.0-Perl
 perl-Crypt-DES_EDE3 - can be trivially converted to GPL-1.0-or-later OR Artistic-1.0-Perl
 perl-Crypt-GCrypt - can be trivially converted to GPL-1.0-or-later OR Artistic-1.0-Perl
 perl-Crypt-GeneratePassword - can be trivially converted to GPL-1.0-or-later OR Artistic-1.0-Perl
@@ -6652,7 +6637,6 @@ puppet-firewalld - can be trivially converted to GPL-2.0-or-later
 pure-ftpd
 purple-facebook - can be trivially converted to GPL-2.0-or-later
 purple-mm-sms - can be trivially converted to GPL-3.0-or-later
-purple-telegram
 putty warning: valid as old and new and no changelong entry, please check
 puzzles warning: valid as old and new and no changelong entry, please check
 pwauth
@@ -7037,7 +7021,6 @@ python-cs
 python-cssselect
 python-cssselect2
 python-csvkit warning: valid as old and new and no changelong entry, please check
-python-curio
 python-curtsies warning: valid as old and new and no changelong entry, please check
 python-cvss - can be trivially converted to LGPL-3.0-or-later
 python-cwcwidth warning: valid as old and new and no changelong entry, please check
@@ -7622,7 +7605,6 @@ python-parse
 python-parse_type warning: valid as old and new and no changelong entry, please check
 python-parsimonious warning: valid as old and new and no changelong entry, please check
 python-parsley warning: valid as old and new and no changelong entry, please check
-python-parso
 python-parver warning: valid as old and new and no changelong entry, please check
 python-paste-deploy warning: valid as old and new and no changelong entry, please check
 python-pastel warning: valid as old and new and no changelong entry, please check
@@ -8376,7 +8358,6 @@ qterminal - can be trivially converted to GPL-2.0-only
 qtermwidget - can be trivially converted to GPL-2.0-or-later
 qtchooser
 qtiocompressor - can be trivially converted to GPL-3.0-only OR LGPL-2.0-or-later WITH FLTK-exception
-qtkeychain
 qtlockedfile - can be trivially converted to GPL-3.0-only OR LGPL-2.0-or-later WITH FLTK-exception
 qtl866 - can be trivially converted to GPL-3.0-or-later
 qt-mobility - can be trivially converted to LGPL-2.0-or-later WITH FLTK-exception
@@ -8939,7 +8920,6 @@ rubygem-ruby-shadow - can be trivially converted to LicenseRef-Fedora-Public-Dom
 rubygem-sassc-rails
 rubygem-scanf
 rubygem-selenium-webdriver - can be trivially converted to Apache-2.0
-rubygem-serialport - can be trivially converted to GPL-2.0-only
 rubygem-sinatra-rabbit - can be trivially converted to Apache-2.0
 rubygem-sqlite3
 rubygems warning: valid as old and new and no changelong entry, please check
@@ -8968,6 +8948,7 @@ rust-dutree warning: not valid neither as Callaway nor as SPDX, please check
 rust-gmp-mpfr-sys warning: not valid neither as Callaway nor as SPDX, please check
 rust-ifcfg-devname warning: not valid neither as Callaway nor as SPDX, please check
 rust-ifcfg-devname warning: not valid neither as Callaway nor as SPDX, please check
+rust-lipsum warning: valid as old and new and no changelong entry, please check
 rust-nettle warning: not valid neither as Callaway nor as SPDX, please check
 rust-nettle-sys warning: not valid neither as Callaway nor as SPDX, please check
 rust-oxipng warning: valid as old and new and no changelong entry, please check
@@ -10141,8 +10122,6 @@ wildmidi - can be trivially converted to LGPL-3.0-or-later
 wildmidi - can be trivially converted to LGPL-3.0-or-later
 wine-dxvk warning: valid as old and new and no changelong entry, please check
 winetricks
-wingpanel-indicator-bluetooth
-wingpanel-indicator-keyboard
 winpdb - can be trivially converted to GPL-2.0-or-later
 wipe - can be trivially converted to GPL-1.0-or-later
 wireguard-tools - can be trivially converted to GPL-2.0-only
@@ -10393,7 +10372,6 @@ xz - can be trivially converted to LicenseRef-Fedora-Public-Domain
 xz - can be trivially converted to LicenseRef-Fedora-Public-Domain
 xz - can be trivially converted to LicenseRef-Fedora-Public-Domain
 x11docker warning: valid as old and new and no changelong entry, please check
-x11-ssh-askpass - can be trivially converted to LicenseRef-Fedora-Public-Domain
 x11trace - can be trivially converted to GPL-2.0-only
 x2goclient - can be trivially converted to GPL-2.0-or-later
 x2godesktopsharing - can be trivially converted to GPL-2.0-or-later
