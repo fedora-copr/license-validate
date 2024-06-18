@@ -36,6 +36,7 @@ filename = sys.argv[1]
 old_license = sys.argv[2]
 new_license = alter_license(old_license)
 specfile = Specfile(filename)
+migrated = False
 
 with specfile.sections() as sections:
     for section in sections:
@@ -45,15 +46,17 @@ with specfile.sections() as sections:
                     license = tags.license.value
                     if license == old_license:
                         tags.license.value = new_license
+                        migrated = True
                     #print(section.name, tags.license.value)
                     #tags.license = "MIT"
-if not specfile.has_autorelease:
-    specfile.release = str(increment_last_number(specfile.expanded_release))
-if not specfile.has_autochangelog:
-    specfile.add_changelog_entry(
-        f"- convert license to SPDX",
-        author='Miroslav Suchý',
-        email='msuchy@redhat.com',
-        timestamp=datetime.now().date(),
-    )
-specfile.save()
+if migrated:
+    if not specfile.has_autorelease:
+        specfile.release = str(increment_last_number(specfile.expanded_release))
+    if not specfile.has_autochangelog:
+        specfile.add_changelog_entry(
+            f"- convert license to SPDX",
+            author='Miroslav Suchý',
+            email='msuchy@redhat.com',
+            timestamp=datetime.now().date(),
+        )
+    specfile.save()

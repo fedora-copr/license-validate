@@ -1,6 +1,6 @@
 #!/usr/bin/bash
 
-LICENSE='ASL 1.0'
+LICENSE='GPL+'
 ### Takes list of packages as positional argument
 
 
@@ -12,9 +12,12 @@ for line in $(cat $1); do
         git commit -a -m "convert $LICENSE license to SPDX
 
 This is part of https://fedoraproject.org/wiki/Changes/SPDX_Licenses_Phase_4"
-        git show
-        echo "Check commit. Hit Ctrl+D when you are ready. git-push will be done automatically"
-        bash
-        git push
+        git show |cat 
+        if git lol | head -n1 | grep SPDX ; then 
+                #echo "Check commit. Hit Ctrl+D when you are ready. git-push will be done automatically"
+                #bash
+                git push
+                #fedpkg build --nowait
+        fi
 done
 
