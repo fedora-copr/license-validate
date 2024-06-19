@@ -1102,6 +1102,7 @@ cobbler
 coccinelle
 cockatrice
 cockpit-composer
+cockpit-files
 cockpit-machines
 cockpit-navigator
 cockpit-ostree
@@ -2439,6 +2440,7 @@ flopgen
 floppy-support
 florence
 florist
+flowblade
 flowcanvas
 flow-tools
 flpsed
@@ -4088,7 +4090,6 @@ golang-github-bmizerany-assert
 golang-github-bmkessler-fastdiv
 golang-github-bobesa-domain-util
 golang-github-bobusumisu-aho-corasick
-golang-github-boltdb-bolt
 golang-github-boombuler-barcode
 golang-github-bradenhilton-cityhash
 golang-github-bradfitz-gomemcache
@@ -4493,7 +4494,6 @@ golang-github-haproxytech-dataplaneapi
 golang-github-haproxytech-logger
 golang-github-harrymichal-version
 golang-github-hashicorp-cleanhttp
-golang-github-hashicorp-consul-migrate
 golang-github-hashicorp-consul
 golang-github-hashicorp-envparse
 golang-github-hashicorp-errwrap
@@ -4511,7 +4511,6 @@ golang-github-hashicorp-memberlist
 golang-github-hashicorp-memdb
 golang-github-hashicorp-msgpack
 golang-github-hashicorp-multierror
-golang-github-hashicorp-raft-boltdb
 golang-github-hashicorp-raft-mdb
 golang-github-hashicorp-raft
 golang-github-hashicorp-retryablehttp
@@ -6225,6 +6224,7 @@ hyprlang
 hyprlock
 hyprpaper
 hyprpicker
+hyprutils
 hyprwayland-scanner
 h3
 h5py
@@ -7619,7 +7619,6 @@ libgdither
 libgdl
 libgedit-gtksourceview
 libgee
-libgee06
 libgenht
 libgeotiff
 libgepub
@@ -9315,6 +9314,7 @@ mold
 molequeue
 molsketch
 mom
+monado-vulkan-layers
 monafont
 mongo-c-driver
 mongoose
@@ -9719,6 +9719,7 @@ nng
 nnn
 node-exporter
 nodejs-acorn-object-spread
+nodejs-aw-webui
 nodejs-backbone
 nodejs-bash-language-server
 nodejs-buble
@@ -10206,6 +10207,7 @@ openoffice-lv
 openoffice.org-diafilter
 openoffice.org-dict-cs_CZ
 openosc
+openpace
 openpgl
 openpgm
 open-policy-agent
@@ -15175,7 +15177,6 @@ python-dtfabric
 python-dtopt
 python-ducc0
 python-duecredit
-python-dukpy
 python-dulwich
 python-dunamai
 python-d2to1
@@ -15283,9 +15284,11 @@ python-fisx
 python-fitsio
 python-fixit
 python-fixtures
+python-flake8-blind-except
 python-flake8-builtins
+python-flake8-class-newline
 python-flake8-comprehensions
-python-flake8-docstrings
+python-flake8-deprecated
 python-flake8-import-order
 python-flake8-polyfill
 python-flake8-quotes
@@ -15738,6 +15741,7 @@ python-ldappool
 python-ldap
 python-ldap3
 python-leather
+python-legacy-cgi
 python-lesscpy
 python-Levenshtein
 python-lexicon
@@ -17490,6 +17494,7 @@ p0rn-comfort
 p11-kit
 p11-remote
 p7zip
+qaccessibilityclient-qt5
 qaccessibilityclient
 qadwaitadecorations
 qalculate-gtk
@@ -18936,6 +18941,7 @@ rust-ansi_term
 rust-ansiterm
 rust-ansi_term0.11
 rust-ansitok
+rust-ansi-width
 rust-anstream
 rust-anstream0.3
 rust-anstyle-lossy
@@ -19039,6 +19045,8 @@ rust-atom
 rust-atty
 rust-autocfg
 rust-automod
+rust-avif-parse
+rust-avif-serialize
 rust-av-metrics
 rust-avt
 rust-av1-grain
@@ -19218,6 +19226,7 @@ rust-cexpr
 rust-cfb-mode
 rust-cfb
 rust-cfg_aliases
+rust-cfg_aliases0.1
 rust-cfg-expr
 rust-cfg-if
 rust-cfg-if0.1
@@ -19601,10 +19610,8 @@ rust-ethtool
 rust-euclid
 rust-event-listener
 rust-event-listener-strategy
-rust-event-listener-strategy0.4
 rust-event-listener2
 rust-event-listener3
-rust-event-listener4
 rust-event-manager
 rust-exacl
 rust-executable-path
@@ -20407,6 +20414,7 @@ rust-nix0.23
 rust-nix0.24
 rust-nix0.26
 rust-nix0.27
+rust-nix0.28
 rust-noisy_float
 rust-nom
 rust-nom-supreme
@@ -20418,7 +20426,6 @@ rust-normpath
 rust-no-std-net
 rust-notify-debouncer-full
 rust-notify-debouncer-mini
-rust-notify-debouncer-mini0.2
 rust-notify-rust
 rust-notify
 rust-notify5
@@ -20488,7 +20495,6 @@ rust-opaque-debug
 rust-openat-ext
 rust-openat
 rust-opener
-rust-opener0.5
 rust-openpgp-cert-d
 rust-open
 rust-openssh-keys
@@ -20565,6 +20571,7 @@ rust-password-hash
 rust-password-hash0.4
 rust-paste
 rust-path-absolutize
+rust-path-clean
 rust-path-dedot
 rust-pathdiff
 rust-pathfinder_geometry
@@ -20666,6 +20673,7 @@ rust-pore
 rust-pori
 rust-portable-atomic
 rust-portable-atomic-util
+rust-portable-atomic-util0.1
 rust-portpicker
 rust-powerfmt-macros
 rust-powerfmt
@@ -20834,7 +20842,6 @@ rust-rand0.5
 rust-rand0.6
 rust-rand0.7
 rust-ratatui
-rust-ratatui0.21
 rust-ratatui0.25
 rust-rav1e
 rust-rawpointer
@@ -20890,7 +20897,6 @@ rust-result-like-derive
 rust-result-like
 rust-retry-policies
 rust-retry
-rust-retry1
 rust-rfc2047-decoder
 rust-rfc6979
 rust-rgb
@@ -21167,6 +21173,7 @@ rust-snafu
 rust-snake_case
 rust-snapbox-macros
 rust-snapbox
+rust-snapbox0.4
 rust-snap
 rust-snphost
 rust-socketpair
@@ -21442,6 +21449,7 @@ rust-trust-dns-server
 rust-trybuild
 rust-trybuild2
 rust-trycmd
+rust-trycmd0.14
 rust-try-lock
 rust-tss-esapi
 rust-tss-esapi-sys
@@ -21604,6 +21612,7 @@ rust-uu_tail
 rust-uu_tee
 rust-uu_test
 rust-uutils_term_grid
+rust-uutils_term_grid0.3
 rust-uu_touch
 rust-uu_tr
 rust-uu_true
@@ -21767,11 +21776,13 @@ rust-zstd-safe6
 rust-zstd
 rust-zstd-sys
 rust-zstd0.12
+rust-zune-core
 rust-zvariant_derive
 rust-zvariant_derive2
 rust-zvariant_derive3
 rust-zvariant
 rust-zvariant_utils
+rust-zvariant_utils1
 rust-zvariant2
 rust-zvariant3
 rust-z85
@@ -23486,6 +23497,7 @@ wine
 winetricks
 wingpanel-indicator-a11y
 wingpanel-indicator-bluetooth
+wingpanel-indicator-datetime
 wingpanel-indicator-keyboard
 wingpanel
 winpdb

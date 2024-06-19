@@ -11,6 +11,7 @@ driverctl
 e2fsprogs
 ecj
 exec-maven-plugin
+future
 gcab
 golang-github-cpuguy83-md2man
 gstreamer1-plugins-bad-free
@@ -24,7 +25,10 @@ libgit2
 libieee1284
 libpng
 librabbitmq
+libtomcrypt
+libtommath
 libvma
+libyubikey
 linux-firmware
 lldpd
 lockdev
@@ -33,8 +37,15 @@ mallard-rng
 mariadb10.11
 maven-shade-plugin
 maven-verifier-plugin
-mingw-gcc
-mingw-headers
+mingw-bzip2
+mingw-c-ares
+mingw-dlfcn
+mingw-expat
+mingw-libxml2
+mingw-openssl
+mingw-pdcurses
+mingw-tcl
+mingw-tk
 mm-common
 mod_authnz_pam
 mod_intercept_form_submit
@@ -53,9 +64,10 @@ perl-Convert-Base32
 pipewire
 plotutils
 pulseaudio
-pybind11
+pyOpenSSL
 pyelftools
 python-ifaddr
+python-ldap3
 python-libarchive-c
 python-markdown
 python-pam
@@ -86,3 +98,4 @@ wireguard-tools
 xmlrpc-c
 xz
 yelp-xsl
+ykclient
