@@ -1015,6 +1015,7 @@ dtk6core
 dtk6gui
 duf
 duktape
+dummy-package-canary
 dump
 dunst
 duo_unix
@@ -2305,6 +2306,7 @@ glycin-loaders
 glyphography-newscycle-fonts
 gmic
 gmime30
+gmobile
 gmp-ecm
 gmp
 gmsh
@@ -2477,6 +2479,7 @@ golang-github-apparentlymart-textseg-15
 golang-github-armon-consul-api
 golang-github-arran4-ical
 golang-github-atotto-clipboard
+golang-github-avast-retry4
 golang-github-awslabs-aws-multi-module-repository-tools
 golang-github-aws-sdk
 golang-github-aws-sdk-2
@@ -2846,6 +2849,7 @@ golang-github-scaleway-sdk
 golang-github-seancfoley-bintree
 golang-github-seancfoley-ipaddress
 golang-github-sebdah-goldie-1
+golang-github-seccomp-libseccomp
 golang-github-segmentio-asm
 golang-github-segmentio-encoding
 golang-github-sergi-diff
@@ -6594,6 +6598,7 @@ perl-Geo-Functions
 perl-Geo-Inverse
 perl-Geo-ShapeFile
 perl-Getopt-ArgvFile
+perl-Getopt-GUI-Long
 perl-Getopt-Long-Descriptive
 perl-Getopt-Long
 perl-Getopt-Usaginator
@@ -7290,6 +7295,7 @@ perl-Promises
 perl-Protocol-HTTP2
 perl-Protocol-SOCKS
 perl-Protocol-WebSocket
+perl-QWizard
 perl-Razor-Agent
 perl-RDF-NS-Curated
 perl-RDF-NS
@@ -8495,6 +8501,7 @@ python-cssutils
 python-cups
 python-curio
 python-cvdupdate
+python-cvelib
 python-cvxopt
 python-cyipopt
 python-cysignals
@@ -8724,6 +8731,7 @@ python-http-server-mock
 python-httpx-socks
 python-httpx
 python-hudman
+python-huggingface-hub
 python-humblewx
 python-hvac
 python-hwdata
@@ -8938,7 +8946,6 @@ python-multidict
 python-multiecho
 python-multilib
 python-MultipartPostHandler2
-python-multipart
 python-multiprocess
 python-multitasking
 python-munkres
@@ -9134,6 +9141,7 @@ python-pyasn
 python-pyasn1
 python-pyasyncore
 python-pyasynchat
+python-pybbi
 python-pybids
 python-pybtex-docutils
 python-pybtex
@@ -9158,6 +9166,7 @@ python-pydata-sphinx-theme
 python-pydepsdev
 python-pydicom
 python-pydiffx
+python-pydocstyle
 python-pydyf
 python-pyedflib
 python-pyelectro
@@ -9228,6 +9237,7 @@ python-pyrpm
 python-pyrsistent
 python-pysaml2
 python-pysam
+python-pyshacl
 python-pyshtools
 python-pyside6
 python-pysingular
@@ -9275,6 +9285,7 @@ python-pytest-tornado
 python-pytest-vcr
 python-pytest-venv
 python-python-fcl
+python-python-multipart
 python-python-ulid
 python-pytimeparse
 python-pytoolconfig
@@ -10719,6 +10730,7 @@ rust-bisection
 rust-bit_field
 rust-bitfield
 rust-bitfield0.13
+rust-bitfield0.14
 rust-bitflags
 rust-bitflags1
 rust-bitmaps
@@ -10935,6 +10947,7 @@ rust-cookie
 rust-cookie_store
 rust-cookie_store0.16
 rust-cookie0.16
+rust-cookie0.17
 rust-cool_asserts
 rust-coolor
 rust-copydeps
@@ -12100,6 +12113,7 @@ rust-once_cell
 rust-onig
 rust-onig_sys
 rust-oorandom
+rust-oo7
 rust-opaque-debug
 rust-openat-ext
 rust-openat
@@ -12194,6 +12208,7 @@ rust-pci-driver
 rust-pcre2
 rust-pcre2-sys
 rust-pear_codegen
+rust-pear
 rust-peeking_take_while
 rust-peg-macros
 rust-peg-macros0.6
@@ -12347,9 +12362,13 @@ rust-proptest-derive0.3
 rust-proptest
 rust-proptest0.10
 rust-prost-build
+rust-prost-build0.10
 rust-prost-derive
+rust-prost-derive0.10
 rust-prost
 rust-prost-types
+rust-prost-types0.10
+rust-prost0.10
 rust-protobuf-codegen-pure
 rust-protobuf-codegen
 rust-protobuf
@@ -13097,7 +13116,6 @@ rust-unicase
 rust-unic-common
 rust-unic-char-property
 rust-unic-char-range
-rust-unic-langid-impl
 rust-unic-langid-macros-impl
 rust-unic-langid-macros
 rust-unic-langid
@@ -13548,6 +13566,7 @@ shim
 shim-unsigned-aarch64
 shim-unsigned-x64
 shippy
+shotcut
 shotwell
 shyaml
 shybrid
@@ -13743,6 +13762,7 @@ stlsplit
 stockfish
 stomppy
 stow
+stp
 strace
 stratagus
 stratis-cli
@@ -13770,6 +13790,7 @@ sunpinyin
 SuperLUMT
 SuperLU
 supermin
+supernovas
 supertuxkart
 surf-geometry
 surgescript
