@@ -338,7 +338,6 @@ bsh
 bspwm
 bst-external
 btbuilder
-bti
 btrbk
 btrfs-fuse
 btrfs-heatmap
@@ -461,7 +460,6 @@ clearlooks-compact-gnome-theme
 clementine
 clinfo
 clitest
-cloc
 clojure-core-specs-alpha
 clojure-maven-plugin
 clojure
@@ -785,7 +783,6 @@ domoticz
 domtt
 dom4j
 dontpanic
-dotnet6.0
 douceur
 doxy2man
 dpdk
@@ -865,7 +862,6 @@ ecj
 eclipse-swt
 ec2-metadata
 edgar
-edg-mkgridmap
 editres
 ed25519-java
 eegdev
@@ -930,7 +926,6 @@ emacs-rpm-spec-mode
 emacs-slime
 emacs-spice-mode
 emacs-s
-emacs-transient
 emacs-with-editor
 emacs-yaml-mode
 email2trac
@@ -1135,7 +1130,6 @@ feh
 fennel
 fernflower
 festival
-fetch-crl
 fetchlog
 fex
 ffsb
@@ -1254,7 +1248,6 @@ fuse-pingfs
 fuse-zip
 fusion-icon
 fusioninventory-agent
-future
 fuzza
 fuzzel
 fvsp
@@ -1470,7 +1463,6 @@ git-tools
 git-up
 gitweb-caching
 git-xcleaner
-git2cl
 giver
 gkermit
 gkeyfile-sharp
@@ -1637,6 +1629,7 @@ golang-github-antchfx-jsonquery
 golang-github-antchfx-xmlquery
 golang-github-antchfx-xpath
 golang-github-antihax-optional
+golang-github-apache-arrow
 golang-github-apache-beam-2
 golang-github-apex-logs
 golang-github-appc-docker2aci
@@ -1762,7 +1755,6 @@ golang-github-cpuguy83-md2man
 golang-github-creack-goselect
 golang-github-creack-pty
 golang-github-crossdock
-golang-github-cryptix-wav
 golang-github-cucumber-gherkin
 golang-github-cucumber-godog
 golang-github-cucumber-messages
@@ -1832,7 +1824,6 @@ golang-github-eknkc-amber
 golang-github-elazarl-bindata-assetfs
 golang-github-elazarl-goproxy
 golang-github-elithrar-simple-scrypt
-golang-github-elves-elvish
 golang-github-ema-qdisc
 golang-github-emersion-imap-sortthread
 golang-github-emersion-imap
@@ -2543,7 +2534,6 @@ golang-github-xeipuuv-gojsonreference
 golang-github-xeipuuv-gojsonschema
 golang-github-xeonx-timeago
 golang-github-xiang90-probing
-golang-github-xiaq-persistent
 golang-github-xi2-xz
 golang-github-xlab-handysort
 golang-github-xlab-treeprint
@@ -2628,7 +2618,6 @@ golang-jaytaylor-html2text
 golang-k8s-apimachinery
 golang-k8s-api
 golang-k8s-client
-golang-k8s-cli-runtime
 golang-k8s-code-generator
 golang-k8s-component-base
 golang-k8s-component-helpers
@@ -2636,7 +2625,6 @@ golang-k8s-cri-api
 golang-k8s-gengo
 golang-k8s-klog
 golang-k8s-kube-aggregator
-golang-k8s-kubectl
 golang-k8s-kube-openapi
 golang-k8s-metrics
 golang-k8s-pod-security-admission
@@ -2827,7 +2815,6 @@ hddfancontrol
 hddtemp
 hdf
 hdf5
-hdhomerun
 hd-idle
 headsetcontrol
 heimdall
@@ -2848,7 +2835,6 @@ hibernate-jpa-2.0-api
 hidapi
 hidrd
 hid4java
-hiera
 hikari
 hiran-perizia-fonts
 hiredis
@@ -3092,7 +3078,6 @@ jmock
 jneuroml-core
 jneuroml-core
 john
-jolokia-jvm-agent
 jopt-simple
 jorbis
 jorbis
@@ -3383,7 +3368,6 @@ lagan
 lammps
 lasem
 lasi
-lasso
 latencytop
 latex2rtf
 laughlin-backgrounds
@@ -3543,7 +3527,6 @@ libgrss
 libgsasl
 libgsystem
 libgta
-libguess
 libg15render
 libhbaapi
 libhid
@@ -3639,7 +3622,6 @@ libofa
 liboggz
 liboil
 libomxil-bellagio
-libopenmpt
 liboping
 libopkele
 libopm
@@ -4160,7 +4142,6 @@ mingw-cairomm
 mingw-c-ares
 mingw-cmocka
 mingw-colord
-mingw-cppunit
 mingw-crossreport
 mingw-curl
 mingw-dbus-glib
@@ -4173,7 +4154,6 @@ mingw-fftw
 mingw-flac
 mingw-fontconfig
 mingw-freeglut
-mingw-freeimage
 mingw-GConf2
 mingw-gdbm
 mingw-glew
@@ -4295,7 +4275,6 @@ mingw-speex
 mingw-spice-gtk
 mingw-spice-protocol
 mingw-spirv-headers
-mingw-sword
 mingw-taglib
 mingw-tcl
 mingw-tk
@@ -4442,6 +4421,7 @@ muffin
 multicat
 multimarkdown
 multimedia-menus
+multitail
 multiwatch
 mum-hash
 MUMPS
@@ -4519,7 +4499,6 @@ nemo
 nemo
 nemo
 nemo
-neofetch
 neomutt
 neon-backgrounds
 neo
@@ -5712,7 +5691,6 @@ perl-Object-MultiType
 perl-Object-Realize-Later
 perl-Object-Tiny
 perl-OpenGL
-perl-opts
 perl-Ouch
 perl-Package-New
 perl-Palm-PDB
@@ -6136,14 +6114,11 @@ pg-semver
 pg_top
 pgzero
 phasex
-phoc
 phodav
 phonon-backend-gstreamer
 phonon-qt4-backend-gstreamer
 phonon-qt4
 phonon
-phoronix-test-suite
-phosh
 php-alcaeus-mongo-php-adapter
 php-andrewsville-php-token-reflection
 php-aws-php-sns-message-validator
@@ -6506,7 +6481,6 @@ prelude-correlator
 prelude-lml-rules
 prelude-lml
 prelude-manager
-preprocess
 preproc
 prestopalette
 prettyping
@@ -6527,8 +6501,6 @@ profile-sync-daemon
 progman
 progress
 proguard
-prometheus-jmx-exporter
-prometheus-simpleclient-java
 prosody
 protonvpn-cli
 proxmark3
@@ -6899,7 +6871,6 @@ python-colcon-python-setup-py
 python-colcon-recursive-crawl
 python-colcon-ros-bazel
 python-colcon-ros-bundle
-python-colcon-ros
 python-colcon-spawn-shell
 python-colcon-test-result
 python-colcon-zsh
@@ -7525,7 +7496,6 @@ python-pam
 python-pandocfilters
 python-parsedatetime
 python-parsel
-python-parse
 python-parse_type
 python-parsimonious
 python-parsley
@@ -8869,7 +8839,6 @@ rust-rav1e
 rust-rav1e
 rust-rpick
 rust-rpick
-rust-unic-langid-impl
 rust-ybaas
 rust-ybaas
 rust-yubibomb
@@ -9091,7 +9060,6 @@ smoldyn
 smp_utils
 sms_ntsc
 smtpping
-snakeyaml
 snallygaster
 sndfile-tools
 snes_ntsc
@@ -9970,10 +9938,6 @@ wcslib
 wcslib
 wdisplays
 wdsp
-wdune
-wdune
-wdune
-wdune
 webalizer
 webanalyze
 web-assets
