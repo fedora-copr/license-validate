@@ -127,7 +127,6 @@ cifs-utils
 cim-schema
 cjose
 clang
-clang17
 cldr-emoji-annotation
 clevis
 clevis-pin-tpm2
@@ -332,6 +331,7 @@ gnome-clocks
 gnome-color-manager
 gnome-connections
 gnome-control-center
+gnome-desktop-testing
 gnome-desktop3
 gnome-devel-docs
 gnome-disk-utility
@@ -340,7 +340,6 @@ gnome-font-viewer
 gnome-initial-setup
 gnome-keyring
 gnome-kiosk
-gnome-logs
 gnome-menus
 gnome-online-accounts
 gnome-ponytail-daemon
@@ -359,7 +358,6 @@ gnome-text-editor
 gnome-tour
 gnome-user-docs
 gnu-efi
-gnu-free-fonts
 gnupg2
 gnutls
 go-rpm-macros
@@ -687,6 +685,7 @@ kabi-dw
 kasumi
 kbd
 kdump-anaconda-addon
+kdump-utils
 kea
 keepalived
 kernel
@@ -766,7 +765,6 @@ libcpuid
 libcupsfilters
 libdaemon
 libdatrie
-libdb
 libdecor
 libdeflate
 libdex
@@ -962,7 +960,6 @@ libxshmfence
 libxslt
 libyaml
 libyang
-libyubikey
 libzdnn
 libzfcphbaapi
 libzip
@@ -977,7 +974,6 @@ lldpad
 lldpd
 llhttp
 llvm
-llvm17
 lm_sensors
 lmdb
 lockdev
@@ -1174,7 +1170,6 @@ papi
 pappl
 paps
 parted
-passim
 passt
 patch
 patchutils
@@ -1220,7 +1215,6 @@ perl-DBD-MySQL
 perl-DBD-Pg
 perl-DBD-SQLite
 perl-DBI
-perl-DB_File
 perl-Data-Dump
 perl-Data-Dumper
 perl-Data-OptList
@@ -1333,6 +1327,7 @@ perl-Test-Exception
 perl-Test-Harness
 perl-Test-NoWarnings
 perl-Test-Simple
+perl-Test2-Suite
 perl-Text-Balanced
 perl-Text-Diff
 perl-Text-Glob
@@ -1478,7 +1473,6 @@ python-drgn
 python-editables
 python-enchant
 python-flit-core
-python-greenlet
 python-gssapi
 python-hatchling
 python-idna
@@ -1556,6 +1550,7 @@ python-rtslib
 python-ruamel-yaml
 python-ruamel-yaml-clib
 python-setuptools
+python-simpleaudio
 python-simpleline
 python-six
 python-sphinx
@@ -1577,7 +1572,6 @@ python-wheel
 python-xkbregistry
 python-yubico
 python-zstandard
-python3.12
 python3.13
 pyusb
 pywbem
@@ -1671,7 +1665,6 @@ ruby
 rubygem-diff-lcs
 rubygem-mysql2
 rubygem-pg
-rubygem-racc
 rubygem-rspec
 rubygem-rspec-core
 rubygem-rspec-expectations
@@ -1682,7 +1675,6 @@ rust
 rust-afterburn
 rust-bootupd
 rust-coreos-installer
-rust-packaging
 rust-prefixdevname
 rust-rpm-sequoia
 rust-sevctl
@@ -1734,7 +1726,6 @@ shim
 shim-unsigned-aarch64
 shim-unsigned-x64
 sid
-sil-nuosu-fonts
 sil-padauk-fonts
 sisu
 skopeo
@@ -1861,8 +1852,6 @@ upower
 uresourced
 urlview
 urw-base35-fonts
-usb_modeswitch
-usb_modeswitch-data
 usbguard
 usbguard-notifier
 usbredir
@@ -1959,7 +1948,6 @@ xorg-x11-server
 xorg-x11-server-Xwayland
 xorg-x11-xauth
 xorg-x11-xinit
-xpdf
 xprop
 xrandr
 xrdb
@@ -1972,7 +1960,6 @@ xz-java
 yajl
 yggdrasil
 yggdrasil-worker-package-manager
-ykclient
 zaf
 zenity
 zip
