@@ -1,5 +1,5 @@
 Name:           license-validate
-Version:        23
+Version:        24
 Release:        1%{?dist}
 Summary:        Validate SPEC license string
 
@@ -66,6 +66,9 @@ install -m644 license-fedora2spdx.1 %{buildroot}/%{_mandir}/man1/
 
 
 %changelog
+* Sun Jun 30 2024 Miroslav Suchý <msuchy@redhat.com> 24-1
+- allow lowercase variants as part of spdx 3.0
+
 * Thu Apr 11 2024 Miroslav Suchý <msuchy@redhat.com> 23-1
 - lark-parser was renamed to lark, allow both
 
