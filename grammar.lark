@@ -8,7 +8,8 @@ license: license_item | left_parenthesis license right_parenthesis | license ope
 
 left_parenthesis: "("
 right_parenthesis: ")"
-operator: "OR"|"AND"
+// lowercase variant allowed from spdx v3.0
+operator: "OR"|"AND"|"or"|"and"
 
 %import common.WS
 %ignore WS
