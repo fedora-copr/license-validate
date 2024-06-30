@@ -1,5 +1,5 @@
 Name:           license-validate
-Version:        24
+Version:        25
 Release:        1%{?dist}
 Summary:        Validate SPEC license string
 
@@ -66,6 +66,9 @@ install -m644 license-fedora2spdx.1 %{buildroot}/%{_mandir}/man1/
 
 
 %changelog
+* Sun Jun 30 2024 Miroslav Suchý <msuchy@redhat.com> 25-1
+- allow lowercase variants as part of spdx 3.0
+
 * Sun Jun 30 2024 Miroslav Suchý <msuchy@redhat.com> 24-1
 - allow lowercase variants as part of spdx 3.0
 
