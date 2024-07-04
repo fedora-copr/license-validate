@@ -1,5 +1,4 @@
 ansible-collection-microsoft-sql
-bacula
 byteman
 c-ares
 device-mapper-multipath
@@ -61,6 +60,7 @@ python-pkgconfig
 python-pyghmi
 python-semantic_version
 python-sqlalchemy
+python-tomlkit
 python3-mallard-ducktype
 pyxattr
 quota
@@ -77,7 +77,6 @@ tlog
 tomcat
 toml11
 totem-pl-parser
-udftools
 web-assets
 wireguard-tools
 xmlrpc-c
