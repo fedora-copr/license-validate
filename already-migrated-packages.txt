@@ -177,7 +177,6 @@ apg
 apiguardian
 api-sanity-checker
 apk-tools
-apostrophe
 appeditor
 applet-window-buttons
 appres
@@ -363,6 +362,7 @@ bc
 bdftopcf
 bdii
 beakerlib-libraries
+beakerlib
 bear
 beecrypt
 beefy-miracle-kde-theme
@@ -600,7 +600,6 @@ clamtk
 clamz
 clang
 clang15
-clang16
 clang17
 clapper
 cl-asdf
@@ -1014,6 +1013,8 @@ dtkmultimedia
 dtkwidget
 dtk6core
 dtk6gui
+dt-schema
+duc
 duf
 duktape
 dummy-package-canary
@@ -1145,9 +1146,11 @@ erlang-fast_yaml
 erlang-folsom
 erlang-gen_leader
 erlang-gproc
+erlang-gun
 erlang-hex_core
 erlang-iconv
 erlang-lager
+erlang-lfe
 erlang-lucene_parser
 erlang-luerl
 erlang-meck
@@ -1160,6 +1163,7 @@ erlang-poolboy
 erlang-proper
 erlang-protobuffs
 erlang-providers
+erlang-p1_acme
 erlang-p1_pgsql
 erlang-p1_utils
 erlang-rebar3-pc
@@ -1215,6 +1219,7 @@ extundelete
 e00compr
 e2tools
 fabtests
+fail2ban
 faketpm
 fancontrol-gui
 fann
@@ -1231,6 +1236,7 @@ fatresize
 faust
 fawltydeps
 fbf-mukti-fonts
+fbgemm
 fbreader
 fbrnch
 fbterm
@@ -1302,6 +1308,7 @@ flac123
 flamegraph
 flameshot
 flamethrower
+flamp
 flam3
 flang
 flare-engine
@@ -1543,6 +1550,7 @@ gaupol
 gawk-json
 gawk
 gcc
+gcc13
 gcl
 gconfmm26
 gcr
@@ -1578,6 +1586,7 @@ gedit-latex
 gegl04
 gemdropx
 gencolormap
+genders
 general-purpose-preprocessor
 genchemlab
 gensio
@@ -2586,6 +2595,7 @@ golang-github-emersion-milter
 golang-github-emersion-msgauth
 golang-github-emicklei-proto
 golang-github-envoyproxy-control-plane
+golang-github-ergochat-readline
 golang-github-erikgeiser-promptkit
 golang-github-erkexzcx-valetudopng
 golang-github-etcd-io-gofail
@@ -2716,6 +2726,7 @@ golang-github-jtolio-eventkit
 golang-github-juju-ansiterm
 golang-github-juju-gnuflag
 golang-github-jwt-5
+golang-github-katalix-l2tp
 golang-github-keybase-ps
 golang-github-kjk-lzmadec
 golang-github-klauspost-compress
@@ -3017,6 +3028,7 @@ golang-sr-emersion-scfg
 golang-sr-nelsam-hel
 golang-sr-sircmpwn-getopt
 golang-storj-picobuf
+golang-tags-cncf-container-device-interface
 golang-tinygo-x-llvm
 golang-uber-mock
 golang-x-crypto
@@ -3479,6 +3491,7 @@ hyprpicker
 hyprutils
 hyprwayland-scanner
 h3
+chafa
 chan
 chatterino2
 chatty
@@ -3593,6 +3606,7 @@ intel-lpmd
 intel-media-driver-free
 intel-metee
 intel-one-mono-fonts
+intel-qpl
 intel-vpl-gpu-rt
 intltool
 inxi
@@ -4329,6 +4343,7 @@ libgpiod
 libgpod
 libgravatar
 libgringotts
+libgsasl
 libgsf
 libgtextutils
 libgtop2
@@ -4766,19 +4781,19 @@ lldb
 lldpad
 lld
 lld15
-lld16
 lld17
 llhttp
 llvm-bolt
 llvm
 llvm14
 llvm15
-llvm16
 llvm17
+llvm18
 lmdb
 lmdbxx
 Lmod
 lm_sensors
+lockdev
 logjam
 logrotate
 loguru
@@ -5235,6 +5250,7 @@ mod_fcgid
 mod_flvx
 mod_http2
 moditect
+mod_mapcache
 mod_maxminddb
 mod_md
 mod_nss
@@ -5488,6 +5504,7 @@ NsCDE
 nsnake
 nss-altfiles
 nss-pam-ldapd
+nss-pem
 nss
 nss_updatedb
 nss_wrapper
@@ -5584,6 +5601,7 @@ ocaml-graphics
 ocaml-gsl
 ocamlify
 ocaml-integers
+ocaml-intrinsics-kernel
 ocaml-jane-street-headers
 ocaml-jst-config
 ocaml-lablgl
@@ -5647,6 +5665,7 @@ ocaml-ppx-import
 ocaml-ppx-inline-test
 ocaml-ppx-js-style
 ocaml-ppx-let
+ocaml-ppxlib-jane
 ocaml-ppxlib
 ocaml-ppx-optcomp
 ocaml-ppx-sexp-conv
@@ -5707,6 +5726,7 @@ octave-control
 octave-dicom
 octave-doctest
 octave-flexiblas
+octave-mcxlab
 octave-statistics
 octave-symbolic
 odcs
@@ -5779,6 +5799,7 @@ openoffice.org-dict-cs_CZ
 openosc
 openpace
 openpgl
+openqa
 openrgb
 open-sans-fonts
 openscap-report
@@ -5809,6 +5830,7 @@ open-vmdk
 open-vm-tools
 openvpn-otp
 openvr
+openvswitch
 openwsman
 openxr-explorer
 openxr-simple-playground
@@ -5825,6 +5847,7 @@ orc
 ormolu
 orocos-kdl
 orsa
+os-autoinst
 osbuild-composer
 osbuild
 oscap-anaconda-addon
@@ -6460,6 +6483,7 @@ perl-Dist-Zilla-Plugin-ModuleBuildTiny
 perl-Dist-Zilla-Plugin-PodWeaver
 perl-Dist-Zilla-Plugin-Test-Compile
 perl-Dist-Zilla
+perl-Dumbbench
 perl-DynaLoader-Functions
 perl-Email-Abstract
 perl-Email-Address-List
@@ -6872,6 +6896,7 @@ perl-Log-Message-Simple
 perl-Log-Message
 perl-Log-Report
 perl-Log-Trace
+perl-Long-Jump
 perl-Lua-API
 perl-Lucy
 perl-LWP-Authen-Wsse
@@ -7803,6 +7828,7 @@ perl-WWW-Splunk
 perl-Wx-Perl-DataWalker
 perl-Wx
 perl-XML-Atom
+perl-XML-Bare
 perl-XML-Catalog
 perl-XML-DifferenceMarkup
 perl-XML-DOM
@@ -8166,6 +8192,7 @@ polkit-pkla-compat
 polkit-qt-1
 polkit
 polyclipping
+polylabel
 polymake
 polyml
 pop-gtk-theme
@@ -8255,6 +8282,7 @@ ptl
 ptouch-driver
 ptpython
 pt-sans-fonts
+ptyxis
 public-inbox
 publicsuffix-list
 pulseaudio-qt
@@ -8334,6 +8362,8 @@ python-annarchy
 python-annexremote
 python-annotated-types
 python-ansible-compat
+python-ansi2html
+python-anyjson
 python-aodhclient
 python-appdirs
 python-applicationinsights
@@ -8632,6 +8662,7 @@ python-exabgp
 python-exdir
 python-expandvars
 python-expecttest
+python-exrex
 python-extension-helpers
 python-extractcode-libarchive
 python-extractcode
@@ -8719,6 +8750,7 @@ python-geomdl
 python-geopandas
 python-geopy
 python-ghp-import
+python-giacpy
 python-gitdb
 python-glad
 python-glad2
@@ -9251,11 +9283,11 @@ python-pynamodb
 python-pynetbox
 python-pyngus
 python-pynn
-python-pynose
 python-pynsgr
 python-pynwb
 python-pyocr
 python-pyongc
+python-pyopengltk
 python-pypcapkit
 python-pypdf
 python-pyperclip
@@ -9663,6 +9695,8 @@ python-userpath
 python-uswid
 python-uvicorn
 python-uvloop
+python-valkey
+python-varint
 python-vedo
 python-venusian
 python-versioningit
@@ -9682,6 +9716,7 @@ python-wcag-contrast-ratio
 python-wcmatch
 python-wcwidth
 python-webcolors
+python-webdav4
 python-websockets
 python-webthing
 python-wheel
@@ -9989,7 +10024,6 @@ redhat-fonts
 redhat-menus
 redhat-rpm-config
 redict
-redis
 redland
 rednotebook
 redsocks
@@ -10553,7 +10587,6 @@ ruby-mecab
 ruby-romkan
 ruby
 ruby-taglib
-ruff-lsp
 ruff
 rumor
 runc
@@ -10628,7 +10661,11 @@ rust-aom-sys
 rust-app_dirs
 rust-appdirs
 rust-app_dirs2
+rust-apple-bom
+rust-apple-bundles
+rust-apple-dmg
 rust-apple-nvram
+rust-apple-sdk
 rust-approx
 rust-arbitrary
 rust-arbitrary0.4
@@ -10640,6 +10677,7 @@ rust-argh_derive
 rust-argh_shared
 rust-argh
 rust-argmax
+rust-argon2
 rust-argparse
 rust-archery
 rust-array-init
@@ -10690,6 +10728,7 @@ rust-async-io1
 rust-async-lock
 rust-async-lock2
 rust-async-mutex
+rust-async-native-tls
 rust-async-net
 rust-async-process
 rust-async-process1
@@ -10723,6 +10762,7 @@ rust-avt
 rust-av1-grain
 rust-awc
 rust-aws-nitro-enclaves-cose
+rust-aws-nitro-enclaves-cose0.4
 rust-axum-core
 rust-axum-macros
 rust-axum
@@ -10849,7 +10889,6 @@ rust-cairo-rs
 rust-cairo-rs0.17
 rust-cairo-rs0.18
 rust-cairo-sys-rs
-rust-cairo-sys-rs0.15
 rust-cairo-sys-rs0.17
 rust-cairo-sys-rs0.18
 rust-calamine
@@ -10864,6 +10903,7 @@ rust-capnp-rpc
 rust-capnp
 rust-cap
 rust-caps
+rust-captur
 rust-cargo-config2
 rust-cargo-credential-libsecret
 rust-cargo-credential
@@ -10880,6 +10920,7 @@ rust-cargo-options
 rust-cargo-platform
 rust-cargo-readme
 rust-cargo
+rust-cargo_toml
 rust-cargo-util-schemas
 rust-cargo-util
 rust-cascade
@@ -10906,10 +10947,12 @@ rust-cgroupfs
 rust-ciborium-io
 rust-ciborium-ll
 rust-ciborium
+rust-cidr
 rust-cint
 rust-cipher
 rust-cipher0.3
 rust-circular-buffer
+rust-claims
 rust-clang-ast
 rust-clang-sys
 rust-clang-tidy-sarif
@@ -10937,6 +10980,7 @@ rust-clru
 rust-cmac
 rust-cmake
 rust-cmd_lib_macros
+rust-cmd_lib
 rust-codepage
 rust-codespan-reporting
 rust-codespan
@@ -10996,8 +11040,10 @@ rust-cookie0.17
 rust-cool_asserts
 rust-coolor
 rust-copydeps
+rust-copy_dir
 rust-copypasta
 rust-cordic
+rust-core_affinity
 rust-coreos-installer
 rust-coreutils
 rust-core2
@@ -11010,6 +11056,7 @@ rust-cpufeatures
 rust-crates-io
 rust-crc-catalog
 rust-crc
+rust-crc16
 rust-crc32fast
 rust-crc64
 rust-criterion-plot
@@ -11098,6 +11145,7 @@ rust-darling0.14
 rust-dary_heap
 rust-dashmap
 rust-dashmap4
+rust-dashmap5
 rust-databake-derive
 rust-databake
 rust-data-encoding-macro-internal
@@ -11117,6 +11165,7 @@ rust-defer-drop
 rust-deflate
 rust-deflate0.8
 rust-deflate64
+rust-defmac
 rust-deltae
 rust-deranged
 rust-der_derive
@@ -11292,6 +11341,7 @@ rust-exitcode
 rust-exitfailure
 rust-expat-sys
 rust-expect-test
+rust-extreme
 rust-eyre
 rust-eza
 rust-faccess
@@ -11401,7 +11451,6 @@ rust-gag
 rust-gcd
 rust-gdk-pixbuf
 rust-gdk-pixbuf-sys
-rust-gdk-pixbuf-sys0.15
 rust-gdk-pixbuf-sys0.17
 rust-gdk-pixbuf-sys0.18
 rust-gdk-pixbuf0.17
@@ -11443,7 +11492,6 @@ rust-gio-sys
 rust-gio-sys0.15
 rust-gio-sys0.17
 rust-gio-sys0.18
-rust-gio0.15
 rust-gio0.17
 rust-gio0.18
 rust-gir-format-check
@@ -11541,6 +11589,8 @@ rust-goblin
 rust-goblin0.5
 rust-goblin0.6
 rust-goblin0.7
+rust-googletest_macro
+rust-googletest
 rust-gptman
 rust-gpt
 rust-graphene-rs
@@ -11645,6 +11695,7 @@ rust-hickory-resolver
 rust-hidapi
 rust-histo
 rust-hkdf
+rust-hmac-sha512
 rust-hmac
 rust-hmac0.11
 rust-home
@@ -11706,6 +11757,7 @@ rust-idna0.1
 rust-idna0.2
 rust-idna0.3
 rust-idna0.4
+rust-if_chain
 rust-ignition-config
 rust-ignore
 rust-imagequant
@@ -11713,6 +11765,7 @@ rust-imagequant-sys
 rust-image
 rust-image-webp
 rust-imara-diff
+rust-imgref
 rust-imperative
 rust-impl-more
 rust-impls
@@ -11743,11 +11796,13 @@ rust-input-sys
 rust-insta-cmd
 rust-instant
 rust-insta
+rust-int-enum
 rust-interpolate_name
 rust-interprocess
 rust-intervaltree
 rust-intl-memoizer
 rust-intl_pluralrules
+rust-intrusive-collections
 rust-invalidstring
 rust-inventory
 rust-io-close
@@ -11798,6 +11853,7 @@ rust-jql-parser
 rust-jql-runner
 rust-jql
 rust-json
+rust-jsonwebtoken
 rust-json5
 rust-just
 rust-jwalk
@@ -12008,6 +12064,7 @@ rust-memoffset0.5
 rust-memoffset0.6
 rust-memoffset0.7
 rust-memsec
+rust-metrics
 rust-micro-timer-macros
 rust-micro-timer
 rust-miette-derive
@@ -12092,6 +12149,7 @@ rust-notify-rust
 rust-notify
 rust-notify5
 rust-nparse
+rust-npm-package-json
 rust-ntest
 rust-ntest_test_cases
 rust-ntest_timeout
@@ -12152,6 +12210,7 @@ rust-olpc-cjson
 rust-once_cell
 rust-onefetch-ascii
 rust-onefetch-image
+rust-onefetch-manifest
 rust-onig
 rust-onig_sys
 rust-oorandom
@@ -12213,7 +12272,6 @@ rust-pangocairo0.17
 rust-pangocairo0.18
 rust-pango
 rust-pango-sys
-rust-pango-sys0.15
 rust-pango-sys0.17
 rust-pango-sys0.18
 rust-pango0.17
@@ -12400,6 +12458,7 @@ rust-prodash
 rust-progpool
 rust-prometheus-client-derive-encode
 rust-prometheus-client
+rust-prometheus_exporter
 rust-prometheus
 rust-proptest-derive
 rust-proptest-derive0.3
@@ -12518,6 +12577,7 @@ rust-rand0.4
 rust-rand0.5
 rust-rand0.6
 rust-rand0.7
+rust-range_map_vec
 rust-ratatui
 rust-ratatui0.25
 rust-rawpointer
@@ -12528,6 +12588,7 @@ rust-rayon
 rust-rbspy-ruby-structs
 rust-rbspy
 rust-rbspy-testdata
+rust-rbw
 rust-rctree
 rust-rctree0.5
 rust-rd-agent-intf
@@ -12538,6 +12599,7 @@ rust-rd-util
 rust-read-process-memory
 rust-readwrite
 rust-redfa
+rust-redis
 rust-reedline
 rust-ref-cast-impl
 rust-ref-cast
@@ -12577,6 +12639,7 @@ rust-rfc6979
 rust-rgb
 rust-ring
 rust-ring0.16
+rust-rio
 rust-ripemd
 rust-ripgrep
 rust-rkyv_derive
@@ -12586,6 +12649,7 @@ rust-rlimit
 rust-rmp-serde
 rust-rmp
 rust-rmpv
+rust-rocket_http
 rust-roff
 rust-roff0.1
 rust-ron
@@ -12593,7 +12657,6 @@ rust-ron0.7
 rust-ropey
 rust-route-recognizer
 rust-routinator
-rust-routinator-ui
 rust-roxmltree
 rust-rpassword
 rust-rpassword5
@@ -12608,6 +12671,7 @@ rust-rstest
 rust-rtnetlink
 rust-rtoolbox
 rust-run_script
+rust-rusb
 rust-rusqlite
 rust-rusqlite0.28
 rust-rustbus_derive
@@ -12615,6 +12679,7 @@ rust-rustbus
 rust-rustcat
 rust-rustc-demangle
 rust-rustc-hash
+rust-rustc-hash1
 rust-rustc-serialize
 rust-rustc-test
 rust-rustc_version
@@ -12654,6 +12719,8 @@ rust-rusty-forkfork
 rust-rusty-fork
 rust-rustyline-derive
 rust-rustyline
+rust-rusty_paserk
+rust-rusty_paseto
 rust-ruzstd
 rust-rxml_proc
 rust-rxml
@@ -12691,6 +12758,7 @@ rust-sd
 rust-seahash
 rust-seahash3
 rust-sealed_test_derive
+rust-sealed_test
 rust-secrecy
 rust-secret-service
 rust-sec1
@@ -12730,6 +12798,7 @@ rust-serde_buf
 rust-serde_bytes
 rust-serde_cbor
 rust-serdect
+rust-serde_default
 rust-serde_derive_internals
 rust-serde_derive
 rust-serde_fmt
@@ -12755,6 +12824,7 @@ rust-serde_with_macros1
 rust-serde_with
 rust-serde_with1
 rust-serde-xml-rs
+rust-serde-xml-rs0.4
 rust-serde_yaml
 rust-serde_yaml0.8
 rust-serial_test_derive
@@ -12816,6 +12886,7 @@ rust-simdutf8
 rust-similar-asserts
 rust-similar
 rust-simple_asn1
+rust-simple-file-manifest
 rust-simple_logger
 rust-simple_logger1
 rust-simplelog
@@ -12825,6 +12896,7 @@ rust-siphasher
 rust-siphasher0.3
 rust-sized-chunks
 rust-skeptic
+rust-sketches-ddsketch
 rust-skim
 rust-slab
 rust-slog-async
@@ -12887,6 +12959,7 @@ rust-statistical
 rust-statrs
 rust-stats_alloc
 rust-stderrlog
+rust-stderrlog0.5
 rust-stfu8
 rust-streaming-stats
 rust-streebog
@@ -12897,11 +12970,13 @@ rust-strict
 rust-str_indices
 rust-string_cache_codegen
 rust-string_cache
+rust-stringprep
 rust-strip-ansi-escapes
 rust-strip-ansi-escapes0.1
 rust-strsim
 rust-strsim0.10
 rust-str_stack
+rust-struct-field-names-as-array-derive
 rust-structopt-derive
 rust-structopt-derive0.2
 rust-structopt
@@ -13003,6 +13078,7 @@ rust-testing_logger
 rust-test-log-macros
 rust-test-log
 rust-text-block-macros
+rust-text_placeholder
 rust-textwrap
 rust-textwrap0.11
 rust-textwrap0.15
@@ -13017,6 +13093,7 @@ rust-tiger
 rust-timeago
 rust-timebomb
 rust-time-core
+rust-time-humanize
 rust-time-macros-impl
 rust-time-macros
 rust-time-macros0.1
@@ -13050,6 +13127,7 @@ rust-tokio-mock-task
 rust-tokio-native-tls
 rust-tokio-openssl
 rust-tokio-reactor
+rust-tokio-retry
 rust-tokio-rustls
 rust-tokio-rustls0.24
 rust-tokio-serde
@@ -13060,6 +13138,7 @@ rust-tokio-sync
 rust-tokio-tar
 rust-tokio-tcp
 rust-tokio-test
+rust-tokio-tfo
 rust-tokio-threadpool
 rust-tokio-timer
 rust-tokio-tungstenite
@@ -13093,6 +13172,7 @@ rust-tracing-attributes
 rust-tracing-core
 rust-tracing_facade
 rust-tracing-futures
+rust-tracing-glog
 rust-tracing-chrome
 rust-tracing_chromium
 rust-tracing-indicatif
@@ -13101,6 +13181,7 @@ rust-tracing-log
 rust-tracing-serde
 rust-tracing
 rust-tracing-subscriber
+rust-tracing-test-macro
 rust-tracing-tree
 rust-transpose
 rust-trash
@@ -13162,6 +13243,7 @@ rust-unarray
 rust-uncased
 rust-unescape
 rust-unchecked-index
+rust-unicase_serde
 rust-unicase
 rust-unic-common
 rust-unic-char-property
@@ -13321,6 +13403,7 @@ rust-version_check
 rust-version
 rust-version-sync
 rust-version-sync0.8
+rust-version-track
 rust-v_frame
 rust-vhost-device-scmi
 rust-vhost-device-sound
@@ -13450,6 +13533,8 @@ rust-zstd
 rust-zstd-sys
 rust-zstd0.12
 rust-zune-core
+rust-zune-inflate
+rust-zune-jpeg
 rust-zvariant_derive
 rust-zvariant_derive2
 rust-zvariant_derive3
@@ -14040,6 +14125,7 @@ transmission
 transtats-cli
 travelccm
 traverso
+trayscale
 treelayout
 tree-pkg
 tree-sitter-java

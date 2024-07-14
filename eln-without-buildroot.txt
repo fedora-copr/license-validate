@@ -57,7 +57,6 @@ at
 at-spi2-core
 atinject
 atkmm
-attestation-hub
 attr
 audit
 augeas
@@ -134,6 +133,7 @@ cloud-utils
 cmake
 cockpit
 cockpit-composer
+cockpit-files
 cockpit-machines
 cockpit-ostree
 cockpit-podman
@@ -200,12 +200,12 @@ dmidecode
 dnf
 dnf-plugins-core
 dnf5
+dnsconfd
 dnsmasq
 docbook-dtds
 docbook-style-dsssl
 docbook-style-xsl
 docbook-utils
-docbook5-schemas
 dogtag-pki
 dos2unix
 dosfstools
@@ -214,7 +214,6 @@ dotnet8.0
 dovecot
 doxygen
 dpdk
-dptfxtract
 dracut
 driverctl
 dtc
@@ -416,7 +415,6 @@ help2man
 hexedit
 hicolor-icon-theme
 hivex
-host-verification-service
 hostapd
 hostname
 hplip
@@ -1132,6 +1130,7 @@ openldap
 openmpi
 openoffice-lv
 openoffice.org-dict-cs_CZ
+openpace
 opensc
 openscap
 openscap-report
@@ -1140,6 +1139,7 @@ opensm
 opensp
 openssh
 openssl
+openssl-fips-provider
 openssl-ibmca
 openssl-pkcs11
 opentelemetry-collector
@@ -1412,6 +1412,7 @@ postgresql16
 postgresql16-decoderbufs
 postgresql16-pg_repack
 postgresql16-pgaudit
+postgresql16-pgvector
 potrace
 powerpc-utils
 powertop
@@ -1503,7 +1504,6 @@ python-mako
 python-markupsafe
 python-meh
 python-netaddr
-python-netifaces
 python-networkx
 python-oauthlib
 python-packaging
@@ -1827,7 +1827,6 @@ tracker
 tracker-miners
 tree-pkg
 tree-sitter
-trustagent
 tss2
 ttmkfdir
 tuna
@@ -1835,7 +1834,6 @@ tuned
 twolame
 tzdata
 uchardet
-ucs-miscfixed-fonts
 ucx
 udica
 udisks2

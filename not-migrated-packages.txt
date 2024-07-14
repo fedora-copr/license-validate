@@ -257,7 +257,6 @@ bcd
 bcm283x-firmware
 bcm43xx-fwcutter
 bdsync
-beakerlib
 beaker
 beansbinding
 beanstalkd
@@ -972,21 +971,21 @@ erlang-gettext
 erlang-goldrush
 erlang-gtknode
 erlang-hamcrest
+erlang-hyper
 erlang-chronos
 erlang-ibrowse
 erlang-idna
 erlang-jiffy
+erlang-jose
 erlang-js
 erlang-jsx
 erlang-kvc
-erlang-lfe
 erlang-log4erl
 erlang-mochiweb
 erlang-mustache
 erlang-neotoma
 erlang-oauth
 erlang-oauth2
-erlang-p1_acme
 erlang-p1_mysql
 erlang-p1_oauth2
 erlang-ranch
@@ -1042,7 +1041,6 @@ e2fsprogs
 e3
 facter
 faience-icon-theme
-fail2ban
 fakechroot
 fakeroot
 falkon-pdfreader
@@ -1148,7 +1146,6 @@ fishbowl
 five-or-more
 fixedptc
 flamerobin
-flamp
 flann
 flatpak-module-tools
 flatpak-rpm-macros
@@ -1356,7 +1353,6 @@ gedit-plugin-editorconfig
 gedit-plugins
 gedit
 geeqie
-genders
 generic-logos
 generic-release
 generic-release
@@ -2864,7 +2860,6 @@ hyperrogue
 hyperrogue
 hyperscan
 h5py
-chafa
 charliecloud
 charliecloud
 charliecloud
@@ -3508,7 +3503,6 @@ libgnome-keyring
 libgnome
 libgnt
 libgrss
-libgsasl
 libgsystem
 libgta
 libg15render
@@ -3830,7 +3824,6 @@ llvm13
 lmfit
 lmms
 lnav
-lockdev
 lockfile-progs
 logcheck
 logiops
@@ -4591,7 +4584,6 @@ nsd
 nsntrace
 nss-mdns
 nss_nis
-nss-pem
 ns-tiza-chalk-fonts
 ntfs-3g
 nuget
@@ -4644,7 +4636,6 @@ octave-io
 octave-iso2mesh
 octave-jnifti
 octave-jsonlab
-octave-mcxlab
 octave-metch
 octave-miscellaneous
 octave-ncarray
@@ -4737,7 +4728,6 @@ OpenNL
 openocd
 openpgm
 open-policy-agent
-openqa
 openrdate
 openresolv
 openriichi
@@ -4758,14 +4748,6 @@ opentoonz
 openttd-opengfx
 openvpn-auth-ldap
 openvpn
-openvswitch
-openvswitch
-openvswitch
-openvswitch
-openvswitch
-openvswitch
-openvswitch
-openvswitch
 openzwave
 ophcrack
 options
@@ -4776,7 +4758,6 @@ orafce
 orangefs
 orocos-bfl
 orthorobot
-os-autoinst
 osbs-client
 osbs-client
 oscillatord
@@ -5239,7 +5220,6 @@ perl-Dist-Zilla-Plugin-VersionFromMainModule
 perl-Dist-Zilla-Role-FileWatcher
 perl-Dist-Zilla-Role-ModuleMetadata
 perl-Dist-Zilla-Role-PluginBundle-PluginRemover
-perl-Dumbbench
 perl-EBook-EPUB
 perl-ElasticSearch-SearchBuilder
 perl-Email-MIME-Attachment-Stripper
@@ -5488,7 +5468,6 @@ perl-Log-Log4perl-Appender-Socket-UNIX
 perl-Log-Report-Optional
 perl-Log-TraceMessages
 perl-Log-Trivial
-perl-Long-Jump
 perl-L
 perl-LV
 perl-LWP-Authen-Negotiate
@@ -6049,7 +6028,6 @@ perl-WWW-xkcd
 perl-Wx-GLCanvas
 perl-XML-Atom-OWL
 perl-XML-Atom-SimpleFeed
-perl-XML-Bare
 perl-XML-CommonNS
 perl-XML-DTDParser
 perl-XML-Entities
@@ -6622,10 +6600,8 @@ python-ansible-runner
 python-ansicolor
 python-ansicolors
 python-ansiwrap
-python-ansi2html
 python-anyconfig
 python-anyio
-python-anyjson
 python-anykeystore
 python-anymarkup-core
 python-anymarkup
@@ -7120,7 +7096,6 @@ python-getmac
 python-gettext
 python-gevent-eventemitter
 python-gevent
-python-giacpy
 python-gilt
 python-gios
 python-gitapi
