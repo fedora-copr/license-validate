@@ -46,12 +46,13 @@ with specfile.sections() as sections:
                     license = tags.license.value
                     if license == old_license:
                         tags.license.value = new_license
+                        tags.license.comments.append(f"Automatically converted from old format: {old_license}")
                         migrated = True
                     #print(section.name, tags.license.value)
                     #tags.license = "MIT"
 if migrated:
     if not specfile.has_autorelease:
-        specfile.release = str(increment_last_number(specfile.expanded_release))
+        specfile.release = str(increment_last_number(specfile.release))
     if not specfile.has_autochangelog:
         specfile.add_changelog_entry(
             f"- convert license to SPDX",
