@@ -1,5 +1,6 @@
 #!/usr/bin/python3
 from specfile import Specfile
+import re
 import subprocess
 import sys
 from datetime import datetime
@@ -27,6 +28,17 @@ def increment_last_number(input_string):
             success = True
         except ValueError:
             index -= 1
+        except IndexError:
+            # does not have a dot and it is just number with macro
+            match = re.match(r'(\d+)(.*)', input_string)
+            if match:
+                number_part = match.group(1)
+                string_part = match.group(2)
+                incremented_number = int(number_part) + 1
+                return str(incremented_number) + string_part
+        else:
+            # If no leading digits are found, return the original string
+            return input_string
     
     # Join the parts back into a single string with dots
     return '.'.join(parts)
