@@ -34,6 +34,7 @@ alsa-utils
 anaconda
 annobin
 ansible-collection-microsoft-sql
+ansible-collection-redhat-rhel_mgmt
 ansible-core
 ansible-freeipa
 ansible-pcp
@@ -238,6 +239,7 @@ emacs-filesystem
 enchant2
 enscript
 environment-modules
+erofs-utils
 espeak-ng
 ethtool
 evince
@@ -268,7 +270,7 @@ flatpak-builder
 flatpak-xdg-utils
 flex
 flexiblas
-fmt
+fmt10
 fontawesome4-fonts
 fontconfig
 fonts-rpm-macros
@@ -351,7 +353,6 @@ gnome-shell-extension-dash-to-panel
 gnome-shell-extensions
 gnome-software
 gnome-system-monitor
-gnome-terminal
 gnome-text-editor
 gnome-tour
 gnome-user-docs
@@ -1428,6 +1429,7 @@ ps_mem
 psacct
 psmisc
 pt-sans-fonts
+ptyxis
 publicsuffix-list
 pulseaudio
 py3c

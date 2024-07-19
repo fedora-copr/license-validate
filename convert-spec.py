@@ -36,9 +36,9 @@ def increment_last_number(input_string):
                 string_part = match.group(2)
                 incremented_number = int(number_part) + 1
                 return str(incremented_number) + string_part
-        else:
-            # If no leading digits are found, return the original string
-            return input_string
+            else:
+                # If no leading digits are found, return the original string
+                return input_string
     
     # Join the parts back into a single string with dots
     return '.'.join(parts)
@@ -63,8 +63,9 @@ with specfile.sections() as sections:
                     #print(section.name, tags.license.value)
                     #tags.license = "MIT"
 if migrated:
-    if not specfile.has_autorelease:
-        specfile.release = str(increment_last_number(specfile.release))
+    specfile.bump_release()
+    #if not specfile.has_autorelease:
+    #    specfile.release = str(increment_last_number(specfile.release))
     if not specfile.has_autochangelog:
         specfile.add_changelog_entry(
             f"- convert license to SPDX",

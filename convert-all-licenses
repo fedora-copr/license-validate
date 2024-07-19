@@ -1,6 +1,6 @@
 #!/usr/bin/bash
 
-LICENSE='GPL+'
+LICENSE='AGPLv3'
 ### Takes list of packages as positional argument
 
 
@@ -12,8 +12,8 @@ for line in $(cat $1); do
         git commit -a -m "convert $LICENSE license to SPDX
 
 This is part of https://fedoraproject.org/wiki/Changes/SPDX_Licenses_Phase_4"
-        git show |cat 
         if git lol | head -n1 | grep SPDX ; then 
+                git show |cat 
                 #echo "Check commit. Hit Ctrl+D when you are ready. git-push will be done automatically"
                 #bash
                 git push

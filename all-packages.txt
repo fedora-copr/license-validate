@@ -752,6 +752,7 @@ boxes
 Box2D
 box64
 bpfmon
+bpftop
 bpftrace
 bpg-fonts
 bpython
@@ -1175,6 +1176,7 @@ compat-tolua++
 compface
 compiler-rt
 compiler-rt17
+compiler-rt18
 compiz-bcop
 compizconfig-python
 compiz-manager
@@ -2459,6 +2461,7 @@ fmit
 fmtools
 fmt-ptrn
 fmt
+fmt10
 fntsample
 focuswriter
 folder-color-switcher
@@ -3938,6 +3941,7 @@ golang-cloud-google-storage
 golang-cloud-google-trace
 golang-code-cloudfoundry-bytefmt
 golang-code-cloudfoundry-clock
+golang-code-rocketnine-tslocum-cbind
 golang-contrib-opencensus-exporter-aws
 golang-contrib-opencensus-exporter-ocagent
 golang-contrib-opencensus-exporter-stackdriver
@@ -3970,6 +3974,7 @@ golang-github-ajstarks-svgo
 golang-github-akamai-akamaiopen-edgegrid
 golang-github-akamensky-argparse
 golang-github-akavel-rsrc
+golang-github-akosmarton-papipes
 golang-github-akutz-gosync
 golang-github-akutz-memconn
 golang-github-alecaivazis-survey-2
@@ -4031,7 +4036,6 @@ golang-github-aryann-difflib
 golang-github-asaskevich-eventbus
 golang-github-asaskevich-govalidator
 golang-github-atotto-clipboard
-golang-github-avast-retry
 golang-github-avast-retry4
 golang-github-awslabs-aws-multi-module-repository-tools
 golang-github-aws-lambda
@@ -4267,6 +4271,7 @@ golang-github-docker-slim-update
 golang-github-docker
 golang-github-docker-units
 golang-github-docopt
+golang-github-dominikbraun-graph
 golang-github-dop251-scsu
 golang-github-dpotapov-spnego
 golang-github-dreamacro-shadowsocks2
@@ -4668,6 +4673,8 @@ golang-github-juju-ansiterm
 golang-github-juju-gnuflag
 golang-github-juju-ratelimit
 golang-github-julienschmidt-httprouter
+golang-github-jwalton-gchalk
+golang-github-jwalton-supportscolor
 golang-github-jwt
 golang-github-jwt-4
 golang-github-jwt-5
@@ -4713,6 +4720,7 @@ golang-github-labbsr0x-bindman-dns-webhook
 golang-github-labbsr0x-goh
 golang-github-labstack-echo-4
 golang-github-labstack-gommon
+golang-github-ladicle-tabwriter
 golang-github-lair-framework-nmap
 golang-github-lann-builder
 golang-github-lann-ps
@@ -4813,6 +4821,7 @@ golang-github-mdlayher-packet
 golang-github-mdlayher-raw
 golang-github-mdlayher-socket
 golang-github-mdlayher-wifi
+golang-github-mesilliac-pulse-simple
 golang-github-mesos
 golang-github-mfridman-interpolate
 golang-github-mgutz-ansi
@@ -4916,6 +4925,7 @@ golang-github-nightlyone-lockfile
 golang-github-niklasfasching-org
 golang-github-nilslice-protolock
 golang-github-nkovacs-streamquote
+golang-github-noborus-guesswidth
 golang-github-notedit-janus
 golang-github-nozzle-throttler
 golang-github-npat-efault-poller
@@ -5240,6 +5250,7 @@ golang-github-syndtr-goleveldb
 golang-github-task-slim-sprig
 golang-github-task-slim-sprig3
 golang-github-task
+golang-github-task-template
 golang-github-tdewolff-argp
 golang-github-tdewolff-minify
 golang-github-tdewolff-parse
@@ -5345,6 +5356,7 @@ golang-github-xeipuuv-gojsonreference
 golang-github-xeipuuv-gojsonschema
 golang-github-xeonx-timeago
 golang-github-xhit-str2duration
+golang-github-xhit-str2duration2
 golang-github-xiang90-probing
 golang-github-xi2-xz
 golang-github-xlab-handysort
@@ -6257,6 +6269,7 @@ CheMPS2
 chemtool
 chess_db
 chessx
+chez-scheme
 chibi-scheme
 chicken
 chipmunk
@@ -6748,6 +6761,7 @@ kanshi
 kanyremote
 kapman
 kapow
+kappanhang
 kapptemplate
 kasts
 kasumi
@@ -7898,6 +7912,7 @@ libomemo-c
 libomemo
 libomp
 libomp17
+libomp18
 libomxil-bellagio
 libopenmpt
 libopenraw
@@ -8622,6 +8637,7 @@ magicmirror-module-singlestock
 magicmirror
 MagicPoint
 magic
+magma
 magpie
 machineball
 mailcap
@@ -9912,6 +9928,7 @@ ocamlify
 ocaml-integers
 ocaml-intrinsics-kernel
 ocaml-jane-street-headers
+ocaml-jsonm
 ocaml-jst-config
 ocaml-lablgl
 ocaml-lablgtk
@@ -9947,6 +9964,7 @@ ocaml-octavius
 ocaml-odoc
 ocaml-omake
 ocaml-opam-file-format
+ocaml-opam-0install
 ocaml-ounit
 ocaml-parmap
 ocaml-parsexp
@@ -9996,6 +10014,7 @@ ocaml-sedlex
 ocaml-sexplib
 ocaml-sexplib0
 ocaml-sha
+ocaml-spdx-licenses
 ocaml
 ocaml-sqlite
 ocaml-srpm-macros
@@ -10003,6 +10022,7 @@ ocaml-ssl
 ocaml-stdcompat
 ocaml-stdio
 ocaml-stdlib-random
+ocaml-swhid-core
 ocaml-time-now
 ocaml-topkg
 ocaml-trie
@@ -10325,6 +10345,7 @@ overgod
 overlayfs-tools
 overpass-fonts
 ovn
+ov
 owfs
 owncloud-client
 oxygen-fonts
@@ -13667,7 +13688,6 @@ php-doctrine-annotations
 php-doctrine-cache
 php-doctrine-collections
 php-doctrine-common
-php-doctrine-common3
 php-doctrine-datafixtures
 php-doctrine-deprecations
 php-doctrine-doctrine-bundle
@@ -13677,7 +13697,6 @@ php-doctrine-inflector
 php-doctrine-inflector2
 php-doctrine-instantiator
 php-doctrine-lexer
-php-doctrine-orm
 php-doctrine-persistence
 php-doctrine-reflection
 php-doctrine-sql-formatter
@@ -14827,6 +14846,7 @@ pythoncapi-compat
 python-capturer
 python-carbon
 python-cartopy
+python-cascadio
 python-case
 python-casttube
 python-catkin_lint
@@ -15434,7 +15454,6 @@ python-gmqtt
 python-gnocchiclient
 python-gnupg
 python-google-api-core
-python-googleapis-common-protos
 python-google-auth-oauthlib
 python-google-auth
 python-google-cloud-core
@@ -16544,7 +16563,6 @@ python-pytest-flake8-path
 python-pytest-forked
 python-pytest-freezegun
 python-pytest-github-actions-annotate-failures
-python-pytest-grpc
 python-pytest-harvest
 python-pytest-home
 python-pytest-httpbin
@@ -16897,6 +16915,7 @@ python-snakemake-storage-plugin-ftp
 python-snakemake-storage-plugin-gcs
 python-snakemake-storage-plugin-http
 python-snakemake-storage-plugin-s3
+python-snakemake-storage-plugin-xrootd
 python-snakemake-storage-plugin-zenodo
 python-snappy
 python-snaptime
@@ -18355,7 +18374,6 @@ R-shiny
 R-showtextdb
 R-showtext
 rsh
-rsibreak
 R-simmer
 rsms-inter-fonts
 rsnapshot
@@ -19126,6 +19144,7 @@ rust-bitmaps
 rust-bitreader
 rust-bit-set
 rust-bitstream-io
+rust-bitstring
 rust-bitvec_helpers
 rust-bit-vec
 rust-bitvec
@@ -19254,6 +19273,7 @@ rust-ciborium-io
 rust-ciborium-ll
 rust-ciborium
 rust-cidr
+rust-cidr-utils
 rust-cint
 rust-cipher
 rust-cipher0.3
@@ -19282,6 +19302,7 @@ rust-clearscreen
 rust-clicolors-control
 rust-clippy-sarif
 rust-clircle
+rust-clock-steering
 rust-clru
 rust-cmac
 rust-cmake
@@ -19527,6 +19548,7 @@ rust-diskonaut
 rust-displaydoc
 rust-dissimilar
 rust-dlib
+rust-dlopen2_derive
 rust-dlv-list
 rust-dlv-list0.2
 rust-dns-lookup
@@ -19550,6 +19572,7 @@ rust-drm-sys
 rust-drop_bomb
 rust-drop-tracker
 rust-dsa
+rust-dsl_auto_type
 rust-dtoa-short
 rust-dtoa
 rust-dtoa0.4
@@ -19584,6 +19607,7 @@ rust-ena
 rust-encode_unicode
 rust-encoding_rs_io
 rust-encoding_rs
+rust-endian-num
 rust-endian-type
 rust-endi
 rust-enquote
@@ -19682,6 +19706,7 @@ rust-fern
 rust-ff
 rust-fiat-crypto
 rust-field-offset
+rust-figment
 rust-filedescriptor
 rust-file-id
 rust-filesize
@@ -20382,6 +20407,7 @@ rust-miette
 rust-mimalloc
 rust-mime_guess
 rust-mime
+rust-minicbor-derive
 rust-minidom
 rust-minidom0.12
 rust-minijinja
@@ -20403,6 +20429,8 @@ rust-mockall_double
 rust-mockall
 rust-mock_instant
 rust-mockito
+rust-monitord
+rust-mpsc_requests
 rust-mptcp-pm
 rust-msru
 rust-muldiv
@@ -20929,6 +20957,7 @@ rust-regex-syntax0.6
 rust-regex-test
 rust-region
 rust-relative-path
+rust-relm4-macros
 rust-remain
 rust-remoteprocess
 rust-remove_dir_all
@@ -21292,6 +21321,7 @@ rust-strsim
 rust-strsim0.10
 rust-str_stack
 rust-struct-field-names-as-array-derive
+rust-struct-field-names-as-array
 rust-structopt-derive
 rust-structopt-derive0.2
 rust-structopt
@@ -21399,6 +21429,7 @@ rust-textwrap0.11
 rust-textwrap0.15
 rust-thiserror-impl
 rust-thiserror
+rust-thousands
 rust-thread-id
 rust-thread_local
 rust-threadpool
@@ -21415,6 +21446,7 @@ rust-time-macros0.1
 rust-timerfd
 rust-timer
 rust-time
+rust-timestamped-socket
 rust-time0.1
 rust-time0.2
 rust-tiny-dfr
@@ -21483,6 +21515,7 @@ rust-tower
 rust-tower-test
 rust-tower-util
 rust-tpm2-policy
+rust-tracing-appender
 rust-tracing-attributes
 rust-tracing-core
 rust-tracing_facade
@@ -21497,7 +21530,10 @@ rust-tracing-serde
 rust-tracing
 rust-tracing-subscriber
 rust-tracing-test-macro
+rust-tracing-test
 rust-tracing-tree
+rust-tracker-macros
+rust-tracker
 rust-transpose
 rust-trash
 rust-treebitmap
@@ -21811,6 +21847,7 @@ rust-x11rb-protocol
 rust-x11rb
 rust-x11
 rust-x25519-dalek
+rust-x509-certificate
 rust-yaml-rust
 rust-yaml-rust0.3
 rust-yansi
@@ -24167,6 +24204,7 @@ z80dasm
 z88dk
 0ad-data
 0ad
+0install
 0xFFFF
 2ping
 2048-cli
