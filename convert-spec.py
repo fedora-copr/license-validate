@@ -58,7 +58,7 @@ with specfile.sections() as sections:
                     license = tags.license.value
                     if license == old_license:
                         tags.license.value = new_license
-                        tags.license.comments.append(f"Automatically converted from old format: {old_license}")
+                        tags.license.comments.append(f"Automatically converted from old format: {old_license} - review is highly recommended.")
                         migrated = True
                     #print(section.name, tags.license.value)
                     #tags.license = "MIT"
