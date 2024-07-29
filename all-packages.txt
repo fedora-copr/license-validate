@@ -524,6 +524,8 @@ awf-gtk4
 aws-c-cal
 aws-c-common
 aws-c-compression
+aws-c-event-stream
+aws-c-http
 aws-c-io
 awscli2
 aws-c-sdkutils
@@ -1018,6 +1020,7 @@ clang
 clang13
 clang15
 clang17
+clang18
 ClanLib
 ClanLib06
 ClanLib1
@@ -1248,6 +1251,7 @@ corrosion
 corsix-th
 cortado
 cosmic-comp
+cosmic-icon-theme
 cotila
 coturn
 courier-unicode
@@ -1777,6 +1781,7 @@ dtkwidget
 dtkwm
 dtk6core
 dtk6gui
+dtk6log
 dt-schema
 dt
 dtv-scan-tables
@@ -2213,6 +2218,7 @@ fapg
 fapolicy-analyzer
 fapolicyd
 farstream02
+fastapi-cli
 fastback
 fastbit
 fast-cdr
@@ -2311,6 +2317,7 @@ fedora-obsolete-packages
 fedora-packager
 fedora-release
 fedora-remix-logos
+fedora-repoquery
 fedora-repos
 fedora-repo-zdicts
 fedora-review-plugin-java
@@ -2461,7 +2468,6 @@ fmit
 fmtools
 fmt-ptrn
 fmt
-fmt10
 fntsample
 focuswriter
 folder-color-switcher
@@ -2710,6 +2716,7 @@ gap-pkg-guava
 gap-pkg-hapcryst
 gap-pkg-hap
 gap-pkg-hecke
+gap-pkg-idrel
 gap-pkg-images
 gap-pkg-io
 gap-pkg-irredsol
@@ -2809,6 +2816,7 @@ gdcalc
 gdcm
 gdigi
 gdisk
+gdk-pixbuf2-modules-extra
 gdk-pixbuf2
 gdk-pixbuf2-xlib
 gdlmm
@@ -2857,7 +2865,6 @@ genius
 genromfs
 gensio
 gentoo
-genwqe-tools
 geoclue2
 geocode-glib
 GeographicLib
@@ -3961,6 +3968,7 @@ golang-github-aclements-moremath
 golang-github-acme-lego
 golang-github-acobaugh-osrelease
 golang-github-adalogics-fuzz-headers
+golang-github-adamslevy-jsonrpc2_14
 golang-github-adrg-xdg
 golang-github-adrianmo-nmea
 golang-github-aead-chacha20
@@ -4055,6 +4063,9 @@ golang-github-azure-pipeline
 golang-github-azure-sdk-azcore
 golang-github-azure-sdk-azidentity
 golang-github-azure-sdk-internal
+golang-github-azure-sdk-resourcemanager-dns-armdns
+golang-github-azure-sdk-resourcemanager-privatedns-armprivatedns
+golang-github-azure-sdk-resourcemanager-resourcegraph-armresourcegraph
 golang-github-azure-sdk
 golang-github-azure-sdk-storage-azblob
 golang-github-azure-service-bus
@@ -4419,6 +4430,7 @@ golang-github-gofiber-fiber-2
 golang-github-gofri-ratelimit
 golang-github-gofrs-flock
 golang-github-gofrs-uuid
+golang-github-gofrs-uuid5
 golang-github-gogo-googleapis
 golang-github-gogo-protobuf
 golang-github-gogo-status
@@ -4471,6 +4483,7 @@ golang-github-google-uuid
 golang-github-google-wire
 golang-github-gophercloud
 golang-github-gophercloud-utils
+golang-github-gophercloud2
 golang-github-gorhill-cronexpr
 golang-github-gorilla-csrf
 golang-github-gorilla-css
@@ -4655,6 +4668,7 @@ golang-github-johncgriffin-overflow
 golang-github-joho-godotenv
 golang-github-jonboulle-clockwork
 golang-github-jose-3
+golang-github-jose4
 golang-github-josharian-intern
 golang-github-josharian-native
 golang-github-jouyouyun-hardware
@@ -4750,6 +4764,7 @@ golang-github-linkedin-goavro
 golang-github-linode-linodego
 golang-github-linuxdeepin-dbus-factory
 golang-github-linuxdeepin-go-x11-client
+golang-github-liquidweb-lwapi
 golang-github-liquidweb
 golang-github-lithammer-dedent
 golang-github-lithammer-fuzzysearch
@@ -4930,10 +4945,12 @@ golang-github-notedit-janus
 golang-github-nozzle-throttler
 golang-github-npat-efault-poller
 golang-github-nrdcg-auroradns
+golang-github-nrdcg-bunny
 golang-github-nrdcg-desec
 golang-github-nrdcg-dnspod
 golang-github-nrdcg-freemyip
 golang-github-nrdcg-goinwx
+golang-github-nrdcg-mailinabox
 golang-github-nrdcg-namesilo
 golang-github-nrdcg-nodion
 golang-github-nrdcg-porkbun
@@ -4945,6 +4962,7 @@ golang-github-nwaples-rardecode
 golang-github-nwidger-jsoncolor
 golang-github-nxadm-tail
 golang-github-nytimes-gziphandler
+golang-github-nzdjb-metaname
 golang-github-oklog-run
 golang-github-oklog
 golang-github-oklog-ulid
@@ -5162,6 +5180,7 @@ golang-github-seccomp-libseccomp
 golang-github-segmentio-asm
 golang-github-segmentio-encoding
 golang-github-segmentio-ksuid
+golang-github-selectel-domains
 golang-github-sergi-diff
 golang-github-serialx-hashring
 golang-github-sethvargo-retry
@@ -5326,6 +5345,7 @@ golang-github-viant-assertly
 golang-github-viant-toolbox
 golang-github-vincent-petithory-dataurl
 golang-github-vinyldns
+golang-github-viper-mapstructure2
 golang-github-vishvananda-netlink
 golang-github-vishvananda-netns
 golang-github-vividcortex-ewma
@@ -5477,7 +5497,6 @@ golang-gotest
 golang-go4
 golang-gvisor
 golang-hein-version
-golang-helm-3
 golang-honnef-tools
 golang-howett-plist
 golang-jaytaylor-html2text
@@ -5947,6 +5966,7 @@ heimdall
 heimdal
 helix
 hello
+helm
 help2man
 helvum
 HepMC
@@ -7287,6 +7307,7 @@ ktrip
 ktuberling
 kturtle
 kubernetes
+kubernetes1.30
 kubrick
 kurdit-unikurd-web-fonts
 kuserfeedback
@@ -7527,6 +7548,7 @@ libdbi-drivers
 libdbi
 libdb
 libdbusextended-qt5
+libdbusmenu-lxqt
 libdbusmenu
 libdca
 libdc1394
@@ -8096,6 +8118,7 @@ libspnav
 libspng
 libsqlite3x
 libsquish
+libsrm
 libsrtp
 libssh
 libssh2
@@ -8377,6 +8400,7 @@ lld
 lld13
 lld15
 lld17
+lld18
 llhttp
 llmnrd
 llvm-bolt
@@ -8564,6 +8588,7 @@ lv2-swh-plugins
 lv2-vocoder-plugins
 lv2-x42-plugins
 lv2-zynadd-plugins
+lw-cli
 lwp
 lwtools
 lxappearance-obconf
@@ -9388,7 +9413,6 @@ mozilla-ublock-origin
 mozilla-zilla-slab-fonts
 mozjs102
 mozjs115
-mozjs91
 mozo
 mpage
 mpark-patterns
@@ -9504,6 +9528,7 @@ mysql++
 mysqltuner
 MySQL-zrm
 mysql8.0
+myst-nb
 mythes-bg
 mythes-ca
 mythes-cs
@@ -9590,7 +9615,6 @@ ncnn
 ncompress
 nco
 ncrack
-ncurses-epel
 ncurses
 ncview
 ndctl
@@ -9770,6 +9794,7 @@ nordugrid-arc
 normalize
 normaliz
 nosync
+notae
 notcurses
 notejot
 notekit
@@ -10207,7 +10232,6 @@ openjdk-asmtools7
 openjfx
 openjfx8
 openjpeg
-openjpeg2
 openkim-models
 openldap
 openlibm
@@ -10258,7 +10282,6 @@ openssh-ldap-authkeys
 openssh
 openssl-gost-engine
 openssl-ibmca
-openssl-ibmpkcs11
 openssl-pkcs11-sign-provider
 openssl-pkcs11
 openssl
@@ -10266,6 +10289,7 @@ openstack-java-sdk
 OpenStego
 opensubdiv
 opensurge
+opensuse-distro-aliases
 opentest4j
 opentofu
 opentoonz
@@ -10449,6 +10473,7 @@ partio
 parzip
 par2cmdline
 pasdoc
+pass-audit
 passim
 passivetex
 pass-otp
@@ -14089,6 +14114,7 @@ plasma-applet-translator
 plasma-bigscreen
 plasma-breeze
 plasma-browser-integration
+plasma-camera
 plasma-desktop
 plasma-dialer
 plasma-discover
@@ -14117,6 +14143,7 @@ plasmatube
 plasma-vault
 plasma-wallpapers-dynamic
 plasma-wayland-protocols
+plasma-welcome-fedora
 plasma-welcome
 plasma-workspace
 plasma-workspace-wallpapers
@@ -14756,6 +14783,7 @@ python-baluhn
 python-banal
 python-barbicanclient
 python-basemap
+python-base58
 python-bashate
 python-bash-kernel
 python-batalgorithm
@@ -15454,6 +15482,7 @@ python-gmqtt
 python-gnocchiclient
 python-gnupg
 python-google-api-core
+python-googleapis-common-protos
 python-google-auth-oauthlib
 python-google-auth
 python-google-cloud-core
@@ -15515,6 +15544,7 @@ python-hl7
 python-hole
 python-homeconnect
 python-homeworks
+python-housekeeping
 python-howdoi
 python-hpack
 python-hpilo
@@ -15810,6 +15840,7 @@ python-logutils
 python-logzero
 python-looseversion
 python-lqrt
+python-lru-dict
 python-lsp-black
 python-lsp-jsonrpc
 python-lsprotocol
@@ -16074,6 +16105,7 @@ python-omemo
 python-omsdk
 python-onigurumacffi
 python-onionbalance
+python-opcodes
 python-openant
 python-openapi-core
 python-openapi-schema-validator
@@ -16196,6 +16228,7 @@ python-pdf2image
 python-pdir2
 python-pdm-backend
 python-pdm-pep517
+python-peachpy
 python-pebble
 python-pecan
 python-peewee
@@ -16373,6 +16406,7 @@ python-pyfastnoisesimd
 python-pyfiglet
 python-pyfim
 python-pyftdi
+python-pyftpdlib
 python-pygal
 python-pygatt
 python-pygdbmi
@@ -16386,6 +16420,7 @@ python-pygls
 python-pygmars
 python-pygments-better-html
 python-pygments-git
+python-pygments-lexer-solidity
 python-pygments-markdown-lexer
 python-pygments-pytest
 python-pygments
@@ -17508,7 +17543,6 @@ python38-ntlm-auth-epel
 python38-pynetbox
 python38-requests_ntlm-epel
 python3.8
-python39-pyelftools-epel
 python3.9
 pythran
 pytz
@@ -17767,6 +17801,7 @@ QXlsx
 qxmledit
 qxmpp
 qxtglobalshortcut
+qzxing
 q4wine
 rabbitmq-server
 rabbitsign
@@ -19437,6 +19472,7 @@ rust-ctr0.8
 rust-cty
 rust-curl
 rust-curl-sys
+rust-current_platform
 rust-cursive_buffered_backend
 rust-cursive_buffered_backend0.5
 rust-cursive_core
@@ -19549,6 +19585,7 @@ rust-displaydoc
 rust-dissimilar
 rust-dlib
 rust-dlopen2_derive
+rust-dlopen2
 rust-dlv-list
 rust-dlv-list0.2
 rust-dns-lookup
@@ -19821,7 +19858,6 @@ rust-gimli
 rust-gimoji
 rust-gio
 rust-gio-sys
-rust-gio-sys0.15
 rust-gio-sys0.17
 rust-gio-sys0.18
 rust-gio0.17
@@ -19901,7 +19937,6 @@ rust-glib-sys
 rust-glib-sys0.15
 rust-glib-sys0.17
 rust-glib-sys0.18
-rust-glib0.15
 rust-glib0.17
 rust-glib0.18
 rust-globset
@@ -20253,6 +20288,7 @@ rust-libbpf-sys
 rust-libcramjam
 rust-libcryptsetup-rs
 rust-libcryptsetup-rs-sys
+rust-libcryptsetup-rs0.9
 rust-libc
 rust-libcst_derive
 rust-libcst
@@ -20274,6 +20310,7 @@ rust-libmount
 rust-libm
 rust-liboci-cli
 rust-liboverdrop
+rust-libpanel-sys
 rust-libpulse-binding
 rust-libpulse-sys
 rust-librsvg
@@ -20333,6 +20370,7 @@ rust-log-panics
 rust-log
 rust-log0.3
 rust-loopdev-3
+rust-loop9
 rust-lopdf
 rust-lru-cache
 rust-lru
@@ -20429,6 +20467,7 @@ rust-mockall_double
 rust-mockall
 rust-mock_instant
 rust-mockito
+rust-monitord-exporter
 rust-monitord
 rust-mpsc_requests
 rust-mptcp-pm
@@ -20586,7 +20625,6 @@ rust-os_type
 rust-ouroboros_macro
 rust-ouroboros_macro0.17
 rust-ouroboros
-rust-ouroboros0.17
 rust-overload
 rust-owned_ttf_parser
 rust-owning_ref
@@ -20664,7 +20702,6 @@ rust-pem-rfc7468
 rust-pem-rfc7468_0.2
 rust-pem
 rust-pem0.8
-rust-pem1
 rust-pem2
 rust-pep440_rs
 rust-pep440
@@ -20921,6 +20958,7 @@ rust-rand0.7
 rust-range_map_vec
 rust-ratatui
 rust-ratatui0.25
+rust-ravif
 rust-rav1e
 rust-rawpointer
 rust-raw-window-handle
@@ -20933,6 +20971,7 @@ rust-rbspy-testdata
 rust-rbw
 rust-rctree
 rust-rctree0.5
+rust-rc2
 rust-rd-agent-intf
 rust-rd-agent
 rust-rd-hashd-intf
@@ -21243,6 +21282,7 @@ rust-skeptic
 rust-sketches-ddsketch
 rust-skim
 rust-slab
+rust-sled
 rust-slog-async
 rust-slog-scope
 rust-slog
@@ -21416,12 +21456,12 @@ rust-test-assembler
 rust-test-case-core
 rust-test-case-macros
 rust-test-case
-rust-test-case1
 rust-tester
 rust-test-generator
 rust-testing_logger
 rust-test-log-macros
 rust-test-log
+rust-test-tag
 rust-text-block-macros
 rust-text_placeholder
 rust-textwrap
@@ -23542,7 +23582,6 @@ weasyprint
 webalizer
 webanalyze
 web-assets
-webextension-token-signing
 webkitgtk
 webkit2gtk4.0
 webkit2-sharp
