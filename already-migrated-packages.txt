@@ -518,6 +518,7 @@ bind9-next
 biniax
 bino
 binutils
+binwalk
 biosdevname
 biosig4c++
 bird
@@ -918,6 +919,7 @@ conda
 condor
 config-kernel
 configsnap
+congruity
 conky
 conman
 conmon
@@ -3705,7 +3707,6 @@ golang-github-r3labs-diff-3
 golang-github-sacloud-api-client
 golang-github-sacloud-http
 golang-github-sacloud-iaas-api
-golang-github-sacloud-libsacloud
 golang-github-sacloud-packages
 golang-github-safchain-ethtool
 golang-github-sagikazarmark-slog-shim
@@ -3780,7 +3781,6 @@ golang-github-vmihailenco-msgpack-5
 golang-github-vmihailenco-tagparser-2
 golang-github-vmware-govmomi
 golang-github-vmware-vmw-guestinfo
-golang-github-vultr-govultr-2
 golang-github-vultr-govultr-3
 golang-github-wellington-libsass
 golang-github-wi2l-jettison
@@ -3797,7 +3797,6 @@ golang-github-xhit-str2duration2
 golang-github-xwb1989-sqlparser
 golang-github-yandex-cloud-genproto
 golang-github-yandex-cloud-sdk
-golang-github-yashtewari-glob-intersection
 golang-github-youpy-riff
 golang-github-youpy-wav
 golang-github-yuin-goldmark-meta
@@ -3919,7 +3918,6 @@ golang-opentelemetry-otel-0.20
 golang-opentelemetry-proto
 golang-opentelemetry-proto-0.7
 golang-oras
-golang-oras-1
 golang-oras-2
 golang-pkg-nimblebun-lsp
 golang-rsc-qr
@@ -4235,6 +4233,7 @@ hfg-gmuend-openmoji-fonts
 hfsutils
 hgsvn
 hicolor-icon-theme
+hidapi
 hidrd
 hid-replay
 hidviz
@@ -5194,6 +5193,7 @@ kldap
 kleopatra
 klettres
 klog
+kmag
 kmail-account-wizard
 kmail
 kmailtransport
@@ -8040,6 +8040,7 @@ perl-Data-TreeDumper
 perl-Data-Tumbler
 perl-Data-UUID
 perl-Data-Validate-Domain
+perl-Data-Validate-IP
 perl-Data-Visitor
 perl-Date-Calc
 perl-Date-Calc-XS
@@ -9113,6 +9114,7 @@ perl-Role-Basic
 perl-Role-Hooks
 perl-Role-Tiny
 perl-Roman
+perl-RPC-XML
 perl-rpm-build-perl
 perl-RPM-Specfile
 perl-RPM-VersionCompare
@@ -9268,6 +9270,7 @@ perl-Template-Plugin-JavaScript
 perl-Template-Provider-Encoding
 perl-Template-Timer
 perl-Template-Tiny
+perl-Template-Toolkit
 perl-Term-ANSIColor
 perl-Term-Cap
 perl-Term-Completion
@@ -11408,6 +11411,7 @@ python-pyrtlsdr
 python-pysaml2
 python-pysam
 python-pyscf
+python-pysdl2
 python-pyshacl
 python-pyshtools
 python-pyside6
@@ -11448,6 +11452,7 @@ python-pytest-home
 python-pytest-check
 python-pytest-jupyter
 python-pytest-lazy-fixtures
+python-pytest-localftpserver
 python-pytest-lsp
 python-pytest-multihost
 python-pytest-param-files
@@ -11921,6 +11926,7 @@ python-wrapt
 python-wsaccel
 python-wsgidav
 python-wxnatpy
+python-wxpython4
 python-w3lib
 python-xarray-einstats
 python-xarray
@@ -13320,6 +13326,7 @@ rust-blake2b_simd
 rust-blake2
 rust-blake3
 rust-blanket
+rust-blazesym
 rust-blobby
 rust-blobby0.1
 rust-block-buffer
@@ -13376,6 +13383,7 @@ rust-b3sum
 rust-cachedir
 rust-cached_proc_macro
 rust-cached_proc_macro_types
+rust-cached
 rust-cache-padded
 rust-cairo-rs
 rust-cairo-rs0.17
@@ -14299,6 +14307,7 @@ rust-insta
 rust-int-enum
 rust-interpolate_name
 rust-interprocess
+rust-interprocess1
 rust-intervaltree
 rust-intl-memoizer
 rust-intl_pluralrules
@@ -14701,6 +14710,9 @@ rust-num-traits
 rust-num0.3
 rust-nu-parser
 rust-nu-path
+rust-nu-plugin-core
+rust-nu-plugin-engine
+rust-nu-plugin-protocol
 rust-nu-plugin
 rust-nu-pretty-hex
 rust-nu-protocol
@@ -14760,6 +14772,7 @@ rust-owned_ttf_parser
 rust-owning_ref
 rust-owo-colors
 rust-owo-colors3
+rust-oxipng
 rust-packaging
 rust-pad
 rust-pager
@@ -14899,6 +14912,7 @@ rust-png0.16
 rust-polling
 rust-polling2
 rust-pollster-macro
+rust-pollster
 rust-polyval
 rust-poly1305
 rust-pom
@@ -15975,6 +15989,7 @@ rust-web-ext-native-messaging
 rust-webpki-roots
 rust-webpki-roots0.25
 rust-webpki
+rust-web-time
 rust-weezl
 rust-wezterm-bidi
 rust-wezterm-color-types
@@ -16987,6 +17002,7 @@ udisks
 udisks2-qt5
 udisks2
 udis86
+udns
 udpxy
 ufdbGuard
 ufiformat
@@ -17380,6 +17396,7 @@ wsmancli
 wult
 wv
 wxapt
+wxGTK
 wxmacmolplt
 wxMaxima
 wxmedit

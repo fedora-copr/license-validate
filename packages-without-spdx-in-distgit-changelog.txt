@@ -247,7 +247,6 @@ biblesync
 bindep
 bind-to-tinydns
 bino
-binwalk
 bionetgen
 bio2jack
 bird
@@ -472,7 +471,6 @@ comps-extras
 conakry-fonts
 conda-build
 config-kernel
-congruity
 conman
 console-bridge
 console-image-viewer
@@ -2016,7 +2014,6 @@ golang-github-gorilla-websocket
 golang-github-gorp-3
 golang-github-gosexy-gettext
 golang-github-gosuri-uilive
-golang-github-gosuri-uitable
 golang-github-graph-gophers-graphql
 golang-github-graylog2-gelf
 golang-github-gregjones-httpcache
@@ -2271,7 +2268,6 @@ golang-github-martini
 golang-github-masterminds-semver
 golang-github-masterminds-semver-1
 golang-github-masterminds-sprig
-golang-github-masterminds-squirrel
 golang-github-masterminds-vcs
 golang-github-matrix-org-gomatrixserverlib
 golang-github-matrix-org-util
@@ -2903,7 +2899,6 @@ golang-opentelemetry-contrib
 golang-opentelemetry-otel
 golang-opentelemetry-proto
 golang-oras
-golang-oras-1
 golang-oras-2
 golang-pkg-nimblebun-lsp
 golang-rsc-binaryregexp
@@ -3094,7 +3089,6 @@ Hermes
 hexer
 hfsplus-tools
 hibernate-jpa-2.0-api
-hidapi
 hidviz
 hid4java
 highway
@@ -3557,7 +3551,6 @@ klickety
 klines
 klog
 klt
-kmag
 kmahjongg
 kmail
 kmailtransport
@@ -5400,7 +5393,6 @@ perl-Data-Stream-Bulk
 perl-Data-Structure-Util
 perl-Data-Types
 perl-Data-Uniqid
-perl-Data-Validate-IP
 perl-Data-Validate-Type
 perl-Date-HolidayParser
 perl-Date-Holidays-DE
@@ -6088,7 +6080,6 @@ perl-Rose-DB-Object
 perl-Rose-DB
 perl-Rose-Object
 perl-Router-Simple
-perl-RPC-XML
 perl-RPM-VersionCompare
 perl-RT-Client-REST
 perl-Sane
@@ -6173,7 +6164,6 @@ perl-Template-Plugin-CGI
 perl-Template-Plugin-Class
 perl-Template-Plugin-HTML-Strip
 perl-Template-Toolkit-Simple
-perl-Template-Toolkit
 perl-Term-Animation
 perl-Term-Clui
 perl-Term-Encoding
@@ -6436,7 +6426,6 @@ phonon-qt4-backend-gstreamer
 phonon-qt4
 phonon
 php-alcaeus-mongo-php-adapter
-php-andrewsville-php-token-reflection
 php-bacon-qr-code2
 php-bartlett-PHP-CompatInfo
 php-brick-math
@@ -6469,7 +6458,6 @@ php-doctrine-inflector2
 php-doctrine-instantiator
 php-doctrine-lexer
 php-doctrine-persistence
-php-doctrine-reflection
 php-doctrine-sql-formatter
 php-egulias-email-validator
 php-egulias-email-validator2
@@ -6644,7 +6632,6 @@ php-splitbrain-php-jsstrip
 php-splitbrain-slika
 php-swaggest-json-diff
 php-swaggest-json-schema
-php-swiftmailer6
 php-symfony-contracts
 php-symfony-contracts2
 php-symfony-polyfill
@@ -8157,6 +8144,7 @@ python-pyro
 python-PyRSS2Gen
 python-pysb
 python-pyscaffold
+python-pysdl2
 python-pyshacl
 python-pyshark
 python-pyside6
@@ -8204,6 +8192,7 @@ python-pytest-isort
 python-pytest-jupyter
 python-pytest-lazy-fixture
 python-pytest-lazy-fixtures
+python-pytest-localftpserver
 python-pytest-localserver
 python-pytest-lsp
 python-pytest-mock
@@ -8695,7 +8684,6 @@ python-wtforms
 python-wtf-peewee
 python-wurlitzer
 python-www-authenticate
-python-wxpython4
 python-w3lib
 python-xapp
 python-xarray-einstats
@@ -9520,6 +9508,7 @@ rust-blake2b_simd
 rust-blake2
 rust-blake3
 rust-blanket
+rust-blazesym
 rust-blobby
 rust-blobby0.1
 rust-block-buffer
@@ -9567,6 +9556,7 @@ rust-b3sum
 rust-cachedir
 rust-cached_proc_macro
 rust-cached_proc_macro_types
+rust-cached
 rust-cache-padded
 rust-cairo-rs0.17
 rust-cairo-rs0.18
@@ -10336,6 +10326,7 @@ rust-instant
 rust-insta
 rust-int-enum
 rust-interprocess
+rust-interprocess1
 rust-intl-memoizer
 rust-intl_pluralrules
 rust-intrusive-collections
@@ -10653,6 +10644,9 @@ rust-num_threads
 rust-numtoa
 rust-num-traits
 rust-num0.3
+rust-nu-plugin-core
+rust-nu-plugin-engine
+rust-nu-plugin-protocol
 rust-nu-plugin
 rust-nu-pretty-hex
 rust-nu
@@ -10693,7 +10687,6 @@ rust-ouroboros_macro0.17
 rust-ouroboros
 rust-owned_ttf_parser
 rust-owo-colors3
-rust-oxipng
 rust-pager
 rust-page_size
 rust-palette_derive
@@ -10793,6 +10786,7 @@ rust-png0.16
 rust-polling
 rust-polling2
 rust-pollster-macro
+rust-pollster
 rust-polyval
 rust-poly1305
 rust-pore
@@ -11674,6 +11668,7 @@ rust-webbrowser
 rust-web-ext-native-messaging
 rust-webpki-roots
 rust-webpki-roots0.25
+rust-web-time
 rust-weezl
 rust-wezterm-bidi
 rust-wezterm-color-types
@@ -12501,7 +12496,6 @@ wvdial
 wvs-data
 wwl
 wxGlade
-wxGTK
 wxmedit
 wxsqlite3
 w3c-markup-validator

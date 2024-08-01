@@ -340,7 +340,6 @@ bindfs
 bind-to-tinydns
 bind9-next
 bino
-binwalk
 bionetgen
 biosig4c++
 bio2jack
@@ -655,7 +654,6 @@ conan
 conda-build
 conda
 config-kernel
-congruity
 conky
 conman
 conmon
@@ -3124,7 +3122,6 @@ golang-github-gorilla-websocket
 golang-github-gorp-3
 golang-github-gosexy-gettext
 golang-github-gosuri-uilive
-golang-github-gosuri-uitable
 golang-github-graph-gophers-graphql
 golang-github-graylog2-gelf
 golang-github-gregjones-httpcache
@@ -3418,7 +3415,6 @@ golang-github-masterminds-goutils
 golang-github-masterminds-semver
 golang-github-masterminds-semver-1
 golang-github-masterminds-sprig
-golang-github-masterminds-squirrel
 golang-github-masterminds-vcs
 golang-github-masterzen-simplexml
 golang-github-masterzen-winrm
@@ -3766,7 +3762,6 @@ golang-github-sabhiram-gitignore
 golang-github-sacloud-api-client
 golang-github-sacloud-http
 golang-github-sacloud-iaas-api
-golang-github-sacloud-libsacloud
 golang-github-sacloud-packages
 golang-github-safchain-ethtool
 golang-github-sagikazarmark-crypt
@@ -3961,7 +3956,6 @@ golang-github-vmihailenco-msgpack-5
 golang-github-vmihailenco-tagparser-2
 golang-github-vmware-vmw-guestinfo
 golang-github-vtolstov-ioctl
-golang-github-vultr-govultr-2
 golang-github-vultr-govultr-3
 golang-github-wellington-libsass
 golang-github-weppos-publicsuffix
@@ -3992,7 +3986,6 @@ golang-github-xrash-smetrics
 golang-github-xwb1989-sqlparser
 golang-github-yandex-cloud-genproto
 golang-github-yandex-cloud-sdk
-golang-github-yashtewari-glob-intersection
 golang-github-yl2chen-cidranger
 golang-github-youmark-pkcs8
 golang-github-youpy-riff
@@ -4168,7 +4161,6 @@ golang-opentelemetry-contrib-0.20
 golang-opentelemetry-otel
 golang-opentelemetry-proto
 golang-oras
-golang-oras-1
 golang-oras-2
 golang-pkg-nimblebun-lsp
 golang-rsc-binaryregexp
@@ -4434,7 +4426,6 @@ hfg-gmuend-openmoji-fonts
 hfsplus-tools
 hibernate-jpa-2.0-api
 hicolor-icon-theme
-hidapi
 hidviz
 hid4java
 hiera
@@ -7790,7 +7781,6 @@ perl-Data-TreeDumper
 perl-Data-Tumbler
 perl-Data-Types
 perl-Data-Uniqid
-perl-Data-Validate-IP
 perl-Data-Validate-Type
 perl-Data-Visitor
 perl-Date-Calc
@@ -9196,7 +9186,6 @@ perl-Template-Provider-Encoding
 perl-Template-Timer
 perl-Template-Tiny
 perl-Template-Toolkit-Simple
-perl-Template-Toolkit
 perl-Term-Animation
 perl-Term-ANSIColor
 perl-Term-Cap
@@ -9656,7 +9645,6 @@ photocollage
 photoqt
 phototonic
 php-alcaeus-mongo-php-adapter
-php-andrewsville-php-token-reflection
 php-aws-sdk3
 php-bacon-qr-code2
 php-bartlett-PHP-CompatInfo
@@ -9690,7 +9678,6 @@ php-doctrine-inflector2
 php-doctrine-instantiator
 php-doctrine-lexer
 php-doctrine-persistence
-php-doctrine-reflection
 php-doctrine-sql-formatter
 php-egulias-email-validator
 php-egulias-email-validator2
@@ -9867,7 +9854,6 @@ php-splitbrain-php-jsstrip
 php-splitbrain-slika
 php-swaggest-json-diff
 php-swaggest-json-schema
-php-swiftmailer6
 php-symfony-contracts
 php-symfony-contracts2
 php-symfony-polyfill
@@ -11791,6 +11777,7 @@ python-PyRSS2Gen
 python-pysam
 python-pysb
 python-pyscaffold
+python-pysdl2
 python-pyshacl
 python-pyshark
 python-pyshtools
@@ -11845,6 +11832,7 @@ python-pytest-isort
 python-pytest-jupyter
 python-pytest-lazy-fixture
 python-pytest-lazy-fixtures
+python-pytest-localftpserver
 python-pytest-localserver
 python-pytest-lsp
 python-pytest-mock
@@ -12459,7 +12447,6 @@ python-wtforms
 python-wtf-peewee
 python-wurlitzer
 python-www-authenticate
-python-wxpython4
 python-w3lib
 python-xapp
 python-xarray-einstats
@@ -13412,6 +13399,7 @@ rust-blake2b_simd
 rust-blake2
 rust-blake3
 rust-blanket
+rust-blazesym
 rust-blobby
 rust-blobby0.1
 rust-block-buffer
@@ -13460,6 +13448,7 @@ rust-b3sum
 rust-cachedir
 rust-cached_proc_macro
 rust-cached_proc_macro_types
+rust-cached
 rust-cache-padded
 rust-cairo-rs0.17
 rust-cairo-rs0.18
@@ -14231,6 +14220,7 @@ rust-instant
 rust-insta
 rust-int-enum
 rust-interprocess
+rust-interprocess1
 rust-intl-memoizer
 rust-intl_pluralrules
 rust-intrusive-collections
@@ -14549,6 +14539,9 @@ rust-num_threads
 rust-numtoa
 rust-num-traits
 rust-num0.3
+rust-nu-plugin-core
+rust-nu-plugin-engine
+rust-nu-plugin-protocol
 rust-nu-plugin
 rust-nu-pretty-hex
 rust-nu
@@ -14589,7 +14582,6 @@ rust-ouroboros_macro0.17
 rust-ouroboros
 rust-owned_ttf_parser
 rust-owo-colors3
-rust-oxipng
 rust-pager
 rust-page_size
 rust-palette_derive
@@ -14689,6 +14681,7 @@ rust-png0.16
 rust-polling
 rust-polling2
 rust-pollster-macro
+rust-pollster
 rust-polyval
 rust-poly1305
 rust-pore
@@ -15573,6 +15566,7 @@ rust-webbrowser
 rust-web-ext-native-messaging
 rust-webpki-roots
 rust-webpki-roots0.25
+rust-web-time
 rust-weezl
 rust-wezterm-bidi
 rust-wezterm-color-types
@@ -16637,7 +16631,6 @@ wvdial
 wvs-data
 wwl
 wxGlade
-wxGTK
 wxmedit
 wxsqlite3
 w3c-markup-validator
