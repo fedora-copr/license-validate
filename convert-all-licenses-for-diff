@@ -6,6 +6,6 @@ LICENSE='GPL+ or Artistic'
 
 while read line; do
         echo $line
-        ./convert-spec-universal.py "rpm-specs/$line.spec" "$LICENSE"
+        ./convert-spec.py "rpm-specs/$line.spec" "$LICENSE"
 done < "$1"
 
