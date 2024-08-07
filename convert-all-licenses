@@ -8,8 +8,8 @@ for line in $(cat $1); do
         cd /tmp
         fedpkg clone "$line"
         cd "$line"
-        /home/msuchy/projects/license-validate/convert-spec.py "$line.spec" "$LICENSE"
-        git commit -a -m "convert $LICENSE license to SPDX
+        /home/msuchy/projects/license-validate/convert-spec-universal.py "$line.spec" "$LICENSE"
+        git commit -a -m "convert license to SPDX
 
 This is part of https://fedoraproject.org/wiki/Changes/SPDX_Licenses_Phase_4"
         if git lol | head -n1 | grep SPDX ; then 
