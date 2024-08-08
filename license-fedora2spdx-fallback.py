@@ -38,7 +38,8 @@ class T(Transformer):
     def __default_token__(self, token):
         if token.value in LICENSES:
             if COUNT[token] > 1:
-                token.value = f"License-Callaway-{token.value}"
+                token.value = f"LicenseRef-Callaway-{token.value}"
+                token.value = token.value.replace(" ", "-")
             else:
                 token.value = LICENSES[token]
         elif token in ["(", ")"]:

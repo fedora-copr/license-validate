@@ -6,12 +6,21 @@ import sys
 from datetime import datetime
 
 def alter_license(license):
-    data = subprocess.Popen(['license-fedora2spdx', license], stdout = subprocess.PIPE)
+    data = subprocess.Popen(['license-validate', '-v', license], stdout = subprocess.PIPE)
+    output = data.communicate()[0].strip().decode()
+    if "Approved license" in output[0]:
+        return license
+
+    data = subprocess.Popen(['./license-fedora2spdx-fallback.py', license], stdout = subprocess.PIPE)
     output = data.communicate()[0].strip().decode()
     if "Warning" in str(output[0]):
         sys.stderr.write("Error: Cannot convert automatically.")
         sys.exit(-1)
-    #print(license)
+    if "Not a valid license string in legacy syntax." in output[0]:
+        # not callaway license in spec file that has other licenses that can be converted, skip this one license
+        return license
+    print("- ", license)
+    print("+ ", output)
     #print("DBG" , output)
     return output
 
@@ -56,12 +65,12 @@ with specfile.sections() as sections:
             with specfile.tags(section) as tags:
                 if 'License' in tags:
                     license = tags.license.value
-                    if not ("with" in license):
-                        new_license = alter_license(license)
-                        if not ("not a valid license string in legacy syntax" in new_license):
-                            tags.license.value = new_license
-                            tags.license.comments.append(f"Automatically converted from old format: {license} - review is highly recommended.")
-                            migrated = True
+#                    if not ("with" in license):
+                    new_license = alter_license(license)
+#                        if not ("not a valid license string in legacy syntax" in new_license):
+#                            tags.license.value = new_license
+#                            tags.license.comments.append(f"Automatically converted from old format: {license} - review is highly recommended.")
+#                            migrated = True
                     #print(section.name, tags.license.value)
                     #tags.license = "MIT"
 if migrated:
