@@ -54,7 +54,7 @@ def increment_last_number(input_string):
 
 # this is dump, but do the work
 filename = sys.argv[1]
-old_license = sys.argv[2]
+#old_license = sys.argv[2]
 #new_license = alter_license(old_license)
 specfile = Specfile(filename)
 migrated = False
