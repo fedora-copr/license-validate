@@ -8,7 +8,7 @@ from datetime import datetime
 def alter_license(license):
     data = subprocess.Popen(['license-validate', '-v', license], stdout = subprocess.PIPE)
     output = data.communicate()[0].strip().decode()
-    if "Approved license" in output[0]:
+    if "Approved license" in output:
         return license
 
     data = subprocess.Popen(['./license-fedora2spdx-fallback.py', license], stdout = subprocess.PIPE)
@@ -16,7 +16,7 @@ def alter_license(license):
     if "Warning" in str(output[0]):
         sys.stderr.write("Error: Cannot convert automatically.")
         sys.exit(-1)
-    if "Not a valid license string in legacy syntax." in output[0]:
+    if "Not a valid license string in legacy syntax." in output:
         # not callaway license in spec file that has other licenses that can be converted, skip this one license
         return license
     print("- ", license)

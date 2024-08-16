@@ -44,6 +44,7 @@ antlr
 aopalliance
 apache-commons-cli
 apache-commons-codec
+apache-commons-compress
 apache-commons-io
 apache-commons-lang3
 apache-commons-logging
@@ -111,7 +112,6 @@ cairomm
 cairomm1.16
 capstone
 catatonit
-catch1
 cdi-api
 cepces
 ceph
@@ -141,7 +141,6 @@ cockpit-session-recording
 color-filesystem
 colord
 colord-gtk
-compat-locales-sap
 compiler-rt
 composefs
 conmon
@@ -307,7 +306,6 @@ geoclue2
 geocode-glib
 geolite2
 gettext
-gfs2-utils
 ghostscript
 giflib
 git
@@ -742,7 +740,6 @@ libXxf86vm
 libadwaita
 libaio
 libao
-libappstream-glib
 libarchive
 libassuan
 libasyncns
@@ -1114,7 +1111,6 @@ omping
 ongres-scram
 ongres-stringprep
 oniguruma
-opae
 open-sans-fonts
 open-vm-tools
 openblas
@@ -1558,7 +1554,6 @@ python-sphinx
 python-sphinx-theme-alabaster
 python-sqlalchemy
 python-systemd
-python-tomli-w
 python-tornado
 python-tpm2-pytss
 python-trove-classifiers
@@ -1572,10 +1567,8 @@ python-websockets
 python-wheel
 python-xkbregistry
 python-yubico
-python-zstandard
 python3.13
 pyusb
-pywbem
 pyxdg
 qatengine
 qatlib
@@ -1654,7 +1647,6 @@ rpm
 rpm-mpi-hooks
 rpm-ostree
 rpmdevtools
-rpmlint
 rrdtool
 rshim
 rsync
@@ -1726,7 +1718,6 @@ shell-color-prompt
 shim
 shim-unsigned-aarch64
 shim-unsigned-x64
-sid
 sil-nuosu-fonts
 sil-padauk-fonts
 sisu
@@ -1815,6 +1806,7 @@ tmux
 tog-pegasus
 tokyocabinet
 tomcat
+tomcat-jakartaee-migration
 toolbox
 torque
 totem-pl-parser
@@ -1825,7 +1817,6 @@ tpm2-pkcs11
 tpm2-tools
 tpm2-tss
 trace-cmd
-tracer
 traceroute
 tracker
 tracker-miners

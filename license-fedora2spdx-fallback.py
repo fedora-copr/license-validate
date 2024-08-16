@@ -98,6 +98,7 @@ for l in data.keys():
                 VARIATIONS[legacy_abbrev] = [spdx]
 
 LICENSES["Public Domain"] = "LicenseRef-Callaway-Public-Domain"
+LICENSES["Redistributable, no modification permitted"] = "LicenseRef-Callaway-Freely-redistributable-no-modification-permitted"
 LICENSES["Freely redistributable without restrictions"] = "LicenseRef-Callaway-Freely-redistributable-without-restrictions"
 LICENSES["Freely redistributable, no modification permitted"] = "LicenseRef-Callaway-Freely-redistributable-no-modification-permitted"
 LICENSES["Copyright only"] = "LicenseRef-Callaway-Copyright-only"
