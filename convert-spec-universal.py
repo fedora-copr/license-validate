@@ -67,10 +67,10 @@ with specfile.sections() as sections:
                     license = tags.license.value
 #                    if not ("with" in license):
                     new_license = alter_license(license)
-#                        if not ("not a valid license string in legacy syntax" in new_license):
-#                            tags.license.value = new_license
-#                            tags.license.comments.append(f"Automatically converted from old format: {license} - review is highly recommended.")
-#                            migrated = True
+                    if not ("not a valid license string in legacy syntax" in new_license):
+                        tags.license.value = new_license
+                        tags.license.comments.append(f"Automatically converted from old format: {license} - review is highly recommended.")
+                        migrated = True
                     #print(section.name, tags.license.value)
                     #tags.license = "MIT"
 if migrated:
