@@ -112,7 +112,6 @@ cairomm
 cairomm1.16
 capstone
 catatonit
-cdi-api
 cepces
 ceph
 certmonger
@@ -347,6 +346,7 @@ gnome-shell
 gnome-shell-extension-background-logo
 gnome-shell-extension-dash-to-dock
 gnome-shell-extension-dash-to-panel
+gnome-shell-extension-no-overview
 gnome-shell-extensions
 gnome-software
 gnome-system-monitor
@@ -1322,7 +1322,6 @@ perl-Test-Exception
 perl-Test-Harness
 perl-Test-NoWarnings
 perl-Test-Simple
-perl-Test2-Suite
 perl-Text-Balanced
 perl-Text-Diff
 perl-Text-Glob
@@ -1468,7 +1467,6 @@ python-distro
 python-dns
 python-docutils
 python-drgn
-python-editables
 python-enchant
 python-flit-core
 python-gssapi
@@ -1670,6 +1668,8 @@ rust-bootupd
 rust-coreos-installer
 rust-prefixdevname
 rust-rpm-sequoia
+rust-sequoia-sq
+rust-sequoia-sqv
 rust-sevctl
 rust-ssh-key-dir
 rust-zram-generator
@@ -1945,7 +1945,6 @@ xrdb
 xrestop
 xterm
 xwayland-run
-xxhash
 xz
 xz-java
 yajl

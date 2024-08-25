@@ -88,6 +88,7 @@ ansible-collection-awx-awx
 ansible-collection-community-crypto
 ansible-collection-community-docker
 ansible-collection-community-general
+ansible-collection-community-internal_test_tools
 ansible-collection-community-mysql
 ansible-collection-community-postgresql
 ansible-collection-containers-podman
@@ -227,7 +228,6 @@ beets
 bee2
 beneath-a-steel-sky-cd
 beneath-a-steel-sky
-bes
 bfast
 bfs
 bgpq3
@@ -493,6 +493,8 @@ cramjam-cli
 crawl
 createrepo-agent
 credentials-fetcher
+cri-o1.29
+cri-o1.30
 cri-tools1.29
 cri-tools1.30
 cri-tools1.31
@@ -512,7 +514,6 @@ crow-translate
 crrcsim-addon-models
 crun-vm
 cryptlib
-cryptobone
 csmith
 csound
 cstream
@@ -657,6 +658,7 @@ docbook-slides
 docbook2X
 docbook5-schemas
 docbook5-style-xsl
+docker-buildx
 docker-compose-switch
 doclifter
 docopt-cpp
@@ -1076,9 +1078,11 @@ gap-pkg-anupq
 gap-pkg-fplsa
 gap-pkg-idrel
 gap-pkg-jupyterviz
+gap-pkg-kbmag
 gap-pkg-lins
 gap-pkg-mapclass
 gap-pkg-normalizinterface
+gap-pkg-numericalsgps
 gap-pkg-openmath
 gap-pkg-orb
 gap-pkg-permut
@@ -1347,6 +1351,7 @@ ghc-vty
 ghc-wai-app-static
 ghc-wai-logger
 ghc-warp-tls
+ghc-what4
 ghc-xss-sanitize
 ghc-X11
 ghc-x509
@@ -1362,7 +1367,6 @@ ghdl
 ghex
 gh
 giac
-gifticlib
 gif2png
 gimgtools
 gimpfx-foundry
@@ -1370,7 +1374,6 @@ gimp-paint-studio
 gimp-save-for-web
 gimp-separate+
 gimp-wavelet-denoise-plugin
-gimp3
 ginga
 gio-sharp
 gir-to-d
@@ -3249,6 +3252,7 @@ jalv
 jam
 janet
 janino
+javacc
 java-latest-openjdk-portable
 java-latest-openjdk
 java-packaging-howto
@@ -3579,6 +3583,7 @@ ktnef
 ktorrent
 ktouch
 ktrip
+kubernetes1.29
 kubernetes1.30
 kubernetes1.31
 kubrick
@@ -4197,7 +4202,6 @@ man2html
 mapserver
 marble
 marco
-mariadb10.11
 markdownpart
 marked
 marker
@@ -4554,6 +4558,7 @@ mozilla-ublock-origin
 mozilla-zilla-slab-fonts
 mozjs102
 mozjs115
+mozjs128
 mozo
 mpark-patterns
 mpc-qt
@@ -4751,7 +4756,7 @@ ocaml-intrinsics-kernel
 ocaml-jsonm
 ocaml-lwt
 ocaml-opam-file-format
-ocaml-opam-0install
+ocaml-opam-0install-cudf
 ocaml-pcre2
 ocaml-perl4caml
 ocaml-ppx-deriving-yaml
@@ -4906,7 +4911,6 @@ oval-graph
 overlayfs-tools
 overpass-fonts
 ov
-owncloud-client
 oxygen-fonts
 oxygen-gtk2
 oxygen-icon-theme
@@ -4999,7 +5003,6 @@ perl-Apache-Htpasswd
 perl-Apache-Session-NoSQL
 perl-Attean
 perl-AtteanX-Compatibility-Trine
-perl-Authen-Krb5-Admin
 perl-Authen-U2F
 perl-Authen-U2F-Tester
 perl-autobox-Junctions
@@ -5862,8 +5865,6 @@ python-anyconfig
 python-anyio
 python-anyjson
 python-anykeystore
-python-anymarkup-core
-python-anymarkup
 python-aodhclient
 python-apipkg
 python-apprise
@@ -6050,6 +6051,7 @@ python-cerberus
 python-cerealizer
 python-cffi
 python-cftime
+python-cid
 python-cinderclient
 python-circuitbreaker
 python-ciso8601
@@ -6149,6 +6151,7 @@ python-cytoolz
 python-daemonize
 python-daemon
 python-damo
+python-dandischema
 python-daphne
 python-dasbus
 python-dask-expr
@@ -6171,8 +6174,6 @@ python-deepdiff
 python-defcon
 python-defusedxml
 python-designateclient
-python-devicely
-python-devtools
 python-dictdiffer
 python-dict-sorted
 python-diff-match-patch
@@ -6186,7 +6187,6 @@ python-django-allauth
 python-django-angular
 python-django-annoying
 python-django-appconf
-python-django-auth-ldap
 python-django-authority
 python-django-cacheops
 python-django-cache-url
@@ -6216,7 +6216,6 @@ python-django-pdb
 python-django-pglocks
 python-django-picklefield
 python-django-pipeline
-python-django-pyscss
 python-django-pytest
 python-djangoql
 python-django-q
@@ -6278,7 +6277,6 @@ python-esbonio
 python-etcd
 python-et_xmlfile
 python-evdev
-python-eventlet
 python-events
 python-execnet
 python-executing
@@ -6326,7 +6324,6 @@ python-flake8-quotes
 python-flake8
 python-flask-admin
 python-flask-babel
-python-flask-basicauth
 python-flask-caching
 python-flask-compress
 python-flask-cors
@@ -6387,7 +6384,6 @@ python-gekitchen
 python-gelidum
 python-gemfileparser2
 python-genshi
-python-gensim
 python-geodatasets
 python-GeoIP
 python-geojson
@@ -6412,9 +6408,7 @@ python-gmqtt
 python-gnocchiclient
 python-gnupg
 python-google-cloud-core
-python-google-cloud-monitoring
 python-google-i18n-address
-python-grabbit
 python-graphene
 python-graphql-core
 python-graphql-relay
@@ -6663,7 +6657,6 @@ python-mathics-pygments
 python-mathics-scanner
 python-matplotlib-inline
 python-matplotlib-scalebar
-python-matplotlib-venn
 python-maxminddb
 python-mbstrdecoder
 python-mdx_gh_links
@@ -6678,7 +6671,6 @@ python-merge3
 python-meson-python
 python-metakernel
 python-metno
-python-mglob
 python-micawber
 python-microfs
 python-mido
@@ -6842,7 +6834,6 @@ python-osc-lib
 python-oscrypto
 python-oslo-concurrency
 python-oslo-config
-python-oslo-db
 python-oslo-i18n
 python-oslo-log
 python-oslo-messaging
@@ -6862,6 +6853,7 @@ python-paho-mqtt
 python-palettable
 python-Pallets-Sphinx-Themes
 python-pamela
+python-pamqp
 python-pam
 python-pandas-datareader
 python-pandocfilters
@@ -7012,7 +7004,6 @@ python-pygments-markdown-lexer
 python-pygments
 python-pygments-style-solarized
 python-pygmtools
-python-py-gql
 python-pygraphviz
 python-pygrocy
 python-pyhcl
@@ -7053,6 +7044,7 @@ python-pynsgr
 python-pynuvo
 python-pynwb
 python-pyobd
+python-pyogrio
 python-pyongc
 python-pyopencl
 python-pyopengltk
@@ -7262,7 +7254,6 @@ python-rstcheck
 python-rst-linker
 python-rstr
 python-rtmidi
-python-ruffus
 python-rustcfg
 python-rust-update-set
 python-saharaclient
@@ -7299,7 +7290,6 @@ python-setupmeta
 python-setuptools-gettext
 python-setuptools_git
 python-setuptools-git-versioning
-python-setuptools_scm_git_archive
 python-sgmllib3k
 python-sgp4
 python-sgqlc
@@ -7347,6 +7337,7 @@ python-snakemake-storage-plugin-ftp
 python-snakemake-storage-plugin-gcs
 python-snakemake-storage-plugin-http
 python-snakemake-storage-plugin-s3
+python-snakemake-storage-plugin-webdav
 python-snakemake-storage-plugin-xrootd
 python-snakemake-storage-plugin-zenodo
 python-snappy
@@ -7355,12 +7346,14 @@ python-sniffio
 python-snuggs
 python-socksio
 python-socks5line
+python-solcx
 python-soupsieve
 python-spdx-tools
 python-speaklater
 python-speg
 python-sphinx-argparse-cli
 python-sphinx-argparse
+python-sphinx-autoapi
 python-sphinx-autodoc-typehints
 python-sphinx-bootstrap-theme
 python-sphinx-click
@@ -7368,7 +7361,6 @@ python-sphinxcontrib-apidoc
 python-sphinxcontrib-autoprogram
 python-sphinxcontrib-blockdiag
 python-sphinxcontrib-jquery
-python-sphinxcontrib-openapi
 python-sphinxcontrib-phpdomain
 python-sphinxcontrib-programoutput
 python-sphinxcontrib-seqdiag
@@ -7414,6 +7406,7 @@ python-ssh-python
 python-stackprinter
 python-statsd
 python-statsmodels
+python-stdlibs
 python-stdnum
 python-steam
 python-stem
@@ -7452,7 +7445,6 @@ python-tempita
 python-tempora
 python-tenacity
 python-tensile
-python-tensordict
 python-term-background
 python-termcolor
 python-terminaltables
@@ -8412,6 +8404,7 @@ rust-blowfish
 rust-blsctl
 rust-bodhi-cli
 rust-bodhi
+rust-boxcar
 rust-bracoxide
 rust-brotli-decompressor
 rust-brotli
@@ -8971,6 +8964,7 @@ rust-gio0.17
 rust-gio0.18
 rust-gio0.19
 rust-git-absorb
+rust-git-interactive-rebase-tool
 rust-git-version-macro
 rust-git-version
 rust-git2-curl
@@ -9994,7 +9988,6 @@ rust-rustc_version
 rust-rustc_version0.3
 rust-rustdct
 rust-rust_decimal_macros
-rust-rust-embed-impl6
 rust-rust-embed-utils7
 rust-rustfft
 rust-rustfix
@@ -10288,6 +10281,7 @@ rust-szip
 rust-tabled_derive
 rust-tabled
 rust-tabular
+rust-tabwriter
 rust-tame-index
 rust-target-lexicon
 rust-target
@@ -10768,7 +10762,6 @@ SDL2_Pango
 SDL2_sound
 SDL2
 sdorfehs
-sdparm
 sdrpp
 sdsl-lite
 selint
@@ -10894,6 +10887,7 @@ sockperf
 SOIL
 solar-backgrounds
 solar-kde-theme
+solidity
 sonivox
 soplex
 soprano
@@ -11405,6 +11399,7 @@ wmenu
 wmname
 wmx
 wob
+wolfssl
 woodardworks-laconic-fonts
 wordwarvi
 workflow

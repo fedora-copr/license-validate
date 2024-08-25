@@ -165,6 +165,7 @@ ansible-collection-awx-awx
 ansible-collection-community-crypto
 ansible-collection-community-docker
 ansible-collection-community-general
+ansible-collection-community-internal_test_tools
 ansible-collection-community-kubernetes
 ansible-collection-community-libvirt
 ansible-collection-community-mysql
@@ -1038,6 +1039,8 @@ credslayer
 creds
 crest
 cri-o
+cri-o1.29
+cri-o1.30
 CriticalMass
 cri-tools
 cri-tools1.29
@@ -1067,6 +1070,7 @@ crudini
 crun
 crun-vm
 cryfs
+cryptobone
 cryptominisat
 crypto-policies
 cryptopp
@@ -1347,6 +1351,7 @@ docbook-dtds
 docbook-style-dsssl
 docbook-style-xsl
 docbook-utils
+docker-buildx
 docker-compose
 docker-compose-switch
 docker-distribution
@@ -2121,6 +2126,7 @@ gap-pkg-irredsol
 gap-pkg-json
 gap-pkg-jupyterkernel
 gap-pkg-jupyterviz
+gap-pkg-kbmag
 gap-pkg-laguna
 gap-pkg-liealgdb
 gap-pkg-liepring
@@ -2132,6 +2138,7 @@ gap-pkg-mapclass
 gap-pkg-nautytracesinterface
 gap-pkg-normalizinterface
 gap-pkg-nq
+gap-pkg-numericalsgps
 gap-pkg-openmath
 gap-pkg-orb
 gap-pkg-permut
@@ -2827,6 +2834,7 @@ ghc-wai
 ghc-wai-websockets
 ghc-warp
 ghc-websockets
+ghc-what4
 ghc-with-location
 ghc-wizards
 ghc-wl-pprint
@@ -2869,6 +2877,7 @@ giac
 gi-docgen
 giflib
 gifsicle
+gifticlib
 gigolo
 gimagereader
 gimgtools
@@ -2879,7 +2888,6 @@ gimp-fourier-plugin
 gimp-help
 gimp-high-pass-filter
 gimp-layer-via-copy-cut
-gimp-lensfun
 gimp-lqr-plugin
 gimp-luminosity-masks
 gimp-resynthesizer
@@ -3957,7 +3965,6 @@ golang-k8s-kube-openapi
 golang-k8s-metrics
 golang-k8s-pod-security-admission
 golang-k8s-sample-apiserver
-golang-k8s-sample-cli-plugin
 golang-k8s-sample-controller
 golang-k8s-utils
 golang-layeh-gopher-luar
@@ -5398,6 +5405,7 @@ ktp-desktop-applets
 ktrip
 ktuberling
 kturtle
+kubernetes1.29
 kubernetes1.30
 kubernetes1.31
 kurdit-unikurd-web-fonts
@@ -5898,8 +5906,6 @@ libpoly
 libportal
 libppd
 libpq
-libpreludedb
-libprelude
 libpri
 libprojectM
 libprometheus-cpp
@@ -6437,6 +6443,7 @@ marcsabatella-campania-fonts
 mariadb-connector-c
 mariadb-connector-odbc
 mariadb-java-client
+mariadb10.11
 marisa
 markdownpart
 marknote
@@ -6908,6 +6915,7 @@ mozilla-https-everywhere
 mozilla-noscript
 mozjs102
 mozjs115
+mozjs128
 mpage
 mpark-patterns
 mpark-variant
@@ -7365,7 +7373,7 @@ ocaml-octavius
 ocaml-odoc
 ocaml-omake
 ocaml-opam-file-format
-ocaml-opam-0install
+ocaml-opam-0install-cudf
 ocaml-ounit
 ocaml-parmap
 ocaml-parsexp
@@ -11189,7 +11197,6 @@ pragha
 prboom-plus
 prboom
 pre-commit
-prelude-correlator
 prelude-lml-rules
 prelude-lml
 prelude-manager
@@ -11288,11 +11295,9 @@ pydeps
 pydot
 PyDrive2
 pygame
-pygobject2
 pygobject3
 pygrib
 pygsl
-pygtk2
 pyhoca-cli
 pyhoca-gui
 pyhunspell
@@ -11302,7 +11307,6 @@ pyinstrument
 pykickstart
 pykka
 pylast
-pyliblo
 pylint
 PyMca
 pymilia
@@ -11337,7 +11341,6 @@ python-accessible-pygments
 python-accuweather
 python-adal
 python-adb-shell
-python-adb
 python-adjustText
 python-admesh
 python-advisory-parser
@@ -11546,6 +11549,7 @@ python-certifi
 python-cffi
 python-cffsubr
 python-cfgv
+python-cid
 python-cinderclient
 python-circuitbreaker
 python-click-option-group
@@ -11651,6 +11655,7 @@ python-daemon
 python-daikin
 python-daiquiri
 python-damo
+python-dandischema
 python-danfossair
 python-daphne
 python-dasbus
@@ -11712,7 +11717,6 @@ python-django-prometheus
 python-django
 python-django-uuslug
 python-django4.2
-python-djvulibre
 python-dmidecode
 python-dns
 python-dockerpty
@@ -11814,7 +11818,6 @@ python-flake8-deprecated
 python-flake8-import-order
 python-flake8-quotes
 python-flaky
-python-flask-basicauth
 python-flask-mailman
 python-flask-migrate
 python-flask-mongoengine
@@ -11898,14 +11901,12 @@ python-google-auth-oauthlib
 python-google-auth
 python-google-cloud-core
 python-google-cloud-dns
-python-google-cloud-monitoring
 python-google-cloud-storage
 python-google-crc32c
 python-google-resumable-media
 python-gphoto2
 python-gpiozero
 python-gpxpy
-python-grabbit
 python-grabserial
 python-gradunwarp
 python-graph-tool
@@ -12320,7 +12321,6 @@ python-oscrypto
 python-oslo-concurrency
 python-oslo-config
 python-oslo-context
-python-oslo-db
 python-oslo-i18n
 python-oslo-log
 python-oslo-messaging
@@ -12343,6 +12343,7 @@ python-packvers
 python-paginate
 python-pagure-messages
 python-palettable
+python-pamqp
 python-pandas-datareader
 python-pandas-flavor
 python-pandas
@@ -12478,7 +12479,6 @@ python-pyembroidery
 python-pyerfa
 python-pyev
 python-pyfakefs
-python-pyfastnoisesimd
 python-pyfiglet
 python-pyftpdlib
 python-pygal
@@ -12532,6 +12532,7 @@ python-pynn
 python-pynsgr
 python-pynwb
 python-pyocr
+python-pyogrio
 python-pyone
 python-pyongc
 python-pyopengl
@@ -12826,12 +12827,14 @@ python-snakemake-storage-plugin-ftp
 python-snakemake-storage-plugin-gcs
 python-snakemake-storage-plugin-http
 python-snakemake-storage-plugin-s3
+python-snakemake-storage-plugin-webdav
 python-snakemake-storage-plugin-xrootd
 python-snakemake-storage-plugin-zenodo
 python-sniffio
 python-social-auth-core
 python-socketio
 python-socks
+python-solcx
 python-sortedcollections
 python-sortedcontainers
 python-spdx-tools
@@ -12839,6 +12842,7 @@ python-specfile
 python-spec
 python-speedtest-cli
 python-sphinx-argparse-cli
+python-sphinx-autoapi
 python-sphinx-autobuild
 python-sphinx-basic-ng
 python-sphinxcontrib-asyncio
@@ -12893,12 +12897,12 @@ python-stack-data
 python-starlette
 python-stdiomask
 python-stdlib-list
+python-stdlibs
 python-stdnum
 python-steps
 python-stestr
 python-stevedore
 python-stomper
-python-stompest
 python-stone
 python-streamlink
 python-strict-rfc3339
@@ -12936,11 +12940,9 @@ python-teletype
 python-templated-dictionary
 python-tenacity
 python-tensile
-python-tensordict
 python-term-background
 python-terminado
 python-teslajsonpy
-python-testinfra
 python-testing.common.database
 python-testing.postgresql
 python-testpath
@@ -12964,7 +12966,6 @@ python-tiny-proxy
 python-tkrzw
 python-tldextract
 python-tld
-python-tmuxp
 python-token-bucket
 python-toml-adapt
 python-tomli-w
@@ -13086,7 +13087,6 @@ python-willow
 python-wloc
 python-wordcloud
 python-wrapt
-python-wsaccel
 python-wsgidav
 python-wxnatpy
 python-wxpython4
@@ -13244,7 +13244,6 @@ qoi
 qownnotes
 qpdf
 qpdfview
-qpid-dispatch
 qpid-proton
 qpress
 qpwgraph
@@ -13859,7 +13858,6 @@ rubygem-actionpack
 rubygem-actiontext
 rubygem-actionview
 rubygem-activejob
-rubygem-activemodel-serializers-xml
 rubygem-activemodel
 rubygem-activerecord
 rubygem-activestorage
@@ -14531,6 +14529,7 @@ rust-blsctl
 rust-bodhi-cli
 rust-bodhi
 rust-bootupd
+rust-boxcar
 rust-box_drawing
 rust-bracoxide
 rust-brotli-decompressor
@@ -15209,6 +15208,7 @@ rust-gio0.19
 rust-gir-format-check
 rust-git-absorb
 rust-git-delta
+rust-git-interactive-rebase-tool
 rust-gitui
 rust-git-version-macro
 rust-git-version
@@ -16458,7 +16458,6 @@ rust-rustdct
 rust-rust_decimal_macros
 rust-rust_decimal
 rust-rust-embed-impl
-rust-rust-embed-impl6
 rust-rust-embed
 rust-rust-embed-utils
 rust-rust-embed-utils7
@@ -16807,6 +16806,7 @@ rust-szip
 rust-tabled_derive
 rust-tabled
 rust-tabular
+rust-tabwriter
 rust-take_mut
 rust-tame-index
 rust-tap
@@ -17471,6 +17471,7 @@ SDL2_Pango
 SDL2
 SDL2_ttf
 sdorfehs
+sdparm
 sdrangel
 sdsl-lite
 sdubby
@@ -17633,7 +17634,6 @@ sip6
 sirikali
 siril
 sirius
-sisu-mojos
 sisu
 six
 sjinn
@@ -17706,6 +17706,7 @@ softnet-stat
 solaar
 SolarModel
 solarwolf
+solidity
 sombok
 sonic-visualiser
 sonivox
@@ -18189,7 +18190,6 @@ translate-shell
 translate-toolkit
 transmission-remote-gtk
 transmission
-transtats-cli
 trash-cli
 travelccm
 traverso
@@ -18654,6 +18654,7 @@ WoeUSB
 woff
 woff2
 wofi
+wolfssl
 wol
 wondershaper
 wordgrinder
@@ -19003,7 +19004,6 @@ yyjson
 zabbix
 zaf
 zam-plugins
-zanata-python-client
 zanshin
 zathura-cb
 zathura-djvu
