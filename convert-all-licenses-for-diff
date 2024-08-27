@@ -9,7 +9,7 @@ while read line; do
         echo $line
         ./convert-spec-universal.py "rpm-specs/$line.spec" "$LICENSE"
         ((count++))
-        if [ "$count" -ge 500 ]; then
+        if [ "$count" -ge 1500 ]; then
                 break
         fi
 done < "$1"
