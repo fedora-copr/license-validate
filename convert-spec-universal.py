@@ -11,7 +11,7 @@ def alter_license(license):
     if "Approved license" in output:
         return license
 
-    data = subprocess.Popen(['./license-fedora2spdx-fallback.py', license], stdout = subprocess.PIPE)
+    data = subprocess.Popen(['/home/msuchy/projects/license-validate/license-fedora2spdx-fallback.py', license], stdout = subprocess.PIPE)
     output = data.communicate()[0].strip().decode()
     if "Warning" in str(output[0]):
         sys.stderr.write("Error: Cannot convert automatically.")
