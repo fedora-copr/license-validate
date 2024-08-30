@@ -23,8 +23,12 @@ else
         if license-validate --package "${SPEC}" "$LICENSE" >/dev/null; then
                 true;
         else
-                echo "$1 warning: not valid neither as Callaway nor as SPDX, please check"
-                echo "${SPEC}" >> $FILENAME_ALL_PACKAGES
+                if [[ "$LICENSE" == *"LicenseRef-Callaway-"* ]]; then
+                    echo "$i contains LicenseRef-Callaway, needs to be manually converted"
+                else
+                        echo "$1 warning: not valid neither as Callaway nor as SPDX, please check"
+                        echo "${SPEC}" >> $FILENAME_ALL_PACKAGES
+                fi
         fi
   fi
 done
