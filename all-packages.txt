@@ -444,7 +444,6 @@ atari800
 atasm
 aterm
 atf
-atinject
 atkmm
 atkmm2.36
 atlantik
@@ -942,7 +941,6 @@ cdcollect
 cd-discid
 cddlib
 cdecl
-cdi-api
 cdist
 cdk
 cdlabelgen
@@ -2355,6 +2353,7 @@ festival
 fetch-crl
 fetchlog
 fetchmail
+fex-emu
 fex
 ffcall
 fflas-ffpack
@@ -2632,6 +2631,7 @@ fwupd-efi
 fwupd
 fxdiv
 fxload
+fyi
 fzf
 f2c
 f2fs-tools
@@ -3048,7 +3048,6 @@ ghc-crypton-x509-store
 ghc-crypton-x509-system
 ghc-crypton-x509-validation
 ghc-crypto-pubkey-types
-ghc-crypto-random
 ghc-css-text
 ghc-csv
 ghc-curl
@@ -3271,7 +3270,6 @@ ghc-mmorph
 ghc-mockery
 ghc-modern-uri
 ghc-monad-control
-ghc-monad-journal
 ghc-monad-logger
 ghc-monad-loops
 ghc-monad-par-extras
@@ -3351,7 +3349,6 @@ ghc-regex-base
 ghc-regex-compat
 ghc-regex-pcre
 ghc-regex-posix
-ghc-regexpr
 ghc-regex-tdfa
 ghc-relude
 ghc-repline
@@ -3570,11 +3567,9 @@ gimp-luminosity-masks
 gimp-paint-studio
 gimp-resynthesizer
 gimp-save-for-web
-gimp-separate+
 gimp
 gimp-wavelet-decompose
 gimp-wavelet-denoise-plugin
-gimp3
 ginac
 ginga
 gio-qt
@@ -4020,6 +4015,7 @@ golang-github-aliyun-cli
 golang-github-aliyun-credentials
 golang-github-aliyun-oss-sdk
 golang-github-aliyun-ossutil
+golang-github-allan-simon-singleinstance
 golang-github-altree-bigfloat
 golang-github-alyu-configparser
 golang-github-anacrolix-dms
@@ -4150,10 +4146,12 @@ golang-github-casbin-2
 golang-github-caspr-io-yamlpath
 golang-github-c-bata-prompt
 golang-github-cenkalti-backoff
+golang-github-cenkalti-backoff4
 golang-github-census-instrumentation-opencensus-proto
 golang-github-census-instrumentation-opencensus-proto-0.2
 golang-github-cention-sany-utf7
 golang-github-cespare-xxhash
+golang-github-cespare-xxhash2
 golang-github-cilium-ebpf
 golang-github-circonus-labs-apiclient
 golang-github-circonus-labs-circonusllhist
@@ -4274,6 +4272,7 @@ golang-github-djherbis-atime
 golang-github-djherbis-buffer
 golang-github-djherbis-nio
 golang-github-djherbis-times
+golang-github-dlasky-gotk3-layershell
 golang-github-dlclark-regexp2
 golang-github-dlintw-goconf
 golang-github-dnaeon-vcr
@@ -4506,6 +4505,7 @@ golang-github-gorilla-websocket
 golang-github-gorp-3
 golang-github-gosexy-gettext
 golang-github-gosuri-uilive
+golang-github-gotk3
 golang-github-graph-gophers-graphql
 golang-github-graylog2-gelf
 golang-github-gregjones-httpcache
@@ -4680,6 +4680,8 @@ golang-github-jose-3
 golang-github-jose4
 golang-github-josharian-intern
 golang-github-josharian-native
+golang-github-joshuarubin-lifecycle
+golang-github-joshuarubin-sway
 golang-github-jouyouyun-hardware
 golang-github-jpillora-ansi
 golang-github-jpillora-backoff
@@ -6293,6 +6295,7 @@ CheMPS2
 chemtool
 chess_db
 chessx
+chewing-editor
 chez-scheme
 chibi-scheme
 chicken
@@ -6573,7 +6576,11 @@ jaero
 jakarta-activation
 jakarta-activation1
 jakarta-annotations
+jakarta-cdi
+jakarta-cdi2.0
 jakarta-el
+jakarta-inject
+jakarta-inject1.0
 jakarta-interceptors
 jakarta-json
 jakarta-mail
@@ -7787,6 +7794,7 @@ libkiwix
 libkkc-data
 libkkc
 libkleo
+libklvanc
 libkmahjongg
 libkml
 libkolabxml
@@ -8811,6 +8819,7 @@ mawk
 maxima
 Mayavi
 mbedtls
+mbedtls3.6
 mbox-importer
 mbpfan
 mbuffer
@@ -9261,6 +9270,7 @@ mir
 mISDN
 mkbootdisk
 mk-configure
+mkdocs-material
 mkdocs
 mk-files
 mkfontscale
@@ -9861,6 +9871,9 @@ nvme-stas
 nvmetcli
 nvml
 nvtop
+nwg-bar
+nwg-dock
+nwg-drawer
 nwg-launchers
 nwg-panel
 nwg-wrapper
@@ -10225,6 +10238,7 @@ openjdk-asmtools7
 openjfx
 openjfx8
 openjpeg
+openjph
 openkim-models
 openldap
 openlibm
@@ -12995,6 +13009,7 @@ perl-Sub-WrapPackages
 perl-SUPER
 perl-SVG-Graph
 perl-SVG-Parser
+perl-SVGPDF
 perl-SVG
 perl-SVG-TT-Graph
 perl-SVK
@@ -15248,7 +15263,6 @@ python-ethtool
 python-et_xmlfile
 python-evdev
 python-events
-python-EvoPreprocess
 python-exabgp
 python-exdir
 python-execnet
@@ -15437,6 +15451,7 @@ python-glad
 python-glad2
 python-glanceclient
 python-glances-api
+python-glfw
 python-glob2
 python-glymur
 python-glyphsLib
@@ -15622,6 +15637,7 @@ python-IPy
 python-ipython_genutils
 python-ipywidgets
 python-irc
+python-irodsclient
 python-ironicclient
 python-isodate
 python-isoduration
@@ -15938,6 +15954,7 @@ python-msrestazure
 python-msrest
 python-mujson
 python-mulpyplexer
+python-multiaddr
 python-multibase
 python-multicodec
 python-multidict
@@ -15983,6 +16000,7 @@ python-nbsphinx
 python-nbxmpp
 python-nb2plots
 python-ncclient
+python-ndeflib
 python-ndg_httpsclient
 python-ndindex
 python-ndjson-testrunner
@@ -16005,6 +16023,7 @@ python-neurom
 python-neurosynth
 python-neurotune
 python-neutronclient
+python-nfcpy
 python-nh3
 python-niaaml
 python-niaarm
@@ -16319,6 +16338,7 @@ python-pyasn
 python-pyasn1
 python-pyasyncore
 python-pyasynchat
+python-PyAVM
 python-pybalboa
 python-pybbi
 python-pybeam
@@ -16354,6 +16374,7 @@ python-pydapsys
 python-pydata-sphinx-theme
 python-pydbus
 python-pydepsdev
+python-pydes
 python-pydicom
 python-pydiffx
 python-pydispatcher
@@ -16424,6 +16445,7 @@ python-pymapvbvd
 python-pymata-express
 python-pymatreader
 python-pymaven-patch
+python-pymdown-extensions
 python-pymediainfo
 python-pymediawiki
 python-pymeeus
@@ -16553,6 +16575,7 @@ python-pytest-console-scripts
 python-pytest-cov
 python-pytest-datadir
 python-pytest-datafiles
+python-pytest-dependency
 python-pytest-django
 python-pytest-doctestplus
 python-pytest-env
@@ -16702,6 +16725,7 @@ python-recordclass
 python-redis
 python-reedsolo
 python-referencing
+python-reflink
 python-regenmaschine
 python-regex
 python-registry
@@ -17138,6 +17162,7 @@ python-tinyrpc
 python-tkrzw
 python-tldextract
 python-tld
+python-tmuxp
 python-token-bucket
 python-tokenize-rt
 python-toml-adapt
@@ -18999,6 +19024,7 @@ rust-asahi-wifisync
 rust-ascii-canvas
 rust-ascii
 rust-ashpd
+rust-ash
 rust-askalono-cli
 rust-askalono
 rust-askama_derive
@@ -19137,6 +19163,7 @@ rust-blake2b_simd
 rust-blake2
 rust-blake3
 rust-blanket
+rust-blazesym-c
 rust-blazesym
 rust-blobby
 rust-blobby0.1
@@ -19146,6 +19173,7 @@ rust-blocking
 rust-block-modes
 rust-block-padding
 rust-block-padding0.2
+rust-blosc2-sys
 rust-blowfish
 rust-blsctl
 rust-bodhi-cli
@@ -19292,6 +19320,7 @@ rust-clearscreen
 rust-clicolors-control
 rust-clippy-sarif
 rust-clircle
+rust-cli-table-derive
 rust-clock-steering
 rust-clru
 rust-cluFlock
@@ -19911,7 +19940,6 @@ rust-glib0.19
 rust-globset
 rust-glob
 rust-globwalk
-rust-globwalk0.8
 rust-glutin_egl_sys
 rust-glutin_glx_sys
 rust-glutin
@@ -20211,6 +20239,7 @@ rust-i18n-embed-fl
 rust-i18n-embed-impl
 rust-i18n-embed
 rust-i3ipc
+rust-jiff
 rust-jiter
 rust-jobserver
 rust-jod-thread
@@ -20314,6 +20343,7 @@ rust-libmount
 rust-libm
 rust-liboci-cli
 rust-liboverdrop
+rust-libpanel
 rust-libpanel-sys
 rust-libpulse-binding
 rust-libpulse-sys
@@ -20619,6 +20649,7 @@ rust-option-ext
 rust-option-operations
 rust-ordered-float
 rust-ordered-float2
+rust-ordered-float3
 rust-ordered-multimap
 rust-ordered-multimap0.3
 rust-ordered-stream
@@ -20998,6 +21029,7 @@ rust-read-process-memory
 rust-readwrite
 rust-redfa
 rust-redis
+rust-redlib
 rust-reedline
 rust-ref-cast-impl
 rust-ref-cast
@@ -21091,7 +21123,6 @@ rust-rust_decimal
 rust-rust-embed-impl
 rust-rust-embed
 rust-rust-embed-utils
-rust-rust-embed-utils7
 rust-rustfft
 rust-rustfix
 rust-rust-ini
@@ -21744,6 +21775,7 @@ rust-uu_fold
 rust-uu_hashsum
 rust-uu_head
 rust-uuhelp_parser
+rust-uu_id
 rust-uuid
 rust-uuid0.7
 rust-uuid0.8
@@ -21768,6 +21800,7 @@ rust-uu_readlink
 rust-uu_realpath
 rust-uu_rmdir
 rust-uu_rm
+rust-uu_runcon
 rust-uu_seq
 rust-uu_shred
 rust-uu_shuf
@@ -22831,6 +22864,7 @@ taskopen
 tasksh
 task
 task-spooler
+task2
 taxipilot
 tayga
 tbb

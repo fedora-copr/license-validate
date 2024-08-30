@@ -57,7 +57,6 @@ asciidoc
 assertj-core
 at
 at-spi2-core
-atinject
 atkmm
 attr
 audit
@@ -642,6 +641,7 @@ jackson-jaxrs-providers
 jackson-modules-base
 jakarta-activation
 jakarta-annotations
+jakarta-inject1.0
 jakarta-mail
 jakarta-oro
 jansi
@@ -883,7 +883,6 @@ librabbitmq
 librdkafka
 librelp
 librepo
-libreport
 libreswan
 librhsm
 librsvg2
@@ -1048,7 +1047,7 @@ mod_proxy_cluster
 mod_wsgi
 mokutil
 mozilla-filesystem
-mozjs115
+mozjs128
 mpdecimal
 mpfr
 mpg123
@@ -1680,7 +1679,6 @@ sane-airscan
 sane-backends
 sanlock
 sap-cluster-connector
-satyr
 sbc
 sbd
 sblim-cmpi-base
@@ -1925,7 +1923,6 @@ xkbcomp
 xkeyboard-config
 xml-commons-apis
 xml-commons-resolver
-xmlrpc-c
 xmlsec1
 xmltoman
 xmodmap
