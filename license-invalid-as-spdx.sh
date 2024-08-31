@@ -19,6 +19,7 @@ while read -r LICENSE; do
                                 true
                         else
                                 echo "$SPEC warning: valid as old and new and no changelong entry, please check"
+                                echo "${SPEC}" >> $FILENAME_ALL_PACKAGES
                         fi
                 fi
         else
@@ -29,8 +30,8 @@ while read -r LICENSE; do
                         SPDXLICENSE=$(license-fedora2spdx "$LICENSE")
                         echo "$SPEC - can be trivially converted to $SPDXLICENSE"
                 fi
+                echo "${SPEC}" >> $FILENAME_ALL_PACKAGES
         fi
-        echo "${SPEC}" >> $FILENAME_ALL_PACKAGES
   else
         if license-validate --package "${SPEC}" "$LICENSE" >/dev/null; then
                 # not valid as old, but valid as new
@@ -42,6 +43,7 @@ while read -r LICENSE; do
                         echo "$1 warning: not valid neither as Callaway nor as SPDX, please check"
                         echo "${SPEC}" >> $FILENAME_ALL_PACKAGES
                 fi
+                echo "${SPEC}" >> $FILENAME_ALL_PACKAGES
         fi
   fi
 done
