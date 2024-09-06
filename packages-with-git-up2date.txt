@@ -780,6 +780,7 @@ btop
 btrbk
 btrfs-assistant
 btrfsd
+btrfs-efi
 btrfs-fuse
 btrfs-heatmap
 btrfsmaintenance
@@ -1335,6 +1336,7 @@ crrcsim
 crudini
 crun
 crun-vm
+crust-firmware
 cryfs
 cryptlib
 cryptobone
@@ -1889,6 +1891,7 @@ eggdrop
 eglexternalplatform
 egl-gbm
 egl-wayland
+egl-x11
 eg
 echo-icon-theme
 echolinux
@@ -3015,6 +3018,12 @@ ghc-constraints
 ghc-contravariant
 ghc-control-monad-free
 ghc-cookie
+ghc-copilot-core
+ghc-copilot-c99
+ghc-copilot-interpreter
+ghc-copilot-language
+ghc-copilot-prettyprinter
+ghc-copilot-theorem
 ghc-criterion
 ghc-crypto-api
 ghc-crypto-cipher-types
@@ -3548,7 +3557,6 @@ gimp-lqr-plugin
 gimp-luminosity-masks
 gimp-paint-studio
 gimp-resynthesizer
-gimp-save-for-web
 gimp
 gimp-wavelet-decompose
 gimp-wavelet-denoise-plugin
@@ -5658,6 +5666,7 @@ gource
 go-vendor-tools
 goverlay
 go2rpm
+gpac
 gparted
 gpart
 gpaste
@@ -6282,6 +6291,7 @@ chordii
 chordpro
 chromaprint
 chromium-bsu
+chromiumos-platform
 chromium
 chrony
 chrpath
@@ -6398,6 +6408,7 @@ indi-3rdparty-drivers
 indi-3rdparty-libraries
 inertiablast
 infinipath-psm
+infoblox-client
 inchi
 inih
 iniparser
@@ -7644,6 +7655,7 @@ libgit2-glib
 libgit2
 libgit2_1.5
 libgit2_1.6
+libgit2_1.7
 libglademm24
 libglade2
 libgle
@@ -8102,6 +8114,7 @@ libs3
 libtalloc
 libtar
 libtasn1
+libtatsu
 libtbox
 libtcd
 libtdb
@@ -8301,7 +8314,6 @@ lib3mf
 lib3270
 lib765
 licensecheck
-license-validate
 lifeograph
 liferea
 lightdm-autologin-greeter
@@ -9401,6 +9413,7 @@ mp
 mpssh
 mptcpd
 mpv_inhibit_gnome
+mpv-mpris
 mpvqt
 mpv
 mp3fs
@@ -11562,6 +11575,7 @@ perl-File-Type
 perl-File-Type-WebImages
 perl-File-Unpack2
 perl-File-Which
+perl-File-XDG
 perl-File-Zglob
 perl-Filter-Encoding
 perl-Filter-signatures
@@ -13982,6 +13996,7 @@ php-wikimedia-utfnormal
 php-williamdes-mariadb-mysql-kbs
 php-xmpphp
 php-yoast-phpunit-polyfills
+php-yoast-phpunit-polyfills1
 php-zetacomponents-base
 php-zetacomponents-console-tools
 php-zetacomponents-unit-test
@@ -15239,7 +15254,6 @@ python-fastjsonschema
 python-fastprogress
 python-fastpurge
 python-fauxquests
-python-fb-re2
 python-fedmsg-meta-fedora-infrastructure
 python-fedora-sig-onboard
 python-fedora
@@ -15261,6 +15275,7 @@ python-firehose
 python-firkin
 python-fissix
 python-fisx
+python-fitdecode
 python-fitsio
 python-fixit
 python-fixtures
@@ -15568,7 +15583,7 @@ python-intervaltree
 python-into-dbus-python
 python-invoke
 python-iowait
-python-ipdb
+python-ipfshttpclient
 python-ipgetter2
 python-ipmi
 python-iptools
@@ -15751,6 +15766,7 @@ python-lockfile
 python-logbook
 python-logdetective
 python-logfury
+python-loguru
 python-logutils
 python-logzero
 python-looseversion
@@ -15847,6 +15863,7 @@ python-mistune08
 python-mitogen
 python-mizani
 python-mkdocs-get-deps
+python-mkdocs-material-extensions
 python-mkdocs-monorepo-plugin
 python-mkdocs-redirects
 python-mmtf
@@ -16056,6 +16073,7 @@ python-opentracing
 python-opentype-sanitizer
 python-opfunu
 python-opnsense
+python-optking
 python-optuna
 python-opytimark
 python-opytimizer
@@ -16499,6 +16517,7 @@ python-pytest-bdd
 python-pytest-benchmark
 python-pytest-cache
 python-pytest-cases
+python-pytest-cid
 python-pytest-click
 python-pytest-console-scripts
 python-pytest-cov
@@ -16987,6 +17006,7 @@ python-stomper
 python-stone
 python-stopit
 python-straight-plugin
+python-stravalib
 python-streamlink
 python-strict-rfc3339
 python-strictyaml
@@ -18188,7 +18208,6 @@ rpminspect-data-centos
 rpminspect-data-fedora
 rpminspect
 rpmlint
-rpm-local-generator-support
 rpmorphan
 rpm-ostree
 rpmreaper
@@ -18979,6 +18998,7 @@ rust-crossfont
 rust-crossterm0.22
 rust-crossterm0.25
 rust-crossterm0.26
+rust-crossterm0.27
 rust-crypto-auditing-agent
 rust-crypto-auditing-client
 rust-crypto-auditing-event-broker
@@ -19230,7 +19250,6 @@ rust-fd-lock
 rust-fd-lock3
 rust-fedora
 rust-fedora-update-feedback
-rust-femme
 rust-fend-core
 rust-ff
 rust-fiat-crypto
@@ -19625,6 +19644,7 @@ rust-input-linux
 rust-input-linux-sys
 rust-input
 rust-input-sys
+rust-instability
 rust-insta-cmd
 rust-instant
 rust-insta
@@ -19697,7 +19717,6 @@ rust-khronos_api
 rust-krates
 rust-krunvm
 rust-kstring
-rust-kv-log-macro
 rust-kvm-bindings
 rust-kvm-ioctls
 rust-lalrpop
@@ -19973,6 +19992,7 @@ rust-once_cell
 rust-onefetch-ascii
 rust-onefetch-image
 rust-onefetch-manifest
+rust-onefetch
 rust-oo7-cli
 rust-oo7
 rust-opaque-debug
@@ -20271,6 +20291,7 @@ rust-rand0.7
 rust-range_map_vec
 rust-ratatui
 rust-ratatui0.25
+rust-ratatui0.26
 rust-ravif
 rust-rav1e
 rust-raw-cpuid
@@ -20490,7 +20511,6 @@ rust-serde_yaml0.8
 rust-serial_test_derive0.6
 rust-serial_test_derive1
 rust-serial_test_derive2
-rust-serial_test0.6
 rust-serial_test1
 rust-serial_test2
 rust-servo_arc
@@ -21833,6 +21853,7 @@ swatch
 sway-config-fedora
 sway-contrib
 swayidle
+SwayNotificationCenter
 sway
 sweeper
 sweet-gtk-theme

@@ -622,6 +622,7 @@ btbuilder
 btrbk
 btrfs-assistant
 btrfsd
+btrfs-efi
 btrfsmaintenance
 btrfs-progs
 btrfs-sxbackup
@@ -694,6 +695,7 @@ calibre
 calindori
 callaudiod
 callgit
+calligra
 calls
 calypso
 cambozola
@@ -1034,6 +1036,7 @@ crrcsim
 crudini
 crun
 crun-vm
+crust-firmware
 cryfs
 cryptobone
 crypto-policies
@@ -1436,6 +1439,7 @@ efs-utils
 eggdrop
 eglexternalplatform
 egl-wayland
+egl-x11
 eg
 echolinux
 eiciel
@@ -1998,6 +2002,7 @@ galculator
 galera
 gambas3
 gamehub
+gamemode
 gamerzillagobj
 games-menus
 gammaray
@@ -2308,6 +2313,12 @@ ghc-config-value
 ghc-connection
 ghc-constraints
 ghc-contravariant
+ghc-copilot-core
+ghc-copilot-c99
+ghc-copilot-interpreter
+ghc-copilot-language
+ghc-copilot-prettyprinter
+ghc-copilot-theorem
 ghc-criterion
 ghc-crypto-api
 ghc-crypto-cipher-types
@@ -3946,6 +3957,7 @@ gotun
 gource
 go-vendor-tools
 goverlay
+gpac
 gparted
 gpart
 gpaste
@@ -4461,6 +4473,7 @@ chordii
 chordpro
 chromaprint
 chromium-bsu
+chromiumos-platform
 chromium
 chrony
 chrpath
@@ -4556,6 +4569,7 @@ indent
 indistarter
 indi-3rdparty-drivers
 indi-3rdparty-libraries
+infoblox-client
 inih
 iniparser
 initial-setup
@@ -5262,6 +5276,7 @@ lammps
 langpacks
 langtable
 lapack
+lasem
 lash
 lasso
 lastpass-cli
@@ -5469,6 +5484,7 @@ libgexiv2
 libghemical
 libgit2_1.5
 libgit2_1.6
+libgit2_1.7
 libglademm24
 libglibutil
 libglvnd
@@ -5812,6 +5828,7 @@ libsysstat
 libs3
 libtalloc
 libtasn1
+libtatsu
 libtbox
 libtcd
 libtdb
@@ -6683,6 +6700,7 @@ mpsolve
 mp
 mptcpd
 mpv_inhibit_gnome
+mpv-mpris
 mpvqt
 mpv
 mqttcli
@@ -7376,6 +7394,7 @@ pam-cryptsetup
 pamixer
 pamix
 pam-kwallet
+pam_mount
 pam_mysql
 pam_radius
 pam_script
@@ -8503,6 +8522,7 @@ perl-File-Type
 perl-File-Type-WebImages
 perl-File-Unpack2
 perl-File-Which
+perl-File-XDG
 perl-File-Zglob
 perl-Filter-Encoding
 perl-Filter-signatures
@@ -8540,6 +8560,7 @@ perl-Geo-Distance
 perl-Geo-Ellipsoids
 perl-Geo-IPfree
 perl-Geo-IP
+perl-GeoIP2
 perl-Geo-METAR
 perl-Geo-ShapeFile
 perl-Getopt-ArgvFile
@@ -8993,6 +9014,7 @@ perl-Math-Derivative
 perl-Math-Factor-XS
 perl-Math-Geometry-Voronoi
 perl-Math-GMP
+perl-Math-Int128
 perl-Math-Int64
 perl-Math-Libm
 perl-Math-MatrixReal
@@ -9624,6 +9646,7 @@ perl-RDF-NS
 perl-RDF-Query
 perl-RDF-RDFa-Generator
 perl-RDF-Trine-Node-Literal-XML
+perl-RDF-Trine
 perl-Readonly
 perl-ReadonlyX
 perl-Readonly-XS
@@ -10237,6 +10260,7 @@ perl-true
 perl-TryCatch
 perl-Types-Path-Tiny
 perl-Types-Serialiser
+perl-Types-URI
 perl-Type-Tiny
 perl-Type-Tiny-XS
 perl-UDDI-Lite
@@ -10452,6 +10476,7 @@ php-manual-en
 php-marcusschwarz-lesserphp
 php-markdown
 php-maxminddb
+php-mikey179-vfsstream
 php-mockery
 php-mongodb
 php-netresearch-jsonmapper
@@ -10623,6 +10648,7 @@ php-wikimedia-utfnormal
 php-williamdes-mariadb-mysql-kbs
 php-xmpphp
 php-yoast-phpunit-polyfills
+php-yoast-phpunit-polyfills1
 php-zetacomponents-base
 php-zetacomponents-console-tools
 php-zetacomponents-unit-test
@@ -11352,6 +11378,7 @@ python-extension-helpers
 python-extractcode-libarchive
 python-extractcode
 python-extractcode-7z
+python-extras
 python-eyed3
 python-ezdxf
 python-fabric
@@ -11372,6 +11399,7 @@ python-filecheck
 python-fingerprints
 python-fiona
 python-firkin
+python-fitdecode
 python-fitsio
 python-fixtures
 python-flake8-blind-except
@@ -11549,7 +11577,7 @@ python-intervaltree
 python-into-dbus-python
 python-invoke
 python-iowait
-python-ipdb
+python-ipfshttpclient
 python-ipgetter2
 python-ipuz
 python-ipykernel
@@ -11660,6 +11688,7 @@ python-llama-cpp-python
 python-localzone
 python-logbook
 python-logdetective
+python-loguru
 python-looseversion
 python-lqrt
 python-lru-dict
@@ -11714,6 +11743,7 @@ python-mistune
 python-mistune08
 python-mizani
 python-mkdocs-get-deps
+python-mkdocs-material-extensions
 python-mkdocs-monorepo-plugin
 python-mmtf
 python-mne-bids
@@ -11837,6 +11867,7 @@ python-opentelemetry
 python-opentype-sanitizer
 python-opfunu
 python-opnsense
+python-optking
 python-optuna
 python-opytimark
 python-opytimizer
@@ -12110,6 +12141,7 @@ python-pytest-arraydiff
 python-pytest-astropy-header
 python-pytest-astropy
 python-pytest-asyncio
+python-pytest-cid
 python-pytest-click
 python-pytest-console-scripts
 python-pytest-dependency
@@ -12379,6 +12411,7 @@ python-steps
 python-stestr
 python-stevedore
 python-stomper
+python-stravalib
 python-streamlink
 python-strict-rfc3339
 python-string_utils
@@ -13180,7 +13213,6 @@ rpm-head-signing
 rpminspect-data-centos
 rpminspect-data-fedora
 rpmlint
-rpm-local-generator-support
 rpm-mpi-hooks
 rpmorphan
 rpm-ostree
@@ -14220,6 +14252,7 @@ rust-crossterm0.19
 rust-crossterm0.22
 rust-crossterm0.25
 rust-crossterm0.26
+rust-crossterm0.27
 rust-crunchy
 rust-crypto-auditing-agent
 rust-crypto-auditing-client
@@ -14513,7 +14546,6 @@ rust-fd-lock
 rust-fd-lock3
 rust-fedora
 rust-fedora-update-feedback
-rust-femme
 rust-fend-core
 rust-fern
 rust-ff
@@ -14982,6 +15014,7 @@ rust-input-linux
 rust-input-linux-sys
 rust-input
 rust-input-sys
+rust-instability
 rust-insta-cmd
 rust-instant
 rust-insta
@@ -15069,7 +15102,6 @@ rust-konst
 rust-krates
 rust-krunvm
 rust-kstring
-rust-kv-log-macro
 rust-kvm-bindings
 rust-kvm-ioctls
 rust-k9
@@ -15414,6 +15446,7 @@ rust-once_cell
 rust-onefetch-ascii
 rust-onefetch-image
 rust-onefetch-manifest
+rust-onefetch
 rust-onig
 rust-onig_sys
 rust-oorandom
@@ -15791,6 +15824,7 @@ rust-rand0.7
 rust-range_map_vec
 rust-ratatui
 rust-ratatui0.25
+rust-ratatui0.26
 rust-ravif
 rust-raw-cpuid
 rust-rawpointer
@@ -16050,7 +16084,6 @@ rust-serial_test_derive1
 rust-serial_test_derive2
 rust-serial_test
 rust-serial_test0.5
-rust-serial_test0.6
 rust-serial_test1
 rust-serial_test2
 rust-servo_arc
@@ -17361,6 +17394,7 @@ swaybg
 sway-config-fedora
 sway-contrib
 swaylock
+SwayNotificationCenter
 sway
 sway-systemd
 sweet-gtk-theme
@@ -17996,6 +18030,7 @@ weiweihuanghuang-work-sans-fonts
 weld-parent
 weldr-client
 wesnoth
+weston
 wev
 We10X-icon-theme
 wf-recorder
@@ -18468,6 +18503,7 @@ zsh
 zssh
 zstd
 zstr
+zulucrypt
 zvbi
 zxcvbn-c
 zxing-cpp

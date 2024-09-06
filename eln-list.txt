@@ -1,7 +1,6 @@
 389-ds-base
 CUnit
 Cython
-GitPython
 HdrHistogram_c
 Judy
 ModemManager
@@ -52,7 +51,6 @@ apache-commons-codec
 apache-commons-collections
 apache-commons-collections4
 apache-commons-compress
-apache-commons-exec
 apache-commons-io
 apache-commons-jxpath
 apache-commons-lang3
@@ -133,7 +131,6 @@ cairomm
 cairomm1.16
 capnproto
 capstone
-cargo2rpm
 catatonit
 catch1
 cepces
@@ -279,7 +276,6 @@ espeak-ng
 ethtool
 evince
 evolution-data-server
-exec-maven-plugin
 execstack
 exempi
 exfatprogs
@@ -1767,7 +1763,6 @@ python-drgn
 python-enchant
 python-flit-core
 python-fs
-python-gitdb
 python-gmpy2
 python-gssapi
 python-hatch-fancy-pypi-readme
@@ -1796,7 +1791,6 @@ python-kmod
 python-lark
 python-ldap
 python-lesscpy
-python-libarchive-c
 python-libevdev
 python-linux-procfs
 python-lit
@@ -1867,7 +1861,6 @@ python-simpleaudio
 python-simpleline
 python-six
 python-smartypants
-python-smmap
 python-sphinx
 python-sphinx-theme-alabaster
 python-sphinx_rtd_theme
@@ -1974,7 +1967,6 @@ rootfiles
 rpcbind
 rpcsvc-proto
 rpm
-rpm-local-generator-support
 rpm-mpi-hooks
 rpm-ostree
 rpmdevtools
@@ -2035,6 +2027,7 @@ sblim-sfcc
 sblim-wbemcli
 scap-security-guide
 scapy
+scdoc
 scipy
 scl-utils
 scons

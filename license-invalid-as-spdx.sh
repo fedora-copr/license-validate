@@ -13,7 +13,7 @@ while read -r LICENSE; do
                         # valid as old and new but has changelog entry
                         true
                 else
-                        print-distgit-log.sh "$package" > /tmp/distgit-changelog.txt
+                        print-distgit-log.sh "${SPEC}" > /tmp/distgit-changelog.txt
                         if grep -i spdx </tmp/distgit-changelog.txt  >/dev/null && grep  'msuchy@redhat.com' >/dev/null  </tmp/distgit-changelog.txt; then
                                 # valid as old and new but has dist-git changelog entry
                                 true
