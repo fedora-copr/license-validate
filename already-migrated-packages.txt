@@ -97,6 +97,7 @@ akonadi-server
 akonadi
 akregator
 alacarte
+aldo
 alembic
 alerque-libertinus-fonts
 alevt
@@ -242,12 +243,14 @@ appx-util
 apr-api-docs
 apricots
 apron
+aprsdigi
 aprsd
 apr
 apr-util
 apt-cacher-ng
 apt
 apvlv
+aqbanking
 aqualung
 aquamarine
 aqute-bnd
@@ -278,6 +281,7 @@ armadillo
 arm-image-installer
 arm-none-eabi-gcc-cs
 arm-none-eabi-newlib
+arm-trusted-firmware
 aron
 arpage
 arp-scan
@@ -362,6 +366,7 @@ atlantik
 atlas
 atomes
 AtomicParsley
+atomic-reactor
 atomix
 atomorun
 atool
@@ -509,6 +514,7 @@ bibutils
 bib2html
 bicon
 bigloo
+bijiben
 biloba
 binaryen
 binclock
@@ -877,6 +883,7 @@ coin-or-Osi
 coin-or-OS
 coin-or-SYMPHONY
 Coin2
+Coin4
 colin
 collectd
 colobot
@@ -1301,6 +1308,7 @@ dnsmap
 dnsmasq
 dnsperf
 dnssec-trigger
+dnstop
 dnstwist
 dnsviz
 docbook-dtds
@@ -1371,6 +1379,7 @@ duf
 dummy-package-canary
 dummy-test-package-crested
 dummy-test-package-gloster
+dumpasn1
 dumpet
 dump
 dunst
@@ -1760,6 +1769,7 @@ fedora-review
 fedora-rpm-macros
 fedora-upgrade
 fedorawaves-kdm-theme
+fedora-workstation-backgrounds
 fedpkg-minimal
 fedpkg
 fedrq
@@ -1850,7 +1860,6 @@ florist
 flowblade
 flowcanvas
 flpsed
-flrig
 flterm
 fluent-bit
 fluid-soundfont
@@ -2142,6 +2151,7 @@ gdalcpp
 gdal
 gdb-gef
 gdbm
+gdb
 gdcalc
 gdcm
 gdigi
@@ -2313,10 +2323,12 @@ ghc-config-value
 ghc-connection
 ghc-constraints
 ghc-contravariant
+ghc-control-monad-free
 ghc-copilot-core
 ghc-copilot-c99
 ghc-copilot-interpreter
 ghc-copilot-language
+ghc-copilot-libraries
 ghc-copilot-prettyprinter
 ghc-copilot-theorem
 ghc-criterion
@@ -4250,6 +4262,7 @@ httptunnel
 httrack
 hugin
 hulk
+human-theme-gtk
 hunspell-af
 hunspell-ak
 hunspell-am
@@ -4569,7 +4582,6 @@ indent
 indistarter
 indi-3rdparty-drivers
 indi-3rdparty-libraries
-infoblox-client
 inih
 iniparser
 initial-setup
@@ -5990,6 +6002,7 @@ linuxdoc-tools
 linux-libertine-fonts
 linuxptp
 linux-sysinfo-snapshot
+linux-system-roles
 linux-thermaltake-rgb
 linux-user-chroot
 liquidctl
@@ -8878,6 +8891,7 @@ perl-libnet
 perl-lib-relative
 perl-libwww-perl
 perl-libxml-perl
+perl-License-Syntax
 perl-Lingua-EN-Alphabet-Shaw
 perl-Lingua-EN-Fathom
 perl-Lingua-EN-FindNumber
@@ -10261,6 +10275,7 @@ perl-TryCatch
 perl-Types-Path-Tiny
 perl-Types-Serialiser
 perl-Types-URI
+perl-Types-UUID
 perl-Type-Tiny
 perl-Type-Tiny-XS
 perl-UDDI-Lite
@@ -10435,6 +10450,7 @@ petpvc
 petsc
 pf-bb-config
 pgadmin4
+pg_auto_failover
 pgcli
 pgmodeler
 pgrouting
@@ -10878,6 +10894,7 @@ proftpd
 progress
 proguard
 projecteur
+proj
 prometheus-podman-exporter
 prooftree
 proselint
@@ -11170,6 +11187,7 @@ python-cmap
 python-codecov
 python-cogapp
 python-coincidence
+python-coincurve
 python-colcon-alias
 python-colcon-argcomplete
 python-colcon-bash
@@ -11233,7 +11251,6 @@ python-copr
 python-cornice
 python-cotyledon
 python-coverage
-python-coveralls
 python-cppheaderparser
 python-cppy
 python-cpuinfo
@@ -12655,6 +12672,7 @@ python3-cangjie
 python3-discid
 python3-docs
 python3-exiv2
+python3-gssapi
 python3-mypy
 python3-openid
 python3-poppler-qt5
@@ -12662,6 +12680,7 @@ python3.10
 python3.11
 python3.11-testpath-epel
 python3.12
+python3.13
 python38-hvac
 python38-ntlm-auth-epel
 python38-pynetbox
@@ -17028,6 +17047,7 @@ ShellCheck
 shellinabox
 shellz
 sherlock-project
+shigofumi
 shim
 shim-unsigned-aarch64
 shim-unsigned-x64
@@ -17064,6 +17084,7 @@ sil-apparatus-fonts
 sil-awami-nastaliq-fonts
 sil-dai-banna-fonts
 sil-doulos-fonts
+sile
 sil-ezra-fonts
 sil-gentium-basic-fonts
 sil-gentium-fonts
@@ -17318,6 +17339,7 @@ stomppy
 stormbaancoureur
 stow
 stp
+strace
 stratagus
 stratis-cli
 stratisd
@@ -17334,6 +17356,8 @@ stubby
 s-tui
 stunnel
 subnetcalc
+subscription-manager-rhsm-certificates
+subscription-manager
 subtitleeditor
 subunit
 subversion
@@ -17437,6 +17461,7 @@ system-config-printer
 system-config-rootpassword
 systemd-boot
 systemd-coredump-python
+systemd
 systemd-swap
 system-rules
 system-storage-manager
@@ -17536,6 +17561,7 @@ thinkfan
 thonny
 thrift
 thunar-media-tags-plugin
+thunar-sendto-clamtk
 Thunar
 thunar-vcs-plugin
 thunar-volman
@@ -17577,6 +17603,7 @@ tlf
 tllist
 tlmi-auth
 tlock
+tlog
 tlpi
 tlp
 tlsh
@@ -17836,6 +17863,7 @@ vacuum-im
 vagrant-adbinfo
 vagrant-hostmanager
 vagrant-registration
+vagrant
 vagrant-sshfs
 vala-language-server
 vala
@@ -18330,6 +18358,7 @@ xorg-x11-server-Xwayland
 xorg-x11-util-macros
 xorg-x11-xauth
 xorg-x11-xbitmaps
+xorg-x11-xdm
 xorg-x11-xinit
 xorg-x11-xtrans-devel
 xosd
@@ -18404,6 +18433,7 @@ x509viewer
 x509watch
 x86-simd-sort
 yacreader
+yadifa
 yad
 yagf
 yajl

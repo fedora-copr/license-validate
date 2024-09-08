@@ -939,7 +939,6 @@ libnftnl
 libnl3
 libnma
 libnotify
-libnsl2
 libnvme
 libnxz
 libocxl
@@ -1032,6 +1031,7 @@ libwebp
 libwnck3
 libxcb
 libxcrypt
+libxcrypt-epel
 libxcvt
 libxkbcommon
 libxkbfile
@@ -2000,7 +2000,6 @@ rust-afterburn
 rust-bootupd
 rust-cbindgen
 rust-coreos-installer
-rust-packaging
 rust-prefixdevname
 rust-rpm-sequoia
 rust-sequoia-sq
@@ -2155,7 +2154,6 @@ tomcat-jakartaee-migration
 toml11
 toolbox
 torque
-totem-pl-parser
 tpm2-abrmd
 tpm2-abrmd-selinux
 tpm2-openssl

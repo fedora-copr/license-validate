@@ -4,7 +4,7 @@ SPEC="$1"
 FILENAME_ALL_PACKAGES="final_just_packages.txt"
 POSITIVE=""
 
-grep '^License:' "rpm-specs/${SPEC}.spec" | cut '-d:' -f2- | \
+./print-spec-license.py "rpm-specs/${SPEC}.spec" 2>/dev/null | \
 while read -r LICENSE; do 
   if license-validate --old "$LICENSE" >/dev/null;  then
         if license-validate --package "${SPEC}" "$LICENSE" >/dev/null; then
