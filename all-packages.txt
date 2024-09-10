@@ -3041,6 +3041,7 @@ ghc-copilot-interpreter
 ghc-copilot-language
 ghc-copilot-libraries
 ghc-copilot-prettyprinter
+ghc-copilot
 ghc-copilot-theorem
 ghc-criterion
 ghc-crypto-api
@@ -4611,6 +4612,7 @@ golang-github-christrenkamp-goxpath
 golang-github-chromedp-cdproto
 golang-github-chromedp
 golang-github-chromedp-sysutil
+golang-github-chzyer-readline
 golang-github-chzyer-test
 golang-github-ianbruene-difflib
 golang-github-iancoleman-strcase
@@ -7470,6 +7472,7 @@ libappstream-glib
 libapreq2
 libarcus
 libarchive
+libaribcaption
 libarrow
 libart_lgpl
 libart
@@ -9487,6 +9490,7 @@ msolve
 msort
 msr-tools
 mstflint
+mstore
 msv
 mtdev
 mtd-utils
@@ -19342,6 +19346,7 @@ rust-clicolors-control
 rust-clippy-sarif
 rust-clircle
 rust-cli-table-derive
+rust-cli-table
 rust-clock-steering
 rust-clru
 rust-cluFlock
@@ -19551,7 +19556,9 @@ rust-derive_builder_macro0.12
 rust-derive_builder
 rust-derive_builder0.12
 rust-derive_builder0.9
+rust-derive_more-impl
 rust-derive_more
+rust-derive_more0.99
 rust-derive-new
 rust-der
 rust-der0.4
@@ -19800,6 +19807,7 @@ rust-fslock
 rust-fs-set-times
 rust-fs2
 rust-fs4
+rust-fts-sys
 rust-fundu-core
 rust-fundu
 rust-funty
@@ -20304,6 +20312,7 @@ rust-krunvm
 rust-kstring
 rust-kvm-bindings
 rust-kvm-ioctls
+rust-k8s-openapi
 rust-k9
 rust-lab
 rust-lalrpop
@@ -20667,6 +20676,8 @@ rust-openssl-macros
 rust-openssl-probe
 rust-openssl
 rust-openssl-sys
+rust-openxr
+rust-openxr-sys
 rust-option-ext
 rust-option-operations
 rust-ordered-float
@@ -21068,6 +21079,7 @@ rust-regex-syntax0.6
 rust-regex-test
 rust-region
 rust-relative-path
+rust-relm4-icons
 rust-relm4-macros
 rust-remain
 rust-remoteprocess
@@ -21631,6 +21643,7 @@ rust-tpm2-policy
 rust-tracing-appender
 rust-tracing-attributes
 rust-tracing-core
+rust-tracing-error
 rust-tracing_facade
 rust-tracing-futures
 rust-tracing-glog
@@ -21764,6 +21777,7 @@ rust-userfaultfd
 rust-userfaultfd-sys
 rust-users
 rust-users0.10
+rust-utf8_iter
 rust-utf8parse
 rust-utf-8
 rust-utf8-width
@@ -21797,6 +21811,7 @@ rust-uu_fold
 rust-uu_hashsum
 rust-uu_head
 rust-uuhelp_parser
+rust-uu_chcon
 rust-uu_id
 rust-uuid
 rust-uuid0.7

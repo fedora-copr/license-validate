@@ -2,7 +2,6 @@ aactivator
 aajohan-comfortaa-fonts
 aalib
 aardvark-dns
-abattis-cantarell-fonts
 abcde
 abcMIDI
 abcm2ps
@@ -38,7 +37,6 @@ addrwatch
 Add64
 adf-accanthis-fonts
 adf-gillius-fonts
-adf-tribun-fonts
 adjtimex
 admesh
 adns
@@ -56,7 +54,6 @@ adobe-source-han-serif-cn-fonts
 adobe-source-han-serif-jp-fonts
 adobe-source-han-serif-kr-fonts
 adobe-source-han-serif-tw-fonts
-adobe-source-sans-pro-fonts
 advancecomp
 adwaita-icon-theme-legacy
 adwaita-icon-theme
@@ -119,6 +116,7 @@ alsa-firmware
 alsa-lib
 alsamixergui
 alsa-plugins
+alsa-sof-firmware
 alsa-tools
 alsa-ucm-asahi
 alsa-utils
@@ -348,7 +346,6 @@ aspell-ta
 aspell-te
 assertj-core
 asterisk
-astigmatic-grand-hotel-fonts
 astral
 astromenace
 astrometry
@@ -504,6 +501,7 @@ berusky2-data
 berusky2
 beteckna-fonts
 beust-jcommander
+bfast
 bfs
 bgpq4
 bchunk
@@ -623,6 +621,7 @@ brotli
 brutalchess
 bsfilter
 bsf
+bsh
 bsp
 btbuilder
 btrbk
@@ -648,6 +647,7 @@ buildbox
 build-helper-maven-plugin
 buildstream-plugins
 buildstream
+build2
 buku
 bustle
 busybox
@@ -706,7 +706,6 @@ calls
 calypso
 cambozola
 camorama
-campivisivi-titillium-fonts
 candy-icon-theme
 canl-c
 canl-java
@@ -723,7 +722,6 @@ castxml
 catatonit
 catdoc
 catfish
-catharsis-cormorant-fonts
 catch
 catch1
 catch2
@@ -839,6 +837,7 @@ clover2
 clustal-omega
 clusterssh
 cmake-fedora
+cmake
 cmark
 cmatrix
 cmconvert
@@ -886,6 +885,7 @@ Coin2
 Coin4
 colin
 collectd
+collectl
 colobot
 colord-gtk
 colordiff
@@ -1101,6 +1101,7 @@ Cython
 czmq
 c2esp
 c2hs
+c4core
 c4project
 daa2iso
 daniel-wikholm-segment16-fonts
@@ -1421,7 +1422,6 @@ ebumeter
 ebview
 eccodes
 ecdsautils
-ecolier-court-fonts
 ecryptfs-utils
 ec2-hibinit-agent
 ec2-instance-connect
@@ -2151,7 +2151,6 @@ gdalcpp
 gdal
 gdb-gef
 gdbm
-gdb
 gdcalc
 gdcm
 gdigi
@@ -2212,36 +2211,6 @@ gfal2
 gfal2-util
 gfan
 gforth
-gfs-ambrosia-fonts
-gfs-artemisia-fonts
-gfs-baskerville-fonts
-gfs-bodoni-classic-fonts
-gfs-bodoni-fonts
-gfs-complutum-fonts
-gfs-decker-fonts
-gfs-didot-classic-fonts
-gfs-didot-display-fonts
-gfs-didot-fonts
-gfs-eustace-fonts
-gfs-fleischman-fonts
-gfs-galatea-fonts
-gfs-garaldus-fonts
-gfs-gazis-fonts
-gfs-goschen-fonts
-gfs-ignacio-fonts
-gfs-jackson-fonts
-gfs-neohellenic-fonts
-gfs-neohellenic-math-fonts
-gfs-nicefore-fonts
-gfs-olga-fonts
-gfs-orpheus-classic-fonts
-gfs-orpheus-fonts
-gfs-orpheus-sans-fonts
-gfs-philostratos-fonts
-gfs-porson-fonts
-gfs-pyrsos-fonts
-gfs-solomos-fonts
-gfs-theokritos-fonts
 gfs2-utils
 gftp
 gfxstream
@@ -2330,6 +2299,7 @@ ghc-copilot-interpreter
 ghc-copilot-language
 ghc-copilot-libraries
 ghc-copilot-prettyprinter
+ghc-copilot
 ghc-copilot-theorem
 ghc-criterion
 ghc-crypto-api
@@ -2758,6 +2728,7 @@ ghemical
 ghex
 ghostscript
 giac
+gi-docgen
 giflib
 gifsicle
 gifticlib
@@ -2909,7 +2880,6 @@ gluster-block
 glusterfs-coreutils
 glusterfs
 glycin-loaders
-glyphography-newscycle-fonts
 gmediarender
 gmic
 gmime30
@@ -3411,6 +3381,7 @@ golang-github-charmbracelet-harmonica
 golang-github-checkpoint-restore-criu
 golang-github-cheggaaa-pb-3
 golang-github-chifflier-nfqueue
+golang-github-chzyer-readline
 golang-github-iglou-eu-wildcard
 golang-github-iij-doapi
 golang-github-imdario-mergo
@@ -3910,7 +3881,6 @@ golang-torproject-pluggable-transports-goptlib
 golang-uber-mock
 golang-x-crypto
 golang-x-exp
-golang-x-image
 golang-x-mod
 golang-x-net
 golang-x-oauth2
@@ -3955,10 +3925,8 @@ google-noto-serif-cjk-fonts
 google-noto-serif-cjk-vf-fonts
 google-osconfig-agent
 google-roboto-fonts
-google-roboto-mono-fonts
 google-roboto-slab-fonts
 googler
-google-rubik-fonts
 gopass-hibp
 gopass-jsonapi
 gopass
@@ -4243,8 +4211,6 @@ hsetroot
 hspell
 hstr
 hstsparser
-ht-alegreya-fonts
-ht-alegreya-sans-fonts
 html-xml-utils
 html2ps
 html401-dtds
@@ -4262,7 +4228,6 @@ httptunnel
 httrack
 hugin
 hulk
-human-theme-gtk
 hunspell-af
 hunspell-ak
 hunspell-am
@@ -4567,8 +4532,6 @@ im-chooser
 imlib2
 iml
 immix
-impallari-dancing-script-fonts
-impallari-raleway-fonts
 impressive
 imsettings
 imvirt
@@ -4596,7 +4559,6 @@ input-leap
 input-pad
 input-remapper
 InsightToolkit
-intel-clear-sans-fonts
 intel-cmt-cat
 intel-ipp-crypto-mb
 intel-ipsec-mb
@@ -4620,11 +4582,7 @@ iotop-c
 IPAddress
 ipa-exgothic-fonts
 ipa-exmincho-fonts
-ipa-gothic-fonts
 ipa-hcc
-ipa-mincho-fonts
-ipa-pgothic-fonts
-ipa-pmincho-fonts
 ipcalc
 ipcgull
 iperf3
@@ -4900,7 +4858,6 @@ kealib
 kea
 keepalived
 keepass
-kemie-bellota-fonts
 kernel-headers
 kernelshark
 kexec-tools
@@ -5351,6 +5308,7 @@ libao
 libappstream-glib
 libapreq2
 libarchive
+libaribcaption
 libarrow
 libason
 libassuan
@@ -5725,6 +5683,7 @@ libplist
 libpoly
 libportal
 libppd
+libpri
 libprometheus-cpp
 libproxy
 libpst
@@ -6002,7 +5961,6 @@ linuxdoc-tools
 linux-libertine-fonts
 linuxptp
 linux-sysinfo-snapshot
-linux-system-roles
 linux-thermaltake-rgb
 linux-user-chroot
 liquidctl
@@ -6114,6 +6072,7 @@ luckybackup
 lujavrite
 luksmeta
 lumail
+luminance-hdr
 lunasvg
 lunchbox
 lusol
@@ -6735,6 +6694,7 @@ msolve
 msort
 msr-tools
 mstflint
+mstore
 msv
 mtdev
 mtd-utils
@@ -6853,7 +6813,6 @@ nco
 ncurses
 ncview
 ndctl
-ndiscover-exo-2-fonts
 ndisc6
 ndppd
 neard
@@ -7232,6 +7191,7 @@ opal-prd
 opam
 opari2
 openal-soft
+openambit
 openarena
 openbabel
 openbgpd
@@ -7362,7 +7322,6 @@ osmpbf
 osm2pgsql
 os-prober
 osslsigncode
-ossobuffo-jura-fonts
 ostree-pin
 ostree
 ostrichriders
@@ -7435,7 +7394,6 @@ pappl-retrofit
 pappl
 paprefs
 paps
-paratype-pt-mono-fonts
 paraview
 parcellite
 pari-elldata
@@ -7480,7 +7438,6 @@ pbuilder
 pbzip2
 pcapdiff
 pcapy
-pcaro-hermit-fonts
 pcaudiolib
 pcb
 pcem
@@ -10238,6 +10195,7 @@ perl-Time-Local
 perl-Time-Mock
 perl-Time-OlsonTZ-Download
 perl-Time-Out
+perl-Time-ParseDate
 perl-Time-Period
 perl-Time-Piece-MySQL
 perl-Time-Progress
@@ -10450,7 +10408,6 @@ petpvc
 petsc
 pf-bb-config
 pgadmin4
-pg_auto_failover
 pgcli
 pgmodeler
 pgrouting
@@ -10829,6 +10786,7 @@ portreserve
 poster
 postfix
 postfwd
+postgis
 postgresql-jdbc
 postgresql-odbc
 postgresqltuner
@@ -10887,7 +10845,6 @@ procmail
 procps-ng
 procServ
 procyon
-production-type-spectral-fonts
 profanity
 professor-is-missing
 proftpd
@@ -11511,6 +11468,7 @@ python-gphoto2
 python-gpiozero
 python-gpxpy
 python-grabserial
+python-graph-tool
 python-greenlet
 python-grip
 python-grokmirror
@@ -11702,6 +11660,7 @@ python-linux-procfs
 python-listparser
 python-lit
 python-llama-cpp-python
+python-llvmlite
 python-localzone
 python-logbook
 python-logdetective
@@ -11995,6 +11954,7 @@ python-prometheus_client
 python-prompt-toolkit
 python-proto-plus
 python-psutil
+python-psycopg2
 python-psycopg3
 python-ptrace
 python-ptyprocess
@@ -12934,7 +12894,6 @@ rawtherapee
 raylib
 raysession
 R-backports
-rbanffy-3270-fonts
 R-base64enc
 rbenv
 R-Bessel
@@ -13119,12 +13078,8 @@ ripmime
 ristretto
 R-iterators
 R-itertools
-rit-ezhuthu-fonts
 rit-meera-new-fonts
-rit-panmana-fonts
 rit-rachana-fonts
-rit-sundar-fonts
-rit-tn-joy-fonts
 river
 rizin
 R-jpeg
@@ -13146,6 +13101,7 @@ R-lobstr
 R-lokern
 rlottie
 R-lpSolve
+R-lubridate
 rlwrap
 R-mapproj
 R-maps
@@ -13295,7 +13251,6 @@ R-showtextdb
 R-showtext
 rsh
 R-simmer
-rsms-inter-fonts
 rsnapshot
 R-snow
 R
@@ -14164,6 +14119,7 @@ rust-clicolors-control
 rust-clippy-sarif
 rust-clircle
 rust-cli-table-derive
+rust-cli-table
 rust-clock-steering
 rust-clru
 rust-cluFlock
@@ -14373,7 +14329,9 @@ rust-derive_builder_macro0.12
 rust-derive_builder
 rust-derive_builder0.12
 rust-derive_builder0.9
+rust-derive_more-impl
 rust-derive_more
+rust-derive_more0.99
 rust-derive-new
 rust-der
 rust-der0.4
@@ -14621,6 +14579,7 @@ rust-fslock
 rust-fs-set-times
 rust-fs2
 rust-fs4
+rust-fts-sys
 rust-fundu-core
 rust-fundu
 rust-funty
@@ -15097,6 +15056,7 @@ rust-jql
 rust-json
 rust-jsonwebtoken
 rust-json5
+rust-just
 rust-jwalk
 rust-jwalk0.6
 rust-jwt
@@ -15123,6 +15083,7 @@ rust-krunvm
 rust-kstring
 rust-kvm-bindings
 rust-kvm-ioctls
+rust-k8s-openapi
 rust-k9
 rust-lab
 rust-lalrpop
@@ -15483,6 +15444,8 @@ rust-openssl-macros
 rust-openssl-probe
 rust-openssl
 rust-openssl-sys
+rust-openxr
+rust-openxr-sys
 rust-option-ext
 rust-option-operations
 rust-ordered-float
@@ -15845,6 +15808,7 @@ rust-ratatui
 rust-ratatui0.25
 rust-ratatui0.26
 rust-ravif
+rust-rav1e
 rust-raw-cpuid
 rust-rawpointer
 rust-raw-window-handle
@@ -15883,6 +15847,7 @@ rust-regex-syntax0.6
 rust-regex-test
 rust-region
 rust-relative-path
+rust-relm4-icons
 rust-relm4-macros
 rust-remain
 rust-remoteprocess
@@ -16445,6 +16410,7 @@ rust-tpm2-policy
 rust-tracing-appender
 rust-tracing-attributes
 rust-tracing-core
+rust-tracing-error
 rust-tracing_facade
 rust-tracing-futures
 rust-tracing-glog
@@ -16578,6 +16544,7 @@ rust-userfaultfd
 rust-userfaultfd-sys
 rust-users
 rust-users0.10
+rust-utf8_iter
 rust-utf8parse
 rust-utf-8
 rust-utf8-width
@@ -16611,6 +16578,7 @@ rust-uu_fold
 rust-uu_hashsum
 rust-uu_head
 rust-uuhelp_parser
+rust-uu_chcon
 rust-uu_id
 rust-uuid
 rust-uuid0.7
@@ -16850,7 +16818,6 @@ rygel
 rzip
 R-zoo
 R2spec
-saab-fonts
 Saaghar
 saclib
 sac
@@ -16995,7 +16962,6 @@ sedutil
 seeker
 selint
 selinux-policy
-senamirmir-washra-fonts
 sendemail
 sendmail
 sendxmpp
@@ -17003,6 +16969,7 @@ sensible-utils
 sentencepiece
 sepolicy_analysis
 seqan3
+sequeler
 sequence-library
 serafettin-cartoon-fonts
 serdisplib
@@ -17075,35 +17042,14 @@ sigrok-firmware-fx2lafw
 sigscheme
 sigul
 sil-abyssinica-fonts
-sil-alkalami-fonts
-sil-andika-compact-fonts
-sil-andika-fonts
-sil-andika-new-basic-fonts
-sil-annapurna-fonts
-sil-apparatus-fonts
-sil-awami-nastaliq-fonts
-sil-dai-banna-fonts
 sil-doulos-fonts
 sile
-sil-ezra-fonts
 sil-gentium-basic-fonts
 sil-gentium-fonts
-sil-gentium-plus-compact-fonts
-sil-gentium-plus-fonts
-sil-harmattan-fonts
-sil-charis-compact-fonts
-sil-charis-fonts
-sil-lateef-fonts
 sil-mingzat-fonts
-sil-mondulkiri-fonts
-sil-namdhinggo-fonts
 sil-nuosu-fonts
 sil-padauk-fonts
-sil-shimenkan-fonts
 sil-scheherazade-fonts
-sil-sophia-nubian-fonts
-sil-tagmukay-fonts
-sil-tai-heritage-pro-fonts
 simarrange
 simcoupe
 simcrs
@@ -17209,8 +17155,6 @@ sooperlooper
 soplex
 sopwith
 SoQt
-sorkintype-merriweather-fonts
-sorkintype-merriweather-sans-fonts
 sos
 soundconverter
 sound-juicer
@@ -17400,6 +17344,7 @@ SuperLUMT
 SuperLU
 supermin
 supernovas
+supertuxkart
 supertux
 surf-geometry
 surgescript
@@ -17432,10 +17377,10 @@ sword
 swtpm
 sxiv
 sylpheed
-symbian-m-yuppy-gb-fonts
 symfpu
 symlinks
 symmetrica
+sympa
 sympol
 sympow
 sympy
@@ -17461,7 +17406,6 @@ system-config-printer
 system-config-rootpassword
 systemd-boot
 systemd-coredump-python
-systemd
 systemd-swap
 system-rules
 system-storage-manager
@@ -17472,6 +17416,7 @@ sysusage
 s2n-tls
 s3cmd
 s3fs-fuse
+s390utils
 tabbed
 tacacs
 tack
@@ -17732,9 +17677,7 @@ txt2rss
 txt2tags
 typelib-srpm-macros
 typescript
-typesetit-great-vibes-fonts
 typespeed
-typetogether-literata-fonts
 tzclock
 tzdata
 t4k_common
@@ -17842,11 +17785,11 @@ usbrelay
 usbsniff
 usbutils
 usbview
+usd
 usermode
 userspace-rcu
 usrsctp
 ustreamer
-uswds-public-sans-fonts
 utf8cpp
 utf8proc
 uthash
@@ -17863,7 +17806,6 @@ vacuum-im
 vagrant-adbinfo
 vagrant-hostmanager
 vagrant-registration
-vagrant
 vagrant-sshfs
 vala-language-server
 vala
@@ -17915,9 +17857,6 @@ velocity
 verbiste
 verilator
 veristat
-vernnobile-muli-fonts
-vernnobile-nunito-fonts
-vernnobile-oswald-fonts
 veusz
 vfrnav
 vgrep
@@ -18014,7 +17953,6 @@ v4l-utils
 v4l2ucp
 v8-314
 wabt
-wagesreiter-patrick-hand-fonts
 wagyu
 WALinuxAgent
 wallpapoz
@@ -18054,7 +17992,6 @@ websec
 websvn
 webtech
 weechat
-weiweihuanghuang-work-sans-fonts
 weld-parent
 weldr-client
 wesnoth
@@ -18152,6 +18089,7 @@ wqy-zenhei-fonts
 writerperfect
 ws-commons-util
 wsdd
+wsdlpull
 wsdl4j
 wshowkeys
 wsjtx
@@ -18358,7 +18296,6 @@ xorg-x11-server-Xwayland
 xorg-x11-util-macros
 xorg-x11-xauth
 xorg-x11-xbitmaps
-xorg-x11-xdm
 xorg-x11-xinit
 xorg-x11-xtrans-devel
 xosd
@@ -18441,7 +18378,6 @@ yaksa
 yambar
 yaml-cpp
 yamllint
-yanone-kaffeesatz-fonts
 yara
 yarnpkg
 yash
@@ -18496,6 +18432,7 @@ zenity
 zenon
 zerofree
 zeromq-ada
+zeromq
 zfs-fuse
 zfstream
 zchunk

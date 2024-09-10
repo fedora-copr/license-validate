@@ -1,13 +1,11 @@
 PEGTL
 PyYAML
 accel-config
-alsa-sof-firmware
 ansible-collection-microsoft-sql
 byteman
 c-ares
 capnproto
 ceph
-cmake
 dbus-python
 delve
 device-mapper-multipath
@@ -23,7 +21,7 @@ filesystem
 fltk
 fmt
 gcab
-gi-docgen
+gdb
 gnome-desktop-testing
 go-rpm-macros
 golang-github-cpuguy83-md2man
@@ -114,7 +112,6 @@ python-iniconfig
 python-pam
 python-pkgconfig
 python-pluggy
-python-psycopg2
 python-pyproject-metadata
 python-pytest-subtests
 python-requests-oauthlib
@@ -130,12 +127,12 @@ radvd
 replacer
 rpcsvc-proto
 ruby
-s390utils
 scons
 sdl12-compat
 shadow-utils
 subscription-manager-cockpit
 sudo
+systemd
 texlive
 toml11
 torque
