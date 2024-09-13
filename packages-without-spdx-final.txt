@@ -2750,7 +2750,6 @@ mingw-python-setuptools warning: valid as old and new and no changelong entry, p
 mingw-python-six warning: valid as old and new and no changelong entry, please check
 mingw-python-tomli warning: valid as old and new and no changelong entry, please check
 mingw-python-urllib3 warning: valid as old and new and no changelong entry, please check
-mingw-p11-kit contains LicenseRef-Callaway, needs to be manually converted
 mingw-qextserialport warning: valid as old and new and no changelong entry, please check
 mingw-qt5-qtactiveqt contains LicenseRef-Callaway, needs to be manually converted
 mingw-qt5-qtgraphicaleffects contains LicenseRef-Callaway, needs to be manually converted
@@ -2772,7 +2771,6 @@ mingw-qt5-qtwinextras contains LicenseRef-Callaway, needs to be manually convert
 mingw-qt5-qtxmlpatterns contains LicenseRef-Callaway, needs to be manually converted
 mingw-qt5-qt3d contains LicenseRef-Callaway, needs to be manually converted
 mingw-rest contains LicenseRef-Callaway, needs to be manually converted
-mingw-sane-backends contains LicenseRef-Callaway, needs to be manually converted
 mingw-SDL_image contains LicenseRef-Callaway, needs to be manually converted
 mingw-SDL_mixer warning: valid as old and new and no changelong entry, please check
 mingw-SDL_ttf warning: valid as old and new and no changelong entry, please check
@@ -3190,7 +3188,6 @@ perl-Crypt-Blowfish warning: not valid neither as Callaway nor as SPDX, please c
 perl-Crypt-Random-Seed - can be trivially converted to GPL-1.0-or-later OR Artistic-1.0-Perl
 perl-Crypt-RandPasswd - can be trivially converted to GPL-1.0-or-later OR Artistic-1.0-Perl
 perl-Data-Random - can be trivially converted to GPL-1.0-or-later OR Artistic-1.0-Perl
-perl-Data-Validate-IP warning: not valid neither as Callaway nor as SPDX, please check
 perl-Date-Holidays-DE warning: valid as old and new and no changelong entry, please check
 perl-DateTime-Precise - can be trivially converted to LicenseRef-Fedora-Public-Domain
 perl-DBIx-Class-Candy - can be trivially converted to GPL-1.0-or-later OR Artistic-1.0-Perl
@@ -4735,7 +4732,6 @@ python-sphinxcontrib-apidoc contains LicenseRef-Callaway, needs to be manually c
 python-sphinxcontrib-autoprogram contains LicenseRef-Callaway, needs to be manually converted
 python-sphinxcontrib-blockdiag contains LicenseRef-Callaway, needs to be manually converted
 python-sphinxcontrib-phpdomain contains LicenseRef-Callaway, needs to be manually converted
-python-sphinxcontrib-programoutput contains LicenseRef-Callaway, needs to be manually converted
 python-sphinxcontrib-seqdiag contains LicenseRef-Callaway, needs to be manually converted
 python-sphinxcontrib-spelling contains LicenseRef-Callaway, needs to be manually converted
 python-sphinxcontrib-svg2pdfconverter contains LicenseRef-Callaway, needs to be manually converted
@@ -4997,7 +4993,6 @@ qimageblitz contains LicenseRef-Callaway, needs to be manually converted
 qmc2
 qmmp warning: not valid neither as Callaway nor as SPDX, please check
 qoauth contains LicenseRef-Callaway, needs to be manually converted
-qownnotes warning: not valid neither as Callaway nor as SPDX, please check
 qperf contains LicenseRef-Callaway, needs to be manually converted
 qr-code-generator warning: valid as old and new and no changelong entry, please check
 qrencode contains LicenseRef-Callaway, needs to be manually converted
@@ -5193,7 +5188,7 @@ rpkg contains LicenseRef-Callaway, needs to be manually converted
 R-plogr warning: valid as old and new and no changelong entry, please check
 R-plyr warning: valid as old and new and no changelong entry, please check
 rply warning: valid as old and new and no changelong entry, please check
-rpminspect warning: not valid neither as Callaway nor as SPDX, please check
+rpminspect-data-fedora
 R-praise warning: valid as old and new and no changelong entry, please check
 R-preprocessCore contains LicenseRef-Callaway, needs to be manually converted
 R-prettycode warning: valid as old and new and no changelong entry, please check
@@ -5310,6 +5305,7 @@ R-unix warning: valid as old and new and no changelong entry, please check
 rusers contains LicenseRef-Callaway, needs to be manually converted
 R-usethis warning: valid as old and new and no changelong entry, please check
 rust-askalono-cli warning: not valid neither as Callaway nor as SPDX, please check
+rust-debug-helper warning: valid as old and new and no changelong entry, please check
 rust-dutree warning: not valid neither as Callaway nor as SPDX, please check
 rust-dutree warning: not valid neither as Callaway nor as SPDX, please check
 rust-gmp-mpfr-sys warning: not valid neither as Callaway nor as SPDX, please check
@@ -5322,7 +5318,6 @@ rust-ybaas warning: not valid neither as Callaway nor as SPDX, please check
 rust-ybaas warning: not valid neither as Callaway nor as SPDX, please check
 rust-yubibomb warning: not valid neither as Callaway nor as SPDX, please check
 rust-yubibomb warning: not valid neither as Callaway nor as SPDX, please check
-rust-zbase32 warning: not valid neither as Callaway nor as SPDX, please check
 R-uuid warning: valid as old and new and no changelong entry, please check
 R-vctrs warning: valid as old and new and no changelong entry, please check
 R-viridisLite warning: valid as old and new and no changelong entry, please check
@@ -5434,7 +5429,6 @@ sil-tagmukay-fonts
 sil-tai-heritage-pro-fonts
 simh contains LicenseRef-Callaway, needs to be manually converted
 Simple-Fuzzer contains LicenseRef-Callaway, needs to be manually converted
-simple-scan warning: not valid neither as Callaway nor as SPDX, please check
 sipp warning: not valid neither as Callaway nor as SPDX, please check
 sip contains LicenseRef-Callaway, needs to be manually converted
 sjasm contains LicenseRef-Callaway, needs to be manually converted
@@ -5472,7 +5466,6 @@ sord warning: valid as old and new and no changelong entry, please check
 sorkintype-merriweather-fonts
 sorkintype-merriweather-sans-fonts
 sourcextractor++ contains LicenseRef-Callaway, needs to be manually converted
-soxr contains LicenseRef-Callaway, needs to be manually converted
 sox contains LicenseRef-Callaway, needs to be manually converted
 sparsehash contains LicenseRef-Callaway, needs to be manually converted
 sparse warning: valid as old and new and no changelong entry, please check
@@ -5579,13 +5572,12 @@ tcltls contains LicenseRef-Callaway, needs to be manually converted
 tcl-togl contains LicenseRef-Callaway, needs to be manually converted
 tclx contains LicenseRef-Callaway, needs to be manually converted
 tcl-zlib warning: valid as old and new and no changelong entry, please check
-tcmu-runner warning: not valid neither as Callaway nor as SPDX, please check
 tcpcrypt contains LicenseRef-Callaway, needs to be manually converted
 tcptrack contains LicenseRef-Callaway, needs to be manually converted
 tcputils - can be trivially converted to LicenseRef-Fedora-Public-Domain
 tcp_wrappers contains LicenseRef-Callaway, needs to be manually converted
 tdom contains LicenseRef-Callaway, needs to be manually converted
-teeworlds warning: not valid neither as Callaway nor as SPDX, please check
+teeworlds contains LicenseRef-Callaway, needs to be manually converted
 teeworlds warning: not valid neither as Callaway nor as SPDX, please check
 tegrarcm contains LicenseRef-Callaway, needs to be manually converted
 telepathy-accounts-signon contains LicenseRef-Callaway, needs to be manually converted
@@ -5626,7 +5618,7 @@ texlive warning: valid as old and new and no changelong entry, please check
 texlive warning: valid as old and new and no changelong entry, please check
 textcat contains LicenseRef-Callaway, needs to be manually converted
 tgbot-cpp warning: valid as old and new and no changelong entry, please check
-thc-ipv6 warning: not valid neither as Callaway nor as SPDX, please check
+thc-ipv6 contains LicenseRef-Callaway, needs to be manually converted
 the_silver_searcher contains LicenseRef-Callaway, needs to be manually converted
 thibault-fonts contains LicenseRef-Callaway, needs to be manually converted
 thttpd contains LicenseRef-Callaway, needs to be manually converted
@@ -5688,7 +5680,6 @@ tulrich-tuffy-fonts - can be trivially converted to LicenseRef-Fedora-Public-Dom
 tumbler contains LicenseRef-Callaway, needs to be manually converted
 TurboGears2 warning: valid as old and new and no changelong entry, please check
 tuxguitar contains LicenseRef-Callaway, needs to be manually converted
-tuxpaint-stamps warning: not valid neither as Callaway nor as SPDX, please check
 twa warning: valid as old and new and no changelong entry, please check
 tweak warning: valid as old and new and no changelong entry, please check
 tweeny warning: valid as old and new and no changelong entry, please check
@@ -5721,7 +5712,6 @@ unique3 contains LicenseRef-Callaway, needs to be manually converted
 unittest-cpp warning: valid as old and new and no changelong entry, please check
 unzoo - can be trivially converted to LicenseRef-Fedora-Public-Domain
 upslug2 warning: valid as old and new and no changelong entry, please check
-upx warning: not valid neither as Callaway nor as SPDX, please check
 urdfdom-headers contains LicenseRef-Callaway, needs to be manually converted
 uredir warning: valid as old and new and no changelong entry, please check
 urlbuster warning: valid as old and new and no changelong entry, please check
@@ -5782,7 +5772,6 @@ vim-syntastic warning: valid as old and new and no changelong entry, please chec
 vim-taglist warning: valid as old and new and no changelong entry, please check
 vim-trailing-whitespace contains LicenseRef-Callaway, needs to be manually converted
 vips contains LicenseRef-Callaway, needs to be manually converted
-virtualbox-guest-additions warning: not valid neither as Callaway nor as SPDX, please check
 virtualpg contains LicenseRef-Callaway, needs to be manually converted
 vis contains LicenseRef-Callaway, needs to be manually converted
 vit warning: valid as old and new and no changelong entry, please check

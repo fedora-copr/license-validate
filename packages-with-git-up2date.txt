@@ -624,7 +624,6 @@ berusky2-data
 berusky2
 beteckna-fonts
 beust-jcommander
-bfast
 bfs
 bgpq3
 bgpq4
@@ -779,6 +778,7 @@ btbuilder
 btop
 btrbk
 btrfs-assistant
+btrfs-backup-ng
 btrfsd
 btrfs-efi
 btrfs-fuse
@@ -1304,6 +1304,7 @@ crest
 cri-o
 cri-o1.29
 cri-o1.30
+cri-o1.31
 CriticalMass
 cri-tools
 cri-tools1.29
@@ -3743,6 +3744,7 @@ gnofract4d
 gnokii
 gnome-abrt
 gnome-applets
+gnome-app-list
 gnome-autoar
 gnome-backgrounds
 gnome-battery-bench
@@ -9114,7 +9116,6 @@ mingw-python-waitress
 mingw-python-werkzeug
 mingw-python-wheel
 mingw-python3
-mingw-p11-kit
 mingw-qca
 mingw-qextserialport
 mingw-qscintilla
@@ -9164,7 +9165,6 @@ mingw-quazip
 mingw-qwt
 mingw-readline
 mingw-rest
-mingw-sane-backends
 mingw-SDL_image
 mingw-SDL_mixer
 mingw-SDL_ttf
@@ -9462,6 +9462,7 @@ muffin
 mujs
 multicat
 multi-git-status
+multicharge
 multilib-rpm-config
 multimarkdown
 multimedia-menus
@@ -11446,6 +11447,7 @@ perl-Event-ExecFlow
 perl-Event-Lib
 perl-Event-RPC
 perl-Event
+perl-EV-Glib
 perl-EV
 perl-Excel-Writer-XLSX
 perl-Exception-Base
@@ -13754,6 +13756,7 @@ phpMyAdmin
 php-myclabs-deep-copy
 php-myclabs-php-enum
 php-netresearch-jsonmapper
+php-netresearch-jsonmapper4
 php-nikic-php-parser3
 php-nikic-php-parser4
 php-nikic-php-parser5
@@ -14001,6 +14004,7 @@ php-williamdes-mariadb-mysql-kbs
 php-xmpphp
 php-yoast-phpunit-polyfills
 php-yoast-phpunit-polyfills1
+php-yoast-phpunit-polyfills2
 php-zetacomponents-base
 php-zetacomponents-console-tools
 php-zetacomponents-unit-test
@@ -16433,6 +16437,7 @@ python-pyopengltk
 python-pyopenuv
 python-pyotgw
 python-pyotp
+python-pyownet
 python-pypandoc
 python-pypcapkit
 python-pypck
@@ -18703,6 +18708,7 @@ rust-async_zip
 rust-async_zip0.0.15
 rust-atk-sys0.17
 rust-atk0.17
+rust-atoi
 rust-atomic-polyfill
 rust-atomic_refcell
 rust-atomic
@@ -18718,6 +18724,7 @@ rust-avt
 rust-av1-grain
 rust-aws-nitro-enclaves-cose
 rust-aws-nitro-enclaves-cose0.4
+rust-aws-nitro-enclaves-image-format
 rust-axum-core
 rust-axum-macros
 rust-axum-server
@@ -19067,6 +19074,7 @@ rust-dbus-crossroads
 rust-dbus
 rust-dbus-tree
 rust-dbus0.8
+rust-debug-helper
 rust-decimal
 rust-defer-drop
 rust-deflate
@@ -19101,6 +19109,7 @@ rust-devicemapper
 rust-devicemapper-sys
 rust-devise_codegen
 rust-devise_core
+rust-devise
 rust-diesel_derives
 rust-diesel
 rust-diesel_table_macro_syntax
@@ -19168,6 +19177,7 @@ rust-ed25519-dalek
 rust-ed25519
 rust-effective-limits
 rust-ego-tree
+rust-eif_build
 rust-either
 rust-elf
 rust-elliptic-curve
@@ -19450,6 +19460,8 @@ rust-gobject-sys0.19
 rust-goblin0.5
 rust-goblin0.6
 rust-goblin0.7
+rust-google-cloud-metadata
+rust-google-cloud-token
 rust-googletest_macro
 rust-googletest
 rust-gptman
@@ -19640,6 +19652,7 @@ rust-indenter
 rust-indent_write
 rust-indexmap
 rust-indexmap1
+rust-indextree-macros
 rust-indextree
 rust-indicatif0.16
 rust-indoc
@@ -19723,6 +19736,7 @@ rust-kbs-types
 rust-kdotool
 rust-keccak
 rust-khronos_api
+rust-krata-tokio-tar
 rust-krates
 rust-krunvm
 rust-kstring
@@ -19894,6 +19908,7 @@ rust-minijinja
 rust-minimal-lexical
 rust-miniz_oxide
 rust-minreq
+rust-minspan
 rust-minus
 rust-mio-extras
 rust-mio-uds
@@ -20611,6 +20626,7 @@ rust-sptr
 rust-spytools
 rust-sql-builder
 rust-sqlformat
+rust-sqlx-core
 rust-sscanf_macro
 rust-sscanf
 rust-ssh-cipher
@@ -20780,6 +20796,7 @@ rust-toml
 rust-toml0.4
 rust-toml0.5
 rust-toml0.7
+rust-tonic
 rust-topological-sort
 rust-tower-http
 rust-tower
@@ -21088,6 +21105,8 @@ rust-zerocopy-derive
 rust-zerocopy-derive0.6
 rust-zerocopy
 rust-zerocopy0.6
+rust-zerofrom-derive
+rust-zerofrom
 rust-zeroize_derive
 rust-zeroize
 rust-zincati
@@ -21216,7 +21235,6 @@ sblim-wbemcli
 sbsigntools
 scalapack
 scalasca
-scala
 scalpel
 scamp
 scancode-toolkit
@@ -22838,7 +22856,6 @@ WoeUSB
 woff
 woff2
 wofi
-wolfssl
 wol
 wondershaper
 woodardworks-laconic-fonts

@@ -2834,7 +2834,6 @@ mingw-python-setuptools
 mingw-python-six
 mingw-python-tomli
 mingw-python-urllib3
-mingw-p11-kit
 mingw-qextserialport
 mingw-qt5-qtactiveqt
 mingw-qt5-qtgraphicaleffects
@@ -2856,7 +2855,6 @@ mingw-qt5-qtwinextras
 mingw-qt5-qtxmlpatterns
 mingw-qt5-qt3d
 mingw-rest
-mingw-sane-backends
 mingw-SDL_image
 mingw-SDL_mixer
 mingw-SDL_ttf
@@ -3292,8 +3290,6 @@ perl-Crypt-Blowfish
 perl-Crypt-Random-Seed
 perl-Crypt-RandPasswd
 perl-Data-Random
-perl-Data-Validate-IP
-perl-Data-Validate-IP
 perl-Date-Holidays-DE
 perl-DateTime-Precise
 perl-DBIx-Class-Candy
@@ -4860,7 +4856,6 @@ python-sphinxcontrib-apidoc
 python-sphinxcontrib-autoprogram
 python-sphinxcontrib-blockdiag
 python-sphinxcontrib-phpdomain
-python-sphinxcontrib-programoutput
 python-sphinxcontrib-seqdiag
 python-sphinxcontrib-spelling
 python-sphinxcontrib-svg2pdfconverter
@@ -5127,8 +5122,6 @@ qmc2
 qmmp
 qmmp
 qoauth
-qownnotes
-qownnotes
 qperf
 qr-code-generator
 qrencode
@@ -5327,8 +5320,7 @@ rpkg
 R-plogr
 R-plyr
 rply
-rpminspect
-rpminspect
+rpminspect-data-fedora
 R-praise
 R-preprocessCore
 R-prettycode
@@ -5449,6 +5441,7 @@ rusers
 R-usethis
 rust-askalono-cli
 rust-askalono-cli
+rust-debug-helper
 rust-dutree
 rust-dutree
 rust-dutree
@@ -5472,8 +5465,6 @@ rust-yubibomb
 rust-yubibomb
 rust-yubibomb
 rust-yubibomb
-rust-zbase32
-rust-zbase32
 R-uuid
 R-vctrs
 R-viridisLite
@@ -5588,8 +5579,6 @@ sil-tagmukay-fonts
 sil-tai-heritage-pro-fonts
 simh
 Simple-Fuzzer
-simple-scan
-simple-scan
 sipp
 sipp
 sip
@@ -5629,7 +5618,6 @@ sord
 sorkintype-merriweather-fonts
 sorkintype-merriweather-sans-fonts
 sourcextractor++
-soxr
 sox
 sparsehash
 sparse
@@ -5737,14 +5725,11 @@ tcltls
 tcl-togl
 tclx
 tcl-zlib
-tcmu-runner
-tcmu-runner
 tcpcrypt
 tcptrack
 tcputils
 tcp_wrappers
 tdom
-teeworlds
 teeworlds
 teeworlds
 teeworlds
@@ -5790,7 +5775,6 @@ texlive
 texlive
 textcat
 tgbot-cpp
-thc-ipv6
 thc-ipv6
 the_silver_searcher
 thibault-fonts
@@ -5855,8 +5839,6 @@ tulrich-tuffy-fonts
 tumbler
 TurboGears2
 tuxguitar
-tuxpaint-stamps
-tuxpaint-stamps
 twa
 tweak
 tweeny
@@ -5890,8 +5872,6 @@ unique3
 unittest-cpp
 unzoo
 upslug2
-upx
-upx
 urdfdom-headers
 uredir
 urlbuster
@@ -5953,8 +5933,6 @@ vim-syntastic
 vim-taglist
 vim-trailing-whitespace
 vips
-virtualbox-guest-additions
-virtualbox-guest-additions
 virtualpg
 vis
 vit
