@@ -1,241 +1,315 @@
 Maintainers by package:
+Coin3                corsepiu hobbes1069 jkastner
 Mayavi               chedi orion
 OpenSceneGraph       smani
+ProDy                sagitter
 R-IRanges            spot
-R-lubridate          qulogic
-ags                  rathann
+abi-dumper           hobbes1069 orion
+accel-config         miaojun0823 yunyings
 angelfish            kkofler thunderbirdtr
+api-sanity-checker   hobbes1069
+audacious-plugins    danfruehauf mschwendt robert
 avogadro2-libs       sagitter
 bacula               slaanesh
-bsh                  didiksupriadi41 mizdebsk
-clamav               gnat mstevens nb orion pwouters robert sergiomb steve
+bmake                pemensik
+btop                 jonathanspw
+calf                 limb
+ceph                 branto kkeithle ktdreyer
 clementine           eclipseo
-collectl             kzak sharkcz
+cross-binutils       dhowells lkundrak sharkcz
 dcfldd               rebus
-dumpasn1             fkooman
 fcitx5-mozc          music yanqiyu
 fedora-remix-logos   spot
-fedora-workstation-backgrounds duffy luya ryanlerch
 filebench            hushan
-generic-release      bruno mohanboddu spot
-ghc-control-monad-free mathstuf petersen
+fldigi               hobbes1069
+flmsg                hobbes1069
+flrig                hobbes1069
+fltk                 aarem hobbes1069 jchaloup phracek rdieter
+frescobaldi          limb
+gdb-exploitable      sgrubb
 ghc-http-client      qulogic
-golang-github-apache-arrow mikelo2
+ghc-hxt-unicode      petersen
+ghc-monad-loops      petersen
+ghc-polyparse        petersen
+ghc-tf-random        petersen
+ghc-uglymemo         mathstuf
+ghostwriter          marcdeop
+gl-manpages          ajax yaneti
+gmsh                 hobbes1069 ignatenkobrain jkastner smani
+gnote                kalev
+gnu-free-fonts       limb
+golang-gopkg-retry-1 eclipseo
 golang-gopkg-yaml-1  mikelo2
+google-roboto-mono-fonts linkdupont
 gstreamer1-doc       wtaymans
 guayadeque           martinkg
+hackrf               cottsay jskarvad stevenfalco
 hibernate-jpa-2.0-api jjelen
 hydra                rcallicotte rebus
 icecat               kengert sagitter
-innotop              echevemaster fale lbazan
+iprutils             dwmw2 jcajka sinnykumari
+iucode-tool          duck puiterwijk
 jam                  spot
 jbosscache-support   orphan
+jsmath-fonts         rdieter
 julia                nalimilan
 julius               spot
+kcbench              thl
 kclock               thunderbirdtr
+kernel               acaringi airlied ajax bskeggs jcline jforbes jwboyer jwrdegoede kernel-maint linville myoung patrickt quintela sandeen steved
+kf5-bluez-qt         jgrulich rdieter
+kf5-kcalendarcore    rdieter
+kf5-kdeclarative     jgrulich rdieter than
+kf5-kholidays        rdieter
+kf5-kirigami2        rdieter
+kf5-kirigami2-addons thunderbirdtr
+kf5-krunner          jgrulich rdieter than
+kf5-libkleo          jkucera rdieter
+kf5-threadweaver     jgrulich rdieter than
 khealthcertificate   ngompa thunderbirdtr
-kmag                 aleasto rdieter than
-konsole              rdieter than
 kpublictransport     ngompa thunderbirdtr
 kscreen              rdieter
-libcxx               nikic sergesanspaille spot tstellar tuliom
-libkomparediff2      jgrulich kkofler rdieter than
+lazarus              suve
+libclc               ignatenkobrain nikic sergesanspaille tstellar tuliom
+libnumbertext        limb
 libtimidity          aekoroglu jwrdegoede sagitter
 libva-intel-hybrid-driver kwizart
+libwebp              smani
 lmms                 thm
 lumina-desktop       tieugene
+lyx                  jamatos rdieter
 maatkit              slankes
+man-pages-ja         tagoh
 man-pages-l10n       ljavorsk mfabian nforro
 man2html             orion patches sergiomb
+mariadb10.11         fjanus hhorak ljavorsk mschorm zmiklank
+mingw-binutils       elmarco etrunko kalev rjones smani
+mingw-libunistring   etrunko
 mingw-wxWidgets      sailer
 mingw-wxWidgets3     sailer
 mxml                 kevin
+net-snmp             jridky jsafrane zdohnal
+newsx                rathann
 nikto                huzaifas rebus
+ocaml-camomile       avsej rjones
+ocaml-omake          rjones
 ogre                 dtimms ignatenkobrain sergiomb
+open-vm-tools        jwolfe ravindrakumar rjones slaanesh
 opencascade          hobbes1069
+opendkim             mdomsch
+opendmarc            kevin
+openexr              hobbes1069 jridky
 openjfx              deamn
 openjfx8             deamn
-perl-CDDB_get        jplesnik ppisar
 perl-Crypt-Blowfish  ixs
-perl-Date-HolidayParser ppisar
 perl-Devel-Caller-IgnoreNamespaces eseyman
+perl-HTML-TableExtract limb
 perl-Lingua-Preferred eseyman xavierb
 perl-LockFile-Simple ixs
-perl-RPC-XML         hobbes1069 jplesnik ppisar
-perl-Statistics-CaseResampling jplesnik ppisar
-perl-Test-Run        jplesnik ppisar
-perl-Tie-Hash-MultiValue ppisar
 perl-Unicode-CheckUTF8 pghmcfc
 perl-XML-Tiny        cicku eseyman
-perl-forks           ppisar
 perl-qooxdoo-compat  terjeros
 php-pear-PHP-CodeSniffer cdamian remi
 phpMyAdmin           remi robert
+pinball              limb sergiomb
+pkcs11-helper        dwmw2 kalev
 plasma-mobile        farchord
 pokerth              pwalter
 publican             jfearn rlandmann
 pypy                 churchyard thrnciar
 pypy3.10             churchyard
 pypy3.9              churchyard thrnciar
+python-basemap       limb
 python-cclib         sagitter
 python-pyface        chedi ignatenkobrain orion
+python-stone         limb
 python-traitsui      chedi ignatenkobrain orion
 python-utmp          jpopelka tuju
-python-wxpython4     swt2c
 qcad                 sagitter
 qmmp                 kvolny
 qt5-qtfeedback       jgrulich rdieter
 rgbds                blowry
+ruby                 mtasaka vondruch
 rubygem-rdoc         vondruch
 rubygem-xmlparser    schwicke
-rust-btrd            dcavalca
+rust-askalono-cli    decathorpe
 rust-dutree          kalev
 rust-gmp-mpfr-sys    dcavalca
-rust-ifcfg-devname   jamacku
 rust-nettle          decathorpe
 rust-nettle-sys      decathorpe
-rust-oxipng          music
-rust-rav1e           decathorpe
 rust-rpick           bowlofeggs
 rust-ybaas           decathorpe
 rust-yubibomb        decathorpe
-rust-zbase32         decathorpe
+scalasca             loveshack
 scantailor           xhorak
 scummvm              chkr lucilanga
-simple-scan          amigadave dodji ignatenkobrain slaanesh
+sipp                 peter
 skf                  mtasaka
 stun                 huzaifas
+teeworlds            ignatenkobrain limb lkundrak
 texlive              jnovy spot than
-texlive-base         spot than
-thc-ipv6             neil robert
 tkimg                spot
-tlog                 jstephen nkondras
+torque               hguemar spot
 uboot-tools          ausil pbrobinson sharkcz
 vakzination          farchord thunderbirdtr
-virtualbox-guest-additions jwrdegoede sergiomb
 w3m                  robert
 webkitgtk            catanzaro
-wsdlpull             denisarnaud
 wwl                  jskarvad
-wxGTK                mystro256 swt2c
 wxsqlite3            martinkg
 xmedcon              ankursinha
 yakuake              rdieter
+yascreen             bbonev1
 
 Packages by maintainer:
+aarem      fltk
+acaringi   kernel
 aekoroglu  libtimidity
-aleasto    kmag
-amigadave  simple-scan
+airlied    kernel
+ajax       gl-manpages kernel
 ankursinha xmedcon
 ausil      uboot-tools
+avsej      ocaml-camomile
+bbonev1    yascreen
 blowry     rgbds
 bowlofeggs rust-rpick
-bruno      generic-release
+branto     ceph
+bskeggs    kernel
 catanzaro  webkitgtk
 cdamian    php-pear-PHP-CodeSniffer
 chedi      Mayavi python-pyface python-traitsui
 chkr       scummvm
 churchyard pypy pypy3.10 pypy3.9
 cicku      perl-XML-Tiny
-dcavalca   rust-btrd rust-gmp-mpfr-sys
+corsepiu   Coin3
+cottsay    hackrf
+danfruehauf audacious-plugins
+dcavalca   rust-gmp-mpfr-sys
 deamn      openjfx openjfx8
-decathorpe rust-nettle rust-nettle-sys rust-rav1e rust-ybaas rust-yubibomb rust-zbase32
-denisarnaud wsdlpull
-didiksupriadi41 bsh
-dodji      simple-scan
+decathorpe rust-askalono-cli rust-nettle rust-nettle-sys rust-ybaas rust-yubibomb
+dhowells   cross-binutils
 dtimms     ogre
-duffy      fedora-workstation-backgrounds
-echevemaster innotop
-eclipseo   clementine
+duck       iucode-tool
+dwmw2      iprutils pkcs11-helper
+eclipseo   clementine golang-gopkg-retry-1
+elmarco    mingw-binutils
 eseyman    perl-Devel-Caller-IgnoreNamespaces perl-Lingua-Preferred perl-XML-Tiny
-fale       innotop
+etrunko    mingw-binutils mingw-libunistring
 farchord   plasma-mobile vakzination
-fkooman    dumpasn1
-gnat       clamav
-hobbes1069 opencascade perl-RPC-XML
+fjanus     mariadb10.11
+hguemar    torque
+hhorak     mariadb10.11
+hobbes1069 Coin3 abi-dumper api-sanity-checker fldigi flmsg flrig fltk gmsh opencascade openexr
 hushan     filebench
 huzaifas   nikto stun
-ignatenkobrain ogre python-pyface python-traitsui simple-scan
+ignatenkobrain gmsh libclc ogre python-pyface python-traitsui teeworlds
 ixs        perl-Crypt-Blowfish perl-LockFile-Simple
-jamacku    rust-ifcfg-devname
+jamatos    lyx
+jcajka     iprutils
+jchaloup   fltk
+jcline     kernel
 jfearn     publican
-jgrulich   libkomparediff2 qt5-qtfeedback
+jforbes    kernel
+jgrulich   kf5-bluez-qt kf5-kdeclarative kf5-krunner kf5-threadweaver qt5-qtfeedback
 jjelen     hibernate-jpa-2.0-api
+jkastner   Coin3 gmsh
+jkucera    kf5-libkleo
 jnovy      texlive
-jplesnik   perl-CDDB_get perl-RPC-XML perl-Statistics-CaseResampling perl-Test-Run
+jonathanspw btop
 jpopelka   python-utmp
-jskarvad   wwl
-jstephen   tlog
-jwrdegoede libtimidity virtualbox-guest-additions
-kalev      rust-dutree
+jridky     net-snmp openexr
+jsafrane   net-snmp
+jskarvad   hackrf wwl
+jwboyer    kernel
+jwolfe     open-vm-tools
+jwrdegoede kernel libtimidity
+kalev      gnote mingw-binutils pkcs11-helper rust-dutree
 kengert    icecat
-kevin      mxml
-kkofler    angelfish libkomparediff2
+kernel-maint kernel
+kevin      mxml opendmarc
+kkeithle   ceph
+kkofler    angelfish
+ktdreyer   ceph
 kvolny     qmmp
 kwizart    libva-intel-hybrid-driver
-kzak       collectl
-lbazan     innotop
-ljavorsk   man-pages-l10n
+limb       calf frescobaldi gnu-free-fonts libnumbertext perl-HTML-TableExtract pinball python-basemap python-stone teeworlds
+linkdupont google-roboto-mono-fonts
+linville   kernel
+ljavorsk   man-pages-l10n mariadb10.11
+lkundrak   cross-binutils teeworlds
+loveshack  scalasca
 lucilanga  scummvm
-luya       fedora-workstation-backgrounds
+marcdeop   ghostwriter
 martinkg   guayadeque wxsqlite3
-mathstuf   ghc-control-monad-free
+mathstuf   ghc-uglymemo
+mdomsch    opendkim
 mfabian    man-pages-l10n
-mikelo2    golang-github-apache-arrow golang-gopkg-yaml-1
-mizdebsk   bsh
-mohanboddu generic-release
-mstevens   clamav
-mtasaka    skf
-music      fcitx5-mozc rust-oxipng
-mystro256  wxGTK
+miaojun0823 accel-config
+mikelo2    golang-gopkg-yaml-1
+mschorm    mariadb10.11
+mschwendt  audacious-plugins
+mtasaka    ruby skf
+music      fcitx5-mozc
+myoung     kernel
 nalimilan  julia
-nb         clamav
-neil       thc-ipv6
 nforro     man-pages-l10n
 ngompa     khealthcertificate kpublictransport
-nikic      libcxx
-nkondras   tlog
-orion      Mayavi clamav man2html python-pyface python-traitsui
+nikic      libclc
+orion      Mayavi abi-dumper man2html python-pyface python-traitsui
 orphan     jbosscache-support
 patches    man2html
+patrickt   kernel
 pbrobinson uboot-tools
-petersen   ghc-control-monad-free
+pemensik   bmake
+peter      sipp
+petersen   ghc-hxt-unicode ghc-monad-loops ghc-polyparse ghc-tf-random
 pghmcfc    perl-Unicode-CheckUTF8
-ppisar     perl-CDDB_get perl-Date-HolidayParser perl-RPC-XML perl-Statistics-CaseResampling perl-Test-Run perl-Tie-Hash-MultiValue perl-forks
+phracek    fltk
+puiterwijk iucode-tool
 pwalter    pokerth
-pwouters   clamav
-qulogic    R-lubridate ghc-http-client
-rathann    ags
+quintela   kernel
+qulogic    ghc-http-client
+rathann    newsx
+ravindrakumar open-vm-tools
 rcallicotte hydra
-rdieter    kmag konsole kscreen libkomparediff2 qt5-qtfeedback yakuake
+rdieter    fltk jsmath-fonts kf5-bluez-qt kf5-kcalendarcore kf5-kdeclarative kf5-kholidays kf5-kirigami2 kf5-krunner kf5-libkleo kf5-threadweaver kscreen lyx qt5-qtfeedback yakuake
 rebus      dcfldd hydra nikto
 remi       php-pear-PHP-CodeSniffer phpMyAdmin
+rjones     mingw-binutils ocaml-camomile ocaml-omake open-vm-tools
 rlandmann  publican
-robert     clamav phpMyAdmin thc-ipv6 w3m
-ryanlerch  fedora-workstation-backgrounds
-sagitter   avogadro2-libs icecat libtimidity python-cclib qcad
+robert     audacious-plugins phpMyAdmin w3m
+sagitter   ProDy avogadro2-libs icecat libtimidity python-cclib qcad
 sailer     mingw-wxWidgets mingw-wxWidgets3
+sandeen    kernel
 schwicke   rubygem-xmlparser
-sergesanspaille libcxx
-sergiomb   clamav man2html ogre virtualbox-guest-additions
-sharkcz    collectl uboot-tools
-slaanesh   bacula simple-scan
+sergesanspaille libclc
+sergiomb   man2html ogre pinball
+sgrubb     gdb-exploitable
+sharkcz    cross-binutils uboot-tools
+sinnykumari iprutils
+slaanesh   bacula open-vm-tools
 slankes    maatkit
-smani      OpenSceneGraph
-spot       R-IRanges fedora-remix-logos generic-release jam julius libcxx texlive texlive-base tkimg
-steve      clamav
-swt2c      python-wxpython4 wxGTK
+smani      OpenSceneGraph gmsh libwebp mingw-binutils
+spot       R-IRanges fedora-remix-logos jam julius texlive tkimg torque
+steved     kernel
+stevenfalco hackrf
+suve       lazarus
+tagoh      man-pages-ja
 terjeros   perl-qooxdoo-compat
-than       kmag konsole libkomparediff2 texlive texlive-base
+than       kf5-kdeclarative kf5-krunner kf5-threadweaver texlive
+thl        kcbench
 thm        lmms
 thrnciar   pypy pypy3.9
-thunderbirdtr angelfish kclock khealthcertificate kpublictransport vakzination
+thunderbirdtr angelfish kclock kf5-kirigami2-addons khealthcertificate kpublictransport vakzination
 tieugene   lumina-desktop
-tstellar   libcxx
+tstellar   libclc
 tuju       python-utmp
-tuliom     libcxx
-vondruch   rubygem-rdoc
+tuliom     libclc
+vondruch   ruby rubygem-rdoc
 wtaymans   gstreamer1-doc
 xavierb    perl-Lingua-Preferred
 xhorak     scantailor
+yaneti     gl-manpages
 yanqiyu    fcitx5-mozc
+yunyings   accel-config
+zdohnal    net-snmp
+zmiklank   mariadb10.11
