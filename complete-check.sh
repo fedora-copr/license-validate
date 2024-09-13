@@ -22,8 +22,10 @@ wget https://tiny.distro.builders/view-source-package-name-list--view-eln.txt -O
 ./packages-with-invalid-license.sh > packages-without-spdx-final.txt
 
 ./generate-done-list.sh
+grep -v LicenseRef-Callaway  packages-without-spdx-final.txt | grep -v 'valid as old and new and no changelong entry' |grep -v trivial  |grep 'not valid neither as Callaway nor as SPDX' | cut -f1 -d' ' > neither-nor-remaining.txt
 
 cat final_just_packages.txt |sort | uniq > /tmp/final_just_packages.txt
 grep -Fx -f  not-migrated-packages.txt eln-list.txt > eln-not-migrated.txt
 ./show-statistics.sh
-find-package-maintainers /tmp/final_just_packages.txt > packages-without-spdx-final-maintainers.txt
+~/projects/fedora-misc-package-utilities/find-package-maintainers /tmp/final_just_packages.txt > packages-without-spdx-final-maintainers.txt
+~/projects/fedora-misc-package-utilities/find-package-maintainers neither-nor-remaining.txt > neither-nor-remaining-packagers.txt
