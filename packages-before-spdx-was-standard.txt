@@ -750,7 +750,6 @@ cab
 ca-certificates
 cadaver
 caddy
-Cadence
 cadical
 cadvisor
 cage
@@ -1176,6 +1175,7 @@ crm114
 cronie
 cronolog
 crontabs
+cros-guest-tools
 cross-binutils
 crossfire-client
 crossfire-maps
@@ -1483,7 +1483,6 @@ dmapd
 dmenu
 dmg2img
 dmidecode
-dmlite
 dmraid
 dmtcp
 dmtx-utils
@@ -1547,6 +1546,7 @@ dosfstools
 dos2unix
 dotconf
 dotnet8.0
+dotnet9.0
 dot2tex
 doublecmd
 double-conversion
@@ -2725,7 +2725,6 @@ ghc-cond
 ghc-conduit-extra
 ghc-conduit
 ghc-config-ini
-ghc-connection
 ghc-contravariant
 ghc-control-monad-free
 ghc-cookie
@@ -3191,10 +3190,6 @@ ghc-xmonad-contrib
 ghc-xss-sanitize
 ghc-X11
 ghc-X11-xft
-ghc-x509
-ghc-x509-store
-ghc-x509-system
-ghc-x509-validation
 ghc-yaml
 ghc-yesod-core
 ghc-yesod-form
@@ -6825,7 +6820,6 @@ liblayout
 liblbfgs
 liblcf
 libldac
-libldb
 libldm
 liblerc
 liblinear
@@ -6937,7 +6931,6 @@ liboglappth
 liboil
 libolm
 libomp
-libomxil-bellagio
 libopenmpt
 libopenraw
 liboping
@@ -7861,7 +7854,6 @@ mingw-fribidi
 mingw-ftplib
 mingw-gcc
 mingw-GConf2
-mingw-gdbm
 mingw-gdb
 mingw-gdk-pixbuf
 mingw-gettext
@@ -13285,7 +13277,6 @@ python-baluhn
 python-barbicanclient
 python-basemap
 python-bashate
-python-bash-kernel
 python-batalgorithm
 python-batinfo
 python-bcrypt
@@ -13991,6 +13982,7 @@ python-img2pdf
 python-immutables
 python-impacket
 python-importlib-metadata
+python-importlib-resources
 python-incremental
 python-indexed_gzip
 python-inema
@@ -14084,7 +14076,6 @@ python-jupyter-kernel-test
 python-jupyterlab_pygments
 python-jupyter-packaging
 python-jupyter-polymake
-python-jupyter-sphinx
 python-justbases
 python-justbytes
 python-jwcrypto
@@ -14312,7 +14303,6 @@ python-nbconvert
 python-nbformat
 python-nbsphinx
 python-nbxmpp
-python-nb2plots
 python-ncclient
 python-ndg_httpsclient
 python-ndjson-testrunner
@@ -14983,7 +14973,6 @@ python-scour
 python-scp
 python-scramp
 python-scrapy
-python-scripttester
 python-scripttest
 python-scrypt
 python-seaborn
@@ -15479,7 +15468,6 @@ python-zaqarclient
 python-zarr
 python-zc-customdoctests
 python-zc-lockfile
-python-zdaemon
 python-zeep
 python-zeroconf
 python-zict
@@ -16962,9 +16950,7 @@ rust-grep-searcher
 rust-grep
 rust-gstreamer-audio
 rust-gstreamer-base
-rust-gstreamer-editing-services
 rust-gstreamer-pbutils
-rust-gstreamer-player
 rust-gstreamer
 rust-gstreamer-video
 rust-gzip-header
@@ -17221,11 +17207,9 @@ rust-picky-asn1-der
 rust-picky-asn1
 rust-picky-asn1-x509
 rust-pin-project-internal
-rust-pin-project-internal0.4
 rust-pin-project-lite
 rust-pin-project-lite0.1
 rust-pin-project
-rust-pin-project0.4
 rust-pin-utils
 rust-piper
 rust-pkcs1
@@ -17286,7 +17270,6 @@ rust-quick-error
 rust-quick-error1
 rust-quickcheck_macros
 rust-quickcheck
-rust-quickcheck0.6
 rust-quickcheck0.9
 rust-quote
 rust-quote0.3
@@ -17355,6 +17338,7 @@ rust-rpassword
 rust-rpick
 rust-rsa
 rust-rspec
+rust-rublk
 rust-rustc-demangle
 rust-rustc-hash
 rust-rustc-serialize
@@ -18583,6 +18567,7 @@ tinyexr
 tinyfugue
 tinygo
 tinyobjloader
+tinyows
 tinyproxy
 tinyxml
 tinyxml2

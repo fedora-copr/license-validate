@@ -661,7 +661,6 @@ jboss-logging
 jboss-logging-tools
 jdeparser
 jdepend
-jemalloc
 jitterentropy
 jna
 jomolhari-fonts
@@ -749,6 +748,7 @@ libblockdev
 libbpf
 libburn
 libbytesize
+libcamera
 libcanberra
 libcap
 libcap-ng
@@ -903,6 +903,7 @@ libsndfile
 libsolv
 libsoup3
 libspectre
+libspelling
 libsrtp
 libssh
 libstoragemgmt
@@ -985,6 +986,7 @@ lsof
 lsscsi
 lsvpd
 ltrace
+lttng-ust
 lua
 lua-posix
 lua-rpm-macros
@@ -1450,6 +1452,8 @@ python-awscrt
 python-blivet
 python-cffi
 python-charset-normalizer
+python-click
+python-click-plugins
 python-colorama
 python-configobj
 python-configshell
@@ -1707,7 +1711,6 @@ setroubleshoot
 setroubleshoot-plugins
 setserial
 setup
-setxkbmap
 sg3_utils
 sgml-common
 sgpio
@@ -1923,7 +1926,6 @@ xml-commons-apis
 xml-commons-resolver
 xmlsec1
 xmltoman
-xmodmap
 xorg-x11-drivers
 xorg-x11-drv-dummy
 xorg-x11-drv-evdev
@@ -1933,7 +1935,6 @@ xorg-x11-proto-devel
 xorg-x11-server
 xorg-x11-server-Xwayland
 xorg-x11-xauth
-xorg-x11-xinit
 xprop
 xrandr
 xrdb
