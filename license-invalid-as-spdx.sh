@@ -14,7 +14,7 @@ while read -r LICENSE; do
                         true
                 else
                         print-distgit-log.sh "${SPEC}" > /tmp/distgit-changelog.txt
-                        if grep -i spdx </tmp/distgit-changelog.txt  >/dev/null && grep  'msuchy@redhat.com' >/dev/null  </tmp/distgit-changelog.txt; then
+                        if grep -i spdx </tmp/distgit-changelog.txt  >/dev/null ; then
                                 # valid as old and new but has dist-git changelog entry
                                 true
                         else
