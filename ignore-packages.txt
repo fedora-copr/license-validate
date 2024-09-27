@@ -347,6 +347,12 @@ rubygem-xpath$
 rubygem-yaml-lint$
 rubygem-zeitwerk$
 
+# vagrant + plugins are MIT (vagrant plugins are regular RubyGem packages)
+vagrant$
+vagrant-cachier$
+vagrant-libvirt$
+vagrant-vagrant_cloud$
+
 # existing License tag is also the correct SPDX expression
 4diac-forte$
 9wm$
