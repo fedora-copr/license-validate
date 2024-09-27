@@ -21,6 +21,7 @@ abrt
 abseil-cpp
 academic-admin
 accel-config
+accel-ppp
 accerciser
 accessibility-inspector
 accounts-qml-module
@@ -344,7 +345,6 @@ arm-none-eabi-binutils-cs
 arm-none-eabi-gcc-cs
 arm-none-eabi-newlib
 arm-trusted-firmware
-aron
 arpack
 arpage
 ArpON
@@ -2386,7 +2386,6 @@ fips
 fira-code-fonts
 firebird
 firecracker
-firefox-pkcs11-loader
 firefox
 firejail
 firewalk
@@ -8748,6 +8747,7 @@ matterbridge
 maturin
 mat2
 maui-mauikit-accounts
+maui-mauikit-archiver
 maui-mauikit-calendar
 maui-mauikit-documents
 maui-mauikit-filebrowsing
@@ -12419,6 +12419,7 @@ perl-Net-Amazon-S3
 perl-Net-AMQP
 perl-Net-Appliance-Session
 perl-Net-ARP
+perl-Net-Async-HTTP-Server
 perl-Net-Async-HTTP
 perl-Net-Async-SOCKS
 perl-Net-Async-WebSocket
@@ -13844,7 +13845,7 @@ php-pecl-oauth
 php-pecl-pcov
 php-pecl-pq
 php-pecl-raphf
-php-pecl-redis5
+php-pecl-redis6
 php-pecl-rpminfo
 php-pecl-rrd
 php-pecl-selinux
@@ -14372,6 +14373,7 @@ publicsuffix-list
 puddletag
 pugixml
 pulledpork
+pulp-cli
 pulseaudio-qt
 pulseaudio
 pulsecaster
@@ -15565,7 +15567,6 @@ python-icmplib
 python-icoextract
 python-identify
 python-idna
-python-idna-ssl
 python-idstools
 python-ifaddr
 python-ifcfg
@@ -16347,6 +16348,7 @@ python-pydata-sphinx-theme
 python-pydbus
 python-pydepsdev
 python-pydes
+python-pydicom-data
 python-pydicom
 python-pydiffx
 python-pydispatcher
@@ -18360,7 +18362,6 @@ R-statnet.common
 R-stringdist
 R-stringi
 R-stringr
-rstudio
 R-styler
 rst2pdf
 rst2txt
@@ -18605,6 +18606,7 @@ rust-add-determinism
 rust-addr
 rust-addr2line
 rust-adler
+rust-adler2
 rust-aead
 rust-aes-gcm
 rust-aes-siv
@@ -18785,7 +18787,6 @@ rust-bigdecimal0.3
 rust-binary-heap-plus
 rust-bindgen-cli
 rust-bindgen
-rust-bindgen0.59
 rust-bindgen0.63
 rust-bindgen0.68
 rust-biquad
@@ -19013,6 +19014,7 @@ rust-cpio-archive
 rust-cpp_demangle
 rust-cpufeatures
 rust-crates-io
+rust-crc-any
 rust-crc-catalog
 rust-crc
 rust-crc16
@@ -19560,6 +19562,9 @@ rust-gtk4-sys0.7
 rust-gtk4-sys0.8
 rust-gtk4_0.7
 rust-gtk4_0.8
+rust-gufo-common
+rust-gufo-exif
+rust-gufo-jpeg
 rust-gvdb-macros
 rust-gvdb
 rust-gweather-sys
@@ -19606,6 +19611,7 @@ rust-hmac0.11
 rust-home
 rust-html2text
 rust-html5ever
+rust-html5ever0.26
 rust-httparse
 rust-http-auth
 rust-http-body-util
@@ -19904,6 +19910,7 @@ rust-man
 rust-maplit
 rust-markup5ever_rcdom
 rust-markup5ever
+rust-markup5ever0.11
 rust-match_cfg
 rust-matchers
 rust-matchit
@@ -19940,6 +19947,7 @@ rust-minidom0.12
 rust-minijinja
 rust-minimal-lexical
 rust-miniz_oxide
+rust-miniz_oxide0.7
 rust-minreq
 rust-minspan
 rust-minus
@@ -20386,6 +20394,7 @@ rust-regex-syntax0.6
 rust-regex-test
 rust-relative-path
 rust-relm4-components
+rust-relm4-css
 rust-relm4-icons
 rust-relm4-macros
 rust-relm4
@@ -20655,6 +20664,7 @@ rust-speakersafetyd
 rust
 rust-speedate
 rust-spin_on
+rust-spin_sleep
 rust-spki
 rust-sptr
 rust-spytools
@@ -20816,7 +20826,6 @@ rust-tinyvec
 rust-titlecase
 rust-tl
 rust-tokei
-rust-tokio-core
 rust-tokio-openssl
 rust-tokio-retry
 rust-tokio-rustls
@@ -21117,6 +21126,7 @@ rust-xkbcommon-dl
 rust-xkeysym
 rust-xmlparser
 rust-xml5ever
+rust-xml5ever0.17
 rust-xterm-query
 rust-xxhash-c-sys
 rust-xxhash-rust
@@ -22323,7 +22333,6 @@ trousers
 trunk
 trurl
 trustedqsl
-truth
 tse3
 tslib
 tsl-sparse-map
@@ -22797,6 +22806,7 @@ weasyprint
 webalizer
 webanalyze
 web-assets
+web-eid
 webkitgtk
 webkit2gtk4.0
 webkit2-sharp

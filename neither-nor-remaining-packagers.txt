@@ -4,7 +4,6 @@ avogadro2-libs       sagitter
 bacula               slaanesh
 bmake                pemensik
 btop                 jonathanspw
-calf                 limb
 ceph                 branto kkeithle ktdreyer
 clementine           eclipseo
 cross-binutils       dhowells lkundrak sharkcz
@@ -36,7 +35,6 @@ guayadeque           martinkg
 hackrf               cottsay jskarvad stevenfalco
 hibernate-jpa-2.0-api jjelen
 hydra                rcallicotte rebus
-icecat               kengert sagitter
 iucode-tool          duck puiterwijk
 jam                  spot
 jbosscache-support   orphan
@@ -100,9 +98,6 @@ python-basemap       limb
 python-pyface        chedi ignatenkobrain orion
 python-traitsui      chedi ignatenkobrain orion
 python-utmp          jpopelka tuju
-qcad                 sagitter
-qmmp                 kvolny
-qt5-qtfeedback       jgrulich rdieter
 rgbds                blowry
 ruby                 mtasaka vondruch
 rubygem-rdoc         vondruch
@@ -115,15 +110,9 @@ rust-nettle-sys      decathorpe
 rust-rpick           bowlofeggs
 rust-ybaas           decathorpe
 rust-yubibomb        decathorpe
-scantailor           xhorak
-scummvm              chkr lucilanga
-sipp                 peter
-stun                 huzaifas
 teeworlds            ignatenkobrain limb lkundrak
 texlive              jnovy spot than
 tkimg                spot
-torque               hguemar spot
-uboot-tools          ausil pbrobinson sharkcz
 webkitgtk            catanzaro
 wwl                  jskarvad
 
@@ -133,14 +122,12 @@ acaringi   kernel
 aekoroglu  libtimidity
 airlied    kernel
 ajax       gl-manpages kernel
-ausil      uboot-tools
 blowry     rgbds
 bowlofeggs rust-rpick
 branto     ceph
 bskeggs    kernel
 catanzaro  webkitgtk
 chedi      python-pyface python-traitsui
-chkr       scummvm
 churchyard pypy pypy3.10 pypy3.9
 cicku      perl-XML-Tiny
 cottsay    hackrf
@@ -155,11 +142,10 @@ elmarco    mingw-binutils
 eseyman    perl-Devel-Caller-IgnoreNamespaces perl-Lingua-Preferred perl-XML-Tiny
 etrunko    mingw-binutils mingw-libunistring
 fjanus     mariadb10.11
-hguemar    torque
 hhorak     mariadb10.11
 hobbes1069 fldigi flmsg flrig fltk gmsh opencascade
 hushan     filebench
-huzaifas   nikto stun
+huzaifas   nikto
 ignatenkobrain gmsh libclc ogre python-pyface python-traitsui teeworlds
 ixs        perl-LockFile-Simple
 jamatos    lyx
@@ -167,7 +153,7 @@ jchaloup   fltk
 jcline     kernel
 jfearn     publican
 jforbes    kernel
-jgrulich   kf5-bluez-qt kf5-kdeclarative kf5-krunner kf5-threadweaver qt5-qtfeedback
+jgrulich   kf5-bluez-qt kf5-kdeclarative kf5-krunner kf5-threadweaver
 jjelen     hibernate-jpa-2.0-api
 jkastner   gmsh
 jkucera    kf5-libkleo
@@ -181,19 +167,16 @@ jwboyer    kernel
 jwolfe     open-vm-tools
 jwrdegoede kernel libtimidity
 kalev      gnote mingw-binutils rust-dutree
-kengert    icecat
 kernel-maint kernel
 kevin      mxml opendmarc
 kkeithle   ceph
 ktdreyer   ceph
-kvolny     qmmp
 kwizart    libva-intel-hybrid-driver
-limb       calf frescobaldi gnu-free-fonts libnumbertext python-basemap teeworlds
+limb       frescobaldi gnu-free-fonts libnumbertext python-basemap teeworlds
 linkdupont google-roboto-mono-fonts
 linville   kernel
 ljavorsk   man-pages-l10n mariadb10.11
 lkundrak   cross-binutils teeworlds
-lucilanga  scummvm
 marcdeop   ghostwriter
 martinkg   guayadeque
 mathstuf   ghc-uglymemo
@@ -212,9 +195,7 @@ orion      man2html python-pyface python-traitsui
 orphan     jbosscache-support
 patches    man2html
 patrickt   kernel
-pbrobinson uboot-tools
 pemensik   bmake
-peter      sipp
 petersen   ghc-hxt-unicode ghc-monad-loops ghc-polyparse ghc-tf-random
 phracek    fltk
 puiterwijk iucode-tool
@@ -223,22 +204,22 @@ quintela   kernel
 qulogic    ghc-http-client
 ravindrakumar open-vm-tools
 rcallicotte hydra
-rdieter    fltk jsmath-fonts kf5-bluez-qt kf5-kcalendarcore kf5-kdeclarative kf5-kholidays kf5-kirigami2 kf5-krunner kf5-libkleo kf5-threadweaver kscreen lyx qt5-qtfeedback
+rdieter    fltk jsmath-fonts kf5-bluez-qt kf5-kcalendarcore kf5-kdeclarative kf5-kholidays kf5-kirigami2 kf5-krunner kf5-libkleo kf5-threadweaver kscreen lyx
 rebus      hydra nikto
 rjones     mingw-binutils ocaml-omake open-vm-tools
 rlandmann  publican
-sagitter   ProDy avogadro2-libs icecat libtimidity qcad
+sagitter   ProDy avogadro2-libs libtimidity
 sailer     mingw-wxWidgets mingw-wxWidgets3
 sandeen    kernel
 schwicke   rubygem-xmlparser
 sergesanspaille libclc
 sergiomb   man2html ogre
 sgrubb     gdb-exploitable
-sharkcz    cross-binutils uboot-tools
+sharkcz    cross-binutils
 slaanesh   bacula open-vm-tools
 slankes    maatkit
 smani      gmsh libwebp mingw-binutils
-spot       fedora-remix-logos jam julius texlive tkimg torque
+spot       fedora-remix-logos jam julius texlive tkimg
 steved     kernel
 stevenfalco hackrf
 suve       lazarus
@@ -255,7 +236,6 @@ tuliom     libclc
 vondruch   ruby rubygem-rdoc
 wtaymans   gstreamer1-doc
 xavierb    perl-Lingua-Preferred
-xhorak     scantailor
 yaneti     gl-manpages
 yanqiyu    fcitx5-mozc
 zdohnal    net-snmp

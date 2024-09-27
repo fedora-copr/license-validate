@@ -17,6 +17,7 @@ abrt-server-info-page
 abrt
 abseil-cpp
 accel-config
+accel-ppp
 accessibility-inspector
 accounts-qml-module
 accountsservice
@@ -285,7 +286,6 @@ arm-image-installer
 arm-none-eabi-gcc-cs
 arm-none-eabi-newlib
 arm-trusted-firmware
-aron
 arpage
 arp-scan
 arptables
@@ -703,6 +703,7 @@ calc
 calcurse
 calendar
 calendarsupport
+calf
 calibre
 calindori
 callaudiod
@@ -1825,7 +1826,6 @@ fips
 fira-code-fonts
 firebird
 firecracker
-firefox-pkcs11-loader
 firejail
 firewalld
 firmitas
@@ -4503,6 +4503,7 @@ ibus-unikey
 icat
 iceauth
 icebreaker
+icecat
 icecream
 icedtea-web
 icemon
@@ -6249,6 +6250,7 @@ matterbridge
 maturin
 mat2
 maui-mauikit-accounts
+maui-mauikit-archiver
 maui-mauikit-calendar
 maui-mauikit-documents
 maui-mauikit-filebrowsing
@@ -6902,6 +6904,7 @@ newsx
 newt
 nexcontrol
 nex
+nextcloud-client
 nfoview
 nfs-ganesha
 nfsometer
@@ -9286,6 +9289,7 @@ perl-Net-Amazon-S3
 perl-Net-AMQP
 perl-Net-Appliance-Session
 perl-Net-ARP
+perl-Net-Async-HTTP-Server
 perl-Net-Async-HTTP
 perl-Net-Async-SOCKS
 perl-Net-Async-WebSocket
@@ -10543,7 +10547,7 @@ php-pecl-oauth
 php-pecl-pcov
 php-pecl-pq
 php-pecl-raphf
-php-pecl-redis5
+php-pecl-redis6
 php-pecl-rpminfo
 php-pecl-rrd
 php-pecl-selinux
@@ -10939,6 +10943,7 @@ public-inbox
 publicsuffix-list
 puddletag
 pulledpork
+pulp-cli
 pulseaudio-qt
 pulsecaster
 pulseview
@@ -11390,6 +11395,7 @@ python-esbonio
 python-etcd3gw
 python-etcd3
 python-ethtool
+python-evdev
 python-exabgp
 python-expandvars
 python-expecttest
@@ -12046,6 +12052,7 @@ python-pydapsys
 python-pydata-sphinx-theme
 python-pydepsdev
 python-pydes
+python-pydicom-data
 python-pydicom
 python-pydiffx
 python-pydyf
@@ -12757,6 +12764,7 @@ qmidiarp
 qmlkonsole
 qmltermwidget
 qmmp-plugin-pack
+qmmp
 qmplay2
 QMsgBox
 qm
@@ -12804,6 +12812,7 @@ qt5-qtconnectivity
 qt5-qtdatavis3d
 qt5-qtdeclarative
 qt5-qtdoc
+qt5-qtfeedback
 qt5-qtgamepad
 qt5-qtgraphicaleffects
 qt5-qtcharts
@@ -13318,7 +13327,6 @@ rs
 rss2email
 R-statnet.common
 R-stringdist
-rstudio
 R-styler
 R-SummarizedExperiment
 R-svglite
@@ -13799,6 +13807,7 @@ rust-add-determinism
 rust-addr
 rust-addr2line
 rust-adler
+rust-adler2
 rust-adler32
 rust-aead
 rust-aes-gcm
@@ -13999,7 +14008,6 @@ rust-binascii
 rust-bincode
 rust-bindgen-cli
 rust-bindgen
-rust-bindgen0.59
 rust-bindgen0.63
 rust-bindgen0.68
 rust-biquad
@@ -14913,6 +14921,9 @@ rust-gtk4-sys0.7
 rust-gtk4-sys0.8
 rust-gtk4_0.7
 rust-gtk4_0.8
+rust-gufo-common
+rust-gufo-exif
+rust-gufo-jpeg
 rust-gvdb-macros
 rust-gvdb
 rust-gweather-sys
@@ -14967,6 +14978,7 @@ rust-hostname-validator
 rust-html-escape
 rust-html2text
 rust-html5ever
+rust-html5ever0.26
 rust-httparse
 rust-http-auth
 rust-http-body
@@ -15312,6 +15324,7 @@ rust-man
 rust-maplit
 rust-markup5ever_rcdom
 rust-markup5ever
+rust-markup5ever0.11
 rust-match_cfg
 rust-matchers
 rust-matches
@@ -15362,6 +15375,7 @@ rust-minimad
 rust-minimal-lexical
 rust-miniz_oxide
 rust-miniz_oxide0.3
+rust-miniz_oxide0.7
 rust-minreq
 rust-minspan
 rust-mint
@@ -15926,6 +15940,7 @@ rust-regex-test
 rust-region
 rust-relative-path
 rust-relm4-components
+rust-relm4-css
 rust-relm4-icons
 rust-relm4-macros
 rust-relm4
@@ -16248,6 +16263,7 @@ rust-speakersafetyd
 rust
 rust-speedate
 rust-spin_on
+rust-spin_sleep
 rust-spin
 rust-spin0.5
 rust-spki
@@ -16441,8 +16457,6 @@ rust-titlecase
 rust-tl
 rust-tokei
 rust-tokio-codec
-rust-tokio-compat
-rust-tokio-core
 rust-tokio-current-thread
 rust-tokio-executor
 rust-tokio-fs
@@ -16827,6 +16841,7 @@ rust-xmlparser
 rust-xml-rs
 rust-xmlwriter
 rust-xml5ever
+rust-xml5ever0.17
 rust-xterm-query
 rust-xxhash-c-sys
 rust-xxhash-rust
@@ -16976,6 +16991,7 @@ scamp
 scancode-toolkit
 scanmem
 scannotation
+scantailor
 scap-security-guide
 scap-workbench
 scapy
@@ -17164,6 +17180,7 @@ sing
 singularity-ce
 Singular
 sipcalc
+sipp
 sip-redirect
 sipsak
 sipvicious
@@ -17396,6 +17413,7 @@ st
 stubby
 s-tui
 stunnel
+stun
 subnetcalc
 subscription-manager-rhsm-certificates
 subscription-manager
@@ -17683,6 +17701,7 @@ toppler
 torbrowser-launcher
 torcs-data
 torcs
+torque
 torrent-file-editor
 torsocks
 tortoisehg
@@ -17737,7 +17756,6 @@ trojita
 trophy
 trunk
 trurl
-truth
 tse3
 tslib
 tss2
@@ -18086,6 +18104,7 @@ wdt
 weasyprint
 webalizer
 webanalyze
+web-eid
 webkit2gtk4.0
 webp-pixbuf-loader
 webrtc-audio-processing
@@ -18569,6 +18588,7 @@ znc-clientbuffer
 znc
 zonefs-tools
 zopfli
+zork
 zpaq
 zps
 zram
