@@ -94,8 +94,6 @@ publican             jfearn rlandmann
 pypy                 churchyard thrnciar
 pypy3.10             churchyard
 pypy3.9              churchyard thrnciar
-python-basemap       limb
-python-pyface        chedi ignatenkobrain orion
 python-traitsui      chedi ignatenkobrain orion
 python-utmp          jpopelka tuju
 rgbds                blowry
@@ -127,7 +125,7 @@ bowlofeggs rust-rpick
 branto     ceph
 bskeggs    kernel
 catanzaro  webkitgtk
-chedi      python-pyface python-traitsui
+chedi      python-traitsui
 churchyard pypy pypy3.10 pypy3.9
 cicku      perl-XML-Tiny
 cottsay    hackrf
@@ -146,7 +144,7 @@ hhorak     mariadb10.11
 hobbes1069 fldigi flmsg flrig fltk gmsh opencascade
 hushan     filebench
 huzaifas   nikto
-ignatenkobrain gmsh libclc ogre python-pyface python-traitsui teeworlds
+ignatenkobrain gmsh libclc ogre python-traitsui teeworlds
 ixs        perl-LockFile-Simple
 jamatos    lyx
 jchaloup   fltk
@@ -172,7 +170,7 @@ kevin      mxml opendmarc
 kkeithle   ceph
 ktdreyer   ceph
 kwizart    libva-intel-hybrid-driver
-limb       frescobaldi gnu-free-fonts libnumbertext python-basemap teeworlds
+limb       frescobaldi gnu-free-fonts libnumbertext teeworlds
 linkdupont google-roboto-mono-fonts
 linville   kernel
 ljavorsk   man-pages-l10n mariadb10.11
@@ -191,7 +189,7 @@ nalimilan  julia
 nforro     man-pages-l10n
 ngompa     khealthcertificate kpublictransport
 nikic      libclc
-orion      man2html python-pyface python-traitsui
+orion      man2html python-traitsui
 orphan     jbosscache-support
 patches    man2html
 patrickt   kernel
