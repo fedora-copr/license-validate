@@ -44,6 +44,7 @@ ansible-pcp
 ant
 anthy-unicode
 antlr
+aom
 aopalliance
 apache-commons-beanutils
 apache-commons-cli
@@ -147,7 +148,7 @@ chrpath
 cifs-utils
 cim-schema
 cjose
-clang
+clang18
 classloader-leak-test-framework
 cldr-emoji-annotation
 clevis
@@ -166,7 +167,6 @@ cockpit-session-recording
 color-filesystem
 colord
 colord-gtk
-compiler-rt
 composefs
 conmon
 conntrack-tools
@@ -201,6 +201,7 @@ cups-pk-helper
 curl
 cyrus-imapd
 cyrus-sasl
+dav1d
 dblatex
 dbus
 dbus-broker
@@ -353,6 +354,7 @@ geoclue2
 geocode-glib
 geolite2
 gettext
+gflags
 ghostscript
 gi-docgen
 giflib
@@ -365,7 +367,7 @@ glibc
 glibmm2.4
 glibmm2.68
 glslang
-glycin-loaders
+glycin
 gmp
 gnome-autoar
 gnome-bluetooth
@@ -465,6 +467,7 @@ help2man
 hexedit
 hicolor-icon-theme
 highlight
+highway
 hivex
 hostapd
 hostname
@@ -740,6 +743,7 @@ jitterentropy
 jna
 jomolhari-fonts
 jose
+jpegxl
 jq
 js-d3-flame-graph
 jsch
@@ -848,7 +852,6 @@ libdecor
 libdeflate
 libdex
 libdisplay-info
-libdmx
 libdnf
 libdrm
 libdvdnav
@@ -892,6 +895,7 @@ libgweather
 libgxps
 libhandy
 libhangul
+libheif
 libi2cd
 libica
 libical
@@ -941,7 +945,6 @@ libnvme
 libnxz
 libocxl
 libogg
-libomp
 libopenraw
 liboqs
 libosinfo
@@ -992,6 +995,7 @@ libspelling
 libspiro
 libsrtp
 libssh
+libssh2
 libstoragemgmt
 libtalloc
 libtasn1
@@ -1049,12 +1053,11 @@ linux-firmware
 linuxdoc-tools
 linuxptp
 lksctp-tools
-lld
-lldb
 lldpad
 lldpd
 llhttp
 llvm
+llvm18
 lm_sensors
 lmdb
 lockdev
@@ -1796,7 +1799,6 @@ python-ldap
 python-lesscpy
 python-libevdev
 python-linux-procfs
-python-lit
 python-lxml
 python-mako
 python-markdown
@@ -2001,9 +2003,11 @@ rubygem-thread_order
 rust
 rust-afterburn
 rust-bootupd
+rust-cargo-c
 rust-cbindgen
 rust-coreos-installer
 rust-prefixdevname
+rust-rav1e
 rust-rpm-sequoia
 rust-sequoia-sq
 rust-sequoia-sqv
@@ -2109,6 +2113,7 @@ subscription-manager-rhsm-certificates
 subversion
 sudo
 supermin
+svt-av1
 swig
 switcheroo-control
 swtpm
@@ -2221,6 +2226,7 @@ virt-what
 virt-who
 virtio-win
 virtiofsd
+vmaf
 voikko-fi
 volume_key
 vsftpd
@@ -2238,7 +2244,6 @@ wayland-protocols
 wayland-utils
 waypipe
 web-assets
-webp-pixbuf-loader
 webrtc-audio-processing
 weldr-client
 wget2
@@ -2310,6 +2315,7 @@ xxhash
 xz
 xz-java
 yajl
+yasm
 yelp-tools
 yelp-xsl
 yggdrasil

@@ -41,6 +41,7 @@ ansible-pcp
 ant
 anthy-unicode
 antlr
+aom
 aopalliance
 apache-commons-cli
 apache-commons-codec
@@ -122,7 +123,7 @@ chrpath
 cifs-utils
 cim-schema
 cjose
-clang
+clang18
 cldr-emoji-annotation
 clevis
 clevis-pin-tpm2
@@ -139,7 +140,6 @@ cockpit-session-recording
 color-filesystem
 colord
 colord-gtk
-compiler-rt
 composefs
 conmon
 conntrack-tools
@@ -172,6 +172,7 @@ cups-pk-helper
 curl
 cyrus-imapd
 cyrus-sasl
+dav1d
 dbus
 dbus-broker
 dbus-glib
@@ -315,7 +316,7 @@ glibc
 glibmm2.4
 glibmm2.68
 glslang
-glycin-loaders
+glycin
 gmp
 gnome-autoar
 gnome-bluetooth
@@ -410,6 +411,7 @@ hdparm
 help2man
 hexedit
 hicolor-icon-theme
+highway
 hivex
 hostapd
 hostname
@@ -665,6 +667,7 @@ jitterentropy
 jna
 jomolhari-fonts
 jose
+jpegxl
 jq
 js-d3-flame-graph
 jsch
@@ -806,6 +809,7 @@ libgweather
 libgxps
 libhandy
 libhangul
+libheif
 libi2cd
 libica
 libical
@@ -855,7 +859,6 @@ libnvme
 libnxz
 libocxl
 libogg
-libomp
 libopenraw
 liboqs
 libosinfo
@@ -961,12 +964,11 @@ linux-firmware
 linuxdoc-tools
 linuxptp
 lksctp-tools
-lld
-lldb
 lldpad
 lldpd
 llhttp
 llvm
+llvm18
 lm_sensors
 lmdb
 lockdev
@@ -1498,7 +1500,6 @@ python-lark
 python-ldap
 python-libevdev
 python-linux-procfs
-python-lit
 python-lxml
 python-mako
 python-markupsafe
@@ -1670,6 +1671,7 @@ rust-afterburn
 rust-bootupd
 rust-coreos-installer
 rust-prefixdevname
+rust-rav1e
 rust-rpm-sequoia
 rust-sequoia-sq
 rust-sequoia-sqv
@@ -1765,6 +1767,7 @@ subscription-manager-rhsm-certificates
 subversion
 sudo
 supermin
+svt-av1
 swig
 switcheroo-control
 swtpm
@@ -1868,6 +1871,7 @@ virt-what
 virt-who
 virtio-win
 virtiofsd
+vmaf
 volume_key
 vsftpd
 vte291
@@ -1882,7 +1886,6 @@ wavpack
 wayland
 wayland-utils
 waypipe
-webp-pixbuf-loader
 webrtc-audio-processing
 weldr-client
 wget2
