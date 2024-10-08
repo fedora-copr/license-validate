@@ -31,11 +31,9 @@ golang-gopkg-yaml-1  mikelo2
 google-roboto-mono-fonts linkdupont
 gstreamer1-doc       wtaymans
 guayadeque           martinkg
-hackrf               cottsay jskarvad stevenfalco
 hibernate-jpa-2.0-api jjelen
 hydra                rcallicotte rebus
 iucode-tool          duck puiterwijk
-jam                  spot
 jbosscache-support   orphan
 jsmath-fonts         rdieter
 julia                nalimilan
@@ -73,11 +71,9 @@ net-snmp             jridky jsafrane zdohnal
 nikto                huzaifas rebus
 ocaml-omake          rjones
 ogre                 dtimms ignatenkobrain sergiomb
-opencascade          hobbes1069
 opendkim             mdomsch
 opendmarc            kevin
 openjfx              deamn
-pokerth              pwalter
 pypy                 churchyard thrnciar
 pypy3.10             churchyard
 pypy3.9              churchyard thrnciar
@@ -112,7 +108,6 @@ bskeggs    kernel
 catanzaro  webkitgtk
 chedi      python-traitsui
 churchyard pypy pypy3.10 pypy3.9
-cottsay    hackrf
 dcavalca   rust-gmp-mpfr-sys
 deamn      openjfx
 decathorpe rust-askalono-cli rust-nettle rust-nettle-sys rust-ybaas rust-yubibomb
@@ -122,7 +117,7 @@ duck       iucode-tool
 eclipseo   clementine golang-gopkg-retry-1
 fjanus     mariadb10.11
 hhorak     mariadb10.11
-hobbes1069 fldigi flmsg flrig fltk gmsh opencascade
+hobbes1069 fldigi flmsg flrig fltk gmsh
 hushan     filebench
 huzaifas   nikto
 ignatenkobrain gmsh libclc ogre python-traitsui teeworlds
@@ -139,7 +134,7 @@ jonathanspw btop
 jpopelka   python-utmp
 jridky     net-snmp
 jsafrane   net-snmp
-jskarvad   hackrf wwl
+jskarvad   wwl
 jwboyer    kernel
 jwrdegoede kernel libtimidity
 kalev      gnote rust-dutree
@@ -175,7 +170,6 @@ pemensik   bmake
 petersen   ghc-hxt-unicode ghc-monad-loops ghc-polyparse ghc-tf-random
 phracek    fltk
 puiterwijk iucode-tool
-pwalter    pokerth
 quintela   kernel
 qulogic    ghc-http-client
 rathann    libva-intel-hybrid-driver
@@ -193,9 +187,8 @@ sharkcz    cross-binutils
 slaanesh   bacula
 slankes    maatkit
 smani      gmsh libwebp
-spot       fedora-remix-logos jam julius texlive tkimg
+spot       fedora-remix-logos julius texlive tkimg
 steved     kernel
-stevenfalco hackrf
 suve       lazarus
 tagoh      man-pages-ja
 than       kf5-kdeclarative kf5-krunner kf5-threadweaver texlive

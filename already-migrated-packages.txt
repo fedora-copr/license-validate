@@ -35,6 +35,7 @@ activemq-cpp
 actor-framework
 adanaxisgpl
 adapt
+ada-url
 adb-enhanced
 adcli
 addrwatch
@@ -281,6 +282,7 @@ archlinux-keyring
 arch-test
 arianna
 aribb24
+aribb25
 arj
 armacycles-ad
 armadillo
@@ -603,6 +605,7 @@ borgbackup
 borgmatic
 boswars-addons
 boswars
+botan2
 bottles
 bout++
 bovo
@@ -816,7 +819,6 @@ clamav-unofficial-sigs
 clamtk
 clamz
 clanbomber
-clang
 clang15
 clang17
 clang18
@@ -928,7 +930,6 @@ compat-guile18
 compat-readline5
 compat-readline6
 compface
-compiler-rt
 compiler-rt17
 compiler-rt18
 compiz-bcop
@@ -1008,6 +1009,7 @@ cosmic-session
 cosmic-settings-daemon
 cosmic-settings
 cosmic-store
+cosmic-term
 cosmic-workspaces
 cotila
 coturn
@@ -1367,6 +1369,7 @@ docbook-dtds
 docbook-style-dsssl
 docbook-style-xsl
 docbook-utils
+docbook5-schemas
 docker-buildx
 docker-compose
 docker-compose-switch
@@ -1849,6 +1852,7 @@ festival-freebsoft-utils
 fetch-crl
 fetchlog
 fetchmail
+fex-emu-rootfs-fedora
 fex-emu
 ffcall
 fflas-ffpack
@@ -1881,7 +1885,6 @@ firejail
 firewalld
 firmitas
 fish
-fitsverify
 fityk
 fizz
 flacon
@@ -2007,6 +2010,7 @@ freeradius
 freerdp
 freerdp2
 freerouting
+freetds
 freetennis
 freetype
 freewrl
@@ -2867,9 +2871,9 @@ gimp-help
 gimp-high-pass-filter
 gimp-lqr-plugin
 gimp-luminosity-masks
+gimp-paint-studio
 gimp-resynthesizer
 gimp
-gimp-wavelet-decompose
 gimp-wavelet-denoise-plugin
 ginac
 ginga
@@ -3226,6 +3230,7 @@ golang-github-allan-simon-singleinstance
 golang-github-altree-bigfloat
 golang-github-anacrolix-dms
 golang-github-anacrolix-log
+golang-github-andreaskoch-fswatch
 golang-github-apache-arrow15
 golang-github-apache-beam-2
 golang-github-apache-openwhisk-client
@@ -3640,6 +3645,7 @@ golang-github-modern-reflect2
 golang-github-mrunalp-fileutils
 golang-github-muesli-ansi
 golang-github-muesli-cancelreader
+golang-github-munnerz-goautoneg
 golang-github-mwitkow-conntrack
 golang-github-nathan-osman-sunrise
 golang-github-nats-io-jwt
@@ -4251,6 +4257,7 @@ gzip
 g2clib
 g3kb-switch
 g4music
+hackrf
 hadolint
 half
 hamcrest
@@ -4639,6 +4646,7 @@ icon-naming-utils
 icoutils
 icu
 icu4j
+ideviceinstaller
 idevicerestore
 idle3-tools
 idris
@@ -4798,6 +4806,7 @@ jakarta-mail1
 jakarta-oro
 jakarta-servlet
 jalv_select
+jam
 janet
 janino
 jansi-native
@@ -4875,6 +4884,7 @@ jline2
 jl
 jmeters
 jmtpfs
+jneuroml-core
 joe
 john
 jol
@@ -5617,8 +5627,6 @@ libgedit-gtksourceview
 libgee
 libgexiv2
 libghemical
-libgit2_1.5
-libgit2_1.6
 libgit2_1.7
 libglademm24
 libglibutil
@@ -5659,6 +5667,7 @@ libchipcard
 libical
 libica
 libICE
+libideviceactivation
 libIDL
 libidn
 libidn2
@@ -5795,6 +5804,7 @@ libnsl2
 libnss-mysql
 libntirpc
 libnvme
+libnxt
 libnxz
 liboauth2
 libobjc2
@@ -5808,7 +5818,6 @@ liboglappth
 libolm
 libomemo-c
 libomemo
-libomp
 libomp17
 libomp18
 libopenmpt
@@ -6147,9 +6156,7 @@ lizardfs
 lklug-fonts
 lksctp-tools
 llama-cpp
-lldb
 lldpad
-lld
 lld15
 lld17
 lld18
@@ -7209,7 +7216,6 @@ objectweb-asm
 objenesis
 objfw
 obs-build
-obs-cef
 obsctl
 observable
 obserware
@@ -7463,6 +7469,7 @@ openbios
 openblas
 openblas-srpm-macros
 openbox
+opencascade
 opencc
 opencity
 opencl-filesystem
@@ -8736,6 +8743,7 @@ perl-File-LoadLines
 perl-File-Map
 perl-File-MimeInfo
 perl-File-MMagic
+perl-File-MMagic-XS
 perl-File-Modified
 perl-File-NCopy
 perl-File-Next
@@ -9544,6 +9552,7 @@ perl-Net-Amazon-S3
 perl-Net-AMQP
 perl-Net-Appliance-Session
 perl-Net-ARP
+perl-Net-ASN
 perl-Net-Async-HTTP-Server
 perl-Net-Async-HTTP
 perl-Net-Async-SOCKS
@@ -10593,6 +10602,7 @@ perl-Version-Next
 perl-Version-Requirements
 perl-version
 perl-VM-EC2-Security-CredentialCache
+perl-VM-EC2
 perl-VMware-LabManager
 perl-V
 perl-v6
@@ -11082,6 +11092,7 @@ poetry
 poezio-omemo
 poezio
 pogo
+pokerth
 poke
 polarsys-b612-fonts
 policycoreutils
@@ -11122,6 +11133,7 @@ postgresql16-pgaudit
 postgresql16-pg_repack
 postgresql16-pgvector
 postgresql16
+postgresql17
 postgrey
 postproof
 potrace
@@ -11232,6 +11244,7 @@ purple-facebook
 purple-mm-sms
 pveclib
 pv
+pwauth
 pwgen
 pwsafe
 pw3270
@@ -11344,6 +11357,7 @@ python-argopt
 python-argparse-dataclass
 python-archspec
 python-arm-preprocessing
+python-array-api-strict
 python-arrow
 python-arviz
 python-asgiref
@@ -11861,6 +11875,7 @@ python-google-auth
 python-google-cloud-core
 python-google-cloud-dns
 python-google-cloud-storage
+python-google-cloud-testutils
 python-google-crc32c
 python-google-resumable-media
 python-gphoto2
@@ -12078,7 +12093,6 @@ python-linkify-it-py
 python-linuxdoc
 python-linux-procfs
 python-listparser
-python-lit
 python-llama-cpp-python
 python-llvmlite
 python-localzone
@@ -12279,7 +12293,6 @@ python-opentelemetry-propagator-aws-xray
 python-opentelemetry-resource-detector-azure
 python-opentelemetry-sdk-extension-aws
 python-opentelemetry
-python-opentype-sanitizer
 python-opfunu
 python-opnsense
 python-optking
@@ -12339,6 +12352,7 @@ python-pathable
 python-path-and-address
 python-pathos
 python-pathspec
+python-pathvalidate
 python-patch-ng
 python-patiencediff
 python-patsy
@@ -12666,6 +12680,7 @@ python-qemu-qmp
 python-qpageview
 python-qrcode
 python-q
+python-qstylizer
 python-QtAwesome
 python-qtconsole
 python-qtsass
@@ -13016,6 +13031,7 @@ python-types-cryptography
 python-types-docutils
 python-types-enum34
 python-types-ipaddress
+python-types-mock
 python-types-pygments
 python-types-pyopenssl
 python-types-pyyaml
@@ -13037,6 +13053,7 @@ python-ukkonen
 python-unicodedata2
 python-unidecode
 python-universal-pathlib
+python-unix-ar
 python-unpaddedbase64
 python-untangle
 python-uranium
@@ -13085,6 +13102,7 @@ python-websocket-client
 python-websockets
 python-websockify
 python-webthing
+python-whatthepatch
 python-wheel
 python-wheel0.37
 python-whisper
@@ -13270,6 +13288,8 @@ qstars
 qstat
 qsynth
 qt-creator
+qterminal
+qtermwidget
 qtile
 qtilitools
 qt-jdenticon
@@ -14379,7 +14399,6 @@ rust-asahi-wifisync
 rust-ascii-canvas
 rust-ascii
 rust-ashpd
-rust-ashpd0.8
 rust-ash
 rust-askalono
 rust-askama_derive
@@ -14433,17 +14452,18 @@ rust-async_zip
 rust-async_zip0.0.15
 rust-atk
 rust-atk-sys
-rust-atk-sys0.17
 rust-atoi
 rust-atomic-polyfill
 rust-atomic_refcell
 rust-atomic
 rust-atomic-traits
 rust-atomic-waker
+rust-atomic0.5
 rust-atom
 rust-atty
 rust-autocfg
 rust-automod
+rust-av-data
 rust-average
 rust-avif-parse
 rust-avif-serialize
@@ -14528,6 +14548,7 @@ rust-blocking
 rust-block-modes
 rust-block-padding
 rust-block-padding0.2
+rust-blosc2-rs
 rust-blosc2-sys
 rust-blowfish
 rust-blsctl
@@ -14543,7 +14564,6 @@ rust-brotli-decompressor
 rust-brotli
 rust-brownstone
 rust-bstr
-rust-bstr0.2
 rust-btoi
 rust-btrd
 rust-buffered-reader
@@ -14567,6 +14587,7 @@ rust-byteorder
 rust-bytes-cast-derive
 rust-bytes-cast
 rust-bytesize
+rust-byte-slice-cast
 rust-bytes
 rust-bytestring
 rust-bytes0.4
@@ -14584,11 +14605,9 @@ rust-cached_proc_macro_types
 rust-cached
 rust-cache-padded
 rust-cairo-rs
-rust-cairo-rs0.17
 rust-cairo-rs0.18
 rust-cairo-rs0.19
 rust-cairo-sys-rs
-rust-cairo-sys-rs0.17
 rust-cairo-sys-rs0.18
 rust-cairo-sys-rs0.19
 rust-calamine
@@ -14845,15 +14864,12 @@ rust-daemonize
 rust-darling_core
 rust-darling_core0.12
 rust-darling_core0.13
-rust-darling_core0.14
 rust-darling_macro
 rust-darling_macro0.12
 rust-darling_macro0.13
-rust-darling_macro0.14
 rust-darling
 rust-darling0.12
 rust-darling0.13
-rust-darling0.14
 rust-dary_heap
 rust-dashmap
 rust-dashmap4
@@ -14865,6 +14881,7 @@ rust-data-encoding-macro
 rust-data-encoding
 rust-data-url
 rust-datetime
+rust-dav1d
 rust-dav1d-sys
 rust-dbl
 rust-dbus-codegen
@@ -14886,13 +14903,8 @@ rust-derivative
 rust-derive_arbitrary
 rust-derive_arbitrary0.4
 rust-derive_builder_core
-rust-derive_builder_core0.12
-rust-derive_builder_core0.9
 rust-derive_builder_macro
-rust-derive_builder_macro0.12
 rust-derive_builder
-rust-derive_builder0.12
-rust-derive_builder0.9
 rust-derive_more-impl
 rust-derive_more
 rust-derive_more0.99
@@ -15174,27 +15186,20 @@ rust-gag
 rust-gcd
 rust-gdk-pixbuf
 rust-gdk-pixbuf-sys
-rust-gdk-pixbuf-sys0.17
 rust-gdk-pixbuf-sys0.18
 rust-gdk-pixbuf-sys0.19
-rust-gdk-pixbuf0.17
 rust-gdk-pixbuf0.18
 rust-gdk-pixbuf0.19
 rust-gdk
 rust-gdk-sys
-rust-gdk-sys0.17
 rust-gdk4
 rust-gdk4-sys
 rust-gdk4-sys0.7
 rust-gdk4-sys0.8
 rust-gdk4-wayland
 rust-gdk4-wayland-sys
-rust-gdk4-wayland-sys0.8
-rust-gdk4-wayland0.8
 rust-gdk4-x11
 rust-gdk4-x11-sys
-rust-gdk4-x11-sys0.8
-rust-gdk4-x11_0.8
 rust-gdk4_0.7
 rust-gdk4_0.8
 rust-generic-array
@@ -15219,10 +15224,8 @@ rust-gimli
 rust-gimoji
 rust-gio
 rust-gio-sys
-rust-gio-sys0.17
 rust-gio-sys0.18
 rust-gio-sys0.19
-rust-gio0.17
 rust-gio0.18
 rust-gio0.19
 rust-gir-format-check
@@ -15292,15 +15295,12 @@ rust-gix-worktree-stream
 rust-gl_generator
 rust-glib-build-tools
 rust-glib-macros
-rust-glib-macros0.17
 rust-glib-macros0.18
 rust-glib-macros0.19
 rust-glib
 rust-glib-sys
-rust-glib-sys0.17
 rust-glib-sys0.18
 rust-glib-sys0.19
-rust-glib0.17
 rust-glib0.18
 rust-glib0.19
 rust-globset
@@ -15311,10 +15311,7 @@ rust-glutin_glx_sys
 rust-glutin
 rust-glycin
 rust-glycin-utils
-rust-glycin-utils1
-rust-glycin1
 rust-gobject-sys
-rust-gobject-sys0.17
 rust-gobject-sys0.18
 rust-gobject-sys0.19
 rust-goblin
@@ -15349,50 +15346,31 @@ rust-gsk4-sys0.7
 rust-gsk4-sys0.8
 rust-gsk4_0.7
 rust-gsk4_0.8
+rust-gst-plugin-dav1d
 rust-gst-plugin-gif
 rust-gst-plugin-gtk4
 rust-gst-plugin-reqwest
 rust-gst-plugin-version-helper
 rust-gstreamer-allocators
 rust-gstreamer-allocators-sys
-rust-gstreamer-allocators-sys0.22
-rust-gstreamer-allocators0.22
 rust-gstreamer-audio
 rust-gstreamer-audio-sys
-rust-gstreamer-audio-sys0.22
-rust-gstreamer-audio0.22
 rust-gstreamer-base
 rust-gstreamer-base-sys
-rust-gstreamer-base-sys0.22
-rust-gstreamer-base0.22
 rust-gstreamer-gl-egl
 rust-gstreamer-gl-egl-sys
-rust-gstreamer-gl-egl-sys0.22
-rust-gstreamer-gl-egl0.22
 rust-gstreamer-gl
 rust-gstreamer-gl-sys
-rust-gstreamer-gl-sys0.22
 rust-gstreamer-gl-wayland
 rust-gstreamer-gl-wayland-sys
-rust-gstreamer-gl-wayland-sys0.22
-rust-gstreamer-gl-wayland0.22
 rust-gstreamer-gl-x11
 rust-gstreamer-gl-x11-sys
-rust-gstreamer-gl-x11-sys0.22
-rust-gstreamer-gl-x11_0.22
-rust-gstreamer-gl0.22
 rust-gstreamer-pbutils
 rust-gstreamer-pbutils-sys
-rust-gstreamer-pbutils-sys0.22
-rust-gstreamer-pbutils0.22
 rust-gstreamer
 rust-gstreamer-sys
-rust-gstreamer-sys0.22
 rust-gstreamer-video
 rust-gstreamer-video-sys
-rust-gstreamer-video-sys0.22
-rust-gstreamer-video0.22
-rust-gstreamer0.22
 rust-gtk
 rust-gtk-sys
 rust-gtk3-macros
@@ -16072,10 +16050,8 @@ rust-pangocairo0.18
 rust-pangocairo0.19
 rust-pango
 rust-pango-sys
-rust-pango-sys0.17
 rust-pango-sys0.18
 rust-pango-sys0.19
-rust-pango0.17
 rust-pango0.18
 rust-pango0.19
 rust-papergrid
@@ -16153,7 +16129,6 @@ rust-pico-args
 rust-pid
 rust-pin-project-internal
 rust-pin-project-lite
-rust-pin-project-lite0.1
 rust-pin-project
 rust-pin-utils
 rust-piper
@@ -16213,7 +16188,6 @@ rust-predicates2
 rust-prefixdevname
 rust-pretty_assertions
 rust-pretty_assertions0.6
-rust-pretty_assertions0.7
 rust-pretty-bytes
 rust-pretty_env_logger
 rust-pretty_env_logger0.4
@@ -16645,11 +16619,9 @@ rust-serde_yaml
 rust-serde_yaml0.8
 rust-serial_test_derive
 rust-serial_test_derive0.5
-rust-serial_test_derive1
 rust-serial_test_derive2
 rust-serial_test
 rust-serial_test0.5
-rust-serial_test1
 rust-serial_test2
 rust-servo_arc
 rust-servo-fontconfig
@@ -16762,6 +16734,7 @@ rust-sqlx-macros-core
 rust-sqlx-macros
 rust-sqlx-mysql
 rust-sqlx-postgres
+rust-sqlx
 rust-sqlx-sqlite
 rust-sscanf_macro
 rust-sscanf
@@ -16881,6 +16854,7 @@ rust-terminal-light
 rust-terminal_size
 rust-terminal_size0.1
 rust-terminal_size0.2
+rust-terminal_size0.3
 rust-terminal-trx
 rust-terminfo
 rust-termini
@@ -16944,7 +16918,6 @@ rust-tl
 rust-tokei
 rust-tokio-io
 rust-tokio-macros
-rust-tokio-macros0.2
 rust-tokio-native-tls
 rust-tokio-openssl
 rust-tokio-retry
@@ -16968,7 +16941,6 @@ rust-toml_edit0.19
 rust-toml_edit0.20
 rust-toml-span
 rust-toml
-rust-toml0.4
 rust-toml0.5
 rust-toml0.7
 rust-tonic-build
@@ -17041,7 +17013,6 @@ rust-twofish
 rust-twoway
 rust-twox-hash
 rust-typed-arena
-rust-typed-arena1
 rust-typed-builder-macro
 rust-typed-builder
 rust-type-map
@@ -17089,6 +17060,7 @@ rust-unicode-properties
 rust-unicode-segmentation
 rust-unicode-truncate
 rust-unicode-width
+rust-unicode-width0.1
 rust-unicode-xid
 rust-unicode-xid0.1
 rust-unic-segment
@@ -17672,6 +17644,7 @@ skanpage
 ski
 skladnik
 skopeo
+skribilo
 skrooge
 skychart
 slang
@@ -18597,6 +18570,7 @@ wdt
 weasyprint
 webalizer
 webanalyze
+web-assets
 web-eid
 webkit2gtk4.0
 webp-pixbuf-loader
@@ -18640,6 +18614,7 @@ wiiuse
 wike
 wildcard
 wildmagic5
+wildmidi
 wimlib
 WindowMaker-extra
 WindowMaker
@@ -18674,6 +18649,7 @@ wlr-randr
 wlsunset
 wmacpi
 wmapmload
+wmbusmeters
 wmCalClock
 wmctrl
 wmdocker
@@ -18983,6 +18959,7 @@ x2godesktopsharing
 x2gokdriveclient
 x2gokdrive
 x2goserver
+x2gowswrapper
 x3270
 x509viewer
 x509watch
@@ -19003,6 +18980,7 @@ yascreen
 yash
 yasm
 yast2-devtools
+yast2-filesystem
 yawn
 yaz
 ydotool
