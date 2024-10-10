@@ -203,7 +203,6 @@ cyrus-sasl
 dblatex
 dbus
 dbus-broker
-dbus-glib
 dbus-python
 dconf
 dconf-editor
@@ -463,6 +462,7 @@ help2man
 hexedit
 hicolor-icon-theme
 highlight
+hiredis
 hivex
 hostapd
 hostname
@@ -733,7 +733,6 @@ jdepend
 jdependency
 jdom
 jdom2
-jemalloc
 jflex
 jitterentropy
 jna
@@ -1887,6 +1886,7 @@ python3.13
 pyusb
 pyxattr
 pyxdg
+qat-zstd-plugin
 qatengine
 qatlib
 qatzip
@@ -2000,6 +2000,7 @@ rust-bootupd
 rust-cargo-c
 rust-cbindgen
 rust-coreos-installer
+rust-gst-plugin-gtk4
 rust-prefixdevname
 rust-rpm-sequoia
 rust-sequoia-sq
@@ -2306,6 +2307,7 @@ xxhash
 xz
 xz-java
 yajl
+yara
 yelp-tools
 yelp-xsl
 yggdrasil

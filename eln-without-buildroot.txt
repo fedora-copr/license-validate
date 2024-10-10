@@ -173,7 +173,6 @@ cyrus-imapd
 cyrus-sasl
 dbus
 dbus-broker
-dbus-glib
 dbus-python
 dconf
 dconf-editor
@@ -408,6 +407,7 @@ hdparm
 help2man
 hexedit
 hicolor-icon-theme
+hiredis
 hivex
 hostapd
 hostname
@@ -659,7 +659,6 @@ jboss-logging
 jboss-logging-tools
 jdeparser
 jdepend
-jemalloc
 jitterentropy
 jna
 jomolhari-fonts
@@ -1567,6 +1566,7 @@ python-yubico
 python3.13
 pyusb
 pyxdg
+qat-zstd-plugin
 qatengine
 qatlib
 qatzip
@@ -1665,6 +1665,7 @@ rust
 rust-afterburn
 rust-bootupd
 rust-coreos-installer
+rust-gst-plugin-gtk4
 rust-prefixdevname
 rust-rpm-sequoia
 rust-sequoia-sq
@@ -1938,6 +1939,7 @@ xwayland-run
 xz
 xz-java
 yajl
+yara
 yggdrasil
 yggdrasil-worker-package-manager
 zaf

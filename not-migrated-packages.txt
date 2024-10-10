@@ -47,6 +47,7 @@ anka-coder-fonts
 ansible-bender
 ansible-collection-kubernetes-core
 ansible-collection-microsoft-sql
+ansible-collections-openstack
 antlrworks
 ants
 apache-commons-math
@@ -103,7 +104,6 @@ avoision
 awesome
 awesome-vim-colorschemes
 ax25-apps
-BackupPC-XS
 bacula
 badchars
 badvpn
@@ -126,7 +126,6 @@ beets
 beneath-a-steel-sky-cd
 beneath-a-steel-sky
 bgpq3
-biblesync
 bind-to-tinydns
 bio2jack
 bitcoin-core
@@ -153,7 +152,6 @@ bsd-games
 bsdiff
 bspwm
 bst-external
-btop
 btrfs-fuse
 btrfs-heatmap
 budgie-control-center
@@ -291,8 +289,6 @@ crossguid2
 crrcsim-addon-models
 cryptlib
 csmith
-csound
-csound
 cstream
 ctan-cm-lgc-fonts
 ctan-kerkis-fonts
@@ -341,7 +337,6 @@ dev86
 dhcpd-pools
 dhcping
 dicomanonymizer
-diffmark
 diff-pdf
 dionaea
 direnv
@@ -468,13 +463,11 @@ erlang-goldrush
 erlang-gtknode
 erlang-hyper
 erlang-chronos
-erlang-ibrowse
 erlang-idna
 erlang-jiffy
 erlang-jose
 erlang-jsx
 erlang-kvc
-erlang-log4erl
 erlang-mochiweb
 erlang-mustache
 erlang-neotoma
@@ -548,7 +541,6 @@ Field3D
 figlet
 figtoipe
 filebench
-filedrop
 firefox
 firewalk
 fishbowl
@@ -671,7 +663,6 @@ generic-logos
 genesis-simulator
 GeographicLib
 geomview
-gerrymander
 gflags
 gfs-ambrosia-fonts
 gfs-artemisia-fonts
@@ -835,7 +826,6 @@ golang-github-adrianmo-nmea
 golang-github-aead-chacha20
 golang-github-aead-poly1305
 golang-github-afex-hystrix
-golang-github-ajstarks-svgo
 golang-github-akamensky-argparse
 golang-github-akavel-rsrc
 golang-github-alecaivazis-survey-2
@@ -2110,7 +2100,6 @@ libdnf-plugin-txnupd
 libdockapp
 libdrm-armada
 libdsk
-libdvbpsi
 libeconf
 libecpint
 libefp
@@ -2694,7 +2683,6 @@ mypaint
 mysql-connector-net
 mysql-connector-odbc
 mysql-connector-python
-m2crypto
 nacl
 nanomsg
 nas
@@ -2787,7 +2775,6 @@ obs-service-rust2rpm
 ocaml-base64
 ocaml-cmdliner
 ocaml-curl
-ocaml-ocamlbuild
 ocaml-omake
 ocaml-sedlex
 ocaml-sha
@@ -2891,7 +2878,6 @@ pam_yubico
 parallel
 paratype-pt-mono-fonts
 paratype-pt-serif-fonts
-parsec-tool
 passivetex
 past-time
 pax
@@ -3199,7 +3185,6 @@ php-symfony-contracts
 php-symfony-contracts2
 php-symfony-polyfill
 php-symfony-requirements-checker
-php-symfony-security-acl
 php-symfony4
 php-theseer-fDOMDocument
 php-twig
@@ -3473,7 +3458,6 @@ python-boolean.py
 python-Bottleneck
 python-bottle
 python-bottle-sqlite
-python-boututils
 python-bowler
 python-box
 python-branca
@@ -3655,7 +3639,6 @@ python-exoscale
 python-factory-boy
 python-faker
 python-fauxquests
-python-fedmsg-meta-fedora-infrastructure
 python-fedora
 python-feedgenerator
 python-feedparser
@@ -3828,7 +3811,6 @@ python-klusta
 python-knack
 python-kombu
 python-korean-lunar-calendar
-python-k2hr3-osnl
 python-lazyarray
 python-lazy-ops
 python-ldappool
@@ -3961,6 +3943,7 @@ python-openpyxl
 python-opensensemap-api
 python-op1repacker
 python-op1svg
+python-oslo-context
 python-osrf-pycommon
 python-ouimeaux
 python-outdated
@@ -4096,7 +4079,6 @@ python-pysol-cards
 python-py
 python-pyspf
 python-pyspiflash
-python-pyswarms
 python-pytapo
 python-pytest-benchmark
 python-pytest-cache
@@ -4377,7 +4359,6 @@ python-waqiasync
 python-watchgod
 python-webencodings
 python-webob
-python-webpy
 python-webscrapbook
 python-webtest
 python-webthing-ws

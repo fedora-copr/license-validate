@@ -13,7 +13,6 @@ abi-tracker
 abiword
 abook
 abootimg
-abrt-java-connector
 abrt-server-info-page
 abrt
 abseil-cpp
@@ -177,7 +176,6 @@ ansible-collection-chocolatey-chocolatey
 ansible-collection-mdellweg-filters
 ansible-collection-netbox-netbox
 ansible-collection-pulp-pulp_installer
-ansible-collections-openstack
 ansible-core
 ansible-freeipa
 ansible-inventory-grapher
@@ -460,6 +458,7 @@ backintime
 backup-light
 backupninja
 BackupPC
+BackupPC-XS
 baekmuk-bdf-fonts
 baekmuk-ttf-fonts
 ballbuster
@@ -519,6 +518,7 @@ bfs
 bgpq4
 bchunk
 biber
+biblesync
 bibletime
 BibTool
 bibutils
@@ -640,6 +640,7 @@ bsf
 bsh
 bsp
 btbuilder
+btop
 btrbk
 btrfs-assistant
 btrfs-backup-ng
@@ -731,6 +732,7 @@ cantata
 cantoolz
 cantor
 capstone
+capypdf
 carat
 cargo2rpm
 Carla
@@ -1226,6 +1228,7 @@ deepin-gettext-tools
 deepin-gir-generator
 deepin-gtk-theme
 deepin-icon-theme
+deepin-image-editor
 deepin-image-viewer
 deepin-kwin
 deepin-launcher
@@ -1298,6 +1301,7 @@ diction
 did
 dieharder
 dietlibc
+diffmark
 diffoscope
 diffpdf
 diff-so-fancy
@@ -1652,10 +1656,12 @@ erlang-gun
 erlang-hamcrest
 erlang-hex_core
 erlang-hut
+erlang-ibrowse
 erlang-iconv
 erlang-js
 erlang-lager
 erlang-lfe
+erlang-log4erl
 erlang-lucene_parser
 erlang-luerl
 erlang-meck
@@ -1813,7 +1819,6 @@ fdupes
 featherpad
 feather
 fedfind
-fedmsg
 fedora-autofirstboot
 fedora-bookmarks
 fedora-business-cards
@@ -1866,6 +1871,7 @@ fftw2
 fido-device-onboard
 fielding
 fig2ps
+filedrop
 filelight
 file-roller
 file
@@ -2247,7 +2253,6 @@ gdouros-symbola-fonts
 gd
 geany-plugins
 gearhead2
-gearmand
 gedit-color-schemes
 gedit-control-your-tabs
 gedit-latex
@@ -2276,6 +2281,7 @@ geomorph
 geos
 gerbera
 gerbv
+gerrymander
 getdata
 getdns
 getdp
@@ -2388,7 +2394,6 @@ ghc-crypto-cipher-types
 ghc-cryptohash-md5
 ghc-cryptohash-sha1
 ghc-cryptohash-sha256
-ghc-cryptohash
 ghc-crypton-connection
 ghc-cryptonite-conduit
 ghc-cryptonite
@@ -4229,7 +4234,6 @@ guidelines-support-library
 guichan
 guile-gnutls
 guile-reader
-guile
 guile22
 guilt
 guitone
@@ -5559,6 +5563,7 @@ libdmx
 libdnf
 libdrm
 libdstr
+libdvbpsi
 libdvdnav
 libdvdread
 libdv
@@ -7306,6 +7311,7 @@ ocaml-mtime
 ocaml-mysql
 ocaml-num
 ocaml-obuild
+ocaml-ocamlbuild
 ocaml-ocamlgraph
 ocaml-ocamlnet
 ocaml-ocp-indent
@@ -7683,6 +7689,7 @@ parlaylib
 parley
 parole
 parsec
+parsec-tool
 parserng
 parsero
 parsertl17
@@ -11478,6 +11485,7 @@ python-botocore
 python-boto
 python-boto3
 python-boutdata
+python-boututils
 python-boxsdk
 python-bracex
 python-bravado-core
@@ -12309,14 +12317,11 @@ python-os-client-config
 python-oscrypto
 python-oslo-concurrency
 python-oslo-config
-python-oslo-context
 python-oslo-i18n
 python-oslo-log
-python-oslo-messaging
 python-oslo-metrics
 python-oslo-middleware
 python-oslo-serialization
-python-oslo-service
 python-oslotest
 python-oslo-utils
 python-os-service-types
@@ -12826,6 +12831,7 @@ python-smbpasswd
 python-smmap
 python-snakemake-executor-plugin-cluster-generic
 python-snakemake-executor-plugin-cluster-sync
+python-snakemake-executor-plugin-flux
 python-snakemake-executor-plugin-kubernetes
 python-snakemake-executor-plugin-slurm-jobstep
 python-snakemake-executor-plugin-slurm
@@ -12999,6 +13005,7 @@ python-torchvision
 python-tornado
 python-tosca-parser
 python-tox
+python-tox-uv
 python-tpm2-pytss
 python-trailrunner
 python-traitlets
@@ -13116,6 +13123,7 @@ python-wsgidav
 python-wxnatpy
 python-wxpython4
 python-w3lib
+python-xapian-haystack
 python-xarray-einstats
 python-xarray
 python-xattr
@@ -13299,7 +13307,6 @@ qtpass
 qtractor
 qtscriptgenerator
 qtspell
-qt-virt-manager
 qtwaifu2x
 qtxdg-tools
 qtzeroconf
@@ -14388,6 +14395,7 @@ rust-argmax
 rust-argon2
 rust-argparse
 rust-archery
+rust-ariadne
 rust-array-init
 rust-arrayref
 rust-arrayvec
@@ -14578,7 +14586,9 @@ rust-bumpalo
 rust-bwrap
 rust-bytecount
 rust-bytecheck_derive
+rust-bytecheck_derive0.6
 rust-bytecheck
+rust-bytecheck0.6
 rust-bytelines
 rust-bytemuck_derive
 rust-bytemuck
@@ -14650,6 +14660,7 @@ rust-cast5
 rust-cbc
 rust-cbindgen
 rust-cbindgen0.24
+rust-cbindgen0.26
 rust-cc
 rust-cdylib-link-lines
 rust-cedarwood
@@ -15429,6 +15440,7 @@ rust-hickory-client
 rust-hickory-proto
 rust-hickory-resolver
 rust-hidapi
+rust-hidpipe
 rust-histo
 rust-hkdf
 rust-hmac-sha512
@@ -15492,7 +15504,6 @@ rust-iana-time-zone
 rust-idea
 rust-ident_case
 rust-idna
-rust-idna0.1
 rust-idna0.2
 rust-idna0.3
 rust-idna0.4
@@ -15532,6 +15543,8 @@ rust-inout
 rust-input_buffer
 rust-input-linux
 rust-input-linux-sys
+rust-input-linux-sys0.8
+rust-input-linux0.6
 rust-input
 rust-input-sys
 rust-instability
@@ -15843,7 +15856,6 @@ rust-mint
 rust-minus
 rust-mio-extras
 rust-mio
-rust-mio-uds
 rust-mio0.6
 rust-mio0.7
 rust-mio0.8
@@ -15863,6 +15875,7 @@ rust-multer
 rust-multer2
 rust-multimap
 rust-munge_macro
+rust-munge
 rust-mutate_once
 rust-muvm
 rust-nalgebra-macros
@@ -16234,7 +16247,6 @@ rust-prometheus-client
 rust-prometheus_exporter
 rust-prometheus
 rust-proptest-derive
-rust-proptest-derive0.3
 rust-proptest-derive0.4
 rust-proptest-macro
 rust-proptest
@@ -16256,7 +16268,9 @@ rust-psl
 rust-psl-types
 rust-psm
 rust-ptr_meta_derive
+rust-ptr_meta_derive0.1
 rust-ptr_meta
+rust-ptr_meta0.1
 rust-ptyprocess
 rust-publicsuffix
 rust-pulldown-cmark-escape
@@ -16316,10 +16330,10 @@ rust-quinn-udp
 rust-quoted_printable
 rust-quote
 rust-quote0.3
-rust-quote0.6
 rust-radium
 rust-radix-heap
 rust-radix_trie
+rust-rancor
 rust-rand_core
 rust-rand_core0.3
 rust-rand_core0.4
@@ -16408,6 +16422,7 @@ rust-remoteprocess
 rust-remove_dir_all
 rust-remove_dir_all0.7
 rust-rend
+rust-rend0.4
 rust-reqwest-middleware
 rust-reqwest-retry
 rust-reqwest
@@ -16431,7 +16446,9 @@ rust-rio
 rust-ripemd
 rust-ripgrep
 rust-rkyv_derive
+rust-rkyv_derive0.7
 rust-rkyv
+rust-rkyv0.7
 rust-rle-decode-fast
 rust-rlimit
 rust-rmp-serde
@@ -16490,6 +16507,7 @@ rust-rustix
 rust-rustix0.37
 rust-rustls-native-certs
 rust-rustls-native-certs0.6
+rust-rustls-native-certs0.7
 rust-rustls-pemfile
 rust-rustls-pemfile1
 rust-rustls-pki-types
@@ -16557,7 +16575,6 @@ rust-self_cell
 rust-selinux
 rust-selinux-sys
 rust-semver-parser
-rust-semver-parser0.9
 rust-semver
 rust-semver0.11
 rust-send_wrapper
@@ -16775,9 +16792,7 @@ rust-str_stack
 rust-struct-field-names-as-array-derive
 rust-struct-field-names-as-array
 rust-structopt-derive
-rust-structopt-derive0.2
 rust-structopt
-rust-structopt0.2
 rust-struct-patch-derive
 rust-struct-patch
 rust-strum_macros
@@ -16816,7 +16831,6 @@ rust-synstructure
 rust-synstructure0.12
 rust-syntect
 rust-syntect4
-rust-syn0.15
 rust-syn1
 rust-sys-info
 rust-sysinfo
@@ -16873,7 +16887,6 @@ rust-test-case-core
 rust-test-case-macros
 rust-test-case
 rust-tester
-rust-test-generator
 rust-testing_logger
 rust-test-log-macros
 rust-test-log
@@ -17024,6 +17037,7 @@ rust-ubyte
 rust-ucd-parse
 rust-ucd-trie
 rust-udev
+rust-udev0.7
 rust-uefi-run
 rust-ufmt-write
 rust-ulid
@@ -17086,7 +17100,6 @@ rust-urid
 rust-uriparse
 rust-urlencoding
 rust-url
-rust-url1
 rust-usb-ids
 rust-userfaultfd
 rust-userfaultfd-sys
@@ -17198,7 +17211,6 @@ rust-version-compare0.1
 rust-version_check
 rust-version
 rust-version-sync
-rust-version-sync0.8
 rust-version-track
 rust-v_frame
 rust-vhost-device-scmi
@@ -17270,6 +17282,7 @@ rust-winit
 rust-winnow
 rust-winnow0.5
 rust-wl-clipboard-rs
+rust-wl-nl80211
 rust-wmidi
 rust-wu-diff
 rust-wyz
