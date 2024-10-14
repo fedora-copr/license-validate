@@ -823,6 +823,7 @@ butt
 bvi
 bwa
 bwbar
+bwbasic
 bwidget
 bwm-ng
 bwping
@@ -18635,7 +18636,6 @@ rust-alloc-no-stdlib
 rust-alloc-stdlib
 rust-alsa
 rust-ammonia
-rust-anes
 rust-annotate-snippets
 rust-annotate-snippets0.10
 rust-annotate-snippets0.6
@@ -18678,7 +18678,6 @@ rust-argmax
 rust-argon2
 rust-archery
 rust-ariadne
-rust-array-init
 rust-arrayref
 rust-arrayvec
 rust-arrayvec0.5
@@ -18695,7 +18694,6 @@ rust-askalono
 rust-askama_derive
 rust-askama_escape
 rust-askama_parser
-rust-askama_shared
 rust-askama
 rust-asn1_derive
 rust-asn1
@@ -18740,10 +18738,8 @@ rust-atoi
 rust-atomic-polyfill
 rust-atomic_refcell
 rust-atomic
-rust-atomic-traits
 rust-atomic-waker
 rust-atomic0.5
-rust-atom
 rust-autocfg
 rust-automod
 rust-av-data
@@ -18764,7 +18760,6 @@ rust-backoff
 rust-backtrace-ext
 rust-backtrace
 rust-bankstown-lv2
-rust-base-x
 rust-base16ct
 rust-base32
 rust-base64ct
@@ -18846,13 +18841,13 @@ rust-btoi
 rust-btrd
 rust-buffered-reader
 rust-buf-min
-rust-bufstream
 rust-bugreport
 rust-build-context
 rust-build-fs-tree
 rust-build_html
 rust-built
 rust-bumpalo
+rust-busd
 rust-bwrap
 rust-bytecount
 rust-bytecheck_derive0.6
@@ -18875,7 +18870,6 @@ rust-cachedir
 rust-cached_proc_macro
 rust-cached_proc_macro_types
 rust-cached
-rust-cache-padded
 rust-cairo-rs0.18
 rust-cairo-rs0.19
 rust-cairo-sys-rs0.18
@@ -18887,7 +18881,6 @@ rust-camellia
 rust-camino
 rust-capng
 rust-capnpc
-rust-cap
 rust-caps
 rust-captur
 rust-cargo-config2
@@ -18993,7 +18986,6 @@ rust-configparser
 rust-configparser2
 rust-config
 rust-confy
-rust-conhash
 rust-constant_time_eq
 rust-const-cstr
 rust-const_fn
@@ -19031,7 +19023,6 @@ rust-crc
 rust-crc16
 rust-crc32fast
 rust-crc64
-rust-criterion-plot
 rust-critical-section
 rust-crossbeam-deque
 rust-crossbeam-deque0.7
@@ -19069,7 +19060,6 @@ rust-cstr
 rust-csv-core
 rust-csv
 rust-ct-codecs
-rust-ct-logs
 rust-ctor
 rust-ctor0.1
 rust-ctrlc
@@ -19085,7 +19075,6 @@ rust-cursive0.16
 rust-cursor-icon
 rust-curve25519-dalek-derive
 rust-curve25519-dalek
-rust-custom_error
 rust-cvss
 rust-cvt
 rust-cxxbridge-flags
@@ -19118,7 +19107,6 @@ rust-deflate
 rust-deflate0.8
 rust-deflate64
 rust-defmac
-rust-deltae
 rust-deranged
 rust-der_derive
 rust-der_derive0.4
@@ -19177,7 +19165,6 @@ rust-dolby_vision
 rust-domain
 rust-dotenvy
 rust-downcast-rs
-rust-drain
 rust-drm-ffi
 rust-drm-fourcc
 rust-drm
@@ -19213,7 +19200,6 @@ rust-eif_build
 rust-either
 rust-elf
 rust-elliptic-curve
-rust-email-encoding
 rust-ena
 rust-encode_unicode
 rust-encoding_rs_io
@@ -19259,7 +19245,6 @@ rust-err-derive
 rust-errno
 rust-errno0.2
 rust-error-chain
-rust-escape_string
 rust-escape8259
 rust-escargot
 rust-etcetera
@@ -19273,13 +19258,11 @@ rust-exacl
 rust-executable-path
 rust-exhaustigen
 rust-exitcode
-rust-exitfailure
 rust-expect-test
 rust-exr
 rust-extreme
 rust-eyre
 rust-eza
-rust-fail
 rust-failure_derive
 rust-failure
 rust-fake
@@ -19380,7 +19363,6 @@ rust-gdk4-x11-sys
 rust-gdk4_0.7
 rust-gdk4_0.8
 rust-gethostname
-rust-gethostname0.2
 rust-getch
 rust-getopts
 rust-getrandom
@@ -19472,7 +19454,6 @@ rust-glutin_glx_sys
 rust-glutin
 rust-glycin
 rust-glycin-utils
-rust-gmp-mpfr-sys
 rust-gobject-sys0.18
 rust-gobject-sys0.19
 rust-goblin0.5
@@ -19592,7 +19573,6 @@ rust-human-date-parser
 rust-human_format
 rust-human-panic
 rust-humansize
-rust-humansize1
 rust-humantime-serde
 rust-humantime
 rust-humantime1
@@ -19691,7 +19671,6 @@ rust-is-docker
 rust-is_executable
 rust-is-macro
 rust-is-wsl
-rust-itertools-num
 rust-itertools
 rust-itertools0.10
 rust-itertools0.11
@@ -19753,7 +19732,6 @@ rust-lcms2
 rust-lcms2-sys
 rust-lddtree
 rust-lebe
-rust-leb128
 rust-lexical-core
 rust-lexical-parse-float
 rust-lexical-parse-integer
@@ -19800,14 +19778,11 @@ rust-liboci-cli
 rust-liboverdrop
 rust-libpanel
 rust-libpanel-sys
-rust-libpulse-binding
-rust-libpulse-sys
 rust-librsvg-rebind
 rust-librsvg-rebind-sys
 rust-librsvg
 rust-libseccomp
 rust-libseccomp-sys
-rust-libsodium-sys
 rust-libspa-sys0.7
 rust-libspa0.7
 rust-libsqlite3-sys0.25
@@ -19892,7 +19867,6 @@ rust-md5-asm
 rust-md-5
 rust-md5
 rust-md-5_0.9
-rust-memcached-rs
 rust-memfd
 rust-memchr
 rust-memmap
@@ -19944,8 +19918,8 @@ rust-nasm-rs
 rust-native-tls
 rust-navi
 rust-nb-connect
+rust-ndarray
 rust-netmap_sys
-rust-netstat2
 rust-nettle
 rust-nettle-sys
 rust-net2
@@ -20033,7 +20007,6 @@ rust-onenote_parser
 rust-oo7-cli
 rust-oo7
 rust-opaque-debug
-rust-openat-ext
 rust-openat
 rust-opener
 rust-openpgp-cert-d
@@ -20091,7 +20064,6 @@ rust-path-clean
 rust-pathdiff
 rust-pathfinder_geometry
 rust-pathfinder_simd
-rust-pathsearch
 rust-pbkdf2
 rust-pcap
 rust-pcg-mwc
@@ -20108,10 +20080,8 @@ rust-pem-rfc7468
 rust-pem-rfc7468_0.2
 rust-pem2
 rust-pep440_rs
-rust-pep440
 rust-pep508_rs
 rust-percent-encoding
-rust-percent-encoding1
 rust-permutohedron
 rust-pest_derive
 rust-pest_generator
@@ -20161,7 +20131,6 @@ rust-portable-atomic-util0.1
 rust-portpicker
 rust-powerfmt-macros
 rust-powerfmt
-rust-powierza-coefficient
 rust-ppv-lite86
 rust-pq-sys
 rust-predicates-core
@@ -20190,7 +20159,6 @@ rust-print-positions
 rust-priority-queue
 rust-privdrop
 rust-probe
-rust-process_control
 rust-procfs-core
 rust-procfs
 rust-procfs0.12
@@ -20205,7 +20173,6 @@ rust-proc-macro-error
 rust-proc-macro-hack
 rust-proc-macro2-diagnostics
 rust-proc-macro2
-rust-proc-macro2-0.4
 rust-prodash
 rust-progpool
 rust-prometheus-client-derive-encode
@@ -20232,12 +20199,10 @@ rust-psl-types
 rust-psm
 rust-ptr_meta_derive0.1
 rust-ptr_meta0.1
-rust-ptyprocess
 rust-publicsuffix
 rust-pulldown-cmark-escape
 rust-pulldown-cmark0.8
 rust-pulldown-cmark0.9
-rust-pulse
 rust-punycode
 rust-pure-rust-locales
 rust-pwd
@@ -20301,9 +20266,6 @@ rust-rand_isaac
 rust-rand_isaac0.1
 rust-rand_jitter
 rust-rand_jitter0.1
-rust-random-fast-rng
-rust-random
-rust-random-trait
 rust-rand_os
 rust-rand_os0.1
 rust-rand_pcg
@@ -20333,7 +20295,6 @@ rust-rayon
 rust-rbw
 rust-rcgen
 rust-rctree
-rust-rctree0.5
 rust-rc2
 rust-rd-agent-intf
 rust-rd-agent
@@ -20517,7 +20478,6 @@ rust-sequoia-sqv
 rust-sequoia-wot
 rust-serde-big-array
 rust-serde-big-array0.4
-rust-serde_bser
 rust-serde_buf
 rust-serde_bytes
 rust-serde_cbor
@@ -20584,7 +20544,6 @@ rust-signal-hook-registry
 rust-signal-hook
 rust-signal-hook-tokio
 rust-signal-hook0.1
-rust-signal
 rust-signature_derive
 rust-signature
 rust-simba
@@ -20686,7 +20645,6 @@ rust-struct-patch
 rust-strum_macros0.24
 rust-strum_macros0.25
 rust-strum0.25
-rust-subprocess
 rust-subtle
 rust-sudo
 rust-suggest
@@ -20707,7 +20665,6 @@ rust-sval_serde
 rust-sval
 rust-sval_test
 rust-svg
-rust-svgtypes
 rust-symlink
 rust-sync_wrapper
 rust-syn
@@ -20721,7 +20678,6 @@ rust-system-deps6
 rust-szip
 rust-tabled_derive
 rust-tabled
-rust-tabular
 rust-tabwriter
 rust-tame-index
 rust-target-lexicon
@@ -20769,7 +20725,6 @@ rust-thread_local
 rust-threadpool
 rust-thread-tree
 rust-timeago
-rust-timebomb
 rust-time-core
 rust-time-humanize
 rust-time-macros-impl
@@ -20786,7 +20741,6 @@ rust-tiny-keccak
 rust-tiny-skia-path
 rust-tiny-skia
 rust-tinystr
-rust-tinytemplate
 rust-tinyvec_macros
 rust-tinyvec
 rust-titlecase
@@ -20814,7 +20768,9 @@ rust-tonic
 rust-tonic-types
 rust-topological-sort
 rust-tower-http
+rust-tower-http0.5
 rust-tower
+rust-tower0.4
 rust-tpm2-policy
 rust-tracing-appender
 rust-tracing-error
@@ -20840,9 +20796,6 @@ rust-tree-sitter0.20
 rust-triomphe
 rust-trust-dns-client
 rust-trust-dns-proto
-rust-trust-dns-recursor
-rust-trust-dns-resolver
-rust-trust-dns-server
 rust-trybuild
 rust-trybuild2
 rust-trycmd
@@ -20855,9 +20808,9 @@ rust-tui-textarea
 rust-tungstenite
 rust-two-face
 rust-twofish
-rust-twoway
 rust-typed-builder-macro
 rust-typed-builder
+rust-typeid
 rust-type-map
 rust-typenum
 rust-typetag-impl
@@ -20873,7 +20826,6 @@ rust-ulid
 rust-uluru
 rust-unarray
 rust-uncased
-rust-unchecked-index
 rust-unicase_serde
 rust-unicase
 rust-unic-common
@@ -20903,7 +20855,6 @@ rust-unicode-truncate
 rust-unicode-width
 rust-unicode-width0.1
 rust-unicode-xid
-rust-unicode-xid0.1
 rust-unic-segment
 rust-unic-ucd-category
 rust-unic-ucd-common
@@ -21070,10 +21021,6 @@ rust-webpki-roots
 rust-webpki-roots0.25
 rust-web-time
 rust-weezl
-rust-wezterm-bidi
-rust-wezterm-color-types
-rust-wezterm-dynamic-derive
-rust-wezterm-dynamic
 rust-which4
 rust-whoami
 rust-wide
@@ -21136,8 +21083,6 @@ rust-zeroize
 rust-zerovec-derive
 rust-zerovec
 rust-zincati
-rust-zmq
-rust-zmq-sys
 rust-zopfli
 rust-zstd-safe
 rust-zstd-safe6
@@ -22162,6 +22107,7 @@ tinygo
 tinyobjloader
 tinyows
 tinyproxy
+tinysparql
 tinyxml
 tinyxml2
 tinyxpath

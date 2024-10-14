@@ -30,9 +30,7 @@ golang-gopkg-yaml-1  mikelo2
 google-roboto-mono-fonts linkdupont
 gstreamer1-doc       wtaymans
 guayadeque           martinkg
-hibernate-jpa-2.0-api jjelen
 hydra                rcallicotte rebus
-iucode-tool          duck puiterwijk
 jbosscache-support   orphan
 jsmath-fonts         rdieter
 julia                nalimilan
@@ -83,7 +81,6 @@ rubygem-rdoc         vondruch
 rubygem-xmlparser    schwicke
 rust-askalono-cli    decathorpe
 rust-dutree          kalev
-rust-gmp-mpfr-sys    dcavalca
 rust-nettle          decathorpe
 rust-nettle-sys      decathorpe
 rust-rpick           bowlofeggs
@@ -107,12 +104,10 @@ bskeggs    kernel
 catanzaro  webkitgtk
 chedi      python-traitsui
 churchyard pypy pypy3.10 pypy3.9
-dcavalca   rust-gmp-mpfr-sys
 deamn      openjfx
 decathorpe rust-askalono-cli rust-nettle rust-nettle-sys rust-ybaas rust-yubibomb
 dhowells   cross-binutils
 dtimms     ogre
-duck       iucode-tool
 eclipseo   clementine golang-gopkg-retry-1
 fjanus     mariadb10.11
 hhorak     mariadb10.11
@@ -125,7 +120,6 @@ jchaloup   fltk
 jcline     kernel
 jforbes    kernel
 jgrulich   kf5-bluez-qt kf5-kdeclarative kf5-krunner kf5-threadweaver
-jjelen     hibernate-jpa-2.0-api
 jkastner   gmsh
 jkucera    kf5-libkleo
 jnovy      texlive
@@ -167,7 +161,6 @@ patrickt   kernel
 pemensik   bmake
 petersen   ghc-hxt-unicode ghc-monad-loops ghc-polyparse ghc-tf-random
 phracek    fltk
-puiterwijk iucode-tool
 quintela   kernel
 qulogic    ghc-http-client
 rathann    libva-intel-hybrid-driver

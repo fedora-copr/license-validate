@@ -16526,7 +16526,6 @@ rust-argh_derive
 rust-argh_shared
 rust-argh
 rust-argmax
-rust-array-init
 rust-arrayref
 rust-arrayvec
 rust-arrayvec0.5
@@ -16536,7 +16535,6 @@ rust-askalono-cli
 rust-askalono
 rust-askama_derive
 rust-askama_escape
-rust-askama_shared
 rust-askama
 rust-asn1_derive
 rust-asn1
@@ -16557,9 +16555,7 @@ rust-async-std
 rust-async-task
 rust-async-trait
 rust-atomic
-rust-atomic-traits
 rust-atomic-waker
-rust-atom
 rust-autocfg
 rust-automod
 rust-average
@@ -16608,7 +16604,6 @@ rust-bstr
 rust-btrd
 rust-buffered-reader
 rust-buf-min
-rust-bufstream
 rust-bugreport
 rust-bumpalo
 rust-bytecount
@@ -16621,7 +16616,6 @@ rust-bytesize
 rust-bytestring
 rust-bzip2
 rust-bzip2-sys
-rust-cache-padded
 rust-camino
 rust-capng
 rust-caps
@@ -16665,7 +16659,6 @@ rust-concurrent-queue
 rust-configparser
 rust-config
 rust-confy
-rust-conhash
 rust-constant_time_eq
 rust-const-cstr
 rust-const_fn
@@ -16687,7 +16680,6 @@ rust-crc-any
 rust-crc-catalog
 rust-crc
 rust-crc32fast
-rust-criterion-plot
 rust-crossbeam-deque
 rust-crossbeam-deque0.7
 rust-crossbeam-epoch
@@ -16710,7 +16702,6 @@ rust-cssparser-macros
 rust-cssparser
 rust-csv-core
 rust-csv
-rust-ct-logs
 rust-ctor
 rust-ctrlc
 rust-ctr
@@ -16718,7 +16709,6 @@ rust-ctr0.8
 rust-cty
 rust-cursive-tabs
 rust-curve25519-dalek
-rust-custom_error
 rust-cxxbridge-flags
 rust-cxxbridge-macro
 rust-cxx-build
@@ -16782,7 +16772,6 @@ rust-edit-distance
 rust-edit
 rust-either
 rust-elf
-rust-email-encoding
 rust-ena
 rust-encode_unicode
 rust-encoding_rs_io
@@ -16810,15 +16799,12 @@ rust-erased-serde
 rust-err-derive
 rust-errno
 rust-error-chain
-rust-escape_string
 rust-escargot
 rust-euclid
 rust-event-listener
 rust-executable-path
 rust-exitcode
-rust-exitfailure
 rust-eyre
-rust-fail
 rust-failure_derive
 rust-failure
 rust-fake
@@ -16892,7 +16878,6 @@ rust-glob
 rust-glutin_egl_sys
 rust-glutin_glx_sys
 rust-glutin
-rust-gmp-mpfr-sys
 rust-gptman
 rust-greetd_ipc
 rust-grep-cli
@@ -16975,7 +16960,6 @@ rust-ipnetwork
 rust-ipnetwork0.17
 rust-is_debug
 rust-is_executable
-rust-itertools-num
 rust-itertools
 rust-itertools0.8
 rust-itoa
@@ -16997,7 +16981,6 @@ rust-lalrpop-util
 rust-language-tags
 rust-lazycell
 rust-lazy_static
-rust-leb128
 rust-lexical-core
 rust-lexiclean
 rust-libblkid-rs
@@ -17015,8 +16998,6 @@ rust-libgit2-sys
 rust-libmount
 rust-libm
 rust-liboverdrop
-rust-libpulse-binding
-rust-libpulse-sys
 rust-libseccomp-sys
 rust-libssh2-sys
 rust-libsystemd
@@ -17053,7 +17034,6 @@ rust-mbrman
 rust-md-5
 rust-md5
 rust-md-5_0.9
-rust-memcached-rs
 rust-memfd
 rust-memchr
 rust-memmap
@@ -17108,7 +17088,6 @@ rust-object
 rust-oid
 rust-once_cell
 rust-opaque-debug
-rust-openat-ext
 rust-openat
 rust-opener
 rust-openssh-keys
@@ -17148,7 +17127,6 @@ rust-pcre2-sys
 rust-peeking_take_while
 rust-pem-rfc7468
 rust-percent-encoding
-rust-percent-encoding1
 rust-permutohedron
 rust-pest_derive
 rust-pest_generator
@@ -17196,7 +17174,6 @@ rust-proc-macro-error-attr
 rust-proc-macro-error
 rust-proc-macro-hack
 rust-proc-macro2
-rust-proc-macro2-0.4
 rust-prometheus
 rust-proptest-derive
 rust-proptest
@@ -17210,7 +17187,6 @@ rust-psa-crypto-sys
 rust-psl-types
 rust-psm
 rust-publicsuffix
-rust-pulse
 rust-pure-rust-locales
 rust-pwd
 rust-pyo3-build-config
@@ -17238,9 +17214,6 @@ rust-rand_isaac
 rust-rand_isaac0.1
 rust-rand_jitter
 rust-rand_jitter0.1
-rust-random-fast-rng
-rust-random
-rust-random-trait
 rust-rand_os
 rust-rand_os0.1
 rust-rand_pcg
@@ -17332,7 +17305,6 @@ rust-sequoia-sop
 rust-sequoia-sq
 rust-sequoia-sqv
 rust-serde-big-array
-rust-serde_bser
 rust-serde_bytes
 rust-serde_cbor
 rust-serde_derive_internals
@@ -17371,7 +17343,6 @@ rust-signal-hook-mio
 rust-signal-hook-registry
 rust-signal-hook
 rust-signal-hook0.1
-rust-signal
 rust-signature
 rust-simba
 rust-simdutf8
@@ -17412,7 +17383,6 @@ rust-strip-ansi-escapes
 rust-str_stack
 rust-structopt-derive
 rust-structopt
-rust-subprocess
 rust-subtle
 rust-supports-color
 rust-supports-hyperlinks
@@ -17421,11 +17391,9 @@ rust-sval_derive
 rust-sval_json
 rust-sval
 rust-svg
-rust-svgtypes
 rust-syn
 rust-sys-locale
 rust-system-deps
-rust-tabular
 rust-tabwriter
 rust-target-lexicon
 rust-target
@@ -17449,7 +17417,6 @@ rust-thread-id
 rust-thread_local
 rust-threadpool
 rust-thread-tree
-rust-timebomb
 rust-time-macros-impl
 rust-time-macros
 rust-time-macros0.1
@@ -17461,7 +17428,6 @@ rust-tiny_http
 rust-tiny-keccak
 rust-tiny-skia
 rust-tinystr
-rust-tinytemplate
 rust-tinyvec_macros
 rust-tinyvec
 rust-tokei
@@ -17472,13 +17438,11 @@ rust-toml
 rust-tpm2-policy
 rust-tree-sitter
 rust-trust-dns-proto
-rust-trust-dns-resolver
 rust-trybuild
 rust-tss-esapi
 rust-tss-esapi-sys
 rust-ttf-parser
 rust-tungstenite
-rust-twoway
 rust-typed-builder
 rust-type-map
 rust-typenum
@@ -17488,7 +17452,6 @@ rust-ubyte
 rust-ucd-parse
 rust-ucd-trie
 rust-uncased
-rust-unchecked-index
 rust-unicase
 rust-unic-common
 rust-unic-char-property
@@ -17510,7 +17473,6 @@ rust-unicode-segmentation
 rust-unicode-truncate
 rust-unicode-width
 rust-unicode-xid
-rust-unicode-xid0.1
 rust-unic-segment
 rust-unic-ucd-category
 rust-unic-ucd-common
@@ -17577,8 +17539,6 @@ rust-zbase32
 rust-zeroize_derive
 rust-zeroize
 rust-zincati
-rust-zmq
-rust-zmq-sys
 rust-zopfli
 rust-zstd-safe
 rust-zstd-sys
