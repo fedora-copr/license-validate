@@ -63,6 +63,7 @@ man-pages-ja         tagoh
 man-pages-l10n       ljavorsk mfabian nforro
 man2html             orion patches sergiomb
 mariadb10.11         fjanus hhorak ljavorsk mschorm zmiklank
+mozilla-privacy-badger rathann
 mxml                 kevin
 net-snmp             jridky jsafrane zdohnal
 nikto                huzaifas rebus
@@ -71,8 +72,8 @@ ogre                 dtimms ignatenkobrain sergiomb
 opendkim             mdomsch
 opendmarc            kevin
 openjfx              deamn
+pax-utils            rathann
 pypy                 churchyard thrnciar
-pypy3.10             churchyard
 pypy3.9              churchyard thrnciar
 python-traitsui      chedi ignatenkobrain orion
 python-utmp          jpopelka tuju
@@ -103,7 +104,7 @@ branto     ceph
 bskeggs    kernel
 catanzaro  webkitgtk
 chedi      python-traitsui
-churchyard pypy pypy3.10 pypy3.9
+churchyard pypy pypy3.9
 deamn      openjfx
 decathorpe rust-askalono-cli rust-nettle rust-nettle-sys rust-ybaas rust-yubibomb
 dhowells   cross-binutils
@@ -163,7 +164,7 @@ petersen   ghc-hxt-unicode ghc-monad-loops ghc-polyparse ghc-tf-random
 phracek    fltk
 quintela   kernel
 qulogic    ghc-http-client
-rathann    libva-intel-hybrid-driver
+rathann    libva-intel-hybrid-driver mozilla-privacy-badger pax-utils
 rcallicotte hydra
 rdieter    fltk jsmath-fonts kf5-bluez-qt kf5-kcalendarcore kf5-kdeclarative kf5-kholidays kf5-kirigami2 kf5-krunner kf5-libkleo kf5-threadweaver kscreen lyx
 rebus      hydra nikto
