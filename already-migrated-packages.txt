@@ -58,6 +58,7 @@ adobe-source-han-serif-cn-fonts
 adobe-source-han-serif-jp-fonts
 adobe-source-han-serif-kr-fonts
 adobe-source-han-serif-tw-fonts
+adoptium-temurin-java-repository
 advancecomp
 adwaita-icon-theme-legacy
 adwaita-icon-theme
@@ -160,6 +161,7 @@ ansible-builder
 ansible-collection-ansible-netcommon
 ansible-collection-ansible-posix
 ansible-collection-ansible-utils
+ansible-collection-ansible-windows
 ansible-collection-awx-awx
 ansible-collection-community-crypto
 ansible-collection-community-docker
@@ -172,6 +174,7 @@ ansible-collection-community-mysql
 ansible-collection-community-postgresql
 ansible-collection-community-rabbitmq
 ansible-collection-containers-podman
+ansible-collection-dellemc-openmanage
 ansible-collection-chocolatey-chocolatey
 ansible-collection-mdellweg-filters
 ansible-collection-netbox-netbox
@@ -838,6 +841,7 @@ clawsker
 claws-mail
 clazy
 clblast
+clc
 cldr-emoji-annotation
 cld2
 cleanfeed
@@ -2055,6 +2059,7 @@ fstrcmp
 fstrm
 fswatch
 fswebcam
+ftgl
 ftp
 fts-rest-client
 ftxui
@@ -2232,6 +2237,7 @@ gcl
 gcolor2
 gcolor3
 gconfmm26
+gcovr
 gcr
 gcr3
 gcstar
@@ -2349,6 +2355,7 @@ ghc-blaze-markup
 ghc-blaze-textual
 ghc-bloomfilter
 ghc-Boolean
+ghc-boomerang
 ghc-BoundedChan
 ghc-boxes
 ghc-brick
@@ -2385,6 +2392,7 @@ ghc-concurrent-extra
 ghc-concurrent-output
 ghc-cond
 ghc-config-ini
+ghc-config-schema
 ghc-config-value
 ghc-constraints
 ghc-contravariant
@@ -2465,6 +2473,7 @@ ghc-fclabels
 ghc-fdo-notify
 ghc-feed
 ghc-fgl
+ghc-fgl-visualize
 ghc-file-embed
 ghc-filemanip
 ghc-filepath-bytestring
@@ -2565,9 +2574,11 @@ ghc-ieee754
 ghc-IfElse
 ghc-ilist
 ghc-indents
+ghc-indexed-profunctors
 ghc-indexed-traversable
 ghc-infer-license
 ghc-integer-logarithms
+ghc-IntervalMap
 ghc-IOSpec
 ghc-io-streams
 ghc-iproute
@@ -2580,6 +2591,7 @@ ghc-json
 ghc-JuicyPixels
 ghc-kan-extensions
 ghc-koji
+ghc-language-bluespec
 ghc-language-c
 ghc-language-c99-simple
 ghc-language-c99
@@ -2601,6 +2613,7 @@ ghc-logging-facade
 ghc-logict
 ghc-lrucache
 ghc-lukko
+ghc-lumberjack
 ghc-lzma-conduit
 ghc-maccatcher
 ghc-magic
@@ -2687,6 +2700,7 @@ ghc-quickcheck-io
 ghc-QuickCheck
 ghc-random
 ghc-ranges
+ghc-raw-strings-qq
 ghc-readline
 ghc-recaptcha
 ghc-reducers
@@ -2737,6 +2751,7 @@ ghc-silently
 ghc-simple-cabal
 ghc-simple-cmd-args
 ghc-simple-cmd
+ghc-simple-get-opt
 ghc-simple-prompt
 ghc-simple-sendfile
 ghc-singleton-bool
@@ -3658,6 +3673,7 @@ golang-github-mock
 golang-github-modern-concurrent
 golang-github-modern-reflect2
 golang-github-mrunalp-fileutils
+golang-github-msprev-fzf-bibtex
 golang-github-muesli-ansi
 golang-github-muesli-cancelreader
 golang-github-munnerz-goautoneg
@@ -3677,6 +3693,7 @@ golang-github-netflix-expect
 golang-github-networkplumbing-nft
 golang-github-nilslice-protolock
 golang-github-nkovacs-streamquote
+golang-github-nlpodyssey-gopickle
 golang-github-noborus-guesswidth
 golang-github-notedit-janus
 golang-github-nozzle-throttler
@@ -4342,6 +4359,7 @@ hipcub
 hipfft
 hipify
 hiprand
+hiprt
 hipsolver
 hipsparse
 hitori
@@ -4606,6 +4624,7 @@ chipmunk
 chirp
 chkconfig
 chkrootkit
+chmlib
 chntpw
 chocolate-doom
 choqok
@@ -4727,6 +4746,7 @@ input-leap
 input-pad
 input-remapper
 InsightToolkit
+intel-clear-sans-fonts
 intel-cmt-cat
 intel-ipp-crypto-mb
 intel-ipsec-mb
@@ -4753,6 +4773,7 @@ ipa-exmincho-fonts
 ipa-hcc
 ipcalc
 ipcgull
+iperf
 iperf3
 ipmitool
 iproute
@@ -5785,6 +5806,7 @@ libmemcached-awesome
 libmicrodns
 libmicrohttpd
 libmks
+libmml
 libmms
 libmng
 libmnl
@@ -5862,6 +5884,7 @@ libosmo-dsp
 libotf
 libowfat
 libpagemaker
+libpal
 libpanel
 libpano13
 libpaper
@@ -6013,6 +6036,7 @@ libthai
 libtheora
 libtickit
 libtiff
+libtiger
 libtimezonemap
 libtins
 libtirpc
@@ -6312,6 +6336,7 @@ lxde-common
 lxde-icon-theme
 lxdm
 lxhotkey
+lximage-qt
 lxinput
 lxi-tools
 lxlauncher
@@ -6319,6 +6344,7 @@ lxmenu-data
 lxmusic
 lxpanel
 lxqt-admin
+lxqt-archiver
 lxqt-build-tools
 lxqt-config-randr
 lxqt-config
@@ -7512,6 +7538,7 @@ opencsg
 OpenCTM
 opencv
 opendbx
+opendmarc
 opendnssec
 opendoas
 openeuclide
@@ -8339,6 +8366,7 @@ perl-Crypt-PasswdMD5
 perl-Crypt-PBKDF2
 perl-Crypt-PWSafe3
 perl-Crypt-Random-Source
+perl-Crypt-RandPasswd
 perl-Crypt-RC4
 perl-Crypt-RC4-XS
 perl-Crypt-Rijndael
@@ -8423,6 +8451,7 @@ perl-Data-Perl
 perl-Data-Pond
 perl-Data-Printer
 perl-Data-Properties
+perl-Data-Random
 perl-Data-Record
 perl-Data-Report
 perl-Data-Rmap
@@ -8515,6 +8544,7 @@ perl-DBI
 perl-DBIx-Admin-TableInfo
 perl-DBIx-Class-Cursor-Cached
 perl-DBIx-Class-DateTime-Epoch
+perl-DBIx-Class-DeploymentHandler
 perl-DBIx-Class-DynamicDefault
 perl-DBIx-Class-EncodedColumn
 perl-DBIx-Class-Helpers
@@ -8836,6 +8866,7 @@ perl-forks
 perl-Format-Human-Bytes
 perl-FreezeThaw
 perl-Frontier-RPC
+perl-Fsdb
 perl-Function-Parameters
 perl-Fuse
 perl-Future-AsyncAwait
@@ -10495,6 +10526,7 @@ perl-Text-Tabs+Wrap
 perl-Text-TabularDisplay
 perl-Text-Template-Simple
 perl-Text-Template
+perl-Text-Textile
 perl-Text-Tree
 perl-Text-Unidecode
 perl-Text-VCardFast
@@ -11379,6 +11411,7 @@ python-annarchy
 python-annexremote
 python-annotated-types
 python-ansible-compat
+python-ansible-pylibssh
 python-ansible-runner
 python-ansicolor
 python-ansiwrap
@@ -11618,6 +11651,7 @@ python-colorthief
 python-commoncode
 python-comm
 python-compreffor
+python-conda-content-trust
 python-conda-index
 python-conda-inject
 python-conda-libmamba-solver
@@ -11784,7 +11818,9 @@ python-epub
 python-esbonio
 python-etcd3gw
 python-etcd3
+python-eth-hash
 python-ethtool
+python-eth-typing
 python-evdev
 python-exabgp
 python-exdir
@@ -12137,7 +12173,9 @@ python-linkify-it-py
 python-linuxdoc
 python-linux-procfs
 python-listparser
+python-littleutils
 python-llama-cpp-python
+python-llfuse
 python-llvmlite
 python-localzone
 python-logbook
@@ -12214,7 +12252,6 @@ python-mne-bids
 python-mne
 python-mock
 python-moddb
-python-moksha-hub
 python-monotonic
 python-more-executors
 python-morphys
@@ -12421,6 +12458,7 @@ python-phyghtmap
 python-pidfile
 python-pid
 python-pifpaf
+python-pika
 python-pikepdf
 python-pingouin
 python-pint
@@ -12553,6 +12591,7 @@ python-pylsqpack
 python-pyls-spyder
 python-pymapvbvd
 python-pymata-express
+python-pymatreader
 python-pymaven-patch
 python-pymdown-extensions
 python-pymediawiki
@@ -13239,11 +13278,13 @@ python3-gssapi
 python3-mypy
 python3-openid
 python3-poppler-qt5
+python3-prctl
 python3.10
 python3.11
 python3.11-testpath-epel
 python3.12
 python3.13
+python3.14
 python38-hvac
 python38-ntlm-auth-epel
 python38-pynetbox
@@ -13610,6 +13651,7 @@ renrot
 rep-gtk
 replacer
 repo
+reposurgeon
 reprotest
 resalloc-aws
 resalloc-ibm-cloud
@@ -14243,6 +14285,7 @@ rubygem-ruby_engine
 rubygem-ruby-opengl
 rubygem-ruby-progressbar
 rubygem-ruby-rc4
+rubygem-ruby-shadow
 rubygem-ruby_version
 rubygem-ruby-vips
 rubygem-rubyzip
@@ -14454,6 +14497,7 @@ rust-askama_escape
 rust-askama_parser
 rust-askama
 rust-asn1_derive
+rust-asn1-rs-impl
 rust-asn1
 rust-as-raw-xcb-connection
 rust-assert_approx_eq
@@ -14468,11 +14512,9 @@ rust-assert-str
 rust-associative-cache
 rust-async-attributes
 rust-async-broadcast
-rust-async-broadcast0.5
 rust-async-compression
 rust-async-executor
 rust-async-fs
-rust-async-fs1
 rust-async-generic
 rust-asyncgit
 rust-async-global-executor
@@ -14860,6 +14902,7 @@ rust-crypto-bigint
 rust-crypto-bigint0.2
 rust-crypto-common
 rust-cryptographic-message-syntax
+rust-crypto-hash
 rust-cryptoki
 rust-cryptoki-sys
 rust-crypto-mac
@@ -15158,6 +15201,7 @@ rust-fluent
 rust-fluent-syntax
 rust-flume
 rust-fnv
+rust-foldhash
 rust-font-kit
 rust-foreign-types-macros
 rust-foreign-types-shared
@@ -15425,6 +15469,7 @@ rust-hashbrown
 rust-hashbrown0.11
 rust-hashbrown0.12
 rust-hashbrown0.13
+rust-hashbrown0.14
 rust-hashbrown0.9
 rust-hashlink
 rust-hashlink0.8
@@ -15891,6 +15936,7 @@ rust-nb-connect
 rust-ncurses
 rust-ndarray-rand
 rust-ndarray
+rust-ndarray-stats
 rust-netlink-packet-core
 rust-netlink-packet-generic
 rust-netlink-packet-route
@@ -16301,7 +16347,6 @@ rust-quickcheck0.9
 rust-quick-junit
 rust-quick-xml
 rust-quick-xml0.17
-rust-quick-xml0.27
 rust-quick-xml0.30
 rust-quick-xml0.31
 rust-quinn-proto
@@ -16339,7 +16384,6 @@ rust-rand_xorshift0.1
 rust-rand_xorshift0.2
 rust-rand_xoshiro
 rust-rand0.4
-rust-rand0.5
 rust-rand0.6
 rust-rand0.7
 rust-range_map_vec
@@ -16473,6 +16517,7 @@ rust-rust-embed
 rust-rust-embed-utils
 rust-rustfft
 rust-rustfix
+rust-rusticata-macros
 rust-rust-ini
 rust-rust-ini0.17
 rust-rustix-openpty
@@ -16701,6 +16746,7 @@ rust-socket2
 rust-socket2_0.4
 rust-socks
 rust-sop
+rust-spake2
 rust-spdx
 rust-speakersafetyd
 rust
@@ -17292,7 +17338,6 @@ rust-zvariant_derive
 rust-zvariant_derive2
 rust-zvariant
 rust-zvariant_utils
-rust-zvariant_utils1
 rust-zvariant2
 rust-z85
 rust2rpm-helper
@@ -17856,7 +17901,9 @@ supermin
 supernovas
 supertuxkart
 supertux
+supervisor
 surf-geometry
+surfraw
 surgescript
 suricata
 suseconnect-ng
@@ -18431,6 +18478,7 @@ visidata
 visualboyadvance-m
 vkBasalt
 vkeybd
+VK_hdr_layer
 vkmark
 vkroots
 vlc-plugin-bittorrent
@@ -18509,6 +18557,7 @@ wayland-utils
 waypipe
 wbfs-manager
 wcd
+wcslib
 wdiff
 wdisplays
 wdsp
