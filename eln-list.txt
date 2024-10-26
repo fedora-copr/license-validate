@@ -1228,8 +1228,10 @@ nginx
 ninja-build
 nmap
 nmstate
+nodejs-cjs-module-lexer
 nodejs-nodemon
 nodejs-packaging
+nodejs-undici
 nodejs22
 npth
 nss
@@ -1727,7 +1729,6 @@ pyserial
 pytest
 python-PyMySQL
 python-alembic
-python-appdirs
 python-argcomplete
 python-asn1crypto
 python-attrs
@@ -1760,7 +1761,6 @@ python-docutils
 python-drgn
 python-enchant
 python-flit-core
-python-fs
 python-gmpy2
 python-gssapi
 python-hatch-fancy-pypi-readme
@@ -2227,6 +2227,7 @@ vulkan-tools
 vulkan-utility-libraries
 vulkan-validation-layers
 vulkan-volk
+wasi-libc
 watchdog
 wavpack
 wayland
@@ -2300,7 +2301,6 @@ xwayland-run
 xxhash
 xz
 xz-java
-yajl
 yara
 yelp-tools
 yelp-xsl

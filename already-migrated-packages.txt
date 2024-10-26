@@ -469,7 +469,6 @@ baekmuk-bdf-fonts
 baekmuk-ttf-fonts
 ballbuster
 ballerburg
-baloo
 baloo-widgets
 bamf
 bandit
@@ -2877,6 +2876,7 @@ ghc-zlib
 ghc8.10
 ghc9.0
 ghc9.10
+ghc9.12
 ghc9.2
 ghc9.4
 ghc9.6
@@ -2957,6 +2957,7 @@ gle
 glfw
 glglobe
 glibc
+glibd
 glibmm2.4
 glibmm2.68
 glib-networking
@@ -4220,6 +4221,7 @@ gtimelog
 GtkAda
 GtkAda3
 gtk-doc
+gtkd
 gtkglext
 gtk-gnutella
 gtkgreet
@@ -4603,6 +4605,7 @@ hyprwayland-scanner
 h3
 chafa
 chan
+CharLS
 chatterino2
 chatty
 chayang
@@ -5745,6 +5748,7 @@ libjcat
 libjodycode
 libjpeg-turbo
 libjwt
+libkate
 libkcapi
 libkcompactdisc
 libkdcraw
@@ -5825,6 +5829,7 @@ libmspack
 libmspub
 libmtp
 libmwaw
+libmysofa
 libnatpmp
 libnbd
 libndp
@@ -6002,6 +6007,7 @@ libsolv
 libsonata
 libsoup
 libsoup3
+libspatialaudio
 libspatialite
 libspectre
 libspectrum
@@ -6414,6 +6420,7 @@ makeself
 make
 mako
 malaga
+malcontent
 maloc
 mame
 manafirewall
@@ -6473,6 +6480,7 @@ maui-mauikit-calendar
 maui-mauikit-documents
 maui-mauikit-filebrowsing
 maui-mauikit-imagetools
+maui-mauikit-index-fm
 maui-mauikit
 maui-mauikit-terminal
 maui-mauikit-texteditor
@@ -6558,7 +6566,6 @@ megaglest
 megapixels
 megatools
 meld
-mellowplayer
 memcached
 memkind
 memstomp
@@ -6771,7 +6778,6 @@ mingw-winpthreads
 mingw-wxWidgets
 mingw-wxWidgets3
 mingw-w64-tools
-mingw-xerces-c
 mingw-zlib
 mingw-zstd
 miniaudio
@@ -6792,6 +6798,7 @@ miopen
 miracle-wm-config
 miracle-wm
 mirage
+miriway
 mirrorlist-server
 mirrormagic
 mir
@@ -7144,6 +7151,7 @@ newt
 nexcontrol
 nex
 nextcloud-client
+nfdump
 nfoview
 nfs-ganesha
 nfsometer
@@ -11289,6 +11297,7 @@ psmoveapi
 pspp
 pstoedit
 pstreams-devel
+psutils
 pt-astra-sans-fonts
 pt-astra-serif-fonts
 pthreadpool
@@ -11723,6 +11732,7 @@ python-debrepo
 python-debtcollector
 python-decopatch
 python-decorator
+python-defusedxml
 python-demjson
 python-deprecated
 python-deprecation
@@ -12558,6 +12568,8 @@ python-pyev
 python-pyface
 python-pyfakefs
 python-pyfiglet
+python-pyflame
+python-pyforgejo
 python-pyftpdlib
 python-pygal
 python-pygatt
@@ -13200,6 +13212,7 @@ python-wloc
 python-wordcloud
 python-wrapt
 python-wsgidav
+python-ws4py
 python-wxnatpy
 python-wxpython4
 python-w3lib
@@ -15389,6 +15402,7 @@ rust-goblin0.6
 rust-goblin0.7
 rust-google-cloud-auth
 rust-google-cloud-metadata
+rust-google-cloud-storage
 rust-google-cloud-token
 rust-googletest_macro
 rust-googletest
@@ -15601,7 +15615,6 @@ rust-input_buffer
 rust-input-linux
 rust-input-linux-sys
 rust-input-linux-sys0.8
-rust-input-linux0.6
 rust-input
 rust-input-sys
 rust-instability
@@ -15711,6 +15724,7 @@ rust-lcms2
 rust-lcms2-sys
 rust-lddtree
 rust-lebe
+rust-leb128
 rust-lev_distance
 rust-lexical-core
 rust-lexical-parse-float
@@ -15727,7 +15741,6 @@ rust-libadwaita0.6
 rust-libblkid-rs
 rust-libblkid-rs-sys
 rust-libbpf-cargo
-rust-libbpf-cargo0.21
 rust-libbpf-cargo0.22
 rust-libbpf-cargo0.23
 rust-libbpf-rs
@@ -16161,7 +16174,6 @@ rust-pest
 rust-petgraph
 rust-petgraph0.5
 rust-phf_codegen
-rust-phf_codegen0.8
 rust-phf_generator
 rust-phf_generator0.8
 rust-phf_macros
@@ -16202,6 +16214,7 @@ rust-pmac
 rust-pmutil
 rust-pnet_base
 rust-pnet_datalink
+rust-pnet_macros_support
 rust-pnet_sys
 rust-png
 rust-png0.16
@@ -16409,6 +16422,7 @@ rust-rd-agent-intf
 rust-rd-agent
 rust-rd-hashd-intf
 rust-rd-hashd
+rust-rdrand
 rust-rd-util
 rust-read-process-memory
 rust-redfa

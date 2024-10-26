@@ -565,7 +565,6 @@ baekmuk-ttf-fonts
 ballbuster
 ballerburg
 ballz
-baloo
 baloo-widgets
 bamf
 bam
@@ -3560,6 +3559,7 @@ ghc-zlib
 ghc8.10
 ghc9.0
 ghc9.10
+ghc9.12
 ghc9.2
 ghc9.4
 ghc9.6
@@ -8780,6 +8780,7 @@ maui-mauikit-calendar
 maui-mauikit-documents
 maui-mauikit-filebrowsing
 maui-mauikit-imagetools
+maui-mauikit-index-fm
 maui-mauikit
 maui-mauikit-terminal
 maui-mauikit-texteditor
@@ -8878,7 +8879,6 @@ megapixels
 megatools
 meg
 meld
-mellowplayer
 memcached
 memchan
 memkind
@@ -9231,7 +9231,6 @@ mingw-vulkan-loader
 mingw-vulkan-tools
 mingw-vulkan-utility-libraries
 mingw-vulkan-validation-layers
-mingw-wavpack
 mingw-windows-default-manifest
 mingw-wine-gecko
 mingw-win-iconv
@@ -9241,7 +9240,6 @@ mingw-wpcap
 mingw-wxWidgets
 mingw-wxWidgets3
 mingw-w64-tools
-mingw-xerces-c
 mingw-xz
 mingw-yaml-cpp
 mingw-zfstream
@@ -9269,6 +9267,7 @@ miopen
 miracle-wm-config
 miracle-wm
 mirage
+miriway
 mirmon
 mirrorlist-server
 mirrormagic
@@ -16393,6 +16392,8 @@ python-pyface
 python-pyfakefs
 python-pyfiglet
 python-pyfim
+python-pyflame
+python-pyforgejo
 python-pyftdi
 python-pyftpdlib
 python-pygal
@@ -19479,6 +19480,7 @@ rust-goblin0.6
 rust-goblin0.7
 rust-google-cloud-auth
 rust-google-cloud-metadata
+rust-google-cloud-storage
 rust-google-cloud-token
 rust-googletest_macro
 rust-googletest
@@ -19658,7 +19660,6 @@ rust-input_buffer
 rust-input-linux
 rust-input-linux-sys
 rust-input-linux-sys0.8
-rust-input-linux0.6
 rust-input
 rust-input-sys
 rust-instability
@@ -19752,6 +19753,7 @@ rust-lcms2
 rust-lcms2-sys
 rust-lddtree
 rust-lebe
+rust-leb128
 rust-lexical-core
 rust-lexical-parse-float
 rust-lexical-parse-integer
@@ -19766,7 +19768,6 @@ rust-libadwaita0.6
 rust-libblkid-rs
 rust-libblkid-rs-sys
 rust-libbpf-cargo
-rust-libbpf-cargo0.21
 rust-libbpf-cargo0.22
 rust-libbpf-cargo0.23
 rust-libbpf-rs
@@ -20109,7 +20110,6 @@ rust-pest_meta
 rust-pest
 rust-petgraph
 rust-petgraph0.5
-rust-phf_codegen0.8
 rust-picky-asn1-der
 rust-picky-asn1
 rust-picky-asn1-x509
@@ -20134,6 +20134,7 @@ rust-pmac
 rust-pmutil
 rust-pnet_base
 rust-pnet_datalink
+rust-pnet_macros_support
 rust-pnet_sys
 rust-png
 rust-png0.16
@@ -20318,6 +20319,7 @@ rust-rd-agent-intf
 rust-rd-agent
 rust-rd-hashd-intf
 rust-rd-hashd
+rust-rdrand
 rust-rd-util
 rust-redfa
 rust-redis
