@@ -4,7 +4,7 @@ NAME=$1
 RETURN=0
 pushd ~/spdx/"$NAME"  >/dev/null
 if [ -f "$NAME.spec" ]; then
-        rpmspec -q --qf '%{license}\n' --define='_sourcedir .' "$NAME.spec"  2>/dev/null || RETURN=1
+        rpmspec -q --qf '%{license}\n' --define='_sourcedir .' "$NAME.spec"  |grep -v 'Reading /var/tmp/' 2>/dev/null || RETURN=1
 fi
 popd >/dev/null
 exit $RETURN

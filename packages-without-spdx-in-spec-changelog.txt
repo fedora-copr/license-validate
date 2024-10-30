@@ -222,7 +222,6 @@ ansible-collection-chocolatey-chocolatey
 ansible-collection-kubernetes-core
 ansible-collection-mdellweg-filters
 ansible-collection-microsoft-sql
-ansible-collection-netbox-netbox
 ansible-collection-pulp-pulp_installer
 ansible-collections-openstack
 ansible-core
@@ -1929,7 +1928,6 @@ egl-wayland
 egl-x11
 eg
 echo-icon-theme
-echolinux
 eiciel
 eigen3
 eiskaltdcpp
@@ -4825,6 +4823,8 @@ golang-github-logfmt
 golang-github-logr
 golang-github-logr-stdr
 golang-github-logrusorgru-aurora
+golang-github-logrusorgru-aurora3
+golang-github-logrusorgru-aurora4
 golang-github-logr-zapr
 golang-github-lucasb-eyer-colorful
 golang-github-lucasjones-reggen
@@ -5757,7 +5757,6 @@ gpsbabel
 gpscorrelate
 gpsd
 gpsim
-gpsman
 gputils
 gpxsee
 gpx-viewer
@@ -5983,7 +5982,6 @@ harec
 harfbuzz
 harmonyseq
 haruna
-harvey
 hashcat
 hashid
 hash-slinger
@@ -8132,6 +8130,7 @@ libserialport
 libservicelog
 libsexymm
 libsexy
+libsfdo
 libshout
 libshumate
 libsidplayfp
@@ -10215,7 +10214,6 @@ onednn
 onedrive
 oneko
 onesixtyone
-oneVPL
 ongres-scram
 ongres-stringprep
 oniguruma
@@ -10715,6 +10713,7 @@ perl-Applify
 perl-App-mymeta_requires
 perl-App-Nopaste
 perl-App-Packager
+perl-App-perlimports
 perl-App-PFT
 perl-App-p
 perl-App-Rad
@@ -12561,6 +12560,7 @@ perl-Net-Ping
 perl-Net-POP3S
 perl-Net-Random
 perl-Net-RawIP
+perl-Net-RDAP
 perl-Net-SCP
 perl-Net-Server-Coro
 perl-Net-Server
@@ -13749,7 +13749,6 @@ php-adodb
 php-alcaeus-mongo-php-adapter
 php-ast
 php-aws-php-sns-message-validator
-php-aws-sdk3
 php-bacon-qr-code2
 php-bartlett-PHP-CompatInfo
 php-brick-math
@@ -13802,7 +13801,6 @@ php-getid3
 php-gettext-gettext
 php-gettext-languages
 php-google-recaptcha
-php-guzzlehttp-guzzle6
 php-guzzlehttp-promises
 php-guzzlehttp-psr7
 php-hamcrest2
@@ -13992,7 +13990,6 @@ php-psr-http-server-middleware
 php-psr-link
 php-PsrLog
 php-psr-simple-cache
-php-ralouphie-getallheaders
 php-ramsey-collection
 php-ramsey-uuid
 php-sabre-dav4
@@ -15332,6 +15329,7 @@ python-etcd3
 python-eth-hash
 python-ethtool
 python-eth-typing
+python-eth-utils
 python-et_xmlfile
 python-evdev
 python-events
@@ -15486,7 +15484,6 @@ python-gbinder
 python-gbulb
 python-gcsfs
 python-gearbox
-python-gear
 python-gekitchen
 python-gelidum
 python-gemfileparser2
@@ -15601,6 +15598,7 @@ python-hpack
 python-hpilo
 python-hsluv
 python-hstspreload
+python-html-text
 python-html2text
 python-html5lib
 python-html5-parser
@@ -15817,6 +15815,7 @@ python-keystoneauth1
 python-keystoneclient
 python-kgb
 python-kismet-rest
+python-kiss-headers
 python-kitchen
 python-kiwisolver
 python-klein
@@ -16131,7 +16130,6 @@ python-novaclient
 python-nptyping
 python-npyscreen
 python-nrf24
-python-nss
 python-ns1-python
 python-ntlm-auth
 python-ntplib
@@ -16978,6 +16976,7 @@ python-simple-salesforce
 python-simplevisor
 python-simple-websocket
 python-singledispatch
+python-single-version
 python-siphash
 python-six
 python-sklearn-genetic-opt
@@ -17321,6 +17320,7 @@ python-typish
 python-typogrify
 python-tzlocal
 python-ua-parser
+python-u-boot-pylib
 python-uc-micro-py
 python-ufl
 python-ufoLib2
@@ -17446,7 +17446,6 @@ python-wsgidav
 python-wsgi_intercept
 python-WSGIProxy2
 python-wsproto
-python-ws4py
 python-wtforms
 python-wtf-peewee
 python-wurlitzer
@@ -19664,6 +19663,7 @@ rust-dotenv
 rust-dotenvy
 rust-downcast-rs
 rust-downcast
+rust-dpi
 rust-drm-ffi
 rust-drm-fourcc
 rust-drm
@@ -21615,6 +21615,7 @@ rust-tree_magic_mini
 rust-tree-sitter-cli
 rust-tree-sitter-config
 rust-tree-sitter-highlight
+rust-tree-sitter-language
 rust-tree-sitter-loader
 rust-tree-sitter
 rust-tree-sitter-tags
@@ -24244,6 +24245,7 @@ zola
 zonefs-tools
 zopfli
 zork
+zpaqfranz
 zpaq
 zps
 zram

@@ -1,17 +1,15 @@
 Maintainers by package:
 avogadro2-libs       sagitter
 bacula               slaanesh
-bmake                pemensik
 ceph                 branto kkeithle ktdreyer
+cfn-lint             music
 clementine           eclipseo
 cross-binutils       dhowells lkundrak sharkcz
 fcitx5-mozc          music yanqiyu
 fedora-remix-logos   spot
 filebench            hushan
 fldigi               hobbes1069
-flmsg                hobbes1069
 flrig                hobbes1069
-fltk                 aarem hobbes1069 jchaloup phracek rdieter
 frescobaldi          limb
 gdb-exploitable      sgrubb
 ghc-http-client      qulogic
@@ -63,22 +61,19 @@ man-pages-ja         tagoh
 man-pages-l10n       ljavorsk mfabian nforro
 man2html             orion patches sergiomb
 mariadb10.11         fjanus hhorak ljavorsk mschorm zmiklank
-mozilla-privacy-badger rathann
 mxml                 kevin
 net-snmp             jridky jsafrane zdohnal
 nikto                huzaifas rebus
 ocaml-omake          rjones
 ogre                 dtimms ignatenkobrain sergiomb
-opendkim             mdomsch
+opendkim             jonathanspw
 openjfx              deamn
-pax-utils            rathann
 pypy                 churchyard thrnciar
 pypy3.9              churchyard thrnciar
 python-traitsui      chedi ignatenkobrain orion
 python-utmp          jpopelka tuju
 ruby                 mtasaka vondruch
 rubygem-rdoc         vondruch
-rubygem-xmlparser    schwicke
 rust-askalono-cli    decathorpe
 rust-dutree          kalev
 rust-nettle          decathorpe
@@ -93,7 +88,6 @@ webkitgtk            catanzaro
 wwl                  jskarvad
 
 Packages by maintainer:
-aarem      fltk
 acaringi   kernel
 aekoroglu  libtimidity
 airlied    kernel
@@ -111,18 +105,18 @@ dtimms     ogre
 eclipseo   clementine golang-gopkg-retry-1
 fjanus     mariadb10.11
 hhorak     mariadb10.11
-hobbes1069 fldigi flmsg flrig fltk gmsh
+hobbes1069 fldigi flrig gmsh
 hushan     filebench
 huzaifas   nikto
 ignatenkobrain gmsh libclc ogre python-traitsui teeworlds
 jamatos    lyx
-jchaloup   fltk
 jcline     kernel
 jforbes    kernel
 jgrulich   kf5-bluez-qt kf5-kdeclarative kf5-krunner kf5-threadweaver
 jkastner   gmsh
 jkucera    kf5-libkleo
 jnovy      texlive
+jonathanspw opendkim
 jpopelka   python-utmp
 jridky     net-snmp
 jsafrane   net-snmp
@@ -143,12 +137,11 @@ lkundrak   cross-binutils teeworlds
 marcdeop   ghostwriter
 martinkg   guayadeque
 mathstuf   ghc-uglymemo
-mdomsch    opendkim
 mfabian    man-pages-l10n
 mikelo2    golang-gopkg-yaml-1
 mschorm    mariadb10.11
 mtasaka    ruby
-music      fcitx5-mozc
+music      cfn-lint fcitx5-mozc
 myoung     kernel
 nalimilan  julia
 nforro     man-pages-l10n
@@ -158,19 +151,16 @@ orion      man2html python-traitsui
 orphan     jbosscache-support
 patches    man2html
 patrickt   kernel
-pemensik   bmake
 petersen   ghc-hxt-unicode ghc-monad-loops ghc-polyparse ghc-tf-random
-phracek    fltk
 quintela   kernel
 qulogic    ghc-http-client
-rathann    libva-intel-hybrid-driver mozilla-privacy-badger pax-utils
+rathann    libva-intel-hybrid-driver
 rcallicotte hydra
-rdieter    fltk jsmath-fonts kf5-bluez-qt kf5-kcalendarcore kf5-kdeclarative kf5-kholidays kf5-kirigami2 kf5-krunner kf5-libkleo kf5-threadweaver kscreen lyx
+rdieter    jsmath-fonts kf5-bluez-qt kf5-kcalendarcore kf5-kdeclarative kf5-kholidays kf5-kirigami2 kf5-krunner kf5-libkleo kf5-threadweaver kscreen lyx
 rebus      hydra nikto
 rjones     ocaml-omake
 sagitter   avogadro2-libs libtimidity
 sandeen    kernel
-schwicke   rubygem-xmlparser
 sergesanspaille libclc
 sergiomb   man2html ogre
 sgrubb     gdb-exploitable

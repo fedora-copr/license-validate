@@ -177,7 +177,6 @@ ansible-collection-containers-podman
 ansible-collection-dellemc-openmanage
 ansible-collection-chocolatey-chocolatey
 ansible-collection-mdellweg-filters
-ansible-collection-netbox-netbox
 ansible-collection-pulp-pulp_installer
 ansible-collections-openstack
 ansible-core
@@ -583,6 +582,7 @@ bluez-hcidump
 bluez
 bluez-tools
 blurhash-cpp
+bmake
 bmap-tools
 bmon
 bodhi-client
@@ -797,7 +797,6 @@ cfdg
 cffconvert
 cfitsio
 cflow
-cfn-lint
 CGAL
 cgdb
 cgit
@@ -917,6 +916,7 @@ coin-or-HiGHS
 coin-or-lemon
 coin-or-Osi
 coin-or-OS
+coin-or-Sample
 coin-or-SYMPHONY
 Coin2
 Coin3
@@ -1043,6 +1043,7 @@ cppi
 cpp-jwt
 cppmyth
 cppunit
+cproto
 cpr
 cptutils
 cpufetch
@@ -1447,6 +1448,7 @@ dtk6gui
 dtk6log
 dtk6widget
 dt-schema
+dtv-scan-tables
 dualscreen-mouse-utils
 duc
 duf
@@ -1528,7 +1530,6 @@ eglexternalplatform
 egl-wayland
 egl-x11
 eg
-echolinux
 eiciel
 eigen3
 ElectricFence
@@ -1591,6 +1592,7 @@ emacs-popup
 emacs-python-environment
 emacs-rinari
 emacs-rpm-spec-mode
+emacs-slime
 emacs
 emacs-spice-mode
 emacs-s
@@ -1940,6 +1942,7 @@ FlightGear
 flim
 flint
 fllog
+flmsg
 flnet
 flobopuyo
 flocq
@@ -1948,6 +1951,7 @@ flowblade
 flowcanvas
 flpsed
 flterm
+fltk
 fluent-bit
 fluid-soundfont
 fluidsynth
@@ -3038,6 +3042,7 @@ gluster-block
 glusterfs-coreutils
 glusterfs
 glycin
+gl2ps
 gmediarender
 gmic
 gmime30
@@ -3309,6 +3314,7 @@ golang-github-briandowns-spinner
 golang-github-brunnre8-notmuch
 golang-github-brunoscheufler-aws-ecs-metadata
 golang-github-buger-goterm
+golang-github-burntsushi-xdg
 golang-github-bwesterb-ristretto
 golang-github-casbin-2
 golang-github-cenkalti-backoff4
@@ -3622,6 +3628,8 @@ golang-github-liquidweb-lwapi
 golang-github-liquidweb
 golang-github-logr
 golang-github-logr-stdr
+golang-github-logrusorgru-aurora3
+golang-github-logrusorgru-aurora4
 golang-github-logr-zapr
 golang-github-lucasjones-reggen
 golang-github-lyft-protoc-gen-star
@@ -4133,7 +4141,6 @@ gprolog
 gpsbabel
 gpscorrelate
 gpsd
-gpsman
 gputils
 gpxsee
 gpx-viewer
@@ -4304,7 +4311,6 @@ harec
 harfbuzz
 harmonyseq
 haruna
-harvey
 hashcat
 hashid
 hash-slinger
@@ -4317,6 +4323,7 @@ hcloud
 hcxtools
 hddfancontrol
 hddtemp
+hdf5
 hdhomerun
 hd-idle
 hdmf-common-schema
@@ -5313,6 +5320,7 @@ kldap
 kleopatra
 klettres
 klog
+klt
 kmag
 kmail-account-wizard
 kmail
@@ -5546,6 +5554,7 @@ libbtbb
 libburn
 libbytesize
 libb2
+libb64
 libcamera-apps
 libcamera
 libcanberra
@@ -5985,6 +5994,7 @@ libserf
 libserializer
 libserialport
 libservicelog
+libsfdo
 libshumate
 libsidplayfp
 libsigc++
@@ -6365,6 +6375,7 @@ lxqt-runner
 lxqt-session
 lxqt-sudo
 lxqt-themes
+lxqt-wallet
 lxrandr
 lxsession
 lxshortcut
@@ -6916,6 +6927,7 @@ mozilla-filesystem
 mozilla-fira-fonts
 mozilla-https-everywhere
 mozilla-noscript
+mozilla-privacy-badger
 mozjs102
 mozjs115
 mozjs128
@@ -7776,6 +7788,7 @@ patool
 pavucontrol-qt
 pavucontrol
 pavumeter
+pax-utils
 pbuilder
 pbzip2
 pcapdiff
@@ -7932,6 +7945,7 @@ perl-Applify
 perl-App-mymeta_requires
 perl-App-Nopaste
 perl-App-Packager
+perl-App-perlimports
 perl-App-PFT
 perl-App-p
 perl-App-Rad
@@ -9694,6 +9708,7 @@ perl-Net-Ping
 perl-Net-POP3S
 perl-Net-Random
 perl-Net-RawIP
+perl-Net-RDAP
 perl-Net-SCP
 perl-Net-Server
 perl-Net-Server-SS-PreFork
@@ -10822,7 +10837,6 @@ phototonic
 php-adodb
 php-ast
 php-aws-php-sns-message-validator
-php-aws-sdk3
 php-bartlett-PHP-CompatInfo
 php-composer-spdx-licenses
 phpcov
@@ -11831,6 +11845,7 @@ python-etcd3
 python-eth-hash
 python-ethtool
 python-eth-typing
+python-eth-utils
 python-evdev
 python-exabgp
 python-exdir
@@ -11932,7 +11947,6 @@ python-gattlib
 python-gbinder
 python-gbulb
 python-gcsfs
-python-gear
 python-gemfileparser2
 python-genshi
 python-genty
@@ -12003,6 +12017,7 @@ python-hiredis
 python-housekeeping
 python-hpilo
 python-hsluv
+python-html-text
 python-html2text
 python-httmock
 python-http-ece
@@ -12142,6 +12157,7 @@ python-keyring
 python-keystoneauth1
 python-keystoneclient
 python-kismet-rest
+python-kiss-headers
 python-kiwisolver
 python-klein
 python-kmod
@@ -12342,7 +12358,6 @@ python-notebook
 python-novaclient-os-networks
 python-novaclient-os-virtual-interfaces
 python-novaclient
-python-nss
 python-ntlm-auth
 python-nudatus
 python-numexpr
@@ -12410,6 +12425,7 @@ python-oslotest
 python-oslo-utils
 python-os-service-types
 python-os-testr
+python-ouimeaux
 python-outcome
 python-overpy
 python-ovh
@@ -12674,6 +12690,7 @@ python-pysdl2
 python-pyshacl
 python-pyshtools
 python-pyside6
+python-pysignals
 python-pysimplesoap
 python-pysingular
 python-pysmt
@@ -12908,6 +12925,7 @@ python-simple-rlp
 python-simple-salesforce
 python-simplevisor
 python-simple-websocket
+python-single-version
 python-siphash
 python-six
 python-sklearn-genetic-opt
@@ -13079,6 +13097,7 @@ python-tilestache
 python-timelib
 python-time-machine
 python-timeslot
+python-tinycss2
 python-tinygrad
 python-tiny-proxy
 python-tkrzw
@@ -13141,6 +13160,7 @@ python-typing-extensions
 python-typing-inspect
 python-typogrify
 python-ua-parser
+python-u-boot-pylib
 python-uc-micro-py
 python-ufl
 python-ufoLib2
@@ -13212,7 +13232,6 @@ python-wloc
 python-wordcloud
 python-wrapt
 python-wsgidav
-python-ws4py
 python-wxnatpy
 python-wxpython4
 python-w3lib
@@ -14378,6 +14397,7 @@ rubygem-webrobots
 rubygem-websocket-driver
 rubygem-websocket-extensions
 rubygem-websocket
+rubygem-xmlparser
 rubygem-xml-simple
 rubygem-xpath
 rubygem-yaml-lint
@@ -15059,6 +15079,7 @@ rust-dotenv
 rust-dotenvy
 rust-downcast-rs
 rust-downcast
+rust-dpi
 rust-drm-ffi
 rust-drm-fourcc
 rust-drm
@@ -17005,6 +17026,7 @@ rust-tree_magic_mini
 rust-tree-sitter-cli
 rust-tree-sitter-config
 rust-tree-sitter-highlight
+rust-tree-sitter-language
 rust-tree-sitter-loader
 rust-tree-sitter
 rust-tree-sitter-tags
@@ -17823,6 +17845,7 @@ stage
 stalld
 stalonetray
 starcal
+starplot-contrib
 starplot
 star
 startdde
@@ -18284,6 +18307,7 @@ udisks2
 udis86
 udns
 udpxy
+udt
 ufdbGuard
 ufiformat
 ufraw
@@ -19072,6 +19096,7 @@ znc
 zonefs-tools
 zopfli
 zork
+zpaqfranz
 zpaq
 zps
 zram
