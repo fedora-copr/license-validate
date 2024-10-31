@@ -4713,6 +4713,7 @@ golang-github-juju-ansiterm
 golang-github-juju-gnuflag
 golang-github-juju-ratelimit
 golang-github-julienschmidt-httprouter
+golang-github-junegunn-shellwords
 golang-github-jwalton-gchalk
 golang-github-jwalton-supportscolor
 golang-github-jwt
@@ -5290,6 +5291,8 @@ golang-github-streadway-handy
 golang-github-stretchr-objx
 golang-github-stretchr-testify
 golang-github-subosito-gotenv
+golang-github-subpop-ini
+golang-github-subpop-log
 golang-github-substrait-io
 golang-github-syndtr-gocapability
 golang-github-syndtr-goleveldb
@@ -9100,7 +9103,6 @@ mingw-pango
 mingw-pcre
 mingw-pcre2
 mingw-pdcurses
-mingw-physfs
 mingw-plotmm
 mingw-polyclipping
 mingw-poppler
@@ -15897,6 +15899,7 @@ python-messaging
 python-metakernel
 python-metar
 python-metno
+python-mf2py
 python-micawber
 python-microfs
 python-mido
@@ -16148,7 +16151,6 @@ python-oslo-utils
 python-osrf-pycommon
 python-os-service-types
 python-os-testr
-python-ouimeaux
 python-outcome
 python-outdated
 python-overpy
@@ -16535,7 +16537,6 @@ python-pyshacl
 python-pyshark
 python-pyshtools
 python-pyside6
-python-pysignals
 python-pysimplesoap
 python-pysingular
 python-pysmb
@@ -18895,7 +18896,6 @@ rust-cairo-sys-rs0.18
 rust-cairo-sys-rs0.19
 rust-calamine
 rust-calloop-wayland-source
-rust-calloop0.12
 rust-camellia
 rust-camino
 rust-capng
@@ -19335,7 +19335,6 @@ rust-foreign-types0.3
 rust-form_urlencoded
 rust-four-cc
 rust-fragile
-rust-freetype-rs0.26
 rust-freetype-rs0.32
 rust-freetype-rs0.35
 rust-freetype
@@ -19659,7 +19658,6 @@ rust-inout
 rust-input_buffer
 rust-input-linux
 rust-input-linux-sys
-rust-input-linux-sys0.8
 rust-input
 rust-input-sys
 rust-instability
@@ -19771,7 +19769,6 @@ rust-libbpf-cargo
 rust-libbpf-cargo0.22
 rust-libbpf-cargo0.23
 rust-libbpf-rs
-rust-libbpf-rs0.21
 rust-libbpf-rs0.22
 rust-libbpf-rs0.23
 rust-libbpf-sys
@@ -20528,7 +20525,6 @@ rust-serde_yaml0.8
 rust-serial_test_derive2
 rust-serial_test2
 rust-servo_arc
-rust-servo-fontconfig
 rust-sevctl
 rust-sev
 rust-shadow-rs
@@ -21082,6 +21078,7 @@ rust-zeroize
 rust-zerovec-derive
 rust-zerovec
 rust-zincati
+rust-zlib-rs
 rust-zopfli
 rust-zstd-safe
 rust-zstd-safe6

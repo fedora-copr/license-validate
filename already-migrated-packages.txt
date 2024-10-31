@@ -797,6 +797,7 @@ cfdg
 cffconvert
 cfitsio
 cflow
+cfn-lint
 CGAL
 cgdb
 cgit
@@ -1688,6 +1689,7 @@ erlang-poolboy
 erlang-proper
 erlang-providers
 erlang-p1_acme
+erlang-p1_mysql
 erlang-p1_pgsql
 erlang-p1_utils
 erlang-rebar3-pc
@@ -2246,6 +2248,7 @@ gcr3
 gcstar
 gdalcpp
 gdal
+gdb-exploitable
 gdb-gef
 gdbm
 gdcalc
@@ -2555,6 +2558,7 @@ ghc-html-conduit
 ghc-html
 ghc-htoml
 ghc-http-api-data
+ghc-http-client
 ghc-http-common
 ghc-http-conduit
 ghc-http-date
@@ -2900,6 +2904,7 @@ gimp-data-extras
 gimp-dds-plugin
 gimp-elsamuko
 gimp-fourier-plugin
+gimpfx-foundry
 gimp-help
 gimp-high-pass-filter
 gimp-lqr-plugin
@@ -3049,6 +3054,7 @@ gmime30
 gmobile
 gmp-ecm
 gmp
+gmsh
 GMT
 gmult
 gnatcoll-bindings
@@ -3166,6 +3172,7 @@ gnome-tweaks
 gnome-usage
 gnome-user-docs
 gnome-user-share
+gnome-valgrind-session
 gnome-vfs2-monikers
 gnome-vfs2
 gnome-video-effects
@@ -3598,6 +3605,7 @@ golang-github-jtolio-eventkit
 golang-github-juju-ansiterm
 golang-github-juju-gnuflag
 golang-github-juju-ratelimit
+golang-github-junegunn-shellwords
 golang-github-jwalton-gchalk
 golang-github-jwalton-supportscolor
 golang-github-jwt-5
@@ -3857,6 +3865,8 @@ golang-github-sql-driver-mysql
 golang-github-stefanberger-pkcs11uri
 golang-github-stomp
 golang-github-stomp-3
+golang-github-subpop-ini
+golang-github-subpop-log
 golang-github-substrait-io
 golang-github-syndtr-gocapability
 golang-github-task-slim-sprig
@@ -4922,6 +4932,7 @@ jFormatString
 jfsutils
 jglobus
 jgmenu
+jhead
 jigdo
 jimtcl
 jisksp16-1990-fonts
@@ -6635,6 +6646,7 @@ mine_detector
 mingetty
 mingw-adwaita-icon-theme
 mingw-adwaita-qt
+mingw-antlr
 mingw-atkmm
 mingw-binutils
 mingw-boost
@@ -6706,6 +6718,7 @@ mingw-pangomm
 mingw-pango
 mingw-pcre
 mingw-pcre2
+mingw-pdcurses
 mingw-pixman
 mingw-polyclipping
 mingw-poppler
@@ -6789,6 +6802,7 @@ mingw-winpthreads
 mingw-wxWidgets
 mingw-wxWidgets3
 mingw-w64-tools
+mingw-xz
 mingw-zlib
 mingw-zstd
 miniaudio
@@ -12193,6 +12207,7 @@ python-libnacl
 python-libpagure
 python-libpysal
 python-libsass
+python-libusb1
 python-license-expression
 python-linetable
 python-linkify-it-py
@@ -12263,6 +12278,7 @@ python-meson-python
 python-messaging
 python-metakernel
 python-metar
+python-mf2py
 python-mirakuru
 python-mirrors-countme
 python-missingno
@@ -12425,7 +12441,6 @@ python-oslotest
 python-oslo-utils
 python-os-service-types
 python-os-testr
-python-ouimeaux
 python-outcome
 python-overpy
 python-ovh
@@ -12690,7 +12705,6 @@ python-pysdl2
 python-pyshacl
 python-pyshtools
 python-pyside6
-python-pysignals
 python-pysimplesoap
 python-pysingular
 python-pysmt
@@ -12771,6 +12785,7 @@ python-pyudev
 python-pyupgrade
 python-pyvat
 python-pyvirtualdisplay
+python-pyvirtualize
 python-pyvit
 python-pyvlx
 python-pyvmomi
@@ -13082,6 +13097,7 @@ python-testing.common.database
 python-testing.postgresql
 python-testpath
 python-testrepository
+python-testscenarios
 python-testtools
 python-texext
 python-textdistance
@@ -14710,7 +14726,6 @@ rust-bytesize
 rust-byte-slice-cast
 rust-bytes
 rust-bytestring
-rust-bytes0.5
 rust-byte-unit
 rust-byte-unit3
 rust-byte-unit4
@@ -14731,7 +14746,6 @@ rust-cairo-sys-rs0.19
 rust-calamine
 rust-calloop
 rust-calloop-wayland-source
-rust-calloop0.12
 rust-camellia
 rust-camino
 rust-capng
@@ -15248,7 +15262,6 @@ rust-form_urlencoded
 rust-four-cc
 rust-fragile
 rust-freetype-rs
-rust-freetype-rs0.26
 rust-freetype-rs0.32
 rust-freetype-rs0.35
 rust-freetype
@@ -15635,7 +15648,6 @@ rust-inout
 rust-input_buffer
 rust-input-linux
 rust-input-linux-sys
-rust-input-linux-sys0.8
 rust-input
 rust-input-sys
 rust-instability
@@ -15765,7 +15777,6 @@ rust-libbpf-cargo
 rust-libbpf-cargo0.22
 rust-libbpf-cargo0.23
 rust-libbpf-rs
-rust-libbpf-rs0.21
 rust-libbpf-rs0.22
 rust-libbpf-rs0.23
 rust-libbpf-sys
@@ -16690,7 +16701,6 @@ rust-serial_test
 rust-serial_test0.5
 rust-serial_test2
 rust-servo_arc
-rust-servo-fontconfig
 rust-servo-fontconfig-sys
 rust-sevctl
 rust-sev
@@ -17358,6 +17368,7 @@ rust-zerovec-derive
 rust-zerovec
 rust-zincati
 rust-zip
+rust-zlib-rs
 rust-zoneinfo_compiled
 rust-zopfli
 rust-zoxide
@@ -17410,6 +17421,7 @@ sailcut
 sakura
 salt
 samba
+samcoupe-rom
 samdump2
 samefile
 samplv1
@@ -17812,6 +17824,7 @@ sqlgrey
 sqlitebrowser
 sqlitecpp
 sqlite
+sqlite2
 sqlite3pp
 sqm-scripts
 squashfs-tools-ng
@@ -18100,6 +18113,7 @@ the_foundation
 thefuck
 theme-switcher
 thermald
+the_silver_searcher
 thinkfan
 thonny
 thrift

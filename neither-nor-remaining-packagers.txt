@@ -2,7 +2,6 @@ Maintainers by package:
 avogadro2-libs       sagitter
 bacula               slaanesh
 ceph                 branto kkeithle ktdreyer
-cfn-lint             music
 clementine           eclipseo
 cross-binutils       dhowells lkundrak sharkcz
 fcitx5-mozc          music yanqiyu
@@ -11,8 +10,6 @@ filebench            hushan
 fldigi               hobbes1069
 flrig                hobbes1069
 frescobaldi          limb
-gdb-exploitable      sgrubb
-ghc-http-client      qulogic
 ghc-hxt-unicode      petersen
 ghc-monad-loops      petersen
 ghc-polyparse        petersen
@@ -20,7 +17,6 @@ ghc-tf-random        petersen
 ghc-uglymemo         mathstuf
 ghostwriter          marcdeop
 gl-manpages          ajax yaneti
-gmsh                 hobbes1069 ignatenkobrain jkastner smani
 gnote                kalev
 gnu-free-fonts       limb
 golang-gopkg-retry-1 eclipseo
@@ -105,15 +101,14 @@ dtimms     ogre
 eclipseo   clementine golang-gopkg-retry-1
 fjanus     mariadb10.11
 hhorak     mariadb10.11
-hobbes1069 fldigi flrig gmsh
+hobbes1069 fldigi flrig
 hushan     filebench
 huzaifas   nikto
-ignatenkobrain gmsh libclc ogre python-traitsui teeworlds
+ignatenkobrain libclc ogre python-traitsui teeworlds
 jamatos    lyx
 jcline     kernel
 jforbes    kernel
 jgrulich   kf5-bluez-qt kf5-kdeclarative kf5-krunner kf5-threadweaver
-jkastner   gmsh
 jkucera    kf5-libkleo
 jnovy      texlive
 jonathanspw opendkim
@@ -141,7 +136,7 @@ mfabian    man-pages-l10n
 mikelo2    golang-gopkg-yaml-1
 mschorm    mariadb10.11
 mtasaka    ruby
-music      cfn-lint fcitx5-mozc
+music      fcitx5-mozc
 myoung     kernel
 nalimilan  julia
 nforro     man-pages-l10n
@@ -153,7 +148,6 @@ patches    man2html
 patrickt   kernel
 petersen   ghc-hxt-unicode ghc-monad-loops ghc-polyparse ghc-tf-random
 quintela   kernel
-qulogic    ghc-http-client
 rathann    libva-intel-hybrid-driver
 rcallicotte hydra
 rdieter    jsmath-fonts kf5-bluez-qt kf5-kcalendarcore kf5-kdeclarative kf5-kholidays kf5-kirigami2 kf5-krunner kf5-libkleo kf5-threadweaver kscreen lyx
@@ -163,11 +157,10 @@ sagitter   avogadro2-libs libtimidity
 sandeen    kernel
 sergesanspaille libclc
 sergiomb   man2html ogre
-sgrubb     gdb-exploitable
 sharkcz    cross-binutils
 slaanesh   bacula
 slankes    maatkit
-smani      gmsh libwebp
+smani      libwebp
 spot       fedora-remix-logos julius texlive tkimg
 steved     kernel
 suve       lazarus
