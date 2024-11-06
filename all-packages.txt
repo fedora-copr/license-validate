@@ -349,6 +349,7 @@ arj
 ark
 armacycles-ad
 armadillo
+arm-compute-library
 arm-image-installer
 arm-none-eabi-binutils-cs
 arm-none-eabi-gcc-cs
@@ -1261,6 +1262,7 @@ cosmic-applets
 cosmic-app-library
 cosmic-bg
 cosmic-comp
+cosmic-config-fedora
 cosmic-edit
 cosmic-files
 cosmic-greeter
@@ -2145,6 +2147,7 @@ erlang-p1_pgsql
 erlang-p1_utils
 erlang-ranch
 erlang-rebar
+erlang-rebar3-gpb
 erlang-rebar3-pc
 erlang-rebar3
 erlang-relx
@@ -4368,8 +4371,6 @@ golang-github-emersion-imap-sortthread
 golang-github-emersion-imap
 golang-github-emersion-maildir
 golang-github-emersion-message
-golang-github-emersion-milter
-golang-github-emersion-msgauth
 golang-github-emersion-pgpmail
 golang-github-emersion-sasl
 golang-github-emersion-smtp
@@ -4633,6 +4634,7 @@ golang-github-charmbracelet-lipgloss
 golang-github-checkpoint-restore-criu
 golang-github-cheekybits-is
 golang-github-cheggaaa-pb-3
+golang-github-chewxy-math32
 golang-github-chi-cors
 golang-github-chifflier-nfqueue
 golang-github-chi-render
@@ -6673,12 +6675,6 @@ javapoet
 java-runtime-decompiler
 java-scrypt
 javassist
-java-11-openjdk-portable
-java-11-openjdk
-java-17-openjdk-portable
-java-17-openjdk
-java-1.8.0-openjdk-portable
-java-1.8.0-openjdk
 java-21-openjdk-portable
 java-21-openjdk
 jaxb-api
@@ -6888,6 +6884,7 @@ kdebugsettings
 kde-cli-tools
 kde-connect
 kdecoration
+kdecoration5
 kde-dev-scripts
 kde-dev-utils
 kdeedu-data
@@ -7372,6 +7369,7 @@ kubernetes1.29
 kubernetes1.30
 kubernetes1.31
 kubrick
+kunifiedpush
 kurdit-unikurd-web-fonts
 kuserfeedback
 kuser
@@ -9930,6 +9928,7 @@ nvmetcli
 nvml
 nvtop
 nwg-bar
+nwg-dock-hyprland
 nwg-dock
 nwg-drawer
 nwg-launchers
@@ -10395,7 +10394,6 @@ os-autoinst
 osbs-client
 osbuild-composer
 osbuild
-oscap-anaconda-addon
 oscillatord
 osc-source_validator
 osc
@@ -10560,7 +10558,6 @@ pcaro-hermit-fonts
 pcaudiolib
 pcb-rnd
 pcb
-pcc
 pcem
 pcfi
 pcg-cpp
@@ -10851,6 +10848,7 @@ perl-Carton
 perl-Catalyst-Action-RenderView
 perl-Catalyst-Action-REST
 perl-Catalyst-ActionRole-ACL
+perl-Catalyst-ActionRole-RequireSSL
 perl-Catalyst-Authentication-Credential-HTTP
 perl-Catalyst-Authentication-Store-DBIx-Class
 perl-Catalyst-Component-InstancePerContext
@@ -15005,6 +15003,7 @@ python-colcon-ed
 python-colcon-installed-package-information
 python-colcon-lcov-result
 python-colcon-library-path
+python-colcon-meson
 python-colcon-metadata
 python-colcon-mixin
 python-colcon-notification
@@ -15286,6 +15285,7 @@ python-ducc0
 python-duecredit
 python-dulwich
 python-dunamai
+python-durationpy
 python-d2to1
 python-earthpy
 python-easyargs
@@ -15293,6 +15293,7 @@ python-easyco
 python-easydict
 python-easygui
 python-easyprocess
+python-ebooklib
 python-ebranch
 python-eccodes
 python-ecdsa
@@ -15782,6 +15783,7 @@ python-jsons
 python-jsonstreams
 python-json2table
 python-json5
+python-jstyleson
 python-junit_xml
 python-junitxml
 python-jupymake
@@ -15972,6 +15974,7 @@ python-metno
 python-mf2py
 python-micawber
 python-microfs
+python-microsoft-security-utilities-secret-masker
 python-mido
 python-migen
 python-migrate
@@ -16494,6 +16497,7 @@ python-pygments-style-solarized
 python-pygmtools
 python-pygraphviz
 python-pygrocy
+python-pygtkspellcheck
 python-pyhcl
 python-pyhomematic
 python-pyinels
@@ -16594,6 +16598,7 @@ python-pyramid_sawing
 python-pyramid
 python-pyramid-tm
 python-pyrate-limiter
+python-pyrdfa3
 python-pyrfc3339
 python-pyriemann
 python-pyroaring
@@ -17720,6 +17725,7 @@ qtcurve
 qterminal
 qtermwidget
 qtchooser
+qtile-extras
 qtile
 qtilitools
 qtiocompressor
@@ -18031,7 +18037,6 @@ realtime-tests
 rear
 reaver
 rebase-helper
-rebloom
 recapp
 recap
 recode
@@ -18046,7 +18051,6 @@ redhat-menus
 redhat-rpm-config
 redict
 redir
-RediSearch
 redland
 rednotebook
 redshift
@@ -18058,7 +18062,6 @@ regextester
 regina-rexx
 regionset
 reg
-rejson
 rekollect
 rekonq
 relaxng-datatype-java
@@ -19222,6 +19225,7 @@ rust-below-view
 rust-bencher
 rust-bigdecimal
 rust-bigdecimal0.3
+rust-bimap
 rust-binary-heap-plus
 rust-binascii
 rust-bincode
@@ -19295,6 +19299,7 @@ rust-bytelines
 rust-bytemuck_derive
 rust-bytemuck
 rust-byteorder-lite
+rust-byteorder_slice
 rust-byteorder
 rust-bytes-cast-derive
 rust-bytes-cast
@@ -20295,7 +20300,6 @@ rust-jsonwebtoken
 rust-json5
 rust-just
 rust-jwalk
-rust-jwalk0.6
 rust-jwt
 rust-jxl-bitstream
 rust-jxl-coding
@@ -20313,6 +20317,8 @@ rust-kdotool
 rust-keccak
 rust-keyframe_derive
 rust-keyframe
+rust-keyvalues-parser
+rust-keyvalues-serde
 rust-khronos_api
 rust-konst_macro_rules
 rust-konst_proc_macros
@@ -20888,6 +20894,7 @@ rust-proc-macro-crate0.1
 rust-proc-macro-crate1
 rust-proc-macro-crate2
 rust-proc-macro-error-attr
+rust-proc-macro-error-attr2
 rust-proc-macro-error
 rust-proc-macro-hack
 rust-proc-macro2-diagnostics
@@ -21101,6 +21108,7 @@ rust-rmp-serde
 rust-rmp
 rust-rmpv
 rust-rocket_codegen
+rust-rocket_cors
 rust-rocket_http
 rust-rocket
 rust-roff
@@ -21638,7 +21646,6 @@ rust-tuikit
 rust-tui-react
 rust-tui
 rust-tui-textarea
-rust-tui0.11
 rust-tungstenite
 rust-two-face
 rust-twofish

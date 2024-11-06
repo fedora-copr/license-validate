@@ -288,6 +288,7 @@ aribb25
 arj
 armacycles-ad
 armadillo
+arm-compute-library
 arm-image-installer
 arm-none-eabi-gcc-cs
 arm-none-eabi-newlib
@@ -785,6 +786,7 @@ centerim
 centos-packager
 centpkg
 cepces
+ceph
 cereal
 ceres-solver
 certbot
@@ -1008,6 +1010,7 @@ cosmic-applets
 cosmic-app-library
 cosmic-bg
 cosmic-comp
+cosmic-config-fedora
 cosmic-edit
 cosmic-files
 cosmic-greeter
@@ -1695,6 +1698,7 @@ erlang-p1_acme
 erlang-p1_mysql
 erlang-p1_pgsql
 erlang-p1_utils
+erlang-rebar3-gpb
 erlang-rebar3-pc
 erlang-rebar3
 erlang-relx
@@ -2895,6 +2899,7 @@ ghc9.8
 ghemical
 ghex
 ghostscript
+ghostwriter
 giac
 gi-docgen
 giflib
@@ -3417,8 +3422,6 @@ golang-github-edoardottt-golazy
 golang-github-edoardottt-lit-bb-hack-tools
 golang-github-edwvee-exiffix
 golang-github-elliotchance-orderedmap
-golang-github-emersion-milter
-golang-github-emersion-msgauth
 golang-github-emicklei-proto
 golang-github-envoyproxy-control-plane
 golang-github-envoyproxy-protoc-gen-validate
@@ -3562,6 +3565,7 @@ golang-github-charmbracelet-bubbletea
 golang-github-charmbracelet-harmonica
 golang-github-checkpoint-restore-criu
 golang-github-cheggaaa-pb-3
+golang-github-chewxy-math32
 golang-github-chifflier-nfqueue
 golang-github-chzyer-readline
 golang-github-iglou-eu-wildcard
@@ -4894,8 +4898,6 @@ javapoet
 java-runtime-decompiler
 java-scrypt
 javassist
-java-11-openjdk-portable
-java-1.8.0-openjdk-portable
 java-21-openjdk-portable
 java-21-openjdk
 jaxb-api
@@ -5048,6 +5050,7 @@ kddockwidgets
 kdebase3
 kde-cli-tools
 kde-connect
+kdecoration5
 kde-dev-scripts
 kde-dev-utils
 kdeedu-data
@@ -5440,6 +5443,7 @@ kturtle
 kubernetes1.29
 kubernetes1.30
 kubernetes1.31
+kunifiedpush
 kurdit-unikurd-web-fonts
 kvantum
 kwalletmanager
@@ -6462,6 +6466,7 @@ mandoc
 manedit
 manchu-fonts
 manifest-tool
+man-pages-ja
 man-pages
 man-pages-zh-CN
 mapbox-variant
@@ -7263,6 +7268,7 @@ nrg2iso
 nrpe
 nsca
 NsCDE
+nsdiff
 nsnake
 nsntrace
 nss-altfiles
@@ -7301,6 +7307,7 @@ nvmetcli
 nvml
 nvtop
 nwg-bar
+nwg-dock-hyprland
 nwg-dock
 nwg-drawer
 nwg-launchers
@@ -7605,6 +7612,7 @@ OpenIPMI
 openjade
 openjdk-asmtools
 openjdk-asmtools7
+openjfx
 openjfx8
 openjpeg
 openjph
@@ -7680,7 +7688,6 @@ orsa
 os-autoinst
 osbuild-composer
 osbuild
-oscap-anaconda-addon
 oscillatord
 osc-source_validator
 osc
@@ -8099,6 +8106,7 @@ perl-Carton
 perl-Catalyst-Action-RenderView
 perl-Catalyst-Action-REST
 perl-Catalyst-ActionRole-ACL
+perl-Catalyst-ActionRole-RequireSSL
 perl-Catalyst-Authentication-Credential-HTTP
 perl-Catalyst-Authentication-Store-DBIx-Class
 perl-Catalyst-Component-InstancePerContext
@@ -8591,6 +8599,7 @@ perl-DBICx-TestDatabase
 perl-DBI-Dumper
 perl-DBI
 perl-DBIx-Admin-TableInfo
+perl-DBIx-Class-Candy
 perl-DBIx-Class-Cursor-Cached
 perl-DBIx-Class-DateTime-Epoch
 perl-DBIx-Class-DeploymentHandler
@@ -8783,7 +8792,6 @@ perl-Exporter-Declare
 perl-Exporter-Easy
 perl-Exporter-Lite
 perl-Exporter
-perl-Exporter-Tidy
 perl-Exporter-Tiny
 perl-ExtUtils-AutoInstall
 perl-ExtUtils-CBuilder
@@ -11614,6 +11622,7 @@ python-btchip
 python-bucky
 python-bugzilla
 python-b4
+python-cached_property
 python-cachelib
 python-cachetools
 python-cairocffi
@@ -11673,6 +11682,7 @@ python-colcon-ed
 python-colcon-installed-package-information
 python-colcon-lcov-result
 python-colcon-library-path
+python-colcon-meson
 python-colcon-metadata
 python-colcon-mixin
 python-colcon-notification
@@ -11837,11 +11847,13 @@ python-ducc0
 python-duecredit
 python-dulwich
 python-dunamai
+python-durationpy
 python-earthpy
 python-easyco
 python-easydict
 python-easygui
 python-easyprocess
+python-ebooklib
 python-ebranch
 python-eccodes
 python-edgegrid
@@ -12155,6 +12167,7 @@ python-jsonschema
 python-jsonschema-specifications
 python-jsonstreams
 python-json5
+python-jstyleson
 python-junit_xml
 python-junitxml
 python-jupymake
@@ -12293,6 +12306,7 @@ python-messaging
 python-metakernel
 python-metar
 python-mf2py
+python-microsoft-security-utilities-secret-masker
 python-mirakuru
 python-mirrors-countme
 python-missingno
@@ -12634,6 +12648,7 @@ python-pygments-pytest
 python-pygments
 python-pygmtools
 python-pygraphviz
+python-pygtkspellcheck
 python-pyhcl
 python-pyjwkest
 python-pykcs11
@@ -12705,6 +12720,7 @@ python-pyramid-mako
 python-pyramid_sawing
 python-pyramid
 python-pyrate-limiter
+python-pyrdfa3
 python-pyriemann
 python-pyroaring
 python-pyroute2
@@ -13266,6 +13282,7 @@ python-wloc
 python-wordcloud
 python-wrapt
 python-wsgidav
+python-www-authenticate
 python-wxnatpy
 python-wxpython4
 python-w3lib
@@ -13446,6 +13463,7 @@ qsynth
 qt-creator
 qterminal
 qtermwidget
+qtile-extras
 qtile
 qtilitools
 qt-jdenticon
@@ -13678,7 +13696,6 @@ realtime-tests
 rear
 reaver
 rebase-helper
-rebloom
 recapp
 recap
 recode
@@ -13691,7 +13708,6 @@ redhat-menus
 redhat-rpm-config
 redict
 redir
-RediSearch
 redland
 rednotebook
 redshift
@@ -13701,7 +13717,6 @@ regexp
 regextester
 regina-rexx
 regionset
-rejson
 rekollect
 rekonq
 relaxng-datatype-java
@@ -14666,6 +14681,7 @@ rust-below-view
 rust-bencher
 rust-bigdecimal
 rust-bigdecimal0.3
+rust-bimap
 rust-binary-heap-plus
 rust-binascii
 rust-bincode
@@ -14739,6 +14755,7 @@ rust-bytelines
 rust-bytemuck_derive
 rust-bytemuck
 rust-byteorder-lite
+rust-byteorder_slice
 rust-byteorder
 rust-bytes-cast-derive
 rust-bytes-cast
@@ -15059,7 +15076,6 @@ rust-derive_more0.99
 rust-derive-new
 rust-der
 rust-der0.4
-rust-desed
 rust-deser-hjson
 rust-des
 rust-detone
@@ -15736,7 +15752,6 @@ rust-jsonwebtoken
 rust-json5
 rust-just
 rust-jwalk
-rust-jwalk0.6
 rust-jwt
 rust-jxl-bitstream
 rust-jxl-coding
@@ -15754,6 +15769,8 @@ rust-kdotool
 rust-keccak
 rust-keyframe_derive
 rust-keyframe
+rust-keyvalues-parser
+rust-keyvalues-serde
 rust-khronos_api
 rust-konst_macro_rules
 rust-konst_proc_macros
@@ -16326,6 +16343,7 @@ rust-proc-macro-crate0.1
 rust-proc-macro-crate1
 rust-proc-macro-crate2
 rust-proc-macro-error-attr
+rust-proc-macro-error-attr2
 rust-proc-macro-error
 rust-proc-macro-hack
 rust-proc-macro2-diagnostics
@@ -16539,6 +16557,7 @@ rust-rmp-serde
 rust-rmp
 rust-rmpv
 rust-rocket_codegen
+rust-rocket_cors
 rust-rocket_http
 rust-rocket
 rust-roff
@@ -17075,7 +17094,6 @@ rust-tuikit
 rust-tui-react
 rust-tui
 rust-tui-textarea
-rust-tui0.11
 rust-tungstenite
 rust-two-face
 rust-twofish
