@@ -14,7 +14,6 @@ ghc-monad-loops      petersen
 ghc-polyparse        petersen
 ghc-tf-random        petersen
 ghc-uglymemo         mathstuf
-gl-manpages          ajax yaneti
 gnote                kalev
 golang-gopkg-retry-1 eclipseo
 golang-gopkg-yaml-1  mikelo2
@@ -43,7 +42,6 @@ kpublictransport     ngompa thunderbirdtr
 kscreen              rdieter
 lazarus              suve
 libclc               ignatenkobrain nikic sergesanspaille tstellar tuliom
-libtimidity          aekoroglu jwrdegoede sagitter
 libva-intel-hybrid-driver kwizart rathann
 libwebp              smani
 lmms                 thm
@@ -55,17 +53,15 @@ mxml                 kevin
 net-snmp             jridky jsafrane zdohnal
 nikto                huzaifas rebus
 ocaml-omake          rjones
-ogre                 dtimms ignatenkobrain sergiomb
 opendkim             jonathanspw
-perl-Exporter-Tidy   jplesnik ppisar
 pypy                 churchyard thrnciar
 pypy3.9              churchyard thrnciar
+python-setuptools    churchyard cstratak thrnciar
 python-traitsui      chedi ignatenkobrain orion
 python-utmp          jpopelka tuju
 ruby                 mtasaka vondruch
 rubygem-rdoc         vondruch
 rust-askalono-cli    decathorpe
-rust-desed           suve
 rust-dutree          kalev
 rust-nettle          decathorpe
 rust-nettle-sys      decathorpe
@@ -80,37 +76,35 @@ wwl                  jskarvad
 
 Packages by maintainer:
 acaringi   kernel
-aekoroglu  libtimidity
 airlied    kernel
-ajax       gl-manpages kernel
+ajax       kernel
 bowlofeggs rust-rpick
 bskeggs    kernel
 catanzaro  webkitgtk
 chedi      python-traitsui
-churchyard pypy pypy3.9
+churchyard pypy pypy3.9 python-setuptools
+cstratak   python-setuptools
 decathorpe rust-askalono-cli rust-nettle rust-nettle-sys rust-ybaas rust-yubibomb
 dhowells   cross-binutils
-dtimms     ogre
 eclipseo   clementine golang-gopkg-retry-1
 fjanus     mariadb10.11
 hhorak     mariadb10.11
 hobbes1069 fldigi flrig
 hushan     filebench
 huzaifas   nikto
-ignatenkobrain libclc ogre python-traitsui teeworlds
+ignatenkobrain libclc python-traitsui teeworlds
 jcline     kernel
 jforbes    kernel
 jgrulich   kf5-bluez-qt kf5-kdeclarative kf5-krunner kf5-threadweaver
 jkucera    kf5-libkleo
 jnovy      texlive
 jonathanspw opendkim
-jplesnik   perl-Exporter-Tidy
 jpopelka   python-utmp
 jridky     net-snmp
 jsafrane   net-snmp
 jskarvad   wwl
 jwboyer    kernel
-jwrdegoede kernel libtimidity
+jwrdegoede kernel
 kalev      gnote rust-dutree
 kernel-maint kernel
 kevin      mxml
@@ -137,35 +131,33 @@ orphan     jbosscache-support
 patches    man2html
 patrickt   kernel
 petersen   ghc-hxt-unicode ghc-monad-loops ghc-polyparse ghc-tf-random
-ppisar     perl-Exporter-Tidy
 quintela   kernel
 rathann    libva-intel-hybrid-driver
 rcallicotte hydra
 rdieter    jsmath-fonts kf5-bluez-qt kf5-kcalendarcore kf5-kdeclarative kf5-kholidays kf5-kirigami2 kf5-krunner kf5-libkleo kf5-threadweaver kscreen
 rebus      hydra nikto
 rjones     ocaml-omake
-sagitter   avogadro2-libs libtimidity
+sagitter   avogadro2-libs
 sandeen    kernel
 sergesanspaille libclc
-sergiomb   man2html ogre
+sergiomb   man2html
 sharkcz    cross-binutils
 slaanesh   bacula
 slankes    maatkit
 smani      libwebp
 spot       fedora-remix-logos julius texlive tkimg
 steved     kernel
-suve       lazarus rust-desed
+suve       lazarus
 than       kf5-kdeclarative kf5-krunner kf5-threadweaver texlive
 thl        kcbench
 thm        lmms
-thrnciar   pypy pypy3.9
+thrnciar   pypy pypy3.9 python-setuptools
 thunderbirdtr kclock kf5-kirigami2-addons khealthcertificate kpublictransport
 tstellar   libclc
 tuju       python-utmp
 tuliom     libclc
 vondruch   ruby rubygem-rdoc
 wtaymans   gstreamer1-doc
-yaneti     gl-manpages
 yanqiyu    fcitx5-mozc
 zdohnal    net-snmp
 zmiklank   mariadb10.11
