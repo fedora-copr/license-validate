@@ -233,7 +233,6 @@ apache-resource-bundles
 apache-sshd
 apachetop
 apbs
-apcupsd
 apfs-fuse
 apg
 apiguardian
@@ -784,6 +783,7 @@ celluloid
 cellwriter
 centerim
 centos-packager
+centpkg-minimal
 centpkg
 cepces
 ceph
@@ -1416,6 +1416,7 @@ dotnet9.0
 dot2tex
 doublecmd
 double-conversion
+dovecot-fts-xapian
 dovecot
 doxygen
 doxy2man
@@ -1436,6 +1437,7 @@ dropwatch
 drumkv1
 drumstick
 drumstick0
+dsda-doom
 DSDP
 dsniff
 dsp
@@ -1700,9 +1702,11 @@ erlang-p1_pgsql
 erlang-p1_utils
 erlang-rebar3-gpb
 erlang-rebar3-pc
+erlang-rebar3-riak_pb_msgcodegen
 erlang-rebar3
 erlang-relx
 erlang-riak_client
+erlang-riak_core
 erlang-riak_dt
 erlang-riak_ensemble
 erlang-riak_kv
@@ -3566,6 +3570,7 @@ golang-github-charmbracelet-bubbletea
 golang-github-charmbracelet-harmonica
 golang-github-checkpoint-restore-criu
 golang-github-cheggaaa-pb-3
+golang-github-chewxy-hm
 golang-github-chewxy-math32
 golang-github-chifflier-nfqueue
 golang-github-chzyer-readline
@@ -3980,6 +3985,7 @@ golang-gopkg-macaron-1
 golang-gopkg-macaroon2
 golang-gopkg-ns1-2
 golang-gopkg-rethinkdb-6
+golang-gopkg-retry-1
 golang-gopkg-seborama-govcr-4
 golang-gopkg-sourcemap-1
 golang-gopkg-square-jose-2
@@ -3991,6 +3997,8 @@ golang-gopkg-validator2
 golang-gopkg-vmihailenco-msgpack-2
 golang-gopkg-yaml-2
 golang-gopkg-yaml-3
+golang-gorgonia-vecf32
+golang-gorgonia-vecf64
 golang-gotest
 golang-go4
 golang-gvisor
@@ -4284,6 +4292,7 @@ gt5
 guacamole-server
 guake
 guava
+guayadeque
 gubbi-fonts
 guestfs-tools
 gucharmap
@@ -4436,6 +4445,7 @@ httpry
 httptunnel
 httrack
 hugin
+huion-switcher
 hulk
 hunspell-af
 hunspell-ak
@@ -5378,6 +5388,7 @@ konsole5
 kontactinterface
 kontrast
 konversation
+kookbook
 kopeninghours
 kopete
 korganizer
@@ -5650,6 +5661,7 @@ libe-book
 libebur128
 libecap
 libecb
+libeconf
 libecpg
 libedit
 libechonest
@@ -6516,6 +6528,7 @@ maturin
 mat2
 maui-agenda
 maui-mauikit-accounts
+maui-mauikit-arca
 maui-mauikit-archiver
 maui-mauikit-calendar
 maui-mauikit-documents
@@ -6905,7 +6918,6 @@ mod_mapcache
 mod_markdown
 mod_maxminddb
 mod_md
-mod_nss
 mod_perl
 mod_proxy_cluster
 mod_psgi
@@ -7029,6 +7041,7 @@ multilib-rpm-config
 mumble
 munge
 munin
+muon-meson
 mupdf
 musescore
 MUSIC
@@ -7085,6 +7098,7 @@ m17n-lib
 m4rie
 m4ri
 m4
+nacl
 naev-data
 naev
 nagelfar
@@ -7134,6 +7148,7 @@ ndisc6
 ndppd
 neard
 nebula
+nec2c
 nedit
 needrestart
 nekohtml
@@ -7336,6 +7351,7 @@ obs-service-recompress
 obs-service-set_version
 obs-service-tar_scm
 obs-signd
+obs-studio-plugin-vaapi
 obs-studio-plugin-vkcapture
 obs-studio-plugin-webkitgtk
 obs-studio
@@ -11664,6 +11680,7 @@ python-cligj
 python-cloudant
 python-cloudpickle
 python-cloudscraper
+python-cloup
 python-cmake-build-extension
 python-cmap
 python-cma
@@ -11712,6 +11729,7 @@ python-collectd_cvmfs
 python-collectd_puppet
 python-colorama
 python-colored
+python-colormath2
 python-colorthief
 python-commoncode
 python-comm
@@ -12457,6 +12475,7 @@ python-optuna
 python-opytimark
 python-opytimizer
 python-oracledb
+python-oras
 python-ordered-set
 python-orderly-set
 python-orjson
@@ -12960,6 +12979,7 @@ python-setuptools-gettext
 python-setuptools-git-versioning
 python-setuptools-rust
 python-setuptools_scm
+python-setuptools
 python-sexpdata
 python-sgp4
 python-sgqlc
@@ -13608,7 +13628,6 @@ rakarrack
 rakudo
 rancid
 randomx
-ranger
 range-v3
 rang
 R-AnnotationDbi
@@ -14582,12 +14601,14 @@ rust-ascii-canvas
 rust-ascii
 rust-ashpd
 rust-ash
+rust-askalono-cli
 rust-askalono
 rust-askama_derive
 rust-askama_escape
 rust-askama_parser
 rust-askama
 rust-asn1_derive
+rust-asn1-rs-derive
 rust-asn1-rs-impl
 rust-asn1
 rust-as-raw-xcb-connection
@@ -15155,6 +15176,7 @@ rust-duct_sh
 rust-duct
 rust-dummy
 rust-dunce
+rust-dutree
 rust-dyn-clone
 rust-easy-cast
 rust-easy-parallel
