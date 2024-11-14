@@ -59,6 +59,7 @@ adobe-source-han-serif-jp-fonts
 adobe-source-han-serif-kr-fonts
 adobe-source-han-serif-tw-fonts
 adoptium-temurin-java-repository
+adplug
 advancecomp
 adwaita-icon-theme-legacy
 adwaita-icon-theme
@@ -233,6 +234,7 @@ apache-resource-bundles
 apache-sshd
 apachetop
 apbs
+apcupsd
 apfs-fuse
 apg
 apiguardian
@@ -1712,6 +1714,7 @@ erlang-riak_ensemble
 erlang-riak_kv
 erlang-riaknostic
 erlang-riak_pb
+erlang-riak_pipe
 erlang-riak_sysmon
 erlang-setup
 erlang-sext
@@ -1898,6 +1901,7 @@ fftw2
 fido-device-onboard
 fielding
 fig2ps
+filebench
 filedrop
 filelight
 file-roller
@@ -1963,6 +1967,7 @@ florist
 flowblade
 flowcanvas
 flpsed
+flrig
 flterm
 fltk
 fluent-bit
@@ -2283,6 +2288,7 @@ gdouros-avdira-fonts
 gdouros-musica-fonts
 gdouros-symbola-fonts
 gd
+gdu
 geany-plugins
 gearhead2
 gedit-color-schemes
@@ -3214,6 +3220,7 @@ gnurobots
 gnushogi
 gnusim8085
 gnustep-base
+gnustep-make
 gnutls
 goaccess
 goarrange
@@ -3921,6 +3928,7 @@ golang-github-vmware-govmomi
 golang-github-vmware-vmw-guestinfo
 golang-github-vultr-govultr-3
 golang-github-wellington-libsass
+golang-github-whilp-git-urls
 golang-github-willscott-nfs-client
 golang-github-willscott-nfs
 golang-github-wi2l-jettison
@@ -4855,6 +4863,7 @@ ittapi
 itzam-core
 iucode-tool
 iverilog
+iwd
 iw
 i2c-tools
 i3blocks
@@ -5765,6 +5774,7 @@ libid3tag
 libieee1284
 libifp
 libigloo
+libiio
 libijs
 libimobiledevice-glue
 libimobiledevice
@@ -6357,6 +6367,7 @@ lua-zlib
 lucene++
 lucene
 luckybackup
+lugaru
 lujavrite
 luksmeta
 lumail
@@ -6535,6 +6546,7 @@ maui-mauikit-documents
 maui-mauikit-filebrowsing
 maui-mauikit-imagetools
 maui-mauikit-index-fm
+maui-mauikit-pix
 maui-mauikit
 maui-mauikit-terminal
 maui-mauikit-texteditor
@@ -6676,11 +6688,13 @@ mimetex
 mimetreeparser
 minder
 mine_detector
+minetestmapper
 mingetty
 mingw-adwaita-icon-theme
 mingw-adwaita-qt
 mingw-antlr
 mingw-atkmm
+mingw-biblesync
 mingw-binutils
 mingw-boost
 mingw-cairo
@@ -7590,6 +7604,7 @@ opam
 opari2
 openal-soft
 openambit
+open-amp
 openarena
 openbabel
 openbgpd
@@ -7632,7 +7647,6 @@ openjade
 openjdk-asmtools
 openjdk-asmtools7
 openjfx
-openjfx8
 openjpeg
 openjph
 openkim-models
@@ -8699,6 +8713,7 @@ perl-Devel-StackTrace-WithLexicals
 perl-Devel-StringInfo
 perl-Devel-Symdump
 perl-Devel-Timer
+perl-Devel-Trace
 perl-Device-SerialPort
 perl-Digest-BubbleBabble
 perl-Digest-CRC
@@ -11921,6 +11936,7 @@ python-extractcode-libarchive
 python-extractcode
 python-extractcode-7z
 python-extras
+python-extruct
 python-eyed3
 python-ezdxf
 python-fabric
@@ -12213,6 +12229,7 @@ python-justbases
 python-justbytes
 python-jwcrypto
 python-kadmin
+python-kafka
 python-kazoo
 python-kdcproxy
 python-keepassxc-browser
@@ -12443,6 +12460,7 @@ python-odml
 python-ofxparse
 python-olefile
 python-omemo-backend-signal
+python-omlmd
 python-omsdk
 python-onigurumacffi
 python-onionbalance
@@ -12798,6 +12816,7 @@ python-pytest-env
 python-pytest-filter-subpackage
 python-pytest-flake8-path
 python-pytest-forked
+python-pytest-freezer
 python-pytest-github-actions-annotate-failures
 python-pytest-harvest
 python-pytest-home
@@ -12892,6 +12911,7 @@ python-readchar
 python-readme-renderer
 python-re-assert
 python-recordclass
+python-reedsolo
 python-referencing
 python-reflink
 python-registry
@@ -13012,6 +13032,7 @@ python-smartypants
 python-smbc
 python-smbpasswd
 python-smmap
+python-snakemake-executor-plugin-azure-batch
 python-snakemake-executor-plugin-cluster-generic
 python-snakemake-executor-plugin-cluster-sync
 python-snakemake-executor-plugin-flux
@@ -13628,6 +13649,7 @@ rakarrack
 rakudo
 rancid
 randomx
+ranger
 range-v3
 rang
 R-AnnotationDbi
@@ -13781,6 +13803,7 @@ reuse
 revelation
 R-expm
 Rex
+re2c
 re2
 R-fansi
 R-fastmatch
@@ -14999,7 +15022,6 @@ rust-crossbeam0.7
 rust-crossfont
 rust-crosstermion
 rust-crossterm
-rust-crossterm0.17
 rust-crossterm0.22
 rust-crossterm0.25
 rust-crossterm0.26
@@ -15291,6 +15313,7 @@ rust-fd-lock
 rust-fd-lock3
 rust-fend-core
 rust-fern
+rust-fern0.6
 rust-ff
 rust-fiat-crypto
 rust-field-offset
@@ -17122,7 +17145,6 @@ rust-ttf-parser
 rust-tui-input
 rust-tuikit
 rust-tui-react
-rust-tui
 rust-tui-textarea
 rust-tungstenite
 rust-two-face
@@ -17205,8 +17227,6 @@ rust-url
 rust-usb-ids
 rust-userfaultfd
 rust-userfaultfd-sys
-rust-users
-rust-users0.10
 rust-utf8_iter
 rust-utf8parse
 rust-utf-8
@@ -17426,8 +17446,10 @@ rust-zbus1
 rust-zeitfetch
 rust-zerocopy-derive
 rust-zerocopy-derive0.6
+rust-zerocopy-derive0.7
 rust-zerocopy
 rust-zerocopy0.6
+rust-zerocopy0.7
 rust-zerofrom-derive
 rust-zerofrom
 rust-zeroize_derive
@@ -17662,6 +17684,7 @@ sgpio
 sgtk-menu
 sg3_utils
 shaderc
+shadow-utils
 shake
 shapelib
 shared-mime-info
@@ -18709,6 +18732,7 @@ We10X-icon-theme
 wf-recorder
 wf
 wfuzz
+wfview
 wget2
 wgrib
 wgrib2
@@ -19134,6 +19158,7 @@ zabbix
 zaf
 zam-plugins
 zanshin
+zasx
 zathura-cb
 zathura-djvu
 zathura-pdf-mupdf
