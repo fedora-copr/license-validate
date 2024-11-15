@@ -2,17 +2,11 @@ Maintainers by package:
 avogadro2-libs       sagitter
 bacula               slaanesh
 clementine           eclipseo
-cross-binutils       dhowells lkundrak sharkcz
 fcitx5-mozc          music yanqiyu
 fedora-remix-logos   spot
 fldigi               hobbes1069
 frescobaldi          limb
-ghc-hxt-unicode      petersen
-ghc-monad-loops      petersen
 ghc-polyparse        petersen
-ghc-tf-random        petersen
-ghc-uglymemo         mathstuf
-gnote                kalev
 golang-gopkg-yaml-1  mikelo2
 google-roboto-mono-fonts linkdupont
 gstreamer1-doc       wtaymans
@@ -46,7 +40,6 @@ man-pages-l10n       ljavorsk mfabian nforro
 man2html             orion patches sergiomb
 mariadb10.11         fjanus hhorak ljavorsk mschorm zmiklank
 mxml                 dcavalca
-net-snmp             jridky jsafrane zdohnal
 nikto                huzaifas rebus
 ocaml-omake          rjones
 opendkim             jonathanspw
@@ -77,7 +70,6 @@ chedi      python-traitsui
 churchyard pypy pypy3.9
 dcavalca   mxml
 decathorpe rust-nettle rust-nettle-sys rust-ybaas rust-yubibomb
-dhowells   cross-binutils
 eclipseo   clementine
 fjanus     mariadb10.11
 hhorak     mariadb10.11
@@ -91,20 +83,15 @@ jkucera    kf5-libkleo
 jnovy      texlive
 jonathanspw opendkim
 jpopelka   python-utmp
-jridky     net-snmp
-jsafrane   net-snmp
 jskarvad   wwl
 jsmith     libmetal
 jwboyer    kernel
 jwrdegoede kernel
-kalev      gnote
 kernel-maint kernel
 limb       frescobaldi
 linkdupont google-roboto-mono-fonts
 linville   kernel
 ljavorsk   man-pages-l10n mariadb10.11
-lkundrak   cross-binutils
-mathstuf   ghc-uglymemo
 mfabian    man-pages-l10n
 mikelo2    golang-gopkg-yaml-1
 mschorm    mariadb10.11
@@ -119,7 +106,7 @@ orion      man2html python-traitsui
 orphan     jbosscache-support
 patches    man2html
 patrickt   kernel
-petersen   ghc-hxt-unicode ghc-monad-loops ghc-polyparse ghc-tf-random
+petersen   ghc-polyparse
 quintela   kernel
 rcallicotte hydra
 rdieter    jsmath-fonts kf5-bluez-qt kf5-kcalendarcore kf5-kdeclarative kf5-kholidays kf5-kirigami2 kf5-krunner kf5-libkleo kf5-threadweaver kscreen
@@ -129,7 +116,6 @@ sagitter   avogadro2-libs
 sandeen    kernel
 sergesanspaille libclc
 sergiomb   man2html
-sharkcz    cross-binutils
 slaanesh   bacula
 slankes    maatkit
 smani      libwebp
@@ -147,5 +133,4 @@ tuliom     libclc
 vondruch   ruby rubygem-rdoc
 wtaymans   gstreamer1-doc
 yanqiyu    fcitx5-mozc
-zdohnal    net-snmp
 zmiklank   mariadb10.11
