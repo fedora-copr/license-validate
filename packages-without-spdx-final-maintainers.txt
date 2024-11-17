@@ -2265,7 +2265,6 @@ libmatekbd           raveit65 rdieter robert
 libmateweather       raveit65 rdieter robert
 libmatroska          kwizart ngompa rathann
 libmcrypt            remi spot
-libmetal             jsmith
 libmikmod            aekoroglu jwrdegoede sergiomb
 libminc              ankursinha ignatenkobrain
 libmodbus            sandeen
@@ -2941,7 +2940,6 @@ perl-Gtk2-Spell      jplesnik ppisar
 perl-Gtk2-TrayIcon   jplesnik ppisar
 perl-HTML-FormHandler eseyman iarnell
 perl-HTML-HTML5-Entities eseyman jplesnik
-perl-HTML-HTML5-Parser eseyman jplesnik
 perl-HTML-HTML5-Sanity eseyman
 perl-HTML-Template-Pro eseyman lkundrak
 perl-HTTP-Link-Parser ppisar
@@ -2971,7 +2969,6 @@ perl-Module-Package-RDF ppisar
 perl-Mojo-RabbitMQ-Client eseyman
 perl-MongoDB         ppisar
 perl-MooX-Role-Parameterized ppisar
-perl-MooX-Struct     eseyman jplesnik
 perl-MooseX-ArrayRef eseyman jplesnik
 perl-MooseX-AttributeShortcuts eseyman jplesnik
 perl-MooseX-MarkAsMethods eseyman jplesnik
@@ -2990,7 +2987,6 @@ perl-PSGI            eseyman jplesnik ppisar
 perl-Package-New     spot
 perl-Pango           spot
 perl-PatchReader     eseyman
-perl-PerlX-Maybe     ppisar
 perl-PerlX-Maybe-XS  ppisar
 perl-RDF-Prefixes    jplesnik ppisar
 perl-RDF-TriN3       jplesnik ppisar
@@ -3717,7 +3713,7 @@ python-geojson       fab
 python-geoplot       qulogic
 python-getmac        hargonix
 python-gettext       ngompa
-python-gevent        ignatenkobrain orion
+python-gevent        ignatenkobrain kkeithle orion
 python-gevent-eventemitter atim
 python-gilt          chedi
 python-git-changelog topazus vanessakris
@@ -3796,7 +3792,7 @@ python-jaraco-envs   cstratak
 python-jaraco-functools jcaratzas radez
 python-jaraco-packaging jcaratzas radez
 python-jaraco-path   churchyard thrnciar
-python-jaraco-text   mrunge omos radez
+python-jaraco-text   kkeithle mrunge omos radez
 python-javalang      fab
 python-jcconv        besser82
 python-jedi          carlwgeorge lbalhar rcallicotte
@@ -5248,7 +5244,7 @@ encukou    python-flask-admin python-progressbar2 python-tomli python-tox-curren
 erack      firefox
 ernunes    kmscube
 ertzing    uwsgi
-eseyman    bugzilla perl-CGI-Application-Standard-Config perl-CGI-Deurl-XS perl-CGI-Struct perl-Catalyst-Plugin-Cache perl-Config-Model-CursesUI perl-Config-Model-Itself perl-EBook-EPUB perl-Eval-LineNumbers perl-FCGI-ProcManager perl-File-FindLib perl-HTML-FormHandler perl-HTML-HTML5-Entities perl-HTML-HTML5-Parser perl-HTML-HTML5-Sanity perl-HTML-Template-Pro perl-HTTP-Soup perl-Hijk perl-Library-CallNumber-LC perl-Math-Random-ISAAC perl-Math-Random-ISAAC-XS perl-Mojo-RabbitMQ-Client perl-MooX-Struct perl-MooseX-ArrayRef perl-MooseX-AttributeShortcuts perl-MooseX-MarkAsMethods perl-MooseX-Meta-TypeConstraint-Mooish perl-MooseX-Role-Tempdir perl-MooseX-Role-XMLRPC-Client perl-MooseX-TraitFor-Meta-Class-BetterAnonClassNames perl-MooseX-Util perl-Net-Server-Coro perl-PSGI perl-PatchReader perl-String-Random perl-Term-ShellUI perl-Test-Mock-Time perl-Text-Reflow perl-Text-Table perl-Tk-TableMatrix shelldap t-prot
+eseyman    bugzilla perl-CGI-Application-Standard-Config perl-CGI-Deurl-XS perl-CGI-Struct perl-Catalyst-Plugin-Cache perl-Config-Model-CursesUI perl-Config-Model-Itself perl-EBook-EPUB perl-Eval-LineNumbers perl-FCGI-ProcManager perl-File-FindLib perl-HTML-FormHandler perl-HTML-HTML5-Entities perl-HTML-HTML5-Sanity perl-HTML-Template-Pro perl-HTTP-Soup perl-Hijk perl-Library-CallNumber-LC perl-Math-Random-ISAAC perl-Math-Random-ISAAC-XS perl-Mojo-RabbitMQ-Client perl-MooseX-ArrayRef perl-MooseX-AttributeShortcuts perl-MooseX-MarkAsMethods perl-MooseX-Meta-TypeConstraint-Mooish perl-MooseX-Role-Tempdir perl-MooseX-Role-XMLRPC-Client perl-MooseX-TraitFor-Meta-Class-BetterAnonClassNames perl-MooseX-Util perl-Net-Server-Coro perl-PSGI perl-PatchReader perl-String-Random perl-Term-ShellUI perl-Test-Mock-Time perl-Text-Reflow perl-Text-Table perl-Tk-TableMatrix shelldap t-prot
 etrunko    mingw-brotli mingw-bzip2 mingw-dlfcn mingw-libgcrypt mingw-libgpg-error mingw-libpsl mingw-libsoup mingw-libssh2 mingw-openssl mingw-rest mingw-spice-gtk mingw-spice-protocol
 evgeni     freight
 ework      egl-gbm gtkdatabox
@@ -5381,7 +5377,7 @@ jorton     pakchois
 josef      e2fsprogs geany
 joshstrobl budgie-control-center
 jpena      python-XStatic-Angular-FileUpload python-XStatic-bootswatch python-XStatic-mdi python-cradox python-django-debreach python-django-formtools python-flask-httpauth python-graphene python-sh python-tinyrpc
-jplesnik   perl-Best perl-Config-Model-CursesUI perl-Config-Model-Itself perl-FCGI-ProcManager perl-Gnome2-GConf perl-Gtk2-Ex-Utils perl-Gtk2-GladeXML perl-Gtk2-Notify perl-Gtk2-Sexy perl-Gtk2-Spell perl-Gtk2-TrayIcon perl-HTML-HTML5-Entities perl-HTML-HTML5-Parser perl-Icon-FamFamFam-Silk perl-Module-Install-Contributors perl-Module-Install-Copyright perl-Module-Install-DOAP perl-Module-Install-DOAPChangeSets perl-Module-Install-TrustMetaYml perl-MooX-Struct perl-MooseX-ArrayRef perl-MooseX-AttributeShortcuts perl-MooseX-MarkAsMethods perl-MooseX-Meta-TypeConstraint-Mooish perl-MooseX-Role-Tempdir perl-MooseX-Role-XMLRPC-Client perl-PSGI perl-RDF-Prefixes perl-RDF-TriN3 perl-Reply perl-Scalar-Does perl-Statistics-Basic perl-TAP-SimpleOutput perl-Test-Moose-More perl-Test-Run perl-Test-Run-CmdLine perl-Text-Reflow perl-Text-Sprintf-Named perl-Text-Table perl-Unix-Process perl-Web-Paste-Simple perl-XML-LibXML-Devel-SetLineNumber perl-XML-LibXML-PrettyPrint perl-YUM-RepoQuery perl-autobox-Junctions perl-lexical-underscore
+jplesnik   perl-Best perl-Config-Model-CursesUI perl-Config-Model-Itself perl-FCGI-ProcManager perl-Gnome2-GConf perl-Gtk2-Ex-Utils perl-Gtk2-GladeXML perl-Gtk2-Notify perl-Gtk2-Sexy perl-Gtk2-Spell perl-Gtk2-TrayIcon perl-HTML-HTML5-Entities perl-Icon-FamFamFam-Silk perl-Module-Install-Contributors perl-Module-Install-Copyright perl-Module-Install-DOAP perl-Module-Install-DOAPChangeSets perl-Module-Install-TrustMetaYml perl-MooseX-ArrayRef perl-MooseX-AttributeShortcuts perl-MooseX-MarkAsMethods perl-MooseX-Meta-TypeConstraint-Mooish perl-MooseX-Role-Tempdir perl-MooseX-Role-XMLRPC-Client perl-PSGI perl-RDF-Prefixes perl-RDF-TriN3 perl-Reply perl-Scalar-Does perl-Statistics-Basic perl-TAP-SimpleOutput perl-Test-Moose-More perl-Test-Run perl-Test-Run-CmdLine perl-Text-Reflow perl-Text-Sprintf-Named perl-Text-Table perl-Unix-Process perl-Web-Paste-Simple perl-XML-LibXML-Devel-SetLineNumber perl-XML-LibXML-PrettyPrint perl-YUM-RepoQuery perl-autobox-Junctions perl-lexical-underscore
 jpopelka   python-utmp
 jridky     netpbm
 jrische    golang-gopkg-op-logging-1
@@ -5389,7 +5385,7 @@ jruzicka   libnetconf2 lua-basexx lua-binaryheap lua-compat53 lua-cqueues lua-fi
 js         electrum
 jsafrane   libcgroup migrationtools
 jskarvad   airspyone_host bltk compiz compiz-plugins-extra compizconfig-python gqrx halibut hpl kalibrate-rtl libcompizconfig libesmtp libshout libsoundio libwvstreams oath-toolkit pidgin pptpd preeny putty python-pyobd python-visvis quisk squeak-image squeak-vm t1lib tcl-html tclx vlfrx-tools vmmlib wvdial wwl
-jsmith     asterisk-sounds-core dahdi-tools drupal7 libmetal libresample nodejs-acorn-object-spread nodejs-buble nodejs-colors nodejs-linefix nodejs-replace-require-self
+jsmith     asterisk-sounds-core dahdi-tools drupal7 libresample nodejs-acorn-object-spread nodejs-buble nodejs-colors nodejs-linefix nodejs-replace-require-self
 jstanek    nodejs-packaging
 jsteffan   python-twisted
 jtaylor    colm hyperscan python-idstools ragel tcllib
@@ -5415,7 +5411,7 @@ kevin      ansible-collection-kubernetes-core bluebird exo florence garcon greyb
 kevinb     gdb
 kheib      libpsm2
 kilobyte   colorized-logs
-kkeithle   ceph rocksdb
+kkeithle   ceph python-gevent python-jaraco-text rocksdb
 kkleine    polly
 kkofler    blogilo falkon kde-i18n kde-runtime kdegames3 kmid2 koffice-kivio kuser qimageblitz qt qt-assistant-adp qt5-qtwebengine qtwebkit
 kni        fcgi fcgiwrap glyphicons-halflings-fonts netatalk nextcloud
@@ -5612,7 +5608,7 @@ pmazzini   disciplining-minipod ubloxcfg
 pmikova    java-latest-openjdk java-latest-openjdk-portable swing-layout system-switch-java
 pnemade    sil-charis-fonts
 poetinha   dolphin-connector
-ppisar     ezstream icecast llconf nas ooo2txt open-mtools pcsc-lite-asekey perl-Best perl-Crypt-Random-Seed perl-FCGI-ProcManager perl-GStreamer1 perl-Gnome2-GConf perl-Gnome2-Vte perl-Gtk2-Ex-FormFactory perl-Gtk2-Ex-Utils perl-Gtk2-GladeXML perl-Gtk2-Notify perl-Gtk2-Sexy perl-Gtk2-Spell perl-Gtk2-TrayIcon perl-HTTP-Link-Parser perl-Icon-FamFamFam-Silk perl-JSON-Create perl-Math-Expression-Evaluator perl-Math-FFT perl-MaxMind-DB-Reader-XS perl-Module-Install-Contributors perl-Module-Install-Copyright perl-Module-Install-DOAP perl-Module-Install-DOAPChangeSets perl-Module-Install-TrustMetaYml perl-Module-Package-RDF perl-MongoDB perl-MooX-Role-Parameterized perl-MooseX-Role-Tempdir perl-MooseX-Role-XMLRPC-Client perl-Net-UPnP perl-NetPacket perl-PSGI perl-PerlX-Maybe perl-PerlX-Maybe-XS perl-RDF-Prefixes perl-RDF-TriN3 perl-RDF-TrineX-Compatibility-Attean perl-Reply perl-Role-Commons perl-Scalar-Does perl-Statistics-Basic perl-TAP-SimpleOutput perl-Test-Moose-More perl-Test-Run perl-Test-Run-CmdLine perl-Text-Reflow perl-Text-Sprintf-Named perl-Text-Table perl-Unix-Process perl-Web-Paste-Simple perl-XML-Atom-OWL perl-XML-LibXML-Debugging perl-XML-LibXML-Devel-SetLineNumber perl-XML-LibXML-PrettyPrint perl-YUM-RepoQuery perl-autobox-Junctions perl-lexical-underscore perl-libwhisker2 quota ramond vnc-reflector
+ppisar     ezstream icecast llconf nas ooo2txt open-mtools pcsc-lite-asekey perl-Best perl-Crypt-Random-Seed perl-FCGI-ProcManager perl-GStreamer1 perl-Gnome2-GConf perl-Gnome2-Vte perl-Gtk2-Ex-FormFactory perl-Gtk2-Ex-Utils perl-Gtk2-GladeXML perl-Gtk2-Notify perl-Gtk2-Sexy perl-Gtk2-Spell perl-Gtk2-TrayIcon perl-HTTP-Link-Parser perl-Icon-FamFamFam-Silk perl-JSON-Create perl-Math-Expression-Evaluator perl-Math-FFT perl-MaxMind-DB-Reader-XS perl-Module-Install-Contributors perl-Module-Install-Copyright perl-Module-Install-DOAP perl-Module-Install-DOAPChangeSets perl-Module-Install-TrustMetaYml perl-Module-Package-RDF perl-MongoDB perl-MooX-Role-Parameterized perl-MooseX-Role-Tempdir perl-MooseX-Role-XMLRPC-Client perl-Net-UPnP perl-NetPacket perl-PSGI perl-PerlX-Maybe-XS perl-RDF-Prefixes perl-RDF-TriN3 perl-RDF-TrineX-Compatibility-Attean perl-Reply perl-Role-Commons perl-Scalar-Does perl-Statistics-Basic perl-TAP-SimpleOutput perl-Test-Moose-More perl-Test-Run perl-Test-Run-CmdLine perl-Text-Reflow perl-Text-Sprintf-Named perl-Text-Table perl-Unix-Process perl-Web-Paste-Simple perl-XML-Atom-OWL perl-XML-LibXML-Debugging perl-XML-LibXML-Devel-SetLineNumber perl-XML-LibXML-PrettyPrint perl-YUM-RepoQuery perl-autobox-Junctions perl-lexical-underscore perl-libwhisker2 quota ramond vnc-reflector
 praiskup   PyGreSQL gc libtool ongres-scram orafce pax postgresql-ip4r postgresql-pgpool-II pspg python-backoff python-progress python-retask scl-utils-build-helpers tcl-pgtcl vim-ale vim-rhubarb
 prajnoha   device-mapper-multipath
 preichl    e2fsprogs quota
