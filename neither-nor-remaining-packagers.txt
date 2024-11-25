@@ -4,7 +4,6 @@ bacula               slaanesh
 clementine           eclipseo
 fcitx5-mozc          music yanqiyu
 fedora-remix-logos   spot
-fldigi               hobbes1069
 frescobaldi          limb
 ghc-polyparse        petersen
 gstreamer1-doc       wtaymans
@@ -40,7 +39,6 @@ nikto                huzaifas rebus
 ocaml-omake          rjones
 pypy                 churchyard thrnciar
 pypy3.9              churchyard thrnciar
-python-traitsui      chedi ignatenkobrain orion
 python-utmp          jpopelka tuju
 ruby                 mtasaka vondruch
 rubygem-rdoc         vondruch
@@ -61,16 +59,14 @@ ajax       kernel
 bowlofeggs rust-rpick
 bskeggs    kernel
 catanzaro  webkitgtk
-chedi      python-traitsui
 churchyard pypy pypy3.9
 dcavalca   mxml
 decathorpe rust-nettle rust-nettle-sys rust-ybaas rust-yubibomb
 eclipseo   clementine
 fjanus     mariadb10.11
 hhorak     mariadb10.11
-hobbes1069 fldigi
 huzaifas   nikto
-ignatenkobrain libclc python-traitsui
+ignatenkobrain libclc
 jcline     kernel
 jforbes    kernel
 jgrulich   kf5-bluez-qt kf5-kdeclarative kf5-krunner kf5-threadweaver
@@ -93,7 +89,7 @@ nalimilan  julia
 nforro     man-pages-l10n
 ngompa     khealthcertificate kpublictransport
 nikic      libclc
-orion      man2html python-traitsui
+orion      man2html
 orphan     jbosscache-support
 patches    man2html
 patrickt   kernel
