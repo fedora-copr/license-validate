@@ -1,6 +1,5 @@
 Maintainers by package:
 avogadro2-libs       sagitter
-bacula               slaanesh
 clementine           eclipseo
 fcitx5-mozc          music yanqiyu
 fedora-remix-logos   spot
@@ -39,7 +38,7 @@ nikto                huzaifas rebus
 ocaml-omake          rjones
 pypy                 churchyard thrnciar
 pypy3.9              churchyard thrnciar
-python-utmp          jpopelka tuju
+python-scikit-learn  besser82 ignatenkobrain sergiopr
 ruby                 mtasaka vondruch
 rubygem-rdoc         vondruch
 rust-nettle          decathorpe
@@ -56,6 +55,7 @@ Packages by maintainer:
 acaringi   kernel
 airlied    kernel
 ajax       kernel
+besser82   python-scikit-learn
 bowlofeggs rust-rpick
 bskeggs    kernel
 catanzaro  webkitgtk
@@ -66,13 +66,12 @@ eclipseo   clementine
 fjanus     mariadb10.11
 hhorak     mariadb10.11
 huzaifas   nikto
-ignatenkobrain libclc
+ignatenkobrain libclc python-scikit-learn
 jcline     kernel
 jforbes    kernel
 jgrulich   kf5-bluez-qt kf5-kdeclarative kf5-krunner kf5-threadweaver
 jkucera    kf5-libkleo
 jnovy      texlive
-jpopelka   python-utmp
 jskarvad   wwl
 jwboyer    kernel
 jwrdegoede kernel
@@ -103,7 +102,7 @@ sagitter   avogadro2-libs
 sandeen    kernel
 sergesanspaille libclc
 sergiomb   man2html
-slaanesh   bacula
+sergiopr   python-scikit-learn
 smani      libwebp
 spot       fedora-remix-logos julius texlive tkimg
 steved     kernel
@@ -114,7 +113,6 @@ thm        lmms
 thrnciar   pypy pypy3.9
 thunderbirdtr kclock kf5-kirigami2-addons khealthcertificate kpublictransport
 tstellar   libclc
-tuju       python-utmp
 tuliom     libclc
 vondruch   ruby rubygem-rdoc
 wtaymans   gstreamer1-doc

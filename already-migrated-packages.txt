@@ -467,6 +467,7 @@ backup-light
 backupninja
 BackupPC
 BackupPC-XS
+bacula
 baekmuk-bdf-fonts
 baekmuk-ttf-fonts
 ballbuster
@@ -625,6 +626,7 @@ boxes
 Box2D
 box64
 bpfmon
+bpftool
 bpftop
 bpftrace
 bpg-fonts
@@ -1628,6 +1630,7 @@ enchant2
 enigma
 enjarify
 enki
+enkiTS
 enscript
 entangle
 entr
@@ -1895,6 +1898,7 @@ fetchlog
 fetchmail
 fex-emu-rootfs-fedora
 fex-emu
+fex
 ffcall
 fflas-ffpack
 ffmpeg
@@ -2023,6 +2027,7 @@ foxtrotgps
 fparser
 fpaste
 fpc-srpm-macros
+fpdns
 fping
 fplus
 fpm2
@@ -3760,6 +3765,7 @@ golang-github-nrdcg-porkbun
 golang-github-nvidia-container-toolkit
 golang-github-nvidia-nvlib
 golang-github-nvidia-nvml
+golang-github-nwaples-rardecode2
 golang-github-nytimes-gziphandler
 golang-github-nzdjb-metaname
 golang-github-oklog-run
@@ -3794,6 +3800,7 @@ golang-github-oracle-oci-sdk65
 golang-github-ovh
 golang-github-oxtoacart-bpool
 golang-github-pbnjay-memory
+golang-github-pdevine-tensor
 golang-github-pdfcpu
 golang-github-pelletier-toml
 golang-github-pengsrc-shared
@@ -5066,6 +5073,7 @@ kanyremote
 kapow
 kappanhang
 kapptemplate
+karp
 kasumi
 kata-containers
 katago
@@ -5380,6 +5388,7 @@ klavaro
 kldap
 kleopatra
 klettres
+klevernotes
 klog
 klt
 kmag
@@ -6697,6 +6706,7 @@ mftrace
 mgarepo
 mgetty
 mgopen-fonts
+mg
 mhash
 mhonarc
 microcode_ctl
@@ -7136,6 +7146,7 @@ mytop
 m1n1
 m17n-db
 m17n-lib
+m2vrequantiser
 m4rie
 m4ri
 m4
@@ -7648,6 +7659,7 @@ opencc
 opencity
 opencl-filesystem
 opencl-headers
+opencomposite
 openconnect
 opencore-amr
 opencryptoki
@@ -8488,6 +8500,7 @@ perl-Crypt-OpenSSL-X509
 perl-Crypt-PasswdMD5
 perl-Crypt-PBKDF2
 perl-Crypt-PWSafe3
+perl-Crypt-Random-Seed
 perl-Crypt-Random-Source
 perl-Crypt-RandPasswd
 perl-Crypt-RC4
@@ -9211,6 +9224,7 @@ perl-Image-Math-Constrain
 perl-Image-PNG-Libpng
 perl-Imager
 perl-Image-Sane
+perl-Image-Xbm
 perl-Image-Xpm
 perl-Importer
 perl-Import-Into
@@ -9332,6 +9346,7 @@ perl-LaTeX-ToUnicode
 perl-LDAP
 perl-Lexical-Persistence
 perl-Lexical-SealRequireHints
+perl-lexical-underscore
 perl-Lexical-Var
 perl-Lchown
 perl-lib-abs
@@ -9458,6 +9473,7 @@ perl-Mail-Sendmail
 perl-Mail-SPF-Iterator
 perl-Mail-SPF
 perl-MailTools
+perl-Mail-Transport-Dbx
 perl-Mail-Transport
 perl-Makefile-DOM
 perl-Makefile-Parser
@@ -9566,6 +9582,8 @@ perl-Module-Install-AuthorRequires
 perl-Module-Install-AuthorTests
 perl-Module-Install-AutoLicense
 perl-Module-Install-AutoManifest
+perl-Module-Install-DOAPChangeSets
+perl-Module-Install-DOAP
 perl-Module-Install-ExtraTests
 perl-Module-Install-GithubMeta
 perl-Module-Install-CheckLib
@@ -10744,6 +10762,7 @@ perl-Tree-XPathEngine
 perl-true
 perl-TryCatch
 perl-Try-Tiny
+perl-Types-DateTime
 perl-Types-Path-Tiny
 perl-Types-Serialiser
 perl-Types-URI
@@ -11416,6 +11435,7 @@ ps_mem
 psmisc
 psmoveapi
 pspp
+pss
 pstoedit
 pstreams-devel
 psutils
@@ -11845,6 +11865,7 @@ python-dataclassy
 python-dateparser
 python-datetimerange
 python-dateutil
+python-dateutils
 python-datrie
 python-dbus-client-gen
 python-dbusmock
@@ -11902,6 +11923,7 @@ python-django
 python-django-uuslug
 python-django4.2
 python-dmidecode
+python-dnspython
 python-dns
 python-dockerpty
 python-docker-pycreds
@@ -12473,6 +12495,7 @@ python-neutronclient
 python-nfcpy
 python-nh3
 python-niaarm
+python-niaclass
 python-nifti-mrs
 python-nihtest
 python-nilearn
@@ -12996,6 +13019,7 @@ python-rich
 python-ring-doorbell
 python-rjsmin
 python-rlp
+python-rnc2rng
 python-robosignatory
 python-robot-detection
 python-robotframework
@@ -13037,6 +13061,7 @@ python-scikit-image
 python-scikit-misc
 python-scitokens
 python-scour
+python-scrape-schema-recipe
 python-sdnotify
 python-SecretStorage
 python-selenium
@@ -13336,6 +13361,7 @@ python-urwid
 python-urwidtrees
 python-userpath
 python-uswid
+python-utmp
 python-uvicorn
 python-uvloop
 python-valkey
@@ -13434,6 +13460,7 @@ python-zict
 python-zipp
 python-zipstream
 python-zlib-ng
+python-zmq
 python-zm
 python-zoidberg
 python-zombie-imp
@@ -15307,7 +15334,6 @@ rust-env_filter
 rust-environment
 rust-env_logger
 rust-env_logger0.10
-rust-env_logger0.4
 rust-env_logger0.5
 rust-env_logger0.6
 rust-env_logger0.7
@@ -15417,6 +15443,7 @@ rust-freetype-sys0.20
 rust-fs_at
 rust-fscommon
 rust-fs-err
+rust-fs-err2
 rust-fs_extra
 rust-fsio
 rust-fslock
@@ -16395,6 +16422,7 @@ rust-pmac
 rust-pmutil
 rust-pnet_base
 rust-pnet_datalink
+rust-pnet_macros
 rust-pnet_macros_support
 rust-pnet_sys
 rust-png
@@ -18825,6 +18853,7 @@ wildmidi
 wimlib
 WindowMaker-extra
 WindowMaker
+wine-dxvk
 wineglass
 wine-mono
 wine

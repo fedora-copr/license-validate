@@ -99,7 +99,6 @@ avoision contains LicenseRef-Callaway, needs to be manually converted
 awesome contains LicenseRef-Callaway, needs to be manually converted
 awesome-vim-colorschemes contains LicenseRef-Callaway, needs to be manually converted
 ax25-apps contains LicenseRef-Callaway, needs to be manually converted
-bacula warning: not valid neither as Callaway nor as SPDX, please check
 badchars warning: valid as old and new and no changelong entry, please check
 badvpn contains LicenseRef-Callaway, needs to be manually converted
 badwolf contains LicenseRef-Callaway, needs to be manually converted
@@ -508,7 +507,6 @@ fedora-workstation-repositories warning: valid as old and new and no changelong 
 feh warning: valid as old and new and no changelong entry, please check
 fennel warning: valid as old and new and no changelong entry, please check
 festival contains LicenseRef-Callaway, needs to be manually converted
-fex contains LicenseRef-Callaway, needs to be manually converted
 ffuf warning: valid as old and new and no changelong entry, please check
 fgrun contains LicenseRef-Callaway, needs to be manually converted
 fido contains LicenseRef-Callaway, needs to be manually converted
@@ -545,7 +543,6 @@ foundation-icons-fonts warning: valid as old and new and no changelong entry, pl
 FoXlibf contains LicenseRef-Callaway, needs to be manually converted
 fpart contains LicenseRef-Callaway, needs to be manually converted
 fpc - can be trivially converted to GPL-2.0-or-later AND LGPL-2.1-or-later WITH Qwt-exception-1.0
-fpdns contains LicenseRef-Callaway, needs to be manually converted
 freealut contains LicenseRef-Callaway, needs to be manually converted
 freecell-solver warning: valid as old and new and no changelong entry, please check
 freecolor warning: valid as old and new and no changelong entry, please check
@@ -999,6 +996,7 @@ golang-github-gehirninc-crypt contains LicenseRef-Callaway, needs to be manually
 golang-github-genuinetools-pkg warning: valid as old and new and no changelong entry, please check
 golang-github-getkin-kin-openapi warning: valid as old and new and no changelong entry, please check
 golang-github-ghodss-yaml contains LicenseRef-Callaway, needs to be manually converted
+golang-github-gin-contrib-cors warning: valid as old and new and no changelong entry, please check
 golang-github-gin-contrib-sse warning: valid as old and new and no changelong entry, please check
 golang-github-gin-gonic warning: valid as old and new and no changelong entry, please check
 golang-github-git-gcfg contains LicenseRef-Callaway, needs to be manually converted
@@ -2343,7 +2341,6 @@ meg warning: valid as old and new and no changelong entry, please check
 memchan contains LicenseRef-Callaway, needs to be manually converted
 metapixel contains LicenseRef-Callaway, needs to be manually converted
 metrics2mqtt warning: valid as old and new and no changelong entry, please check
-mg contains LicenseRef-Callaway, needs to be manually converted
 micronucleus warning: valid as old and new and no changelong entry, please check
 micro contains LicenseRef-Callaway, needs to be manually converted
 miglayout contains LicenseRef-Callaway, needs to be manually converted
@@ -2759,7 +2756,6 @@ perl-CGI-Struct contains LicenseRef-Callaway, needs to be manually converted
 perl-Config-Model-CursesUI contains LicenseRef-Callaway, needs to be manually converted
 perl-Config-Model-Itself contains LicenseRef-Callaway, needs to be manually converted
 perl-ConfigReader contains LicenseRef-Callaway, needs to be manually converted
-perl-Crypt-Random-Seed - can be trivially converted to GPL-1.0-or-later OR Artistic-1.0-Perl
 perl-Date-Holidays-DE warning: valid as old and new and no changelong entry, please check
 perl-Diff-LibXDiff contains LicenseRef-Callaway, needs to be manually converted
 perl-Dir-Manifest warning: valid as old and new and no changelong entry, please check
@@ -2791,14 +2787,11 @@ perl-HTTP-Soup contains LicenseRef-Callaway, needs to be manually converted
 perl-Icon-FamFamFam-Silk contains LicenseRef-Callaway, needs to be manually converted
 perl-Image-Base contains LicenseRef-Callaway, needs to be manually converted
 perl-Image-Size contains LicenseRef-Callaway, needs to be manually converted
-perl-Image-Xbm contains LicenseRef-Callaway, needs to be manually converted
 perl-JSON-Create contains LicenseRef-Callaway, needs to be manually converted
-perl-lexical-underscore - can be trivially converted to ( GPL-1.0-or-later OR Artistic-1.0-Perl ) AND LicenseRef-Fedora-Public-Domain
 perl-Library-CallNumber-LC contains LicenseRef-Callaway, needs to be manually converted
 perl-libwhisker2 contains LicenseRef-Callaway, needs to be manually converted
 perl-Locale-Maketext-Fuzzy warning: valid as old and new and no changelong entry, please check
 perl-Mail-RFC822-Address warning: valid as old and new and no changelong entry, please check
-perl-Mail-Transport-Dbx - can be trivially converted to GPL-2.0-or-later AND ( GPL-1.0-or-later OR Artistic-1.0-Perl )
 perl-Math-Expression-Evaluator - can be trivially converted to ( GPL-1.0-or-later OR Artistic-1.0-Perl ) AND LicenseRef-Fedora-Public-Domain
 perl-Math-FFT - can be trivially converted to ( GPL-1.0-or-later OR Artistic-1.0-Perl ) AND LicenseRef-Fedora-Public-Domain
 perl-Math-Random-ISAAC contains LicenseRef-Callaway, needs to be manually converted
@@ -2807,8 +2800,6 @@ perl-Math-Random-MT contains LicenseRef-Callaway, needs to be manually converted
 perl-MaxMind-DB-Reader-XS
 perl-Module-Install-Contributors contains LicenseRef-Callaway, needs to be manually converted
 perl-Module-Install-Copyright contains LicenseRef-Callaway, needs to be manually converted
-perl-Module-Install-DOAPChangeSets - can be trivially converted to ( GPL-1.0-or-later OR Artistic-1.0-Perl ) AND LicenseRef-Fedora-Public-Domain
-perl-Module-Install-DOAP - can be trivially converted to ( GPL-1.0-or-later OR Artistic-1.0-Perl ) AND LicenseRef-Fedora-Public-Domain
 perl-Module-Install-TrustMetaYml contains LicenseRef-Callaway, needs to be manually converted
 perl-Module-Package-RDF contains LicenseRef-Callaway, needs to be manually converted
 perl-Mojo-RabbitMQ-Client contains LicenseRef-Callaway, needs to be manually converted
@@ -2860,7 +2851,6 @@ perl-Text-Sprintf-Named warning: valid as old and new and no changelong entry, p
 perl-Text-Table warning: valid as old and new and no changelong entry, please check
 perl-Time-Moment contains LicenseRef-Callaway, needs to be manually converted
 perl-Tk-TableMatrix contains LicenseRef-Callaway, needs to be manually converted
-perl-Types-DateTime - can be trivially converted to ( GPL-1.0-or-later OR Artistic-1.0-Perl ) AND LicenseRef-Fedora-Public-Domain
 perl-Unix-Process contains LicenseRef-Callaway, needs to be manually converted
 perl-Web-Paste-Simple
 perl-WWW-Search contains LicenseRef-Callaway, needs to be manually converted
@@ -3092,7 +3082,6 @@ psi4 contains LicenseRef-Callaway, needs to be manually converted
 pslib contains LicenseRef-Callaway, needs to be manually converted
 pspg contains LicenseRef-Callaway, needs to be manually converted
 pssh contains LicenseRef-Callaway, needs to be manually converted
-pss - can be trivially converted to LicenseRef-Fedora-Public-Domain
 ptex contains LicenseRef-Callaway, needs to be manually converted
 ptlib contains LicenseRef-Callaway, needs to be manually converted
 pugixml warning: valid as old and new and no changelong entry, please check
@@ -3376,7 +3365,6 @@ python-cycler contains LicenseRef-Callaway, needs to be manually converted
 python-cytoolz contains LicenseRef-Callaway, needs to be manually converted
 python-daemonize warning: valid as old and new and no changelong entry, please check
 python-datalad warning: valid as old and new and no changelong entry, please check
-python-dateutils - can be trivially converted to LicenseRef-Fedora-Public-Domain
 python-dbfread warning: valid as old and new and no changelong entry, please check
 python-dbf contains LicenseRef-Callaway, needs to be manually converted
 python-dbutils warning: valid as old and new and no changelong entry, please check
@@ -3722,7 +3710,6 @@ python-netdisco warning: valid as old and new and no changelong entry, please ch
 python-netmiko contains LicenseRef-Callaway, needs to be manually converted
 python-neurosynth warning: valid as old and new and no changelong entry, please check
 python-niaaml warning: valid as old and new and no changelong entry, please check
-python-niaclass warning: valid as old and new and no changelong entry, please check
 python-niapy warning: valid as old and new and no changelong entry, please check
 python-nibabel warning: valid as old and new and no changelong entry, please check
 python-nikola contains LicenseRef-Callaway, needs to be manually converted
@@ -3965,7 +3952,6 @@ python-resumable-urlretrieve warning: valid as old and new and no changelong ent
 python-retask warning: valid as old and new and no changelong entry, please check
 python-rfc3986-validator warning: valid as old and new and no changelong entry, please check
 python-rmtest contains LicenseRef-Callaway, needs to be manually converted
-python-rnc2rng - can be trivially converted to LicenseRef-Fedora-Public-Domain
 python-ROPGadget contains LicenseRef-Callaway, needs to be manually converted
 python-rosdep contains LicenseRef-Callaway, needs to be manually converted
 python-rosdistro contains LicenseRef-Callaway, needs to be manually converted
@@ -3981,7 +3967,7 @@ python-rstr contains LicenseRef-Callaway, needs to be manually converted
 python-rtmidi warning: valid as old and new and no changelong entry, please check
 python-sanction warning: valid as old and new and no changelong entry, please check
 python-sane warning: valid as old and new and no changelong entry, please check
-python-scikit-learn contains LicenseRef-Callaway, needs to be manually converted
+python-scikit-learn warning: not valid neither as Callaway nor as SPDX, please check
 python-scikit-uplift warning: valid as old and new and no changelong entry, please check
 python-sciunit warning: valid as old and new and no changelong entry, please check
 python-scp contains LicenseRef-Callaway, needs to be manually converted
@@ -4129,7 +4115,6 @@ python-urwid-readline warning: valid as old and new and no changelong entry, ple
 python-user-agents warning: valid as old and new and no changelong entry, please check
 python-usort warning: valid as old and new and no changelong entry, please check
 python-utils contains LicenseRef-Callaway, needs to be manually converted
-python-utmp warning: not valid neither as Callaway nor as SPDX, please check
 python-validators contains LicenseRef-Callaway, needs to be manually converted
 python-vconnector contains LicenseRef-Callaway, needs to be manually converted
 python-vcrpy warning: valid as old and new and no changelong entry, please check
@@ -4223,7 +4208,6 @@ python-yattag contains LicenseRef-Callaway, needs to be manually converted
 python-ytmusicapi warning: valid as old and new and no changelong entry, please check
 python-zarr warning: valid as old and new and no changelong entry, please check
 python-zeep contains LicenseRef-Callaway, needs to be manually converted
-python-zmq
 python-zxcvbn warning: valid as old and new and no changelong entry, please check
 python3-iep contains LicenseRef-Callaway, needs to be manually converted
 python3-lxc contains LicenseRef-Callaway, needs to be manually converted
@@ -4985,7 +4969,6 @@ wf-shell warning: valid as old and new and no changelong entry, please check
 wgctrl warning: valid as old and new and no changelong entry, please check
 whichwayisup contains LicenseRef-Callaway, needs to be manually converted
 wide-dhcpv6 contains LicenseRef-Callaway, needs to be manually converted
-wine-dxvk warning: valid as old and new and no changelong entry, please check
 winetricks contains LicenseRef-Callaway, needs to be manually converted
 wl-gammactl warning: valid as old and new and no changelong entry, please check
 wlogout warning: valid as old and new and no changelong entry, please check

@@ -2,7 +2,9 @@
 CUnit
 Cython
 HdrHistogram_c
+ImageMagick
 Judy
+LibRaw
 ModemManager
 NetworkManager
 NetworkManager-libreswan
@@ -44,6 +46,7 @@ ansible-pcp
 ant
 anthy-unicode
 antlr
+aom
 aopalliance
 apache-commons-beanutils
 apache-commons-cli
@@ -108,6 +111,7 @@ boom-boot
 boost
 bootc
 booth
+bpftool
 bpftrace
 brasero
 brltty
@@ -201,6 +205,7 @@ cups-pk-helper
 curl
 cyrus-imapd
 cyrus-sasl
+dav1d
 dblatex
 dbus
 dbus-broker
@@ -222,6 +227,7 @@ diffstat
 diffutils
 ding-libs
 disruptor
+djvulibre
 dmidecode
 dnf
 dnf-plugins-core
@@ -350,6 +356,7 @@ geoclue2
 geocode-glib
 geolite2
 gettext
+gflags
 ghostscript
 gi-docgen
 giflib
@@ -408,6 +415,7 @@ golang
 golang-github-cpuguy83-md2man
 golang-github-openprinting-goipp
 golang-github-openprinting-ipp-usb
+golang-gopkg-russross-blackfriday-2
 google-carlito-fonts
 google-crosextra-caladea-fonts
 google-droid-fonts
@@ -463,6 +471,7 @@ help2man
 hexedit
 hicolor-icon-theme
 highlight
+highway
 hivex
 hostapd
 hostname
@@ -739,6 +748,7 @@ jitterentropy
 jna
 jomolhari-fonts
 jose
+jpegxl
 jq
 js-d3-flame-graph
 jsch
@@ -891,6 +901,7 @@ libgweather
 libgxps
 libhandy
 libhangul
+libheif
 libi2cd
 libica
 libical
@@ -913,6 +924,7 @@ libldac
 liblerc
 liblognorm
 liblouis
+liblqr-1
 libmad
 libmaxminddb
 libmbim
@@ -962,6 +974,7 @@ libqb
 libqmi
 libqrtr-glib
 librabbitmq
+libraqm
 librdkafka
 librelp
 librepo
@@ -985,7 +998,6 @@ libsmi
 libsndfile
 libsolv
 libsoup3
-libspectre
 libspelling
 libspiro
 libsrtp
@@ -1025,6 +1037,7 @@ libvpd
 libvpx
 libwacom
 libwebp
+libwmf
 libwnck3
 libxcb
 libxcrypt
@@ -1234,6 +1247,7 @@ nodejs-nodemon
 nodejs-packaging
 nodejs-undici
 nodejs22
+noopenh264
 npth
 nss
 nss-altfiles
@@ -1313,6 +1327,7 @@ osgi-core
 osinfo-db
 osinfo-db-tools
 ostree
+otf2bdf
 p11-kit
 pacemaker
 package-notes
@@ -1439,6 +1454,7 @@ perl-File-pushd
 perl-Filter
 perl-Filter-Simple
 perl-Font-TTF
+perl-GD
 perl-GSSAPI
 perl-Getopt-Long
 perl-HTML-Parser
@@ -2003,6 +2019,7 @@ rust-bootupd
 rust-coreos-installer
 rust-gst-plugin-gtk4
 rust-prefixdevname
+rust-rav1e
 rust-rpm-sequoia
 rust-sequoia-sq
 rust-sequoia-sqv
@@ -2108,6 +2125,7 @@ subscription-manager-rhsm-certificates
 subversion
 sudo
 supermin
+svt-av1
 swig
 switcheroo-control
 swtpm
@@ -2182,6 +2200,7 @@ umockdev
 unbound
 unicode-emoji
 unicode-ucd
+unifont
 units
 univocity-parsers
 unixODBC
@@ -2219,6 +2238,7 @@ virt-what
 virt-who
 virtio-win
 virtiofsd
+vmaf
 voikko-fi
 volume_key
 vsftpd
@@ -2303,6 +2323,7 @@ xxhash
 xz
 xz-java
 yara
+yasm
 yelp-tools
 yelp-xsl
 yggdrasil
