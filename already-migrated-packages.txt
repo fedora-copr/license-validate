@@ -3653,7 +3653,6 @@ golang-github-jwalton-gchalk
 golang-github-jwalton-supportscolor
 golang-github-jwt-5
 golang-github-katalix-l2tp
-golang-github-keybase-ps
 golang-github-kjk-lzmadec
 golang-github-klauspost-compress
 golang-github-kovidgoyal-imaging
@@ -3703,6 +3702,7 @@ golang-github-maxhalford-halfgone
 golang-github-mdlayher-ethtool
 golang-github-mdlayher-packet
 golang-github-mdlayher-socket
+golang-github-mdlayher-vsock
 golang-github-mesilliac-pulse-simple
 golang-github-mfridman-interpolate
 golang-github-microcosm-cc-bluemonday
@@ -4402,6 +4402,7 @@ healpix
 heaptrack
 hedgewars
 hedley
+heffte
 helix
 hello
 helm
@@ -9651,6 +9652,7 @@ perl-Mojo-SQLite
 perl-MojoX-JSON-RPC
 perl-MojoX-Log-Log4perl
 perl-MojoX-Log-Log4perl-Tiny
+perl-MongoDB
 perl-Monitoring-Plugin
 perl-Monotone-AutomateStdio
 perl-Mon
@@ -12295,6 +12297,7 @@ python-junitxml
 python-jupymake
 python-jupyter-cache
 python-jupyter-console
+python-jupyter-core
 python-jupyter-events
 python-jupyter-kernel-singular
 python-jupyter-kernel-test
@@ -12324,6 +12327,7 @@ python-kiss-headers
 python-kiwisolver
 python-klein
 python-kmod
+python-koji-fedoramessaging-messages
 python-krb5
 python-kubernetes
 python-k5test
@@ -12703,6 +12707,7 @@ python-ptrace
 python-ptyprocess
 python-pulp-glue
 python-pulp
+python-pulsectl-asyncio
 python-puremagic
 python-pure-protobuf
 python-puzpy
@@ -13073,6 +13078,7 @@ python-scantree
 python-scikit-build-core
 python-scikit-build
 python-scikit-image
+python-scikit-learn
 python-scikit-misc
 python-scitokens
 python-scour
@@ -14769,7 +14775,6 @@ rust-async-stream
 rust-async-task
 rust-async-trait
 rust-async_zip
-rust-async_zip0.0.15
 rust-atk
 rust-atk-sys
 rust-atoi
@@ -14840,7 +14845,6 @@ rust-biquad
 rust-bisection
 rust-bit_field
 rust-bitfield
-rust-bitfield0.13
 rust-bitfield0.14
 rust-bitflags
 rust-bitflags1
@@ -15221,6 +15225,7 @@ rust-derive_more
 rust-derive_more0.99
 rust-derive-new
 rust-derive_utils
+rust-derive-where
 rust-der
 rust-der0.4
 rust-desed
@@ -15618,7 +15623,6 @@ rust-gobject-sys0.18
 rust-gobject-sys0.19
 rust-goblin
 rust-goblin0.5
-rust-goblin0.6
 rust-goblin0.7
 rust-google-cloud-auth
 rust-google-cloud-metadata
@@ -16894,7 +16898,6 @@ rust-serial_test
 rust-serial_test0.5
 rust-serial_test2
 rust-servo_arc
-rust-servo-fontconfig-sys
 rust-sevctl
 rust-sev
 rust-shadow-rs
@@ -16971,6 +16974,7 @@ rust-smithay-clipboard
 rust-smol
 rust-smol_str
 rust-smol_str0.1
+rust-smol_str0.2
 rust-sm3
 rust-snafu-derive
 rust-snafu
@@ -17254,6 +17258,7 @@ rust-tungstenite
 rust-two-face
 rust-twofish
 rust-twox-hash
+rust-twox-hash1
 rust-typed-arena
 rust-typed-builder-macro
 rust-typed-builder
@@ -17719,6 +17724,7 @@ SDL2_mixer
 SDL2_Pango
 SDL2
 SDL2_ttf
+SDL3
 sdorfehs
 sdparm
 sdrangel
@@ -18052,12 +18058,15 @@ sssd
 ssss
 sstp-client
 stacer
+stack
 stage
 stalld
 stalonetray
 starcal
 starplot-contrib
+starplot-gliese3
 starplot
+starplot-yale5
 star
 startdde
 startup-notification
@@ -18464,6 +18473,7 @@ ttfautohint
 tth
 ttmkfdir
 ttyd
+ttyplot
 tuba
 tucnak
 tuigreet
