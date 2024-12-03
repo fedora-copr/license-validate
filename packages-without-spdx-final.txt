@@ -79,7 +79,6 @@ astigmatic-grand-hotel-fonts
 ast contains LicenseRef-Callaway, needs to be manually converted
 atf contains LicenseRef-Callaway, needs to be manually converted
 atkmm2.36 contains LicenseRef-Callaway, needs to be manually converted
-atmel-firmware - can be trivially converted to LicenseRef-Fedora-Firmware
 ATpy warning: valid as old and new and no changelong entry, please check
 atril contains LicenseRef-Callaway, needs to be manually converted
 attica contains LicenseRef-Callaway, needs to be manually converted
@@ -738,7 +737,6 @@ gnome-nettool contains LicenseRef-Callaway, needs to be manually converted
 gnome-panel
 gnome-robots contains LicenseRef-Callaway, needs to be manually converted
 gnome-sharp contains LicenseRef-Callaway, needs to be manually converted
-gnome-shell-extension-gamemode
 gnome-shell-theme-flat-remix contains LicenseRef-Callaway, needs to be manually converted
 gnome-subtitles contains LicenseRef-Callaway, needs to be manually converted
 gnome-system-log contains LicenseRef-Callaway, needs to be manually converted
@@ -2748,8 +2746,6 @@ perl-Best warning: valid as old and new and no changelong entry, please check
 perl-Cairo-GObject contains LicenseRef-Callaway, needs to be manually converted
 perl-Cairo contains LicenseRef-Callaway, needs to be manually converted
 perl-Catalyst-Plugin-Cache contains LicenseRef-Callaway, needs to be manually converted
-perl-CGI-Application-Standard-Config - can be trivially converted to GPL-1.0-or-later OR Artistic-1.0-Perl
-perl-CGI-Deurl-XS - can be trivially converted to ( GPL-1.0-or-later OR Artistic-1.0-Perl ) AND Apache-2.0
 perl-CGI-Struct contains LicenseRef-Callaway, needs to be manually converted
 perl-Config-Model-CursesUI contains LicenseRef-Callaway, needs to be manually converted
 perl-Config-Model-Itself contains LicenseRef-Callaway, needs to be manually converted
@@ -2776,7 +2772,6 @@ perl-Gtk2 contains LicenseRef-Callaway, needs to be manually converted
 perl-Gtk2-Spell contains LicenseRef-Callaway, needs to be manually converted
 perl-Gtk2-TrayIcon contains LicenseRef-Callaway, needs to be manually converted
 perl-Hijk warning: valid as old and new and no changelong entry, please check
-perl-HTML-FormHandler - can be trivially converted to GPL-1.0-or-later OR Artistic-1.0-Perl
 perl-HTML-HTML5-Entities contains LicenseRef-Callaway, needs to be manually converted
 perl-HTML-HTML5-Sanity contains LicenseRef-Callaway, needs to be manually converted
 perl-HTML-Template-Pro contains LicenseRef-Callaway, needs to be manually converted
@@ -2828,7 +2823,6 @@ perl-Sentry-Raven warning: valid as old and new and no changelong entry, please 
 perl-Sort-MergeSort contains LicenseRef-Callaway, needs to be manually converted
 perl-Spreadsheet-ParseXLSX warning: valid as old and new and no changelong entry, please check
 perl-Statistics-Basic contains LicenseRef-Callaway, needs to be manually converted
-perl-String-Random - can be trivially converted to GPL-1.0-or-later OR Artistic-1.0-Perl
 perl-TAP-SimpleOutput contains LicenseRef-Callaway, needs to be manually converted
 perl-Term-ShellUI warning: valid as old and new and no changelong entry, please check
 perl-Test-Data-Split warning: valid as old and new and no changelong entry, please check
@@ -2840,7 +2834,6 @@ perl-Test-Run warning: valid as old and new and no changelong entry, please chec
 perl-Test-RunValgrind warning: valid as old and new and no changelong entry, please check
 perl-Test-WWW-Selenium - can be trivially converted to ( GPL-1.0-or-later OR Artistic-1.0-Perl ) AND Apache-2.0
 perl-Text-Layout - can be trivially converted to ( GPL-1.0-or-later OR Artistic-1.0-Perl ) AND Artistic-2.0
-perl-Text-Reflow - can be trivially converted to GPL-3.0-or-later AND ( GPL-1.0-or-later OR Artistic-1.0-Perl )
 perl-Text-Sprintf-Named warning: valid as old and new and no changelong entry, please check
 perl-Text-Table warning: valid as old and new and no changelong entry, please check
 perl-Time-Moment contains LicenseRef-Callaway, needs to be manually converted
@@ -4621,7 +4614,7 @@ sil-gentium-plus-compact-fonts
 sil-gentium-plus-fonts
 sil-harmattan-fonts
 sil-charis-compact-fonts
-sil-charis-fonts
+sil-charis-fonts warning: not valid neither as Callaway nor as SPDX, please check
 silkscreen-fonts contains LicenseRef-Callaway, needs to be manually converted
 sil-lateef-fonts
 SILLY warning: valid as old and new and no changelong entry, please check
@@ -4978,7 +4971,6 @@ wqy-bitmap-fonts contains LicenseRef-Callaway, needs to be manually converted
 wtype warning: valid as old and new and no changelong entry, please check
 wvdial contains LicenseRef-Callaway, needs to be manually converted
 wvs-data contains LicenseRef-Callaway, needs to be manually converted
-wwl warning: not valid neither as Callaway nor as SPDX, please check
 wxGlade warning: valid as old and new and no changelong entry, please check
 w3c-markup-validator warning: valid as old and new and no changelong entry, please check
 xar contains LicenseRef-Callaway, needs to be manually converted
