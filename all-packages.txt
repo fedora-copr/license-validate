@@ -536,6 +536,7 @@ aws-c-io
 awscli2
 aws-c-mqtt
 aws-c-sdkutils
+aws-c-s3
 aws-checksums
 aws
 awstats
@@ -2525,6 +2526,7 @@ fontawesome-fonts
 fontawesome4-fonts
 fontconfig
 fontforge
+fontmake
 fonts-compare
 fontsquirrel-crete-round-fonts
 fonts-rpm-macros
@@ -6069,6 +6071,7 @@ highfive
 highlight
 highway
 hikari
+hipblas-common
 hipblaslt
 hipblas
 hipcub
@@ -6543,7 +6546,6 @@ intel-undervolt
 intel-vpl-gpu-rt
 intltool
 inxi
-ioc-writer
 iodine
 Io-language
 ioping
@@ -6679,7 +6681,6 @@ javacc-maven-plugin
 javacc
 java_cup
 java-diff-utils
-java-dirq
 javaewah
 java-jd-decompiler
 java-latest-openjdk-portable
@@ -7577,6 +7578,7 @@ libcamera-apps
 libcamera
 libcanberra
 libcangjie
+libcanlock
 libcap-ng
 libcap
 libcbor
@@ -7640,7 +7642,6 @@ libdex
 libdfp
 libdicom
 libdigidocpp
-libdirq
 libdiscid
 libdispatch
 libdisplay-info
@@ -7671,6 +7672,7 @@ libe-book
 libebur128
 libecap
 libecb
+libecoli
 libeconf
 libecpg
 libecpint
@@ -11082,7 +11084,6 @@ perl-Config-AutoConf
 perl-Config-Auto
 perl-Config-Extend-MySQL
 perl-Config-General
-perl-Config-Generator
 perl-Config-GitLike
 perl-Config-Grammar
 perl-Config-IniFiles
@@ -11107,7 +11108,6 @@ perl-Config-Record
 perl-Config-Simple
 perl-Config-Std
 perl-Config-Tiny
-perl-Config-Validator
 perl-Config-ZOMG
 perl-constant-boolean
 perl-constant-defer
@@ -12264,7 +12264,6 @@ perl-mecab
 perl-Memoize-ExpireLRU
 perl-Menlo-Legacy
 perl-Menlo
-perl-Messaging-Message
 perl-Meta-Builder
 perl-MetaCPAN-API
 perl-MetaCPAN-Client
@@ -12610,7 +12609,6 @@ perl-Net-SSLeay
 perl-Net-SSLGlue
 perl-Net-Statsd-Server
 perl-Net-Statsd
-perl-Net-STOMP-Client
 perl-Net-Stomp
 perl-Net-Telnet
 perl-Net-Twitter-Lite
@@ -13742,7 +13740,6 @@ perl-ZMQ-Constants
 perl-ZMQ-LibZMQ4
 permlib
 persepolis
-PersonalCopy-Lite-soundfont
 pesign
 petpvc
 petsc
@@ -13967,6 +13964,7 @@ php-pecl-xmldiff
 php-pecl-xmlrpc
 php-pecl-xpass
 php-pecl-yac
+php-pecl-yaml
 php-pecl-zip
 php-phar-io-manifest
 php-phar-io-manifest2
@@ -14340,10 +14338,6 @@ postgresql-jdbc
 postgresql-odbc
 postgresql-pgpool-II
 postgresqltuner
-postgresql15-decoderbufs
-postgresql15-pgaudit
-postgresql15-pg_repack
-postgresql15
 postgresql16-decoderbufs
 postgresql16-pgaudit
 postgresql16-pg_repack
@@ -14730,7 +14724,6 @@ python-atpublic
 python-attrs
 python-audioread
 python-augeas
-python-auth-credential
 python-authheaders
 python-authlib
 python-authres
@@ -15007,6 +15000,7 @@ python-cmake-build-extension
 python-cmap
 python-cmarkgfm
 python-cma
+python-cmdkit
 python-cmd2
 python-coapthon3
 python-codecov
@@ -15147,6 +15141,7 @@ python-cx-oracle
 python-cxxfilt
 python-cycler
 python-cyipopt
+python-cymruwhois
 python-cysignals
 python-cytoolz
 python-daemonize
@@ -16002,7 +15997,6 @@ python-mergedeep
 python-merge3
 python-meshio
 python-meson-python
-python-messaging
 python-metakernel
 python-metar
 python-metno
@@ -16229,6 +16223,7 @@ python-openslide
 python-openstackclient
 python-openstackdocstheme
 python-openstacksdk
+python-openstep-plist
 python-opentelemetry-contrib
 python-opentelemetry-propagator-aws-xray
 python-opentelemetry-resource-detector-azure
@@ -17026,9 +17021,7 @@ python-simpleline
 python-simple-pid
 python-simple-rlp
 python-simple-salesforce
-python-simplevisor
 python-simple-websocket
-python-singledispatch
 python-single-version
 python-siphash
 python-six
@@ -17744,6 +17737,7 @@ qpress
 qpwgraph
 qqc2-breeze-style
 qqwing
+qrca
 qr-code-generator
 qrencode
 qrmumps
@@ -19156,6 +19150,7 @@ rust-askama
 rust-asn1_derive
 rust-asn1-rs-derive
 rust-asn1-rs-impl
+rust-asn1-rs
 rust-asn1
 rust-as-raw-xcb-connection
 rust-assert_approx_eq
@@ -19934,6 +19929,7 @@ rust-gdk4_0.8
 rust-generic-array
 rust-generic-array0.12
 rust-genetlink
+rust-gengo
 rust-gethostname
 rust-getch
 rust-getopts
@@ -20217,6 +20213,7 @@ rust-chumsky
 rust-chunked_transfer
 rust-iai
 rust-iana-time-zone
+rust-icu_collections
 rust-idea
 rust-ident_case
 rust-idna
@@ -20286,6 +20283,7 @@ rust-ipnet
 rust-ipnetwork
 rust-ipnetwork0.17
 rust-iri-string
+rust-isal-rs
 rust-isal-sys
 rust-is_ci
 rust-is_debug
@@ -20392,6 +20390,7 @@ rust-libbpf-rs0.22
 rust-libbpf-rs0.23
 rust-libbpf-sys
 rust-libcramjam
+rust-libcramjam0.3
 rust-libcryptsetup-rs
 rust-libcryptsetup-rs-sys
 rust-libcryptsetup-rs0.9
@@ -20441,6 +20440,7 @@ rust-libudev
 rust-libudev-sys
 rust-libusb1-sys
 rust-libz-ng-sys
+rust-libz-rs-sys
 rust-libz-sys
 rust-lifeguard
 rust-line-numbers
@@ -20698,6 +20698,7 @@ rust-nu-utils
 rust-object
 rust-oci-spec
 rust-octseq
+rust-oid-registry
 rust-oid
 rust-olpc-cjson
 rust-once_cell
@@ -20868,6 +20869,7 @@ rust-pnet_macros_support
 rust-pnet_sys
 rust-png
 rust-png0.16
+rust-podlet
 rust-polling
 rust-polling2
 rust-pollster-macro
@@ -20976,23 +20978,28 @@ rust-pyo3-build-config
 rust-pyo3-build-config0.19
 rust-pyo3-build-config0.20
 rust-pyo3-build-config0.21
+rust-pyo3-build-config0.22
 rust-pyo3-ffi
 rust-pyo3-ffi0.19
 rust-pyo3-ffi0.20
 rust-pyo3-ffi0.21
+rust-pyo3-ffi0.22
 rust-pyo3-log
 rust-pyo3-macros-backend
 rust-pyo3-macros-backend0.19
 rust-pyo3-macros-backend0.20
 rust-pyo3-macros-backend0.21
+rust-pyo3-macros-backend0.22
 rust-pyo3-macros
 rust-pyo3-macros0.19
 rust-pyo3-macros0.20
 rust-pyo3-macros0.21
+rust-pyo3-macros0.22
 rust-pyo3
 rust-pyo3_0.19
 rust-pyo3_0.20
 rust-pyo3_0.21
+rust-pyo3_0.22
 rust-pyproject-toml
 rust-pythonize
 rust-python-launcher
@@ -21930,6 +21937,7 @@ rust-winnow0.5
 rust-wl-clipboard-rs
 rust-wl-nl80211
 rust-wmidi
+rust-writeable
 rust-wu-diff
 rust-wyz
 rust-xattr
@@ -22679,7 +22687,6 @@ stlink
 stlsplit
 stockfish
 stoken
-stompclt
 stomppy
 stormbaancoureur
 stow
@@ -23163,6 +23170,7 @@ trash-cli
 travelccm
 traverso
 trayscale
+treeland-protocols
 treelayout
 tree-pkg
 tree-sitter-java
@@ -23637,7 +23645,6 @@ warzone2100
 wasi-libc
 wasmedge
 watchdog
-watchman
 wavbreaker
 wavemon
 wavextract
@@ -23743,6 +23750,7 @@ wireless-regdb
 wireplumber
 wireshark
 withlock
+wivrn
 wkhtmltopdf
 wl-clipboard
 wlcs
