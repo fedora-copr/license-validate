@@ -33,7 +33,6 @@ acpitool
 activemq-cpp
 actor-framework
 adanaxisgpl
-adapt
 ada-url
 adb-enhanced
 adcli
@@ -630,6 +629,7 @@ boxed-cpp
 boxes
 Box2D
 box64
+bpfman
 bpfmon
 bpftool
 bpftop
@@ -1096,6 +1096,7 @@ cri-tools
 cri-tools1.29
 cri-tools1.30
 cri-tools1.31
+cri-tools1.32
 criu
 cr-marcstevens-snippets
 crm114
@@ -2339,6 +2340,7 @@ geoipupdate
 geolite2
 geometry-hpp
 geomorph
+geopmd
 geos
 gerbera
 gerbv
@@ -2400,6 +2402,7 @@ ghc-blaze-html
 ghc-blaze-markup
 ghc-blaze-textual
 ghc-bloomfilter
+ghc-bodhi
 ghc-Boolean
 ghc-boomerang
 ghc-BoundedChan
@@ -2517,6 +2520,7 @@ ghc-extra
 ghc-fast-logger
 ghc-fclabels
 ghc-fdo-notify
+ghc-fedora-releases
 ghc-feed
 ghc-fgl
 ghc-fgl-visualize
@@ -2716,6 +2720,7 @@ ghc-openssl-streams
 ghc-optional-args
 ghc-optparse-applicative
 ghc-optparse-simple
+ghc-pagure
 ghc-pandoc-types
 ghc-pango
 ghc-panic
@@ -2781,6 +2786,7 @@ ghc-s-cargot
 ghc-scientific
 ghc-scotty
 ghc-securemem
+ghc-select-rpms
 ghc-semigroupoids
 ghc-semigroups
 ghc-semver
@@ -5258,6 +5264,7 @@ kf5-libgravatar
 kf5-libkdcraw
 kf5-libkdepim
 kf5-libkgapi
+kf5-libkgeomap
 kf5-libkipi
 kf5-libksieve
 kf5-libktorrent
@@ -7360,6 +7367,7 @@ nrpe
 nsca
 NsCDE
 nsdiff
+nsd
 nsnake
 nsntrace
 nss-altfiles
@@ -11600,6 +11608,7 @@ python-anytree
 python-aodhclient
 python-appdirs
 python-applicationinsights
+python-apsw
 python-apt
 python-argcomplete
 python-argon2-cffi-bindings
@@ -12047,6 +12056,7 @@ python-fedora-sig-onboard
 python-feedgen
 python-ffc
 python-fiat
+python-fields
 python-filecheck
 python-fingerprints
 python-fiona
@@ -12263,6 +12273,7 @@ python-ipgetter2
 python-ipuz
 python-ipykernel
 python-ipyparallel
+python-ipython_genutils
 python-ipywidgets
 python-irc
 python-irodsclient
@@ -12414,6 +12425,8 @@ python-manuel
 python-mapbox-earcut
 python-mapclassify
 python-mapnik
+python-markdown-callouts
+python-markdown-exec
 python-markdown-include
 python-markdown-it-py
 python-markdown
@@ -12454,7 +12467,10 @@ python-mistralclient
 python-mistune
 python-mistune08
 python-mizani
+python-mkdocs-autorefs
+python-mkdocs-click
 python-mkdocs-get-deps
+python-mkdocs-literate-nav
 python-mkdocs-material-extensions
 python-mkdocs-monorepo-plugin
 python-mmtf
@@ -12790,6 +12806,7 @@ python-pygit2
 python-pyglet
 python-pygls
 python-pygmars
+python-pygments-ansi-color
 python-pygments-git
 python-pygments-lexer-solidity
 python-pygments-pytest
@@ -12922,6 +12939,7 @@ python-pytest-flake8-path
 python-pytest-forked
 python-pytest-freezer
 python-pytest-github-actions-annotate-failures
+python-pytest-golden
 python-pytest-harvest
 python-pytest-home
 python-pytest-check
@@ -13224,6 +13242,7 @@ python-spotipy
 python-spur
 python-spyder-kernels
 python-sqlalchemy-filters
+python-sqlalchemy-helpers
 python-sqlalchemy_schemadisplay
 python-sqlalchemy1.4
 python-sqlglot

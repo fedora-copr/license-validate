@@ -38,7 +38,6 @@ activemq-cpp
 actor-framework
 act
 adanaxisgpl
-adapt
 ada-url
 adb-enhanced
 adcli
@@ -757,6 +756,7 @@ boxed-cpp
 boxes
 Box2D
 box64
+bpfman
 bpfmon
 bpftool
 bpftop
@@ -1349,6 +1349,7 @@ cri-tools
 cri-tools1.29
 cri-tools1.30
 cri-tools1.31
+cri-tools1.32
 criu
 cr-marcstevens-snippets
 crm114
@@ -2927,6 +2928,7 @@ geolite2
 geometry-hpp
 geomorph
 geomview
+geopmd
 geos
 gerbera
 gerbv
@@ -3025,6 +3027,7 @@ ghc-blaze-html
 ghc-blaze-markup
 ghc-blaze-textual
 ghc-bloomfilter
+ghc-bodhi
 ghc-Boolean
 ghc-boomerang
 ghc-BoundedChan
@@ -3148,6 +3151,7 @@ ghc-extra
 ghc-fast-logger
 ghc-fclabels
 ghc-fdo-notify
+ghc-fedora-releases
 ghc-feed
 ghc-fgl
 ghc-fgl-visualize
@@ -3357,6 +3361,7 @@ ghc-openssl-streams
 ghc-optional-args
 ghc-optparse-applicative
 ghc-optparse-simple
+ghc-pagure
 ghc-pandoc-types
 ghc-pango
 ghc-panic
@@ -3427,6 +3432,7 @@ ghc-s-cargot
 ghc-scientific
 ghc-scotty
 ghc-securemem
+ghc-select-rpms
 ghc-semigroupoids
 ghc-semigroups
 ghc-semver
@@ -15958,6 +15964,8 @@ python-mapclassify
 python-mapnik
 python-maps
 python-marathon
+python-markdown-callouts
+python-markdown-exec
 python-markdown-include
 python-markdown-it-py
 python-markdown-math
@@ -16021,7 +16029,10 @@ python-mistune
 python-mistune08
 python-mitogen
 python-mizani
+python-mkdocs-autorefs
+python-mkdocs-click
 python-mkdocs-get-deps
+python-mkdocs-literate-nav
 python-mkdocs-material-extensions
 python-mkdocs-monorepo-plugin
 python-mkdocs-redirects
@@ -16519,6 +16530,7 @@ python-pygit2
 python-pyglet
 python-pygls
 python-pygmars
+python-pygments-ansi-color
 python-pygments-better-html
 python-pygments-git
 python-pygments-lexer-solidity
@@ -16705,6 +16717,7 @@ python-pytest-forked
 python-pytest-freezegun
 python-pytest-freezer
 python-pytest-github-actions-annotate-failures
+python-pytest-golden
 python-pytest-harvest
 python-pytest-home
 python-pytest-httpbin
@@ -17155,6 +17168,7 @@ python-spyking-circus
 python-sqlacodegen
 python-sqlalchemy-collectd
 python-sqlalchemy-filters
+python-sqlalchemy-helpers
 python-sqlalchemy_schemadisplay
 python-sqlalchemy
 python-sqlalchemy-utils
