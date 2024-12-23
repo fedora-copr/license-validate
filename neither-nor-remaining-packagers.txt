@@ -12,20 +12,9 @@ jsmath-fonts         rdieter
 julia                nalimilan
 julius               spot
 kcbench              thl
-kclock               thunderbirdtr
 kernel               acaringi airlied ajax bskeggs jcline jforbes jwboyer jwrdegoede kernel-maint linville myoung patrickt quintela sandeen steved
-kf5-bluez-qt         jgrulich rdieter
-kf5-kcalendarcore    rdieter
-kf5-kdeclarative     jgrulich rdieter than
-kf5-kholidays        rdieter
 kf5-kirigami2        rdieter
-kf5-kirigami2-addons thunderbirdtr
-kf5-krunner          jgrulich rdieter than
-kf5-libkleo          jkucera rdieter
-kf5-threadweaver     jgrulich rdieter than
-khealthcertificate   ngompa thunderbirdtr
 kpublictransport     ngompa thunderbirdtr
-kscreen              rdieter
 lazarus              suve
 libclc               ignatenkobrain nikic sergesanspaille tstellar tuliom
 libwebp              smani
@@ -35,6 +24,7 @@ man2html             orion patches sergiomb
 mariadb10.11         fjanus hhorak ljavorsk mschorm zmiklank
 mxml                 dcavalca
 nikto                huzaifas rebus
+nss-mdns             lennart lkundrak pemensik zdohnal
 ocaml-omake          rjones
 pypy                 churchyard thrnciar
 pypy3.9              churchyard thrnciar
@@ -67,15 +57,15 @@ huzaifas   nikto
 ignatenkobrain libclc
 jcline     kernel
 jforbes    kernel
-jgrulich   kf5-bluez-qt kf5-kdeclarative kf5-krunner kf5-threadweaver
-jkucera    kf5-libkleo
 jnovy      texlive
 jwboyer    kernel
 jwrdegoede kernel
 kernel-maint kernel
+lennart    nss-mdns
 limb       frescobaldi
 linville   kernel
 ljavorsk   man-pages-l10n mariadb10.11
+lkundrak   nss-mdns
 mfabian    man-pages-l10n
 mschorm    mariadb10.11
 mtasaka    ruby
@@ -83,16 +73,17 @@ music      fcitx5-mozc
 myoung     kernel
 nalimilan  julia
 nforro     man-pages-l10n
-ngompa     khealthcertificate kpublictransport
+ngompa     kpublictransport
 nikic      libclc
 orion      man2html
 orphan     jbosscache-support
 patches    man2html
 patrickt   kernel
+pemensik   nss-mdns
 petersen   ghc-polyparse
 quintela   kernel
 rcallicotte hydra
-rdieter    jsmath-fonts kf5-bluez-qt kf5-kcalendarcore kf5-kdeclarative kf5-kholidays kf5-kirigami2 kf5-krunner kf5-libkleo kf5-threadweaver kscreen
+rdieter    jsmath-fonts kf5-kirigami2
 rebus      hydra nikto
 rjones     ocaml-omake
 sagitter   avogadro2-libs
@@ -103,14 +94,15 @@ smani      libwebp
 spot       fedora-remix-logos julius texlive tkimg
 steved     kernel
 suve       lazarus
-than       kf5-kdeclarative kf5-krunner kf5-threadweaver texlive
+than       texlive
 thl        kcbench
 thm        lmms
 thrnciar   pypy pypy3.9
-thunderbirdtr kclock kf5-kirigami2-addons khealthcertificate kpublictransport
+thunderbirdtr kpublictransport
 tstellar   libclc
 tuliom     libclc
 vondruch   ruby rubygem-rdoc
 wtaymans   gstreamer1-doc
 yanqiyu    fcitx5-mozc
+zdohnal    nss-mdns
 zmiklank   mariadb10.11
