@@ -158,10 +158,8 @@ capstats
 CardManager
 c-ares
 caribou
-castget
 cataclysm-dda
 catalyst
-catharsis-cormorant-fonts
 catimg
 cava
 cbios
@@ -377,7 +375,6 @@ ebtree
 ebtree
 ecj
 eclipse-swt
-ecolier-court-fonts
 ec2-metadata
 edgar
 editres
@@ -495,7 +492,6 @@ fedora-third-party
 fedora-workstation-repositories
 feh
 fennel
-festival
 ffuf
 fgrun
 fido
@@ -563,6 +559,8 @@ f26-backgrounds
 f26-backgrounds
 f27-backgrounds
 f27-backgrounds
+f27-backgrounds
+f28-backgrounds
 f28-backgrounds
 f28-backgrounds
 f29-backgrounds
@@ -615,36 +613,6 @@ genesis-simulator
 GeographicLib
 geomview
 gflags
-gfs-ambrosia-fonts
-gfs-artemisia-fonts
-gfs-baskerville-fonts
-gfs-bodoni-classic-fonts
-gfs-bodoni-fonts
-gfs-complutum-fonts
-gfs-decker-fonts
-gfs-didot-classic-fonts
-gfs-didot-display-fonts
-gfs-didot-fonts
-gfs-eustace-fonts
-gfs-fleischman-fonts
-gfs-galatea-fonts
-gfs-garaldus-fonts
-gfs-gazis-fonts
-gfs-goschen-fonts
-gfs-ignacio-fonts
-gfs-jackson-fonts
-gfs-neohellenic-fonts
-gfs-neohellenic-math-fonts
-gfs-nicefore-fonts
-gfs-olga-fonts
-gfs-orpheus-classic-fonts
-gfs-orpheus-fonts
-gfs-orpheus-sans-fonts
-gfs-philostratos-fonts
-gfs-porson-fonts
-gfs-pyrsos-fonts
-gfs-solomos-fonts
-gfs-theokritos-fonts
 ggz-base-libs
 ghasher
 ghc-base-compat-batteries
@@ -737,7 +705,6 @@ gnulib
 gnulib
 gnulib
 gnumeric
-gnupg-pkcs11-scd
 gnuplot
 goaltdns
 go-bindata
@@ -814,7 +781,6 @@ golang-github-bep-gitmap
 golang-github-bep-goat
 golang-github-bep-godartsass
 golang-github-bep-golibsass
-golang-github-bep-gowebp
 golang-github-bep-overlayfs
 golang-github-bep-tmc
 golang-github-bep-workers
@@ -936,7 +902,6 @@ golang-github-eclipse-paho-mqtt
 golang-github-edsrzf-mmap
 golang-github-eknkc-amber
 golang-github-elazarl-bindata-assetfs
-golang-github-elazarl-goproxy
 golang-github-elithrar-simple-scrypt
 golang-github-ema-qdisc
 golang-github-emersion-imap-sortthread
@@ -1196,7 +1161,6 @@ golang-github-martinhoefling-goxkcdpwgen
 golang-github-martini
 golang-github-masterminds-semver
 golang-github-masterminds-semver-1
-golang-github-masterminds-sprig
 golang-github-masterminds-vcs
 golang-github-matryer-try
 golang-github-mattn-colorable
@@ -1546,7 +1510,6 @@ golang-gopkg-natefinch-lumberjack-2
 golang-gopkg-neurosnap-sentences-1
 golang-gopkg-olivere-elastic-2
 golang-gopkg-op-logging-1
-golang-gopkg-pipe-2
 golang-gopkg-readline-1
 golang-gopkg-redis-6
 golang-gopkg-robfig-cron-3
@@ -1590,7 +1553,6 @@ golang-x-tools
 golang-x-xerrors
 goloris
 goocanvas2
-google-rubik-fonts
 gotags
 go2rpm
 gpick
@@ -1667,8 +1629,6 @@ horai-ume-fonts
 howl
 hpl
 hsakmt
-ht-alegreya-fonts
-ht-alegreya-sans-fonts
 htmlcxx
 htmltest
 htslib
@@ -1676,7 +1636,6 @@ httperf
 http-parser
 http_ping
 httprobe
-hugo
 hugs98
 human-theme-gtk
 hw-probe
@@ -1714,8 +1673,6 @@ ilmbase
 ImageMagick
 imapsync
 imaptest
-impallari-dancing-script-fonts
-impallari-raleway-fonts
 inertiablast
 infinipath-psm
 inkscape-psd
@@ -1739,7 +1696,6 @@ iptstate
 IP2Location
 IQmol
 irrlicht
-irstlm
 iscan-firmware
 isl
 iso-country-flags
@@ -1794,8 +1750,6 @@ js-jquery-mousewheel
 js-jquery
 js-jquery-ui
 js-jquery-ui-touch-punch
-jsmath-fonts
-jsmath-fonts
 json-fortran
 json-parser
 json-table
@@ -1843,7 +1797,6 @@ kdnssd-avahi
 kdsoap
 keditbookmarks
 keepassxc
-kemie-bellota-fonts
 kerberoast
 kernel
 kernel
@@ -1951,7 +1904,6 @@ levien-inconsolata-fonts
 lgogdownloader
 libacars
 libaccounts-glib
-libaccounts-qt
 libaec
 libaesgm
 libalkimia
@@ -1959,7 +1911,6 @@ libappindicator
 libarcus
 libart_lgpl
 libart
-libasr
 libass
 libast
 libax25
@@ -1995,7 +1946,6 @@ libdbi-drivers
 libdbi
 libdbusextended-qt5
 libdigidocpp
-libdmapsharing4
 libdnet
 libdockapp
 libdrm-armada
@@ -2164,14 +2114,11 @@ libxdiff
 libxfce4ui
 libxfce4util
 libXfont
-libxls
-libxmp
 libxo
 libXpresent
 libXvMC
 libXxf86dga
 libXxf86misc
-libx86emu
 libx86
 libyubikey
 libyui-gtk
@@ -2332,7 +2279,6 @@ micro
 miglayout
 migrationtools
 mikmod
-miller
 milter-greylist
 mimalloc
 mimetic
@@ -2554,7 +2500,6 @@ ncl
 ncrack
 ndesk-dbus-glib
 ndesk-dbus
-ndiscover-exo-2-fonts
 NearTree
 nekovm
 nemo-extensions
@@ -2680,7 +2625,6 @@ openlierox
 openmeeg
 OpenMolcas
 openmpi
-openms
 open-mtools
 openni
 OpenNL
@@ -2862,7 +2806,6 @@ php-deepend-Mockery
 php-doctrine-annotations
 php-doctrine-cache
 php-doctrine-collections
-php-doctrine-common
 php-doctrine-datafixtures
 php-doctrine-deprecations
 php-doctrine-doctrine-cache-bundle
@@ -2871,7 +2814,6 @@ php-doctrine-inflector
 php-doctrine-inflector2
 php-doctrine-instantiator
 php-doctrine-lexer
-php-doctrine-persistence
 php-doctrine-sql-formatter
 php-egulias-email-validator
 php-egulias-email-validator2
@@ -3015,7 +2957,6 @@ plplot
 pluma
 plymouth-theme-hot-dog
 pnglite
-pocketsphinx
 poedit
 polari
 polly
@@ -3230,11 +3171,8 @@ python-beaker
 python-beanbag
 python-beautifulsoup4
 python-beautifultable
-python-bibtexparser
-python-binaryornot
 python-biscuits
 python-bitarray
-python-bitmath
 python-bitstring
 python-bitstruct
 python-black
@@ -3305,7 +3243,6 @@ python-constantly
 python-construct
 python-contextualbandits
 python-convertdate
-python-cooldict
 python-coronavirus
 python-cov-core
 python-coverage_pth
@@ -3648,7 +3585,6 @@ python-mplcairo
 python-mplcursors
 python-mrcrowbar
 python-msldap
-python-mulpyplexer
 python-multi_key_dict
 python-multipart
 python-munch
@@ -3688,7 +3624,6 @@ python-ns1-python
 python-ntplib
 python-nuheat
 python-numcodecs
-python-numpy-stl
 python-oauth
 python-oauth2
 python-odata-query
@@ -3908,7 +3843,6 @@ python-resumable-urlretrieve
 python-retask
 python-rfc3986-validator
 python-rmtest
-python-ROPGadget
 python-rosdep
 python-rosinstall_generator
 python-rospkg
@@ -4217,7 +4151,6 @@ qwt
 qwt5
 qxmledit
 qxtglobalshortcut
-rabbitmq-server
 R-abind
 R-acepack
 radeontool
@@ -4543,7 +4476,6 @@ SDL2_image
 SDL2_net
 SDL2_sound
 sdrpp
-senamirmir-washra-fonts
 sen
 serd
 SFCGAL
@@ -4610,7 +4542,6 @@ spglib
 spherical-cow-backgrounds
 spherical-cow-backgrounds
 spice
-spim
 spooky-c
 spyder
 sqliteman
@@ -4708,10 +4639,7 @@ telepathy-logger
 telepathy-mission-control
 telepathy-salut
 terminology
-terminus-fonts
-terminus-fonts
 test-drive
-tex-cjw
 texlive-base
 texlive-base
 texlive-base
@@ -4731,7 +4659,6 @@ tini
 tinycompress
 tinydir
 tinyexr
-tinygo
 tinyobjloader
 tinyows
 tinyxml
@@ -4797,6 +4724,7 @@ umr
 unar
 unclutter-xfixes
 unicorn
+unicorn
 unifrakturmaguntia-fonts
 unique
 unique3
@@ -4811,7 +4739,6 @@ ursa-major
 usbtop
 usnic-tools
 ustr
-uswds-public-sans-fonts
 utox
 uvw
 uwsgi
@@ -5009,7 +4936,6 @@ yubikey-val
 zaz
 zezere
 zfp
-zig
 zipios++
 znc-push
 zola
