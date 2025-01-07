@@ -16,7 +16,6 @@ f34-backgrounds      dreua luya
 f35-backgrounds      dreua luya tdawson
 f36-backgrounds      dreua luya tdawson
 fcitx5-mozc          music yanqiyu
-fedora-remix-logos   spot
 frescobaldi          limb
 ghc-polyparse        petersen
 grammalecte          melmorabity
@@ -29,7 +28,6 @@ kcbench              thl
 kernel               acaringi airlied ajax bskeggs jcline jforbes jwboyer jwrdegoede kernel-maint linville myoung patrickt quintela sandeen steved
 kf5-kirigami2        rdieter
 lazarus              suve
-libclc               ignatenkobrain nikic sergesanspaille tstellar tuliom
 libwebp              smani
 lmms                 thm
 man-pages-l10n       ljavorsk mfabian nforro
@@ -51,7 +49,6 @@ rust-ybaas           decathorpe
 rust-yubibomb        decathorpe
 texlive              jnovy spot than
 tkimg                spot
-unicorn              fab mikep
 webkitgtk            catanzaro
 
 Packages by maintainer:
@@ -68,11 +65,9 @@ decathorpe rust-nettle rust-nettle-sys rust-ybaas rust-yubibomb
 design-sw  f25-backgrounds f26-backgrounds
 dreua      f23-backgrounds f25-backgrounds f26-backgrounds f27-backgrounds f28-backgrounds f29-backgrounds f30-backgrounds f31-backgrounds f32-backgrounds f33-backgrounds f34-backgrounds f35-backgrounds f36-backgrounds
 eclipseo   clementine
-fab        unicorn
 fjanus     mariadb10.11
 hhorak     mariadb10.11
 huzaifas   nikto
-ignatenkobrain libclc
 jcline     kernel
 jforbes    kernel
 jnovy      texlive
@@ -87,14 +82,12 @@ lkundrak   nss-mdns
 luya       f23-backgrounds f25-backgrounds f26-backgrounds f27-backgrounds f28-backgrounds f29-backgrounds f30-backgrounds f31-backgrounds f32-backgrounds f33-backgrounds f34-backgrounds f35-backgrounds f36-backgrounds
 melmorabity grammalecte
 mfabian    man-pages-l10n
-mikep      unicorn
 mschorm    mariadb10.11
 mtasaka    ruby
 music      fcitx5-mozc
 myoung     kernel
 nalimilan  julia
 nforro     man-pages-l10n
-nikic      libclc
 orion      man2html
 orphan     jbosscache-support
 patches    man2html
@@ -109,10 +102,9 @@ rebus      hydra nikto
 rjones     ocaml-omake
 sagitter   avogadro2-libs
 sandeen    kernel
-sergesanspaille libclc
 sergiomb   man2html
 smani      libwebp
-spot       fedora-remix-logos julius texlive tkimg
+spot       julius texlive tkimg
 steved     kernel
 suve       lazarus
 tdawson    f31-backgrounds f32-backgrounds f35-backgrounds f36-backgrounds
@@ -120,8 +112,6 @@ than       texlive
 thl        kcbench
 thm        lmms
 thrnciar   pypy pypy3.9
-tstellar   libclc
-tuliom     libclc
 vondruch   ruby rubygem-rdoc
 wtaymans   gstreamer1-doc
 yanqiyu    fcitx5-mozc
