@@ -517,6 +517,7 @@ beakerlib
 bear
 beecrypt
 beediff
+beefy-miracle-backgrounds
 beefy-miracle-kde-theme
 beep
 bees
@@ -990,6 +991,7 @@ connect-proxy
 conntrack-tools
 conserver
 consolation
+console-bridge
 console-login-helper-messages
 console-setup
 conspy
@@ -1306,6 +1308,7 @@ deltarpm
 delve
 demorse
 denemo
+deskflow
 desktop-file-utils
 deutex
 devhelp
@@ -2150,8 +2153,22 @@ fxload
 fyi
 f2c
 f2fs-tools
+f21-backgrounds
+f22-backgrounds
+f23-backgrounds
+f24-backgrounds
+f25-backgrounds
+f26-backgrounds
+f29-backgrounds
 f3d
 f3
+f30-backgrounds
+f31-backgrounds
+f32-backgrounds
+f33-backgrounds
+f34-backgrounds
+f35-backgrounds
+f36-backgrounds
 f37-backgrounds
 f38-backgrounds
 f39-backgrounds
@@ -3456,7 +3473,6 @@ golang-github-cockroachdb-redact
 golang-github-coder-websocket
 golang-github-containerd-aufs
 golang-github-containerd-btrfs
-golang-github-containerd-btrfs-2
 golang-github-containerd-cgroups
 golang-github-containerd-cgroups-3
 golang-github-containerd-cni
@@ -3884,7 +3900,6 @@ golang-github-peterbourgon-ff-3
 golang-github-peterbourgon-unixtransport
 golang-github-petermattis-goid
 golang-github-pierrec-lz4
-golang-github-pin-tftp-3
 golang-github-pion-randutil
 golang-github-pion-sdp3
 golang-github-pjbgf-sha1cd
@@ -4003,7 +4018,6 @@ golang-github-tonistiigi-archvariant
 golang-github-trafficstars-metrics
 golang-github-transparency-dev-merkle
 golang-github-twitchtv-twirp
-golang-github-twpayne-vfs-4
 golang-github-uber-jaeger-client
 golang-github-uber-jaeger-lib
 golang-github-ultradns-sdk
@@ -5031,6 +5045,7 @@ javapoet
 java-runtime-decompiler
 java-scrypt
 javassist
+Java-WebSocket
 java-21-openjdk-portable
 java-21-openjdk
 jaxb-api
@@ -5652,6 +5667,7 @@ latex2html
 latex2rtf
 lato-fonts
 latte-integrale
+laughlin-backgrounds
 launchy
 lavalauncher
 layer-shell-qt
@@ -5675,14 +5691,15 @@ ldapvi
 ldns
 leafpad
 leatherman
-lecm
 ledmon
 legendary
 legofy
 leland-fonts
 lemonldap-ng
 lens-magic
+leonidas-backgrounds
 less
+lest
 levmar
 lexertl14
 lexertl17
@@ -6427,6 +6444,7 @@ llhttp
 llmnrd
 llvm-bolt
 llvm
+llvm-test-suite
 llvm14
 llvm15
 llvm17
@@ -6468,6 +6486,7 @@ lorax
 loudmouth
 loupe
 lout
+lovelock-backgrounds
 love
 lowdown
 low-memory-monitor
@@ -6598,7 +6617,6 @@ mac-encheez
 macchanger
 mac-robber
 mac
-mactel-boot
 madan-fonts
 Maelstrom
 magic_enum
@@ -6904,7 +6922,6 @@ mingw-librsvg2
 mingw-libsigc++30
 mingw-libsigsegv
 mingw-libunistring
-mingw-mediawriter
 mingw-minizip
 mingw-nettle
 mingw-nsis
@@ -7041,7 +7058,6 @@ mksh
 mktorrent
 mkvtoolnix
 mle
-mlir
 mlir17
 mlnx-tools
 mlpack
@@ -7326,6 +7342,7 @@ needrestart
 nekohtml
 nemiver
 neochat
+neon-backgrounds
 neon
 neon2sse
 neo
@@ -9647,6 +9664,7 @@ perl-match-simple
 perl-match-simple-XS
 perl-MaxMind-DB-Common
 perl-MaxMind-DB-Reader
+perl-MaxMind-DB-Reader-XS
 perl-Maypole
 perl-MCE-Shared
 perl-MCE
@@ -11339,6 +11357,7 @@ pidgin-sipe
 pidgin-window-merge
 pie
 pigz
+pihpsdr
 pimcommon
 pim-data-exporter
 pim-sieve-editor
@@ -11886,6 +11905,7 @@ python-carbon
 python-cartopy
 python-cascadio
 python-catkin_pkg
+python-catkin-sphinx
 python-catkin_tools
 python-cattrs
 python-cbor2
@@ -13407,7 +13427,6 @@ python-stdnum
 python-steps
 python-stestr
 python-stevedore
-python-stomper
 python-stone
 python-stravalib
 python-streamlink
@@ -13644,7 +13663,6 @@ python-XStatic-Hogan
 python-XStatic-Magic-Search
 python-XStatic-Patternfly-Bootstrap-Treeview
 python-XStatic-Patternfly
-python-XStatic-roboto-fontface
 python-xword-dl
 python-xxhash
 python-xyzservices
@@ -13659,7 +13677,6 @@ python-yaswfp
 python-yfinance
 python-yte
 python-yubico
-python-zake
 python-zaqarclient
 python-zarr-checksum
 python-zc-customdoctests
@@ -14221,6 +14238,7 @@ rocblas
 rocclr
 rocdecode
 rocfft
+rocjpeg
 rocksndiamonds
 rocm-cmake
 rocm-core
@@ -14644,7 +14662,6 @@ rubygem-prawn-table
 rubygem-prawn-templates
 rubygem-process_executer
 rubygem-progressbar
-rubygem-proxifier
 rubygem-pry
 rubygem-public_suffix
 rubygem-puma
@@ -14680,7 +14697,6 @@ rubygem-ref
 rubygem-regexp_parser
 rubygem-regexp_property_values
 rubygem-require_all
-rubygem-resolve-hostname
 rubygem-rgen
 rubygem-rmagick
 rubygem-ronn-ng
@@ -14833,7 +14849,6 @@ rust-aes
 rust-aes0.7
 rust-afterburn
 rust-ahash
-rust-ahash0.4
 rust-ahash0.7
 rust-aho-corasick
 rust-aho-corasick0.7
@@ -15295,17 +15310,11 @@ rust-crc32fast
 rust-crc64
 rust-critical-section
 rust-crossbeam-deque
-rust-crossbeam-deque0.7
 rust-crossbeam-epoch
-rust-crossbeam-epoch0.8
 rust-crossbeam-channel
-rust-crossbeam-channel0.4
 rust-crossbeam-queue
-rust-crossbeam-queue0.2
 rust-crossbeam
 rust-crossbeam-utils
-rust-crossbeam-utils0.7
-rust-crossbeam0.7
 rust-crossfont
 rust-crosstermion
 rust-crossterm
@@ -15411,6 +15420,7 @@ rust-derive_more0.99
 rust-derive-new
 rust-derive_utils
 rust-derive-where
+rust-der-parser
 rust-der
 rust-desed
 rust-deser-hjson
@@ -15451,7 +15461,6 @@ rust-dlib
 rust-dlopen2_derive
 rust-dlopen2
 rust-dlv-list
-rust-dlv-list0.2
 rust-dns-lookup
 rust-dns-lookup1
 rust-doc-comment
@@ -15612,6 +15621,7 @@ rust-fixed
 rust-flagset
 rust-flate2
 rust-float-cmp
+rust-float-cmp0.9
 rust-float-ord
 rust-fluent-bundle
 rust-fluent-langneg
@@ -15888,7 +15898,6 @@ rust-hashbrown0.11
 rust-hashbrown0.12
 rust-hashbrown0.13
 rust-hashbrown0.14
-rust-hashbrown0.9
 rust-hashlink
 rust-hashlink0.8
 rust-hash32-derive
@@ -16282,7 +16291,6 @@ rust-matrixmultiply
 rust-maxminddb
 rust-maybe-async
 rust-maybe-rayon
-rust-maybe-uninit
 rust-mbox
 rust-mbrman
 rust-mdsh
@@ -16298,7 +16306,6 @@ rust-memmap2_0.5
 rust-memmap2_0.7
 rust-memmem
 rust-memoffset
-rust-memoffset0.5
 rust-memoffset0.6
 rust-memoffset0.7
 rust-memsec
@@ -16490,7 +16497,6 @@ rust-ordered-float
 rust-ordered-float2
 rust-ordered-float3
 rust-ordered-multimap
-rust-ordered-multimap0.3
 rust-ordered-stream
 rust-ordermap
 rust-ord_subset
@@ -16703,7 +16709,6 @@ rust-proptest-derive
 rust-proptest-derive0.4
 rust-proptest-macro
 rust-proptest
-rust-proptest0.10
 rust-prost-build
 rust-prost-build0.10
 rust-prost-derive
@@ -16791,31 +16796,17 @@ rust-radix-heap
 rust-radix_trie
 rust-rancor
 rust-rand_core
-rust-rand_core0.3
-rust-rand_core0.4
 rust-rand_core0.5
 rust-rand_distr
-rust-rand_hc
-rust-rand_hc0.1
 rust-rand_chacha
-rust-rand_chacha0.1
 rust-rand_chacha0.2
 rust-rand_isaac
-rust-rand_isaac0.1
-rust-rand_jitter
-rust-rand_jitter0.1
-rust-rand_os
-rust-rand_os0.1
 rust-rand_pcg
-rust-rand_pcg0.1
 rust-rand_pcg0.2
 rust-rand
 rust-rand_xorshift
-rust-rand_xorshift0.1
 rust-rand_xorshift0.2
 rust-rand_xoshiro
-rust-rand0.4
-rust-rand0.6
 rust-rand0.7
 rust-range_map_vec
 rust-ratatui
@@ -16951,7 +16942,6 @@ rust-rustfft
 rust-rustfix
 rust-rusticata-macros
 rust-rust-ini
-rust-rust-ini0.17
 rust-rustix-openpty
 rust-rustix
 rust-rustix0.37
@@ -17559,7 +17549,6 @@ rust-uuhelp_parser
 rust-uu_chcon
 rust-uu_id
 rust-uuid
-rust-uuid0.7
 rust-uuid0.8
 rust-uu_join
 rust-uu_link
@@ -18018,6 +18007,7 @@ shyaml
 shybrid
 schedtool
 schismtracker
+schroedinger-cat-backgrounds
 SIBsim4
 sidplayfp
 sid
@@ -18164,6 +18154,7 @@ sofia-sip
 softhsm
 softnet-stat
 solaar
+solar-backgrounds
 SolarModel
 solarwolf
 solidity
@@ -18222,6 +18213,7 @@ speech-dispatcher
 speech-tools
 speexdsp
 speex
+spherical-cow-backgrounds
 sphinx
 spicctrl
 spice-gtk
@@ -18429,7 +18421,6 @@ syncplay
 syncstar
 syncthing
 syndication-domination
-synergy
 synfig
 synfigstudio
 synthv1
@@ -18680,6 +18671,7 @@ treelayout
 tree-pkg
 tree-sitter-java
 tree-sitter
+tree-sitter-srpm-macros
 trelby
 tremulous
 trend
@@ -18927,6 +18919,7 @@ velocity
 verbiste
 verilator
 veristat
+verne-backgrounds
 vernnobile-muli-fonts
 vernnobile-nunito-fonts
 vernnobile-oswald-fonts
@@ -18971,7 +18964,6 @@ VirtualGL
 virt-viewer
 virt-v2v
 virt-what
-virt-who
 visidata
 vis
 visualboyadvance-m
@@ -19441,7 +19433,6 @@ xwayland-run
 xwaylandvideobridge
 xwd
 xwininfo
-xwrits
 xwxapt
 xxhash
 xxkb

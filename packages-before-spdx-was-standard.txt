@@ -5775,6 +5775,7 @@ javapoet
 java-runtime-decompiler
 java-scrypt
 javassist
+Java-WebSocket
 jaxb-api
 jaxb-dtd-parser
 jaxb-fi
@@ -6427,7 +6428,6 @@ ldeep
 ldns
 leafpad
 leatherman
-lecm
 lector
 ledger
 ledmon
@@ -7513,7 +7513,6 @@ mac-encheez
 macchanger
 mac-robber
 macromilter
-mactel-boot
 madan-fonts
 Maelstrom
 maeparser
@@ -7892,7 +7891,6 @@ mingw-libxslt
 mingw-libzip
 mingw-llvm
 mingw-log4c
-mingw-mediawriter
 mingw-minizip
 mingw-mpfr
 mingw-nettle
@@ -8075,7 +8073,6 @@ mksh
 mktorrent
 mkvtoolnix
 mle
-mlir
 mlmmj
 mlpack
 mlton
@@ -13646,7 +13643,6 @@ python-fastjsonschema
 python-fastprogress
 python-fastpurge
 python-fauxquests
-python-fedora
 python-feedgenerator
 python-feedgen
 python-feedparser
@@ -15028,7 +15024,6 @@ python-steps
 python-stestr
 python-stevedore
 python-stochastic
-python-stomper
 python-stone
 python-stopit
 python-straight-plugin
@@ -15094,7 +15089,6 @@ python-texttable
 python-text-unidecode
 python-textwrap3
 python-tftpy
-python-tgscheduler
 python-threadpoolctl
 python-three_merge
 python-tidy
@@ -15328,7 +15322,6 @@ python-XStatic-Patternfly-Bootstrap-Treeview
 python-XStatic-Patternfly
 python-XStatic-QUnit
 python-XStatic-Rickshaw
-python-XStatic-roboto-fontface
 python-XStatic-smart-table
 python-XStatic
 python-XStatic-Spin
@@ -15351,7 +15344,6 @@ python-yfinance
 python-yte
 python-ytmusicapi
 python-yubico
-python-zake
 python-zaqarclient
 python-zarr
 python-zc-customdoctests
@@ -16428,7 +16420,6 @@ rust-aes
 rust-aes0.7
 rust-afterburn
 rust-ahash
-rust-ahash0.4
 rust-aho-corasick
 rust-alacritty_config_derive
 rust-alacritty
@@ -16602,17 +16593,11 @@ rust-crc-catalog
 rust-crc
 rust-crc32fast
 rust-crossbeam-deque
-rust-crossbeam-deque0.7
 rust-crossbeam-epoch
-rust-crossbeam-epoch0.8
 rust-crossbeam-channel
-rust-crossbeam-channel0.4
 rust-crossbeam-queue
-rust-crossbeam-queue0.2
 rust-crossbeam
 rust-crossbeam-utils
-rust-crossbeam-utils0.7
-rust-crossbeam0.7
 rust-crossfont
 rust-crypto-bigint
 rust-crypto-common
@@ -16813,7 +16798,6 @@ rust-half
 rust-hamcrest2
 rust-hashbrown
 rust-hashbrown0.11
-rust-hashbrown0.9
 rust-hashlink
 rust-heapsize
 rust-heck
@@ -16947,7 +16931,6 @@ rust-markup5ever_rcdom
 rust-markup5ever
 rust-match_cfg
 rust-matrixmultiply
-rust-maybe-uninit
 rust-mbrman
 rust-md-5
 rust-md5
@@ -17094,7 +17077,6 @@ rust-proc-macro2
 rust-prometheus
 rust-proptest-derive
 rust-proptest
-rust-proptest0.10
 rust-prost-build
 rust-prost-derive
 rust-prost
@@ -17118,31 +17100,17 @@ rust-quickcheck0.9
 rust-quote
 rust-quote0.3
 rust-rand_core
-rust-rand_core0.3
-rust-rand_core0.4
 rust-rand_core0.5
 rust-rand_distr
-rust-rand_hc
-rust-rand_hc0.1
 rust-rand_chacha
-rust-rand_chacha0.1
 rust-rand_chacha0.2
 rust-rand_isaac
-rust-rand_isaac0.1
-rust-rand_jitter
-rust-rand_jitter0.1
-rust-rand_os
-rust-rand_os0.1
 rust-rand_pcg
-rust-rand_pcg0.1
 rust-rand_pcg0.2
 rust-rand
 rust-rand_xorshift
-rust-rand_xorshift0.1
 rust-rand_xorshift0.2
 rust-rand_xoshiro
-rust-rand0.4
-rust-rand0.6
 rust-rand0.7
 rust-rav1e
 rust-rawpointer
@@ -17392,7 +17360,6 @@ rust-userfaultfd-sys
 rust-utf8parse
 rust-utf-8
 rust-uuid
-rust-uuid0.7
 rust-uuid0.8
 rust-varlink-cli
 rust-varlink_parser
@@ -17962,7 +17929,6 @@ splat
 splint
 splix
 spnavcfg
-spooky-c
 spor
 spread-sheet-widget
 springlobby
@@ -18169,7 +18135,6 @@ sympy
 synapse
 syncevolution
 syncthing
-synergy
 synfig
 synfigstudio
 synthv1
@@ -18819,7 +18784,6 @@ virtualpg
 virt-viewer
 virt-v2v
 virt-what
-virt-who
 visidata
 vis
 visualboyadvance-m
@@ -19352,7 +19316,6 @@ xvkbd
 xwax
 xwd
 xwm
-xwrits
 xwud
 xwxapt
 xxhash

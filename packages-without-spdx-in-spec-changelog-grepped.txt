@@ -1583,6 +1583,7 @@ deluge
 delve
 demorse
 denemo
+deskflow
 desktop-backgrounds
 desktop-file-utils
 detox
@@ -4232,7 +4233,6 @@ golang-github-colinmarc-hdfs-2
 golang-github-common-nighthawk-figure
 golang-github-containerd-aufs
 golang-github-containerd-btrfs
-golang-github-containerd-btrfs-2
 golang-github-containerd-cgroups
 golang-github-containerd-cgroups-3
 golang-github-containerd-cni
@@ -5095,7 +5095,6 @@ golang-github-pierrec-cmdflag
 golang-github-pierrec-lz4
 golang-github-pierrre-geohash
 golang-github-pingcap-errors
-golang-github-pin-tftp-3
 golang-github-pion-randutil
 golang-github-pion-sdp3
 golang-github-pjbgf-sha1cd
@@ -5381,7 +5380,6 @@ golang-github-twinj-uuid
 golang-github-twitchtv-twirp
 golang-github-twmb-murmur3
 golang-github-twpayne-pinentry
-golang-github-twpayne-vfs-4
 golang-github-twpayne-waypoint
 golang-github-t3rm1n4l-mega
 golang-github-uber-athenadriver
@@ -6678,6 +6676,7 @@ javapoet
 java-runtime-decompiler
 java-scrypt
 javassist
+Java-WebSocket
 java-21-openjdk-portable
 java-21-openjdk
 jaxb-api
@@ -7473,7 +7472,6 @@ ldeep
 ldns
 leafpad
 leatherman
-lecm
 lector
 ledger
 ledmon
@@ -7487,6 +7485,7 @@ leonidas-backgrounds
 leonidas-kde-theme
 leptonica
 less
+lest
 leveldb
 levien-inconsolata-fonts
 levmar
@@ -8703,7 +8702,6 @@ macchanger
 mac-robber
 macromilter
 mac
-mactel-boot
 madan-fonts
 Maelstrom
 maeparser
@@ -9130,7 +9128,6 @@ mingw-libxslt
 mingw-libzip
 mingw-llvm
 mingw-log4c
-mingw-mediawriter
 mingw-minizip
 mingw-mpfr
 mingw-nettle
@@ -9337,7 +9334,6 @@ mksh
 mktorrent
 mkvtoolnix
 mle
-mlir
 mlir17
 mlmmj
 mlnx-tools
@@ -14133,6 +14129,7 @@ pidgin-window-merge
 pie
 pigeonascent
 pigz
+pihpsdr
 pilot-link
 pimcommon
 pim-data-exporter
@@ -15383,7 +15380,6 @@ python-fastpurge
 python-fast-simplification
 python-fauxquests
 python-fedora-sig-onboard
-python-fedora
 python-feedgenerator
 python-feedgen
 python-feedparser
@@ -17160,7 +17156,6 @@ python-steps
 python-stestr
 python-stevedore
 python-stochastic
-python-stomper
 python-stone
 python-stopit
 python-straight-plugin
@@ -17241,7 +17236,6 @@ python-textual
 python-text-unidecode
 python-textwrap3
 python-tftpy
-python-tgscheduler
 python-threadpoolctl
 python-three_merge
 python-throttler
@@ -17536,7 +17530,6 @@ python-XStatic-Patternfly-Bootstrap-Treeview
 python-XStatic-Patternfly
 python-XStatic-QUnit
 python-XStatic-Rickshaw
-python-XStatic-roboto-fontface
 python-XStatic-smart-table
 python-XStatic
 python-XStatic-Spin
@@ -17562,7 +17555,6 @@ python-yfinance
 python-yte
 python-ytmusicapi
 python-yubico
-python-zake
 python-zaqarclient
 python-zarr-checksum
 python-zarr
@@ -18299,6 +18291,7 @@ rocblas
 rocclr
 rocdecode
 rocfft
+rocjpeg
 rocksdb
 rocksndiamonds
 rocm-cmake
@@ -18753,7 +18746,6 @@ rust-aes
 rust-aes0.7
 rust-afterburn
 rust-ahash
-rust-ahash0.4
 rust-ahash0.7
 rust-aho-corasick
 rust-aho-corasick0.7
@@ -19158,17 +19150,11 @@ rust-crc32fast
 rust-crc64
 rust-critical-section
 rust-crossbeam-deque
-rust-crossbeam-deque0.7
 rust-crossbeam-epoch
-rust-crossbeam-epoch0.8
 rust-crossbeam-channel
-rust-crossbeam-channel0.4
 rust-crossbeam-queue
-rust-crossbeam-queue0.2
 rust-crossbeam
 rust-crossbeam-utils
-rust-crossbeam-utils0.7
-rust-crossbeam0.7
 rust-crossfont
 rust-crossterm0.22
 rust-crossterm0.25
@@ -19253,6 +19239,7 @@ rust-derive_more-impl
 rust-derive_more0.99
 rust-derive_utils
 rust-derive-where
+rust-der-parser
 rust-der
 rust-desed
 rust-deser-hjson
@@ -19287,7 +19274,6 @@ rust-displaydoc
 rust-dissimilar
 rust-dlopen2_derive
 rust-dlopen2
-rust-dlv-list0.2
 rust-dns-lookup
 rust-dns-lookup1
 rust-docker_credential
@@ -19428,6 +19414,7 @@ rust-fixedbitset0.2
 rust-fixed
 rust-flagset
 rust-flate2
+rust-float-cmp0.9
 rust-float-ord
 rust-fluent-bundle
 rust-fluent-langneg
@@ -19655,7 +19642,6 @@ rust-hashbrown0.11
 rust-hashbrown0.12
 rust-hashbrown0.13
 rust-hashbrown0.14
-rust-hashbrown0.9
 rust-hashlink
 rust-hashlink0.8
 rust-hash32-derive
@@ -19996,7 +19982,6 @@ rust-matchit0.7
 rust-matrixmultiply
 rust-maybe-async
 rust-maybe-rayon
-rust-maybe-uninit
 rust-mbrman
 rust-mdsh
 rust-md5-asm
@@ -20161,7 +20146,6 @@ rust-openxr-sys
 rust-option-ext
 rust-option-operations
 rust-ordered-float3
-rust-ordered-multimap0.3
 rust-ordered-stream
 rust-ordermap
 rust-ord_subset
@@ -20324,7 +20308,6 @@ rust-proptest-derive
 rust-proptest-derive0.4
 rust-proptest-macro
 rust-proptest
-rust-proptest0.10
 rust-prost-build
 rust-prost-build0.10
 rust-prost-derive
@@ -20399,31 +20382,17 @@ rust-quote0.3
 rust-radix-heap
 rust-rancor
 rust-rand_core
-rust-rand_core0.3
-rust-rand_core0.4
 rust-rand_core0.5
 rust-rand_distr
-rust-rand_hc
-rust-rand_hc0.1
 rust-rand_chacha
-rust-rand_chacha0.1
 rust-rand_chacha0.2
 rust-rand_isaac
-rust-rand_isaac0.1
-rust-rand_jitter
-rust-rand_jitter0.1
-rust-rand_os
-rust-rand_os0.1
 rust-rand_pcg
-rust-rand_pcg0.1
 rust-rand_pcg0.2
 rust-rand
 rust-rand_xorshift
-rust-rand_xorshift0.1
 rust-rand_xorshift0.2
 rust-rand_xoshiro
-rust-rand0.4
-rust-rand0.6
 rust-rand0.7
 rust-range_map_vec
 rust-ratatui
@@ -20535,7 +20504,6 @@ rust-rust_decimal_macros
 rust-rustfft
 rust-rustfix
 rust-rusticata-macros
-rust-rust-ini0.17
 rust-rustix-openpty
 rust-rustix
 rust-rustix0.37
@@ -21045,7 +21013,6 @@ rust-uuhelp_parser
 rust-uu_chcon
 rust-uu_id
 rust-uuid
-rust-uuid0.7
 rust-uuid0.8
 rust-uu_join
 rust-uu_link
@@ -21803,7 +21770,6 @@ splat
 splint
 splix
 spnavcfg
-spooky-c
 spor
 spread-sheet-widget
 springlobby
@@ -22034,7 +22000,6 @@ syncplay
 syncstar
 syncthing
 syndication-domination
-synergy
 synfig
 synfigstudio
 synthv1
@@ -22375,6 +22340,7 @@ treeland-protocols
 treelayout
 tree-pkg
 tree-sitter-java
+tree-sitter-srpm-macros
 trelby
 trellis
 tremulous-data
@@ -22746,7 +22712,6 @@ virtualpg
 virt-viewer
 virt-v2v
 virt-what
-virt-who
 visidata
 vis
 visualboyadvance-m
@@ -23347,7 +23312,6 @@ xwaylandvideobridge
 xwd
 xwininfo
 xwm
-xwrits
 xwud
 xwxapt
 xxhash
