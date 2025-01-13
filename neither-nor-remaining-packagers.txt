@@ -28,11 +28,8 @@ pypy3.9              churchyard thrnciar
 rbanffy-3270-fonts   dcavalca
 ruby                 mtasaka vondruch
 rubygem-rdoc         vondruch
-rust-nettle          decathorpe
-rust-nettle-sys      decathorpe
+rust-desed           suve
 rust-rpick           bowlofeggs
-rust-ybaas           decathorpe
-rust-yubibomb        decathorpe
 texlive              jnovy spot than
 tkimg                spot
 webkitgtk            catanzaro
@@ -46,7 +43,6 @@ bskeggs    kernel
 catanzaro  webkitgtk
 churchyard pypy pypy3.9
 dcavalca   mxml rbanffy-3270-fonts
-decathorpe rust-nettle rust-nettle-sys rust-ybaas rust-yubibomb
 eclipseo   clementine
 fjanus     mariadb10.11
 hhorak     mariadb10.11
@@ -87,7 +83,7 @@ sergiomb   man2html
 smani      libwebp
 spot       julius texlive tkimg
 steved     kernel
-suve       lazarus
+suve       lazarus rust-desed
 than       texlive
 thl        kcbench
 thm        lmms

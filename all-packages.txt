@@ -2606,6 +2606,7 @@ freerdp
 freerdp2
 freerouting
 FreeSOLID
+freetalk
 freetds
 freetennis
 freetype
@@ -5250,6 +5251,7 @@ golang-github-sagikazarmark-slog-shim
 golang-github-sahilm-fuzzy
 golang-github-saintfish-chardet
 golang-github-sajari-fuzzy
+golang-github-samber-lo
 golang-github-samuel-zookeeper
 golang-github-sanity-io-litter
 golang-github-saracen-walker
@@ -5860,6 +5862,7 @@ groonga-normalizer-mysql
 groonga
 gr-osmosdr
 group-service
+grout
 growlight
 grpc
 grpcurl
@@ -6094,6 +6097,7 @@ hipblaslt
 hipblas
 hipcub
 hipfft
+hipfort
 hipify
 hiprand
 hiprt
@@ -10012,7 +10016,6 @@ ocaml-autoconf
 ocaml-base
 ocaml-base64
 ocaml-benchmark
-ocaml-bigarray-compat
 ocaml-biniou
 ocaml-bin-prot
 ocaml-bisect-ppx
@@ -15795,6 +15798,7 @@ python-i3ipc
 python-jack-client
 python-jaconv
 python-janus
+python-janus-swi
 python-jaraco-classes
 python-jaraco-collections
 python-jaraco-context
@@ -16821,6 +16825,7 @@ python-pytzdata
 python-pyuca
 python-pyudev
 python-pyunicorn
+python-pyunormalize
 python-pyupgrade
 python-pyvat
 python-pyvirtualdisplay
@@ -16836,6 +16841,7 @@ python-pywt
 python-pyxdameraulevenshtein
 python-pyxdf
 python-pyxid
+python-pyxlsb2
 python-pyxs
 python-pyyaml-env-tag
 python-pyzabbix
@@ -17123,6 +17129,7 @@ python-socketio
 python-socksio
 python-socks
 python-socks5line
+python-solc-ast
 python-solcx
 python-sortedcollections
 python-sortedcontainers
@@ -17252,6 +17259,7 @@ python-subliminal
 python-subprocess-tee
 python-succulent
 python-suds
+python-super-collections
 python-superqt
 python-supersmoother
 python-sure
@@ -17332,6 +17340,7 @@ python-timeslot
 python-tinycss2
 python-tinydb
 python-tinygrad
+python-tinyhtml5
 python-tiny-proxy
 python-tinyrpc
 python-tkrzw
@@ -17378,6 +17387,7 @@ python-trie
 python-trimesh
 python-trio
 python-trio-websocket
+python-triton
 python-trml2pdf
 python-trololio
 python-trove-classifiers
@@ -19323,11 +19333,13 @@ rust-bitflags1
 rust-bitmaps
 rust-bitreader
 rust-bit-set
+rust-bit-set0.5
 rust-bitstream-io
 rust-bitstring
 rust-bitvec_helpers
 rust-bit-vec
 rust-bitvec
+rust-bit-vec0.6
 rust-blake2b_simd
 rust-blake2
 rust-blake3
@@ -19723,7 +19735,6 @@ rust-dirs-sys-next
 rust-dirs-sys
 rust-dirs-sys0.3
 rust-dirs2
-rust-dirs3
 rust-dirs4
 rust-diskonaut
 rust-displaydoc
@@ -20165,7 +20176,6 @@ rust-hamcrest2
 rust-hamming
 rust-handlebars
 rust-hashbrown
-rust-hashbrown0.11
 rust-hashbrown0.12
 rust-hashbrown0.13
 rust-hashbrown0.14
@@ -20399,6 +20409,7 @@ rust-krunvm
 rust-kstring
 rust-kvm-bindings
 rust-kvm-ioctls
+rust-k256
 rust-k8s-openapi
 rust-lab
 rust-lalrpop
@@ -20517,7 +20528,6 @@ rust-logos-derive
 rust-logos
 rust-log-panics
 rust-log
-rust-log0.3
 rust-loopdev-3
 rust-loop9
 rust-lopdf
@@ -21084,7 +21094,6 @@ rust-rand_xoshiro
 rust-rand0.7
 rust-range_map_vec
 rust-ratatui
-rust-ratatui0.25
 rust-ratatui0.26
 rust-ravif
 rust-rav1e
@@ -21468,7 +21477,6 @@ rust-ssh-encoding
 rust-ssh-key-dir
 rust-ssh-key
 rust-stability
-rust-stability0.1
 rust-stable_deref_trait
 rust-stable-pattern
 rust-stacker
@@ -21924,7 +21932,6 @@ rust-wasmparser
 rust-wax
 rust-wayland-backend
 rust-wayland-client
-rust-wayland-commons
 rust-wayland-csd-frame
 rust-wayland-cursor
 rust-wayland-egl
@@ -21934,7 +21941,6 @@ rust-wayland-protocols-wlr
 rust-wayland-scanner
 rust-wayland-server
 rust-wayland-sys
-rust-wayland-sys0.29
 rust-weak-table
 rust-webbrowser
 rust-web-ext-native-messaging

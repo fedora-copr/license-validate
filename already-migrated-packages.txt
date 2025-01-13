@@ -1136,6 +1136,7 @@ crun
 crun-vm
 crust-firmware
 cryfs
+cryptlib
 cryptobone
 cryptominisat
 crypto-policies
@@ -3962,6 +3963,7 @@ golang-github-safchain-ethtool
 golang-github-sagikazarmark-slog-shim
 golang-github-sahilm-fuzzy
 golang-github-sajari-fuzzy
+golang-github-samber-lo
 golang-github-scaleway-sdk
 golang-github-seancfoley-bintree
 golang-github-seancfoley-ipaddress
@@ -4345,6 +4347,7 @@ groonga-normalizer-mysql
 groonga
 gr-osmosdr
 group-service
+grout
 growlight
 grpc
 grpcurl
@@ -4529,6 +4532,7 @@ hipblaslt
 hipblas
 hipcub
 hipfft
+hipfort
 hipify
 hiprand
 hiprt
@@ -4712,6 +4716,7 @@ hwdata
 hwinfo
 hwk
 hwloc
+hw-probe
 hydrapaper
 hydrogen
 hyfetch
@@ -5201,6 +5206,7 @@ kddockwidgets
 kdebase3
 kde-cli-tools
 kde-connect
+kdecoration
 kdecoration5
 kde-dev-scripts
 kde-dev-utils
@@ -7553,7 +7559,6 @@ ocaml-augeas
 ocaml-autoconf
 ocaml-base
 ocaml-benchmark
-ocaml-bigarray-compat
 ocaml-biniou
 ocaml-bin-prot
 ocaml-bisect-ppx
@@ -12436,6 +12441,7 @@ python-iso639
 python-itsdangerous
 python-jaconv
 python-janus
+python-janus-swi
 python-jaraco-context
 python-jaraco-logging
 python-jaraco-stream
@@ -13145,6 +13151,7 @@ python-pytzdata
 python-pyuca
 python-pyudev
 python-pyunicorn
+python-pyunormalize
 python-pyupgrade
 python-pyvat
 python-pyvirtualdisplay
@@ -13157,6 +13164,7 @@ python-pywayland
 python-pywlroots
 python-pyxdameraulevenshtein
 python-pyxdf
+python-pyxlsb2
 python-pyxs
 python-pyzabbix
 python-pyzstd
@@ -13353,6 +13361,7 @@ python-sniffio
 python-social-auth-core
 python-socketio
 python-socks
+python-solc-ast
 python-solcx
 python-sortedcollections
 python-sortedcontainers
@@ -13436,6 +13445,7 @@ python-string_utils
 python-subarulink
 python-succulent
 python-suds
+python-super-collections
 python-superqt
 python-supersmoother
 python-sure
@@ -13495,6 +13505,7 @@ python-time-machine
 python-timeslot
 python-tinycss2
 python-tinygrad
+python-tinyhtml5
 python-tiny-proxy
 python-tkrzw
 python-tldextract
@@ -13529,6 +13540,7 @@ python-trie
 python-trimesh
 python-trio
 python-trio-websocket
+python-triton
 python-trove-classifiers
 python-troveclient
 python-trustme
@@ -13652,6 +13664,7 @@ python-xdot
 python-xkbcommon
 python-xkbregistry
 python-xlrd2
+python-xlsxwriter
 python-xmltramp
 python-xmp-toolkit
 python-xnat
@@ -15054,11 +15067,13 @@ rust-bitflags1
 rust-bitmaps
 rust-bitreader
 rust-bit-set
+rust-bit-set0.5
 rust-bitstream-io
 rust-bitstring
 rust-bitvec_helpers
 rust-bit-vec
 rust-bitvec
+rust-bit-vec0.6
 rust-blake2b_simd
 rust-blake2
 rust-blake3
@@ -15422,7 +15437,6 @@ rust-derive_utils
 rust-derive-where
 rust-der-parser
 rust-der
-rust-desed
 rust-deser-hjson
 rust-des
 rust-detone
@@ -15452,7 +15466,6 @@ rust-dirs-sys-next
 rust-dirs-sys
 rust-dirs-sys0.3
 rust-dirs2
-rust-dirs3
 rust-dirs4
 rust-diskonaut
 rust-displaydoc
@@ -15894,7 +15907,6 @@ rust-hamcrest2
 rust-hamming
 rust-handlebars
 rust-hashbrown
-rust-hashbrown0.11
 rust-hashbrown0.12
 rust-hashbrown0.13
 rust-hashbrown0.14
@@ -16128,6 +16140,7 @@ rust-krunvm
 rust-kstring
 rust-kvm-bindings
 rust-kvm-ioctls
+rust-k256
 rust-k8s-openapi
 rust-lab
 rust-lalrpop
@@ -16245,7 +16258,6 @@ rust-logos-derive
 rust-logos
 rust-log-panics
 rust-log
-rust-log0.3
 rust-loopdev-3
 rust-loop9
 rust-lopdf
@@ -16374,6 +16386,8 @@ rust-netlink-packet-utils
 rust-netlink-proto
 rust-netlink-sys
 rust-netmap_sys
+rust-nettle
+rust-nettle-sys
 rust-net2
 rust-new_debug_unreachable
 rust-newtype-uuid
@@ -16810,7 +16824,6 @@ rust-rand_xoshiro
 rust-rand0.7
 rust-range_map_vec
 rust-ratatui
-rust-ratatui0.25
 rust-ratatui0.26
 rust-ravif
 rust-rav1e
@@ -17193,7 +17206,6 @@ rust-ssh-encoding
 rust-ssh-key-dir
 rust-ssh-key
 rust-stability
-rust-stability0.1
 rust-stable_deref_trait
 rust-stable-pattern
 rust-stacker
@@ -17649,7 +17661,6 @@ rust-wasmparser
 rust-wax
 rust-wayland-backend
 rust-wayland-client
-rust-wayland-commons
 rust-wayland-csd-frame
 rust-wayland-cursor
 rust-wayland-egl
@@ -17659,7 +17670,6 @@ rust-wayland-protocols-wlr
 rust-wayland-scanner
 rust-wayland-server
 rust-wayland-sys
-rust-wayland-sys0.29
 rust-weak-table
 rust-webbrowser
 rust-web-ext-native-messaging
@@ -17713,10 +17723,12 @@ rust-yaml-rust0.3
 rust-yansi
 rust-yansi-term
 rust-yasna
+rust-ybaas
 rust-yeslogic-fontconfig-sys
 rust-yeslogic-fontconfig-sys4
 rust-yoke-derive
 rust-yoke
+rust-yubibomb
 rust-y4m
 rust-z-base-32
 rust-zbase32
@@ -18814,6 +18826,7 @@ upower
 uptimed
 upx
 uqm
+urdfdom-headers
 urdfdom
 uread
 uresourced
@@ -19110,6 +19123,7 @@ wine-dxvk
 wineglass
 wine-mono
 wine
+winetricks
 wingpanel-indicator-a11y
 wingpanel-indicator-bluetooth
 wingpanel-indicator-datetime
@@ -19465,6 +19479,7 @@ yakuake
 yambar
 yaml-cpp
 yamllint
+yank
 yanone-kaffeesatz-fonts
 yara
 yarnpkg
