@@ -1042,6 +1042,7 @@ cosmic-launcher
 cosmic-notifications
 cosmic-osd
 cosmic-panel
+cosmic-player
 cosmic-randr
 cosmic-screenshot
 cosmic-session
@@ -1885,7 +1886,6 @@ feather
 fedfind
 fedora-autofirstboot
 fedora-bookmarks
-fedora-business-cards
 fedora-distro-aliases
 fedora-easy-karma
 fedora-chromium-config
@@ -2055,6 +2055,7 @@ fox
 foxtrotgps
 fparser
 fpaste
+fpc
 fpc-srpm-macros
 fpdns
 fping
@@ -2145,6 +2146,7 @@ fusioninventory-agent
 futuresql
 fvsp
 fvwm
+fvwm3
 fwknop-gui
 fwknop
 fwupd-efi
@@ -4580,6 +4582,7 @@ httpd
 httpdump
 httpie
 httping
+http-parser
 httpry
 httptunnel
 httrack
@@ -4932,7 +4935,6 @@ intel-cmt-cat
 intel-gmmlib
 intel-ipp-crypto-mb
 intel-ipsec-mb
-intel-llvm-vc-intrinsics11
 intel-lpmd
 intel-media-driver-free
 intel-metee
@@ -5526,7 +5528,6 @@ kmousetool
 kmouth
 kmplot
 kmymoney
-knemo
 knights
 knm-new-fixed-fonts
 knock
@@ -5885,9 +5886,11 @@ libgedit-gtksourceview
 libgee
 libgenht
 libgeopmd
+libgeopm
 libgexiv2
 libghemical
 libgit2_1.7
+libgit2_1.8
 libglademm24
 libglibutil
 libglvnd
@@ -5947,6 +5950,7 @@ libinsane
 libinstpatch
 libint
 libint2
+libiodbc
 libiptcdata
 libipt
 libipuz
@@ -7007,6 +7011,7 @@ mingw-readline
 mingw-SDL_mixer
 mingw-SDL_ttf
 mingw-sdl12-compat
+mingw-sdl2-compat
 mingw-SDL2_image
 mingw-SDL2_mixer
 mingw-SDL2
@@ -7901,6 +7906,7 @@ openzwave
 open62541
 optee_client
 optee_os
+optional-lite
 options
 opusfile
 opus
@@ -11502,6 +11508,7 @@ polkit-qt-1
 polkit
 polly
 polyclipping
+polyclipping2
 polyglot-chess
 polylabel
 polymake
@@ -11555,6 +11562,7 @@ pptp
 pqmarble
 practrand
 pragha
+PragmARC
 prboom-plus
 prboom
 pre-commit
@@ -11825,7 +11833,9 @@ python-azure-keyvault
 python-azure-loganalytics
 python-azure-mgmt-appcontainers
 python-azure-mgmt-core
+python-azure-mgmt-mysqlflexibleservers
 python-azure-mgmt-policyinsights
+python-azure-mgmt-postgresqlflexibleservers
 python-azure-mgmt-quota
 python-azure-mgmt-rdbms
 python-azure-mgmt-resource
@@ -12151,6 +12161,7 @@ python-editdistance
 python-editorconfig
 python-editor
 python-efel
+python-einops
 python-elasticsearch
 python-elastic-transport
 python-elephant
@@ -12276,7 +12287,6 @@ python-furo
 python-futurist
 python-fvs
 python-fypp
-python-gabbi
 python-gammu
 python-gast
 python-gatspy
@@ -12821,6 +12831,7 @@ python-parsedatetime
 python-parse
 python-parso
 python-partd
+python-pass-import
 python-passlib
 python-pathable
 python-path-and-address
@@ -13377,7 +13388,6 @@ python-sphinx-basic-ng
 python-sphinxcontrib-asyncio
 python-sphinxcontrib-bibtex
 python-sphinxcontrib-devhelp
-python-sphinxcontrib-github-alt
 python-sphinxcontrib-globalsubs
 python-sphinxcontrib-htmlhelp
 python-sphinxcontrib-httpdomain
@@ -14053,6 +14063,7 @@ R-docopt
 R-doMC
 R-doParallel
 rdopkg
+RdRand
 R-DT
 R-DynDoc
 readline
@@ -14267,6 +14278,7 @@ roc-toolkit
 roctracer
 rofi-themes-base16
 rofi-wayland
+rogue
 rootfiles
 rootsh
 root
@@ -15437,6 +15449,7 @@ rust-derive_utils
 rust-derive-where
 rust-der-parser
 rust-der
+rust-desed
 rust-deser-hjson
 rust-des
 rust-detone
@@ -16176,7 +16189,7 @@ rust-libbpf-rs0.22
 rust-libbpf-rs0.23
 rust-libbpf-sys
 rust-libcramjam
-rust-libcramjam0.3
+rust-libcramjam0.6
 rust-libcryptsetup-rs
 rust-libcryptsetup-rs-sys
 rust-libcryptsetup-rs0.9
@@ -16206,6 +16219,7 @@ rust-liboci-cli
 rust-liboverdrop
 rust-libpanel
 rust-libpanel-sys
+rust-libphosh-sys
 rust-librsvg-rebind
 rust-librsvg-rebind-sys
 rust-librsvg
@@ -17914,10 +17928,11 @@ SDL_Pango
 sdl-softfloat
 sdl-telnet
 SDL_ttf
+sdl2-compat
 SDL2_gfx
 SDL2_mixer
 SDL2_Pango
-SDL2
+SDL2_sound
 SDL2_ttf
 SDL3
 sdorfehs
@@ -17988,6 +18003,7 @@ sfwbar
 sgml-common
 sgpio
 sgtk-menu
+sgx-rpm-macros
 sg3_utils
 shaderc
 shadow-utils
@@ -18204,6 +18220,7 @@ spampd
 spandsp
 sparkleshare
 sparrow
+sparse
 spasm
 spatialite-gui
 spatialite-tools
@@ -18237,7 +18254,6 @@ spim
 spindown
 spirv-headers
 spirv-llvm-translator
-spirv-llvm-translator11
 spirv-llvm15.0-translator
 spirv-tools
 spi-tools
@@ -18490,6 +18506,7 @@ tcl-snack
 tcl
 tcl-tclreadline
 tcl-trf
+tcl8
 tcmu-runner
 tcpdump
 tcpflow
@@ -18594,6 +18611,7 @@ tix
 tkabber
 tkrzw
 tk
+tk8
 tlf
 tllist
 tlmi-auth
@@ -18977,6 +18995,7 @@ VirtualGL
 virt-viewer
 virt-v2v
 virt-what
+virt-who
 visidata
 vis
 visualboyadvance-m

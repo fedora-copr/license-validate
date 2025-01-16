@@ -1274,6 +1274,7 @@ cosmic-launcher
 cosmic-notifications
 cosmic-osd
 cosmic-panel
+cosmic-player
 cosmic-randr
 cosmic-screenshot
 cosmic-session
@@ -2350,7 +2351,6 @@ fedfind
 fedora-appstream-metadata
 fedora-autofirstboot
 fedora-bookmarks
-fedora-business-cards
 fedora-distro-aliases
 fedora-easy-karma
 fedora-flathub-remote
@@ -2669,6 +2669,7 @@ fuzza
 fuzzel
 fvsp
 fvwm
+fvwm3
 fwknop-gui
 fwknop
 fwts
@@ -6132,7 +6133,6 @@ hplip
 hpl
 hpx
 hqx
-hsakmt
 hscolour
 hsetroot
 hspell
@@ -6543,7 +6543,6 @@ input-remapper
 insight
 InsightToolkit
 intel-clear-sans-fonts
-intel-cm-compiler
 intel-cmt-cat
 intel-compute-runtime
 intel-gmmlib
@@ -6551,7 +6550,6 @@ intelhex
 intel-igc
 intel-ipp-crypto-mb
 intel-ipsec-mb
-intel-llvm-vc-intrinsics11
 intel-lpmd
 intel-media-driver-free
 intel-mediasdk
@@ -7290,7 +7288,6 @@ kmplot
 kmscube
 kmymoney
 knavalbattle
-knemo
 knetwalk
 knights
 knm-new-fixed-fonts
@@ -7767,6 +7764,7 @@ libgedit-gtksourceview
 libgee
 libgenht
 libgeopmd
+libgeopm
 libgeotiff
 libgepub
 libgexiv2
@@ -7774,6 +7772,7 @@ libghemical
 libgit2-glib
 libgit2
 libgit2_1.7
+libgit2_1.8
 libglademm24
 libglade2
 libgle
@@ -9298,6 +9297,7 @@ mingw-SDL_image
 mingw-SDL_mixer
 mingw-SDL_ttf
 mingw-sdl12-compat
+mingw-sdl2-compat
 mingw-SDL2_image
 mingw-SDL2_mixer
 mingw-SDL2
@@ -10423,6 +10423,7 @@ open62541
 ophcrack
 optee_client
 optee_os
+optional-lite
 options
 optipng
 opusfile
@@ -14344,6 +14345,7 @@ polkit
 polly
 polybar
 polyclipping
+polyclipping2
 polyglot-chess
 polylabel
 polymake
@@ -14840,9 +14842,11 @@ python-azure-mgmt-marketplaceordering
 python-azure-mgmt-media
 python-azure-mgmt-monitor
 python-azure-mgmt-msi
+python-azure-mgmt-mysqlflexibleservers
 python-azure-mgmt-netapp
 python-azure-mgmt-network
 python-azure-mgmt-policyinsights
+python-azure-mgmt-postgresqlflexibleservers
 python-azure-mgmt-privatedns
 python-azure-mgmt-quota
 python-azure-mgmt-rdbms
@@ -15364,6 +15368,7 @@ python-editdistance
 python-editorconfig
 python-editor
 python-efel
+python-einops
 python-elasticsearch
 python-elastic-transport
 python-elementpath
@@ -15548,7 +15553,6 @@ python-fuzzyfinder
 python-fuzzywuzzy
 python-fvs
 python-fypp
-python-gabbi
 python-gammu
 python-gast
 python-gatspy
@@ -16344,6 +16348,7 @@ python-parsley
 python-parso
 python-partd
 python-parver
+python-pass-import
 python-passlib
 python-paste-deploy
 python-pastel
@@ -17153,7 +17158,6 @@ python-sphinxcontrib-asyncio
 python-sphinxcontrib-autoprogram
 python-sphinxcontrib-bibtex
 python-sphinxcontrib-devhelp
-python-sphinxcontrib-github-alt
 python-sphinxcontrib-globalsubs
 python-sphinxcontrib-htmlhelp
 python-sphinxcontrib-httpdomain
@@ -17558,7 +17562,6 @@ python-wloc
 python-wordcloud
 python-wrapt
 python-wsgidav
-python-wsgi_intercept
 python-WSGIProxy2
 python-wsproto
 python-wtforms
@@ -20445,7 +20448,7 @@ rust-libbpf-rs0.22
 rust-libbpf-rs0.23
 rust-libbpf-sys
 rust-libcramjam
-rust-libcramjam0.3
+rust-libcramjam0.6
 rust-libcryptsetup-rs
 rust-libcryptsetup-rs-sys
 rust-libcryptsetup-rs0.9
@@ -20475,6 +20478,7 @@ rust-liboci-cli
 rust-liboverdrop
 rust-libpanel
 rust-libpanel-sys
+rust-libphosh-sys
 rust-librsvg-rebind
 rust-librsvg-rebind-sys
 rust-librsvg
@@ -22232,13 +22236,13 @@ SDL_sound
 sdl-telnet
 SDL_ttf
 sdl12-compat
+sdl2-compat
 SDL2_gfx
 SDL2_image
 SDL2_mixer
 SDL2_net
 SDL2_Pango
 SDL2_sound
-SDL2
 SDL2_ttf
 SDL3
 sdorfehs
@@ -22314,6 +22318,7 @@ sfxr
 sgml-common
 sgpio
 sgtk-menu
+sgx-rpm-macros
 sg3_utils
 shaderc
 shadow-utils
@@ -22620,7 +22625,6 @@ spim
 spindown
 spirv-headers
 spirv-llvm-translator
-spirv-llvm-translator11
 spirv-llvm15.0-translator
 spirv-tools
 spi-tools
@@ -22955,6 +22959,7 @@ tcl-togl
 tcl-trf
 tclx
 tcl-zlib
+tcl8
 tcmu-runner
 tcpcrypt
 tcpdump
@@ -23100,6 +23105,7 @@ tklib
 tkrzw
 tk
 tktray
+tk8
 tldr
 tlf
 tllist
@@ -23586,6 +23592,7 @@ virtualpg
 virt-viewer
 virt-v2v
 virt-what
+virt-who
 visidata
 vis
 visualboyadvance-m

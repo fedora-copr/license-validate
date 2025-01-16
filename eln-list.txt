@@ -27,7 +27,6 @@ adobe-mappings-cmap
 adobe-mappings-pdf
 adwaita-icon-theme
 adwaita-icon-theme-legacy
-afflib
 aide
 alsa-firmware
 alsa-lib
@@ -115,7 +114,6 @@ brasero
 brltty
 brotli
 bsf
-btrfs-progs
 bubblewrap
 build-helper-maven-plugin
 buildah
@@ -166,6 +164,7 @@ cockpit-machines
 cockpit-ostree
 cockpit-podman
 cockpit-session-recording
+colm
 color-filesystem
 colord
 colord-gtk
@@ -185,6 +184,7 @@ corosync
 corosync-qdevice
 cpio
 cppunit
+cpputest
 cracklib
 crash
 crash-gcore-command
@@ -350,11 +350,11 @@ gdisk
 gdk-pixbuf2
 gdk-pixbuf2-modules-extra
 gdm
+gengetopt
 geoclue2
 geocode-glib
 geolite2
 gettext
-gfs2-utils
 ghostscript
 gi-docgen
 giflib
@@ -467,7 +467,6 @@ harfbuzz
 hdparm
 help2man
 hexedit
-hfsplus-tools
 hicolor-icon-theme
 highlight
 hivex
@@ -699,6 +698,7 @@ iso-codes
 isomd5sum
 itstool
 iw
+jack-audio-connection-kit
 jackson-annotations
 jackson-bom
 jackson-core
@@ -783,6 +783,7 @@ ksh
 ksmtuned
 ktls-utils
 kyotocabinet
+ladspa
 lame
 langpacks
 langtable
@@ -850,6 +851,7 @@ libcpuid
 libcupsfilters
 libdaemon
 libdatrie
+libdb
 libdbusmenu
 libdecor
 libdeflate
@@ -872,11 +874,11 @@ libestr
 libev
 libevdev
 libevent
-libewf
 libexif
 libfabric
 libfaketime
 libfastjson
+libffado
 libffi
 libfido2
 libfontenc
@@ -903,7 +905,9 @@ libi2cd
 libica
 libical
 libicu74
+libid3tag
 libidn2
+libiec61883
 libieee1284
 libijs
 libinput
@@ -919,7 +923,6 @@ libkeepalive
 libksba
 liblc3
 libldac
-libldm
 liblerc
 liblognorm
 liblouis
@@ -934,6 +937,7 @@ libmpc
 libmpeg2
 libmspack
 libmtp
+libmysofa
 libnbd
 libndp
 libnet
@@ -946,6 +950,7 @@ libnftnl
 libnl3
 libnma
 libnotify
+libnsl2
 libnvme
 libnxz
 libocxl
@@ -972,6 +977,7 @@ libqb
 libqmi
 libqrtr-glib
 librabbitmq
+libraw1394
 librdkafka
 librelp
 librepo
@@ -1041,6 +1047,7 @@ libxcrypt-epel
 libxcvt
 libxkbcommon
 libxkbfile
+libxml++
 libxml2
 libxmlb
 libxshmfence
@@ -1051,6 +1058,7 @@ libzdnn
 libzfcphbaapi
 libzip
 libzpc
+lilv
 linux-firmware
 linuxdoc-tools
 linuxptp
@@ -1084,6 +1092,7 @@ lua-posix
 lua-rpm-macros
 lujavrite
 luksmeta
+lv2
 lvm2
 lynx
 lz4
@@ -1092,7 +1101,6 @@ lzop
 m17n-db
 m17n-lib
 m4
-mac-robber
 madan-fonts
 mailcap
 make
@@ -1219,7 +1227,6 @@ mythes-eo
 nano
 nasm
 nautilus
-nbd
 nbdkit
 ncompress
 ncurses
@@ -1249,8 +1256,6 @@ npth
 nss
 nss-altfiles
 nss_wrapper
-ntfs-3g
-ntfs-3g-system-compression
 ntpstat
 numactl
 numad
@@ -1263,33 +1268,18 @@ objectweb-asm
 objenesis
 ocaml
 ocaml-augeas
-ocaml-base
 ocaml-calendar
-ocaml-cinaps
-ocaml-cmdliner
-ocaml-compiler-libs-janestreet
 ocaml-cppo
 ocaml-curses
 ocaml-dune
 ocaml-fileutils
 ocaml-findlib
 ocaml-gettext
-ocaml-intrinsics-kernel
 ocaml-labltk
 ocaml-libvirt
-ocaml-lwt
 ocaml-ocamlbuild
-ocaml-ocplib-endian
-ocaml-ounit
-ocaml-ppx-derivers
-ocaml-ppx-here
-ocaml-ppx-let
-ocaml-ppxlib
 ocaml-re
-ocaml-react
-ocaml-sexplib0
 ocaml-srpm-macros
-ocaml-topkg
 oci-seccomp-bpf-hook
 ocl-icd
 oddjob
@@ -1307,6 +1297,7 @@ opencryptoki
 opencsd
 opendnssec
 openexr
+openfec
 openjade
 openjpeg
 openldap
@@ -1315,7 +1306,6 @@ openoffice-lv
 openoffice.org-dict-cs_CZ
 opensc
 openscap
-openscap-report
 openslp
 opensm
 opensp
@@ -1329,6 +1319,7 @@ opentelemetry-collector-cloudwatch-config
 opentest4j
 openwsman
 opus
+opusfile
 oqsprovider
 orc
 orca
@@ -1433,7 +1424,6 @@ perl-Encode-EUCJPASCII
 perl-Encode-Locale
 perl-Env
 perl-Error
-perl-Expect
 perl-Exporter
 perl-Exporter-Tiny
 perl-ExtUtils-CBuilder
@@ -1806,6 +1796,7 @@ python-inotify
 python-installer
 python-into-dbus-python
 python-iso639
+python-isodate
 python-jinja2
 python-jmespath
 python-jsonpatch
@@ -1864,6 +1855,7 @@ python-pyqt6-sip
 python-pytest-subtests
 python-pyudev
 python-qrcode
+python-rdflib
 python-referencing
 python-requests
 python-requests-file
@@ -1890,8 +1882,11 @@ python-six
 python-smartypants
 python-sphinx
 python-sphinx-theme-alabaster
+python-sphinx_lv2_theme
 python-sphinx_rtd_theme
 python-sphinxcontrib-jquery
+python-sphinxemoji
+python-sphinxygen
 python-sqlalchemy
 python-systemd
 python-testpath
@@ -1956,6 +1951,7 @@ qt6-qtwebchannel
 qt6-qtwebsockets
 quota
 radvd
+ragel
 rapidjson
 rasdaemon
 rdma-core
@@ -1991,6 +1987,7 @@ rhel-system-roles-sap
 rit-meera-new-fonts
 rit-rachana-fonts
 rng-tools
+roc-toolkit
 rootfiles
 rpcbind
 rpcsvc-proto
@@ -2065,6 +2062,7 @@ seabios
 seahorse
 sed
 selinux-policy
+serd
 servicelog
 setools
 setroubleshoot
@@ -2089,7 +2087,6 @@ sisu
 skopeo
 slang
 slapi-nis
-sleuthkit
 slf4j
 slirp4netns
 smartmontools
@@ -2101,10 +2098,12 @@ socat
 socket_wrapper
 softhsm
 sombok
+sord
 sos
 sound-theme-freedesktop
 soundtouch
 source-highlight
+sox
 spausedd
 speech-dispatcher
 speex
@@ -2118,6 +2117,7 @@ splix
 sqlite
 squashfs-tools
 squid
+sratom
 sscg
 sssd
 stalld
@@ -2190,6 +2190,7 @@ trace-cmd
 traceroute
 tracker
 tracker-miners
+transfig
 tree-pkg
 tree-sitter
 tss2
@@ -2199,7 +2200,6 @@ tuna
 tuned
 twolame
 tzdata
-ubdsrv
 uchardet
 ucx
 udev-hid-bpf
@@ -2244,6 +2244,7 @@ virt-top
 virt-v2v
 virt-viewer
 virt-what
+virt-who
 virtio-win
 virtiofsd
 voikko-fi
@@ -2336,9 +2337,8 @@ yggdrasil
 yggdrasil-worker-package-manager
 zaf
 zenity
-zerofree
-zfs-fuse
 zip
+zix
 zlib-ng
 zsh
 zstd
