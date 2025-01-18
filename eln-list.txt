@@ -12,6 +12,7 @@ PackageKit
 PyQt-builder
 PyYAML
 SDL2
+SDL3
 WALinuxAgent
 Xaw3d
 a52dec
@@ -164,7 +165,6 @@ cockpit-machines
 cockpit-ostree
 cockpit-podman
 cockpit-session-recording
-colm
 color-filesystem
 colord
 colord-gtk
@@ -184,7 +184,6 @@ corosync
 corosync-qdevice
 cpio
 cppunit
-cpputest
 cracklib
 crash
 crash-gcore-command
@@ -350,7 +349,6 @@ gdisk
 gdk-pixbuf2
 gdk-pixbuf2-modules-extra
 gdm
-gengetopt
 geoclue2
 geocode-glib
 geolite2
@@ -698,7 +696,6 @@ iso-codes
 isomd5sum
 itstool
 iw
-jack-audio-connection-kit
 jackson-annotations
 jackson-bom
 jackson-core
@@ -783,7 +780,6 @@ ksh
 ksmtuned
 ktls-utils
 kyotocabinet
-ladspa
 lame
 langpacks
 langtable
@@ -851,7 +847,6 @@ libcpuid
 libcupsfilters
 libdaemon
 libdatrie
-libdb
 libdbusmenu
 libdecor
 libdeflate
@@ -878,7 +873,6 @@ libexif
 libfabric
 libfaketime
 libfastjson
-libffado
 libffi
 libfido2
 libfontenc
@@ -905,9 +899,7 @@ libi2cd
 libica
 libical
 libicu74
-libid3tag
 libidn2
-libiec61883
 libieee1284
 libijs
 libinput
@@ -937,7 +929,6 @@ libmpc
 libmpeg2
 libmspack
 libmtp
-libmysofa
 libnbd
 libndp
 libnet
@@ -977,7 +968,6 @@ libqb
 libqmi
 libqrtr-glib
 librabbitmq
-libraw1394
 librdkafka
 librelp
 librepo
@@ -1043,11 +1033,9 @@ libwebp
 libwnck3
 libxcb
 libxcrypt
-libxcrypt-epel
 libxcvt
 libxkbcommon
 libxkbfile
-libxml++
 libxml2
 libxmlb
 libxshmfence
@@ -1058,7 +1046,6 @@ libzdnn
 libzfcphbaapi
 libzip
 libzpc
-lilv
 linux-firmware
 linuxdoc-tools
 linuxptp
@@ -1092,7 +1079,6 @@ lua-posix
 lua-rpm-macros
 lujavrite
 luksmeta
-lv2
 lvm2
 lynx
 lz4
@@ -1297,7 +1283,6 @@ opencryptoki
 opencsd
 opendnssec
 openexr
-openfec
 openjade
 openjpeg
 openldap
@@ -1319,7 +1304,6 @@ opentelemetry-collector-cloudwatch-config
 opentest4j
 openwsman
 opus
-opusfile
 oqsprovider
 orc
 orca
@@ -1796,7 +1780,6 @@ python-inotify
 python-installer
 python-into-dbus-python
 python-iso639
-python-isodate
 python-jinja2
 python-jmespath
 python-jsonpatch
@@ -1855,7 +1838,6 @@ python-pyqt6-sip
 python-pytest-subtests
 python-pyudev
 python-qrcode
-python-rdflib
 python-referencing
 python-requests
 python-requests-file
@@ -1882,11 +1864,8 @@ python-six
 python-smartypants
 python-sphinx
 python-sphinx-theme-alabaster
-python-sphinx_lv2_theme
 python-sphinx_rtd_theme
 python-sphinxcontrib-jquery
-python-sphinxemoji
-python-sphinxygen
 python-sqlalchemy
 python-systemd
 python-testpath
@@ -1951,7 +1930,6 @@ qt6-qtwebchannel
 qt6-qtwebsockets
 quota
 radvd
-ragel
 rapidjson
 rasdaemon
 rdma-core
@@ -1987,7 +1965,6 @@ rhel-system-roles-sap
 rit-meera-new-fonts
 rit-rachana-fonts
 rng-tools
-roc-toolkit
 rootfiles
 rpcbind
 rpcsvc-proto
@@ -2058,11 +2035,11 @@ scons
 scrub
 sdbus-cpp
 sdl12-compat
+sdl2-compat
 seabios
 seahorse
 sed
 selinux-policy
-serd
 servicelog
 setools
 setroubleshoot
@@ -2098,12 +2075,10 @@ socat
 socket_wrapper
 softhsm
 sombok
-sord
 sos
 sound-theme-freedesktop
 soundtouch
 source-highlight
-sox
 spausedd
 speech-dispatcher
 speex
@@ -2117,7 +2092,6 @@ splix
 sqlite
 squashfs-tools
 squid
-sratom
 sscg
 sssd
 stalld
@@ -2190,7 +2164,6 @@ trace-cmd
 traceroute
 tracker
 tracker-miners
-transfig
 tree-pkg
 tree-sitter
 tss2
@@ -2338,7 +2311,6 @@ yggdrasil-worker-package-manager
 zaf
 zenity
 zip
-zix
 zlib-ng
 zsh
 zstd

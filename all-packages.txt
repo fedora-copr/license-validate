@@ -858,7 +858,6 @@ cadaver
 caddy
 cadical
 cadvisor
-caffe
 cage
 cachefilesd
 cachelib
@@ -911,6 +910,7 @@ caribou
 Carla
 cascadia-code-fonts
 casc
+casilda
 castget
 castxml
 cataclysm-dda
@@ -1111,6 +1111,7 @@ coccinelle
 cockatrice
 cockpit-composer
 cockpit-files
+cockpit-image-builder
 cockpit-machines
 cockpit-navigator
 cockpit-ostree
@@ -1539,6 +1540,7 @@ debootstrap
 debugbreak
 debugedit
 decentxml
+decibels
 deco-archive
 deco
 deepin-account-faces
@@ -7250,6 +7252,7 @@ kitty
 kitutuki
 kiwi-boxed-plugin
 kiwi
+kiwi-stackbuild-plugin
 kiwix-desktop
 kiwix-tools
 kjots
@@ -7771,7 +7774,6 @@ libgexiv2
 libghemical
 libgit2-glib
 libgit2
-libgit2_1.7
 libgit2_1.8
 libglademm24
 libglade2
@@ -9300,7 +9302,6 @@ mingw-sdl12-compat
 mingw-sdl2-compat
 mingw-SDL2_image
 mingw-SDL2_mixer
-mingw-SDL2
 mingw-SDL2_ttf
 mingw-SDL3
 mingw-sip
@@ -9806,6 +9807,7 @@ NetworkManager-strongswan
 NetworkManager-vpnc
 neuron
 neverball
+newflasher
 newlisp
 newsbeuter
 newsboat
@@ -14143,7 +14145,6 @@ php-webimpress-http-middleware-compatibility
 php-webimpress-safe-writer
 php-webmozart-assert
 php-wikimedia-assert
-php-wikimedia-avro
 php-wikimedia-cdb
 php-wikimedia-ip-set
 php-wikimedia-utfnormal
@@ -14769,6 +14770,7 @@ python-Automat
 python-autopage
 python-autopep8
 python-avocado
+python-avro
 python-aw-client
 python-aw-core
 python-awesomeversion
@@ -15403,6 +15405,7 @@ python-eth-hash
 python-eth-keyfile
 python-eth-keys
 python-eth-rlp
+python-eth-stdlib
 python-ethtool
 python-eth-typing
 python-eth-utils
@@ -16473,6 +16476,7 @@ python-promise
 python-prompt-toolkit
 python-protego
 python-proton-core
+python-proton-vpn-api-core
 python-proto-plus
 python-prov
 python-psutil
@@ -19061,6 +19065,7 @@ rubygem-unf_ext
 rubygem-unf
 rubygem-unicode-display_width
 rubygem-unicode
+rubygem-useragent
 rubygem-uuid
 rubygem-vault
 rubygem-vcr
@@ -19186,6 +19191,7 @@ rust-app-store-connect
 rust-arbitrary
 rust-arbitrary0.4
 rust-arboard
+rust-arcstr
 rust-arc-swap
 rust-arg_enum_proc_macro
 rust-argfile
@@ -20478,6 +20484,7 @@ rust-liboci-cli
 rust-liboverdrop
 rust-libpanel
 rust-libpanel-sys
+rust-libphosh
 rust-libphosh-sys
 rust-librsvg-rebind
 rust-librsvg-rebind-sys
@@ -20886,8 +20893,12 @@ rust-phf_shared0.8
 rust-phf
 rust-phf0.8
 rust-picky-asn1-der
+rust-picky-asn1-der0.4
 rust-picky-asn1
 rust-picky-asn1-x509
+rust-picky-asn1-x509_0.12
+rust-picky-asn1_0.8
+rust-picky-test-data
 rust-pico-args
 rust-pid
 rust-pin-project-internal
