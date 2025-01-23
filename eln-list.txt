@@ -158,8 +158,8 @@ cloud-utils
 cmake
 cmocka
 cockpit
-cockpit-composer
 cockpit-files
+cockpit-image-builder
 cockpit-machines
 cockpit-ostree
 cockpit-podman
@@ -2166,6 +2166,7 @@ tracker
 tracker-miners
 tree-pkg
 tree-sitter
+trustee-guest-components
 tss2
 ttembed
 ttmkfdir

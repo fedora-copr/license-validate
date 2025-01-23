@@ -2102,7 +2102,7 @@ libgnomecanvas       alexl rhughes rstrode yselkowitz
 libgnomecanvasmm26   nphilipp verdurin
 libgpod              alexl chkr limb rhughes rstrode teuf tpokorra
 libgta               jkucera tdawson
-libhbaapi            cleech
+libhbaapi            orphan
 libibcommon          dledford honli michich steved
 libicns              hobbes1069 musuruan xavierb
 libidn1.34           rathann
@@ -2583,7 +2583,6 @@ ndesk-dbus           tpokorra
 ndesk-dbus-glib      tpokorra
 nekovm               andyli rjones
 nemo                 leigh123linux
-nemo-extensions      leigh123linux
 neomutt              flatcap steve
 neovim-qt            alebastr
 nes_ntsc             dtimms
@@ -2895,7 +2894,6 @@ php-fig-link-util    siwinski
 php-gettext-gettext  petersen suanand
 php-guzzlehttp-promises siwinski
 php-guzzlehttp-psr7  orphan
-php-hamcrest2        remi
 php-http-interop-http-middleware remi
 php-http-message-factory remi
 php-iamcal-lib-autolink remi
@@ -2986,7 +2984,6 @@ php-symfony-contracts2 remi
 php-symfony-polyfill siwinski
 php-symfony-requirements-checker remi
 php-symfony4         remi siwinski
-php-theseer-fDOMDocument remi
 php-twig             siwinski
 php-webimpress-http-middleware-compatibility remi
 php-webimpress-safe-writer remi siwinski
@@ -4844,7 +4841,6 @@ chkr       libgpod lua-ldap scummvm scummvm-tools xskat
 churchyard 3dprinter-udev-rules act admeshgui ampy auditwheel doge esh libarcus lmfit playitagainsam poly2tri pypy pypy3.9 python-arpeggio python-backcall python-black python-elementpath python-html5lib python-jaraco-path python-jupyter-client python-microfs python-more-itertools python-nbclient python-nose python-parver python-pigpio python-pycodestyle python-pytest-expect python-pytest-freezegun python-pytest-subprocess python-requests-download python-scripttest python-sphinx-click python-sphinx-removed-in python-toml python-tomli python-tomlkit python-tox-current-env python-u-msgpack-python python-utils python-virtualenv python-xmlschema python3.6 python3.8 python3.9 slic3r tty-copy uflash
 cicku      blackbox cdk darkhttpd dmenu dropbear enlightenment extra-cmake-modules fakechroot figtoipe florence freeimage gcin hiredis hxtools i3lock ldc libXcm libgit2 libqtxdg libupnp libzdb linode-cli lnav mimetic mirmon mlmmj mpqc ncdc netatalk ngrep pgpdump prwd python-redis qt5-qtaccountsservice qt5-qtconfiguration terminology wemux wxGlade xar yapet
 clalance   oz rubygem-krb5-auth
-cleech     libhbaapi
 cmadams    dhcpd-pools
 cn137      vim-nerdtree
 copperi    golang-github-mdlayher-wifi
@@ -5099,7 +5095,7 @@ lberk      python-rmtest
 lbrabec    python-flask-caching python-xunitparser
 lead2gold  python-apprise
 leamas     ddupdate entypo-fonts iguanaIR libirman lirc lpf mnmlicons-fonts python-xlwt rundoc snip
-leigh123linux akmods caribou cinnamon cinnamon-control-center cinnamon-desktop cinnamon-menus cinnamon-screensaver cinnamon-session cinnamon-settings-daemon cjs kmodtool lightdm mint-y-icons nemo nemo-extensions python-xapp
+leigh123linux akmods caribou cinnamon cinnamon-control-center cinnamon-desktop cinnamon-menus cinnamon-screensaver cinnamon-session cinnamon-settings-daemon cjs kmodtool lightdm mint-y-icons nemo python-xapp
 lenkaseg   python-pyopencl python-pytools
 lennart    nss-mdns
 leoleovich disciplining-minipod ubloxcfg
@@ -5222,7 +5218,7 @@ onemorebyte swayidle
 onosek     rpkg
 orange-kao SFCGAL python-accept-types python-cs python-executing python-exoscale python-folium python-gnupg python-google-i18n-address python-odata-query python-pytest-localserver python-requests-exoscale-auth python-sentry-sdk python-sly python-stripe python-twilio python-xml2rfc python-zxcvbn
 orion      Mayavi ast catalyst cpp-httplib elfio flow-tools ftnchek garcon glew glm h5py hdf hiredis irrlicht itcl itk iwidgets jchardet js-jquery kstart lasi libaesgm libgeotiff libpgf libxfce4ui lua-bitop lua-json lua-lunitx lua-posix lua-term man2html mingw-libtiff mingw-libusbx mingw-libxslt ncl netcdf4-python octave-general octave-interval octave-io openmpi openvpn-auth-ldap pcfi perl-ConfigReader perl-Net-Patricia plplot pslib pyotherside pyscard python-AppTools python-backcall python-cftime python-cssselect2 python-cytoolz python-ecdsa python-enthought-sphinx-theme python-entrypoints python-fido2 python-frozendict python-gevent python-locket python-lz4 python-nbformat python-pamela python-pkgconfig python-process-tests python-pycodestyle python-pycosat python-pytest-benchmark python-pytest-isort python-pytest-mpi python-rencode python-schema python-toolz python-virtualenv python-winrm python-xlib qtbrowserplugin reproc rhash rust-crc-any rust-debug-helper tcl-signal tcp_wrappers udunits2 vtable-dumper xdotool ykclient zfp
-orphan     elementary golang-github-fvbommel-sortorder golang-github-hanwen-fuse golang-github-tonistiigi-rosetta ipmiutil jbosscache-support kdepim4 php-guzzlehttp-psr7 python-alsaaudio python-dbutils python-events python-flask-xml-rpc python-geoplot python-mutatormath python-serpy python-statsd python-xunitparser reg zola
+orphan     elementary golang-github-fvbommel-sortorder golang-github-hanwen-fuse golang-github-tonistiigi-rosetta ipmiutil jbosscache-support kdepim4 libhbaapi php-guzzlehttp-psr7 python-alsaaudio python-dbutils python-events python-flask-xml-rpc python-geoplot python-mutatormath python-serpy python-statsd python-xunitparser reg zola
 osloup     PyGreSQL docbook5-style-xsl nss_nis orafce pg_auto_failover postgresql-pgpool-II
 osoukup    vim-ctrlp
 otaylor    fedora-flathub-remote fedora-third-party flatpak-module-tools flatpak-rpm-macros
@@ -5291,7 +5287,7 @@ rdieter    GraphicsMagick PackageKit-Qt akonadi-calendar-tools ark attica audioc
 rdopiera   python-XStatic python-XStatic-Angular python-XStatic-Angular-Bootstrap python-XStatic-Angular-FileUpload python-XStatic-Angular-Gettext python-XStatic-Angular-Mock python-XStatic-Angular-UUID python-XStatic-Angular-Vis python-XStatic-Angular-lrdragndrop python-XStatic-Bootstrap-SCSS python-XStatic-D3 python-XStatic-FileSaver python-XStatic-JQuery-Migrate python-XStatic-JQuery-TableSorter python-XStatic-JQuery-quicksearch python-XStatic-JS-Yaml python-XStatic-JSEncrypt python-XStatic-Jasmine python-XStatic-Json2yaml python-XStatic-QUnit python-XStatic-Rickshaw python-XStatic-Spin python-XStatic-mdi python-XStatic-smart-table python-XStatic-termjs
 rdossant   openhpi openhpi-subagent
 rebus      aeskeyfind afflib dcfldd dionaea hydra libdasm msoffcrypto-tool ncrack officeparser python-colorclass python-oletools sslscan tcptrack xorsearch
-remi       IP2Location ImageMagick compat-lua fastlz libcgif libmcrypt librabbitmq libsodium php-PHPParser php-PsrLog php-alcaeus-mongo-php-adapter php-bacon-qr-code2 php-brick-math php-brick-varexporter php-composer-ca-bundle php-composer-metadata-minifier php-composer-pcre php-composer-xdebug-handler php-composer-xdebug-handler2 php-deepend-Mockery php-doctrine-annotations php-doctrine-cache php-doctrine-collections php-doctrine-datafixtures php-doctrine-deprecations php-doctrine-doctrine-cache-bundle php-doctrine-event-manager php-doctrine-inflector php-doctrine-inflector2 php-doctrine-instantiator php-doctrine-lexer php-doctrine-sql-formatter php-egulias-email-validator2 php-fedora-autoloader php-felixfbecker-advanced-json-rpc3 php-fig-http-message-util php-hamcrest2 php-http-interop-http-middleware php-http-message-factory php-iamcal-lib-autolink php-icewind-smb2 php-justinrainbow-json-schema5 php-khanamiryan-qrcode-detector-decoder php-league-container4 php-league-flysystem php-league-mime-type-detection php-league-plates php-league-tactician php-microsoft-tolerant-php-parser php-mock-integration2 php-mock-phpunit2 php-mock2 php-myclabs-deep-copy php-myclabs-php-enum php-nikic-php-parser3 php-oauth php-ocramius-code-generator-utils php-pear-Console-Table php-pear-Crypt-CHAP php-pear-Date php-pear-HTTP-Request php-pear-MDB2 php-pear-MDB2-Driver-mysqli php-pear-MDB2-Driver-pgsql php-pear-Mail-mimeDecode php-pear-Net-Curl php-pear-Net-URL php-pear-XML-Parser php-pear-math-biginteger php-pecl-ds php-pecl-krb5 php-pecl-yaml php-phar-io-manifest php-phar-io-version php-phpdocumentor-reflection-common2 php-phpdocumentor-reflection-docblock4 php-phpdocumentor-reflection-docblock5 php-phpdocumentor-type-resolver1 php-phpseclib php-phpspec-prophecy php-phpspec-prophecy-phpunit php-phpunit-git php-phpunit-php-code-coverage6 php-phpunit-php-timer3 php-phpunit-php-token-stream3 php-phpunitgoodpractices-polyfill php-pragmarx-google2fa5 php-psr-container php-psr-container2 php-psr-event-dispatcher php-psr-http-factory php-psr-http-server-handler php-psr-http-server-middleware php-ramsey-collection php-ramsey-uuid php-samyoul-u2f-php-server php-sebastian-global-state2 php-seld-cli-prompt php-seld-phar-utils php-swaggest-json-diff php-swaggest-json-schema php-symfony-contracts php-symfony-contracts2 php-symfony-requirements-checker php-symfony4 php-theseer-fDOMDocument php-webimpress-http-middleware-compatibility php-webimpress-safe-writer php-zstd php-zumba-json-serializer phpcpd
+remi       IP2Location ImageMagick compat-lua fastlz libcgif libmcrypt librabbitmq libsodium php-PHPParser php-PsrLog php-alcaeus-mongo-php-adapter php-bacon-qr-code2 php-brick-math php-brick-varexporter php-composer-ca-bundle php-composer-metadata-minifier php-composer-pcre php-composer-xdebug-handler php-composer-xdebug-handler2 php-deepend-Mockery php-doctrine-annotations php-doctrine-cache php-doctrine-collections php-doctrine-datafixtures php-doctrine-deprecations php-doctrine-doctrine-cache-bundle php-doctrine-event-manager php-doctrine-inflector php-doctrine-inflector2 php-doctrine-instantiator php-doctrine-lexer php-doctrine-sql-formatter php-egulias-email-validator2 php-fedora-autoloader php-felixfbecker-advanced-json-rpc3 php-fig-http-message-util php-http-interop-http-middleware php-http-message-factory php-iamcal-lib-autolink php-icewind-smb2 php-justinrainbow-json-schema5 php-khanamiryan-qrcode-detector-decoder php-league-container4 php-league-flysystem php-league-mime-type-detection php-league-plates php-league-tactician php-microsoft-tolerant-php-parser php-mock-integration2 php-mock-phpunit2 php-mock2 php-myclabs-deep-copy php-myclabs-php-enum php-nikic-php-parser3 php-oauth php-ocramius-code-generator-utils php-pear-Console-Table php-pear-Crypt-CHAP php-pear-Date php-pear-HTTP-Request php-pear-MDB2 php-pear-MDB2-Driver-mysqli php-pear-MDB2-Driver-pgsql php-pear-Mail-mimeDecode php-pear-Net-Curl php-pear-Net-URL php-pear-XML-Parser php-pear-math-biginteger php-pecl-ds php-pecl-krb5 php-pecl-yaml php-phar-io-manifest php-phar-io-version php-phpdocumentor-reflection-common2 php-phpdocumentor-reflection-docblock4 php-phpdocumentor-reflection-docblock5 php-phpdocumentor-type-resolver1 php-phpseclib php-phpspec-prophecy php-phpspec-prophecy-phpunit php-phpunit-git php-phpunit-php-code-coverage6 php-phpunit-php-timer3 php-phpunit-php-token-stream3 php-phpunitgoodpractices-polyfill php-pragmarx-google2fa5 php-psr-container php-psr-container2 php-psr-event-dispatcher php-psr-http-factory php-psr-http-server-handler php-psr-http-server-middleware php-ramsey-collection php-ramsey-uuid php-samyoul-u2f-php-server php-sebastian-global-state2 php-seld-cli-prompt php-seld-phar-utils php-swaggest-json-diff php-swaggest-json-schema php-symfony-contracts php-symfony-contracts2 php-symfony-requirements-checker php-symfony4 php-webimpress-http-middleware-compatibility php-webimpress-safe-writer php-zstd php-zumba-json-serializer phpcpd
 renep      tcl-mysqltcl
 rffontenelle ddnet
 rharwood   unclutter-xfixes

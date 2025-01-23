@@ -437,6 +437,7 @@ astral
 astromenace
 astrometry
 astronomy-menus
+astroterm
 ast
 astyle
 asunder
@@ -9873,7 +9874,6 @@ nodejs-bash-language-server
 nodejs-buble
 nodejs-cjs-module-lexer
 nodejs-colors
-nodejs-less
 nodejs-linefix
 nodejs-nodemon
 nodejs-packaging
@@ -10256,6 +10256,7 @@ okular
 oldstandard-sfd-fonts
 olive
 OliveTin
+ollama
 omniORBpy
 omniORB
 omping
@@ -15442,6 +15443,7 @@ python-fastprogress
 python-fastpurge
 python-fast-simplification
 python-fauxquests
+python-fedora-image-uploader-messages
 python-fedora-sig-onboard
 python-feedgenerator
 python-feedgen
@@ -15801,7 +15803,6 @@ python-itemadapter
 python-itemloaders
 python-itsdangerous
 python-i3ipc
-python-jack-client
 python-jaconv
 python-janus
 python-janus-swi
@@ -18738,7 +18739,6 @@ rubygem-domain_name
 rubygem-drake
 rubygem-ed25519
 rubygem-ejs
-rubygem-elasticsearch-transport
 rubygem-em-http-request
 rubygem-em-socksify
 rubygem-em-spec
@@ -19758,7 +19758,6 @@ rust-dns-lookup1
 rust-doc-comment
 rust-docker_credential
 rust-docmatic
-rust-docopt
 rust-doctest-file
 rust-document-features
 rust-dolby_vision
@@ -19909,6 +19908,7 @@ rust-find-crate
 rust-findshlibs
 rust-fixedbitset
 rust-fixedbitset0.2
+rust-fixedbitset0.4
 rust-fixed
 rust-flagset
 rust-flate2
@@ -20361,6 +20361,7 @@ rust-itertools
 rust-itertools0.10
 rust-itertools0.11
 rust-itertools0.12
+rust-itertools0.13
 rust-itertools0.8
 rust-itoap
 rust-itoa
@@ -20661,6 +20662,7 @@ rust-ncurses
 rust-ndarray-rand
 rust-ndarray
 rust-ndarray-stats
+rust-neli-proc-macros
 rust-netlink-packet-core
 rust-netlink-packet-generic
 rust-netlink-packet-route
@@ -20884,6 +20886,7 @@ rust-pest_meta
 rust-pest
 rust-petgraph
 rust-petgraph0.5
+rust-petgraph0.6
 rust-phf_codegen
 rust-phf_generator
 rust-phf_generator0.8
@@ -21633,7 +21636,6 @@ rust-timer
 rust-time
 rust-timestamped-socket
 rust-time0.1
-rust-time0.2
 rust-tiny-bip39
 rust-tiny-dfr
 rust-tiny_http
@@ -21942,8 +21944,6 @@ rust-walkdir
 rust-want
 rust-warp-sessions
 rust-warp
-rust-wasmer_enumset_derive
-rust-wasmer_enumset
 rust-wasmparser
 rust-wax
 rust-wayland-backend
@@ -23245,6 +23245,7 @@ trousers
 trunk
 trurl
 trustedqsl
+trustee-guest-components
 tse3
 tslib
 tsl-sparse-map
@@ -23486,6 +23487,7 @@ valkyrie
 vamp-plugin-sdk
 vanityhash
 vapoursynth
+variant-lite
 variety
 varnish-modules
 varnish
@@ -23833,7 +23835,6 @@ wmname
 wmweather+
 wmx
 wob
-WoeUSB
 woff
 woff2
 wofi
