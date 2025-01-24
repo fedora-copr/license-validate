@@ -2700,7 +2700,7 @@ openresolv           pemensik
 opensmtpd            dfateyev
 openspecfun          nalimilan
 openssh-ldap-authkeys ngompa
-openssl-gost-engine  abbra beldmit dbelyavs
+openssl-gost-engine  abbra dbelyavs orphan
 opentoonz            dherrera
 openvpn-auth-ldap    orion robert
 ophcrack             alciregi
@@ -2723,7 +2723,6 @@ pakchois             jorton
 palapeli             rdieter than
 pam_afs_session      ktdreyer
 pam_krb5             jcpunk
-pam_ssh              buc
 pam_yubico           nb wzzrd
 parallel             filiperosset golfu mikelo2
 passivetex           ovasik
@@ -4794,7 +4793,6 @@ bajertom   tmt
 bboozzoo   golang-github-snapcore-gettext
 bcl        python-coveralls python-sphinx-argparse
 bdperkin   golang-github-aliyun-oss-sdk golang-github-aliyun-ossutil golang-github-alyu-configparser golang-github-droundy-goopt golang-github-gehirninc-crypt golang-github-getkin-kin-openapi golang-github-lestrrat-apache-logformat golang-github-lestrrat-envload golang-github-lestrrat-strftime golang-github-nathanaelle-syslog5424-2 golang-github-rodaine-hclencoder
-beldmit    openssl-gost-engine
 belegdol   SOIL gnome-subtitles mednafen python-sphinxcontrib-svg2pdfconverter qmc2
 bellet     fgrun
 benniej    bgpq3
@@ -4821,7 +4819,7 @@ brouhaha   drgeo-doc gsmartcontrol icestorm miglayout muParser nulib2 otf2bdf py
 bruno      0ad-data ballz blobwars cegui06 dahdi-tools enet floppy-support freeimage joystick-support libwfut lordsawar nethack-vultures ois raidem scorched3d warmux
 bskeggs    kernel xorg-x11-server
 bubeck     vacation
-buc        GConf2 pam_ssh
+buc        GConf2
 bytehackr  pinpoint python-fuckit sslscan vultr
 c4chris    nfswatch staden-io_lib
 c72578     cpprest mingw-windows-default-manifest poedit websocketpp
@@ -5218,7 +5216,7 @@ onemorebyte swayidle
 onosek     rpkg
 orange-kao SFCGAL python-accept-types python-cs python-executing python-exoscale python-folium python-gnupg python-google-i18n-address python-odata-query python-pytest-localserver python-requests-exoscale-auth python-sentry-sdk python-sly python-stripe python-twilio python-xml2rfc python-zxcvbn
 orion      Mayavi ast catalyst cpp-httplib elfio flow-tools ftnchek garcon glew glm h5py hdf hiredis irrlicht itcl itk iwidgets jchardet js-jquery kstart lasi libaesgm libgeotiff libpgf libxfce4ui lua-bitop lua-json lua-lunitx lua-posix lua-term man2html mingw-libtiff mingw-libusbx mingw-libxslt ncl netcdf4-python octave-general octave-interval octave-io openmpi openvpn-auth-ldap pcfi perl-ConfigReader perl-Net-Patricia plplot pslib pyotherside pyscard python-AppTools python-backcall python-cftime python-cssselect2 python-cytoolz python-ecdsa python-enthought-sphinx-theme python-entrypoints python-fido2 python-frozendict python-gevent python-locket python-lz4 python-nbformat python-pamela python-pkgconfig python-process-tests python-pycodestyle python-pycosat python-pytest-benchmark python-pytest-isort python-pytest-mpi python-rencode python-schema python-toolz python-virtualenv python-winrm python-xlib qtbrowserplugin reproc rhash rust-crc-any rust-debug-helper tcl-signal tcp_wrappers udunits2 vtable-dumper xdotool ykclient zfp
-orphan     elementary golang-github-fvbommel-sortorder golang-github-hanwen-fuse golang-github-tonistiigi-rosetta ipmiutil jbosscache-support kdepim4 libhbaapi php-guzzlehttp-psr7 python-alsaaudio python-dbutils python-events python-flask-xml-rpc python-geoplot python-mutatormath python-serpy python-statsd python-xunitparser reg zola
+orphan     elementary golang-github-fvbommel-sortorder golang-github-hanwen-fuse golang-github-tonistiigi-rosetta ipmiutil jbosscache-support kdepim4 libhbaapi openssl-gost-engine php-guzzlehttp-psr7 python-alsaaudio python-dbutils python-events python-flask-xml-rpc python-geoplot python-mutatormath python-serpy python-statsd python-xunitparser reg zola
 osloup     PyGreSQL docbook5-style-xsl nss_nis orafce pg_auto_failover postgresql-pgpool-II
 osoukup    vim-ctrlp
 otaylor    fedora-flathub-remote fedora-third-party flatpak-module-tools flatpak-rpm-macros
