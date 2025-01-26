@@ -393,6 +393,7 @@ gstreamer1-plugins-base
 gstreamer1-plugins-good
 gstreamer1-plugins-ugly-free
 gstreamer1-rtsp-server
+gtest
 gtk-vnc
 gtk3
 gtk4
@@ -596,7 +597,6 @@ hyphen-uk
 i2c-tools
 ibus
 ibus-anthy
-ibus-cangjie
 ibus-hangul
 ibus-libpinyin
 ibus-libzhuyin
@@ -742,8 +742,8 @@ libblockdev
 libbpf
 libburn
 libbytesize
+libcamera
 libcanberra
-libcangjie
 libcap
 libcap-ng
 libcbor
@@ -974,6 +974,7 @@ lsof
 lsscsi
 lsvpd
 ltrace
+lttng-ust
 lua
 lua-posix
 lua-rpm-macros
@@ -1557,7 +1558,6 @@ python-websockets
 python-wheel
 python-xkbregistry
 python-yubico
-python3-cangjie
 python3.13
 pyusb
 pyxdg

@@ -135,6 +135,7 @@ amanda
 amanith
 amarok
 amavisd-milter
+amavis
 amazon-ec2-utils
 amdsmi
 american-fuzzy-lop
@@ -501,7 +502,6 @@ bastet
 batctl
 batik
 bcachefs-tools
-bcache-tools
 bcal
 bcc
 bcel
@@ -4314,6 +4314,7 @@ grafana-pcp
 grafana
 grafx2
 gr-air-modes
+grammalecte
 gramps
 granatier
 granite
@@ -4891,6 +4892,7 @@ ikiwiki
 ilbc
 ilua
 ima-evm-utils
+image-builder
 imagefactory-plugins
 imagefactory
 imagej
@@ -6433,6 +6435,7 @@ LinLog
 linpsk
 linsim
 linsmith
+linux-atm
 linuxconsoletools
 linuxdoc-tools
 linux-libertine-fonts
@@ -7331,6 +7334,7 @@ nauty
 naver-nanum-fonts
 naver-nanum-gothic-coding-fonts
 navilu-fonts
+nazghul
 nbdkit
 nbd
 nbtscan
@@ -7362,6 +7366,7 @@ neon-backgrounds
 neon
 neon2sse
 neo
+neovim-qt
 neovim
 ne
 nest
@@ -7850,6 +7855,7 @@ openjfx
 openjpeg
 openjph
 openkim-models
+openldap
 OpenLP
 OpenMesh
 openms
@@ -12047,6 +12053,7 @@ python-crypto
 python-crypt-r
 python-csscompressor
 python-css-parser
+python-cssselect2
 python-cssutils
 python-cups
 python-curio
@@ -12194,6 +12201,7 @@ python-etcd3gw
 python-etcd3
 python-etelemetry
 python-eth-abi
+python-eth-event
 python-eth-hash
 python-eth-keyfile
 python-eth-keys
@@ -13016,6 +13024,7 @@ python-pyinfra
 python-pyjwkest
 python-pykcs11
 python-pykdtree
+python-pykdumpfile
 python-pykeepass
 python-pykmip
 python-PyLEMS
@@ -13084,6 +13093,7 @@ python-pyramid_sawing
 python-pyramid
 python-pyrate-limiter
 python-pyrdfa3
+python-pyrfc3339
 python-pyriemann
 python-pyroaring
 python-pyroute2
@@ -13281,6 +13291,7 @@ python-roman
 python-rope
 python-ROPGadget
 python-rosdistro
+python-rospkg
 python-roundrobin
 python-rows
 python-rpds-py
@@ -13619,6 +13630,7 @@ python-unpaddedbase64
 python-untangle
 python-uranium
 python-uri-template
+python-uritemplate
 python-uritools
 python-urllib-gssapi
 python-urllib3
@@ -15206,6 +15218,7 @@ rust-cargo-insta
 rust-cargo-lock
 rust-cargo_metadata
 rust-cargo_metadata0.15
+rust-cargo_metadata0.18
 rust-cargo-options
 rust-cargo-platform
 rust-cargo-readme
@@ -15500,6 +15513,8 @@ rust-dirs-sys
 rust-dirs-sys0.3
 rust-dirs2
 rust-dirs4
+rust-dir-test-macros
+rust-dir-test
 rust-diskonaut
 rust-displaydoc
 rust-dissimilar
@@ -17400,6 +17415,7 @@ rust-tinyvec
 rust-titlecase
 rust-tl
 rust-tokei
+rust-tokei12
 rust-tokio-macros
 rust-tokio-native-tls
 rust-tokio-openssl
