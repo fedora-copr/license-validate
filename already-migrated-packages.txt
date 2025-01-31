@@ -71,7 +71,6 @@ aerc
 aesfix
 aespipe
 afetch
-afpfs-ng
 afuse
 Agda
 agenda
@@ -452,6 +451,7 @@ awscli2
 aws-c-mqtt
 aws-c-sdkutils
 aws-c-s3
+aw-server-rust
 aws-checksums
 aws
 awstats
@@ -502,6 +502,7 @@ bastet
 batctl
 batik
 bcachefs-tools
+bcache-tools
 bcal
 bcc
 bcel
@@ -585,6 +586,7 @@ blivet-gui
 blktrace
 bloaty
 BlockOutII
+blogc
 blosc
 blosc2
 bluecurve-icon-theme
@@ -651,7 +653,6 @@ breakid
 breeze-gtk
 breezy
 brewtarget
-brial
 bridge-utils
 brise
 bristol
@@ -920,29 +921,20 @@ coco-coq
 codeblocks
 codec2
 codehaus-parent
+codespell
 coeurl
 cohomCalg
-coin-or-Alps
-coin-or-Bcp
-coin-or-Bcps
-coin-or-Blis
 coin-or-Bonmin
 coin-or-Cbc
 coin-or-Cgl
 coin-or-Clp
-coin-or-CoinMP
 coin-or-CoinUtils
-coin-or-Couenne
 coin-or-Data-miplib3
 coin-or-Data-Netlib
-coin-or-Dip
-coin-or-FlopC++
 coin-or-HiGHS
 coin-or-lemon
 coin-or-Osi
-coin-or-OS
 coin-or-Sample
-coin-or-SYMPHONY
 Coin2
 Coin3
 Coin4
@@ -960,7 +952,6 @@ colorful
 colorgcc
 colossus
 ColPack
-colrdx
 compat-gdbm
 compat-guichan05
 compat-guile18
@@ -974,6 +965,7 @@ compiz-manager
 compiz-plugins-experimental
 compiz-plugins-main
 composefs
+composer-generators
 composer
 compose-utils
 compsize
@@ -1283,7 +1275,6 @@ deepin-gtk-theme
 deepin-icon-theme
 deepin-image-editor
 deepin-image-viewer
-deepin-kwin
 deepin-launcher
 deepin-menu
 deepin-network-core
@@ -1318,6 +1309,7 @@ deskflow
 desktop-file-utils
 deutex
 devhelp
+device-mapper-multipath
 device-mapper-persistent-data
 devscripts
 devtodo
@@ -1563,7 +1555,6 @@ edwin-fonts
 ed2k_hash
 ed25519-java
 eegdev
-eegview
 EekBoek
 efax
 efibootmgr
@@ -1672,8 +1663,6 @@ eot-utils
 epic
 epiphany
 epix
-epson-inkjet-printer-escpr
-epson-inkjet-printer-escpr2
 epstool
 equalx
 eralchemy
@@ -1786,7 +1775,6 @@ ETL
 et
 ettercap
 eureka
-eurephia
 evemu
 eventviews
 evince
@@ -1920,7 +1908,6 @@ felix-parent
 felix-utils
 fence-agents
 fernflower
-fes
 festival-freebsoft-utils
 festival
 fetch-crl
@@ -3167,12 +3154,10 @@ glslang
 glue-schema
 glui
 gluster-block
-glusterfs-coreutils
 glusterfs
 glycin
 glyphography-newscycle-fonts
 gl2ps
-gmediarender
 gmic
 gmime30
 gmobile
@@ -4047,7 +4032,6 @@ golang-github-vmware-govmomi
 golang-github-vmware-vmw-guestinfo
 golang-github-vultr-govultr-3
 golang-github-wasilibs-wazero-helpers
-golang-github-wellington-libsass
 golang-github-willscott-nfs-client
 golang-github-willscott-nfs
 golang-github-wi2l-jettison
@@ -4895,6 +4879,7 @@ ima-evm-utils
 image-builder
 imagefactory-plugins
 imagefactory
+image-garden
 imagej
 imake
 imapfilter
@@ -4997,7 +4982,6 @@ isoimagewriter
 isomaster
 isomd5sum
 ispc
-isrcsubmit
 isync
 itinerary
 itstool
@@ -5022,7 +5006,6 @@ jackson-jaxrs-providers
 jackson-modules-base
 jackson-parent
 jacktrip
-jacop
 jakarta-activation
 jakarta-activation1
 jakarta-annotations
@@ -5793,7 +5776,6 @@ libcss
 libcsv
 libcue
 libcupsfilters
-libcxx
 libcyaml
 libdaemon
 libdap
@@ -5892,7 +5874,6 @@ libgdither
 libgdl
 libgedit-gtksourceview
 libgee
-libgenht
 libgeopmd
 libgeopm
 libgexiv2
@@ -6504,6 +6485,7 @@ lorax
 loudmouth
 loupe
 lout
+louvre
 lovelock-backgrounds
 love
 lowdown
@@ -6628,6 +6610,7 @@ lzma-sdk
 lzop
 lzo
 lz4
+l10n-maven-plugin
 l3afpad
 maatkit
 Macaulay2
@@ -6940,6 +6923,8 @@ mingw-librsvg2
 mingw-libsigc++30
 mingw-libsigsegv
 mingw-libunistring
+mingw-libusbx
+mingw-libzip
 mingw-minizip
 mingw-nettle
 mingw-nsis
@@ -7128,7 +7113,6 @@ mod_psgi
 mod_qos
 mod_security_crs
 mod_security
-mod_suphp
 modulemaker-maven-plugin
 modulemd-tools
 mod_wsgi
@@ -7433,6 +7417,7 @@ nfs4-acl-tools
 nftables
 nghttp2
 nginx-mod-fancyindex
+nginx-mod-headers-more
 nginx-mod-modsecurity
 nginx-mod-naxsi
 nginx
@@ -11133,7 +11118,6 @@ pgmodeler
 pgn-extract
 pgrouting
 pgsphere
-phasex
 phd2
 phoc
 phonon-backend-vlc
@@ -11145,7 +11129,6 @@ photoqt
 phototonic
 php-adodb
 php-ast
-php-aws-php-sns-message-validator
 php-bartlett-PHP-CompatInfo
 php-composer-spdx-licenses
 phpcov
@@ -11234,7 +11217,6 @@ php-pecl-rrd
 php-pecl-selinux
 php-pecl-ssdeep
 php-pecl-ssh2
-php-pecl-uopz
 php-pecl-uuid
 php-pecl-var-representation
 php-pecl-xattr
@@ -11677,7 +11659,6 @@ pybugz
 pycairo
 pydeps
 pydot
-PyDrive2
 pyelftools
 pygame
 pygobject3
@@ -11954,6 +11935,7 @@ python-cid
 python-ci-info
 python-cinderclient
 python-circuitbreaker
+python-ckzg
 python-click-option-group
 python-click-plugins
 python-click
@@ -12063,7 +12045,6 @@ python-cvss
 python-cvxopt
 python-cyipopt
 python-cymruwhois
-python-cysignals
 python-daemon
 python-daikin
 python-daiquiri
@@ -12712,6 +12693,7 @@ python-mypy_extensions
 python-myrepos-utils
 python-mysqlclient
 python-myst-parser
+python-m2r
 python-m3u8
 python-nagiosplugin
 python-name-that-hash
@@ -12932,6 +12914,7 @@ python-probeinterface
 python-productmd
 python-prometheus_client
 python-prompt-toolkit
+python-protego
 python-proton-core
 python-proton-vpn-api-core
 python-proto-plus
@@ -13833,6 +13816,7 @@ qle
 qlipper
 qmapshack
 qmasterpassword
+qmc2
 qm-dsp
 qmic
 qmidiarp
@@ -13974,7 +13958,6 @@ qucs
 qucs-s
 quearcode
 quentier
-quicksynergy
 quilt
 quitcount
 quiterss
@@ -14032,7 +14015,6 @@ rasqal
 R-assertthat
 rasterview
 ratools
-ratpoints
 ratpoison
 rats
 R-AUC
@@ -14042,6 +14024,7 @@ rawtherapee
 raylib
 raysession
 R-backports
+rbanffy-3270-fonts
 R-base64enc
 rbenv
 R-Bessel
@@ -14298,6 +14281,7 @@ rocjpeg
 rocksndiamonds
 rocm-cmake
 rocm-core
+rocm-omp
 rocm-rpm-macros
 rocm-rpp
 rocm-smi
@@ -14484,7 +14468,6 @@ rubygem-aruba
 rubygem-asciidoctor-pdf
 rubygem-asciidoctor
 rubygem-Ascii85
-rubygem-async_sinatra
 rubygem-atk
 rubygem-aws-sigv4
 rubygem-backports
@@ -14903,6 +14886,7 @@ rust-adler2
 rust-adler32
 rust-aead
 rust-aes-gcm
+rust-aes-kw
 rust-aes-siv
 rust-aes
 rust-aes0.7
@@ -15030,6 +15014,7 @@ rust-async-process1
 rust-async-recursion
 rust-async-session
 rust-async-signal
+rust-async-std-resolver
 rust-async-std
 rust-async-stream-impl
 rust-async-stream
@@ -15062,6 +15047,7 @@ rust-axum-core
 rust-axum-macros
 rust-axum-server
 rust-axum
+rust-az-cvm-vtpm
 rust-az
 rust-backoff
 rust-backtrace-ext
@@ -16804,6 +16790,7 @@ rust-ptr_meta0.1
 rust-publicsuffix
 rust-pulldown-cmark-escape
 rust-pulldown-cmark
+rust-pulldown-cmark0.11
 rust-pulldown-cmark0.8
 rust-pulldown-cmark0.9
 rust-punycode
@@ -16812,28 +16799,23 @@ rust-pwd
 rust-pyo3-build-config
 rust-pyo3-build-config0.19
 rust-pyo3-build-config0.20
-rust-pyo3-build-config0.21
 rust-pyo3-build-config0.22
 rust-pyo3-ffi
 rust-pyo3-ffi0.19
 rust-pyo3-ffi0.20
-rust-pyo3-ffi0.21
 rust-pyo3-ffi0.22
 rust-pyo3-log
 rust-pyo3-macros-backend
 rust-pyo3-macros-backend0.19
 rust-pyo3-macros-backend0.20
-rust-pyo3-macros-backend0.21
 rust-pyo3-macros-backend0.22
 rust-pyo3-macros
 rust-pyo3-macros0.19
 rust-pyo3-macros0.20
-rust-pyo3-macros0.21
 rust-pyo3-macros0.22
 rust-pyo3
 rust-pyo3_0.19
 rust-pyo3_0.20
-rust-pyo3_0.21
 rust-pyo3_0.22
 rust-pyproject-toml
 rust-pythonize
@@ -17128,7 +17110,9 @@ rust-serde
 rust-serde_stacker
 rust-serde_test
 rust-serde_tuple_macros
+rust-serde_tuple_macros0.5
 rust-serde_tuple
+rust-serde_tuple0.5
 rust-serde-untagged
 rust-serde_urlencoded
 rust-serde_url_params
@@ -17267,7 +17251,6 @@ rust-stability
 rust-stable_deref_trait
 rust-stable-pattern
 rust-stacker
-rust-standback
 rust-startup-disk
 rust-state
 rust-static_assertions
@@ -17277,6 +17260,7 @@ rust-stats_alloc
 rust-stderrlog
 rust-stderrlog0.5
 rust-stfu8
+rust-streaming-iterator
 rust-streaming-stats
 rust-streebog
 rust-streebog0.9
@@ -17341,6 +17325,7 @@ rust-target-lexicon
 rust-target-lexicon0.12
 rust-target
 rust-tar
+rust-taskchampion
 rust-tealdeer
 rust-tempdir
 rust-temp-env
@@ -17488,6 +17473,8 @@ rust-tree-sitter-loader
 rust-tree-sitter
 rust-tree-sitter-tags
 rust-tree-sitter0.20
+rust-tree-sitter0.23
+rust-triforce-lv2
 rust-triomphe
 rust-trybuild
 rust-trybuild2
@@ -17773,6 +17760,7 @@ rust-x11rb
 rust-x11
 rust-x25519-dalek
 rust-x509-certificate
+rust-x509-cert
 rust-x509-parser
 rust-yaml-rust
 rust-yaml-rust0.3
@@ -17842,7 +17830,6 @@ R-websocket
 R-whisker
 rwhoisd
 R-winch
-rw
 R-XML
 R-xml2
 R-xtable
@@ -17889,6 +17876,7 @@ sazanami-fonts
 sbcl
 sbc
 sbd
+sblg
 sblim-cim-client
 sblim-cim-client2
 sblim-cmpi-base
@@ -18002,6 +17990,7 @@ sediment
 sed
 sedutil
 seeker
+selenium-manager
 selint
 selinux-policy
 semver
@@ -18182,7 +18171,6 @@ slurm
 slurp
 smaclient
 smartmontools
-smartsim
 smatch
 smbcmp
 smbldap-tools
@@ -18483,7 +18471,6 @@ symlinks
 symmetrica
 sympa
 sympol
-sympow
 sympy
 synapse
 syncevolution
@@ -18524,6 +18511,7 @@ tack
 taginfo
 taglib
 tagtool
+tachyon
 taigo
 tailscale
 talk
@@ -18829,7 +18817,6 @@ udpxy
 udt
 ufdbGuard
 ufiformat
-ufraw
 ufw-kde
 ufw
 ugene
@@ -18951,6 +18938,7 @@ valkey
 valkyrie
 vamp-plugin-sdk
 vanityhash
+vapoursynth
 variant-lite
 variety
 varnish-modules
@@ -19162,7 +19150,6 @@ whatip
 whatmask
 whatsup
 whatweb
-whereami
 whichfont
 which
 whipper
@@ -19179,6 +19166,7 @@ wiggle
 wiiuse
 wike
 wildcard
+wildcardtl
 wildmagic5
 wildmidi
 wimlib
@@ -19252,6 +19240,7 @@ wsdl4j
 wshowkeys
 wsjtx
 wslay
+wsl-setup
 wsmancli
 wult
 wv
@@ -19300,7 +19289,6 @@ xcircuit
 xclipboard
 xclip
 xclock
-xconvers
 xcowsay
 xcursorgen
 xdelta
