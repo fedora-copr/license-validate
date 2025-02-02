@@ -1768,6 +1768,7 @@ esptool
 etcd
 etckeeper
 etherape
+ethos
 ethstatus
 ethtool
 eth-tools
@@ -4922,6 +4923,7 @@ input-leap
 input-pad
 input-remapper
 InsightToolkit
+inspektor-gadget
 intel-clear-sans-fonts
 intel-cmt-cat
 intel-gmmlib
@@ -6923,7 +6925,6 @@ mingw-librsvg2
 mingw-libsigc++30
 mingw-libsigsegv
 mingw-libunistring
-mingw-libusbx
 mingw-libzip
 mingw-minizip
 mingw-nettle
@@ -7343,6 +7344,7 @@ nec2c
 nedit
 needrestart
 nekohtml
+nekovm
 nemiver
 nemo-extensions
 neochat
@@ -7534,6 +7536,7 @@ nx-libs
 nxtrc
 nyx
 n2n
+oath-toolkit
 obconf-qt
 obconf
 objectweb-asm
@@ -7789,7 +7792,6 @@ oomd
 opal-prd
 opam
 opari2
-openal-soft
 openambit
 open-amp
 openarena
@@ -9006,7 +9008,6 @@ perl-Env-Path
 perl-Env-Sanctify
 perl-Env-ShellWords
 perl-Env
-perl-eperl
 perl-Error
 perl-Eval-Closure
 perl-Eval-Context
@@ -11320,6 +11321,7 @@ php-smarty-gettext
 php-Smarty
 php-smbclient
 php
+php-splitbrain-lesserphp
 php-splitbrain-php-archive
 php-splitbrain-php-cli
 php-splitbrain-php-jsstrip
@@ -12182,6 +12184,7 @@ python-etcd3gw
 python-etcd3
 python-etelemetry
 python-eth-abi
+python-eth-account
 python-eth-event
 python-eth-hash
 python-eth-keyfile
@@ -12403,6 +12406,7 @@ python-icmplib
 python-icoextract
 python-identify
 python-idna
+python-id
 python-igraph
 python-ijson
 python-imagecodecs
@@ -12693,7 +12697,6 @@ python-mypy_extensions
 python-myrepos-utils
 python-mysqlclient
 python-myst-parser
-python-m2r
 python-m3u8
 python-nagiosplugin
 python-name-that-hash
@@ -13391,7 +13394,6 @@ python-sortedcontainers
 python-soupsieve
 python-spdx-tools
 python-specfile
-python-spec
 python-speedtest-cli
 python-sphinx-argparse-cli
 python-sphinx-autoapi
@@ -15573,9 +15575,7 @@ rust-enumber
 rust-enum_dispatch
 rust-enum-display-derive
 rust-enumflags2_derive
-rust-enumflags2_derive0.6
 rust-enumflags2
-rust-enumflags2_0.6
 rust-enum-iterator-derive
 rust-enum-iterator
 rust-enum-map-derive
@@ -15786,6 +15786,7 @@ rust-gix-actor
 rust-gix-archive
 rust-gix-attributes
 rust-gix-bitmap
+rust-gix-blame
 rust-gix-command
 rust-gix-commitgraph
 rust-gix-config
@@ -15807,6 +15808,7 @@ rust-gix-index
 rust-gix-lock
 rust-gix-macros
 rust-gix-mailmap
+rust-gix-merge
 rust-gix-negotiate
 rust-gix-object
 rust-gix-odb
@@ -16048,6 +16050,7 @@ rust-imagequant-sys
 rust-image
 rust-image-webp
 rust-image0.24
+rust-imago
 rust-imara-diff
 rust-imgref
 rust-imperative
@@ -16249,8 +16252,6 @@ rust-librsvg-rebind-sys
 rust-librsvg
 rust-libseccomp
 rust-libseccomp-sys
-rust-libslirp
-rust-libslirp-sys
 rust-libspa
 rust-libspa-sys
 rust-libspa-sys0.7
@@ -16344,6 +16345,7 @@ rust-maybe-rayon
 rust-mbox
 rust-mbrman
 rust-mdsh
+rust-md4
 rust-md5-asm
 rust-md-5
 rust-md5
@@ -16378,7 +16380,6 @@ rust-minreq
 rust-minspan
 rust-mint
 rust-minus
-rust-mio-extras
 rust-mio
 rust-mio0.6
 rust-mio0.7
@@ -16412,7 +16413,6 @@ rust-nasm-rs
 rust-native-tls
 rust-natord
 rust-navi
-rust-nb-connect
 rust-ncurses
 rust-ndarray-rand
 rust-ndarray
@@ -16744,7 +16744,6 @@ rust-procfs0.12
 rust-procfs0.14
 rust-procfs0.15
 rust-proc-macro-crate
-rust-proc-macro-crate0.1
 rust-proc-macro-crate1
 rust-proc-macro-crate2
 rust-proc-macro-error-attr
@@ -16797,25 +16796,15 @@ rust-punycode
 rust-pure-rust-locales
 rust-pwd
 rust-pyo3-build-config
-rust-pyo3-build-config0.19
-rust-pyo3-build-config0.20
 rust-pyo3-build-config0.22
 rust-pyo3-ffi
-rust-pyo3-ffi0.19
-rust-pyo3-ffi0.20
 rust-pyo3-ffi0.22
 rust-pyo3-log
 rust-pyo3-macros-backend
-rust-pyo3-macros-backend0.19
-rust-pyo3-macros-backend0.20
 rust-pyo3-macros-backend0.22
 rust-pyo3-macros
-rust-pyo3-macros0.19
-rust-pyo3-macros0.20
 rust-pyo3-macros0.22
 rust-pyo3
-rust-pyo3_0.19
-rust-pyo3_0.20
 rust-pyo3_0.22
 rust-pyproject-toml
 rust-pythonize
@@ -17777,13 +17766,11 @@ rust-y4m
 rust-z-base-32
 rust-zbase32
 rust-zbus_macros
-rust-zbus_macros1
 rust-zbus_macros4
 rust-zbus_names
 rust-zbus_names3
 rust-zbus
 rust-zbus_xml
-rust-zbus1
 rust-zbus4
 rust-zeitfetch
 rust-zerocopy-derive
@@ -17812,12 +17799,10 @@ rust-zune-core
 rust-zune-inflate
 rust-zune-jpeg
 rust-zvariant_derive
-rust-zvariant_derive2
 rust-zvariant_derive4
 rust-zvariant
 rust-zvariant_utils
 rust-zvariant_utils2
-rust-zvariant2
 rust-zvariant4
 rust-z85
 rust2rpm-helper
@@ -18077,6 +18062,7 @@ signon
 signon-ui
 sigrok-cli
 sigrok-firmware-fx2lafw
+sigrok-firmware
 sigscheme
 sigul
 sil-abyssinica-fonts
@@ -18511,7 +18497,6 @@ tack
 taginfo
 taglib
 tagtool
-tachyon
 taigo
 tailscale
 talk
@@ -19133,6 +19118,7 @@ websec
 websvn
 webtech
 weechat
+weiweihuanghuang-work-sans-fonts
 weld-parent
 weldr-client
 wesnoth

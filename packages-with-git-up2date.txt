@@ -2180,6 +2180,7 @@ etcd
 etckeeper
 eterm
 etherape
+ethos
 ethstatus
 ethtool
 eth-tools
@@ -6491,6 +6492,7 @@ input-pad
 input-remapper
 insight
 InsightToolkit
+inspektor-gadget
 intel-clear-sans-fonts
 intel-cmt-cat
 intel-compute-runtime
@@ -9097,7 +9099,6 @@ mingw-libtasn1
 mingw-libtheora
 mingw-libtiff
 mingw-libunistring
-mingw-libusbx
 mingw-libvorbis
 mingw-libxml++
 mingw-libxml2
@@ -11494,7 +11495,6 @@ perl-Env-Path
 perl-Env-Sanctify
 perl-Env-ShellWords
 perl-Env
-perl-eperl
 perl-Error
 perl-Eval-Closure
 perl-Eval-Context
@@ -13904,6 +13904,7 @@ php-phpiredis
 php-phplang-scope-exit
 php-phpmailer6
 php-PHPParser
+php-phpseclib
 php-phpspec-prophecy-phpunit
 php-phpspec-prophecy
 php-phpstan-phpdoc-parser
@@ -14016,6 +14017,7 @@ php-smarty-gettext
 php-Smarty
 php-smbclient
 php
+php-splitbrain-lesserphp
 php-splitbrain-php-archive
 php-splitbrain-php-cli
 php-splitbrain-php-jsstrip
@@ -15296,6 +15298,7 @@ python-etcd3gw
 python-etcd3
 python-etelemetry
 python-eth-abi
+python-eth-account
 python-eth-event
 python-eth-hash
 python-eth-keyfile
@@ -15627,6 +15630,7 @@ python-icmplib
 python-icoextract
 python-identify
 python-idna
+python-id
 python-idstools
 python-ifaddr
 python-ifcfg
@@ -16035,7 +16039,6 @@ python-myrepos-utils
 python-mysqlclient
 python-myst-parser
 python-mystrom
-python-m2r
 python-m3u8
 python-nagiosplugin
 python-Naked
@@ -17018,7 +17021,6 @@ python-soupsieve
 python-spdx-tools
 python-speaklater
 python-specfile
-python-spec
 python-speedtest-cli
 python-speg
 python-sphinx-argparse-cli
@@ -17583,7 +17585,6 @@ python38-hvac
 python38-ntlm-auth-epel
 python38-pynetbox
 python38-requests_ntlm-epel
-python3.8
 python3.9
 pythran
 pytz
@@ -19306,9 +19307,7 @@ rust-enumber
 rust-enum_dispatch
 rust-enum-display-derive
 rust-enumflags2_derive
-rust-enumflags2_derive0.6
 rust-enumflags2
-rust-enumflags2_0.6
 rust-enum-map-derive
 rust-enum-map-derive0.6
 rust-enum-map
@@ -19481,6 +19480,7 @@ rust-gix-actor
 rust-gix-archive
 rust-gix-attributes
 rust-gix-bitmap
+rust-gix-blame
 rust-gix-command
 rust-gix-commitgraph
 rust-gix-config
@@ -19502,6 +19502,7 @@ rust-gix-index
 rust-gix-lock
 rust-gix-macros
 rust-gix-mailmap
+rust-gix-merge
 rust-gix-negotiate
 rust-gix-object
 rust-gix-odb
@@ -19709,6 +19710,7 @@ rust-imagequant
 rust-imagequant-sys
 rust-image-webp
 rust-image0.24
+rust-imago
 rust-imara-diff
 rust-imgref
 rust-imperative
@@ -19963,6 +19965,7 @@ rust-maybe-async
 rust-maybe-rayon
 rust-mbrman
 rust-mdsh
+rust-md4
 rust-md5-asm
 rust-md-5
 rust-md5
@@ -19992,7 +19995,6 @@ rust-miniz_oxide0.7
 rust-minreq
 rust-minspan
 rust-minus
-rust-mio-extras
 rust-mio0.8
 rust-mktemp
 rust-mockall_derive
@@ -20018,7 +20020,6 @@ rust-nanorand
 rust-nasm-rs
 rust-native-tls
 rust-navi
-rust-nb-connect
 rust-ndarray-rand
 rust-ndarray
 rust-ndarray-stats
@@ -20273,7 +20274,6 @@ rust-procfs0.12
 rust-procfs0.14
 rust-procfs0.15
 rust-proc-macro-crate
-rust-proc-macro-crate0.1
 rust-proc-macro-crate1
 rust-proc-macro-crate2
 rust-proc-macro-error-attr
@@ -20317,25 +20317,15 @@ rust-punycode
 rust-pure-rust-locales
 rust-pwd
 rust-pyo3-build-config
-rust-pyo3-build-config0.19
-rust-pyo3-build-config0.20
 rust-pyo3-build-config0.22
 rust-pyo3-ffi
-rust-pyo3-ffi0.19
-rust-pyo3-ffi0.20
 rust-pyo3-ffi0.22
 rust-pyo3-log
 rust-pyo3-macros-backend
-rust-pyo3-macros-backend0.19
-rust-pyo3-macros-backend0.20
 rust-pyo3-macros-backend0.22
 rust-pyo3-macros
-rust-pyo3-macros0.19
-rust-pyo3-macros0.20
 rust-pyo3-macros0.22
 rust-pyo3
-rust-pyo3_0.19
-rust-pyo3_0.20
 rust-pyo3_0.22
 rust-pyproject-toml
 rust-pythonize
@@ -21143,12 +21133,10 @@ rust-yoke
 rust-yubibomb
 rust-z-base-32
 rust-zbase32
-rust-zbus_macros1
 rust-zbus_macros4
 rust-zbus_names
 rust-zbus_names3
 rust-zbus_xml
-rust-zbus1
 rust-zbus4
 rust-zeitfetch
 rust-zerocopy-derive
@@ -21171,11 +21159,9 @@ rust-zstd-sys
 rust-zune-core
 rust-zune-inflate
 rust-zune-jpeg
-rust-zvariant_derive2
 rust-zvariant_derive4
 rust-zvariant_utils
 rust-zvariant_utils2
-rust-zvariant2
 rust-zvariant4
 rust-z85
 rust2rpm-helper

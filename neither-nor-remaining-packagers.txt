@@ -21,11 +21,13 @@ mariadb10.11         fjanus hhorak ljavorsk mschorm zmiklank
 mxml                 dcavalca
 nss-mdns             lennart lkundrak pemensik zdohnal
 ocaml-omake          rjones
+openal-soft          fcami jwrdegoede tdawson
 pypy                 churchyard thrnciar
 pypy3.9              churchyard thrnciar
 ruby                 mtasaka vondruch
 rubygem-rdoc         vondruch
 rust-rpick           bowlofeggs
+tachyon              rathann
 texlive              jnovy spot than
 tkimg                spot
 webkitgtk            catanzaro
@@ -40,13 +42,14 @@ catanzaro  webkitgtk
 churchyard pypy pypy3.9
 dcavalca   mxml
 eclipseo   clementine
+fcami      openal-soft
 fjanus     mariadb10.11
 hhorak     mariadb10.11
 jcline     kernel
 jforbes    kernel
 jnovy      texlive
 jwboyer    kernel
-jwrdegoede kernel
+jwrdegoede kernel openal-soft
 kernel-maint kernel
 lennart    nss-mdns
 limb       frescobaldi
@@ -67,6 +70,7 @@ patrickt   kernel
 pemensik   nss-mdns
 petersen   ghc-polyparse
 quintela   kernel
+rathann    tachyon
 rcallicotte hydra
 rdieter    kf5-kirigami2
 rebus      hydra
@@ -78,6 +82,7 @@ smani      libwebp
 spot       julius texlive tkimg
 steved     kernel
 suve       lazarus
+tdawson    openal-soft
 than       texlive
 thl        kcbench
 thm        lmms
