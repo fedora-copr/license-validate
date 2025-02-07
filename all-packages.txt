@@ -1239,7 +1239,6 @@ copr-keygen
 copr-messaging
 copr-rpmbuild
 copr-selinux
-copy-jdk-configs
 copyq
 coq
 corectrl
@@ -1299,6 +1298,7 @@ cpp-httplib
 cppcheck
 cppi
 cpp-jwt
+CppMicroServices
 cppmyth
 cpprest
 cpptest
@@ -1691,7 +1691,6 @@ dmenu-wayland
 dmg2img
 dmidecode
 dmidiplayer
-dmraid
 dmtcp
 dmtx-utils
 dm-zoned-tools
@@ -1732,6 +1731,7 @@ docbook-utils
 docbook2X
 docbook5-schemas
 docbook5-style-xsl
+docker-buildkit
 docker-buildx
 docker-compose
 docker-compose-switch
@@ -5792,6 +5792,7 @@ grafana-pcp
 grafana
 grafx2
 gr-air-modes
+gram_grep
 grammalecte
 gramps
 granatier
@@ -6334,6 +6335,7 @@ hyphen-ta
 hyphen-te
 hyphen-tk
 hyphen-uk
+hyprcursor
 hypre
 hyprland-protocols
 hyprland
@@ -7280,6 +7282,7 @@ koan
 KoboDeluxe
 kobo
 koffice-kivio
+kojan-parent
 koji-containerbuild
 koji-flatpak
 koji-osbuild
@@ -8447,6 +8450,7 @@ linuxdoc-tools
 linux-firmware
 linux-libertine-fonts
 linuxptp
+linux-sgx-enclaves-prebuilt
 linux-sysinfo-snapshot
 linux-system-roles
 linux-thermaltake-rgb
@@ -9356,7 +9360,6 @@ mksh
 mktorrent
 mkvtoolnix
 mle
-mlir17
 mlmmj
 mlnx-tools
 mlpack
@@ -13961,6 +13964,7 @@ php-phpstan-phpdoc-parser
 php-phpunit-git
 php-phpunitgoodpractices-polyfill
 php-phpunit-php-code-coverage10
+php-phpunit-php-code-coverage11
 php-phpunit-php-code-coverage6
 php-phpunit-php-code-coverage7
 php-phpunit-php-code-coverage9
@@ -14007,6 +14011,7 @@ php-samyoul-u2f-php-server
 php-sanmai-phpunit-legacy-adapter
 php-sebastian-cli-parser
 php-sebastian-cli-parser2
+php-sebastian-cli-parser3
 php-sebastian-code-unit-reverse-lookup
 php-sebastian-code-unit-reverse-lookup2
 php-sebastian-code-unit-reverse-lookup3
@@ -14017,6 +14022,7 @@ php-sebastian-code-unit3
 php-sebastian-comparator3
 php-sebastian-comparator4
 php-sebastian-comparator5
+php-sebastian-comparator6
 php-sebastian-complexity
 php-sebastian-complexity3
 php-sebastian-complexity4
@@ -14031,6 +14037,7 @@ php-sebastian-environment7
 php-sebastian-exporter3
 php-sebastian-exporter4
 php-sebastian-exporter5
+php-sebastian-exporter6
 php-sebastian-global-state2
 php-sebastian-global-state3
 php-sebastian-global-state5
@@ -14088,6 +14095,7 @@ php-theseer-directoryscanner
 php-theseer-tokenizer
 php-twig
 phpunit10
+phpunit11
 phpunit7
 phpunit8
 phpunit9
@@ -14718,6 +14726,7 @@ python-automaton
 python-Automat
 python-autopage
 python-autopep8
+python-avalara
 python-avocado
 python-avro
 python-aw-client
@@ -15407,6 +15416,7 @@ python-fields
 python-filecheck
 python-filelock
 python-filetype
+python-findpython
 python-fingerprints
 python-fiona
 python-fireflyalgorithm
@@ -16022,7 +16032,6 @@ python-mirrors-countme
 python-missingno
 python-mistralclient
 python-mistune
-python-mistune08
 python-mitogen
 python-mizani
 python-mkapi
@@ -16030,6 +16039,9 @@ python-mkdocs-autorefs
 python-mkdocs-click
 python-mkdocs-gen-files
 python-mkdocs-get-deps
+python-mkdocs-git-authors-plugin
+python-mkdocs-git-committers-plugin-2
+python-mkdocs-git-revision-date-localized-plugin
 python-mkdocs-include-markdown-plugin
 python-mkdocs-literate-nav
 python-mkdocs-macros-test
@@ -16157,6 +16169,7 @@ python-nihtest
 python-nikola
 python-nilearn
 python-nine
+python-nipype
 python-nipy
 python-nitime
 python-nitrate
@@ -19564,7 +19577,6 @@ rust-crossbeam-utils
 rust-crossfont
 rust-crosstermion
 rust-crossterm
-rust-crossterm0.22
 rust-crossterm0.25
 rust-crossterm0.26
 rust-crossterm0.27
@@ -19795,6 +19807,7 @@ rust-env_proxy
 rust-envsubst
 rust-envy
 rust-epoll
+rust-equator-macro
 rust-equivalent
 rust-erased-serde
 rust-erased-serde0.3
@@ -20090,6 +20103,8 @@ rust-gsk4-sys0.8
 rust-gsk4_0.7
 rust-gsk4_0.8
 rust-gst-plugin-dav1d
+rust-gst-plugin-fallbackswitch
+rust-gst-plugin-fmp4
 rust-gst-plugin-gif
 rust-gst-plugin-gtk4
 rust-gst-plugin-reqwest
@@ -20297,11 +20312,11 @@ rust-io-lifetimes
 rust-io-lifetimes1
 rust-io-uring
 rust-io-uring0.5
-rust-iovec
 rust-ipnet
 rust-ipnetwork
 rust-ipnetwork0.17
 rust-iri-string
+rust-ironrdp-error
 rust-isal-rs
 rust-isal-sys
 rust-is_ci
@@ -20346,16 +20361,6 @@ rust-json5
 rust-just
 rust-jwalk
 rust-jwt
-rust-jxl-bitstream
-rust-jxl-coding
-rust-jxl-color
-rust-jxl-frame
-rust-jxl-grid
-rust-jxl-image
-rust-jxl-modular
-rust-jxl-oxide
-rust-jxl-render
-rust-jxl-vardct
 rust-kamadak-exif
 rust-kbs-types
 rust-kdotool
@@ -20578,7 +20583,6 @@ rust-minspan
 rust-mint
 rust-minus
 rust-mio
-rust-mio0.6
 rust-mio0.7
 rust-mio0.8
 rust-mktemp
@@ -20624,7 +20628,6 @@ rust-netlink-sys
 rust-netmap_sys
 rust-nettle
 rust-nettle-sys
-rust-net2
 rust-new_debug_unreachable
 rust-newtype-uuid
 rust-nibble_vec
@@ -20854,6 +20857,7 @@ rust-picky-asn1
 rust-picky-asn1-x509
 rust-picky-asn1-x509_0.12
 rust-picky-asn1_0.8
+rust-picky
 rust-picky-test-data
 rust-pico-args
 rust-pid
@@ -21208,6 +21212,7 @@ rust-rustyline-derive
 rust-rustyline
 rust-rusty_paserk
 rust-rusty_paseto
+rust-rutabaga_gfx
 rust-ruzstd
 rust-rxml_proc
 rust-rxml
@@ -21242,7 +21247,6 @@ rust-scx_rusty
 rust-scx_utils
 rust-sdd
 rust-sd-notify
-rust-sd
 rust-seahash
 rust-seahash3
 rust-sealed_test_derive
@@ -21356,7 +21360,6 @@ rust-signal-hook-tokio
 rust-signal-hook0.1
 rust-signature_derive
 rust-signature
-rust-silver
 rust-simba
 rust-simd-adler32
 rust-simd_helpers
@@ -21402,6 +21405,7 @@ rust-snafu
 rust-snapbox-macros
 rust-snapbox
 rust-snap
+rust-snpguest
 rust-snphost
 rust-socketpair
 rust-socket2
@@ -21652,8 +21656,10 @@ rust-trash
 rust-treebitmap
 rust-tree_magic_db
 rust-tree_magic_mini
+rust-tree-sitter-bash
 rust-tree-sitter-cli
 rust-tree-sitter-config
+rust-tree-sitter-generate
 rust-tree-sitter-highlight
 rust-tree-sitter-language
 rust-tree-sitter-loader
@@ -22893,7 +22899,6 @@ tcl-html
 tcllib
 tcl-mysqltcl
 tcl-pgtcl
-tcl-signal
 tcl-snack
 tcl
 tcl-tclnagios
@@ -23655,6 +23660,7 @@ wbox
 wcd
 wcslib
 wcstools
+wcurl
 wdiff
 wdisplays
 wdsp

@@ -177,7 +177,6 @@ container-selinux
 container-tools
 containers-common
 convmv
-copy-jdk-configs
 coreutils
 corosync
 corosync-qdevice
@@ -260,8 +259,6 @@ edk2
 efi-rpm-macros
 efibootmgr
 efivar
-egl-wayland
-eglexternalplatform
 eigen3
 elfutils
 elinks
@@ -896,7 +893,6 @@ libhangul
 libi2cd
 libica
 libical
-libicu74
 libidn2
 libieee1284
 libijs
@@ -1002,6 +998,7 @@ libthai
 libtheora
 libtiff
 libtirpc
+libtommath
 libtool
 libtpms
 libtracecmd
@@ -1073,7 +1070,6 @@ lsvpd
 ltrace
 lttng-ust
 lua
-lua-posix
 lua-rpm-macros
 lujavrite
 luksmeta
@@ -2005,6 +2001,8 @@ rust-rpm-sequoia
 rust-sequoia-sq
 rust-sequoia-sqv
 rust-sevctl
+rust-snpguest
+rust-snphost
 rust-ssh-key-dir
 rust-zram-generator
 s-nail
@@ -2014,6 +2012,7 @@ sane-airscan
 sane-backends
 sanlock
 sap-cluster-connector
+sap-hana-ha
 sassc
 sbc
 sbd
@@ -2127,6 +2126,7 @@ targetcli
 tbb
 tboot
 tcl
+tcl8
 tcpdump
 tcsh
 teckit
@@ -2143,6 +2143,7 @@ thermald
 time
 tinycdb
 tk
+tk8
 tlog
 tmpwatch
 tmux
