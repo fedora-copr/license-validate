@@ -71,6 +71,7 @@ aerc
 aesfix
 aespipe
 afetch
+afpfs-ng
 afuse
 Agda
 agenda
@@ -88,6 +89,7 @@ aircrack-ng
 airinv
 airnef
 airrac
+airspyone_host
 airtsp
 akonadi-calendar
 akonadiconsole
@@ -103,7 +105,6 @@ alacarte
 aldo
 alembic
 alerque-libertinus-fonts
-alevt
 alexandria
 alex
 alex4
@@ -378,7 +379,6 @@ asymptote
 atanks
 atari++
 atari800
-atasm
 atkmm
 atlantik
 atlas
@@ -494,7 +494,6 @@ baresip
 barman
 barrage
 barrier
-basesystem
 basez
 bash-completion
 bashmount
@@ -567,6 +566,7 @@ bird
 bison
 bitcoin-core-selinux
 bitlbee-facebook
+bitlbee
 bitlbee-steam
 bitmap-fonts
 bitstream-vera-fonts
@@ -594,6 +594,7 @@ bluecurve-icon-theme
 bluedevil
 bluefish
 bluechi
+bluejay
 blueman
 blueprint-compiler
 bluez-hcidump
@@ -1460,6 +1461,7 @@ drat2er
 drawing
 drbdlinks
 drbd
+dreamchess
 drgeo
 dr_libs
 drm_info
@@ -2171,6 +2173,7 @@ f38-backgrounds
 f39-backgrounds
 f40-backgrounds
 f41-backgrounds
+f42-backgrounds
 gajim
 gala
 galculator
@@ -2305,7 +2308,7 @@ gawk-xml
 gbrainy
 gcal
 gcc
-gcc13
+gcc14
 gcl
 gcolor2
 gcolor3
@@ -3271,6 +3274,7 @@ gnome-shell-extension-system-monitor-applet
 gnome-shell-extension-unite
 gnome-shell-extension-vertical-workspaces
 gnome-shell-frippery
+gnome-shell-rpm-generators
 gnome-shell
 gnome-software
 gnome-sound-recorder
@@ -4477,6 +4481,7 @@ hatari
 hatch
 hatools
 haveged
+haxe
 hcloud
 hcxtools
 hddfancontrol
@@ -5319,7 +5324,6 @@ kf5-kipi-plugins
 kf5-kirigami2-addons
 kf5-kitemmodels
 kf5-kitemviews
-kf5-kitinerary
 kf5-ki18n
 kf5-kjobwidgets
 kf5-kldap
@@ -5454,6 +5458,7 @@ kf6-syntax-highlighting
 kf6-threadweaver
 kgamma
 kgeography
+kgeotag
 kglobalacceld
 kgpg
 kgrab
@@ -5534,9 +5539,11 @@ koan
 KoboDeluxe
 kobo
 kojan-parent
+kojan-xml
 koji-flatpak
 koji-osbuild
 koji-tool
+kokkos
 kolorfill
 kommit
 kompare
@@ -5630,6 +5637,7 @@ kwin-x11
 kwooty
 kwordquiz
 kwrited
+kxkb2locale1
 kxstitch
 kyotocabinet
 k2hash
@@ -6429,6 +6437,7 @@ linuxdoc-tools
 linux-libertine-fonts
 linuxptp
 linux-sgx-enclaves-prebuilt
+linux-sgx
 linux-sysinfo-snapshot
 linux-thermaltake-rgb
 linux-user-chroot
@@ -6930,6 +6939,7 @@ mingw-LibRaw
 mingw-librsvg2
 mingw-libsigc++30
 mingw-libsigsegv
+mingw-libtasn1
 mingw-libunistring
 mingw-libzip
 mingw-minizip
@@ -7914,6 +7924,7 @@ openzwave
 open62541
 optee_client
 optee_os
+optiimage
 optional-lite
 options
 opusfile
@@ -7963,6 +7974,7 @@ owfs
 oxygen-icon-theme
 oxygen-sounds
 pacemaker
+PackageKit-Qt
 PackageKit
 packetdrill
 packETH
@@ -9988,6 +10000,7 @@ perl-Net-LDAP-Server-Test
 perl-Net-LDAP-SID
 perl-Net-LibIDN
 perl-Net-LibIDN2
+perl-Net-MQTT-Simple
 perl-Net-NBName
 perl-Net-Netmask
 perl-Net-OAuth
@@ -11005,6 +11018,7 @@ perl-v6
 perl-Want
 perl-Web-ID
 perl-Web-Machine
+perl-Web-Paste-Simple
 perl-Web-Scraper
 perl-WebService-Dropbox
 perl-WebService-Linode
@@ -11244,23 +11258,28 @@ php-phpmailer6
 php-phpstan-phpdoc-parser
 php-phpunit-php-code-coverage10
 php-phpunit-php-code-coverage11
+php-phpunit-php-code-coverage12
 php-phpunit-php-code-coverage7
 php-phpunit-php-code-coverage9
 php-phpunit-php-file-iterator2
 php-phpunit-php-file-iterator3
 php-phpunit-php-file-iterator4
 php-phpunit-php-file-iterator5
+php-phpunit-php-file-iterator6
 php-phpunit-php-invoker2
 php-phpunit-php-invoker3
 php-phpunit-php-invoker4
 php-phpunit-php-invoker5
+php-phpunit-php-invoker6
 php-phpunit-php-text-template2
 php-phpunit-php-text-template3
 php-phpunit-php-text-template4
+php-phpunit-php-text-template5
 php-phpunit-php-timer2
 php-phpunit-php-timer5
 php-phpunit-php-timer6
 php-phpunit-php-timer7
+php-phpunit-php-timer8
 php-phpunit-php-token-stream4
 php-phpunit-Text-Template
 php-phpunit-Version
@@ -11274,6 +11293,7 @@ php-sanmai-phpunit-legacy-adapter
 php-sebastian-cli-parser
 php-sebastian-cli-parser2
 php-sebastian-cli-parser3
+php-sebastian-cli-parser4
 php-sebastian-code-unit-reverse-lookup
 php-sebastian-code-unit-reverse-lookup2
 php-sebastian-code-unit-reverse-lookup3
@@ -11285,49 +11305,61 @@ php-sebastian-comparator3
 php-sebastian-comparator4
 php-sebastian-comparator5
 php-sebastian-comparator6
+php-sebastian-comparator7
 php-sebastian-complexity
 php-sebastian-complexity3
 php-sebastian-complexity4
+php-sebastian-complexity5
 php-sebastian-diff3
 php-sebastian-diff4
 php-sebastian-diff5
 php-sebastian-diff6
+php-sebastian-diff7
 php-sebastian-environment4
 php-sebastian-environment5
 php-sebastian-environment6
 php-sebastian-environment7
+php-sebastian-environment8
 php-sebastian-exporter3
 php-sebastian-exporter4
 php-sebastian-exporter5
 php-sebastian-exporter6
+php-sebastian-exporter7
 php-sebastian-global-state3
 php-sebastian-global-state5
 php-sebastian-global-state6
 php-sebastian-global-state7
+php-sebastian-global-state8
 php-sebastian-lines-of-code
 php-sebastian-lines-of-code2
 php-sebastian-lines-of-code3
+php-sebastian-lines-of-code4
 php-sebastian-object-enumerator3
 php-sebastian-object-enumerator4
 php-sebastian-object-enumerator5
 php-sebastian-object-enumerator6
+php-sebastian-object-enumerator7
 php-sebastian-object-reflector
 php-sebastian-object-reflector2
 php-sebastian-object-reflector3
 php-sebastian-object-reflector4
+php-sebastian-object-reflector5
 php-sebastian-recursion-context3
 php-sebastian-recursion-context4
 php-sebastian-recursion-context5
 php-sebastian-recursion-context6
+php-sebastian-recursion-context7
 php-sebastian-resource-operations2
 php-sebastian-resource-operations3
 php-sebastian-type
 php-sebastian-type3
 php-sebastian-type4
 php-sebastian-type5
+php-sebastian-type6
 php-sebastian-version3
 php-sebastian-version4
 php-sebastian-version5
+php-sebastian-version6
 php-simplepie
 php-smarty-gettext
 php-Smarty
@@ -11347,6 +11379,7 @@ php-theseer-directoryscanner
 php-theseer-tokenizer
 phpunit10
 phpunit11
+phpunit12
 phpunit7
 phpunit8
 phpunit9
@@ -11358,6 +11391,7 @@ php-xmpphp
 php-yoast-phpunit-polyfills
 php-yoast-phpunit-polyfills1
 php-yoast-phpunit-polyfills2
+php-yoast-phpunit-polyfills3
 php-zetacomponents-base
 php-zetacomponents-console-tools
 php-zetacomponents-unit-test
@@ -11470,6 +11504,7 @@ plexus-languages
 plexus-pom
 plexus-resources
 plexus-sec-dispatcher
+plexus-sec-dispatcher4
 plexus-testing
 plexus-utils
 plexus-velocity
@@ -11606,6 +11641,7 @@ prooftree
 proselint
 protobuf-c
 protobuf
+protobuf3
 protontricks
 protonvpn-cli
 protozero
@@ -12052,6 +12088,7 @@ python-crypto
 python-crypt-r
 python-csscompressor
 python-css-parser
+python-cs
 python-cssselect2
 python-cssutils
 python-cups
@@ -12095,6 +12132,7 @@ python-decopatch
 python-decorator
 python-defusedxml
 python-demjson
+python-dependency-groups
 python-deprecated
 python-deprecation
 python-designateclient
@@ -12134,6 +12172,7 @@ python-django-rest-framework
 python-django
 python-django-uuslug
 python-django4.2
+python-django5
 python-dmidecode
 python-dnspython
 python-dns
@@ -12210,6 +12249,7 @@ python-ethtool
 python-eth-typing
 python-eth-utils
 python-evdev
+python-events
 python-exabgp
 python-exdir
 python-expandvars
@@ -12353,6 +12393,7 @@ python-google-resumable-media
 python-gphoto2
 python-gpiozero
 python-gpxpy
+python-gql
 python-grabserial
 python-gradunwarp
 python-graph-tool
@@ -12673,6 +12714,7 @@ python-mkdocs-macros-test
 python-mkdocs-material-extensions
 python-mkdocs-minify-plugin
 python-mkdocs-monorepo-plugin
+python-mkdocs-rss-plugin
 python-mkdocs-static-i18n
 python-mmtf
 python-mne-bids
@@ -12781,6 +12823,7 @@ python-octave-kernel
 python-octaviaclient
 python-odml
 python-ofxparse
+python-ogr
 python-olefile
 python-omemo-backend-signal
 python-omlmd
@@ -12819,7 +12862,6 @@ python-orjson
 python-osa
 python-osc-lib
 python-os-client-config
-python-oscrypto
 python-oslo-concurrency
 python-oslo-config
 python-oslo-context
@@ -12881,7 +12923,6 @@ python-pebble
 python-pefile
 python-pelican
 python-pem
-python-pep440
 python-perky
 python-pexpect
 python-pgspecial
@@ -12936,6 +12977,7 @@ python-probeinterface
 python-productmd
 python-prometheus_client
 python-prompt-toolkit
+python-propcache
 python-protego
 python-proton-core
 python-proton-vpn-api-core
@@ -13092,6 +13134,7 @@ python-pyqt6-charts
 python-pyqt6-sip
 python-pyqt6
 python-pyqt6-webengine
+python-pyquery
 python-pyrad
 python-pyramid-mako
 python-pyramid_sawing
@@ -13272,6 +13315,7 @@ python-requests
 python-requests-toolbelt
 python-requests-unixsocket
 python-requirements-parser
+python-requre
 python-reretry
 python-resolvelib
 python-responses
@@ -13628,6 +13672,7 @@ python-ujson
 python-ukkonen
 python-unicodedata2
 python-unidecode
+python-unidiff
 python-universal-pathlib
 python-unix-ar
 python-unpaddedbase64
@@ -14093,7 +14138,6 @@ rdiff-backup
 R-diffobj
 R-dichromat
 R-discretization
-rdist
 rdma-core
 R-docopt
 R-doMC
@@ -14314,6 +14358,7 @@ rocs
 rocthrust
 roc-toolkit
 roctracer
+rocwmma
 rofi-themes-base16
 rofi-wayland
 rogue
@@ -14404,6 +14449,7 @@ R-RPostgres
 R-Rsamtools
 R-rsconnect
 R-Rsolid
+rr
 R-RUnit
 R-R.utils
 rsakeyfind
@@ -14933,7 +14979,6 @@ rust-alsa-sys
 rust-ammonia
 rust-annotate-snippets
 rust-annotate-snippets0.10
-rust-annotate-snippets0.6
 rust-annotate-snippets0.9
 rust-ansi_colours
 rust-ansi-parser
@@ -15014,6 +15059,7 @@ rust-assert-json-diff
 rust-assert_matches
 rust-assert-str
 rust-associative-cache
+rust-astral-tokio-tar
 rust-async-attributes
 rust-async-broadcast
 rust-async-compression
@@ -15112,6 +15158,7 @@ rust-bindgen-cli
 rust-bindgen
 rust-bindgen0.63
 rust-bindgen0.68
+rust-binfmt-dispatcher
 rust-biquad
 rust-bisection
 rust-bit_field
@@ -15188,7 +15235,6 @@ rust-byte-slice-cast
 rust-bytes
 rust-bytestring
 rust-byte-unit
-rust-byte-unit3
 rust-byte-unit4
 rust-bzip2-rs
 rust-bzip2
@@ -15287,7 +15333,6 @@ rust-clap-verbosity-flag
 rust-clap2
 rust-clap3
 rust-clearscreen
-rust-clicolors-control
 rust-clippy-sarif
 rust-clircle
 rust-cli-table-derive
@@ -15308,6 +15353,7 @@ rust-colored_json
 rust-colored_json2
 rust-colored
 rust-colored1
+rust-colored2
 rust-color-eyre
 rust-colorful
 rust-colorgrad
@@ -15334,11 +15380,6 @@ rust-configparser2
 rust-config
 rust-confy
 rust-console
-rust-console0.11
-rust-console0.12
-rust-console0.13
-rust-console0.14
-rust-console0.9
 rust-constant_time_eq
 rust-const-cstr
 rust-const_fn
@@ -15406,6 +15447,7 @@ rust-cryptoki
 rust-cryptoki-sys
 rust-crypto-mac
 rust-crypto_secretbox
+rust-crypto
 rust-csscolorparser
 rust-cssparser-macros
 rust-cssparser
@@ -15518,7 +15560,6 @@ rust-dirs
 rust-dirs-sys-next
 rust-dirs-sys
 rust-dirs-sys0.3
-rust-dirs2
 rust-dirs4
 rust-dir-test-macros
 rust-dir-test
@@ -15610,7 +15651,6 @@ rust-env_filter
 rust-environment
 rust-env_logger
 rust-env_logger0.10
-rust-env_logger0.6
 rust-env_logger0.7
 rust-env_logger0.8
 rust-env_logger0.9
@@ -15776,13 +15816,13 @@ rust-getch
 rust-getopts
 rust-getrandom
 rust-getrandom0.1
+rust-getrandom0.2
 rust-getset
 rust-gettext-rs
 rust-gettext-sys
 rust-gettid
 rust-ghash
 rust-gh-emoji
-rust-ghost
 rust-gif
 rust-gimli
 rust-gimoji
@@ -15883,7 +15923,6 @@ rust-gobject-sys0.18
 rust-gobject-sys0.19
 rust-goblin
 rust-goblin0.5
-rust-goblin0.7
 rust-google-cloud-auth
 rust-google-cloud-metadata
 rust-google-cloud-storage
@@ -15918,6 +15957,10 @@ rust-gst-plugin-fallbackswitch
 rust-gst-plugin-fmp4
 rust-gst-plugin-gif
 rust-gst-plugin-gtk4
+rust-gst-plugin-hsv
+rust-gst-plugin-json
+rust-gst-plugin-livesync
+rust-gst-plugin-mp4
 rust-gst-plugin-reqwest
 rust-gst-plugin-version-helper
 rust-gstreamer-allocators
@@ -16127,7 +16170,12 @@ rust-ipnet
 rust-ipnetwork
 rust-ipnetwork0.17
 rust-iri-string
+rust-ironrdp-core
 rust-ironrdp-error
+rust-ironrdp-graphics
+rust-ironrdp-input
+rust-ironrdp-pdu
+rust-ironrdp-svc
 rust-isal-rs
 rust-isal-sys
 rust-is_ci
@@ -16364,7 +16412,6 @@ rust-md5
 rust-md-5_0.9
 rust-memfd
 rust-memchr
-rust-memmap
 rust-memmap2
 rust-memmap2_0.5
 rust-memmap2_0.7
@@ -16393,7 +16440,6 @@ rust-minspan
 rust-mint
 rust-minus
 rust-mio
-rust-mio0.7
 rust-mio0.8
 rust-mktemp
 rust-mockall_derive
@@ -16463,7 +16509,6 @@ rust-notify-rust
 rust-notify
 rust-notify-types
 rust-notify6
-rust-nparse
 rust-npm-package-json
 rust-ntest
 rust-ntest_test_cases
@@ -16650,7 +16695,6 @@ rust-pest_generator
 rust-pest_meta
 rust-pest
 rust-petgraph
-rust-petgraph0.5
 rust-petgraph0.6
 rust-phf_codegen
 rust-phf_generator
@@ -16702,7 +16746,6 @@ rust-pnet_macros_support
 rust-pnet_packet
 rust-pnet_sys
 rust-png
-rust-png0.16
 rust-podlet
 rust-polling
 rust-polling2
@@ -16731,7 +16774,6 @@ rust-prefixdevname
 rust-pretty_assertions
 rust-pretty-bytes
 rust-pretty_env_logger
-rust-pretty_env_logger0.4
 rust-pretty-git-prompt
 rust-pretty-hex
 rust-prettyplease
@@ -16797,6 +16839,7 @@ rust-ptr_meta_derive
 rust-ptr_meta_derive0.1
 rust-ptr_meta
 rust-ptr_meta0.1
+rust-pty-process
 rust-publicsuffix
 rust-pulldown-cmark-escape
 rust-pulldown-cmark
@@ -16851,17 +16894,22 @@ rust-radix_trie
 rust-rancor
 rust-rand_core
 rust-rand_core0.5
+rust-rand_core0.6
 rust-rand_distr
+rust-rand_distr0.4
 rust-rand_chacha
 rust-rand_chacha0.2
+rust-rand_chacha0.3
 rust-rand_isaac
 rust-rand_pcg
 rust-rand_pcg0.2
+rust-rand_pcg0.3
 rust-rand
 rust-rand_xorshift
 rust-rand_xorshift0.2
 rust-rand_xoshiro
 rust-rand0.7
+rust-rand0.8
 rust-range_map_vec
 rust-ratatui
 rust-ratatui0.26
@@ -17197,7 +17245,6 @@ rust-slog-term
 rust-slotmap
 rust-slug
 rust-smallbitvec
-rust-smallstr
 rust-smallvec
 rust-smart-default
 rust-smartstring
@@ -17296,7 +17343,6 @@ rust-supports-color2
 rust-supports-hyperlinks
 rust-supports-unicode
 rust-svg
-rust-symlink
 rust-sync_wrapper
 rust-syn
 rust-synstructure
@@ -17306,7 +17352,6 @@ rust-syntect4
 rust-syn1
 rust-sys-info
 rust-sysinfo
-rust-sysinfo0.23
 rust-sysinfo0.29
 rust-sys-locale
 rust-syslog
@@ -17515,7 +17560,6 @@ rust-uluru
 rust-umask
 rust-unarray
 rust-uncased
-rust-unescape
 rust-unicase_serde
 rust-unicase
 rust-unic-common
@@ -17552,7 +17596,6 @@ rust-unic-ucd-hangul
 rust-unic-ucd-normal
 rust-unic-ucd-segment
 rust-unic-ucd-version
-rust-unidecode
 rust-unindent
 rust-unindent0.1
 rust-universal-hash
@@ -17738,7 +17781,6 @@ rust-wu-diff
 rust-wyz
 rust-xattr
 rust-xattr0.2
-rust-xcb
 rust-xcursor
 rust-xdg-home
 rust-xdg
@@ -17921,6 +17963,7 @@ sciplot0.2
 scip
 scipy
 scitokens-cpp
+scl-utils-build-helpers
 scl-utils
 scmxx
 scorep
@@ -18025,6 +18068,7 @@ setzer
 sevmgr
 sexpp
 sextractor
+SFCGAL
 SFML
 sfnt2woff-zopfli
 sfsexp
@@ -18154,6 +18198,7 @@ slapi-nis
 sleef
 sleuthkit
 slf4j
+slf4j2
 slib
 slick-greeter
 slimdata
@@ -18293,6 +18338,7 @@ spnavcfg
 spor
 spread-sheet-widget
 springlobby
+spyder
 sqlcipher
 sqlgrey
 sqlitebrowser
@@ -18322,6 +18368,7 @@ sse2neon
 ssh-audit
 sshguard
 sshpass
+sshuttle
 ssldump
 sslh
 ssmtp
@@ -18344,6 +18391,7 @@ startup-notification
 sta
 stats-collect
 statserial
+stax2-api
 stb
 stdair
 stduuid
@@ -18683,7 +18731,6 @@ toppler
 torbrowser-launcher
 torcs-data
 torcs
-torque
 torrent-file-editor
 torsocks
 tor
@@ -19046,6 +19093,7 @@ vmaf
 vmod-querystring
 vmpk
 vncpwd
+vnc-reflector
 vnstat
 vo-amrwbenc
 vobcopy
@@ -19269,6 +19317,7 @@ xautomation
 xawtv
 Xaw3d
 xbae
+xbase
 xbean
 xbindkeys
 xbiso
