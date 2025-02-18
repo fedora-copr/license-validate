@@ -57,6 +57,7 @@ apache-commons-lang3
 apache-commons-logging
 apache-commons-net
 apache-commons-parent
+apache-logging-parent
 apache-parent
 apache-resource-bundles
 apiguardian
@@ -65,7 +66,9 @@ appstream-data
 apr
 apr-util
 aqute-bnd
+argparse-manpage
 asciidoc
+asio
 aspell
 assertj-core
 at
@@ -129,6 +132,7 @@ cairomm1.16
 capnproto
 capstone
 catatonit
+catch1
 cepces
 ceph
 cereal
@@ -144,6 +148,7 @@ cifs-utils
 cim-schema
 cjose
 clang18
+classloader-leak-test-framework
 cldr-emoji-annotation
 clevis
 clevis-pin-tpm2
@@ -255,6 +260,7 @@ efibootmgr
 efivar
 eigen3
 elfutils
+elinks
 emacs
 emacs-auctex
 emacs-filesystem
@@ -274,6 +280,7 @@ expect
 extra-enforcer-rules
 fabtests
 fapolicyd
+fasterxml-oss-parent
 fcoe-utils
 fdk-aac-free
 fedora-logos
@@ -291,6 +298,7 @@ findutils
 fio
 firewalld
 flac
+flashrom
 flatpak
 flatpak-builder
 flatpak-xdg-utils
@@ -453,6 +461,7 @@ hdparm
 help2man
 hexedit
 hicolor-icon-theme
+highlight
 hivex
 hostapd
 hostname
@@ -681,6 +690,13 @@ iso-codes
 isomd5sum
 itstool
 iw
+jackson-annotations
+jackson-bom
+jackson-core
+jackson-databind
+jackson-jaxrs-providers
+jackson-modules-base
+jackson-parent
 jakarta-activation
 jakarta-annotations
 jakarta-cdi2.0
@@ -706,7 +722,12 @@ jaxb-istack-commons
 jaxb-stax-ex
 jbig2dec
 jbigkit
+jboss-jaxrs-2.0-api
+jboss-logging
+jboss-logging-tools
+jboss-parent
 jctools
+jdeparser
 jdepend
 jdependency
 jdom
@@ -800,6 +821,7 @@ libarchive
 libassuan
 libasyncns
 libatasmart
+libatomic_ops
 libblkio
 libblockdev
 libbpf
@@ -818,6 +840,7 @@ libcpuid
 libcupsfilters
 libdaemon
 libdatrie
+libdbusmenu
 libdecor
 libdeflate
 libdex
@@ -1217,11 +1240,13 @@ numactl
 numad
 numatop
 numpy
+nv-codec-headers
 nvme-cli
 nvmetcli
 objectweb-asm
 objenesis
 ocaml
+ocaml-augeas
 ocaml-calendar
 ocaml-cppo
 ocaml-curses
@@ -1367,6 +1392,7 @@ perl-Devel-Size
 perl-Devel-StackTrace
 perl-Devel-Symdump
 perl-Digest
+perl-Digest-CRC
 perl-Digest-HMAC
 perl-Digest-MD5
 perl-Digest-SHA
@@ -1454,6 +1480,7 @@ perl-MIME-Base32
 perl-MIME-Base64
 perl-MIME-Charset
 perl-MRO-Compat
+perl-MailTools
 perl-Math-BigInt
 perl-Math-BigInt-FastCalc
 perl-Math-BigInt-GMP
@@ -1486,6 +1513,7 @@ perl-NTLM
 perl-Net-HTTP
 perl-Net-IP
 perl-Net-Ping
+perl-Net-SMTP-SSL
 perl-Net-SNMP
 perl-Net-SSLeay
 perl-Net-Server
@@ -1494,6 +1522,7 @@ perl-Package-Generator
 perl-Params-Check
 perl-Params-Util
 perl-Parse-PMFile
+perl-Parse-Yapp
 perl-Path-Class
 perl-Path-Tiny
 perl-PathTools
@@ -1669,6 +1698,7 @@ ppc64-diag
 ppp
 pps-tools
 pptp
+priv_wrapper
 procmail
 procps-ng
 protobuf
@@ -1757,6 +1787,7 @@ python-kdcproxy
 python-kmod
 python-lark
 python-ldap
+python-lesscpy
 python-libevdev
 python-linux-procfs
 python-lxml
@@ -1781,6 +1812,7 @@ python-pluggy
 python-ply
 python-podman
 python-poetry-core
+python-prettytable
 python-productmd
 python-prompt-toolkit
 python-psutil
@@ -1807,6 +1839,7 @@ python-requests-ftp
 python-requests-gssapi
 python-requests-oauthlib
 python-resolvelib
+python-rjsmin
 python-rpds-py
 python-rpm-generators
 python-rpm-macros
@@ -1908,11 +1941,14 @@ redhat-release
 redhat-rpm-config
 regexp
 relaxng-datatype-java
+replacer
+resolv_wrapper
 resource-agents
 resource-agents-sap
 resource-agents-sap-hana
 resource-agents-sap-hana-scaleout
 rest
+resteasy
 restore
 rgb
 rhc
@@ -2033,6 +2069,7 @@ snappy
 snapshot
 snowball
 socat
+socket_wrapper
 softhsm
 sombok
 sos
@@ -2062,6 +2099,7 @@ strace
 stratis-cli
 stratisd
 stress-ng
+stunnel
 subscription-manager
 subscription-manager-cockpit
 subscription-manager-rhsm-certificates
@@ -2113,6 +2151,7 @@ tog-pegasus
 tokyocabinet
 tomcat
 tomcat-jakartaee-migration
+toml11
 toolbox
 tpm2-abrmd
 tpm2-abrmd-selinux
@@ -2140,6 +2179,7 @@ udisks2
 uid_wrapper
 umockdev
 unbound
+unicode-emoji
 unicode-ucd
 units
 univocity-parsers
@@ -2239,6 +2279,7 @@ xkeyboard-config
 xml-commons-apis
 xml-commons-resolver
 xmlsec1
+xmlstarlet
 xmlto
 xmltoman
 xmlunit
