@@ -74,6 +74,7 @@ adwaita-icon-theme-legacy
 adwaita-icon-theme
 adw-gtk3-theme
 aemu
+aer-inject
 aesfix
 aeskeyfind
 aespipe
@@ -1823,8 +1824,6 @@ duktape
 dumb-init
 dumb
 dummy-package-canary
-dummy-test-package-crested
-dummy-test-package-gloster
 dumpasn1
 dumpet
 dump
@@ -8871,6 +8870,7 @@ mbpfan
 mbuffer
 mb2md
 mcabber
+mce-inject
 mcelog
 mcomix3
 mcpanel
@@ -9305,6 +9305,7 @@ mirrormagic
 mirrormanager2
 mir
 mISDN
+mivisionx
 mkbootdisk
 mk-configure
 mkdocs-bootstrap
@@ -14212,6 +14213,7 @@ plexus-compiler
 plexus-component-api
 plexus-components-pom
 plexus-containers
+plexus-interactivity
 plexus-interpolation
 plexus-io
 plexus-i18n
@@ -15221,7 +15223,6 @@ python-django-pdb
 python-django-pglocks
 python-django-picklefield
 python-django-pipeline
-python-django-prometheus
 python-django-pytest
 python-djangoql
 python-django-q
@@ -15328,7 +15329,6 @@ python-ephem
 python-ephyviewer
 python-epi
 python-epson-projector
-python-epub
 python-esbonio
 python-etcd
 python-etcd3gw
@@ -15444,7 +15444,6 @@ python-flask-talisman
 python-flask-whooshee
 python-flask-wtf-decorators
 python-flask-wtf
-python-flask-xml-rpc
 python-flexcache
 python-flexmock
 python-flexparser
@@ -16073,7 +16072,6 @@ python-murmurhash
 python-musicbrainzngs
 python-music21
 python-mutagen
-python-mutatormath
 python-mwclient
 python-mygpoclient
 python-myhdl
@@ -16970,7 +16968,6 @@ python-sentinels
 python-sentry-sdk
 python-sep
 python-serpent
-python-serpy
 python-service-identity
 python-setproctitle
 python-setupmeta
@@ -17155,7 +17152,6 @@ python-sshtunnel
 python-stack-data
 python-stackprinter
 python-starlette
-python-statsd
 python-statsmodels
 python-stdiomask
 python-stdlib-list
@@ -17301,7 +17297,6 @@ python-transaction
 python-transforms3d
 python-translationstring
 python-translitcodec
-python-tree-format
 python-treq
 python-trezor
 python-trie
@@ -17546,7 +17541,6 @@ python-XStatic-smart-table
 python-XStatic
 python-XStatic-Spin
 python-XStatic-termjs
-python-xunitparser
 python-xvfbwrapper
 python-xword-dl
 python-xxhash
@@ -19372,6 +19366,7 @@ rust-envsubst
 rust-envy
 rust-epoll
 rust-equator-macro
+rust-equator
 rust-equivalent
 rust-erased-serde
 rust-erased-serde0.3
@@ -19804,12 +19799,17 @@ rust-ipnet
 rust-ipnetwork
 rust-ipnetwork0.17
 rust-iri-string
+rust-ironrdp-ainput
+rust-ironrdp-cliprdr
 rust-ironrdp-core
+rust-ironrdp-displaycontrol
 rust-ironrdp-dvc
 rust-ironrdp-error
 rust-ironrdp-graphics
 rust-ironrdp-input
 rust-ironrdp-pdu
+rust-ironrdp-rdpdr
+rust-ironrdp-rdpsnd
 rust-ironrdp-svc
 rust-isal-rs
 rust-isal-sys
@@ -20046,6 +20046,7 @@ rust-mock_instant
 rust-monitord-exporter
 rust-monitord
 rust-mpsc_requests
+rust-mp4parse
 rust-msru
 rust-multer2
 rust-multimap
@@ -20248,6 +20249,7 @@ rust-piper
 rust-pipe-trait
 rust-pipewire-sys0.7
 rust-pipewire0.7
+rust-pixman-sys
 rust-pkcs1
 rust-pkcs5
 rust-pkcs8
@@ -20909,6 +20911,7 @@ rust-transpose
 rust-tree_magic_db
 rust-tree_magic_mini
 rust-tree-sitter-bash
+rust-tree-sitter-c
 rust-tree-sitter-generate
 rust-tree-sitter-language
 rust-tree-sitter
@@ -21140,6 +21143,7 @@ rust-wild
 rust-winit
 rust-winnow
 rust-winnow0.5
+rust-winnow0.6
 rust-wl-clipboard-rs
 rust-wl-nl80211
 rust-wmidi
@@ -22956,6 +22960,7 @@ wofi
 wol
 wondershaper
 woodardworks-laconic-fonts
+woodstox-core
 wordgrinder
 wordnet
 wordpress-plugin-bad-behavior

@@ -68,6 +68,7 @@ adwaita-icon-theme
 adw-gtk3-theme
 aemu
 aerc
+aer-inject
 aesfix
 aespipe
 afetch
@@ -1236,6 +1237,7 @@ dbus-qt3
 dbus
 dbus-test-runner
 dcap
+dcmtk
 dconf-editor
 dconf
 dcraw
@@ -1497,8 +1499,6 @@ duc
 duf
 duktape
 dummy-package-canary
-dummy-test-package-crested
-dummy-test-package-gloster
 dumpasn1
 dumpet
 dump
@@ -4507,6 +4507,7 @@ help2man
 helvum
 HepMC
 HepMC3
+herbstluftwm
 hercstudio
 hercules
 hevea
@@ -4802,6 +4803,7 @@ chewing-editor
 chez-scheme
 chibicc
 chibi-scheme
+chicken
 chipmunk
 chirp
 chkconfig
@@ -6790,6 +6792,7 @@ mbpfan
 mbuffer
 mb2md
 mcabber
+mce-inject
 mcelog
 mcomix3
 mcpanel
@@ -7070,6 +7073,7 @@ miriway
 mirrorlist-server
 mirrormagic
 mir
+mivisionx
 mkbootdisk
 mk-configure
 mkdocs-bootstrap
@@ -12170,7 +12174,6 @@ python-django-extensions
 python-django-haystack
 python-django-mailman3
 python-django-pdb
-python-django-prometheus
 python-django-q2
 python-django-rest-framework
 python-django
@@ -12236,7 +12239,6 @@ python-epc
 python-epel-rpm-macros
 python-ephyviewer
 python-epi
-python-epub
 python-esbonio
 python-etcd3gw
 python-etcd3
@@ -13626,7 +13628,6 @@ python-traitsui
 python-trampoline
 python-transaction
 python-transforms3d
-python-tree-format
 python-trezor
 python-trie
 python-trimesh
@@ -15664,6 +15665,7 @@ rust-envsubst
 rust-envy
 rust-epoll
 rust-equator-macro
+rust-equator
 rust-equivalent
 rust-erased-serde
 rust-erased-serde0.3
@@ -16173,12 +16175,17 @@ rust-ipnet
 rust-ipnetwork
 rust-ipnetwork0.17
 rust-iri-string
+rust-ironrdp-ainput
+rust-ironrdp-cliprdr
 rust-ironrdp-core
+rust-ironrdp-displaycontrol
 rust-ironrdp-dvc
 rust-ironrdp-error
 rust-ironrdp-graphics
 rust-ironrdp-input
 rust-ironrdp-pdu
+rust-ironrdp-rdpdr
+rust-ironrdp-rdpsnd
 rust-ironrdp-svc
 rust-isal-rs
 rust-isal-sys
@@ -16730,6 +16737,7 @@ rust-pipewire
 rust-pipewire-sys
 rust-pipewire-sys0.7
 rust-pipewire0.7
+rust-pixman-sys
 rust-pkcs1
 rust-pkcs5
 rust-pkcs8
@@ -17518,6 +17526,7 @@ rust-tree_magic_mini
 rust-tree-sitter-bash
 rust-tree-sitter-cli
 rust-tree-sitter-config
+rust-tree-sitter-c
 rust-tree-sitter-generate
 rust-tree-sitter-highlight
 rust-tree-sitter-language
@@ -17778,6 +17787,7 @@ rust-wild
 rust-winit
 rust-winnow
 rust-winnow0.5
+rust-winnow0.6
 rust-wl-clipboard-rs
 rust-wl-nl80211
 rust-wmidi
@@ -19274,6 +19284,7 @@ woff2
 wofi
 wol
 wondershaper
+woodstox-core
 wordgrinder
 wordnet
 wordpress-plugin-bad-behavior
