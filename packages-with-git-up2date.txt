@@ -141,6 +141,7 @@ allegro5
 allgeyer-fonts
 alliance
 alligator
+ALL
 almanah
 alot
 alphabet-soup
@@ -1105,7 +1106,6 @@ cockatrice
 cockpit-files
 cockpit-image-builder
 cockpit-machines
-cockpit-navigator
 cockpit-ostree
 cockpit-podman
 cockpit-session-recording
@@ -14667,6 +14667,7 @@ python-asn1crypto
 python-asn1
 python-asn1tools
 python-aspy.yaml
+python-astdoc
 python-asteval
 python-ast-monitor
 python-astral
@@ -18890,7 +18891,9 @@ rust-axum-macros
 rust-axum-server
 rust-axum
 rust-az-cvm-vtpm
+rust-az-snp-vtpm
 rust-az
+rust-az-tdx-vtpm
 rust-backoff
 rust-backtrace-ext
 rust-backtrace
@@ -18958,7 +18961,6 @@ rust-blobby0.1
 rust-block-buffer
 rust-block-buffer0.9
 rust-blocking
-rust-block-modes
 rust-block-padding
 rust-block-padding0.2
 rust-blosc2-rs
@@ -19236,7 +19238,6 @@ rust-dbus0.8
 rust-debug-helper
 rust-decimal
 rust-defer-drop
-rust-deflate
 rust-deflate64
 rust-defmac
 rust-delharc
@@ -19418,6 +19419,7 @@ rust-fiat-crypto
 rust-field-offset
 rust-figment
 rust-file-id
+rust-file-locker
 rust-filetime
 rust-find-crate
 rust-findshlibs
@@ -19444,6 +19446,7 @@ rust-foreign-types0.3
 rust-form_urlencoded
 rust-four-cc
 rust-fragile
+rust-freedesktop_entry_parser
 rust-freetype-rs0.32
 rust-freetype-rs0.35
 rust-freetype
@@ -19768,6 +19771,7 @@ rust-indicatif0.16
 rust-indoc
 rust-indoc1
 rust-Inflector
+rust-ini_core
 rust-inlinable_string
 rust-inotify0.9
 rust-inout
@@ -20719,6 +20723,7 @@ rust-spake2
 rust-spdx
 rust-speakersafetyd
 rust
+rust-speculoos
 rust-speedate
 rust-spin_on
 rust-spin_sleep
@@ -20911,9 +20916,16 @@ rust-transpose
 rust-tree_magic_db
 rust-tree_magic_mini
 rust-tree-sitter-bash
+rust-tree-sitter-cpp
+rust-tree-sitter-c-sharp
 rust-tree-sitter-c
 rust-tree-sitter-generate
 rust-tree-sitter-language
+rust-tree-sitter-lua
+rust-tree-sitter-ocaml
+rust-tree-sitter-php
+rust-tree-sitter-python
+rust-tree-sitter-ruby
 rust-tree-sitter
 rust-tree-sitter0.20
 rust-tree-sitter0.23

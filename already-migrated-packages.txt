@@ -118,6 +118,7 @@ alizams
 allegro
 alliance
 alligator
+ALL
 almanah
 alot
 alphabet-soup
@@ -916,7 +917,6 @@ cockpit-composer
 cockpit-files
 cockpit-image-builder
 cockpit-machines
-cockpit-navigator
 cockpit-ostree
 cockpit-podman
 cockpit-session-recording
@@ -2315,6 +2315,7 @@ gcl
 gcolor2
 gcolor3
 gconfmm26
+GConf2
 gcovr
 gcr
 gcr3
@@ -4722,6 +4723,7 @@ hwk
 hwloc
 hw-probe
 hydrapaper
+hydra
 hydrogen
 hyfetch
 hyperestraier
@@ -5708,6 +5710,7 @@ ldapvi
 ldns
 leafpad
 leatherman
+ledger
 ledmon
 legendary
 legofy
@@ -6946,6 +6949,7 @@ mingw-librsvg2
 mingw-libsigc++30
 mingw-libsigsegv
 mingw-libtasn1
+mingw-libtheora
 mingw-libunistring
 mingw-libzip
 mingw-minizip
@@ -7515,6 +7519,7 @@ nsd
 nsnake
 nsntrace
 nss-altfiles
+nss-mdns
 nss-pam-ldapd
 nss-pem
 nss
@@ -7797,6 +7802,7 @@ ohmybackup
 oidc-agent
 oidentd
 oidn
+oksh
 okular
 olive
 OliveTin
@@ -11831,6 +11837,7 @@ python-asn1crypto
 python-asn1
 python-asn1tools
 python-aspy.yaml
+python-astdoc
 python-astral
 python-astroid
 python-astroML
@@ -11996,6 +12003,7 @@ python-cid
 python-ci-info
 python-cinderclient
 python-circuitbreaker
+python-citeproc-py
 python-ckzg
 python-click-option-group
 python-click-plugins
@@ -14128,6 +14136,7 @@ R-clipr
 rclone
 R-coda
 R-combinat
+R-commonmark
 R-conflicted
 R-covr
 rc
@@ -14991,7 +15000,6 @@ rust-ansi-parser
 rust-ansi-str
 rust-ansi_term
 rust-ansiterm
-rust-ansi_term0.11
 rust-ansitok
 rust-ansi-width
 rust-anstream
@@ -15122,7 +15130,9 @@ rust-axum-macros
 rust-axum-server
 rust-axum
 rust-az-cvm-vtpm
+rust-az-snp-vtpm
 rust-az
+rust-az-tdx-vtpm
 rust-backoff
 rust-backtrace-ext
 rust-backtrace
@@ -15193,7 +15203,6 @@ rust-blobby0.1
 rust-block-buffer
 rust-block-buffer0.9
 rust-blocking
-rust-block-modes
 rust-block-padding
 rust-block-padding0.2
 rust-blosc2-rs
@@ -15516,7 +15525,6 @@ rust-dbus-tree
 rust-dbus0.8
 rust-decimal
 rust-defer-drop
-rust-deflate
 rust-deflate64
 rust-defmac
 rust-delharc
@@ -15723,6 +15731,7 @@ rust-field-offset
 rust-figment
 rust-filedescriptor
 rust-file-id
+rust-file-locker
 rust-filesize
 rust-filetime
 rust-filetreelist
@@ -15754,6 +15763,7 @@ rust-format-bytes
 rust-form_urlencoded
 rust-four-cc
 rust-fragile
+rust-freedesktop_entry_parser
 rust-freetype-rs
 rust-freetype-rs0.32
 rust-freetype-rs0.35
@@ -16140,6 +16150,7 @@ rust-indoc1
 rust-inferno
 rust-inflate
 rust-Inflector
+rust-ini_core
 rust-inlinable_string
 rust-inotify
 rust-inotify-sys
@@ -16462,6 +16473,7 @@ rust-monitord-exporter
 rust-monitord
 rust-mpsc_requests
 rust-mptcp-pm
+rust-mp4parse
 rust-msru
 rust-muldiv
 rust-multer
@@ -17285,6 +17297,7 @@ rust-spake2
 rust-spdx
 rust-speakersafetyd
 rust
+rust-speculoos
 rust-speedate
 rust-spin_on
 rust-spin_sleep
@@ -17526,11 +17539,18 @@ rust-tree_magic_mini
 rust-tree-sitter-bash
 rust-tree-sitter-cli
 rust-tree-sitter-config
+rust-tree-sitter-cpp
+rust-tree-sitter-c-sharp
 rust-tree-sitter-c
 rust-tree-sitter-generate
 rust-tree-sitter-highlight
 rust-tree-sitter-language
 rust-tree-sitter-loader
+rust-tree-sitter-lua
+rust-tree-sitter-ocaml
+rust-tree-sitter-php
+rust-tree-sitter-python
+rust-tree-sitter-ruby
 rust-tree-sitter
 rust-tree-sitter-tags
 rust-tree-sitter0.20
