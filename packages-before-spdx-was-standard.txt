@@ -277,7 +277,6 @@ arachne-pnr
 arandr
 ara
 arbor
-arc-gui-clients
 arc
 arc-theme
 ardour6
@@ -1105,7 +1104,6 @@ cpl
 cpmtools
 cppad
 cppcodec
-cpp-hocon
 cpphs
 cpp-httplib
 cppcheck
@@ -3694,7 +3692,6 @@ golang-github-cockroachdb-sentry
 golang-github-codegangsta-inject
 golang-github-colinmarc-hdfs-2
 golang-github-common-nighthawk-figure
-golang-github-containerd-aufs
 golang-github-containerd-btrfs
 golang-github-containerd-cgroups
 golang-github-containerd-cni
@@ -3702,16 +3699,11 @@ golang-github-containerd-console
 golang-github-containerd-continuity
 golang-github-containerd-fifo
 golang-github-containerd-fuse-overlayfs-snapshotter
-golang-github-containerd-imgcrypt
 golang-github-containerd-nri
 golang-github-containerd-runc
-golang-github-containerd-stargz-snapshotter
-golang-github-containerd-ttrpc
-golang-github-containerd-typeurl
 golang-github-containerd-zfs
 golang-github-containernetworking-cni
 golang-github-containernetworking-plugins
-golang-github-containers-ocicrypt
 golang-github-container-storage-interface-spec
 golang-github-coreos-ioprogress
 golang-github-coreos-iptables
@@ -3787,7 +3779,6 @@ golang-github-docker-metrics
 golang-github-docker-slim-uilive
 golang-github-docker-slim-uiprogress
 golang-github-docker-slim-update
-golang-github-docker
 golang-github-docker-units
 golang-github-docopt
 golang-github-dop251-scsu
@@ -4774,7 +4765,6 @@ golang-gvisor
 golang-hein-version
 golang-honnef-tools
 golang-jaytaylor-html2text
-golang-k8s-apiextensions-apiserver
 golang-k8s-apimachinery
 golang-k8s-apiserver
 golang-k8s-api
@@ -4788,7 +4778,6 @@ golang-k8s-kube-aggregator
 golang-k8s-kube-openapi
 golang-k8s-metrics
 golang-k8s-pod-security-admission
-golang-k8s-sample-apiserver
 golang-k8s-sample-controller
 golang-k8s-utils
 golang-layeh-gopher-luar
@@ -7591,6 +7580,7 @@ maven-remote-resources-plugin
 maven-reporting-api
 maven-reporting-impl
 maven-resolver
+maven-resolver2
 maven-resources-plugin
 maven-script-interpreter
 maven-shade-plugin
@@ -7603,6 +7593,7 @@ maven-surefire
 maven-verifier-plugin
 maven-verifier
 maven-wagon
+maven4
 mawk
 maxima
 Mayavi
@@ -12228,7 +12219,6 @@ php-gettext-gettext
 php-gettext-languages
 php-google-recaptcha
 php-guzzlehttp-promises
-php-guzzlehttp-psr7
 php-hamcrest2
 php-htmLawed
 php-http-interop-http-middleware
@@ -12399,8 +12389,6 @@ php-psr-http-server-middleware
 php-psr-link
 php-PsrLog
 php-psr-simple-cache
-php-ramsey-collection
-php-ramsey-uuid
 php-sabre-dav4
 php-sabre-event5
 php-sabre-http5
@@ -12848,7 +12836,7 @@ pyproj
 pypykatz
 pypy
 pypy3.10
-pypy3.9
+pypy3.11
 pyp2rpm
 pyp2spec
 PyQt-builder
@@ -13373,7 +13361,6 @@ python-dbus-client-gen
 python-dbusmock
 python-dbus-python-client-gen
 python-dbus-signature-pyparsing
-python-dbutils
 python-dcrpm
 python-ddt
 python-deap
@@ -17330,7 +17317,6 @@ saclib
 sac
 safecopy
 safekeep
-safelease
 safetyblanket
 sagator
 sage

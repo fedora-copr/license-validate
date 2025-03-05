@@ -317,7 +317,6 @@ arachne-pnr
 arandr
 ara
 arbor
-arc-gui-clients
 arc
 arc-theme
 ardour6
@@ -775,6 +774,7 @@ brightnessctl
 brise
 bristol
 brltty
+browserpass
 brutalchess
 bsd-games
 bsdiff
@@ -1284,7 +1284,6 @@ cpl
 cpmtools
 cppad
 cppcodec
-cpp-hocon
 cpphs
 cpp-httplib
 cppcheck
@@ -1859,6 +1858,7 @@ dynamic-wallpaper-editor
 dynamite
 dyninst
 d0_blind_id
+d2
 d52
 e-antic
 earcut-hpp
@@ -4217,7 +4217,6 @@ golang-github-codegangsta-inject
 golang-github-coder-websocket
 golang-github-colinmarc-hdfs-2
 golang-github-common-nighthawk-figure
-golang-github-containerd-aufs
 golang-github-containerd-btrfs
 golang-github-containerd-cgroups
 golang-github-containerd-cgroups-3
@@ -4226,17 +4225,12 @@ golang-github-containerd-console
 golang-github-containerd-continuity
 golang-github-containerd-fifo
 golang-github-containerd-fuse-overlayfs-snapshotter
-golang-github-containerd-imgcrypt
 golang-github-containerd-nri
 golang-github-containerd-runc
 golang-github-containerd
-golang-github-containerd-stargz-snapshotter
-golang-github-containerd-ttrpc
-golang-github-containerd-typeurl
 golang-github-containerd-zfs
 golang-github-containernetworking-cni
 golang-github-containernetworking-plugins
-golang-github-containers-ocicrypt
 golang-github-container-storage-interface-spec
 golang-github-coreos-ioprogress
 golang-github-coreos-iptables
@@ -4318,7 +4312,6 @@ golang-github-docker-metrics
 golang-github-docker-slim-uilive
 golang-github-docker-slim-uiprogress
 golang-github-docker-slim-update
-golang-github-docker
 golang-github-docker-units
 golang-github-docopt
 golang-github-dominikbraun-graph
@@ -4558,7 +4551,6 @@ golang-github-haproxytech-dataplaneapi
 golang-github-haproxytech-logger
 golang-github-harrymichal-version
 golang-github-hashicorp-cleanhttp
-golang-github-hashicorp-consul
 golang-github-hashicorp-envparse
 golang-github-hashicorp-errwrap
 golang-github-hashicorp-hc-install
@@ -4745,6 +4737,7 @@ golang-github-karrick-godirwalk
 golang-github-karrick-golf
 golang-github-katalix-l2tp
 golang-github-kballard-shellquote
+golang-github-kelseyhightower-envconfig
 golang-github-kelvins-sunrisesunset
 golang-github-kennygrant-sanitize
 golang-github-kevinburke-ssh-config
@@ -4922,7 +4915,6 @@ golang-github-moby-ipvs
 golang-github-moby-locker
 golang-github-moby-patternmatcher
 golang-github-moby-spdystream
-golang-github-moby-swarmkit-2
 golang-github-moby-sys
 golang-github-moby-term
 golang-github-mock
@@ -5550,7 +5542,6 @@ golang-hein-version
 golang-honnef-tools
 golang-howett-plist
 golang-jaytaylor-html2text
-golang-k8s-apiextensions-apiserver
 golang-k8s-apimachinery
 golang-k8s-apiserver
 golang-k8s-api
@@ -5565,7 +5556,6 @@ golang-k8s-kube-aggregator
 golang-k8s-kube-openapi
 golang-k8s-metrics
 golang-k8s-pod-security-admission
-golang-k8s-sample-apiserver
 golang-k8s-sample-controller
 golang-k8s-utils
 golang-layeh-gopher-luar
@@ -7316,6 +7306,7 @@ kronosnet
 krop
 kruler
 krusader
+kryoptic
 ksanecore
 kscope
 kscreenlocker
@@ -7770,6 +7761,7 @@ libchamplain
 libchardet
 libchewing
 libchipcard
+libchrony
 libibcommon
 libical
 libica
@@ -8110,6 +8102,7 @@ libscn
 libscrypt
 libsearpc
 libseccomp
+libsecp256k1-abc
 libsecp256k1
 libsecret
 libsedml
@@ -8452,6 +8445,7 @@ llvm14
 llvm15
 llvm17
 llvm18
+llvm19
 lmdb
 lmdbxx
 lmfit
@@ -8848,6 +8842,7 @@ maven-remote-resources-plugin
 maven-reporting-api
 maven-reporting-impl
 maven-resolver
+maven-resolver2
 maven-resources-plugin
 maven-script-interpreter
 maven-shade-plugin
@@ -8860,6 +8855,7 @@ maven-surefire
 maven-verifier-plugin
 maven-verifier
 maven-wagon
+maven4
 mawk
 maxima
 Mayavi
@@ -10004,6 +10000,7 @@ ocaml-labltk
 ocaml-lacaml
 ocaml-lambda-term
 ocaml-libvirt
+ocaml-linenoise
 ocaml-logs
 ocaml-luv
 ocaml-lwt
@@ -10030,6 +10027,7 @@ ocaml-ocplib-simplex
 ocaml-octavius
 ocaml-odoc
 ocaml-omake
+ocaml-omd
 ocaml-opam-file-format
 ocaml-opam-0install-cudf
 ocaml-ounit
@@ -10039,6 +10037,7 @@ ocaml-pcre
 ocaml-pcre2
 ocaml-perl4caml
 ocaml-postgresql
+ocaml-pprint
 ocaml-pp
 ocaml-ppx-assert
 ocaml-ppx-base
@@ -13696,6 +13695,7 @@ pfstools
 pg_activity
 pgadmin4
 pg_auto_failover
+pgbadger
 pgbouncer
 pgcli
 pgmodeler
@@ -13766,7 +13766,6 @@ php-gettext-gettext
 php-gettext-languages
 php-google-recaptcha
 php-guzzlehttp-promises
-php-guzzlehttp-psr7
 php-hamcrest2
 php-htmLawed
 php-http-interop-http-middleware
@@ -13958,8 +13957,6 @@ php-psr-http-server-middleware
 php-psr-link
 php-PsrLog
 php-psr-simple-cache
-php-ramsey-collection
-php-ramsey-uuid
 php-sabre-dav4
 php-sabre-event5
 php-sabre-http5
@@ -14520,7 +14517,7 @@ pyproj
 pypykatz
 pypy
 pypy3.10
-pypy3.9
+pypy3.11
 pyp2rpm
 pyp2spec
 PyQt-builder
@@ -15145,7 +15142,6 @@ python-dbus-client-gen
 python-dbusmock
 python-dbus-python-client-gen
 python-dbus-signature-pyparsing
-python-dbutils
 python-dcrpm
 python-ddt
 python-deap
@@ -16001,6 +15997,7 @@ python-mizani
 python-mkapi
 python-mkdocs-autorefs
 python-mkdocs-click
+python-mkdocs-d2-plugin
 python-mkdocs-gen-files
 python-mkdocs-get-deps
 python-mkdocs-git-authors-plugin
@@ -16296,6 +16293,7 @@ python-patiencediff
 python-patsy
 python-pbkdf2
 python-pbr
+python-pbs-installer
 python-pcicrawler
 python-pcodedmp
 python-pdfkit
@@ -18923,6 +18921,7 @@ rust-below-model
 rust-below-render
 rust-below
 rust-below-store
+rust-below-tc
 rust-below-view
 rust-bencher
 rust-bigdecimal
@@ -18963,8 +18962,6 @@ rust-block-buffer0.9
 rust-blocking
 rust-block-padding
 rust-block-padding0.2
-rust-blosc2-rs
-rust-blosc2-sys
 rust-blowfish
 rust-blsctl
 rust-bootupd
@@ -19240,6 +19237,8 @@ rust-decimal
 rust-defer-drop
 rust-deflate64
 rust-defmac
+rust-deku_derive
+rust-deku
 rust-delharc
 rust-deranged
 rust-der_derive
@@ -19815,8 +19814,6 @@ rust-ironrdp-pdu
 rust-ironrdp-rdpdr
 rust-ironrdp-rdpsnd
 rust-ironrdp-svc
-rust-isal-rs
-rust-isal-sys
 rust-is_debug
 rust-is-docker
 rust-is_executable
@@ -19899,9 +19896,9 @@ rust-libbpf-rs0.22
 rust-libbpf-rs0.23
 rust-libbpf-sys
 rust-libcramjam
-rust-libcramjam0.6
 rust-libcryptsetup-rs
 rust-libcryptsetup-rs-sys
+rust-libcryptsetup-rs0.11
 rust-libcryptsetup-rs0.9
 rust-libc
 rust-libcst_derive
@@ -19946,6 +19943,7 @@ rust-libz-sys
 rust-lifeguard
 rust-line-numbers
 rust-line-wrap
+rust-linicon-theme
 rust-link-cplusplus
 rust-linked-hash-map
 rust-lino
@@ -20243,6 +20241,7 @@ rust-picky-asn1
 rust-picky-asn1-x509
 rust-picky-asn1-x509_0.12
 rust-picky-asn1_0.8
+rust-picky-krb
 rust-picky
 rust-picky-test-data
 rust-pin-project-internal
@@ -20504,6 +20503,7 @@ rust-rpick
 rust-rpki
 rust-rpm-sequoia
 rust-rsa
+rust-rsconf
 rust-rspec
 rust-rstest_macros
 rust-rstest_reuse
@@ -20792,6 +20792,7 @@ rust-syn
 rust-synstructure0.12
 rust-syn1
 rust-sysinfo0.29
+rust-sysinfo0.30
 rust-sys-locale
 rust-system-deps
 rust-system-deps6
@@ -20919,14 +20920,29 @@ rust-tree-sitter-bash
 rust-tree-sitter-cpp
 rust-tree-sitter-c-sharp
 rust-tree-sitter-c
+rust-tree-sitter-css
+rust-tree-sitter-elixir
 rust-tree-sitter-generate
+rust-tree-sitter-go
+rust-tree-sitter-haskell
+rust-tree-sitter-html
+rust-tree-sitter-javascript
+rust-tree-sitter-java
+rust-tree-sitter-json
+rust-tree-sitter-julia
 rust-tree-sitter-language
 rust-tree-sitter-lua
+rust-tree-sitter-nix
+rust-tree-sitter-objc
 rust-tree-sitter-ocaml
 rust-tree-sitter-php
 rust-tree-sitter-python
 rust-tree-sitter-ruby
+rust-tree-sitter-scala
 rust-tree-sitter
+rust-tree-sitter-toml-ng
+rust-tree-sitter-typescript
+rust-tree-sitter-xml
 rust-tree-sitter0.20
 rust-tree-sitter0.23
 rust-triforce-lv2
@@ -21192,6 +21208,7 @@ rust-yeslogic-fontconfig-sys4
 rust-yoke-derive
 rust-yoke
 rust-yubibomb
+rust-yuvutils-rs
 rust-z-base-32
 rust-zbase32
 rust-zbus_macros4
@@ -21275,7 +21292,6 @@ sad
 safecopy
 safeint
 safekeep
-safelease
 safetyblanket
 sagator
 sage

@@ -18,11 +18,9 @@ lmms                 thm
 man-pages-l10n       ljavorsk mfabian nforro
 man2html             orion patches sergiomb
 mariadb10.11         fjanus hhorak ljavorsk mschorm zmiklank
-mxml                 dcavalca
 ocaml-omake          rjones
 openal-soft          fcami jwrdegoede tdawson
 pypy                 churchyard thrnciar
-pypy3.9              churchyard thrnciar
 ruby                 mtasaka vondruch
 rubygem-rdoc         vondruch
 rust-rpick           bowlofeggs
@@ -39,8 +37,7 @@ avigne     kicad
 bowlofeggs rust-rpick
 bskeggs    kernel
 catanzaro  webkitgtk
-churchyard pypy pypy3.9
-dcavalca   mxml
+churchyard pypy
 eclipseo   clementine
 fcami      openal-soft
 fjanus     mariadb10.11
@@ -83,7 +80,7 @@ tdawson    openal-soft
 than       texlive
 thl        kcbench
 thm        lmms
-thrnciar   pypy pypy3.9
+thrnciar   pypy
 vondruch   ruby rubygem-rdoc
 wtaymans   gstreamer1-doc
 yanqiyu    fcitx5-mozc

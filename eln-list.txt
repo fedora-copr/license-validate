@@ -275,7 +275,6 @@ evolution-data-server
 execstack
 exempi
 exfatprogs
-exiv2
 expat
 expect
 extra-enforcer-rules
@@ -348,7 +347,6 @@ gdk-pixbuf2-modules-extra
 gdm
 geoclue2
 geocode-glib
-geolite2
 gettext
 ghostscript
 gi-docgen
@@ -375,7 +373,6 @@ gnome-connections
 gnome-control-center
 gnome-desktop-testing
 gnome-desktop3
-gnome-devel-docs
 gnome-disk-utility
 gnome-extensions-app
 gnome-font-viewer
@@ -412,6 +409,7 @@ golang-gopkg-russross-blackfriday-2
 google-carlito-fonts
 google-crosextra-caladea-fonts
 google-droid-fonts
+google-gson
 google-guice
 google-noto-emoji-fonts
 google-noto-fonts
@@ -736,6 +734,7 @@ jdom
 jdom2
 jflex
 jitterentropy
+jline
 jna
 jomolhari-fonts
 jose
@@ -767,7 +766,6 @@ keylime
 keylime-agent-rust
 keyutils
 kmod
-koji
 kpatch
 krb5
 kronosnet
@@ -875,7 +873,6 @@ libfontenc
 libfprint
 libgcrypt
 libgee
-libgexiv2
 libgit2
 libglvnd
 libgpg-error
@@ -888,7 +885,6 @@ libguestfs
 libguestfs-winsupport
 libgusb
 libgweather
-libgxps
 libhandy
 libhangul
 libi2cd
@@ -899,7 +895,6 @@ libieee1284
 libijs
 libinput
 libipt
-libiptcdata
 libisoburn
 libisofs
 libjcat
@@ -1052,7 +1047,6 @@ llvm
 llvm18
 lm_sensors
 lmdb
-localsearch
 lockdev
 log4cplus
 log4j
@@ -1116,6 +1110,7 @@ maven-plugin-testing
 maven-plugin-tools
 maven-remote-resources-plugin
 maven-resolver
+maven-resolver2
 maven-resources-plugin
 maven-shade-plugin
 maven-shared-incremental
@@ -1126,6 +1121,7 @@ maven-surefire
 maven-verifier
 maven-verifier-plugin
 maven-wagon
+maven4
 mc
 mcelog
 mcstrans
@@ -1207,7 +1203,6 @@ mysql8.0
 mythes-eo
 nano
 nasm
-nautilus
 nbdkit
 ncompress
 ncurses
@@ -1320,7 +1315,6 @@ pam_wrapper
 pango
 pangomm
 pangomm2.48
-papers
 papi
 pappl
 pappl-retrofit
@@ -1663,14 +1657,17 @@ plexus-cipher
 plexus-classworlds
 plexus-compiler
 plexus-containers
+plexus-interactivity
 plexus-interpolation
 plexus-io
 plexus-languages
 plexus-pom
 plexus-resources
 plexus-sec-dispatcher
+plexus-sec-dispatcher4
 plexus-testing
 plexus-utils
+plexus-utils4
 plexus-xml
 plocate
 plotutils
@@ -2064,6 +2061,7 @@ skopeo
 slang
 slapi-nis
 slf4j
+slf4j2
 slirp4netns
 smartmontools
 smc-tools
@@ -2096,6 +2094,7 @@ sssd
 stalld
 star
 startup-notification
+stax2-api
 stix-fonts
 strace
 stratis-cli
@@ -2248,6 +2247,7 @@ wireless-regdb
 wireplumber
 wireshark
 woff2
+woodstox-core
 words
 wpa_supplicant
 wsdd
@@ -2309,7 +2309,6 @@ yelp-xsl
 yggdrasil
 yggdrasil-worker-package-manager
 zaf
-zenity
 zip
 zlib-ng
 zsh

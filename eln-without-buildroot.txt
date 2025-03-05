@@ -236,9 +236,7 @@ erofs-utils
 espeak-ng
 ethtool
 evolution-data-server
-exempi
 exfatprogs
-exiv2
 expat
 expect
 fabtests
@@ -300,7 +298,6 @@ gdk-pixbuf2-modules-extra
 gdm
 geoclue2
 geocode-glib
-geolite2
 gettext
 ghostscript
 giflib
@@ -326,7 +323,6 @@ gnome-connections
 gnome-control-center
 gnome-desktop-testing
 gnome-desktop3
-gnome-devel-docs
 gnome-disk-utility
 gnome-extensions-app
 gnome-font-viewer
@@ -360,6 +356,7 @@ golang-github-openprinting-ipp-usb
 google-carlito-fonts
 google-crosextra-caladea-fonts
 google-droid-fonts
+google-gson
 google-guice
 google-noto-emoji-fonts
 google-noto-fonts
@@ -653,6 +650,7 @@ jbig2dec
 jbigkit
 jdepend
 jitterentropy
+jline
 jna
 jomolhari-fonts
 jose
@@ -781,20 +779,17 @@ libfontenc
 libfprint
 libgcrypt
 libgee
-libgexiv2
 libgit2
 libglvnd
 libgpg-error
 libgphoto2
 libgpiod
-libgsf
 libgtop2
 libgudev
 libguestfs
 libguestfs-winsupport
 libgusb
 libgweather
-libgxps
 libhandy
 libhangul
 libi2cd
@@ -805,7 +800,6 @@ libieee1284
 libijs
 libinput
 libipt
-libiptcdata
 libisoburn
 libisofs
 libjcat
@@ -829,7 +823,6 @@ libmodulemd
 libmpc
 libmpeg2
 libmspack
-libmtp
 libnbd
 libndp
 libnet
@@ -954,7 +947,6 @@ llhttp
 llvm
 lm_sensors
 lmdb
-localsearch
 lockdev
 log4cplus
 log4j
@@ -997,8 +989,10 @@ mariadb10.11
 marshalparser
 maven
 maven-resolver
+maven-resolver2
 maven-shared-utils
 maven-wagon
+maven4
 mc
 mcelog
 mcstrans
@@ -1054,7 +1048,6 @@ mysql-selinux
 mysql8.0
 mythes-eo
 nano
-nautilus
 nbdkit
 ncurses
 ndctl
@@ -1146,7 +1139,6 @@ pam
 pango
 pangomm
 pangomm2.48
-papers
 papi
 pappl
 pappl-retrofit
@@ -1375,9 +1367,13 @@ pkgconf
 plexus-cipher
 plexus-classworlds
 plexus-containers
+plexus-interactivity
 plexus-interpolation
 plexus-sec-dispatcher
+plexus-sec-dispatcher4
 plexus-utils
+plexus-utils4
+plexus-xml
 plocate
 plotutils
 plymouth
@@ -1718,6 +1714,7 @@ skopeo
 slang
 slapi-nis
 slf4j
+slf4j2
 slirp4netns
 smartmontools
 smc-tools
@@ -1747,6 +1744,7 @@ sssd
 stalld
 star
 startup-notification
+stax2-api
 stix-fonts
 strace
 stratis-cli
@@ -1885,6 +1883,7 @@ wireguard-tools
 wireless-regdb
 wireplumber
 wireshark
+woodstox-core
 words
 wpa_supplicant
 wsdd
@@ -1935,7 +1934,6 @@ yara
 yggdrasil
 yggdrasil-worker-package-manager
 zaf
-zenity
 zip
 zlib-ng
 zsh
