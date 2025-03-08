@@ -643,6 +643,7 @@ boxed-cpp
 boxes
 Box2D
 box64
+bpfilter
 bpfman
 bpfmon
 bpftool
@@ -3484,7 +3485,6 @@ golang-github-containerd-continuity
 golang-github-containerd-fifo
 golang-github-containerd-fuse-overlayfs-snapshotter
 golang-github-containerd-nri
-golang-github-containerd-runc
 golang-github-containerd
 golang-github-containerd-zfs
 golang-github-containernetworking-cni
@@ -3804,7 +3804,6 @@ golang-github-minio-sha256-simd
 golang-github-minio
 golang-github-minio-6
 golang-github-mistifyio-zfs
-golang-github-mitchellh-cli
 golang-github-mmcloughlin-avo
 golang-github-moby-buildkit
 golang-github-moby-ipvs
@@ -5895,7 +5894,6 @@ libgeopm
 libgexiv2
 libghemical
 libgit2_1.8
-libglademm24
 libglibutil
 libglvnd
 libgnome-games-support
@@ -6269,6 +6267,7 @@ libtbox
 libtcd
 libtdb
 libteam
+libtelnet
 libtevent
 libtexprintf
 libthai
@@ -6461,7 +6460,6 @@ lld17
 lld18
 llhttp
 llmnrd
-llvm-bolt
 llvm
 llvm-test-suite
 llvm14
@@ -11570,7 +11568,6 @@ polkit-pkla-compat
 polkit-qt
 polkit-qt-1
 polkit
-polly
 polyclipping
 polyclipping2
 polyglot-chess
@@ -11709,7 +11706,6 @@ pulseview
 pungi
 puppet-firewalld
 puppet
-purple-facebook
 purple-googlechat
 purple-mm-sms
 pveclib
@@ -12823,7 +12819,6 @@ python-nmap
 python-nodeenv
 python-node-semver
 python-normality
-python-nose-testconfig
 python-nose2
 python-notebook-shim
 python-notebook
@@ -12971,7 +12966,6 @@ python-platformio
 python-plotly
 python-plotnine
 python-pluggy
-python-pluggy1.3
 python-plugincode
 python-pluginlib
 python-ply
@@ -13251,7 +13245,6 @@ python-pytest-vcr
 python-pytest-venv
 python-pytest-xdist
 python-pytest-xvfb
-python-pytest7
 python-python-fcl
 python-python-multipart
 python-python-ulid
@@ -13360,6 +13353,7 @@ python-rnc2rng
 python-robosignatory
 python-robot-detection
 python-robotframework
+python-roman-numerals-py
 python-roman
 python-rope
 python-ROPGadget
@@ -13624,6 +13618,7 @@ python-tld
 python-tmuxp
 python-token-bucket
 python-toml-adapt
+python-toml-cli
 python-tomli-w
 python-toposort
 python-torchaudio
@@ -15121,6 +15116,7 @@ rust-atomic
 rust-atomic-waker
 rust-atomic0.5
 rust-atty
+rust-audiopus_sys
 rust-autocfg
 rust-auto_enums
 rust-automod
@@ -15774,6 +15770,7 @@ rust-form_urlencoded
 rust-four-cc
 rust-fragile
 rust-freedesktop_entry_parser
+rust-freedesktop-icons
 rust-freetype-rs
 rust-freetype-rs0.32
 rust-freetype-rs0.35
@@ -16022,8 +16019,11 @@ rust-gtk4-sys0.8
 rust-gtk4_0.7
 rust-gtk4_0.8
 rust-gufo-common
+rust-gufo-common0.1
 rust-gufo-exif
+rust-gufo-exif0.1
 rust-gufo-jpeg
+rust-gufo-jpeg0.1
 rust-gvdb-macros
 rust-gvdb
 rust-gweather-sys
@@ -16198,6 +16198,7 @@ rust-ipnetwork0.17
 rust-iri-string
 rust-ironrdp-ainput
 rust-ironrdp-cliprdr
+rust-ironrdp-connector
 rust-ironrdp-core
 rust-ironrdp-displaycontrol
 rust-ironrdp-dvc
@@ -16361,6 +16362,7 @@ rust-libz-sys
 rust-lifeguard
 rust-line-numbers
 rust-line-wrap
+rust-linicon
 rust-linicon-theme
 rust-link-cplusplus
 rust-linked-hash-map
@@ -16371,6 +16373,7 @@ rust-linux_proc
 rust-linux-raw-sys
 rust-linux-raw-sys0.3
 rust-linux-raw-sys0.4
+rust-linux-raw-sys0.6
 rust-listenfd
 rust-litrs
 rust-llvm-bitcode
@@ -16603,6 +16606,7 @@ rust-nu-term-grid
 rust-nu-test-support
 rust-nu-utils
 rust-object
+rust-ocb3
 rust-oci-spec
 rust-octseq
 rust-oid-registry
@@ -16633,6 +16637,7 @@ rust-openxr
 rust-openxr-sys
 rust-option-ext
 rust-option-operations
+rust-opus
 rust-ordered-float
 rust-ordered-float2
 rust-ordered-float3
@@ -17082,6 +17087,7 @@ rust-rust-ini
 rust-rustix-openpty
 rust-rustix
 rust-rustix0.37
+rust-rustix0.38
 rust-rustls-native-certs
 rust-rustls-native-certs0.6
 rust-rustls-native-certs0.7
@@ -17169,6 +17175,7 @@ rust-sequoia-net
 rust-sequoia-octopus-librnp
 rust-sequoia-openpgp-mt
 rust-sequoia-openpgp
+rust-sequoia-openpgp1
 rust-sequoia-policy-config
 rust-sequoia-sop
 rust-sequoia-sq
@@ -17331,6 +17338,7 @@ rust-ssh-cipher
 rust-ssh-encoding
 rust-ssh-key-dir
 rust-ssh-key
+rust-sspi
 rust-stability
 rust-stable_deref_trait
 rust-stable-pattern
@@ -17407,6 +17415,7 @@ rust-tap
 rust-target-lexicon
 rust-target-lexicon0.12
 rust-target
+rust-target-triple
 rust-tar
 rust-taskchampion
 rust-tealdeer
@@ -17568,18 +17577,21 @@ rust-tree-sitter-julia
 rust-tree-sitter-language
 rust-tree-sitter-loader
 rust-tree-sitter-lua
+rust-tree-sitter-make
 rust-tree-sitter-nix
 rust-tree-sitter-objc
 rust-tree-sitter-ocaml
 rust-tree-sitter-php
 rust-tree-sitter-python
 rust-tree-sitter-ruby
+rust-tree-sitter-rust
 rust-tree-sitter-scala
 rust-tree-sitter
 rust-tree-sitter-tags
 rust-tree-sitter-toml-ng
 rust-tree-sitter-typescript
 rust-tree-sitter-xml
+rust-tree-sitter-yaml
 rust-tree-sitter0.20
 rust-tree-sitter0.23
 rust-triforce-lv2
@@ -18151,6 +18163,7 @@ shc
 shdoc
 sheepdog
 shell-color-prompt
+shelldap
 ShellCheck
 shellinabox
 shellz
@@ -18459,6 +18472,7 @@ stax2-api
 stb
 stdair
 stduuid
+steam-devices
 steghide
 steinberg-bravura-fonts
 steinberg-petaluma-fonts
@@ -18840,6 +18854,7 @@ trayscale
 treeland-protocols
 treelayout
 tree-pkg
+tree-sitter-elixir
 tree-sitter-java
 tree-sitter
 tree-sitter-srpm-macros

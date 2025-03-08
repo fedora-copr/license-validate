@@ -1,5 +1,6 @@
 389-ds-base
 CUnit
+CppMicroServices
 Cython
 HdrHistogram_c
 Judy
@@ -132,6 +133,7 @@ cairomm1.16
 capnproto
 capstone
 catatonit
+catch
 catch1
 cepces
 ceph
@@ -146,6 +148,7 @@ chrony
 chrpath
 cifs-utils
 cim-schema
+civetweb
 cjose
 clang18
 classloader-leak-test-framework
@@ -275,6 +278,7 @@ evolution-data-server
 execstack
 exempi
 exfatprogs
+exiv2
 expat
 expect
 extra-enforcer-rules
@@ -373,6 +377,7 @@ gnome-connections
 gnome-control-center
 gnome-desktop-testing
 gnome-desktop3
+gnome-devel-docs
 gnome-disk-utility
 gnome-extensions-app
 gnome-font-viewer
@@ -406,6 +411,7 @@ golang-github-cpuguy83-md2man
 golang-github-openprinting-goipp
 golang-github-openprinting-ipp-usb
 golang-gopkg-russross-blackfriday-2
+google-benchmark
 google-carlito-fonts
 google-crosextra-caladea-fonts
 google-droid-fonts
@@ -743,6 +749,7 @@ js-d3-flame-graph
 jsch
 json-c
 json-glib
+jsoncpp
 jsoup
 jsr-305
 jss
@@ -873,6 +880,7 @@ libfontenc
 libfprint
 libgcrypt
 libgee
+libgexiv2
 libgit2
 libglvnd
 libgpg-error
@@ -885,6 +893,7 @@ libguestfs
 libguestfs-winsupport
 libgusb
 libgweather
+libgxps
 libhandy
 libhangul
 libi2cd
@@ -895,6 +904,7 @@ libieee1284
 libijs
 libinput
 libipt
+libiptcdata
 libisoburn
 libisofs
 libjcat
@@ -1036,7 +1046,10 @@ libzdnn
 libzfcphbaapi
 libzip
 libzpc
+linenoise
 linux-firmware
+linux-sgx
+linux-sgx-enclaves-prebuilt
 linuxdoc-tools
 linuxptp
 lksctp-tools
@@ -1047,6 +1060,7 @@ llvm
 llvm18
 lm_sensors
 lmdb
+localsearch
 lockdev
 log4cplus
 log4j
@@ -1203,6 +1217,7 @@ mysql8.0
 mythes-eo
 nano
 nasm
+nautilus
 nbdkit
 ncompress
 ncurses
@@ -1315,6 +1330,7 @@ pam_wrapper
 pango
 pangomm
 pangomm2.48
+papers
 papi
 pappl
 pappl-retrofit
@@ -1366,9 +1382,7 @@ perl-Compress-Raw-Zlib
 perl-Config-AutoConf
 perl-Config-Perl-V
 perl-Convert-ASN1
-perl-Convert-Base32
 perl-Crypt-DES
-perl-Crypt-URandom
 perl-DBD-MariaDB
 perl-DBD-MySQL
 perl-DBD-Pg
@@ -1507,7 +1521,6 @@ perl-Mozilla-CA
 perl-Mozilla-PublicSuffix
 perl-NTLM
 perl-Net-HTTP
-perl-Net-IP
 perl-Net-Ping
 perl-Net-SMTP-SSL
 perl-Net-SNMP
@@ -2045,6 +2058,7 @@ setup
 sg3_utils
 sgml-common
 sgpio
+sgx-rpm-macros
 shaderc
 shadow-utils
 shared-mime-info
@@ -2077,6 +2091,7 @@ sound-theme-freedesktop
 soundtouch
 source-highlight
 spausedd
+spdlog
 speech-dispatcher
 speex
 speexdsp
@@ -2090,6 +2105,7 @@ sqlite
 squashfs-tools
 squid
 sscg
+sshpass
 sssd
 stalld
 star
@@ -2143,6 +2159,7 @@ thermald
 time
 tinycdb
 tinysparql
+tinyxml2
 tk
 tk8
 tlog
@@ -2309,6 +2326,7 @@ yelp-xsl
 yggdrasil
 yggdrasil-worker-package-manager
 zaf
+zenity
 zip
 zlib-ng
 zsh

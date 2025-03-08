@@ -759,6 +759,7 @@ boxed-cpp
 boxes
 Box2D
 box64
+bpfilter
 bpfman
 bpfmon
 bpftool
@@ -4246,7 +4247,6 @@ golang-github-containerd-continuity
 golang-github-containerd-fifo
 golang-github-containerd-fuse-overlayfs-snapshotter
 golang-github-containerd-nri
-golang-github-containerd-runc
 golang-github-containerd
 golang-github-containerd-zfs
 golang-github-containernetworking-cni
@@ -4428,7 +4428,6 @@ golang-github-freetype
 golang-github-frostbyte73-core
 golang-github-fsnotify
 golang-github-fsouza-dockerclient
-golang-github-fvbommel-sortorder
 golang-github-fvbommel-util
 golang-github-gabriel-vasile-mimetype
 golang-github-gammazero-deque
@@ -4565,7 +4564,6 @@ golang-github-hailocab-hostpool
 golang-github-hairyhenderson-codeowners
 golang-github-hako-durafmt
 golang-github-hamba-avro2
-golang-github-hanwen-fuse
 golang-github-hanwen-fuse-2
 golang-github-haproxytech-client-native
 golang-github-haproxytech-config-parser
@@ -4918,7 +4916,6 @@ golang-github-minio
 golang-github-minio-6
 golang-github-miolini-datacounter
 golang-github-mistifyio-zfs
-golang-github-mitchellh-cli
 golang-github-mitchellh-colorstring
 golang-github-mitchellh-copystructure
 golang-github-mitchellh-hashstructure
@@ -5369,7 +5366,6 @@ golang-github-tomnomnom-xtermcolor
 golang-github-tonistiigi-actions-cache
 golang-github-tonistiigi-archvariant
 golang-github-tonistiigi-fsutil
-golang-github-tonistiigi-rosetta
 golang-github-tonistiigi-units
 golang-github-tonistiigi-vt100
 golang-github-trafficstars-metrics
@@ -7745,7 +7741,6 @@ libghemical
 libgit2-glib
 libgit2
 libgit2_1.8
-libglademm24
 libglade2
 libgle
 libglib-testing
@@ -8474,7 +8469,6 @@ lld17
 lld18
 llhttp
 llmnrd
-llvm-bolt
 llvm
 llvm-test-suite
 llvm11
@@ -14325,7 +14319,6 @@ polkit-pkla-compat
 polkit-qt
 polkit-qt-1
 polkit
-polly
 polybar
 polyclipping
 polyclipping2
@@ -14498,7 +14491,6 @@ pungi
 puppet-firewalld
 puppet
 pure-ftpd
-purple-facebook
 purple-googlechat
 purple-mm-sms
 putty
@@ -15562,7 +15554,6 @@ python-geoip2
 python-geojson
 python-geomdl
 python-geopandas
-python-geoplot
 python-geopy
 python-geotiler
 python-gerritlib
@@ -16210,7 +16201,6 @@ python-noggin-messages
 python-noiseprotocol
 python-normality
 python-nose
-python-nose-testconfig
 python-nose2
 python-notebook-shim
 python-notebook
@@ -16422,7 +16412,6 @@ python-play-scraper
 python-plotly
 python-plotnine
 python-pluggy
-python-pluggy1.3
 python-pluginbase
 python-plugincode
 python-pluginlib
@@ -16815,7 +16804,6 @@ python-pytest-watch
 python-pytest-xdist
 python-pytest-xprocess
 python-pytest-xvfb
-python-pytest7
 python-python-fcl
 python-python-multipart
 python-python-ulid
@@ -16968,6 +16956,7 @@ python-rnc2rng
 python-robosignatory
 python-robot-detection
 python-robotframework
+python-roman-numerals-py
 python-roman
 python-rope
 python-ROPGadget
@@ -17350,6 +17339,7 @@ python-tmuxp
 python-token-bucket
 python-tokenize-rt
 python-toml-adapt
+python-toml-cli
 python-tomli
 python-tomli-w
 python-tomlkit
@@ -18154,7 +18144,6 @@ regexp
 regextester
 regina-rexx
 regionset
-reg
 rekollect
 rekonq
 relaxng-datatype-java
@@ -19260,6 +19249,7 @@ rust-atomic
 rust-atomic-waker
 rust-atomic0.5
 rust-atty
+rust-audiopus_sys
 rust-autocfg
 rust-auto_enums
 rust-automod
@@ -19915,6 +19905,7 @@ rust-form_urlencoded
 rust-four-cc
 rust-fragile
 rust-freedesktop_entry_parser
+rust-freedesktop-icons
 rust-freetype-rs
 rust-freetype-rs0.32
 rust-freetype-rs0.35
@@ -20163,8 +20154,11 @@ rust-gtk4-sys0.8
 rust-gtk4_0.7
 rust-gtk4_0.8
 rust-gufo-common
+rust-gufo-common0.1
 rust-gufo-exif
+rust-gufo-exif0.1
 rust-gufo-jpeg
+rust-gufo-jpeg0.1
 rust-gvdb-macros
 rust-gvdb
 rust-gweather-sys
@@ -20339,6 +20333,7 @@ rust-ipnetwork0.17
 rust-iri-string
 rust-ironrdp-ainput
 rust-ironrdp-cliprdr
+rust-ironrdp-connector
 rust-ironrdp-core
 rust-ironrdp-displaycontrol
 rust-ironrdp-dvc
@@ -20502,6 +20497,7 @@ rust-libz-sys
 rust-lifeguard
 rust-line-numbers
 rust-line-wrap
+rust-linicon
 rust-linicon-theme
 rust-link-cplusplus
 rust-linked-hash-map
@@ -20512,6 +20508,7 @@ rust-linux_proc
 rust-linux-raw-sys
 rust-linux-raw-sys0.3
 rust-linux-raw-sys0.4
+rust-linux-raw-sys0.6
 rust-lipsum
 rust-listenfd
 rust-litrs
@@ -20745,6 +20742,7 @@ rust-nu-term-grid
 rust-nu-test-support
 rust-nu-utils
 rust-object
+rust-ocb3
 rust-oci-spec
 rust-octseq
 rust-oid-registry
@@ -20775,6 +20773,7 @@ rust-openxr
 rust-openxr-sys
 rust-option-ext
 rust-option-operations
+rust-opus
 rust-ordered-float
 rust-ordered-float2
 rust-ordered-float3
@@ -21225,6 +21224,7 @@ rust-rust-ini
 rust-rustix-openpty
 rust-rustix
 rust-rustix0.37
+rust-rustix0.38
 rust-rustls-native-certs
 rust-rustls-native-certs0.6
 rust-rustls-native-certs0.7
@@ -21312,6 +21312,7 @@ rust-sequoia-net
 rust-sequoia-octopus-librnp
 rust-sequoia-openpgp-mt
 rust-sequoia-openpgp
+rust-sequoia-openpgp1
 rust-sequoia-policy-config
 rust-sequoia-sop
 rust-sequoia-sq
@@ -21474,6 +21475,7 @@ rust-ssh-cipher
 rust-ssh-encoding
 rust-ssh-key-dir
 rust-ssh-key
+rust-sspi
 rust-stability
 rust-stable_deref_trait
 rust-stable-pattern
@@ -21550,6 +21552,7 @@ rust-tap
 rust-target-lexicon
 rust-target-lexicon0.12
 rust-target
+rust-target-triple
 rust-tar
 rust-taskchampion
 rust-tealdeer
@@ -21711,18 +21714,21 @@ rust-tree-sitter-julia
 rust-tree-sitter-language
 rust-tree-sitter-loader
 rust-tree-sitter-lua
+rust-tree-sitter-make
 rust-tree-sitter-nix
 rust-tree-sitter-objc
 rust-tree-sitter-ocaml
 rust-tree-sitter-php
 rust-tree-sitter-python
 rust-tree-sitter-ruby
+rust-tree-sitter-rust
 rust-tree-sitter-scala
 rust-tree-sitter
 rust-tree-sitter-tags
 rust-tree-sitter-toml-ng
 rust-tree-sitter-typescript
 rust-tree-sitter-xml
+rust-tree-sitter-yaml
 rust-tree-sitter0.20
 rust-tree-sitter0.23
 rust-triforce-lv2
@@ -22724,6 +22730,7 @@ stax2-api
 stb
 stdair
 stduuid
+steam-devices
 steghide
 steinberg-bravura-fonts
 steinberg-petaluma-fonts
@@ -23223,6 +23230,7 @@ trayscale
 treeland-protocols
 treelayout
 tree-pkg
+tree-sitter-elixir
 tree-sitter-java
 tree-sitter
 tree-sitter-srpm-macros

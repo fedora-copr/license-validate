@@ -236,7 +236,9 @@ erofs-utils
 espeak-ng
 ethtool
 evolution-data-server
+exempi
 exfatprogs
+exiv2
 expat
 expect
 fabtests
@@ -323,6 +325,7 @@ gnome-connections
 gnome-control-center
 gnome-desktop-testing
 gnome-desktop3
+gnome-devel-docs
 gnome-disk-utility
 gnome-extensions-app
 gnome-font-viewer
@@ -779,17 +782,20 @@ libfontenc
 libfprint
 libgcrypt
 libgee
+libgexiv2
 libgit2
 libglvnd
 libgpg-error
 libgphoto2
 libgpiod
+libgsf
 libgtop2
 libgudev
 libguestfs
 libguestfs-winsupport
 libgusb
 libgweather
+libgxps
 libhandy
 libhangul
 libi2cd
@@ -800,6 +806,7 @@ libieee1284
 libijs
 libinput
 libipt
+libiptcdata
 libisoburn
 libisofs
 libjcat
@@ -823,6 +830,7 @@ libmodulemd
 libmpc
 libmpeg2
 libmspack
+libmtp
 libnbd
 libndp
 libnet
@@ -938,6 +946,8 @@ libzfcphbaapi
 libzip
 libzpc
 linux-firmware
+linux-sgx
+linux-sgx-enclaves-prebuilt
 linuxdoc-tools
 linuxptp
 lksctp-tools
@@ -947,6 +957,7 @@ llhttp
 llvm
 lm_sensors
 lmdb
+localsearch
 lockdev
 log4cplus
 log4j
@@ -1048,6 +1059,7 @@ mysql-selinux
 mysql8.0
 mythes-eo
 nano
+nautilus
 nbdkit
 ncurses
 ndctl
@@ -1139,6 +1151,7 @@ pam
 pango
 pangomm
 pangomm2.48
+papers
 papi
 pappl
 pappl-retrofit
@@ -1181,9 +1194,7 @@ perl-Compress-Raw-Lzma
 perl-Compress-Raw-Zlib
 perl-Config-Perl-V
 perl-Convert-ASN1
-perl-Convert-Base32
 perl-Crypt-DES
-perl-Crypt-URandom
 perl-DBD-MariaDB
 perl-DBD-MySQL
 perl-DBD-Pg
@@ -1264,7 +1275,6 @@ perl-Module-Signature
 perl-Mozilla-CA
 perl-NTLM
 perl-Net-HTTP
-perl-Net-IP
 perl-Net-Ping
 perl-Net-SNMP
 perl-Net-SSLeay
@@ -1291,13 +1301,11 @@ perl-Storable
 perl-String-ShellQuote
 perl-Sub-Exporter
 perl-Sub-Install
-perl-Sub-Uplevel
 perl-Sys-Syslog
 perl-Term-ANSIColor
 perl-Term-Cap
 perl-Term-Table
 perl-TermReadKey
-perl-Test-Exception
 perl-Test-Harness
 perl-Test-NoWarnings
 perl-Test-Simple
@@ -1740,6 +1748,7 @@ sqlite
 squashfs-tools
 squid
 sscg
+sshpass
 sssd
 stalld
 star
@@ -1934,6 +1943,7 @@ yara
 yggdrasil
 yggdrasil-worker-package-manager
 zaf
+zenity
 zip
 zlib-ng
 zsh
