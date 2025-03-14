@@ -3537,6 +3537,7 @@ golang-github-edwvee-exiffix
 golang-github-elazarl-goproxy
 golang-github-elliotchance-orderedmap
 golang-github-emicklei-proto
+golang-github-emirpasic-gods2
 golang-github-envoyproxy-control-plane
 golang-github-envoyproxy-protoc-gen-validate
 golang-github-ergochat-readline
@@ -5053,6 +5054,7 @@ javassist
 Java-WebSocket
 java-21-openjdk-portable
 java-21-openjdk
+java-25-openjdk-portable
 jaxb-api
 jaxb-api2
 jaxb-dtd-parser
@@ -6354,6 +6356,7 @@ libxfce4windowing
 libXfixes
 libXfont2
 libXft
+libxchange
 libXinerama
 libXISF
 libXi
@@ -6580,6 +6583,7 @@ lv2-vocoder-plugins
 lv2-x42-plugins
 lv2-zynadd-plugins
 lw-cli
+lwp
 lwtools
 lxappearance-obconf
 lxappearance
@@ -9688,6 +9692,7 @@ perl-Math-ConvexHull
 perl-Math-Derivative
 perl-Math-Expression-Evaluator
 perl-Math-Factor-XS
+perl-Math-FFT
 perl-Math-Geometry-Voronoi
 perl-Math-GMP
 perl-Math-Int128
@@ -12185,7 +12190,6 @@ python-django-mailman3
 python-django-pdb
 python-django-q2
 python-django-rest-framework
-python-django
 python-django-uuslug
 python-django4.2
 python-django5
@@ -15054,6 +15058,7 @@ rust-asahi-wifisync
 rust-ascii-canvas
 rust-ascii
 rust-ashpd
+rust-ashpd0.9
 rust-ash
 rust-askalono-cli
 rust-askalono
@@ -15272,6 +15277,7 @@ rust-cairo-sys-rs0.19
 rust-calamine
 rust-calloop
 rust-calloop-wayland-source
+rust-calloop0.13
 rust-camellia
 rust-camino
 rust-capng
@@ -15294,6 +15300,7 @@ rust-cargo_metadata0.15
 rust-cargo_metadata0.18
 rust-cargo-options
 rust-cargo-platform
+rust-cargo-platform0.1
 rust-cargo-readme
 rust-cargo
 rust-cargo_toml
@@ -15550,6 +15557,7 @@ rust-derive-new
 rust-derive_utils
 rust-derive-where
 rust-der-parser
+rust-derp
 rust-der
 rust-desed
 rust-deser-hjson
@@ -16144,6 +16152,7 @@ rust-imago
 rust-imara-diff
 rust-imgref
 rust-imperative
+rust-implib
 rust-impl-more
 rust-impls
 rust-im-rc
@@ -16197,6 +16206,8 @@ rust-ipnetwork
 rust-ipnetwork0.17
 rust-iri-string
 rust-ironrdp-ainput
+rust-ironrdp-async
+rust-ironrdp-blocking
 rust-ironrdp-cliprdr
 rust-ironrdp-connector
 rust-ironrdp-core
@@ -16208,6 +16219,7 @@ rust-ironrdp-input
 rust-ironrdp-pdu
 rust-ironrdp-rdpdr
 rust-ironrdp-rdpsnd
+rust-ironrdp-session
 rust-ironrdp-svc
 rust-is_ci
 rust-is_debug
@@ -16397,6 +16409,7 @@ rust-loop9
 rust-lopdf
 rust-lru-cache
 rust-lru
+rust-lru0.12
 rust-lscolors
 rust-lscolors0.13
 rust-lsd
@@ -16757,6 +16770,7 @@ rust-pin-project-internal
 rust-pin-project-lite
 rust-pin-project
 rust-pin-utils
+rust-pipeline
 rust-piper
 rust-pipe
 rust-pipe-trait
@@ -16992,6 +17006,7 @@ rust-regex-syntax0.6
 rust-regex-test
 rust-region
 rust-reis
+rust-reis0.2
 rust-relative-path
 rust-relm4-components
 rust-relm4-css
@@ -17072,6 +17087,7 @@ rust-rustc-demangle
 rust-rustc-hash
 rust-rustc-hash1
 rust-rustc-serialize
+rust-rustc-stable-hash
 rust-rustc_version
 rust-rustdct
 rust-rust_decimal_macros
@@ -17377,9 +17393,11 @@ rust-strum_macros
 rust-strum_macros0.21
 rust-strum_macros0.24
 rust-strum_macros0.25
+rust-strum_macros0.26
 rust-strum
 rust-strum0.21
 rust-strum0.25
+rust-strum0.26
 rust-subtle
 rust-sudo
 rust-suggest
@@ -17599,6 +17617,7 @@ rust-triomphe
 rust-trybuild
 rust-trybuild2
 rust-trycmd
+rust-tryfn
 rust-try-lock
 rust-tss-esapi
 rust-tss-esapi-sys
@@ -17940,6 +17959,7 @@ rust2rpm
 rutabaga-gfx-ffi
 R-utf8
 R-vcd
+rvm
 R-wavethresh
 R-websocket
 R-whisker
@@ -18054,6 +18074,7 @@ screen
 scribus
 scrub
 scsi-target-utils
+sc
 scx_c_schedulers
 scythia
 sdbus-cpp
@@ -18393,6 +18414,7 @@ speech-dispatcher
 speech-tools
 speexdsp
 speex
+spglib
 spherical-cow-backgrounds
 sphinx
 spicctrl

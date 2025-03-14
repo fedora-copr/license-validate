@@ -1,10 +1,11 @@
 Maintainers by package:
 avogadro2-libs       sagitter
+ccrtp                ixs smani
 clementine           eclipseo
 fcitx5-mozc          music yanqiyu
 frescobaldi          limb
 ghc-polyparse        petersen
-gstreamer1-doc       wtaymans
+gstreamer1-doc       limb wtaymans
 jbosscache-support   orphan
 julia                nalimilan
 julius               spot
@@ -41,13 +42,14 @@ churchyard pypy
 eclipseo   clementine
 fcami      openal-soft
 fjanus     mariadb10.11
+ixs        ccrtp
 jcline     kernel
 jforbes    kernel
 jnovy      texlive
 jwboyer    kernel
 jwrdegoede kernel openal-soft
 kernel-maint kernel
-limb       frescobaldi
+limb       frescobaldi gstreamer1-doc
 linville   kernel
 ljavorsk   man-pages-l10n mariadb10.11
 lkundrak   kicad
@@ -70,7 +72,7 @@ rjones     ocaml-omake
 sagitter   avogadro2-libs
 sandeen    kernel
 sergiomb   man2html
-smani      libwebp
+smani      ccrtp libwebp
 spot       julius texlive tkimg
 steved     kernel
 stevenfalco kicad

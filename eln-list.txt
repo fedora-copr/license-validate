@@ -1,6 +1,5 @@
 389-ds-base
 CUnit
-CppMicroServices
 Cython
 HdrHistogram_c
 Judy
@@ -148,7 +147,6 @@ chrony
 chrpath
 cifs-utils
 cim-schema
-civetweb
 cjose
 clang18
 classloader-leak-test-framework
@@ -411,7 +409,6 @@ golang-github-cpuguy83-md2man
 golang-github-openprinting-goipp
 golang-github-openprinting-ipp-usb
 golang-gopkg-russross-blackfriday-2
-google-benchmark
 google-carlito-fonts
 google-crosextra-caladea-fonts
 google-droid-fonts
@@ -424,6 +421,7 @@ google-noto-sans-cjk-vf-fonts
 google-noto-serif-cjk-vf-fonts
 google-roboto-slab-fonts
 gperf
+gperftools
 gpgme
 gpsd
 grafana
@@ -749,7 +747,6 @@ js-d3-flame-graph
 jsch
 json-c
 json-glib
-jsoncpp
 jsoup
 jsr-305
 jss
@@ -1046,7 +1043,6 @@ libzdnn
 libzfcphbaapi
 libzip
 libzpc
-linenoise
 linux-firmware
 linux-sgx
 linux-sgx-enclaves-prebuilt
@@ -1058,6 +1054,7 @@ lldpd
 llhttp
 llvm
 llvm18
+llvm19
 lm_sensors
 lmdb
 localsearch
@@ -1658,6 +1655,7 @@ php-pecl-redis6
 php-pecl-rrd
 php-pecl-xdebug3
 php-pecl-zip
+picocli
 pigz
 pinentry
 pipewire
@@ -2091,7 +2089,6 @@ sound-theme-freedesktop
 soundtouch
 source-highlight
 spausedd
-spdlog
 speech-dispatcher
 speex
 speexdsp
@@ -2159,7 +2156,6 @@ thermald
 time
 tinycdb
 tinysparql
-tinyxml2
 tk
 tk8
 tlog

@@ -150,7 +150,8 @@ catalyst contains LicenseRef-Callaway, needs to be manually converted
 catimg warning: valid as old and new and no changelong entry, please check
 cava warning: valid as old and new and no changelong entry, please check
 cbios contains LicenseRef-Callaway, needs to be manually converted
-ccrtp
+ccrtp warning: not valid neither as Callaway nor as SPDX, please check
+ccrtp warning: not valid neither as Callaway nor as SPDX, please check
 cc1541 warning: valid as old and new and no changelong entry, please check
 cc65 warning: valid as old and new and no changelong entry, please check
 cdk contains LicenseRef-Callaway, needs to be manually converted
@@ -2107,7 +2108,6 @@ lumina-desktop contains LicenseRef-Callaway, needs to be manually converted
 lutok contains LicenseRef-Callaway, needs to be manually converted
 lv2-mdala-plugins contains LicenseRef-Callaway, needs to be manually converted
 lv2 warning: valid as old and new and no changelong entry, please check
-lwp contains LicenseRef-Callaway, needs to be manually converted
 lxc contains LicenseRef-Callaway, needs to be manually converted
 lxqt-about contains LicenseRef-Callaway, needs to be manually converted
 lxqt-openssh-askpass contains LicenseRef-Callaway, needs to be manually converted
@@ -2571,7 +2571,6 @@ perl-Library-CallNumber-LC contains LicenseRef-Callaway, needs to be manually co
 perl-libwhisker2 contains LicenseRef-Callaway, needs to be manually converted
 perl-Locale-Maketext-Fuzzy warning: valid as old and new and no changelong entry, please check
 perl-Mail-RFC822-Address warning: valid as old and new and no changelong entry, please check
-perl-Math-FFT - can be trivially converted to ( GPL-1.0-or-later OR Artistic-1.0-Perl ) AND LicenseRef-Fedora-Public-Domain
 perl-Math-Random-ISAAC contains LicenseRef-Callaway, needs to be manually converted
 perl-Math-Random-ISAAC-XS contains LicenseRef-Callaway, needs to be manually converted
 perl-Math-Random-MT contains LicenseRef-Callaway, needs to be manually converted
@@ -3424,7 +3423,6 @@ python-nltk contains LicenseRef-Callaway, needs to be manually converted
 python-nmrglue contains LicenseRef-Callaway, needs to be manually converted
 python-noggin-messages warning: valid as old and new and no changelong entry, please check
 python-noiseprotocol warning: valid as old and new and no changelong entry, please check
-python-nose contains LicenseRef-Callaway, needs to be manually converted
 python-notify2 contains LicenseRef-Callaway, needs to be manually converted
 python-nptyping warning: valid as old and new and no changelong entry, please check
 python-npyscreen contains LicenseRef-Callaway, needs to be manually converted
@@ -4188,7 +4186,6 @@ rust-rpick warning: not valid neither as Callaway nor as SPDX, please check
 R-uuid warning: valid as old and new and no changelong entry, please check
 R-vctrs warning: valid as old and new and no changelong entry, please check
 R-viridisLite warning: valid as old and new and no changelong entry, please check
-rvm
 R-V8 warning: valid as old and new and no changelong entry, please check
 R-waldo warning: valid as old and new and no changelong entry, please check
 rwall contains LicenseRef-Callaway, needs to be manually converted
@@ -4221,7 +4218,6 @@ scorchwentbonkers warning: valid as old and new and no changelong entry, please 
 scotch warning: valid as old and new and no changelong entry, please check
 scribus-generator warning: valid as old and new and no changelong entry, please check
 scrot warning: valid as old and new and no changelong entry, please check
-sc - can be trivially converted to LicenseRef-Fedora-Public-Domain
 scummvm contains LicenseRef-Callaway, needs to be manually converted
 scummvm-tools contains LicenseRef-Callaway, needs to be manually converted
 sdl-decnumber warning: valid as old and new and no changelong entry, please check
@@ -4287,7 +4283,6 @@ sox contains LicenseRef-Callaway, needs to be manually converted
 sparsehash contains LicenseRef-Callaway, needs to be manually converted
 spatialindex warning: valid as old and new and no changelong entry, please check
 spectrographic warning: valid as old and new and no changelong entry, please check
-spglib contains LicenseRef-Callaway, needs to be manually converted
 spice contains LicenseRef-Callaway, needs to be manually converted
 sqliteman contains LicenseRef-Callaway, needs to be manually converted
 sqliteodbc contains LicenseRef-Callaway, needs to be manually converted
