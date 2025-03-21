@@ -70,6 +70,7 @@ adobe-source-serif-pro-fonts
 adoptium-temurin-java-repository
 adplug
 advancecomp
+adwaita-fonts
 adwaita-icon-theme-legacy
 adwaita-icon-theme
 adw-gtk3-theme
@@ -514,6 +515,7 @@ avr-binutils
 avrdude
 avr-gcc
 avr-libc
+awatcher
 awesfx
 awesome
 awesome-vim-colorschemes
@@ -8680,6 +8682,7 @@ macchanger
 mac-robber
 macromilter
 mac
+mactel-boot
 madan-fonts
 Maelstrom
 maeparser
@@ -8857,7 +8860,6 @@ mawk
 maxima
 Mayavi
 mbedtls
-mbedtls3.6
 mbox-importer
 mbpfan
 mbuffer
@@ -14828,6 +14830,7 @@ python-batinfo
 python-bcrypt
 python-beaker
 python-beanbag
+python-beancount
 python-beartype
 python-beautifulsoup4
 python-beautifultable
@@ -15503,6 +15506,7 @@ python-geoip2
 python-geojson
 python-geomdl
 python-geopandas
+python-geopmpy
 python-geopy
 python-geotiler
 python-gerritlib
@@ -16168,6 +16172,7 @@ python-odml
 python-ogr
 python-olefile
 python-oletools
+python-ollama
 python-omemo-backend-signal
 python-omemo
 python-omlmd
@@ -17300,6 +17305,7 @@ python-trove-classifiers
 python-troveclient
 python-trustme
 python-trx-python
+python-ttfautohint-py
 python-ttystatus
 python-tvb-data
 python-tvb-gdist
@@ -17342,6 +17348,7 @@ python-uc-micro-py
 python-ufl
 python-ufoLib2
 python-ufo2ft
+python-uharfbuzz
 python-uhashring
 python-uinput
 python-ujson
@@ -18278,6 +18285,7 @@ robin-map
 robodoc
 robotfindskitten
 roca-detect
+rocal
 rocalution
 rocblas
 rocclr
@@ -18295,6 +18303,7 @@ rocm-rpm-macros
 rocm-rpp
 rocm-runtime
 rocm-smi
+rocm
 rocprim
 rocrand
 rocsolver
@@ -18750,6 +18759,7 @@ rust-alacritty
 rust-alacritty_terminal
 rust-alga_derive
 rust-alga
+rust-aligned-vec
 rust-allocator-api2
 rust-alloc-no-stdlib
 rust-alloc-stdlib
@@ -19068,7 +19078,6 @@ rust-clap_complete_command
 rust-clap_complete_fig
 rust-clap_complete_nushell
 rust-clap_complete
-rust-clap_complete3
 rust-clap_derive
 rust-clap_derive3
 rust-clap_lex
@@ -19127,6 +19136,7 @@ rust-const-oid
 rust-const-random-macro
 rust-const-random
 rust-const-str-proc-macro
+rust-const-str
 rust-content_inspector
 rust-convert_case0.4
 rust-cookie
@@ -19270,7 +19280,6 @@ rust-digest0.9
 rust-dircpy
 rust-directories-next
 rust-directories
-rust-directories3
 rust-dirs-next
 rust-dirs
 rust-dirs-sys-next
@@ -19326,6 +19335,7 @@ rust-effective-limits
 rust-ego-tree
 rust-eif_build
 rust-either
+rust-elasticlunr-rs
 rust-elf
 rust-elliptic-curve
 rust-ena
@@ -19350,6 +19360,7 @@ rust-enum-primitive-derive
 rust-enumset_derive
 rust-enumset
 rust-env_filter
+rust-env_home
 rust-environment
 rust-env_logger
 rust-env_logger0.10
@@ -19583,6 +19594,7 @@ rust-glutin_glx_sys
 rust-glutin
 rust-glycin
 rust-glycin-utils
+rust-glycin-utils2
 rust-gobject-sys0.18
 rust-gobject-sys0.19
 rust-goblin0.5
@@ -19624,6 +19636,7 @@ rust-gst-plugin-reqwest
 rust-gst-plugin-version-helper
 rust-gstreamer-allocators
 rust-gstreamer-allocators-sys
+rust-gstreamer-app-sys
 rust-gstreamer-audio
 rust-gstreamer-base
 rust-gstreamer-gl-egl
@@ -19634,7 +19647,10 @@ rust-gstreamer-gl-wayland
 rust-gstreamer-gl-wayland-sys
 rust-gstreamer-gl-x11
 rust-gstreamer-gl-x11-sys
+rust-gstreamer-check-sys
+rust-gstreamer-net-sys
 rust-gstreamer-pbutils
+rust-gstreamer-rtp-sys
 rust-gstreamer
 rust-gstreamer-video
 rust-gtk4-macros0.7
@@ -19653,6 +19669,8 @@ rust-gvdb-macros
 rust-gvdb
 rust-gweather-sys
 rust-gzip-header
+rust-g2gen
+rust-g2poly
 rust-hadolint-sarif
 rust-half
 rust-half1
@@ -19775,6 +19793,7 @@ rust-inlinable_string
 rust-inotify0.9
 rust-inout
 rust-input_buffer
+rust-input-event-codes
 rust-input-linux
 rust-input-linux-sys
 rust-input
@@ -19802,6 +19821,7 @@ rust-ipnet
 rust-ipnetwork
 rust-ipnetwork0.17
 rust-iri-string
+rust-ironrdp-acceptor
 rust-ironrdp-ainput
 rust-ironrdp-async
 rust-ironrdp-blocking
@@ -19816,8 +19836,10 @@ rust-ironrdp-input
 rust-ironrdp-pdu
 rust-ironrdp-rdpdr
 rust-ironrdp-rdpsnd
+rust-ironrdp-server
 rust-ironrdp-session
 rust-ironrdp-svc
+rust-ironrdp-tokio
 rust-is_debug
 rust-is-docker
 rust-is_executable
@@ -19960,6 +19982,7 @@ rust-linux-raw-sys0.4
 rust-linux-raw-sys0.6
 rust-lipsum
 rust-listenfd
+rust-litemap
 rust-litrs
 rust-llvm-bitcode
 rust-lmdb
@@ -20005,7 +20028,6 @@ rust-mac_address
 rust-mac
 rust-man
 rust-maplit
-rust-markup5ever_rcdom
 rust-markup5ever
 rust-markup5ever0.11
 rust-match_cfg
@@ -20030,7 +20052,9 @@ rust-memmap2_0.7
 rust-memmem
 rust-memoffset0.6
 rust-memoffset0.7
+rust-metrics-exporter-prometheus
 rust-metrics
+rust-metrics-util
 rust-miette-derive
 rust-miette
 rust-mimalloc
@@ -20076,6 +20100,7 @@ rust-ndarray-rand
 rust-ndarray
 rust-ndarray-stats
 rust-neli-proc-macros
+rust-neli
 rust-netmap_sys
 rust-nettle
 rust-nettle-sys
@@ -20365,8 +20390,6 @@ rust-pty-process
 rust-publicsuffix
 rust-pulldown-cmark-escape
 rust-pulldown-cmark0.11
-rust-pulldown-cmark0.8
-rust-pulldown-cmark0.9
 rust-punycode
 rust-pure-rust-locales
 rust-pwd
@@ -20463,6 +20486,7 @@ rust-regex-syntax0.6
 rust-regex-test
 rust-reis
 rust-reis0.2
+rust-relative-luminance
 rust-relative-path
 rust-relm4-components
 rust-relm4-css
@@ -20487,6 +20511,7 @@ rust-result-like
 rust-retry-policies
 rust-rfc2047-decoder
 rust-rfc6979
+rust-rfd
 rust-ring
 rust-rio
 rust-ripemd
@@ -20525,6 +20550,7 @@ rust-run_script
 rust-runtime-format
 rust-rusb
 rust-rusqlite0.28
+rust-rustc-demangle-capi
 rust-rustc-demangle
 rust-rustc-hash
 rust-rustc-hash1
@@ -20614,12 +20640,14 @@ rust-sequoia-keystore-backend
 rust-sequoia-keystore-gpg-agent
 rust-sequoia-keystore-softkeys
 rust-sequoia-keystore
+rust-sequoia-man
 rust-sequoia-net
 rust-sequoia-octopus-librnp
 rust-sequoia-openpgp-mt
 rust-sequoia-openpgp
 rust-sequoia-openpgp1
 rust-sequoia-policy-config
+rust-sequoia-policy-config0.7
 rust-sequoia-sop
 rust-sequoia-sq
 rust-sequoia-sqv
@@ -20693,6 +20721,7 @@ rust-signal-hook-tokio
 rust-signal-hook0.1
 rust-signature_derive
 rust-signature
+rust-siguldry
 rust-simba
 rust-simd-adler32
 rust-simdutf8
@@ -20706,7 +20735,6 @@ rust-sinit
 rust-siphasher
 rust-siphasher0.3
 rust-sized-chunks
-rust-skeptic
 rust-sketches-ddsketch
 rust-sled
 rust-slog-async
@@ -21144,9 +21172,11 @@ rust-vec1
 rust-vergen
 rust-version-compare0.1
 rust-version_check
+rust-version-ranges
 rust-version
 rust-version-track
 rust-v_frame
+rust-vhost-device-gpu
 rust-vhost-device-scmi
 rust-vhost-device-sound
 rust-vhost-device-vsock
@@ -21180,6 +21210,7 @@ rust-wayland-protocols-plasma
 rust-wayland-protocols-wlr
 rust-weak-table
 rust-webbrowser
+rust-webextension-native-messaging
 rust-web-ext-native-messaging
 rust-webpki-roots
 rust-webpki-roots0.25
@@ -21252,6 +21283,7 @@ rust-zeroize
 rust-zerovec-derive
 rust-zerovec
 rust-zincati
+rust-zip0.6
 rust-zlib-rs
 rust-zopfli
 rust-zstd-safe
@@ -21454,6 +21486,7 @@ SDL2_net
 SDL2_Pango
 SDL2_sound
 SDL2_ttf
+SDL3_image
 SDL3
 sdorfehs
 sdparm
@@ -23124,6 +23157,7 @@ xdg-desktop-portal-lxqt
 xdg-desktop-portal
 xdg-desktop-portal-wlr
 xdg-desktop-portal-xapp
+xdg-terminal-exec
 xdg-user-dirs-gtk
 xdg-user-dirs
 xdialog

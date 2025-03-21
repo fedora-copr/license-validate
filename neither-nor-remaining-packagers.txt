@@ -1,6 +1,5 @@
 Maintainers by package:
 avogadro2-libs       sagitter
-ccrtp                ixs smani
 clementine           eclipseo
 fcitx5-mozc          music yanqiyu
 frescobaldi          limb
@@ -22,6 +21,7 @@ mariadb10.11         fjanus ljavorsk mschorm zmiklank
 ocaml-omake          rjones
 openal-soft          fcami jwrdegoede tdawson
 pypy                 churchyard thrnciar
+radicale             jorti pbiering till
 ruby                 mtasaka vondruch
 rubygem-rdoc         vondruch
 rust-rpick           bowlofeggs
@@ -42,10 +42,10 @@ churchyard pypy
 eclipseo   clementine
 fcami      openal-soft
 fjanus     mariadb10.11
-ixs        ccrtp
 jcline     kernel
 jforbes    kernel
 jnovy      texlive
+jorti      radicale
 jwboyer    kernel
 jwrdegoede kernel openal-soft
 kernel-maint kernel
@@ -64,6 +64,7 @@ orion      man2html
 orphan     jbosscache-support
 patches    man2html
 patrickt   kernel
+pbiering   radicale
 petersen   ghc-polyparse
 quintela   kernel
 rathann    tachyon
@@ -72,7 +73,7 @@ rjones     ocaml-omake
 sagitter   avogadro2-libs
 sandeen    kernel
 sergiomb   man2html
-smani      ccrtp libwebp
+smani      libwebp
 spot       julius texlive tkimg
 steved     kernel
 stevenfalco kicad
@@ -82,6 +83,7 @@ than       texlive
 thl        kcbench
 thm        lmms
 thrnciar   pypy
+till       radicale
 vondruch   ruby rubygem-rdoc
 wtaymans   gstreamer1-doc
 yanqiyu    fcitx5-mozc
