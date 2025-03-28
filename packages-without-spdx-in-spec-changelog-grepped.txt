@@ -1100,7 +1100,6 @@ cmpfit
 cmrc
 cm_rgb
 cmrt
-cnmatrix
 cntlm
 coan
 cobbler
@@ -1156,6 +1155,7 @@ color-filesystem
 colorful
 colorgcc
 colorized-logs
+colorscad
 colossus
 ColPack
 combblas
@@ -1644,6 +1644,7 @@ dino
 dionaea
 dippi
 directory-maven-plugin
+DirectX-Headers
 direnv
 direwolf
 dirgra
@@ -6155,6 +6156,7 @@ hunspell-ia
 hunspell-id
 hunspell-is
 hunspell-it
+hunspell-ka
 hunspell-kk
 hunspell-km
 hunspell-kn
@@ -6751,6 +6753,7 @@ js-jquery-ui
 js-jquery-ui-touch-punch
 js-jsroot
 jsmath-fonts
+jsmn
 jsoncpp
 json-fortran
 json-glib
@@ -7164,6 +7167,7 @@ kile
 killbots
 kiln
 kimageannotator
+kimagemapeditor
 kim-api
 kimap
 kinfocenter
@@ -13910,6 +13914,7 @@ php-phplang-scope-exit
 php-phpmailer6
 php-PHPParser
 php-phpseclib
+php-phpseclib3
 php-phpspec-prophecy-phpunit
 php-phpspec-prophecy
 php-phpstan-phpdoc-parser
@@ -14235,6 +14240,7 @@ pl
 plug
 pluma-plugins
 pluma
+plutovg
 plymouth-kcm
 plymouth
 plymouth-theme-breeze
@@ -15372,6 +15378,7 @@ python-fasteners
 python-fastjsonschema
 python-fastprogress
 python-fastpurge
+python-fastrlock
 python-fast-simplification
 python-fauxquests
 python-fedora-image-uploader-messages
@@ -15798,6 +15805,7 @@ python-jupyter-kernel-singular
 python-jupyter-kernel-test
 python-jupyterlab_pygments
 python-jupyterlab-server
+python-jupyterlab-widgets
 python-jupyter-lsp
 python-jupyter-packaging
 python-jupyter-polymake
@@ -17342,6 +17350,7 @@ python-typing-inspect
 python-typish
 python-typogrify
 python-tzlocal
+python-ua-parser-builtins
 python-ua-parser
 python-u-boot-pylib
 python-uc-micro-py
@@ -17565,6 +17574,7 @@ python-zc-customdoctests
 python-zc-lockfile
 python-zeep
 python-zeroconf
+python-zhon
 python-zict
 python-zipp
 python-zipstream
@@ -18766,7 +18776,6 @@ rust-alloc-stdlib
 rust-alsa
 rust-ammonia
 rust-annotate-snippets
-rust-annotate-snippets0.10
 rust-annotate-snippets0.9
 rust-ansi_colours
 rust-ansi-parser
@@ -19001,6 +19010,7 @@ rust-bytes-cast
 rust-bytesize
 rust-byte-slice-cast
 rust-bytestring
+rust-bytes-utils
 rust-byte-unit4
 rust-bzip2-rs
 rust-bzip2
@@ -19056,6 +19066,7 @@ rust-cfb-mode
 rust-cfg_aliases
 rust-cfg_aliases0.1
 rust-cfg-expr
+rust-cfg-expr0.17
 rust-cfg-if
 rust-cfg-if0.1
 rust-cfonts
@@ -19101,6 +19112,7 @@ rust-cmd_lib_macros
 rust-cmd_lib
 rust-codepage
 rust-codespan-reporting
+rust-codespan-reporting0.11
 rust-codespan
 rust-codicon
 rust-color-backtrace
@@ -19139,6 +19151,7 @@ rust-const-str-proc-macro
 rust-const-str
 rust-content_inspector
 rust-convert_case0.4
+rust-convert_case0.6
 rust-cookie
 rust-cookie_store
 rust-cookie_store0.20
@@ -19499,6 +19512,7 @@ rust-gdk4-x11
 rust-gdk4-x11-sys
 rust-gdk4_0.7
 rust-gdk4_0.8
+rust-gengo-bin
 rust-gengo
 rust-gethostname
 rust-getch
@@ -19636,6 +19650,7 @@ rust-gst-plugin-reqwest
 rust-gst-plugin-version-helper
 rust-gstreamer-allocators
 rust-gstreamer-allocators-sys
+rust-gstreamer-app
 rust-gstreamer-app-sys
 rust-gstreamer-audio
 rust-gstreamer-base
@@ -19647,9 +19662,12 @@ rust-gstreamer-gl-wayland
 rust-gstreamer-gl-wayland-sys
 rust-gstreamer-gl-x11
 rust-gstreamer-gl-x11-sys
+rust-gstreamer-check
 rust-gstreamer-check-sys
+rust-gstreamer-net
 rust-gstreamer-net-sys
 rust-gstreamer-pbutils
+rust-gstreamer-rtp
 rust-gstreamer-rtp-sys
 rust-gstreamer
 rust-gstreamer-video
@@ -19665,12 +19683,18 @@ rust-gufo-exif
 rust-gufo-exif0.1
 rust-gufo-jpeg
 rust-gufo-jpeg0.1
+rust-gufo-png
+rust-gufo
+rust-gufo-tiff
+rust-gufo-webp
+rust-gufo-xmp
 rust-gvdb-macros
 rust-gvdb
 rust-gweather-sys
 rust-gzip-header
 rust-g2gen
 rust-g2poly
+rust-g2p
 rust-hadolint-sarif
 rust-half
 rust-half1
@@ -19825,6 +19849,7 @@ rust-ironrdp-acceptor
 rust-ironrdp-ainput
 rust-ironrdp-async
 rust-ironrdp-blocking
+rust-ironrdp-cliprdr-native
 rust-ironrdp-cliprdr
 rust-ironrdp-connector
 rust-ironrdp-core
@@ -19838,6 +19863,7 @@ rust-ironrdp-rdpdr
 rust-ironrdp-rdpsnd
 rust-ironrdp-server
 rust-ironrdp-session
+rust-ironrdp
 rust-ironrdp-svc
 rust-ironrdp-tokio
 rust-is_debug
@@ -19864,6 +19890,7 @@ rust-joinery
 rust-joinery2
 rust-josekit
 rust-jpeg-decoder
+rust-jpeg-encoder
 rust-jpegxl-rs
 rust-jpegxl-sys
 rust-jql-parser
@@ -19909,9 +19936,7 @@ rust-lexiclean
 rust-libadwaita
 rust-libadwaita-sys
 rust-libadwaita-sys0.5
-rust-libadwaita-sys0.6
 rust-libadwaita0.5
-rust-libadwaita0.6
 rust-libblkid-rs
 rust-libblkid-rs-sys
 rust-libbpf-cargo
@@ -19921,6 +19946,7 @@ rust-libbpf-rs
 rust-libbpf-rs0.22
 rust-libbpf-rs0.23
 rust-libbpf-sys
+rust-libbz2-rs-sys
 rust-libcramjam
 rust-libcryptsetup-rs
 rust-libcryptsetup-rs-sys
@@ -20509,6 +20535,7 @@ rust-resolv-conf
 rust-result-like-derive
 rust-result-like
 rust-retry-policies
+rust-revision-derive
 rust-rfc2047-decoder
 rust-rfc6979
 rust-rfd
@@ -20538,6 +20565,7 @@ rust-rpds
 rust-rpick
 rust-rpki
 rust-rpm-sequoia
+rust-rqrr
 rust-rsa
 rust-rsconf
 rust-rspec
@@ -20577,6 +20605,7 @@ rust-rustls-platform-verifier
 rust-rustls
 rust-rustls-webpki
 rust-rustls-webpki0.101
+rust-rustls-webpki0.102
 rust-rustls0.21
 rust-rustls0.22
 rust-rust-netrc
@@ -21076,6 +21105,8 @@ rust-urid
 rust-uriparse
 rust-url
 rust-usb-ids
+rust-usbredirparser
+rust-usbredirparser-sys
 rust-userfaultfd
 rust-userfaultfd-sys
 rust-utf8_iter
@@ -21440,6 +21471,7 @@ scoutfish
 scponly
 scratch
 screenfetch
+screengrab
 screenie-composer
 screenie
 screenkey
@@ -22483,7 +22515,6 @@ tulrich-tuffy-fonts
 tumbler
 tuna
 tunctl
-tuned-profiles-nfv-host-bin
 tuned
 tuned-switcher
 tunneler

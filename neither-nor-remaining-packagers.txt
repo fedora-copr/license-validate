@@ -1,4 +1,5 @@
 Maintainers by package:
+aspell-pl            jchaloup ljavorsk nforro
 avogadro2-libs       sagitter
 clementine           eclipseo
 fcitx5-mozc          music yanqiyu
@@ -13,6 +14,7 @@ kernel               acaringi airlied ajax bskeggs jcline jforbes jwboyer jwrdeg
 kf5-kirigami2        rdieter
 kicad                avigne lkundrak stevenfalco
 lazarus              suve
+libdsk               vtrefny
 libwebp              smani
 lmms                 thm
 man-pages-l10n       ljavorsk mfabian nforro
@@ -21,7 +23,7 @@ mariadb10.11         fjanus ljavorsk mschorm zmiklank
 ocaml-omake          rjones
 openal-soft          fcami jwrdegoede tdawson
 pypy                 churchyard thrnciar
-radicale             jorti pbiering till
+rshim                michich
 ruby                 mtasaka vondruch
 rubygem-rdoc         vondruch
 rust-rpick           bowlofeggs
@@ -42,29 +44,29 @@ churchyard pypy
 eclipseo   clementine
 fcami      openal-soft
 fjanus     mariadb10.11
+jchaloup   aspell-pl
 jcline     kernel
 jforbes    kernel
 jnovy      texlive
-jorti      radicale
 jwboyer    kernel
 jwrdegoede kernel openal-soft
 kernel-maint kernel
 limb       frescobaldi gstreamer1-doc
 linville   kernel
-ljavorsk   man-pages-l10n mariadb10.11
+ljavorsk   aspell-pl man-pages-l10n mariadb10.11
 lkundrak   kicad
 mfabian    man-pages-l10n
+michich    rshim
 mschorm    mariadb10.11
 mtasaka    ruby
 music      fcitx5-mozc
 myoung     kernel
 nalimilan  julia
-nforro     man-pages-l10n
+nforro     aspell-pl man-pages-l10n
 orion      man2html
 orphan     jbosscache-support
 patches    man2html
 patrickt   kernel
-pbiering   radicale
 petersen   ghc-polyparse
 quintela   kernel
 rathann    tachyon
@@ -83,8 +85,8 @@ than       texlive
 thl        kcbench
 thm        lmms
 thrnciar   pypy
-till       radicale
 vondruch   ruby rubygem-rdoc
+vtrefny    libdsk
 wtaymans   gstreamer1-doc
 yanqiyu    fcitx5-mozc
 zmiklank   mariadb10.11

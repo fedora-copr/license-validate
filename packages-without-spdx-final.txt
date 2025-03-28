@@ -57,7 +57,7 @@ asahi-scripts warning: valid as old and new and no changelong entry, please chec
 asdcplib contains LicenseRef-Callaway, needs to be manually converted
 asnip warning: valid as old and new and no changelong entry, please check
 aspell-en contains LicenseRef-Callaway, needs to be manually converted
-aspell-pl contains LicenseRef-Callaway, needs to be manually converted
+aspell-pl warning: not valid neither as Callaway nor as SPDX, please check
 aspell-ru warning: valid as old and new and no changelong entry, please check
 aspell-sk contains LicenseRef-Callaway, needs to be manually converted
 assetfinder warning: valid as old and new and no changelong entry, please check
@@ -521,7 +521,6 @@ f28-backgrounds contains LicenseRef-Callaway, needs to be manually converted
 gabedit warning: valid as old and new and no changelong entry, please check
 game-music-emu contains LicenseRef-Callaway, needs to be manually converted
 gamescope contains LicenseRef-Callaway, needs to be manually converted
-gammastep contains LicenseRef-Callaway, needs to be manually converted
 ganglia contains LicenseRef-Callaway, needs to be manually converted
 garcon contains LicenseRef-Callaway, needs to be manually converted
 GarminPlugin contains LicenseRef-Callaway, needs to be manually converted
@@ -1843,7 +1842,7 @@ libdigidocpp contains LicenseRef-Callaway, needs to be manually converted
 libdnet contains LicenseRef-Callaway, needs to be manually converted
 libdockapp warning: valid as old and new and no changelong entry, please check
 libdrm-armada contains LicenseRef-Callaway, needs to be manually converted
-libdsk contains LicenseRef-Callaway, needs to be manually converted
+libdsk warning: not valid neither as Callaway nor as SPDX, please check
 libecpint warning: valid as old and new and no changelong entry, please check
 libefp contains LicenseRef-Callaway, needs to be manually converted
 libepc contains LicenseRef-Callaway, needs to be manually converted
@@ -3272,7 +3271,6 @@ python-cherrypy contains LicenseRef-Callaway, needs to be manually converted
 python-chirpstack-api warning: valid as old and new and no changelong entry, please check
 python-idstools contains LicenseRef-Callaway, needs to be manually converted
 python-ifaddr warning: valid as old and new and no changelong entry, please check
-python-ifcfg contains LicenseRef-Callaway, needs to be manually converted
 python-imagehash contains LicenseRef-Callaway, needs to be manually converted
 python-incremental warning: valid as old and new and no changelong entry, please check
 python-inflection warning: valid as old and new and no changelong entry, please check
@@ -3934,7 +3932,6 @@ qxtglobalshortcut contains LicenseRef-Callaway, needs to be manually converted
 R-abind contains LicenseRef-Callaway, needs to be manually converted
 R-acepack contains LicenseRef-Callaway, needs to be manually converted
 radeontool warning: valid as old and new and no changelong entry, please check
-radicale warning: not valid neither as Callaway nor as SPDX, please check
 radius-engine warning: valid as old and new and no changelong entry, please check
 R-affyio contains LicenseRef-Callaway, needs to be manually converted
 ragel contains LicenseRef-Callaway, needs to be manually converted
@@ -4111,6 +4108,7 @@ R-R6 warning: valid as old and new and no changelong entry, please check
 R-sass warning: valid as old and new and no changelong entry, please check
 R-scales warning: valid as old and new and no changelong entry, please check
 R-selectr contains LicenseRef-Callaway, needs to be manually converted
+rshim warning: not valid neither as Callaway nor as SPDX, please check
 R-shiny contains LicenseRef-Callaway, needs to be manually converted
 R-sodium warning: valid as old and new and no changelong entry, please check
 R-sourcetools warning: valid as old and new and no changelong entry, please check
