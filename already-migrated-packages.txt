@@ -221,11 +221,9 @@ apache-commons-codec
 apache-commons-collections
 apache-commons-collections4
 apache-commons-compress
-apache-commons-configuration
 apache-commons-digester
 apache-commons-exec
 apache-commons-io
-apache-commons-jexl
 apache-commons-jxpath
 apache-commons-lang3
 apache-commons-logging
@@ -3254,6 +3252,7 @@ gnome-power-manager
 gnome-radio
 gnome-rdp
 gnome-remote-desktop
+gnome-robots
 gnome-screenshot
 gnome-session
 gnome-settings-daemon
@@ -3342,6 +3341,7 @@ gobuster
 gocr
 goddard-kde-theme
 godoctor
+godot
 godot3
 goffice
 gogextract
@@ -3491,7 +3491,6 @@ golang-github-containerd-continuity
 golang-github-containerd-fifo
 golang-github-containerd-fuse-overlayfs-snapshotter
 golang-github-containerd-nri
-golang-github-containerd
 golang-github-containerd-zfs
 golang-github-containernetworking-cni
 golang-github-containernetworking-plugins
@@ -4331,7 +4330,6 @@ grfcodec
 gr-funcube
 grhino
 gr-hpsdr
-gridloc
 gridsite
 grilo
 grim
@@ -4551,7 +4549,6 @@ hnb
 hokuyoaist
 home-assistant-cli
 homebank
-honggfuzz
 hostapd
 hostname
 host-spawn
@@ -5062,6 +5059,7 @@ Java-WebSocket
 java-21-openjdk-portable
 java-21-openjdk
 java-25-openjdk-portable
+java-25-openjdk
 jaxb-api
 jaxb-api2
 jaxb-dtd-parser
@@ -5830,6 +5828,7 @@ libdmx
 libdnf-plugin-txnupd
 libdnf
 libdrm
+libdsk
 libdstr
 libdvbpsi
 libdvdnav
@@ -5934,7 +5933,6 @@ libg15render
 libhandy
 libhangul
 libharu
-libhbalinux
 libheif
 libheinz
 libhid
@@ -7327,8 +7325,6 @@ m4rie
 m4ri
 m4
 nacl
-naev-data
-naev
 nagelfar
 nagios-plugins-bonding
 nagios-plugins-check-updates
@@ -7921,6 +7917,7 @@ openslp
 opensm
 opensp
 openssh
+openssl-gost-engine
 openssl-ibmca
 openssl-pkcs11-sign-provider
 openssl-pkcs11
@@ -7930,6 +7927,7 @@ opensubdiv
 opensurge
 opensuse-distro-aliases
 opentest4j
+OpenTimelineIO
 opentofu
 opentrep
 openttd-opengfx
@@ -8014,7 +8012,6 @@ pads
 padthv1
 pageedit
 pagmo2
-pag
 pagure-cli
 pagure-dist-git
 pagure-exporter
@@ -10166,7 +10163,6 @@ perl-PBKDF2-Tiny
 perl-PDF-API2
 perl-PDF-API2-XS
 perl-PDF-Builder
-perl-PDF-Create
 perl-PDF-Reuse
 perl-PDL
 perl-Pegex
@@ -12976,6 +12972,7 @@ python-pid
 python-pifpaf
 python-pika
 python-pikepdf
+python-pillow-jxl-plugin
 python-pingouin
 python-pint
 python-pip-requirements-parser
@@ -13076,6 +13073,7 @@ python-pydiffx
 python-pydocstyle
 python-pydoctor
 python-pydyf
+python-py_ecc
 python-pyedflib
 python-pyelectro
 python-pyembroidery
@@ -13923,7 +13921,6 @@ qimgv
 qiv
 qjackctl
 qjson
-qle
 qlipper
 qmapshack
 qmasterpassword
@@ -13951,7 +13948,6 @@ qqwing
 qrca
 qr-code-generator
 qrmumps
-qrq
 qrtr
 qrupdate
 qscintilla
@@ -14393,6 +14389,7 @@ rocjpeg
 rocksndiamonds
 rocm-cmake
 rocm-core
+rocm-examples
 rocm-omp
 rocm-rpm-macros
 rocm-rpp
@@ -14509,6 +14506,7 @@ R-servr
 R-sessioninfo
 R-sfsmisc
 rsgain
+rshim
 R-showtextdb
 R-showtext
 rsh
@@ -15083,7 +15081,6 @@ rust-asahi-wifisync
 rust-ascii-canvas
 rust-ascii
 rust-ashpd
-rust-ashpd0.9
 rust-ash
 rust-askalono-cli
 rust-askalono
@@ -15980,7 +15977,6 @@ rust-glutin_glx_sys
 rust-glutin
 rust-glycin
 rust-glycin-utils
-rust-glycin-utils2
 rust-gobject-sys
 rust-gobject-sys0.18
 rust-gobject-sys0.19
@@ -16065,13 +16061,10 @@ rust-gtk4-sys
 rust-gtk4-sys0.7
 rust-gtk4-sys0.8
 rust-gtk4_0.7
-rust-gtk4_0.8
 rust-gufo-common
 rust-gufo-common0.1
 rust-gufo-exif
-rust-gufo-exif0.1
 rust-gufo-jpeg
-rust-gufo-jpeg0.1
 rust-gufo-png
 rust-gufo
 rust-gufo-tiff
@@ -16602,6 +16595,7 @@ rust-nix0.28
 rust-noisy_float
 rust-nom
 rust-nom-supreme
+rust-nom7
 rust-noop_proc_macro
 rust-no-panic
 rust-normalize-line-endings
@@ -17340,6 +17334,7 @@ rust-signal-hook0.1
 rust-signature_derive
 rust-signature
 rust-siguldry
+rust-sigul-pesign-bridge
 rust-simba
 rust-simd-adler32
 rust-simd_helpers
@@ -17585,7 +17580,6 @@ rust-tokio-serde
 rust-tokio-socks
 rust-tokio
 rust-tokio-stream
-rust-tokio-tar
 rust-tokio-test
 rust-tokio-tfo
 rust-tokio-tungstenite
@@ -17673,7 +17667,6 @@ rust-tree-sitter-toml-ng
 rust-tree-sitter-typescript
 rust-tree-sitter-xml
 rust-tree-sitter-yaml
-rust-tree-sitter0.20
 rust-tree-sitter0.23
 rust-triforce-lv2
 rust-triomphe
