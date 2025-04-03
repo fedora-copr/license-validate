@@ -177,7 +177,6 @@ ampr-ripd
 ampy
 ams
 amsynth
-amtk
 amtterm
 am-utils
 anaconda-realmd
@@ -204,7 +203,6 @@ ansible-collection-ansible-netcommon
 ansible-collection-ansible-posix
 ansible-collection-ansible-utils
 ansible-collection-ansible-windows
-ansible-collection-awx-awx
 ansible-collection-community-crypto
 ansible-collection-community-docker
 ansible-collection-community-general
@@ -1481,7 +1479,6 @@ dbus-broker
 dbus-c++
 dbus-glib
 dbusmenu-qt
-dbus-parsec
 dbus-python
 dbus-qt3
 dbus-sharp-glib
@@ -7699,7 +7696,10 @@ libgda5
 libgdiplus
 libgdither
 libgdl
+libgedit-amtk
+libgedit-gfls
 libgedit-gtksourceview
+libgedit-tepl
 libgee
 libgeopmd
 libgeopm
@@ -8311,6 +8311,7 @@ libxmlb
 libxml++
 libxml2
 libxml++30
+libxml++50
 libxmp
 libXmu
 libxnm
@@ -9834,6 +9835,7 @@ notmuch
 not-ocamlfind
 nototools
 nova-agent
+novelwriter
 novnc
 nox
 npth
@@ -10209,6 +10211,7 @@ opari2
 openal-soft
 openambit
 open-amp
+openapi-python-client
 openarc
 openarena
 openbabel
@@ -10494,8 +10497,6 @@ pari
 parlaylib
 parley
 parole
-parsec
-parsec-tool
 parserng
 parsero
 parsertl17
@@ -13780,7 +13781,6 @@ php-LightweightPicasaAPI
 php-liuggio-statsd-php-client
 php-lukasreschke-id3parser
 php-manual-en
-php-marcusschwarz-lesserphp
 php-markdown
 php-masterminds-html5
 php-maxminddb
@@ -14228,6 +14228,7 @@ pl
 plug
 pluma-plugins
 pluma
+plutosvg
 plutovg
 plymouth-kcm
 plymouth
@@ -15566,6 +15567,7 @@ python-gunicorn
 python-habitipy
 python-hacking
 python-hamcrest
+python-hanzidentifier
 python-hass-data-detective
 python-hatasmota
 python-hatch-fancy-pypi-readme
@@ -16892,7 +16894,6 @@ python-rosinstall_generator
 python-rospkg
 python-roundrobin
 python-routes
-python-rows
 python-rpdb
 python-rpds-py
 python-rpi-gpio2
@@ -18879,7 +18880,6 @@ rust-avif-serialize
 rust-avt
 rust-av1-grain
 rust-aws-nitro-enclaves-cose
-rust-aws-nitro-enclaves-cose0.4
 rust-aws-nitro-enclaves-image-format
 rust-axum-core
 rust-axum-macros
@@ -18894,6 +18894,7 @@ rust-backtrace-ext
 rust-backtrace
 rust-bankstown-lv2
 rust-base16ct
+rust-base2048
 rust-base32
 rust-base64ct
 rust-base64
@@ -19007,9 +19008,7 @@ rust-cached_proc_macro
 rust-cached_proc_macro_types
 rust-cached
 rust-cairo-rs0.18
-rust-cairo-rs0.19
 rust-cairo-sys-rs0.18
-rust-cairo-sys-rs0.19
 rust-calamine
 rust-calloop-wayland-source
 rust-calloop0.13
@@ -19453,7 +19452,6 @@ rust-fragile
 rust-freedesktop_entry_parser
 rust-freedesktop-icons
 rust-freetype-rs0.32
-rust-freetype-rs0.35
 rust-freetype
 rust-freetype-sys0.17
 rust-freetype-sys0.20
@@ -19487,17 +19485,13 @@ rust-futures-util
 rust-fxhash
 rust-gcd
 rust-gdk-pixbuf-sys0.18
-rust-gdk-pixbuf-sys0.19
 rust-gdk-pixbuf0.18
-rust-gdk-pixbuf0.19
 rust-gdk4-sys0.7
-rust-gdk4-sys0.8
 rust-gdk4-wayland
 rust-gdk4-wayland-sys
 rust-gdk4-x11
 rust-gdk4-x11-sys
 rust-gdk4_0.7
-rust-gdk4_0.8
 rust-gengo-bin
 rust-gengo
 rust-gethostname
@@ -19512,9 +19506,7 @@ rust-gif
 rust-gimli
 rust-gimoji
 rust-gio-sys0.18
-rust-gio-sys0.19
 rust-gio0.18
-rust-gio0.19
 rust-git-absorb
 rust-git-interactive-rebase-tool
 rust-git-version-macro
@@ -19582,11 +19574,8 @@ rust-gix-worktree-stream
 rust-gl_generator
 rust-glib-build-tools
 rust-glib-macros0.18
-rust-glib-macros0.19
 rust-glib-sys0.18
-rust-glib-sys0.19
 rust-glib0.18
-rust-glib0.19
 rust-globset
 rust-glob
 rust-glutin_egl_sys
@@ -19595,7 +19584,6 @@ rust-glutin
 rust-glycin
 rust-glycin-utils
 rust-gobject-sys0.18
-rust-gobject-sys0.19
 rust-goblin0.5
 rust-google-cloud-auth
 rust-google-cloud-metadata
@@ -19606,9 +19594,7 @@ rust-googletest
 rust-gptman
 rust-gpt
 rust-graphene-rs0.18
-rust-graphene-rs0.19
 rust-graphene-sys0.18
-rust-graphene-sys0.19
 rust-greetd_ipc
 rust-grep-cli
 rust-grep-matcher
@@ -19619,9 +19605,7 @@ rust-grep-searcher
 rust-grep
 rust-group
 rust-gsk4-sys0.7
-rust-gsk4-sys0.8
 rust-gsk4_0.7
-rust-gsk4_0.8
 rust-gst-plugin-dav1d
 rust-gst-plugin-fallbackswitch
 rust-gst-plugin-fmp4
@@ -19657,12 +19641,9 @@ rust-gstreamer-rtp-sys
 rust-gstreamer
 rust-gstreamer-video
 rust-gtk4-macros0.7
-rust-gtk4-macros0.8
 rust-gtk4-sys0.7
-rust-gtk4-sys0.8
 rust-gtk4_0.7
 rust-gufo-common
-rust-gufo-common0.1
 rust-gufo-exif
 rust-gufo-jpeg
 rust-gufo-png
@@ -19891,7 +19872,6 @@ rust-keyframe
 rust-keyvalues-parser
 rust-keyvalues-serde
 rust-khronos_api
-rust-krata-tokio-tar
 rust-krates
 rust-krun-sys
 rust-krunvm
@@ -19933,7 +19913,6 @@ rust-libcramjam
 rust-libcryptsetup-rs
 rust-libcryptsetup-rs-sys
 rust-libcryptsetup-rs0.11
-rust-libcryptsetup-rs0.9
 rust-libc
 rust-libcst_derive
 rust-libcst
@@ -20157,7 +20136,6 @@ rust-num-complex0.3
 rust-num-conv
 rust-num_cpus
 rust-num-derive
-rust-num-derive0.3
 rust-num_enum_derive
 rust-num_enum
 rust-num-format
@@ -20201,6 +20179,7 @@ rust-oo7-cli
 rust-oo7
 rust-opaque-debug
 rust-openat
+rust-open-enum-derive
 rust-opener
 rust-openpgp-cert-d
 rust-openssh-keys
@@ -20233,9 +20212,7 @@ rust-pam-sys
 rust-pangocairo-sys0.18
 rust-pangocairo0.18
 rust-pango-sys0.18
-rust-pango-sys0.19
 rust-pango0.18
-rust-pango0.19
 rust-papergrid
 rust-paris
 rust-parking_lot_core
@@ -20243,8 +20220,6 @@ rust-parking_lot_core0.8
 rust-parking_lot
 rust-parking_lot0.11
 rust-parking
-rust-parsec-client
-rust-parsec-interface
 rust-parse_datetime
 rust-parse-size
 rust-pasetors
@@ -20272,6 +20247,7 @@ rust-pep440_rs
 rust-pep508_rs
 rust-percent-encoding
 rust-permutohedron
+rust-per-thread-mutex
 rust-pest_derive
 rust-pest_generator
 rust-pest_meta
@@ -20334,7 +20310,6 @@ rust-pq-sys
 rust-predicates-core
 rust-predicates
 rust-predicates-tree
-rust-predicates1
 rust-predicates2
 rust-prefixdevname
 rust-pretty_assertions
@@ -20381,13 +20356,9 @@ rust-proptest-derive0.4
 rust-proptest-macro
 rust-proptest
 rust-prost-build
-rust-prost-build0.10
 rust-prost-derive
-rust-prost-derive0.10
 rust-prost
 rust-prost-types
-rust-prost-types0.10
-rust-prost0.10
 rust-psa-crypto
 rust-psa-crypto-sys
 rust-psl
@@ -20494,7 +20465,6 @@ rust-regex-syntax
 rust-regex-syntax0.6
 rust-regex-test
 rust-reis
-rust-reis0.2
 rust-relative-luminance
 rust-relative-path
 rust-relm4-components
@@ -20647,7 +20617,6 @@ rust-sequoia-directories
 rust-sequoia-gpg-agent
 rust-sequoia-chameleon-gnupg
 rust-sequoia-ipc
-rust-sequoia-keyring-linter
 rust-sequoia-keystore-backend
 rust-sequoia-keystore-gpg-agent
 rust-sequoia-keystore-softkeys
@@ -20657,9 +20626,7 @@ rust-sequoia-net
 rust-sequoia-octopus-librnp
 rust-sequoia-openpgp-mt
 rust-sequoia-openpgp
-rust-sequoia-openpgp1
 rust-sequoia-policy-config
-rust-sequoia-policy-config0.7
 rust-sequoia-sop
 rust-sequoia-sq
 rust-sequoia-sqv
@@ -20867,7 +20834,6 @@ rust-target-triple
 rust-tar
 rust-taskchampion
 rust-tealdeer
-rust-tempdir
 rust-temp-env
 rust-tempfile
 rust-temp_testdir
@@ -21087,6 +21053,8 @@ rust-urid
 rust-uriparse
 rust-url
 rust-usb-ids
+rust-usbredirhost
+rust-usbredirhost-sys
 rust-usbredirparser
 rust-usbredirparser-sys
 rust-userfaultfd
@@ -21094,6 +21062,7 @@ rust-userfaultfd-sys
 rust-utf8_iter
 rust-utf8parse
 rust-utf-8
+rust-uu_arch
 rust-uu_basename
 rust-uu_basenc
 rust-uu_base32
@@ -21219,6 +21188,7 @@ rust-wasmparser
 rust-wax
 rust-wayland-backend
 rust-wayland-csd-frame
+rust-wayland-protocols-misc
 rust-wayland-protocols-plasma
 rust-wayland-protocols-wlr
 rust-weak-table
@@ -21283,6 +21253,7 @@ rust-zbus_names3
 rust-zbus_xml
 rust-zbus4
 rust-zeitfetch
+rust-zenity-dialog
 rust-zerocopy-derive
 rust-zerocopy-derive0.6
 rust-zerocopy-derive0.7
@@ -21436,7 +21407,6 @@ sc-im
 scim
 scim-thai
 sciplot
-sciplot0.2
 scip
 scipy
 scitokens-cpp
@@ -22245,7 +22215,6 @@ tempest
 template-glib
 templates_parser
 tennix
-tepl
 termic
 terminator
 terminology
@@ -22287,6 +22256,7 @@ the_silver_searcher
 thibault-fonts
 thinkfan
 thonny
+thorvg
 thrift
 thttpd
 thunar-archive-plugin
@@ -22325,6 +22295,7 @@ tinycompress
 tinydir
 tinyexr
 tinyfugue
+tinygltf
 tinygo
 tinyobjloader
 tinyows
@@ -23045,7 +23016,6 @@ wmCalClock
 wmctrl
 wmdocker
 wmenu
-wmfrog
 wmname
 wmweather+
 wmx

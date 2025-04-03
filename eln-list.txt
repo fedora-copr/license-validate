@@ -56,7 +56,6 @@ apache-commons-lang3
 apache-commons-logging
 apache-commons-net
 apache-commons-parent
-apache-logging-parent
 apache-parent
 apache-resource-bundles
 apiguardian
@@ -278,7 +277,6 @@ expect
 extra-enforcer-rules
 fabtests
 fapolicyd
-fasterxml-oss-parent
 fcoe-utils
 fdk-aac-free
 fedora-logos
@@ -686,13 +684,6 @@ iso-codes
 isomd5sum
 itstool
 iw
-jackson-annotations
-jackson-bom
-jackson-core
-jackson-databind
-jackson-jaxrs-providers
-jackson-modules-base
-jackson-parent
 jakarta-activation
 jakarta-annotations
 jakarta-cdi2.0
@@ -718,12 +709,7 @@ jaxb-istack-commons
 jaxb-stax-ex
 jbig2dec
 jbigkit
-jboss-jaxrs-2.0-api
-jboss-logging
-jboss-logging-tools
-jboss-parent
 jctools
-jdeparser
 jdepend
 jdependency
 jdom
@@ -1292,7 +1278,6 @@ openssh
 openssl
 openssl-fips-provider
 openssl-ibmca
-openssl-pkcs11
 opentelemetry-collector
 opentelemetry-collector-cloudwatch-config
 opentest4j
@@ -1385,6 +1370,7 @@ perl-Date-Calc
 perl-Date-Manip
 perl-Devel-CheckLib
 perl-Devel-GlobalDestruction
+perl-Devel-Leak
 perl-Devel-PPPort
 perl-Devel-Size
 perl-Devel-StackTrace
@@ -1853,7 +1839,6 @@ python-semantic_version
 python-setuptools
 python-setuptools-rust
 python-setuptools_scm
-python-simpleaudio
 python-simpleline
 python-six
 python-smartypants
@@ -1942,14 +1927,12 @@ redhat-release
 redhat-rpm-config
 regexp
 relaxng-datatype-java
-replacer
 resolv_wrapper
 resource-agents
 resource-agents-sap
 resource-agents-sap-hana
 resource-agents-sap-hana-scaleout
 rest
-resteasy
 restore
 rgb
 rhc
