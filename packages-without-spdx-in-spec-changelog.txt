@@ -466,6 +466,7 @@ at-spi2-core
 attica
 attract-mode
 attr
+atuin
 aubio
 aubit4gl
 audacious-plugin-fc
@@ -2338,6 +2339,7 @@ fedora-autofirstboot
 fedora-bookmarks
 fedora-distro-aliases
 fedora-easy-karma
+fedora-eln-backgrounds
 fedora-flathub-remote
 fedora-gnat-project-common
 fedora-chromium-config
@@ -2814,6 +2816,7 @@ gargi-fonts
 GarminPlugin
 garmintools
 ga
+gattlib
 gauche
 gaupol
 gau2grid
@@ -7272,6 +7275,7 @@ kojan-parent
 kojan-xml
 koji-containerbuild
 koji-flatpak
+koji-image-builder
 koji-osbuild
 koji
 koji-tool
@@ -8041,6 +8045,7 @@ libphidget22
 libphonenumber
 libpinyin
 libpipeline
+libpkgmanifest
 libplacebo
 libplasma
 libplist
@@ -11205,6 +11210,7 @@ perl-Crypt-SSLeay
 perl-Crypt-Twofish
 perl-Crypt-UnixCrypt_XS
 perl-Crypt-URandom
+perl-Crypt-URandom-Token
 perl-Crypt-U2F-Server
 perl-CryptX
 perl-Crypt-X509
@@ -16998,6 +17004,7 @@ python-rustcfg
 python-rust-update-set
 python-rxjson
 python-rx
+python-safetensors
 python-saharaclient
 python-SALib
 python-samloader
@@ -17466,6 +17473,7 @@ python-usort
 python-uswid
 python-utils
 python-utmp
+python-uv-build
 python-uvicorn
 python-uvloop
 python-validator-collection
@@ -18914,6 +18922,7 @@ rubygem-prawn-table
 rubygem-prawn-templates
 rubygem-process_executer
 rubygem-progressbar
+rubygem-propshaft
 rubygem-pry
 rubygem-public_suffix
 rubygem-puma
@@ -19668,8 +19677,6 @@ rust-datetime
 rust-dav1d
 rust-dav1d-sys
 rust-dbl
-rust-dbus-codegen
-rust-dbus-crossroads
 rust-dbus
 rust-dbus-tree
 rust-dbus0.8
@@ -19683,7 +19690,6 @@ rust-deku
 rust-delharc
 rust-deranged
 rust-der_derive
-rust-derivative
 rust-derive_arbitrary
 rust-derive_arbitrary0.4
 rust-derive_builder_core
@@ -20147,6 +20153,7 @@ rust-gstreamer-rtp
 rust-gstreamer-rtp-sys
 rust-gstreamer
 rust-gstreamer-sys
+rust-gstreamer-utils
 rust-gstreamer-video
 rust-gstreamer-video-sys
 rust-gtk
@@ -20170,6 +20177,7 @@ rust-gvdb-macros
 rust-gvdb
 rust-gweather-sys
 rust-gzip-header
+rust-gzp
 rust-g2gen
 rust-g2poly
 rust-g2p
@@ -20380,7 +20388,6 @@ rust-itertools0.13
 rust-itertools0.8
 rust-itoap
 rust-itoa
-rust-itoa0.4
 rust-ivf
 rust-i18n-config
 rust-i18n-embed-fl
@@ -20671,6 +20678,7 @@ rust-neli
 rust-netlink-packet-core
 rust-netlink-packet-generic
 rust-netlink-packet-route
+rust-netlink-packet-route0.19
 rust-netlink-packet-utils
 rust-netlink-proto
 rust-netlink-sys
@@ -21039,15 +21047,20 @@ rust-pure-rust-locales
 rust-pwd
 rust-pyo3-build-config
 rust-pyo3-build-config0.22
+rust-pyo3-build-config0.23
 rust-pyo3-ffi
 rust-pyo3-ffi0.22
+rust-pyo3-ffi0.23
 rust-pyo3-log
 rust-pyo3-macros-backend
 rust-pyo3-macros-backend0.22
+rust-pyo3-macros-backend0.23
 rust-pyo3-macros
 rust-pyo3-macros0.22
+rust-pyo3-macros0.23
 rust-pyo3
 rust-pyo3_0.22
+rust-pyo3_0.23
 rust-pyproject-toml
 rust-pythonize
 rust-python-launcher
@@ -21055,6 +21068,8 @@ rust-python-pkginfo
 rust-p256
 rust-p384
 rust-p521
+rust-qapi-parser
+rust-qapi-spec
 rust-qoi
 rust-qstring
 rust-quanta
@@ -23231,6 +23246,7 @@ tpm2-tools
 tpm2-tss-engine
 tpm2-tss
 t-prot
+tqftpserv
 trace-cmd
 traceroute
 tracer
@@ -24409,6 +24425,7 @@ zssh
 zstd
 zstr
 zswap-cli
+zsync
 zulucrypt
 zvbi
 zxcvbn-c
