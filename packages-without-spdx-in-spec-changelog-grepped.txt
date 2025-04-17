@@ -515,7 +515,6 @@ avr-libc
 awatcher
 awesfx
 awesome
-awesome-vim-colorschemes
 awf-gtk2
 awf-gtk3
 awf-gtk4
@@ -641,6 +640,7 @@ bib2html
 bicon
 bids-schema
 bigloo
+bign-handheld-thumbnailer
 bijiben
 biloba
 binaryen
@@ -760,7 +760,6 @@ bpftop
 bpftrace
 bpg-fonts
 bpython
-bpytop
 braille-printer-app
 brainfuck
 brasero
@@ -783,7 +782,6 @@ bsf
 bsh
 bsp
 bspwm
-bst-external
 btbuilder
 btop
 btrbk
@@ -1055,7 +1053,6 @@ clinfo
 clingo
 clipit
 clipman
-clipsmm
 clips
 cliquer
 clisp
@@ -1165,7 +1162,6 @@ compat-gdbm
 compat-guichan05
 compat-guile18
 compat-lua
-compat-readline5
 compat-readline6
 compat-tolua++
 compface
@@ -1632,6 +1628,7 @@ diff-so-fancy
 diffstat
 diffuse
 diffutils
+digdoc
 digikam
 digitemp
 dillo
@@ -1770,7 +1767,6 @@ dragonbox
 dragon
 drat-trim
 drat2er
-drawing
 drbdlinks
 drbd
 dreamchess
@@ -2105,7 +2101,6 @@ erlang-iconv
 erlang-idna
 erlang-jiffy
 erlang-jose
-erlang-js
 erlang-jsx
 erlang-kvc
 erlang-lager
@@ -2193,7 +2188,6 @@ eventviews
 evince
 evolution-data-server
 evolution-ews
-evolution-mapi
 evolution-rspam
 evolution
 evtest
@@ -2231,7 +2225,6 @@ e2tools
 e3
 fabtests
 facter
-faience-icon-theme
 fail2ban
 fakechroot
 fakeroot
@@ -2439,8 +2432,6 @@ flatpak-module-tools
 flatpak-rpm-macros
 flatpak
 flatpak-xdg-utils
-flat-remix-icon-theme
-flat-remix-theme
 flatseal
 flawfinder
 flaw
@@ -2684,7 +2675,6 @@ galculator
 galera
 gambas3
 gambit-c
-gamehub
 gamemode
 game-music-emu
 gamerzillagobj
@@ -2872,8 +2862,6 @@ gearhead2
 gears-backgrounds
 geary
 gecode
-gedit-color-schemes
-gedit-control-your-tabs
 gedit-latex
 gedit-plugin-editorconfig
 gedit-plugins
@@ -2976,6 +2964,7 @@ ghc-asn1-types
 ghc-assoc
 ghc-async
 ghc-atomic-write
+ghc-attoparsec-aeson
 ghc-attoparsec-binary
 ghc-attoparsec-iso8601
 ghc-attoparsec
@@ -3816,7 +3805,6 @@ gnome-feeds
 gnome-firmware
 gnome-flashback
 gnome-font-viewer
-gnome-hexgl
 gnome-characters
 gnome-chemistry-utils
 gnome-chess
@@ -3877,7 +3865,6 @@ gnome-shell-extension-ibus-font
 gnome-shell-extension-just-perfection
 gnome-shell-extension-netspeed
 gnome-shell-extension-no-overview
-gnome-shell-extension-openweather
 gnome-shell-extension-pidgin
 gnome-shell-extension-pop-shell
 gnome-shell-extension-refresh-wifi
@@ -3890,7 +3877,6 @@ gnome-shell-extension-vertical-workspaces
 gnome-shell-frippery
 gnome-shell-rpm-generators
 gnome-shell
-gnome-shell-theme-flat-remix
 gnome-software
 gnome-sound-recorder
 gnome-subtitles
@@ -4859,7 +4845,6 @@ golang-github-matttproud-protobuf-extensions2
 golang-github-maxatome-testdeep
 golang-github-maxhalford-halfgone
 golang-github-max-sum-base32768
-golang-github-mbndr-figlet4go
 golang-github-mdlayher-dhcp6
 golang-github-mdlayher-ethernet
 golang-github-mdlayher-ethtool
@@ -5338,7 +5323,6 @@ golang-github-tmc-grpc-websocket-proxy
 golang-github-tomasen-realip
 golang-github-tomnomnom-linkheader
 golang-github-tomnomnom-rawhttp
-golang-github-tomnomnom-xtermcolor
 golang-github-tonistiigi-actions-cache
 golang-github-tonistiigi-archvariant
 golang-github-tonistiigi-fsutil
@@ -5462,7 +5446,6 @@ golang-github-zmap-zlint-3
 golang-github-zookeeper-zk
 golang-github-zyedidia-clipper
 golang-github-zyedidia-glob
-golang-github-zyedidia-highlight
 golang-github-zyedidia-pty
 golang-github-zyedidia-tcell
 golang-github-zyedidia-terminal
@@ -5845,7 +5828,6 @@ gst-vosk
 gst123
 gtengine
 gtest
-gthree
 gthumb
 gtimelog
 gti
@@ -5893,7 +5875,6 @@ gtk3
 gtk4-layer-shell
 gtk4
 gtorrentviewer
-gtranslator
 gt
 gts
 gtts
@@ -6350,7 +6331,6 @@ iapetal
 iaxclient
 ibmonitor
 ibm-plex-fonts
-ibp
 ibsim
 ibus-anthy
 ibus-array
@@ -6572,7 +6552,6 @@ itzam-core
 iucode-tool
 iverilog
 iv
-ivtv-firmware
 ivykis
 iwd
 iwidgets
@@ -7383,8 +7362,6 @@ labiryntowy-fonts
 LabPlot
 labwc-menu-generator
 labwc
-la-capitaine-cursor-theme
-la-capitaine-icon-theme
 lacewing
 ladspa-amb-plugins
 ladspa-autotalent-plugins
@@ -8413,7 +8390,6 @@ linux-sgx-enclaves-prebuilt
 linux-sgx
 linux-sysinfo-snapshot
 linux-system-roles
-linux-thermaltake-rgb
 linux-user-chroot
 liquidctl
 liquid-dsp
@@ -8774,7 +8750,6 @@ mate-notification-daemon
 mate-panel
 mate-polkit
 mate-power-manager
-materia-gtk-theme
 materia-kde
 material-icons-fonts
 mate-screensaver
@@ -9387,7 +9362,6 @@ moe
 mogui
 mojo-executor
 mojo-parent
-moka-icon-theme
 mokutil
 mold
 molequeue
@@ -9441,7 +9415,6 @@ mousetweaks
 movit
 mozc
 mozilla-filesystem
-mozilla-fira-fonts
 mozilla-https-everywhere
 mozilla-noscript
 mozilla-privacy-badger
@@ -9568,6 +9541,7 @@ mysql++
 mysqltuner
 MySQL-zrm
 mysql8.0
+mysql8.4
 myst-nb
 mythes-bg
 mythes-ca
@@ -9774,7 +9748,6 @@ nickle
 nicotine+
 nicstat
 nifticlib
-nik4
 nilfs-utils
 ninja-build
 nipy-data
@@ -10264,7 +10237,6 @@ openhmd
 openhpi
 openhpi-subagent
 openh264
-openchange
 openigtlink
 openiked
 OpenImageIO
@@ -10582,7 +10554,6 @@ pdns
 pdqsort
 pdsh
 pe-bear
-peek
 PEGTL
 pekwm
 pem
@@ -11187,6 +11158,7 @@ perl-Dancer2-Plugin-DBIC
 perl-Dancer2-Plugin-REST
 perl-Dancer2
 perl-Danga-Socket
+perl-Darwin-InitObjC
 perl-Data-AMF
 perl-Data-AsObject
 perl-Database-DumpTruck
@@ -13722,7 +13694,6 @@ photocollage
 photoqt
 phototonic
 php-adodb
-php-alcaeus-mongo-php-adapter
 php-ast
 php-bacon-qr-code2
 php-bartlett-PHP-CompatInfo
@@ -13797,7 +13768,6 @@ php-mockery
 php-mock-integration2
 php-mock-phpunit2
 php-mock2
-php-mongodb
 php-Monolog
 php-mtdowling-jmespath-php
 phpMyAdmin
@@ -13872,7 +13842,7 @@ php-pecl-mailparse
 php-pecl-mcrypt
 php-pecl-memcached
 php-pecl-memcache
-php-pecl-mongodb
+php-pecl-mongodb2
 php-pecl-msgpack
 php-pecl-oauth
 php-pecl-pcov
@@ -14053,7 +14023,6 @@ php-symfony-contracts
 php-symfony-contracts2
 php-symfony-polyfill
 php-symfony-requirements-checker
-php-symfony4
 php-tcpdf
 php-tecnickcom-tc-lib-barcode
 php-tecnickcom-tc-lib-color
@@ -14370,8 +14339,6 @@ production-type-spectral-fonts
 ProDy
 profanity
 professor-is-missing
-profile-cleaner
-profile-sync-daemon
 proftpd
 progman
 progress
@@ -14633,6 +14600,7 @@ python-anykeystore
 python-anytree
 python-aodhclient
 python-apipkg
+python-apkinspector
 python-appdirs
 python-applicationinsights
 python-apprise
@@ -14869,6 +14837,7 @@ python-blosc2
 python-blowfish
 python-bluepyopt
 python-blurb
+python-blurhash
 python-bokeh
 python-boltons
 python-booleanoperations
@@ -15030,7 +14999,6 @@ python-colorful
 python-colorlog
 python-colormath2
 python-colorspacious
-python-colorthief
 python-colorzero
 python-colour
 python-commandparse
@@ -15270,6 +15238,7 @@ python-doxytag2zealdb
 python-dparse2
 python-dpath
 python-dpkt
+python-dragonmapper
 python-drain3
 python-drgn
 python-dropbox
@@ -15515,7 +15484,6 @@ python-gerritlib
 python-gertty
 python-getmac
 python-gettext
-python-gevent-eventemitter
 python-gevent
 python-ghp-import
 python-giacpy
@@ -16043,6 +16011,7 @@ python-mplcursors
 python-mpmath
 python-mrcfile
 python-mrcrowbar
+python-mrtparse
 python-msal-extensions
 python-msal
 python-msgpack
@@ -16397,6 +16366,7 @@ python-propcache
 python-protego
 python-proton-core
 python-proton-vpn-api-core
+python-proton-vpn-network-manager
 python-proto-plus
 python-prov
 python-psutil
@@ -16616,6 +16586,7 @@ python-pyramid
 python-pyramid-tm
 python-pyrate-limiter
 python-pyrdfa3
+python-pyregion
 python-pyriemann
 python-pyroaring
 python-pyro
@@ -17010,6 +16981,7 @@ python-sklearn-genetic
 python-sklearn-nature-inspired-algorithms
 python-slackclient
 python-slacker
+python-slip10
 python-slixmpp-omemo
 python-slixmpp
 python-slugify
@@ -17031,6 +17003,7 @@ python-snakemake-executor-plugin-slurm
 python-snakemake-executor-plugin-tes
 python-snakemake-interface-common
 python-snakemake-interface-executor-plugins
+python-snakemake-interface-logger-plugins
 python-snakemake-interface-report-plugins
 python-snakemake-interface-storage-plugins
 python-snakemake-storage-plugin-azure
@@ -17149,6 +17122,7 @@ python-ssh-python
 python-sshtunnel
 python-stack-data
 python-stackprinter
+python-standard-mailcap
 python-starlette
 python-statsmodels
 python-stdiomask
@@ -17342,6 +17316,7 @@ python-types-requests
 python-types-setuptools
 python-types-six
 python-typing-extensions
+python-typing-inspection
 python-typing-inspect
 python-typish
 python-typogrify
@@ -17890,8 +17865,6 @@ R-acepack
 racket
 radare2
 radcli
-radeon-profile-daemon
-radeon-profile
 radeontool
 radeontop
 radial
@@ -18044,7 +18017,6 @@ realtime-tests
 rear
 reaver
 rebase-helper
-recapp
 recap
 recode
 recoll
@@ -18109,6 +18081,7 @@ restview
 rest0.7
 resultsdb_conventions
 retext
+retis
 retrace-server
 retroarch
 retsnoop
@@ -18802,7 +18775,6 @@ rust-apple-xar
 rust-approx
 rust-app-store-connect
 rust-arbitrary
-rust-arbitrary0.4
 rust-arboard
 rust-arcstr
 rust-arc-swap
@@ -18932,7 +18904,6 @@ rust-below-tc
 rust-below-view
 rust-bencher
 rust-bigdecimal
-rust-bigdecimal0.3
 rust-bimap
 rust-binary-heap-plus
 rust-bindgen-cli
@@ -19240,7 +19211,6 @@ rust-dav1d
 rust-dbl
 rust-dbus
 rust-dbus-tree
-rust-dbus0.8
 rust-debug-helper
 rust-decimal
 rust-defer-drop
@@ -19252,7 +19222,6 @@ rust-delharc
 rust-deranged
 rust-der_derive
 rust-derive_arbitrary
-rust-derive_arbitrary0.4
 rust-derive_builder_core
 rust-derive_builder_macro
 rust-derive_builder
@@ -19388,6 +19357,7 @@ rust-error-chain
 rust-escape8259
 rust-escargot
 rust-etcetera
+rust-etcetera0.8
 rust-euclid
 rust-event-listener
 rust-event-listener-strategy
@@ -19752,8 +19722,18 @@ rust-chunked_transfer
 rust-iai
 rust-iana-time-zone
 rust-icu_collections
+rust-icu_locid
+rust-icu_locid_transform_data
+rust-icu_locid_transform
+rust-icu_normalizer_data
+rust-icu_normalizer
+rust-icu_properties_data
+rust-icu_properties
+rust-icu_provider_macros
+rust-icu_provider
 rust-idea
 rust-ident_case
+rust-idna_adapter
 rust-idna
 rust-idna0.3
 rust-idna0.4
@@ -20188,6 +20168,7 @@ rust-oo7
 rust-opaque-debug
 rust-openat
 rust-open-enum-derive
+rust-open-enum
 rust-opener
 rust-openpgp-cert-d
 rust-openssh-keys
@@ -20353,6 +20334,7 @@ rust-proc-macro-error2
 rust-proc-macro-hack
 rust-proc-macro2-diagnostics
 rust-proc-macro2
+rust-proctitle
 rust-prodash
 rust-progpool
 rust-prometheus-client-derive-encode
@@ -20403,7 +20385,11 @@ rust-python-pkginfo
 rust-p256
 rust-p384
 rust-p521
+rust-qapi-codegen
 rust-qapi-parser
+rust-qapi-qga
+rust-qapi-qmp
+rust-qapi
 rust-qapi-spec
 rust-qoi
 rust-quanta
@@ -20602,6 +20588,7 @@ rust-sarif-fmt
 rust-scc
 rust-scoped-tls
 rust-scopeguard
+rust-scraper
 rust-scratch
 rust-scroll_derive0.11
 rust-scroll0.11
@@ -20730,6 +20717,7 @@ rust-sinit
 rust-siphasher
 rust-siphasher0.3
 rust-sized-chunks
+rust-size
 rust-sketches-ddsketch
 rust-sled
 rust-slog-async
@@ -20881,6 +20869,7 @@ rust-test-tag
 rust-text-block-macros
 rust-text_placeholder
 rust-textwrap0.15
+rust-thin-vec
 rust-thiserror-impl
 rust-thiserror-impl1
 rust-thiserror
@@ -21011,10 +21000,12 @@ rust-typetag
 rust-ubyte
 rust-ucd-parse
 rust-ucd-trie
+rust-ucs2
 rust-udev
 rust-udev0.7
 rust-uefi-run
 rust-ufmt-write
+rust-uguid
 rust-ulid
 rust-uluru
 rust-unarray
@@ -21074,6 +21065,7 @@ rust-usbredirparser
 rust-usbredirparser-sys
 rust-userfaultfd
 rust-userfaultfd-sys
+rust-utf16_iter
 rust-utf8_iter
 rust-utf8parse
 rust-utf-8
@@ -21227,6 +21219,7 @@ rust-wl-clipboard-rs
 rust-wl-nl80211
 rust-wmidi
 rust-writeable
+rust-write16
 rust-wu-diff
 rust-xattr
 rust-xattr0.2
@@ -21326,6 +21319,7 @@ R-xmlparsedata
 R-XML
 R-xml2
 R-xopen
+rx-ranges
 R-xtable
 R-XVector
 rxvt-unicode
@@ -21505,7 +21499,6 @@ seahorse
 seamonkey
 seaview
 secilc
-secrets
 sec
 security-menus
 secvarctl
@@ -21560,7 +21553,6 @@ sfwbar
 sfxr
 sgml-common
 sgpio
-sgtk-menu
 sgx-rpm-macros
 sg3_utils
 shaderc
@@ -21603,6 +21595,7 @@ shutter
 shyaml
 shybrid
 schedtool
+schemesh
 schismtracker
 schroedinger-cat-backgrounds
 schroedinger
@@ -21922,7 +21915,6 @@ ssmtp
 sssd
 ssss
 sstp-client
-stacer
 stack
 staden-io_lib
 stage
@@ -22043,12 +22035,10 @@ supernovas
 supertuxkart
 supertux
 supervisor
-surf-geometry
 surfraw
 surf
 surgescript
 suricata
-suru-icon-theme
 suseconnect-ng
 sushi
 svgpart
@@ -22108,7 +22098,6 @@ sysconftool
 sysfsutils
 syslinux
 syslog-ng
-sysmontask
 sysreporter
 sysrepo
 sysstat
@@ -22329,7 +22318,6 @@ titools
 tito
 tix
 tkabber-plugins
-tkabber
 tkdnd
 tkimg
 tklib
@@ -22442,6 +22430,7 @@ treelayout
 tree-pkg
 tree-sitter-elixir
 tree-sitter-java
+tree-sitter-json
 tree-sitter-srpm-macros
 trelby
 trellis
@@ -22566,7 +22555,6 @@ uhubctl
 uchardet
 uid_wrapper
 uim
-uisp
 ukij-tuz-fonts
 ularn
 ulauncher
@@ -22610,6 +22598,7 @@ unrar-free
 unrealircd
 unresolved
 unrtf
+unshield
 unuran
 unzboot
 unzip
@@ -22765,14 +22754,12 @@ vifm
 vigra
 viking
 vile
-vim-airline
 vim-ale
 vim-ansible
 vimb
 vim-command-t
 vim-commentary
 vim-ctrlp
-vim-devicons
 vim-fugitive-gitlab
 vim-fugitive-pagure
 vim-fugitive
@@ -22917,6 +22904,7 @@ waylandpp
 wayland-protocols
 wayland
 wayland-utils
+waynergy
 waypipe
 wayvnc
 wbfs-manager
@@ -23052,6 +23040,7 @@ wordwarvi
 wordxtr
 worker
 workflow
+workrave
 worminator-data
 worminator
 wpan-tools
@@ -23140,7 +23129,6 @@ xcowsay
 xcursorgen
 xdaliclock
 xdelta
-xde-menu
 xdemorse
 xdesktopwaves
 xdffileio
@@ -23418,7 +23406,6 @@ xwm
 xwud
 xwxapt
 xxhash
-xxkb
 xylib
 xyzsh
 xzgv

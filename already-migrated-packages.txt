@@ -548,6 +548,7 @@ bib2html
 bicon
 bids-schema
 bigloo
+bign-handheld-thumbnailer
 bijiben
 biloba
 binaryen
@@ -649,7 +650,6 @@ bpftool
 bpftop
 bpftrace
 bpg-fonts
-bpytop
 braille-printer-app
 brainfuck
 brasero
@@ -884,7 +884,6 @@ clinfo
 clingo
 clipit
 clipman
-clipsmm
 clips
 cliquer
 clisp
@@ -962,7 +961,6 @@ ColPack
 compat-gdbm
 compat-guichan05
 compat-guile18
-compat-readline5
 compat-readline6
 compface
 compiler-rt17
@@ -1361,6 +1359,7 @@ diff-so-fancy
 diffstat
 diffuse
 diffutils
+digdoc
 digikam
 digitemp
 dillo
@@ -1463,7 +1462,6 @@ dragonbox
 dragon
 drat-trim
 drat2er
-drawing
 drbdlinks
 drbd
 dreamchess
@@ -1718,7 +1716,6 @@ erlang-hex_core
 erlang-hut
 erlang-ibrowse
 erlang-iconv
-erlang-js
 erlang-lager
 erlang-lfe
 erlang-log4erl
@@ -1789,7 +1786,6 @@ eventviews
 evince
 evolution-data-server
 evolution-ews
-evolution-mapi
 evolution-rspam
 evolution
 evtest
@@ -1817,7 +1813,6 @@ e2tools
 e3
 fabtests
 facter
-faience-icon-theme
 fail2ban
 faketpm
 falkon-pdfreader
@@ -1979,7 +1974,6 @@ flatpak-builder
 flatpak-kcm
 flatpak
 flatpak-xdg-utils
-flat-remix-theme
 flatseal
 flawfinder
 flaw
@@ -2186,7 +2180,6 @@ galculator
 galera
 gambas3
 gambit-c
-gamehub
 gamemode
 gamerzillagobj
 games-menus
@@ -2356,8 +2349,6 @@ gd
 gdu
 geany-plugins
 gearhead2
-gedit-color-schemes
-gedit-control-your-tabs
 gedit-latex
 gedit-plugins
 gedit
@@ -2452,6 +2443,7 @@ ghc-asn1-types
 ghc-assoc
 ghc-async
 ghc-atomic-write
+ghc-attoparsec-aeson
 ghc-attoparsec-binary
 ghc-attoparsec-iso8601
 ghc-attoparsec
@@ -3276,7 +3268,6 @@ gnome-shell-extension-ibus-font
 gnome-shell-extension-just-perfection
 gnome-shell-extension-netspeed
 gnome-shell-extension-no-overview
-gnome-shell-extension-openweather
 gnome-shell-extension-pidgin
 gnome-shell-extension-pop-shell
 gnome-shell-extension-refresh-wifi
@@ -4414,7 +4405,6 @@ gtk3
 gtk4-layer-shell
 gtk4
 gtorrentviewer
-gtranslator
 gt
 gts
 gtypist
@@ -4824,7 +4814,6 @@ chunkfs
 iaito
 iapetal
 ibmonitor
-ibp
 ibus-anthy
 ibus-array
 ibus-cangjie
@@ -4856,6 +4845,7 @@ ibus-unikey
 icat
 iceauth
 icebreaker
+icecast
 icecat
 icecream
 icedtea-web
@@ -5657,7 +5647,6 @@ k3guitune
 LabPlot
 labwc-menu-generator
 labwc
-la-capitaine-cursor-theme
 lacewing
 ladspa-amb-plugins
 ladspa-autotalent-plugins
@@ -6338,6 +6327,7 @@ libvirt-test-API
 libvisio
 libvisual
 libvlcpp
+libvma
 libvmi
 libvncserver
 libvoikko
@@ -6462,7 +6452,6 @@ linuxptp
 linux-sgx-enclaves-prebuilt
 linux-sgx
 linux-sysinfo-snapshot
-linux-thermaltake-rgb
 linux-user-chroot
 liquidctl
 liquidwar
@@ -6725,7 +6714,6 @@ mate-calc
 mate-common
 mate-notification-daemon
 mate-power-manager
-materia-gtk-theme
 materia-kde
 material-icons-fonts
 mate-sensors-applet
@@ -7204,7 +7192,6 @@ mousepad
 movit
 mozc
 mozilla-filesystem
-mozilla-fira-fonts
 mozilla-https-everywhere
 mozilla-noscript
 mozilla-privacy-badger
@@ -7300,6 +7287,7 @@ mysql++
 mysqltuner
 MySQL-zrm
 mysql8.0
+mysql8.4
 myst-nb
 mythes-bg
 mythes-ca
@@ -7886,7 +7874,6 @@ opengrm-ngram
 openhantek
 openhmd
 openh264
-openchange
 OpenImageIO
 OpenIPMI
 openjade
@@ -8755,6 +8742,7 @@ perl-Dancer2-Plugin-DBIC
 perl-Dancer2-Plugin-REST
 perl-Dancer2
 perl-Danga-Socket
+perl-Darwin-InitObjC
 perl-Data-AMF
 perl-Data-AsObject
 perl-Database-DumpTruck
@@ -11216,7 +11204,6 @@ php-markdown
 php-maxminddb
 php-mikey179-vfsstream
 php-mockery
-php-mongodb
 phpMyAdmin
 php-netresearch-jsonmapper
 php-netresearch-jsonmapper4
@@ -11265,7 +11252,7 @@ php-pecl-mailparse
 php-pecl-mcrypt
 php-pecl-memcached
 php-pecl-memcache
-php-pecl-mongodb
+php-pecl-mongodb2
 php-pecl-msgpack
 php-pecl-oauth
 php-pecl-pcov
@@ -11843,6 +11830,7 @@ python-ansi2html
 python-anyjson
 python-anytree
 python-aodhclient
+python-apkinspector
 python-appdirs
 python-applicationinsights
 python-apprise
@@ -11980,6 +11968,7 @@ python-blosc2
 python-blowfish
 python-bluepyopt
 python-blurb
+python-blurhash
 python-boltons
 python-botocore
 python-boto
@@ -12092,7 +12081,6 @@ python-collectd_puppet
 python-colorama
 python-colored
 python-colormath2
-python-colorthief
 python-commoncode
 python-comm
 python-compreffor
@@ -12233,6 +12221,7 @@ python-doxypypy
 python-doxyqml
 python-doxytag2zealdb
 python-dparse2
+python-dragonmapper
 python-drain3
 python-drgn
 python-dropbox
@@ -12779,6 +12768,7 @@ python-mpd
 python-mpd2
 python-mpmath
 python-mrcfile
+python-mrtparse
 python-msal-extensions
 python-msal
 python-msgpack
@@ -13034,6 +13024,7 @@ python-propcache
 python-protego
 python-proton-core
 python-proton-vpn-api-core
+python-proton-vpn-network-manager
 python-proto-plus
 python-psutil
 python-psycopg2
@@ -13195,6 +13186,7 @@ python-pyramid_sawing
 python-pyramid
 python-pyrate-limiter
 python-pyrdfa3
+python-pyregion
 python-pyrfc3339
 python-pyriemann
 python-pyroaring
@@ -13475,6 +13467,7 @@ python-sklearn-genetic
 python-sklearn-nature-inspired-algorithms
 python-slackclient
 python-slacker
+python-slip10
 python-slixmpp-omemo
 python-smartypants
 python-smbc
@@ -13490,6 +13483,7 @@ python-snakemake-executor-plugin-slurm
 python-snakemake-executor-plugin-tes
 python-snakemake-interface-common
 python-snakemake-interface-executor-plugins
+python-snakemake-interface-logger-plugins
 python-snakemake-interface-report-plugins
 python-snakemake-interface-storage-plugins
 python-snakemake-storage-plugin-azure
@@ -13570,6 +13564,7 @@ python-sseclient-py
 python-ssh-python
 python-sshtunnel
 python-stack-data
+python-standard-mailcap
 python-starlette
 python-stdiomask
 python-stdlib-list
@@ -13714,6 +13709,7 @@ python-types-requests
 python-types-setuptools
 python-types-six
 python-typing-extensions
+python-typing-inspection
 python-typing-inspect
 python-typogrify
 python-ua-parser-builtins
@@ -14106,8 +14102,6 @@ raceintospace
 racket
 radare2
 radcli
-radeon-profile-daemon
-radeon-profile
 radeontop
 radial
 radicale
@@ -14215,7 +14209,6 @@ realtime-tests
 rear
 reaver
 rebase-helper
-recapp
 recap
 recode
 recoll
@@ -14268,6 +14261,7 @@ rest
 restview
 resultsdb_conventions
 retext
+retis
 retrace-server
 retroarch
 retsnoop
@@ -15076,7 +15070,6 @@ rust-apple-xar
 rust-approx
 rust-app-store-connect
 rust-arbitrary
-rust-arbitrary0.4
 rust-arboard
 rust-arcstr
 rust-arc-swap
@@ -15217,7 +15210,6 @@ rust-below-tc
 rust-below-view
 rust-bencher
 rust-bigdecimal
-rust-bigdecimal0.3
 rust-bimap
 rust-binary-heap-plus
 rust-binascii
@@ -15574,7 +15566,6 @@ rust-dav1d-sys
 rust-dbl
 rust-dbus
 rust-dbus-tree
-rust-dbus0.8
 rust-decimal
 rust-defer-drop
 rust-deflate64
@@ -15585,7 +15576,6 @@ rust-delharc
 rust-deranged
 rust-der_derive
 rust-derive_arbitrary
-rust-derive_arbitrary0.4
 rust-derive_builder_core
 rust-derive_builder_macro
 rust-derive_builder
@@ -15740,6 +15730,7 @@ rust-error-chain
 rust-escape8259
 rust-escargot
 rust-etcetera
+rust-etcetera0.8
 rust-ethtool
 rust-euclid
 rust-event-listener
@@ -16173,8 +16164,18 @@ rust-chunked_transfer
 rust-iai
 rust-iana-time-zone
 rust-icu_collections
+rust-icu_locid
+rust-icu_locid_transform_data
+rust-icu_locid_transform
+rust-icu_normalizer_data
+rust-icu_normalizer
+rust-icu_properties_data
+rust-icu_properties
+rust-icu_provider_macros
+rust-icu_provider
 rust-idea
 rust-ident_case
+rust-idna_adapter
 rust-idna
 rust-idna0.3
 rust-idna0.4
@@ -16684,6 +16685,7 @@ rust-oo7
 rust-opaque-debug
 rust-openat
 rust-open-enum-derive
+rust-open-enum
 rust-opener
 rust-openpgp-cert-d
 rust-open
@@ -16904,6 +16906,7 @@ rust-proc-macro2
 rust-proc-maps
 rust-proc-mounts
 rust-procs
+rust-proctitle
 rust-prodash
 rust-progpool
 rust-prometheus-client-derive-encode
@@ -16961,7 +16964,11 @@ rust-python-pkginfo
 rust-p256
 rust-p384
 rust-p521
+rust-qapi-codegen
 rust-qapi-parser
+rust-qapi-qga
+rust-qapi-qmp
+rust-qapi
 rust-qapi-spec
 rust-qoi
 rust-qstring
@@ -17196,6 +17203,7 @@ rust-scoped_threadpool
 rust-scoped-tls
 rust-scopeguard
 rust-scopetime
+rust-scraper
 rust-scratch
 rust-scroll_derive
 rust-scroll_derive0.11
@@ -17526,6 +17534,7 @@ rust-text_placeholder
 rust-textwrap
 rust-textwrap0.11
 rust-textwrap0.15
+rust-thin-vec
 rust-thiserror-impl
 rust-thiserror-impl1
 rust-thiserror
@@ -17688,10 +17697,12 @@ rust-tzfile
 rust-ubyte
 rust-ucd-parse
 rust-ucd-trie
+rust-ucs2
 rust-udev
 rust-udev0.7
 rust-uefi-run
 rust-ufmt-write
+rust-uguid
 rust-ulid
 rust-uluru
 rust-umask
@@ -17754,6 +17765,7 @@ rust-usbredirparser
 rust-usbredirparser-sys
 rust-userfaultfd
 rust-userfaultfd-sys
+rust-utf16_iter
 rust-utf8_iter
 rust-utf8parse
 rust-utf-8
@@ -17924,6 +17936,7 @@ rust-wl-clipboard-rs
 rust-wl-nl80211
 rust-wmidi
 rust-writeable
+rust-write16
 rust-wu-diff
 rust-wyz
 rust-xattr
@@ -18023,6 +18036,7 @@ rwhoisd
 R-winch
 R-XML
 R-xml2
+rx-ranges
 R-xtable
 R-XVector
 rxvt-unicode
@@ -18176,7 +18190,6 @@ seamonkey
 seatd
 seaview
 secilc
-secrets
 sec
 security-menus
 secvarctl
@@ -18228,7 +18241,6 @@ sfsexp
 sfwbar
 sgml-common
 sgpio
-sgtk-menu
 sgx-rpm-macros
 sg3_utils
 shaderc
@@ -18261,6 +18273,7 @@ shtool
 shyaml
 shybrid
 schedtool
+schemesh
 schismtracker
 schroedinger-cat-backgrounds
 SIBsim4
@@ -18531,7 +18544,6 @@ ssmtp
 sssd
 ssss
 sstp-client
-stacer
 stack
 stage
 stalld
@@ -18637,7 +18649,6 @@ supernovas
 supertuxkart
 supertux
 supervisor
-surf-geometry
 surfraw
 surgescript
 suricata
@@ -18844,7 +18855,6 @@ tiresias-fonts
 titools
 tito
 tix
-tkabber
 tkrzw
 tk
 tk8
@@ -18937,6 +18947,7 @@ treelayout
 tree-pkg
 tree-sitter-elixir
 tree-sitter-java
+tree-sitter-json
 tree-sitter
 tree-sitter-srpm-macros
 trelby
@@ -19035,7 +19046,6 @@ uhubctl
 uchardet
 uid_wrapper
 uim
-uisp
 ukij-tuz-fonts
 ularn
 ulauncher
@@ -19318,6 +19328,7 @@ wayland-logout
 wayland-protocols
 wayland
 wayland-utils
+waynergy
 waypipe
 wbfs-manager
 wcd
@@ -19435,6 +19446,7 @@ words
 wordxtr
 worker
 workflow
+workrave
 worminator-data
 worminator
 wpa_supplicant
@@ -19502,7 +19514,6 @@ xclock
 xcowsay
 xcursorgen
 xdelta
-xde-menu
 xdemorse
 xdesktopwaves
 xdffileio
@@ -19711,7 +19722,6 @@ xwd
 xwininfo
 xwxapt
 xxhash
-xxkb
 xylib
 xyzsh
 xzgv
