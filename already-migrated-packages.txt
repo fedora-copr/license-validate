@@ -1462,6 +1462,7 @@ dragonbox
 dragon
 drat-trim
 drat2er
+drawing
 drbdlinks
 drbd
 dreamchess
@@ -2383,6 +2384,8 @@ getdata
 getdns
 getdp
 get_iplayer
+getmail
+getmail6
 gettext
 gfalFS
 gfal2-python
@@ -2611,11 +2614,15 @@ ghc-gi-atk
 ghc-gi-cairo
 ghc-gi-gdkpixbuf
 ghc-gi-gdk
+ghc-gi-gdk3
+ghc-gi-gdk4
 ghc-gi-gio
 ghc-gi-glib
 ghc-gi-gmodule
 ghc-gi-gobject
 ghc-gi-gtk
+ghc-gi-gtk3
+ghc-gi-gtk4
 ghc-gi-harfbuzz
 ghc-gio
 ghc-gi-ostree
@@ -3330,7 +3337,6 @@ goaccess
 goarrange
 gobi_loader
 gobject-introspection
-gobuster
 gocr
 goddard-kde-theme
 godoctor
@@ -4978,6 +4984,7 @@ irsim
 irssi
 irstlm
 isa-l
+iscan-firmware
 iscsi-initiator-utils
 is-it-in-rhel
 islamic-menus
@@ -5848,6 +5855,7 @@ libemu
 libeot
 libepoxy
 libepubgen
+liberasurecode
 liberation-circuit
 liberation-fonts
 liberation-narrow-fonts
@@ -6078,6 +6086,7 @@ libnfc
 libnfnetlink
 libnfs
 libnftnl
+libnice
 libnids
 libnitrokey
 libnl3
@@ -7453,6 +7462,7 @@ NFStest
 nfs4-acl-tools
 nftables
 nghttp2
+nginx-mod-brotli
 nginx-mod-fancyindex
 nginx-mod-headers-more
 nginx-mod-modsecurity
@@ -7589,6 +7599,7 @@ obs-service-recompress
 obs-service-set_version
 obs-service-tar_scm
 obs-signd
+obs-studio-plugin-droidcam
 obs-studio-plugin-vaapi
 obs-studio-plugin-vkcapture
 obs-studio-plugin-webkitgtk
@@ -9200,7 +9211,6 @@ perl-Filter-signatures
 perl-Filter-Simple
 perl-Filter
 perl-Finance-Quote
-perl-Finance-YahooQuote
 perl-Font-AFM
 perl-Font-TTFMetrics
 perl-Font-TTF
@@ -11162,6 +11172,7 @@ petsc
 pf-bb-config
 pgadmin4
 pgbadger
+pgbouncer
 pgcli
 pgmodeler
 pgn-extract
@@ -12540,6 +12551,7 @@ python-ipuz
 python-ipykernel
 python-ipyparallel
 python-ipython_genutils
+python-ipython-pygments-lexers
 python-ipywidgets
 python-irc
 python-irodsclient
@@ -12721,6 +12733,7 @@ python-mdurl
 python-mdx_gh_links
 python-meautility
 python-mediafile
+python-medimages4tests
 python-meh
 python-memray
 python-menuinst
@@ -12828,6 +12841,7 @@ python-neutronclient
 python-nfcpy
 python-nh3
 python-niaarm
+python-niaarmts
 python-niaclass
 python-nifti-mrs
 python-nihtest
@@ -14485,6 +14499,7 @@ R-RColorBrewer
 R-RcppCCTZ
 R-RcppDate
 R-Rcpp
+R-RcppTOML
 rrdtool
 R-readr
 R-repr
@@ -15083,6 +15098,7 @@ rust-argon2
 rust-argparse
 rust-archery
 rust-ariadne
+rust-arraydeque
 rust-arrayref
 rust-arrayvec
 rust-arrayvec0.5
@@ -15177,6 +15193,7 @@ rust-az-snp-vtpm
 rust-az
 rust-az-tdx-vtpm
 rust-backoff
+rust-backon
 rust-backtrace-ext
 rust-backtrace
 rust-bankstown-lv2
@@ -15191,6 +15208,7 @@ rust-base64_0.13
 rust-base64_0.21
 rust-basic-toml
 rust-bat
+rust-bb8
 rust-bcder
 rust-bcrypt-pbkdf
 rust-bcrypt
@@ -15223,6 +15241,7 @@ rust-biquad
 rust-bisection
 rust-bit_field
 rust-bitfield
+rust-bitfield-struct
 rust-bitfield0.14
 rust-bitflags
 rust-bitflags1
@@ -15560,7 +15579,6 @@ rust-data-encoding-macro-internal
 rust-data-encoding-macro
 rust-data-encoding
 rust-data-url
-rust-datetime
 rust-dav1d
 rust-dav1d-sys
 rust-dbl
@@ -16125,6 +16143,7 @@ rust-http-content-range
 rust-httpdate
 rust-http-range-header
 rust-http
+rust-httptest
 rust-http0.2
 rust-human-date-parser
 rust-human_format
@@ -16232,6 +16251,7 @@ rust-interprocess
 rust-interprocess1
 rust-intl-memoizer
 rust-intl_pluralrules
+rust-in-toto
 rust-intrusive-collections
 rust-invalidstring
 rust-inventory
@@ -16436,7 +16456,6 @@ rust-llvm-bitcode
 rust-lmdb
 rust-lmdb-sys
 rust-locale_config
-rust-locale
 rust-local-channel
 rust-local-waker
 rust-lock_api
@@ -16516,6 +16535,7 @@ rust-metrics
 rust-metrics-util
 rust-miette-derive
 rust-miette
+rust-migrations_internals
 rust-mimalloc
 rust-mime_guess
 rust-mime
@@ -16721,7 +16741,6 @@ rust-owo-colors
 rust-owo-colors3
 rust-oxipng
 rust-packaging
-rust-pad
 rust-pager
 rust-page_size
 rust-palette_derive
@@ -17667,6 +17686,7 @@ rust-tree-sitter-xml
 rust-tree-sitter-yaml
 rust-tree-sitter0.23
 rust-triforce-lv2
+rust-trim-in-place
 rust-triomphe
 rust-trybuild
 rust-trybuild2
@@ -18006,7 +18026,6 @@ rust-zincati
 rust-zip
 rust-zip0.6
 rust-zlib-rs
-rust-zoneinfo_compiled
 rust-zopfli
 rust-zoxide
 rust-zram-generator
@@ -18655,6 +18674,7 @@ suricata
 suseconnect-ng
 sushi
 svgpart
+svgpp
 svt-av1
 svxlink
 swaks
@@ -18858,6 +18878,7 @@ tix
 tkrzw
 tk
 tk8
+tlfloat
 tlf
 tllist
 tlmi-auth
@@ -19209,6 +19230,7 @@ vgrep
 v-hacd
 vhd2vl
 vhostmd
+vhs
 video-downloader
 vid.stab
 viewnior
@@ -19787,6 +19809,7 @@ yubihsm-connector
 yubihsm-shell
 yubikey-manager-qt
 yubikey-manager
+yudit-fonts
 yyjson
 zabbix
 zaf

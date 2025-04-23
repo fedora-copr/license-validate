@@ -231,6 +231,7 @@ docbook-style-xsl
 docbook-utils
 docbook5-schemas
 docbook5-style-xsl
+doctest
 dogtag-pki
 dos2unix
 dosfstools
@@ -1177,6 +1178,7 @@ mpich
 mpitests
 mptcpd
 mrtg
+msgraph
 msitools
 mstflint
 msv
@@ -1285,7 +1287,6 @@ opentelemetry-collector-cloudwatch-config
 opentest4j
 openwsman
 opus
-oqsprovider
 orc
 orca
 os-prober
@@ -1726,9 +1727,6 @@ python-blivet
 python-breathe
 python-cffi
 python-charset-normalizer
-python-click
-python-click-man
-python-click-plugins
 python-colorama
 python-configobj
 python-configshell
@@ -1791,6 +1789,7 @@ python-nihtest
 python-oauthlib
 python-packaging
 python-pam
+python-pandas
 python-pathspec
 python-pefile
 python-pexpect
@@ -1812,7 +1811,6 @@ python-pycdio
 python-pycotap
 python-pycparser
 python-pyghmi
-python-pygit2
 python-pygments
 python-pyproject-hooks
 python-pyproject-metadata
@@ -1821,6 +1819,7 @@ python-pyqt6-sip
 python-pytest-subtests
 python-pyudev
 python-qrcode
+python-rapidfuzz
 python-referencing
 python-requests
 python-requests-file
@@ -1860,6 +1859,7 @@ python-typogrify
 python-urllib-gssapi
 python-urllib3
 python-urwid
+python-versioneer
 python-virt-firmware
 python-wcwidth
 python-websockets
@@ -1868,6 +1868,7 @@ python-xkbregistry
 python-yubico
 python3-mallard-ducktype
 python3.13
+pytz
 pyusb
 pyxattr
 pyxdg
@@ -1912,6 +1913,7 @@ qt6-qtwebchannel
 qt6-qtwebsockets
 quota
 radvd
+rapidfuzz-cpp
 rapidjson
 rasdaemon
 rdma-core
@@ -1979,6 +1981,7 @@ rubygem-rspec-support
 rubygem-thread_order
 rust
 rust-afterburn
+rust-bindgen-cli
 rust-bootupd
 rust-coreos-installer
 rust-gst-plugin-gtk4
@@ -2113,6 +2116,7 @@ taglib
 tang
 tar
 targetcli
+taskflow
 tbb
 tboot
 tcl
@@ -2167,6 +2171,7 @@ ucx
 udev-hid-bpf
 udica
 udisks2
+uhttpmock
 uid_wrapper
 umockdev
 unbound
