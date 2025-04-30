@@ -1036,6 +1036,7 @@ ClanLib
 ClanLib06
 ClanLib1
 clapper
+clap
 cl-asdf
 classification-banner
 classified-ads
@@ -1327,6 +1328,7 @@ create-fake-rpm
 createrepo-agent
 createrepo_c
 credentials-fetcher
+credcheck
 credslayer
 creds
 crest
@@ -1341,6 +1343,7 @@ cri-tools1.29
 cri-tools1.30
 cri-tools1.31
 cri-tools1.32
+cri-tools1.33
 criu
 cr-marcstevens-snippets
 crm114
@@ -2924,9 +2927,6 @@ getmail
 getmail6
 gettext
 gfalFS
-gfal2-python
-gfal2
-gfal2-util
 gfan
 gflags
 gforth
@@ -5913,6 +5913,7 @@ gtk3
 gtk4-layer-shell
 gtk4
 gtorrentviewer
+gtranslator
 gt
 gts
 gtts
@@ -7368,6 +7369,7 @@ kubernetes1.29
 kubernetes1.30
 kubernetes1.31
 kubernetes1.32
+kubernetes1.33
 kubrick
 kunifiedpush
 kurdit-unikurd-web-fonts
@@ -8949,6 +8951,7 @@ mepack
 mercurial
 merkaartor
 merkuro
+mesa-compat
 mesa-demos
 mesaflash
 mesa-libGLU
@@ -10333,6 +10336,7 @@ openresolv
 openrgb
 openriichi
 open-sans-fonts
+openscad-bosl2
 openscad
 openscap-report
 openscap
@@ -13697,6 +13701,7 @@ perl-XRD-Parser
 perl-XS-Parse-Keyword
 perl-XS-Parse-Sublike
 perl-XString
+perl-X-Tiny
 perl-XXX
 perl-X10
 perl-X11-Protocol-Other
@@ -13905,6 +13910,7 @@ php-pecl-msgpack
 php-pecl-oauth
 php-pecl-pcov
 php-pecl-pq
+php-pecl-pspell
 php-pecl-raphf
 php-pecl-redis6
 php-pecl-rpminfo
@@ -14641,6 +14647,7 @@ python-alsa
 python-amply
 python-amqp
 python-ana
+python-androguard
 python-animatplot
 python-aniso8601
 python-annarchy
@@ -14945,6 +14952,7 @@ pythoncapi-compat
 python-capturer
 python-carbon
 python-cartopy
+python-cart
 python-cascadio
 python-casttube
 python-catkin_lint
@@ -15273,7 +15281,6 @@ python-dkimpy
 python-dmidecode
 python-dns-lexicon
 python-dnslib
-python-dnspython
 python-dns
 python-dockerfile-parse
 python-dockerpty
@@ -15361,6 +15368,7 @@ python-etcd3
 python-etelemetry
 python-eth-abi
 python-eth-account
+python-eth-bloom
 python-eth-event
 python-eth-hash
 python-eth-keyfile
@@ -15757,6 +15765,7 @@ python-ipywidgets
 python-irc
 python-irodsclient
 python-ironicclient
+python-isal
 python-isodate
 python-isoduration
 python-isort
@@ -16115,6 +16124,7 @@ python-murmurhash
 python-musicbrainzngs
 python-music21
 python-mutagen
+python-mutf8
 python-mwclient
 python-mygpoclient
 python-myhdl
@@ -16223,7 +16233,6 @@ python-ogr
 python-olefile
 python-oletools
 python-ollama
-python-omemo-backend-signal
 python-omemo
 python-omlmd
 python-omsdk
@@ -16540,8 +16549,10 @@ python-pyfiglet
 python-pyfim
 python-pyflame
 python-pyforgejo
+python-pyformlang
 python-pyftdi
 python-pyftpdlib
+python-pyfzf
 python-pygal
 python-pygatt
 python-pygdbmi
@@ -16996,7 +17007,6 @@ python-sarif-om
 python-scales
 python-scantree
 python-scikit-build-core
-python-scikit-build
 python-scikit-image
 python-scikit-learn
 python-scikit-misc
@@ -17451,6 +17461,7 @@ python-urlpy
 python-urwid-readline
 python-urwid
 python-urwidtrees
+python-usbsdmux
 python-user-agents
 python-userpath
 python-usort
@@ -18569,7 +18580,6 @@ R-spelling
 R-sp
 rss-glx
 rssguard
-rssh
 rs
 rss2email
 R-statnet.common
@@ -18983,7 +18993,6 @@ rubygem-selenium-webdriver
 rubygem-semantic_puppet
 rubygem-semantic
 rubygem-sequel
-rubygem-serialport
 rubygem-settingslogic
 rubygem-shellany
 rubygem-shindo
@@ -19315,6 +19324,7 @@ rust-bindgen-cli
 rust-bindgen
 rust-bindgen0.63
 rust-bindgen0.68
+rust-bindgen0.69
 rust-binfmt-dispatcher
 rust-biquad
 rust-bisection
@@ -19625,13 +19635,10 @@ rust-curl
 rust-curl-sys
 rust-current_platform
 rust-cursive_buffered_backend
-rust-cursive_buffered_backend0.5
 rust-cursive_core
-rust-cursive_core0.2
+rust-cursive-macros
 rust-cursive
 rust-cursive-tabs
-rust-cursive-tabs0.6
-rust-cursive0.16
 rust-cursor-icon
 rust-curve25519-dalek-derive
 rust-curve25519-dalek
@@ -19796,9 +19803,7 @@ rust-enumflags2
 rust-enum-iterator-derive
 rust-enum-iterator
 rust-enum-map-derive
-rust-enum-map-derive0.6
 rust-enum-map
-rust-enum-map1
 rust-enumn
 rust-enum-ordinalize
 rust-enum-primitive-derive
@@ -20283,6 +20288,7 @@ rust-ifcfg-devname
 rust-if_chain
 rust-ignition-config
 rust-ignore
+rust-igvm_defs
 rust-imagequant
 rust-imagequant-sys
 rust-image
@@ -20786,6 +20792,7 @@ rust-oo7-cli
 rust-oo7
 rust-opaque-debug
 rust-openat
+rust-opendal
 rust-open-enum-derive
 rust-open-enum
 rust-opener
@@ -21015,7 +21022,6 @@ rust-prometheus-client
 rust-prometheus_exporter
 rust-prometheus
 rust-proptest-derive
-rust-proptest-derive0.4
 rust-proptest-macro
 rust-proptest
 rust-prost-build
@@ -21242,7 +21248,6 @@ rust-rustc-demangle-capi
 rust-rustc-demangle
 rust-rustc-hash
 rust-rustc-hash1
-rust-rustc-serialize
 rust-rustc-stable-hash
 rust-rustc_version
 rust-rustdct
@@ -21404,6 +21409,7 @@ rust-shared_child
 rust-shared_library
 rust-sha1-asm
 rust-sha1collisiondetection
+rust-sha1-checked
 rust-sha1_smol
 rust-sha-1
 rust-sha1
@@ -21631,6 +21637,7 @@ rust-testing_logger
 rust-testing_table
 rust-test-log-macros
 rust-test-log
+rust-testresult
 rust-test-tag
 rust-text-block-macros
 rust-text_placeholder
@@ -21769,6 +21776,7 @@ rust-tree-sitter-typescript
 rust-tree-sitter-xml
 rust-tree-sitter-yaml
 rust-tree-sitter0.23
+rust-tree-sitter0.24
 rust-triforce-lv2
 rust-trim-in-place
 rust-triomphe
@@ -21804,6 +21812,7 @@ rust-ucd-trie
 rust-ucs2
 rust-udev
 rust-udev0.7
+rust-uefi-raw
 rust-uefi-run
 rust-ufmt-write
 rust-uguid
@@ -22589,6 +22598,7 @@ snakemake
 snallygaster
 snapd-glib
 snapd
+snapm
 snapper
 snappy
 snapraid
@@ -23441,6 +23451,7 @@ uniol-fonts
 unique
 unique3
 unison
+units-llnl
 units
 unittest-cpp
 unity-gtk-module
@@ -23877,6 +23888,7 @@ wlroots
 wlroots0.15
 wlroots0.16
 wlroots0.17
+wlroots0.18
 wlr-protocols
 wlr-randr
 wlr-sunclock

@@ -4,7 +4,6 @@ avogadro2-libs       sagitter
 clementine           eclipseo
 fcitx5-mozc          music yanqiyu
 frescobaldi          limb
-ghc-polyparse        petersen
 gstreamer1-doc       limb wtaymans
 jbosscache-support   orphan
 julia                nalimilan
@@ -18,8 +17,6 @@ libwebp              smani
 lincity-ng           spot
 lmms                 thm
 man-pages-l10n       ljavorsk mfabian nforro
-man2html             orion patches sergiomb
-mariadb10.11         fjanus ljavorsk mschorm zmiklank
 ocaml-omake          rjones
 openal-soft          fcami jwrdegoede tdawson
 pypy                 churchyard thrnciar
@@ -42,7 +39,6 @@ catanzaro  webkitgtk
 churchyard pypy
 eclipseo   clementine
 fcami      openal-soft
-fjanus     mariadb10.11
 jchaloup   aspell-pl
 jcline     kernel
 jforbes    kernel
@@ -52,27 +48,22 @@ jwrdegoede kernel openal-soft
 kernel-maint kernel
 limb       frescobaldi gstreamer1-doc
 linville   kernel
-ljavorsk   aspell-pl man-pages-l10n mariadb10.11
+ljavorsk   aspell-pl man-pages-l10n
 lkundrak   kicad
 mfabian    man-pages-l10n
-mschorm    mariadb10.11
 mtasaka    ruby
 music      fcitx5-mozc
 myoung     kernel
 nalimilan  julia
 nforro     aspell-pl man-pages-l10n
-orion      man2html
 orphan     jbosscache-support
-patches    man2html
 patrickt   kernel
-petersen   ghc-polyparse
 quintela   kernel
 rathann    tachyon
 rdieter    kf5-kirigami2
 rjones     ocaml-omake
 sagitter   avogadro2-libs
 sandeen    kernel
-sergiomb   man2html
 smani      libwebp
 spot       julius lincity-ng texlive tkimg
 steved     kernel
@@ -86,4 +77,3 @@ thrnciar   pypy
 vondruch   ruby rubygem-rdoc
 wtaymans   gstreamer1-doc
 yanqiyu    fcitx5-mozc
-zmiklank   mariadb10.11
