@@ -155,6 +155,7 @@ amtterm
 anaconda-realmd
 anaconda
 anaconda-webui
+anagramarama
 analitza
 anarch
 ancient
@@ -1334,6 +1335,7 @@ dhall-json
 dhall
 dh-autoreconf
 dhcpcd
+dhcpd-pools
 dhcpdump
 dhcp-forwarder
 dhcp
@@ -1442,6 +1444,7 @@ dogtag-pki
 dogtail
 dokuwiki
 dolfin
+dolphin-emu
 dolphin-plugins
 dolphin
 domtt
@@ -1556,7 +1559,6 @@ edac-utils
 edflib
 edg-gridftp-client
 edg-mkgridmap
-edid-decode
 editline
 editorconfig-emacs
 editorconfig
@@ -2048,6 +2050,7 @@ foremost
 forge-parent
 forge-srpm-macros
 fortune-firefly
+fossil
 fotocx
 four-in-a-row
 foxi
@@ -2354,7 +2357,6 @@ gd
 gdu
 geany-plugins
 gearhead2
-gedit-latex
 gedit-plugins
 gedit
 geeqie
@@ -13451,6 +13453,7 @@ python-scikit-build-core
 python-scikit-image
 python-scikit-learn
 python-scikit-misc
+python-scipy-doctest
 python-scitokens
 python-scooby
 python-scour
@@ -15180,7 +15183,6 @@ rust-async_zip
 rust-atk
 rust-atk-sys
 rust-atoi
-rust-atomic-polyfill
 rust-atomic_refcell
 rust-atomic
 rust-atomic-waker
@@ -15323,6 +15325,7 @@ rust-byteorder
 rust-bytes-cast-derive
 rust-bytes-cast
 rust-bytesize
+rust-bytesize1
 rust-byte-slice-cast
 rust-bytes
 rust-bytestring
@@ -15562,9 +15565,11 @@ rust-curl-sys
 rust-current_platform
 rust-cursive_buffered_backend
 rust-cursive_core
+rust-cursive_core0.3
 rust-cursive-macros
 rust-cursive
 rust-cursive-tabs
+rust-cursive0.20
 rust-cursor-icon
 rust-curve25519-dalek-derive
 rust-curve25519-dalek
@@ -15928,6 +15933,7 @@ rust-git-version
 rust-git2-curl
 rust-git2-hooks
 rust-git2
+rust-git2_0.19
 rust-gix-actor
 rust-gix-archive
 rust-gix-attributes
@@ -16208,12 +16214,12 @@ rust-ident_case
 rust-idna_adapter
 rust-idna
 rust-idna0.3
-rust-idna0.4
 rust-ifcfg-devname
 rust-if_chain
 rust-ignition-config
 rust-ignore
 rust-igvm_defs
+rust-igvm
 rust-imagequant
 rust-imagequant-sys
 rust-image
@@ -16409,6 +16415,7 @@ rust-libflate_lz77_1
 rust-libflate
 rust-libflate1
 rust-libgit2-sys
+rust-libgit2-sys0.17
 rust-libgweather
 rust-libhandy
 rust-libhandy-sys
@@ -16596,6 +16603,7 @@ rust-native-tls
 rust-natord
 rust-navi
 rust-ncurses
+rust-ncurses5
 rust-ndarray-rand
 rust-ndarray
 rust-ndarray-stats
@@ -16950,6 +16958,7 @@ rust-proptest-macro
 rust-proptest
 rust-prost-build
 rust-prost-derive
+rust-prost-reflect
 rust-prost
 rust-prost-types
 rust-protobuf-codegen-pure
@@ -18296,6 +18305,7 @@ shigofumi
 shim
 shim-unsigned-aarch64
 shim-unsigned-x64
+shippy
 shntool
 shorewall
 shotcut
@@ -19827,6 +19837,7 @@ yubihsm-shell
 yubikey-manager-qt
 yubikey-manager
 yudit-fonts
+yudit
 yyjson
 zabbix
 zaf
