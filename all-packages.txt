@@ -2633,7 +2633,6 @@ funionfs
 furnace
 fuse-btfs
 fuse-emulator
-fuse-emulator-utils
 fuse-encfs
 fuse-overlayfs
 fuse-pingfs
@@ -2968,7 +2967,6 @@ ghc-abstract-deque
 ghc-abstract-par
 ghc-adjunctions
 ghc-aeson-better-errors
-ghc-aeson-compat
 ghc-aeson-pretty
 ghc-aeson
 ghc-aeson-yaml
@@ -3133,7 +3131,6 @@ ghc-explicit-exception
 ghc-extensible-exceptions
 ghc-extra
 ghc-fast-logger
-ghc-fclabels
 ghc-fdo-notify
 ghc-fedora-releases
 ghc-feed
@@ -3154,6 +3151,7 @@ ghc-foundation
 ghc-free
 ghc-fsnotify
 ghc-generic-deriving
+ghc-generic-lens-core
 ghc-generics-sop
 ghc-ghc-lib-parser
 ghc-ghc-paths
@@ -3289,6 +3287,7 @@ ghc-libmpd
 ghc-lifted-base
 ghc-linear
 ghc-listsafe
+ghc-llvm-pretty
 ghc-logging-facade
 ghc-logict
 ghc-lrucache
@@ -3469,7 +3468,6 @@ ghc-string-conversions
 ghc-string-qq
 ghc-stringsearch
 ghc-syb
-ghc-system-fileio
 ghc-system-filepath
 ghc-tabular
 ghc-tagged
@@ -4013,7 +4011,6 @@ golang-github-aalpar-deheap
 golang-github-aaronjanse-pty
 golang-github-abbot-http-auth
 golang-github-acarl005-stripansi
-golang-github-aclements-gg
 golang-github-aclements-moremath
 golang-github-acme-lego
 golang-github-acobaugh-osrelease
@@ -4348,8 +4345,6 @@ golang-github-eapache-xerial-snappy
 golang-github-ebitengine-purego
 golang-github-eclesh-welford
 golang-github-eclipse-paho-mqtt
-golang-github-edoardottt-golazy
-golang-github-edoardottt-lit-bb-hack-tools
 golang-github-edsrzf-mmap
 golang-github-edwvee-exiffix
 golang-github-eknkc-amber
@@ -5740,6 +5735,7 @@ gpaw
 gperf
 gperftools
 gpgme
+gpgverify
 gphotoframe
 gphotofs
 gphoto2
@@ -7371,6 +7367,7 @@ kubernetes1.33
 kubrick
 kunifiedpush
 kurdit-unikurd-web-fonts
+kurchu
 kuserfeedback
 kuser
 kvantum
@@ -8778,6 +8775,7 @@ mariadb10.11
 marisa
 markdownpart
 marked
+marker
 marknote
 marshalparser
 marsshooter
@@ -9867,7 +9865,6 @@ notify-sharp3
 notmuch
 not-ocamlfind
 nototools
-nova-agent
 novelwriter
 novnc
 nox
@@ -14668,6 +14665,7 @@ python-apipkg
 python-apkinspector
 python-appdirs
 python-applicationinsights
+python-application-properties
 python-apprise
 python-AppTools
 python-APScheduler
@@ -14854,7 +14852,6 @@ python-backoff
 python-backrefs
 python-baluhn
 python-banal
-python-barbicanclient
 python-baseconv
 python-basemap
 python-base58
@@ -15159,7 +15156,6 @@ python-dandischema
 python-danfossair
 python-daphne
 python-dasbus
-python-dask-expr
 python-dask
 python-databases
 python-dataclassy
@@ -15194,7 +15190,6 @@ python-demjson
 python-dependency-groups
 python-deprecated
 python-deprecation
-python-designateclient
 python-detect-secrets
 python-devolo-home-control-api
 python-dfdatetime
@@ -15963,7 +15958,6 @@ python-ly
 python-lz4
 python-mackup
 python-magic
-python-magnumclient
 python-mailer
 python-mailmanclient
 python-mailman-hyperkitty
@@ -16554,7 +16548,6 @@ python-pyfzf
 python-pygal
 python-pygatt
 python-pygdbmi
-python-pygeoip
 python-pyghmi
 python-pygiftiio
 python-PyGithub
@@ -17064,7 +17057,6 @@ python-sieve
 python-signedjson
 python-simframe
 python-simpleaudio
-python-simplebayes
 python-simpleeval
 python-simplejson
 python-simpleline
@@ -17774,6 +17766,7 @@ qmapshack
 qmasterpassword
 qmc2
 qm-dsp
+qm-dsp1.7
 qmic
 qmidiarp
 qmlkonsole
@@ -20262,6 +20255,7 @@ rust-chardetng
 rust-charset
 rust-chic
 rust-choosier
+rust-chromaterm
 rust-chrono-humanize
 rust-chrono
 rust-chrono-tz-build
@@ -22753,7 +22747,6 @@ sratom
 srcpd
 src
 srecord
-srm-ifce
 srmio
 srm
 srpc
@@ -23390,7 +23383,6 @@ ubloxcfg
 uboot-tools
 ubridge
 ubu-keyring
-ucarp
 ucblogo
 uClibc
 ucl
@@ -23831,6 +23823,7 @@ wf
 wfuzz
 wfview
 wgctrl
+wget1
 wget2
 wgrib
 wgrib2
@@ -24400,7 +24393,6 @@ zeromq-ada
 zeromq
 zezere
 zfp
-zfs-fuse
 zfstream
 zchunk
 zidrav
@@ -24480,6 +24472,7 @@ z88dk
 4ti2
 6tunnel
 64tass
+7zip
 8088_bios
 9wm
 90-Second-Portraits

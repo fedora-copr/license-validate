@@ -2137,7 +2137,6 @@ funionfs
 furnace
 fuse-btfs
 fuse-emulator
-fuse-emulator-utils
 fuse-encfs
 fuse-overlayfs
 fusesource-pom
@@ -2434,7 +2433,6 @@ ghc-abstract-deque
 ghc-abstract-par
 ghc-adjunctions
 ghc-aeson-better-errors
-ghc-aeson-compat
 ghc-aeson-pretty
 ghc-aeson
 ghc-aeson-yaml
@@ -2589,7 +2587,6 @@ ghc-explicit-exception
 ghc-extensible-exceptions
 ghc-extra
 ghc-fast-logger
-ghc-fclabels
 ghc-fdo-notify
 ghc-fedora-releases
 ghc-feed
@@ -2610,6 +2607,7 @@ ghc-foundation
 ghc-free
 ghc-fsnotify
 ghc-generic-deriving
+ghc-generic-lens-core
 ghc-generics-sop
 ghc-ghc-lib-parser
 ghc-ghc-paths
@@ -2736,6 +2734,7 @@ ghc-libmpd
 ghc-lifted-base
 ghc-linear
 ghc-listsafe
+ghc-llvm-pretty
 ghc-logging-facade
 ghc-logict
 ghc-lrucache
@@ -2909,7 +2908,6 @@ ghc-string-conversions
 ghc-string-qq
 ghc-stringsearch
 ghc-syb
-ghc-system-fileio
 ghc-system-filepath
 ghc-tabular
 ghc-tagged
@@ -3539,8 +3537,6 @@ golang-github-d2g-dhcp4server
 golang-github-d2g-hardwareaddr
 golang-github-d4l3k-bfloat16
 golang-github-ebitengine-purego
-golang-github-edoardottt-golazy
-golang-github-edoardottt-lit-bb-hack-tools
 golang-github-edwvee-exiffix
 golang-github-elazarl-goproxy
 golang-github-elliotchance-orderedmap
@@ -4231,6 +4227,7 @@ golist
 golly
 gom
 goocanvas
+goocanvas2
 goodvibes
 google-android-emoji-fonts
 google-api-python-client
@@ -4284,6 +4281,7 @@ gpaw
 gperf
 gperftools
 gpgme
+gpgverify
 gphotoframe
 gphotofs
 gphoto2
@@ -5638,6 +5636,7 @@ kubernetes1.32
 kubernetes1.33
 kunifiedpush
 kurdit-unikurd-web-fonts
+kurchu
 kvantum
 kwalletmanager
 kwalletmanager5
@@ -6721,6 +6720,7 @@ mariadb-java-client
 mariadb10.11
 marisa
 markdownpart
+marker
 marknote
 marshalparser
 masscan
@@ -7530,7 +7530,6 @@ notification-daemon
 notmuch
 not-ocamlfind
 nototools
-nova-agent
 novelwriter
 novnc
 nox
@@ -7700,6 +7699,7 @@ ocaml-ocplib-endian
 ocaml-ocplib-simplex
 ocaml-octavius
 ocaml-odoc
+ocaml-omake
 ocaml-omd
 ocaml-opam-file-format
 ocaml-opam-0install-cudf
@@ -11858,6 +11858,7 @@ python-aodhclient
 python-apkinspector
 python-appdirs
 python-applicationinsights
+python-application-properties
 python-apprise
 python-apsw
 python-apt
@@ -11959,7 +11960,6 @@ python-azure-synapse-spark
 python-a2wsgi
 python-backrefs
 python-banal
-python-barbicanclient
 python-baseconv
 python-base58
 python-bashate
@@ -12164,7 +12164,6 @@ python-dandischema
 python-danfossair
 python-daphne
 python-dasbus
-python-dask-expr
 python-dask
 python-databases
 python-dataclassy
@@ -12192,7 +12191,6 @@ python-demjson
 python-dependency-groups
 python-deprecated
 python-deprecation
-python-designateclient
 python-detect-secrets
 python-devolo-home-control-api
 python-dfdatetime
@@ -12711,7 +12709,6 @@ python-lxml-html-clean
 python-lxml
 python-ly
 python-mackup
-python-magnumclient
 python-mailmanclient
 python-mailman-hyperkitty
 python-mailman-web
@@ -13127,7 +13124,6 @@ python-pyfzf
 python-pygal
 python-pygatt
 python-pygdbmi
-python-pygeoip
 python-pyghmi
 python-pygiftiio
 python-PyGithub
@@ -13463,6 +13459,7 @@ python-sdnotify
 python-seaborn
 python-SecretStorage
 python-selenium
+python-semantic_version
 python-semver
 python-send2trash
 python-sep
@@ -13973,6 +13970,7 @@ qmapshack
 qmasterpassword
 qmc2
 qm-dsp
+qm-dsp1.7
 qmic
 qmidiarp
 qmlkonsole
@@ -16191,6 +16189,7 @@ rust-chardetng
 rust-charset
 rust-chic
 rust-choosier
+rust-chromaterm
 rust-chrono-humanize
 rust-chrono
 rust-chrono-tz-build
@@ -18572,7 +18571,6 @@ srain
 srcpd
 src
 srecord
-srm-ifce
 srpc
 srt
 sscg
@@ -19059,7 +19057,6 @@ ubdsrv
 ubertooth
 ubridge
 ubu-keyring
-ucarp
 ucblogo
 ucl
 ucommon
@@ -19411,6 +19408,7 @@ wf-recorder
 wf
 wfuzz
 wfview
+wget1
 wget2
 wgrib
 wgrib2
@@ -19862,7 +19860,6 @@ zenon
 zerofree
 zeromq-ada
 zeromq
-zfs-fuse
 zfstream
 zchunk
 zidrav
@@ -19932,6 +19929,7 @@ z88dk
 4ti2
 6tunnel
 64tass
+7zip
 8088_bios
 9wm
 90-Second-Portraits
