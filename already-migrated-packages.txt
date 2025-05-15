@@ -836,7 +836,6 @@ cgit
 cglib
 cgnslib
 c-graph
-CGSI-gSOAP
 c-icap-modules
 c-icap
 cifs-utils
@@ -989,7 +988,6 @@ congruity
 conky
 conman
 conmon
-conmux
 connect-proxy
 conntrack-tools
 conserver
@@ -1429,6 +1427,7 @@ dnstop
 dnstwist
 dnsviz
 docbook-dtds
+docbook-simple
 docbook-style-dsssl
 docbook-style-xsl
 docbook-utils
@@ -5236,6 +5235,7 @@ kdepim-runtime
 kdepim
 kdepim3
 kdeplasma-addons
+kde-release-keyring
 kdesdk-kioslaves
 kdesdk-thumbnailers
 kde-settings
@@ -8389,6 +8389,7 @@ perl-Cache-Memcached
 perl-Cache-Mmap
 perl-Cache-Simple-TimedExpiry
 perl-Cache
+perl-Cairo-GObject
 perl-Calendar-Simple
 perl-Callback
 perl-Call-Context
@@ -11831,6 +11832,7 @@ python-aiohttp
 python-aiohttp-sse-client
 python-aiohue
 python-aiokafka
+python-aiolimiter
 python-aioodbc
 python-aioquic
 python-aiorestapi
@@ -15246,7 +15248,9 @@ rust-bigdecimal
 rust-bimap
 rust-binary-heap-plus
 rust-binascii
+rust-bincode_derive
 rust-bincode
+rust-bincode1
 rust-bindgen-cli
 rust-bindgen
 rust-bindgen0.63
@@ -15600,6 +15604,8 @@ rust-dav1d-sys
 rust-dbl
 rust-dbus
 rust-dbus-tree
+rust-deadpool-runtime
+rust-deadpool
 rust-decimal
 rust-defer-drop
 rust-deflate64
@@ -16425,7 +16431,6 @@ rust-libloading0.7
 rust-libmimalloc-sys
 rust-libmonado
 rust-libmount
-rust-libm
 rust-liboci-cli
 rust-liboverdrop
 rust-libpanel
@@ -17049,6 +17054,7 @@ rust-rand_pcg0.3
 rust-rand
 rust-rand_xorshift
 rust-rand_xorshift0.2
+rust-rand_xorshift0.3
 rust-rand_xoshiro
 rust-rand0.7
 rust-rand0.8
@@ -17742,6 +17748,7 @@ rust-ucd-trie
 rust-ucs2
 rust-udev
 rust-udev0.7
+rust-uefi-macros
 rust-uefi-raw
 rust-uefi-run
 rust-ufmt-write
@@ -17794,6 +17801,7 @@ rust-unix_socket
 rust-unsafe-libyaml
 rust-unscanny
 rust-untrusted
+rust-unty
 rustup
 rust-ureq
 rust-urid-derive
@@ -17924,6 +17932,7 @@ rust-v_htmlescape
 rust-virtio-bindings
 rust-virtio-queue
 rust-virtio-vsock
+rust-virtue
 rust-vm-allocator
 rust-vm-fdt
 rust-vm-memory
@@ -17975,6 +17984,7 @@ rust-winit
 rust-winnow
 rust-winnow0.5
 rust-winnow0.6
+rust-wiremock
 rust-wl-clipboard-rs
 rust-wl-nl80211
 rust-wmidi
@@ -18965,8 +18975,6 @@ traceroute
 tracer
 trackballs-music
 trackballs
-tracker-miners
-tracker
 trac-monotone-plugin
 trac
 trac-tracnav-plugin
@@ -19591,6 +19599,8 @@ xerces-c
 xerces-j2
 xeus
 xeus-zmq
+xevd
+xeve
 xeyes
 xfburn
 xfce-polkit

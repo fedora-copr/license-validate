@@ -986,7 +986,6 @@ cglib
 cgnslib
 c-graph
 cgreen
-CGSI-gSOAP
 c++-gtk-utils
 c-icap-modules
 c-icap
@@ -1195,7 +1194,6 @@ congruity
 conky
 conman
 conmon
-conmux
 connect-proxy
 conntrack-tools
 conserver
@@ -6863,6 +6861,7 @@ kdepim-runtime
 kdepim
 kdepim3
 kdeplasma-addons
+kde-release-keyring
 kde-runtime
 kdesdk-kioslaves
 kdesdk-thumbnailers
@@ -14562,6 +14561,7 @@ python-aioiotprov
 python-aioitertools
 python-aiokafka
 python-aiolifx
+python-aiolimiter
 python-aiomultiprocess
 python-aiomysql
 python-aionotion
@@ -18920,6 +18920,8 @@ rust-bencher
 rust-bigdecimal
 rust-bimap
 rust-binary-heap-plus
+rust-bincode_derive
+rust-bincode1
 rust-bindgen-cli
 rust-bindgen
 rust-bindgen0.63
@@ -19227,6 +19229,8 @@ rust-dav1d
 rust-dbl
 rust-dbus
 rust-dbus-tree
+rust-deadpool-runtime
+rust-deadpool
 rust-debug-helper
 rust-decimal
 rust-defer-drop
@@ -20448,6 +20452,7 @@ rust-rand_pcg0.3
 rust-rand
 rust-rand_xorshift
 rust-rand_xorshift0.2
+rust-rand_xorshift0.3
 rust-rand_xoshiro
 rust-rand0.7
 rust-rand0.8
@@ -21029,6 +21034,7 @@ rust-ucd-trie
 rust-ucs2
 rust-udev
 rust-udev0.7
+rust-uefi-macros
 rust-uefi-raw
 rust-uefi-run
 rust-ufmt-write
@@ -21079,6 +21085,7 @@ rust-universal-hash
 rust-unix_socket
 rust-unsafe-libyaml
 rust-unscanny
+rust-unty
 rustup
 rust-ureq
 rust-urid-derive
@@ -21202,6 +21209,7 @@ rust-v_htmlescape
 rust-virtio-bindings
 rust-virtio-queue
 rust-virtio-vsock
+rust-virtue
 rust-vm-allocator
 rust-vm-fdt
 rust-vm-memory
@@ -21242,6 +21250,7 @@ rust-winit
 rust-winnow
 rust-winnow0.5
 rust-winnow0.6
+rust-wiremock
 rust-wl-clipboard-rs
 rust-wl-nl80211
 rust-wmidi
@@ -22433,8 +22442,6 @@ tracer
 trace-summary
 trackballs-music
 trackballs
-tracker-miners
-tracker
 trac-monotone-plugin
 trac
 trac-tracnav-plugin
@@ -23194,6 +23201,8 @@ xerces-c
 xerces-j2
 xeus
 xeus-zmq
+xevd
+xeve
 xev
 xeyes
 xfburn
