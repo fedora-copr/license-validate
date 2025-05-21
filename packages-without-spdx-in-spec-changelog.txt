@@ -74,6 +74,7 @@ adwaita-fonts
 adwaita-icon-theme-legacy
 adwaita-icon-theme
 adw-gtk3-theme
+aegisub
 aemu
 aerc
 aer-inject
@@ -1334,6 +1335,7 @@ cri-o1.29
 cri-o1.30
 cri-o1.31
 cri-o1.32
+cri-o1.33
 CriticalMass
 cri-tools
 cri-tools1.29
@@ -1744,6 +1746,8 @@ dogtag-pki
 dogtail
 doh
 dokuwiki
+dola-gleaner
+dola-transformer
 dolfin
 dolphin-connector
 dolphin-emu
@@ -2393,7 +2397,6 @@ fheroes2
 fido-device-onboard
 fido
 fielding
-Field3D
 figlet
 figtoipe
 fig2ps
@@ -6653,6 +6656,7 @@ javapackages-tools
 java-packaging-howto
 javaparser
 javapoet
+java-rpm-macros
 java-runtime-decompiler
 java-scrypt
 javassist
@@ -9804,6 +9808,7 @@ nilfs-utils
 ninja-build
 nipy-data
 nip2
+niri
 nispor
 nitrogen
 nitrokey-app
@@ -15404,6 +15409,7 @@ python-fasteners
 python-fastjsonschema
 python-fastprogress
 python-fastpurge
+python-fastrand
 python-fastrlock
 python-fast-simplification
 python-fauxquests
@@ -19163,6 +19169,7 @@ rust-apple-nvram
 rust-apple-sdk
 rust-apple-xar
 rust-approx
+rust-app-rummage
 rust-app-store-connect
 rust-arbitrary
 rust-arboard
@@ -19353,6 +19360,8 @@ rust-block-padding
 rust-block-padding0.2
 rust-blowfish
 rust-blsctl
+rust-bmart-derive
+rust-bmart
 rust-bootupd
 rust-boxcar
 rust-box_drawing
@@ -19829,6 +19838,7 @@ rust-erdtree
 rust-err-derive
 rust-errno
 rust-errno0.2
+rust-error-code
 rust-error-chain
 rust-escape8259
 rust-escargot
@@ -20303,6 +20313,8 @@ rust-implib
 rust-impl-more
 rust-impls
 rust-im-rc
+rust-include_dir_macros
+rust-include_dir
 rust-indenter
 rust-indent_write
 rust-indexmap
@@ -20651,6 +20663,8 @@ rust-mock_instant
 rust-mockito
 rust-monitord-exporter
 rust-monitord
+rust-monostate-impl
+rust-monostate
 rust-mpsc_requests
 rust-mptcp-pm
 rust-mp4parse
@@ -21135,6 +21149,7 @@ rust-raw-cpuid
 rust-rawpointer
 rust-raw-window-handle
 rust-raw-window-handle0.5
+rust-rayon-cond
 rust-rayon-core
 rust-rayon
 rust-rbspy-ruby-structs
@@ -21706,6 +21721,7 @@ rust-toml_edit0.19
 rust-toml_edit0.20
 rust-toml-span
 rust-toml
+rust-toml_write
 rust-toml0.5
 rust-toml0.7
 rust-tonic-build
@@ -21784,6 +21800,7 @@ rust-tree-sitter-yaml
 rust-tree-sitter0.23
 rust-tree-sitter0.24
 rust-triforce-lv2
+rust-triggered
 rust-trim-in-place
 rust-triomphe
 rust-trybuild
@@ -22128,6 +22145,7 @@ rust-zerovec
 rust-zincati
 rust-zip
 rust-zip0.6
+rust-zip2
 rust-zlib-rs
 rust-zopfli
 rust-zoxide
@@ -22339,6 +22357,7 @@ SDL2_sound
 SDL2_ttf
 SDL3_image
 SDL3
+SDL3_ttf
 sdorfehs
 sdparm
 sdrangel
@@ -24291,12 +24310,14 @@ xvinfo
 xvkbd
 xwax
 xwayland-run
+xwayland-satellite
 xwaylandvideobridge
 xwd
 xwininfo
 xwm
 xwud
 xwxapt
+xxhashct
 xxhash
 xylib
 xyzsh

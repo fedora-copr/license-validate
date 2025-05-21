@@ -1341,7 +1341,6 @@ perl-CPAN-Meta
 perl-CPAN-Meta-Check
 perl-CPAN-Meta-Requirements
 perl-CPAN-Meta-YAML
-perl-CPAN-Requirements-Dynamic
 perl-Canary-Stability
 perl-Capture-Tiny
 perl-Carp
@@ -1390,11 +1389,7 @@ perl-Exporter
 perl-Exporter-Tiny
 perl-ExtUtils-CBuilder
 perl-ExtUtils-CChecker
-perl-ExtUtils-Config
-perl-ExtUtils-HasCompiler
-perl-ExtUtils-Helpers
 perl-ExtUtils-Install
-perl-ExtUtils-InstallPaths
 perl-ExtUtils-MakeMaker
 perl-ExtUtils-Manifest
 perl-ExtUtils-ParseXS
@@ -1456,8 +1451,6 @@ perl-JSON-XS
 perl-LDAP
 perl-LWP-MediaTypes
 perl-LWP-Protocol-https
-perl-Lexical-SealRequireHints
-perl-Lexical-Var
 perl-List-MoreUtils
 perl-List-MoreUtils-XS
 perl-Locale-Maketext
@@ -1470,7 +1463,6 @@ perl-Math-BigInt
 perl-Math-BigInt-FastCalc
 perl-Math-BigInt-GMP
 perl-Module-Build
-perl-Module-Build-Tiny
 perl-Module-CPANfile
 perl-Module-CoreList
 perl-Module-Install
@@ -1507,7 +1499,6 @@ perl-Params-Check
 perl-Params-Util
 perl-Parse-PMFile
 perl-Parse-Yapp
-perl-Path-Class
 perl-Path-Tiny
 perl-PathTools
 perl-Perl-OSType
@@ -1521,7 +1512,6 @@ perl-Pod-Parser
 perl-Pod-Perldoc
 perl-Pod-Simple
 perl-Pod-Usage
-perl-Readonly
 perl-Role-Tiny
 perl-SGMLSpm
 perl-SNMP_Session
@@ -1905,7 +1895,6 @@ qt6-qtwebchannel
 qt6-qtwebsockets
 quota
 radvd
-rapidjson
 rasdaemon
 rdma-core
 readline
