@@ -483,6 +483,7 @@ auditwheel
 augeas
 aunit
 auriferous
+aurorae
 auryn
 AusweisApp2
 auter
@@ -1038,6 +1039,7 @@ ClanLib1
 clapper
 clap
 cl-asdf
+clash-meta
 classification-banner
 classified-ads
 classloader-leak-test-framework
@@ -1379,6 +1381,7 @@ cryptominisat
 crypto-policies
 cryptopp
 cryptsetup
+crystal-dock
 crystal-stacker
 crystal-stacker-themes
 cscope
@@ -1471,6 +1474,7 @@ dar
 dasher
 dash
 datamash
+datanommer-commands
 dataquay
 datefudge
 date
@@ -1535,13 +1539,11 @@ deepin-account-faces
 deepin-api
 deepin-calculator
 deepin-calendar
-deepin-control-center
 deepin-daemon
 deepin-desktop-base
 deepin-desktop-schemas
 deepin-dock
 deepin-draw
-deepin-editor
 deepin-file-manager
 deepin-gettext-tools
 deepin-gir-generator
@@ -1747,6 +1749,7 @@ dogtail
 doh
 dokuwiki
 dola-gleaner
+dola
 dola-transformer
 dolfin
 dolphin-connector
@@ -3959,6 +3962,7 @@ gobi_loader
 go-bindata
 gobject-introspection
 gocr
+gocryptfs
 goddard-backgrounds
 goddard-kde-theme
 godoctor
@@ -6832,6 +6836,7 @@ kapow
 kappanhang
 kapptemplate
 karp
+karton
 kasts
 kasumi
 kata-containers
@@ -9958,6 +9963,7 @@ observable
 obserware
 obs-service-download_files
 obs-service-extract_file
+obs-service-go_modules
 obs-service-recompress
 obs-service-rust2rpm
 obs-service-set_version
@@ -12173,6 +12179,7 @@ perl-Mail-Box-Parser-C
 perl-Mail-Box-POP3
 perl-Mail-Box
 perl-Mail-DKIM
+perl-Mail-DMARC
 perl-Mail-IMAPClient
 perl-Mail-IMAPTalk
 perl-Mail-JMAPTalk
@@ -13776,7 +13783,6 @@ php-cssjanus
 php-dasprid-enum
 php-doctrine-collections
 php-doctrine-deprecations
-php-doctrine-doctrine-cache-bundle
 php-doctrine-event-manager
 php-doctrine-inflector
 php-doctrine-inflector2
@@ -13932,7 +13938,6 @@ php-phar-io-manifest2
 php-phar-io-version
 php-phar-io-version3
 php-phpdocumentor-reflection-common2
-php-phpdocumentor-reflection-docblock4
 php-phpdocumentor-reflection-docblock5
 php-phpdocumentor-type-resolver1
 php-php-gettext
@@ -13950,7 +13955,6 @@ php-phpunitgoodpractices-polyfill
 php-phpunit-php-code-coverage10
 php-phpunit-php-code-coverage11
 php-phpunit-php-code-coverage12
-php-phpunit-php-code-coverage6
 php-phpunit-php-code-coverage7
 php-phpunit-php-code-coverage9
 php-phpunit-php-file-iterator2
@@ -13973,7 +13977,6 @@ php-phpunit-php-timer5
 php-phpunit-php-timer6
 php-phpunit-php-timer7
 php-phpunit-php-timer8
-php-phpunit-php-token-stream3
 php-phpunit-php-token-stream4
 php-phpunit-Text-Template
 php-phpunit-Version
@@ -14031,7 +14034,6 @@ php-sebastian-exporter4
 php-sebastian-exporter5
 php-sebastian-exporter6
 php-sebastian-exporter7
-php-sebastian-global-state2
 php-sebastian-global-state3
 php-sebastian-global-state5
 php-sebastian-global-state6
@@ -14096,7 +14098,6 @@ php-twig
 phpunit10
 phpunit11
 phpunit12
-phpunit7
 phpunit8
 phpunit9
 php-webimpress-http-middleware-compatibility
@@ -14376,13 +14377,11 @@ prboom-plus
 prboom
 pre-commit
 preeny
-prelude-lml-rules
 premake
 prename
 preproc
 prestopalette
 prettyping
-prewikka-updatedb
 primecount
 primer3
 primesieve
@@ -14642,6 +14641,7 @@ python-airspeed
 python-ajpy
 python-ajsonrpc
 python-alembic
+python-alembic1.14
 python-allpairspy
 python-alsa
 python-amply
@@ -14861,6 +14861,7 @@ python-baseconv
 python-basemap
 python-base58
 python-bashate
+python-basis_set_exchange
 python-batalgorithm
 python-batinfo
 python-bcrypt
@@ -15069,6 +15070,7 @@ python-colormath2
 python-colorspacious
 python-colorzero
 python-colour
+python-columnar
 python-commandparse
 python-commoncode
 python-CommonMark
@@ -15165,6 +15167,7 @@ python-dask
 python-databases
 python-dataclassy
 python-datalad
+python-datanommer-models
 python-dateparser
 python-datetimerange
 python-dateutil
@@ -16797,6 +16800,7 @@ python-pytest-timeout
 python-pytest-tldr
 python-pytest-tornado
 python-pytest-trio
+python-pytest-twisted
 python-pytest-vcr
 python-pytest-venv
 python-pytest-watch
@@ -17587,6 +17591,7 @@ python-xmltramp
 python-xml2rfc
 python-xmp-toolkit
 python-xnat
+python-xnat4tests
 python-xpath-expressions
 python-xrst
 python-XStatic-Angular-Bootstrap
@@ -17810,6 +17815,7 @@ qstardict
 qstars
 qstat
 qsynth
+Qt-Advanced-Docking-System
 qt-assistant-adp
 qtbrowserplugin
 qt-creator
@@ -19514,6 +19520,7 @@ rust-cmac
 rust-cmake
 rust-cmd_lib_macros
 rust-cmd_lib
+rust-cobs
 rust-codepage
 rust-codespan-reporting
 rust-codespan-reporting0.11
@@ -19741,6 +19748,7 @@ rust-dlib
 rust-dlopen2_derive
 rust-dlopen2
 rust-dlv-list
+rust-dlv-list0.3
 rust-dns-lookup
 rust-dns-lookup1
 rust-doc-comment
@@ -19843,7 +19851,6 @@ rust-error-chain
 rust-escape8259
 rust-escargot
 rust-etcetera
-rust-etcetera0.8
 rust-ethtool
 rust-euclid
 rust-event-listener
@@ -20411,6 +20418,7 @@ rust-i18n-embed
 rust-jiff
 rust-jiff0.1
 rust-jiter
+rust-jiter0.9
 rust-jobserver
 rust-jod-thread
 rust-joinery
@@ -20439,6 +20447,7 @@ rust-keyframe
 rust-keyvalues-parser
 rust-keyvalues-serde
 rust-khronos_api
+rust-khronos-egl
 rust-konst_macro_rules
 rust-konst_proc_macros
 rust-konst
@@ -20638,6 +20647,7 @@ rust-metrics-util
 rust-miette-derive
 rust-miette
 rust-migrations_internals
+rust-migrations_macros
 rust-mimalloc
 rust-mime_guess
 rust-mime
@@ -20829,7 +20839,9 @@ rust-opus
 rust-ordered-float
 rust-ordered-float2
 rust-ordered-float3
+rust-ordered-float4
 rust-ordered-multimap
+rust-ordered-multimap0.4
 rust-ordered-stream
 rust-ordermap
 rust-ord_subset
@@ -20840,6 +20852,7 @@ rust-os_pipe
 rust-os_str_bytes
 rust-ouroboros_macro
 rust-ouroboros
+rust-outref
 rust-overload
 rust-owned_ttf_parser
 rust-owning_ref
@@ -20984,6 +20997,9 @@ rust-portable-atomic
 rust-portable-atomic-util
 rust-portable-atomic-util0.1
 rust-portpicker
+rust-postcard-derive
+rust-postcard
+rust-postmark
 rust-powerfmt-macros
 rust-powerfmt
 rust-ppv-lite86
@@ -21070,19 +21086,24 @@ rust-pwd
 rust-pyo3-build-config
 rust-pyo3-build-config0.22
 rust-pyo3-build-config0.23
+rust-pyo3-build-config0.24
 rust-pyo3-ffi
 rust-pyo3-ffi0.22
 rust-pyo3-ffi0.23
+rust-pyo3-ffi0.24
 rust-pyo3-log
 rust-pyo3-macros-backend
 rust-pyo3-macros-backend0.22
 rust-pyo3-macros-backend0.23
+rust-pyo3-macros-backend0.24
 rust-pyo3-macros
 rust-pyo3-macros0.22
 rust-pyo3-macros0.23
+rust-pyo3-macros0.24
 rust-pyo3
 rust-pyo3_0.22
 rust-pyo3_0.23
+rust-pyo3_0.24
 rust-pyproject-toml
 rust-pythonize
 rust-python-launcher
@@ -21282,6 +21303,7 @@ rust-rustfix
 rust-rust-fuzzy-search
 rust-rusticata-macros
 rust-rust-ini
+rust-rust-ini0.18
 rust-rustix-openpty
 rust-rustix
 rust-rustix0.37
@@ -21835,9 +21857,11 @@ rust-ucd-trie
 rust-ucs2
 rust-udev
 rust-udev0.7
+rust-udisks2
 rust-uefi-macros
 rust-uefi-raw
 rust-uefi-run
+rust-uefi
 rust-ufmt-write
 rust-uguid
 rust-ulid
@@ -22026,6 +22050,7 @@ rust-vm-memory
 rust-vmm-sys-util
 rust-vm-superio
 rust-vmw_backdoor
+rust-vsimd
 rust-vsort
 rust-vsprintf
 rust-vte_generate_state_changes
@@ -22692,6 +22717,7 @@ soxr
 sox
 spacebar
 spacefm
+spacemit-firmware
 spacenavd
 spamassassin-dqs
 spamassassin-iXhash2
@@ -22699,6 +22725,7 @@ spamassassin
 spamass-milter
 spampd
 spandsp
+span
 sparkleshare
 sparrow
 sparsehash
@@ -22811,7 +22838,6 @@ starplot-gliese3
 starplot
 starplot-yale5
 star
-startdde
 startup-notification
 sta
 stats-collect
@@ -24205,6 +24231,7 @@ xmp
 xmvn-connector-ivy
 xmvn-generator
 xmvn
+xmvn5
 xnec2c
 xnnpack
 xnvme

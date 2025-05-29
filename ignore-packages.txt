@@ -2,6 +2,9 @@
 # string is evaluated as a regexp
 # comments and empty lines are ignored
 
+# migrated and have ugly hacks in spec file that makes it hard to parse
+llvm$
+
 # Maxwell G (@gotmax23) reported these as false positives
 golang-github-a8m-envsubst$
 golang-github-agnivade-levenshtein$

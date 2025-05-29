@@ -412,6 +412,7 @@ audit
 augeas
 aunit
 auriferous
+aurorae
 auryn
 AusweisApp2
 auter
@@ -522,6 +523,7 @@ bdii
 bdsync
 beakerlib-libraries
 beakerlib
+beaker
 bear
 beecrypt
 beediff
@@ -866,6 +868,7 @@ clang18
 clapper
 clap
 cl-asdf
+clash-meta
 classification-banner
 classloader-leak-test-framework
 classpathless-compiler
@@ -1146,6 +1149,7 @@ cryptominisat
 crypto-policies
 cryptopp
 cryptsetup
+crystal-dock
 crystal-stacker
 crystal-stacker-themes
 cscope
@@ -1218,6 +1222,7 @@ dar
 dasher
 dash
 datamash
+datanommer-commands
 dataquay
 datefudge
 date
@@ -1269,13 +1274,11 @@ deepin-account-faces
 deepin-api
 deepin-calculator
 deepin-calendar
-deepin-control-center
 deepin-daemon
 deepin-desktop-base
 deepin-desktop-schemas
 deepin-dock
 deepin-draw
-deepin-editor
 deepin-file-manager
 deepin-gettext-tools
 deepin-gir-generator
@@ -1444,6 +1447,7 @@ dogtag-pki
 dogtail
 dokuwiki
 dola-gleaner
+dola
 dola-transformer
 dolfin
 dolphin-emu
@@ -1817,6 +1821,7 @@ extra-enforcer-rules
 extrema
 extremetuxracer
 extundelete
+ezstream
 e00compr
 e2tools
 e3
@@ -3342,6 +3347,7 @@ goarrange
 gobi_loader
 gobject-introspection
 gocr
+gocryptfs
 goddard-kde-theme
 godoctor
 godot
@@ -4848,7 +4854,6 @@ ibus-skk
 ibus
 ibus-speech-to-text
 ibus-table-extraphrase
-ibus-table-chinese
 ibus-table-others
 ibus-table
 ibus-typing-booster
@@ -5194,6 +5199,7 @@ kapow
 kappanhang
 kapptemplate
 karp
+karton
 kasumi
 kata-containers
 katago
@@ -6491,7 +6497,6 @@ lld17
 lld18
 llhttp
 llmnrd
-llvm
 llvm-test-suite
 llvm14
 llvm15
@@ -7612,6 +7617,7 @@ observable
 obserware
 obs-service-download_files
 obs-service-extract_file
+obs-service-go_modules
 obs-service-recompress
 obs-service-set_version
 obs-service-tar_scm
@@ -9694,6 +9700,7 @@ perl-Mail-Box-Parser-C
 perl-Mail-Box-POP3
 perl-Mail-Box
 perl-Mail-DKIM
+perl-Mail-DMARC
 perl-Mail-IMAPClient
 perl-Mail-IMAPTalk
 perl-Mail-JMAPTalk
@@ -11438,7 +11445,6 @@ php-theseer-tokenizer
 phpunit10
 phpunit11
 phpunit12
-phpunit7
 phpunit8
 phpunit9
 php-wikimedia-cdb
@@ -11671,11 +11677,9 @@ PragmARC
 prboom-plus
 prboom
 pre-commit
-prelude-lml-rules
 premake
 prename
 preproc
-prewikka-updatedb
 primecount
 printer-driver-brlaser
 printrun
@@ -11850,6 +11854,7 @@ python-aiosmtpd
 python-aiostream
 python-airspeed
 python-alembic
+python-alembic1.14
 python-alsa
 python-androguard
 python-aniso8601
@@ -11973,6 +11978,7 @@ python-banal
 python-baseconv
 python-base58
 python-bashate
+python-basis_set_exchange
 python-batinfo
 python-bcrypt
 python-beancount
@@ -12117,6 +12123,7 @@ python-collectd_puppet
 python-colorama
 python-colored
 python-colormath2
+python-columnar
 python-commoncode
 python-comm
 python-compreffor
@@ -12177,6 +12184,7 @@ python-dasbus
 python-dask
 python-databases
 python-dataclassy
+python-datanommer-models
 python-dateparser
 python-datetimerange
 python-dateutil
@@ -13308,6 +13316,7 @@ python-pytest-testinfra
 python-pytest-timeout
 python-pytest-tldr
 python-pytest-tornado
+python-pytest-twisted
 python-pytest-vcr
 python-pytest-venv
 python-pytest-xdist
@@ -13854,6 +13863,7 @@ python-xlsxwriter
 python-xmltramp
 python-xmp-toolkit
 python-xnat
+python-xnat4tests
 python-xrst
 python-XStatic-Bootstrap-Datepicker
 python-XStatic-DataTables
@@ -14016,6 +14026,7 @@ qstardict
 qstars
 qstat
 qsynth
+Qt-Advanced-Docking-System
 qt-creator
 qterminal
 qtermwidget
@@ -15456,6 +15467,7 @@ rust-cmac
 rust-cmake
 rust-cmd_lib_macros
 rust-cmd_lib
+rust-cobs
 rust-codepage
 rust-codespan-reporting
 rust-codespan-reporting0.11
@@ -15681,6 +15693,7 @@ rust-dlib
 rust-dlopen2_derive
 rust-dlopen2
 rust-dlv-list
+rust-dlv-list0.3
 rust-dns-lookup
 rust-dns-lookup1
 rust-doc-comment
@@ -15783,7 +15796,6 @@ rust-error-chain
 rust-escape8259
 rust-escargot
 rust-etcetera
-rust-etcetera0.8
 rust-ethtool
 rust-euclid
 rust-event-listener
@@ -16351,6 +16363,7 @@ rust-i18n-embed
 rust-jiff
 rust-jiff0.1
 rust-jiter
+rust-jiter0.9
 rust-jobserver
 rust-jod-thread
 rust-joinery
@@ -16379,6 +16392,7 @@ rust-keyframe
 rust-keyvalues-parser
 rust-keyvalues-serde
 rust-khronos_api
+rust-khronos-egl
 rust-konst_macro_rules
 rust-konst_proc_macros
 rust-konst
@@ -16576,6 +16590,7 @@ rust-metrics-util
 rust-miette-derive
 rust-miette
 rust-migrations_internals
+rust-migrations_macros
 rust-mimalloc
 rust-mime_guess
 rust-mime
@@ -16767,7 +16782,9 @@ rust-opus
 rust-ordered-float
 rust-ordered-float2
 rust-ordered-float3
+rust-ordered-float4
 rust-ordered-multimap
+rust-ordered-multimap0.4
 rust-ordered-stream
 rust-ordermap
 rust-ord_subset
@@ -16778,6 +16795,7 @@ rust-os_pipe
 rust-os_str_bytes
 rust-ouroboros_macro
 rust-ouroboros
+rust-outref
 rust-overload
 rust-owned_ttf_parser
 rust-owning_ref
@@ -16922,6 +16940,9 @@ rust-portable-atomic
 rust-portable-atomic-util
 rust-portable-atomic-util0.1
 rust-portpicker
+rust-postcard-derive
+rust-postcard
+rust-postmark
 rust-powerfmt-macros
 rust-powerfmt
 rust-ppv-lite86
@@ -17008,19 +17029,24 @@ rust-pwd
 rust-pyo3-build-config
 rust-pyo3-build-config0.22
 rust-pyo3-build-config0.23
+rust-pyo3-build-config0.24
 rust-pyo3-ffi
 rust-pyo3-ffi0.22
 rust-pyo3-ffi0.23
+rust-pyo3-ffi0.24
 rust-pyo3-log
 rust-pyo3-macros-backend
 rust-pyo3-macros-backend0.22
 rust-pyo3-macros-backend0.23
+rust-pyo3-macros-backend0.24
 rust-pyo3-macros
 rust-pyo3-macros0.22
 rust-pyo3-macros0.23
+rust-pyo3-macros0.24
 rust-pyo3
 rust-pyo3_0.22
 rust-pyo3_0.23
+rust-pyo3_0.24
 rust-pyproject-toml
 rust-pythonize
 rust-python-launcher
@@ -17219,6 +17245,7 @@ rust-rustfix
 rust-rust-fuzzy-search
 rust-rusticata-macros
 rust-rust-ini
+rust-rust-ini0.18
 rust-rustix-openpty
 rust-rustix
 rust-rustix0.37
@@ -17771,9 +17798,11 @@ rust-ucd-trie
 rust-ucs2
 rust-udev
 rust-udev0.7
+rust-udisks2
 rust-uefi-macros
 rust-uefi-raw
 rust-uefi-run
+rust-uefi
 rust-ufmt-write
 rust-uguid
 rust-ulid
@@ -17962,6 +17991,7 @@ rust-vm-memory
 rust-vmm-sys-util
 rust-vm-superio
 rust-vmw_backdoor
+rust-vsimd
 rust-vsort
 rust-vsprintf
 rust-vte_generate_state_changes
@@ -18531,6 +18561,7 @@ source-to-image
 soxr
 spacebar
 spacefm
+spacemit-firmware
 spacenavd
 spamassassin-dqs
 spamassassin-iXhash2
@@ -18538,6 +18569,7 @@ spamassassin
 spamass-milter
 spampd
 spandsp
+span
 sparkleshare
 sparrow
 sparse
@@ -18631,7 +18663,6 @@ starplot-gliese3
 starplot
 starplot-yale5
 star
-startdde
 startup-notification
 sta
 stats-collect
@@ -19731,6 +19762,7 @@ xmp
 xmvn-connector-ivy
 xmvn-generator
 xmvn
+xmvn5
 xnec2c
 xnnpack
 xnvme
