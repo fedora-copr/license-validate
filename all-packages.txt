@@ -145,6 +145,7 @@ allgeyer-fonts
 alliance
 alligator
 ALL
+almalinux-git-utils
 almanah
 alot
 alphabet-soup
@@ -1474,7 +1475,6 @@ dar
 dasher
 dash
 datamash
-datanommer-commands
 dataquay
 datefudge
 date
@@ -1780,6 +1780,7 @@ dput-ng
 dqlite
 draco
 dracut
+dracut-sshd
 dragonbox
 dragon
 drat-trim
@@ -1935,6 +1936,7 @@ echo-icon-theme
 eiciel
 eigen3
 eiskaltdcpp
+ektype-baloo-2-fonts
 ektype-mukta-fonts
 ElectricFence
 electron-cash
@@ -3126,6 +3128,7 @@ ghc-either
 ghc-email-validate
 ghc-enclosed-exceptions
 ghc-entropy
+ghc-enummapset
 ghc-equivalence
 ghc-erf
 ghc-esqueleto
@@ -6260,6 +6263,7 @@ hyperestraier
 hyperhdr
 hyperrogue
 hyperscan
+hypershell
 hyperv-daemons
 hyphen-as
 hyphen-bg
@@ -9338,6 +9342,7 @@ mir
 mISDN
 mivisionx
 mkbootdisk
+mkcert
 mk-configure
 mkdocs-bootstrap
 mkdocs-bootswatch
@@ -10253,6 +10258,7 @@ openal-soft
 openambit
 open-amp
 openapi-python-client
+openapv
 openarc
 openarena
 openbabel
@@ -12876,6 +12882,7 @@ perl-Proc-Terminator
 perl-Proc-WaitStat
 perl-Proc-Wait3
 perl-Promises
+perl-Promise-XS
 perl-Protocol-HTTP2
 perl-Protocol-SOCKS
 perl-Protocol-WebSocket
@@ -14868,6 +14875,8 @@ python-bcrypt
 python-beaker
 python-beanbag
 python-beancount
+python-beangulp
+python-beanprice
 python-beartype
 python-beautifulsoup4
 python-beautifultable
@@ -15167,6 +15176,7 @@ python-dask
 python-databases
 python-dataclassy
 python-datalad
+python-datanommer-commands
 python-datanommer-models
 python-dateparser
 python-datetimerange
@@ -15176,6 +15186,7 @@ python-datrie
 python-dbfread
 python-dbf
 python-dbus-client-gen
+python-dbus-fast
 python-dbusmock
 python-dbus-next
 python-dbus-python-client-gen
@@ -19722,6 +19733,7 @@ rust-devise_core
 rust-devise
 rust-dialoguer
 rust-diesel_derives
+rust-diesel_migrations
 rust-diesel
 rust-diesel_table_macro_syntax
 rust-difference
@@ -19830,7 +19842,6 @@ rust-env_home
 rust-environment
 rust-env_logger
 rust-env_logger0.10
-rust-env_logger0.7
 rust-env_logger0.8
 rust-env_logger0.9
 rust-env_proxy
@@ -20724,6 +20735,7 @@ rust-nix0.24
 rust-nix0.26
 rust-nix0.27
 rust-nix0.28
+rust-nohash-hasher
 rust-noisy_float
 rust-nom
 rust-nom-supreme
@@ -21390,6 +21402,7 @@ rust-sequoia-chameleon-gnupg
 rust-sequoia-ipc
 rust-sequoia-keystore-backend
 rust-sequoia-keystore-gpg-agent
+rust-sequoia-keystore-server
 rust-sequoia-keystore-softkeys
 rust-sequoia-keystore
 rust-sequoia-man
@@ -21545,6 +21558,7 @@ rust-spin_on
 rust-spin_sleep
 rust-spin
 rust-spki
+rust-spm_precompiled
 rust-sptr
 rust-spytools
 rust-sql-builder
@@ -21698,6 +21712,7 @@ rust-thread_local
 rust-threadpool
 rust-thread-tree
 rust-tiff
+rust-tikv-jemalloc-sys
 rust-timeago
 rust-time-core
 rust-time-humanize
@@ -22084,6 +22099,7 @@ rust-webextension-native-messaging
 rust-web-ext-native-messaging
 rust-webpki-roots
 rust-webpki-roots0.25
+rust-webpki-roots0.26
 rust-web-time
 rust-weezl
 rust-which

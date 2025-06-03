@@ -2,9 +2,11 @@ Maintainers by package:
 aspell-pl            jchaloup ljavorsk nforro
 avogadro2-libs       sagitter
 clementine           eclipseo
+diffstat             twaugh
 fcitx5-mozc          music yanqiyu
 frescobaldi          limb
 gstreamer1-doc       limb wtaymans
+iaxclient            smani spot
 jbosscache-support   orphan
 julia                nalimilan
 julius               spot
@@ -15,7 +17,6 @@ kicad                avigne lkundrak stevenfalco
 lazarus              suve
 libwebp              smani
 lincity-ng           spot
-llvm                 dmalcolm ignatenkobrain jakub jistone kkleine nikic scottt sergesanspaille siddharths tbaeder tstellar tuliom
 lmms                 thm
 man-pages-l10n       ljavorsk mfabian nforro
 openal-soft          fcami jwrdegoede tdawson
@@ -23,33 +24,32 @@ pypy                 churchyard thrnciar
 ruby                 mtasaka vondruch
 rubygem-rdoc         vondruch
 rust-rpick           bowlofeggs
+sssd                 abbra asn atikhonov pbrezina sbose simo
 tachyon              rathann
 texlive              jnovy spot than
 tkimg                spot
 webkitgtk            catanzaro
 
 Packages by maintainer:
+abbra      sssd
 acaringi   kernel
 airlied    kernel
 ajax       kernel
+asn        sssd
+atikhonov  sssd
 avigne     kicad
 bowlofeggs rust-rpick
 catanzaro  webkitgtk
 churchyard pypy
-dmalcolm   llvm
 eclipseo   clementine
 fcami      openal-soft
-ignatenkobrain llvm
-jakub      llvm
 jchaloup   aspell-pl
 jcline     kernel
 jforbes    kernel
-jistone    llvm
 jnovy      texlive
 jwboyer    kernel
 jwrdegoede kernel openal-soft
 kernel-maint kernel
-kkleine    llvm
 limb       frescobaldi gstreamer1-doc
 linville   kernel
 ljavorsk   aspell-pl man-pages-l10n
@@ -60,29 +60,26 @@ music      fcitx5-mozc
 myoung     kernel
 nalimilan  julia
 nforro     aspell-pl man-pages-l10n
-nikic      llvm
 orphan     jbosscache-support
 patrickt   kernel
+pbrezina   sssd
 rathann    tachyon
 rdieter    kf5-kirigami2
 sagitter   avogadro2-libs
 sandeen    kernel
-scottt     llvm
-sergesanspaille llvm
-siddharths llvm
-smani      libwebp
-spot       julius lincity-ng texlive tkimg
+sbose      sssd
+simo       sssd
+smani      iaxclient libwebp
+spot       iaxclient julius lincity-ng texlive tkimg
 steved     kernel
 stevenfalco kicad
 suve       lazarus
-tbaeder    llvm
 tdawson    openal-soft
 than       texlive
 thl        kcbench
 thm        lmms
 thrnciar   pypy
-tstellar   llvm
-tuliom     llvm
+twaugh     diffstat
 vondruch   ruby rubygem-rdoc
 wtaymans   gstreamer1-doc
 yanqiyu    fcitx5-mozc

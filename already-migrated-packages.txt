@@ -122,6 +122,7 @@ allegro
 alliance
 alligator
 ALL
+almalinux-git-utils
 almanah
 alot
 alphabet-soup
@@ -1144,7 +1145,6 @@ crun-vm
 crust-firmware
 cryfs
 cryptlib
-cryptobone
 cryptominisat
 crypto-policies
 cryptopp
@@ -1222,7 +1222,6 @@ dar
 dasher
 dash
 datamash
-datanommer-commands
 dataquay
 datefudge
 date
@@ -1364,7 +1363,6 @@ diffmark
 diffoscope
 diffpdf
 diff-so-fancy
-diffstat
 diffuse
 diffutils
 digdoc
@@ -1471,6 +1469,7 @@ doxy2man
 dqlite
 draco
 dracut
+dracut-sshd
 dragonbox
 dragon
 drat-trim
@@ -1588,6 +1587,7 @@ egl-x11
 eg
 eiciel
 eigen3
+ektype-baloo-2-fonts
 ElectricFence
 electronics-menu
 elementary-calculator
@@ -2092,6 +2092,7 @@ freedroid
 freedv
 freefem++
 freeglut
+freeimage
 freeipa-desktop-profile
 freeipa-fas
 freeipa-healthcheck
@@ -2586,6 +2587,7 @@ ghc-either
 ghc-email-validate
 ghc-enclosed-exceptions
 ghc-entropy
+ghc-enummapset
 ghc-equivalence
 ghc-erf
 ghc-esqueleto
@@ -4733,6 +4735,7 @@ hydrogen
 hyfetch
 hyperestraier
 hyperhdr
+hypershell
 hyperv-daemons
 hyphen-as
 hyphen-bg
@@ -6016,6 +6019,7 @@ libkkc
 libkleo
 libklvanc
 libkmahjongg
+libkml
 libkolabxml
 libkomparediff2
 libkrun
@@ -6027,6 +6031,7 @@ libksieve
 libksysguard
 libktorrent
 liblangtag
+liblas
 liblastfm
 liblayout
 liblcf
@@ -6497,6 +6502,7 @@ lld17
 lld18
 llhttp
 llmnrd
+llvm
 llvm-test-suite
 llvm14
 llvm15
@@ -6963,11 +6969,13 @@ mingw-gstreamer1-plugins-good
 mingw-gstreamer1
 mingw-gtkmm30
 mingw-gtksourceviewmm3
+mingw-gtk2
 mingw-gtk3
 mingw-gtk4
 mingw-g2clib
 mingw-headers
 mingw-hicolor-icon-theme
+mingw-hunspell
 mingw-icu
 mingw-imath
 mingw-jasper
@@ -6985,6 +6993,7 @@ mingw-LibRaw
 mingw-librsvg2
 mingw-libsigc++30
 mingw-libsigsegv
+mingw-libsoup
 mingw-libtasn1
 mingw-libtheora
 mingw-libunistring
@@ -7008,10 +7017,12 @@ mingw-pixman
 mingw-polyclipping
 mingw-poppler
 mingw-portaudio
+mingw-protobuf
 mingw-python-blinker
 mingw-python-build
 mingw-python-certifi
 mingw-python-click
+mingw-python-dateutil
 mingw-python-flask
 mingw-python-flit-core
 mingw-python-homography
@@ -7041,9 +7052,27 @@ mingw-python3
 mingw-qca
 mingw-qscintilla
 mingw-qtkeychain
+mingw-qt5-qtactiveqt
 mingw-qt5-qtbase
 mingw-qt5-qtdeclarative
+mingw-qt5-qtgraphicaleffects
+mingw-qt5-qtcharts
+mingw-qt5-qtimageformats
+mingw-qt5-qtlocation
+mingw-qt5-qtmultimedia
+mingw-qt5-qtquickcontrols
+mingw-qt5-qtquickcontrols2
+mingw-qt5-qtsensors
+mingw-qt5-qtserialport
+mingw-qt5-qtsvg
+mingw-qt5-qttools
+mingw-qt5-qttranslations
+mingw-qt5-qtwebchannel
 mingw-qt5-qtwebkit
+mingw-qt5-qtwebsockets
+mingw-qt5-qtwinextras
+mingw-qt5-qtxmlpatterns
+mingw-qt5-qt3d
 mingw-qt6-qtactiveqt
 mingw-qt6-qtbase
 mingw-qt6-qtdeclarative
@@ -7116,6 +7145,7 @@ mirrormagic
 mir
 mivisionx
 mkbootdisk
+mkcert
 mk-configure
 mkdocs-bootstrap
 mkdocs-bootswatch
@@ -7871,6 +7901,7 @@ opari2
 openambit
 open-amp
 openapi-python-client
+openapv
 openarena
 openbabel
 openbgpd
@@ -10370,6 +10401,7 @@ perl-Proc-Terminator
 perl-Proc-WaitStat
 perl-Proc-Wait3
 perl-Promises
+perl-Promise-XS
 perl-Protocol-HTTP2
 perl-Protocol-SOCKS
 perl-Protocol-WebSocket
@@ -11982,6 +12014,8 @@ python-basis_set_exchange
 python-batinfo
 python-bcrypt
 python-beancount
+python-beangulp
+python-beanprice
 python-beartype
 python-behave
 python-beniget
@@ -12184,6 +12218,7 @@ python-dasbus
 python-dask
 python-databases
 python-dataclassy
+python-datanommer-commands
 python-datanommer-models
 python-dateparser
 python-datetimerange
@@ -12191,6 +12226,7 @@ python-dateutil
 python-dateutils
 python-datrie
 python-dbus-client-gen
+python-dbus-fast
 python-dbusmock
 python-dbus-next
 python-dbus-python-client-gen
@@ -12373,6 +12409,7 @@ python-flake8-deprecated
 python-flake8-import-order
 python-flake8-quotes
 python-flaky
+python-flask-babel
 python-flask-mailman
 python-flask-migrate
 python-flask-mongoengine
@@ -12883,6 +12920,7 @@ python-nine
 python-nipype
 python-nipy
 python-nitime
+python-nitrate
 python-nixio
 python-nmap
 python-nodeenv
@@ -12891,6 +12929,7 @@ python-normality
 python-nose2
 python-notebook-shim
 python-notebook
+python-notify2
 python-novaclient-os-networks
 python-novaclient-os-virtual-interfaces
 python-novaclient
@@ -15667,6 +15706,7 @@ rust-devise_core
 rust-devise
 rust-dialoguer
 rust-diesel_derives
+rust-diesel_migrations
 rust-diesel
 rust-diesel_table_macro_syntax
 rust-difference
@@ -15775,7 +15815,6 @@ rust-env_home
 rust-environment
 rust-env_logger
 rust-env_logger0.10
-rust-env_logger0.7
 rust-env_logger0.8
 rust-env_logger0.9
 rust-env_proxy
@@ -16667,6 +16706,7 @@ rust-nix0.24
 rust-nix0.26
 rust-nix0.27
 rust-nix0.28
+rust-nohash-hasher
 rust-noisy_float
 rust-nom
 rust-nom-supreme
@@ -17332,6 +17372,7 @@ rust-sequoia-chameleon-gnupg
 rust-sequoia-ipc
 rust-sequoia-keystore-backend
 rust-sequoia-keystore-gpg-agent
+rust-sequoia-keystore-server
 rust-sequoia-keystore-softkeys
 rust-sequoia-keystore
 rust-sequoia-man
@@ -17486,6 +17527,7 @@ rust-spin_on
 rust-spin_sleep
 rust-spin
 rust-spki
+rust-spm_precompiled
 rust-sptr
 rust-spytools
 rust-sql-builder
@@ -17639,6 +17681,7 @@ rust-thread_local
 rust-threadpool
 rust-thread-tree
 rust-tiff
+rust-tikv-jemalloc-sys
 rust-timeago
 rust-time-core
 rust-time-humanize
@@ -18025,6 +18068,7 @@ rust-webextension-native-messaging
 rust-web-ext-native-messaging
 rust-webpki-roots
 rust-webpki-roots0.25
+rust-webpki-roots0.26
 rust-web-time
 rust-weezl
 rust-which
@@ -18650,7 +18694,6 @@ sshuttle
 ssldump
 sslh
 ssmtp
-sssd
 ssss
 sstp-client
 stack
