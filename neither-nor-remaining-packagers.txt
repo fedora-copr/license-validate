@@ -1,5 +1,4 @@
 Maintainers by package:
-aspell-pl            jchaloup ljavorsk nforro
 avogadro2-libs       sagitter
 clementine           eclipseo
 diffstat             twaugh
@@ -20,6 +19,7 @@ lincity-ng           spot
 lmms                 thm
 man-pages-l10n       ljavorsk mfabian nforro
 openal-soft          fcami jwrdegoede tdawson
+pymol                sagitter
 pypy                 churchyard thrnciar
 ruby                 mtasaka vondruch
 rubygem-rdoc         vondruch
@@ -43,7 +43,6 @@ catanzaro  webkitgtk
 churchyard pypy
 eclipseo   clementine
 fcami      openal-soft
-jchaloup   aspell-pl
 jcline     kernel
 jforbes    kernel
 jnovy      texlive
@@ -52,20 +51,20 @@ jwrdegoede kernel openal-soft
 kernel-maint kernel
 limb       frescobaldi gstreamer1-doc
 linville   kernel
-ljavorsk   aspell-pl man-pages-l10n
+ljavorsk   man-pages-l10n
 lkundrak   kicad
 mfabian    man-pages-l10n
 mtasaka    ruby
 music      fcitx5-mozc
 myoung     kernel
 nalimilan  julia
-nforro     aspell-pl man-pages-l10n
+nforro     man-pages-l10n
 orphan     jbosscache-support
 patrickt   kernel
 pbrezina   sssd
 rathann    tachyon
 rdieter    kf5-kirigami2
-sagitter   avogadro2-libs
+sagitter   avogadro2-libs pymol
 sandeen    kernel
 sbose      sssd
 simo       sssd
