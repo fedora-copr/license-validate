@@ -75,6 +75,7 @@ bash-completion
 bc
 bcc
 bcel
+beust-jcommander
 bfscripts
 bind
 bind-dyndb-ldap
@@ -198,6 +199,9 @@ docbook-style-xsl
 docbook-utils
 docbook5-schemas
 dogtag-pki
+dola
+dola-gleaner
+dola-transformer
 dos2unix
 dosfstools
 dotconf
@@ -642,6 +646,7 @@ jansi
 jansson
 jasper
 java-21-openjdk
+java-25-openjdk
 java-rpm-macros
 javapackages-bootstrap
 javapackages-tools
@@ -666,6 +671,7 @@ jsr-305
 jss
 junit
 junit5
+jurand
 jzlib
 kabi-dw
 kasumi
@@ -683,6 +689,7 @@ keylime
 keylime-agent-rust
 keyutils
 kmod
+kojan-xml
 kpatch
 krb5
 kronosnet
@@ -1001,9 +1008,18 @@ mariadb-java-client
 mariadb10.11
 marshalparser
 maven
+maven-archiver
+maven-common-artifact-filters
+maven-compiler-plugin
+maven-file-management
+maven-filtering
+maven-jar-plugin
 maven-resolver
 maven-resolver2
+maven-resources-plugin
+maven-shared-incremental
 maven-shared-utils
+maven-surefire
 maven-wagon
 maven4
 mc
@@ -1372,11 +1388,16 @@ pipewire
 pixman
 pkcs11-provider
 pkgconf
+plexus-archiver
+plexus-build-api0
 plexus-cipher
 plexus-classworlds
+plexus-compiler
 plexus-containers
 plexus-interactivity
 plexus-interpolation
+plexus-io
+plexus-languages
 plexus-sec-dispatcher
 plexus-sec-dispatcher4
 plexus-utils
@@ -1557,6 +1578,7 @@ python-wheel
 python-xkbregistry
 python-yubico
 python3.13
+python3.14
 pyusb
 pyxdg
 qat-zstd-plugin
@@ -1564,6 +1586,7 @@ qatengine
 qatlib
 qatzip
 qclib
+qdox
 qemu-kvm
 qpdf
 qt6
@@ -1893,6 +1916,7 @@ woodstox-core
 words
 wpa_supplicant
 wsdd
+wsl-setup
 wsmancli
 x3270
 xalan-j2
@@ -1923,6 +1947,9 @@ xml-commons-apis
 xml-commons-resolver
 xmlsec1
 xmltoman
+xmvn
+xmvn-generator
+xmvn5
 xorg-x11-fonts
 xorg-x11-proto-devel
 xorg-x11-server-Xwayland

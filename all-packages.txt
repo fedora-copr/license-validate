@@ -862,7 +862,6 @@ ca-certificates
 cadaver
 caddy
 cadical
-cadvisor
 cage
 cachefilesd
 cachelib
@@ -1334,14 +1333,12 @@ credslayer
 creds
 crest
 cri-o
-cri-o1.29
 cri-o1.30
 cri-o1.31
 cri-o1.32
 cri-o1.33
 CriticalMass
 cri-tools
-cri-tools1.29
 cri-tools1.30
 cri-tools1.31
 cri-tools1.32
@@ -2243,6 +2240,7 @@ e16-themes
 e2fsprogs
 e2tools
 e3
+faad2
 fabtests
 facter
 fail2ban
@@ -2482,7 +2480,6 @@ floppy-support
 florence
 florist
 flowblade
-flowcanvas
 flow-tools
 flpsed
 flrig
@@ -2530,6 +2527,7 @@ foomatic
 foomuuri
 foonathan-memory
 foot
+fooyin
 foo2zjs
 fop
 foremost
@@ -4560,7 +4558,6 @@ golang-github-hamba-avro2
 golang-github-hanwen-fuse-2
 golang-github-haproxytech-client-native
 golang-github-haproxytech-config-parser
-golang-github-haproxytech-dataplaneapi
 golang-github-haproxytech-logger
 golang-github-harrymichal-version
 golang-github-hashicorp-cleanhttp
@@ -4922,7 +4919,6 @@ golang-github-mitchellh-wordwrap
 golang-github-mmarkdown-mmark
 golang-github-mmcloughlin-avo
 golang-github-mndrix-tap
-golang-github-moby-buildkit
 golang-github-moby-ipvs
 golang-github-moby-locker
 golang-github-moby-patternmatcher
@@ -6438,6 +6434,7 @@ ignuit
 igraph
 igt-gpu-tools
 iguanaIR
+igvm
 iio-sensor-proxy
 iir1
 ii
@@ -7370,7 +7367,6 @@ ktp-desktop-applets
 ktrip
 ktuberling
 kturtle
-kubernetes1.29
 kubernetes1.30
 kubernetes1.31
 kubernetes1.32
@@ -7480,6 +7476,7 @@ legendary
 legofy
 leland-fonts
 lemonldap-ng
+lem
 lensfun
 lens-magic
 leonidas-backgrounds
@@ -8065,6 +8062,7 @@ libqmi
 libqrtr-glib
 libqtxdg
 libquentier
+libquicktime
 libquotient
 libquvi-scripts
 libqxp
@@ -10963,6 +10961,7 @@ perl-CGI-Application-Structured-Tools
 perl-CGI-Compile
 perl-CGI-Deurl-XS
 perl-CGI-Emulate-PSGI
+perl-CGI-Expand
 perl-CGI-Ex
 perl-CGI-Fast
 perl-CGI-FastTemplate
@@ -11091,6 +11090,7 @@ perl-Config-Model-TkUI
 perl-Config-MVP-Reader-INI
 perl-Config-MVP-Slicer
 perl-Config-MVP
+perl-Config-Onion
 perl-Config-Perl-V
 perl-Config-Properties
 perl-ConfigReader
@@ -11472,6 +11472,7 @@ perl-Directory-Scratch
 perl-Directory-Scratch-Structured
 perl-Dir-Manifest
 perl-Dir-Self
+perl-Dispatch-Class
 perl-Dist-CheckConflicts
 perl-Dist-Metadata
 perl-Dist-Milla
@@ -12177,6 +12178,7 @@ perl-LWP-Protocol-PSGI
 perl-LWP-UserAgent-Determined
 perl-LWP-UserAgent-DNS-Hosts
 perl-Mail-Alias
+perl-Mail-Audit
 perl-Mail-AuthenticationResults
 perl-Mail-Box-IMAP4
 perl-Mail-Box-Parser-C
@@ -13056,6 +13058,7 @@ perl-String-Format
 perl-String-Formatter
 perl-String-Interpolate-Named
 perl-String-License
+perl-String-MkPasswd
 perl-String-Print
 perl-String-Random
 perl-String-RewritePrefix
@@ -13456,6 +13459,7 @@ perl-Text-Template-Simple
 perl-Text-Template
 perl-Text-Textile
 perl-Text-Tree
+perl-Text-Trim
 perl-Text-Unidecode
 perl-Text-VCardFast
 perl-Text-vCard
@@ -15202,6 +15206,7 @@ python-deconz
 python-decopatch
 python-decorator
 python-deepdiff
+python-deepmerge
 python-defcon
 python-defusedxml
 python-demjson
@@ -15392,6 +15397,7 @@ python-eth-typing
 python-eth-utils
 python-et_xmlfile
 python-evdev
+python-eventlet
 python-events
 python-exabgp
 python-exdir
@@ -16077,6 +16083,7 @@ python-mkdocs-monorepo-plugin
 python-mkdocs-redirects
 python-mkdocs-rss-plugin
 python-mkdocs-static-i18n
+python-mkdocs-test
 python-mmtf
 python-mne-bids
 python-mnemonic
@@ -20169,6 +20176,8 @@ rust-gstreamer-rtp
 rust-gstreamer-rtp-sys
 rust-gstreamer
 rust-gstreamer-sys
+rust-gstreamer-tag
+rust-gstreamer-tag-sys
 rust-gstreamer-utils
 rust-gstreamer-video
 rust-gstreamer-video-sys
@@ -20615,6 +20624,7 @@ rust-lz4
 rust-lz4-sys
 rust-mac_address
 rust-macro_rules_attribute-proc_macro
+rust-macro_rules_attribute
 rust-mac
 rust-mailparse
 rust-man
@@ -22158,6 +22168,7 @@ rust-yeslogic-fontconfig-sys4
 rust-yoke-derive
 rust-yoke
 rust-yubibomb
+rust-yuv
 rust-yuvutils-rs
 rust-y4m
 rust-z-base-32
@@ -23359,11 +23370,23 @@ trayscale
 treeland-protocols
 treelayout
 tree-pkg
+tree-sitter-bash
+tree-sitter-cmake
+tree-sitter-c-sharp
+tree-sitter-c
+tree-sitter-css
 tree-sitter-elixir
+tree-sitter-html
+tree-sitter-javascript
 tree-sitter-java
+tree-sitter-jsdoc
 tree-sitter-json
+tree-sitter-python
 tree-sitter
 tree-sitter-srpm-macros
+tree-sitter-toml
+tree-sitter-typescript
+tree-sitter-yaml
 trelby
 trellis
 tremulous-data

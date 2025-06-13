@@ -734,7 +734,6 @@ ca-certificates
 cadaver
 caddy
 cadical
-cadvisor
 cage
 cachefilesd
 cachelib
@@ -1106,14 +1105,12 @@ credslayer
 creds
 crest
 cri-o
-cri-o1.29
 cri-o1.30
 cri-o1.31
 cri-o1.32
 cri-o1.33
 CriticalMass
 cri-tools
-cri-tools1.29
 cri-tools1.30
 cri-tools1.31
 cri-tools1.32
@@ -1365,6 +1362,7 @@ diffmark
 diffoscope
 diffpdf
 diff-so-fancy
+diffstat
 diffuse
 diffutils
 digdoc
@@ -1827,6 +1825,7 @@ ezstream
 e00compr
 e2tools
 e3
+faad2
 fabtests
 facter
 fail2ban
@@ -2014,7 +2013,6 @@ flobopuyo
 flocq
 florist
 flowblade
-flowcanvas
 flpsed
 flrig
 flterm
@@ -2053,6 +2051,7 @@ foomatic
 foomuuri
 foonathan-memory
 foot
+fooyin
 foo2zjs
 fop
 foremost
@@ -3654,7 +3653,6 @@ golang-github-hamba-avro2
 golang-github-hanwen-fuse-2
 golang-github-haproxytech-client-native
 golang-github-haproxytech-config-parser
-golang-github-haproxytech-dataplaneapi
 golang-github-haproxytech-logger
 golang-github-hashicorp-cleanhttp
 golang-github-hashicorp-envparse
@@ -3821,7 +3819,6 @@ golang-github-minio
 golang-github-minio-6
 golang-github-mistifyio-zfs
 golang-github-mmcloughlin-avo
-golang-github-moby-buildkit
 golang-github-moby-ipvs
 golang-github-moby-locker
 golang-github-moby-patternmatcher
@@ -4894,6 +4891,7 @@ ignition
 ignition-transport
 ignuit
 igraph
+igvm
 iio-sensor-proxy
 iir1
 ii
@@ -5645,7 +5643,6 @@ ktp-desktop-applets
 ktrip
 ktuberling
 kturtle
-kubernetes1.29
 kubernetes1.30
 kubernetes1.31
 kubernetes1.32
@@ -5738,6 +5735,7 @@ legendary
 legofy
 leland-fonts
 lemonldap-ng
+lem
 lens-magic
 leonidas-backgrounds
 less
@@ -6191,6 +6189,7 @@ libqb
 libqmi
 libqrtr-glib
 libquentier
+libquicktime
 libquotient
 libquvi-scripts
 libqxp
@@ -7522,6 +7521,7 @@ nginx-mod-modsecurity
 nginx-mod-naxsi
 nginx
 ngircd
+ngrep
 nheko
 NiaAML-GUI
 nicotine+
@@ -8550,6 +8550,7 @@ perl-CGI-Application-Structured-Tools
 perl-CGI-Compile
 perl-CGI-Deurl-XS
 perl-CGI-Emulate-PSGI
+perl-CGI-Expand
 perl-CGI-Ex
 perl-CGI-Fast
 perl-CGI-FastTemplate
@@ -8675,6 +8676,7 @@ perl-Config-Model-TkUI
 perl-Config-MVP-Reader-INI
 perl-Config-MVP-Slicer
 perl-Config-MVP
+perl-Config-Onion
 perl-Config-Perl-V
 perl-Config-Properties
 perl-Config-Record
@@ -9052,6 +9054,7 @@ perl-Directory-Queue
 perl-Directory-Scratch
 perl-Directory-Scratch-Structured
 perl-Dir-Self
+perl-Dispatch-Class
 perl-Dist-CheckConflicts
 perl-Dist-Metadata
 perl-Dist-Milla
@@ -9726,6 +9729,7 @@ perl-LWP-Protocol-PSGI
 perl-LWP-UserAgent-Determined
 perl-LWP-UserAgent-DNS-Hosts
 perl-Mail-Alias
+perl-Mail-Audit
 perl-Mail-AuthenticationResults
 perl-Mail-Box-IMAP4
 perl-Mail-Box-Parser-C
@@ -10176,6 +10180,7 @@ perl-Package-Anon
 perl-Package-Constants
 perl-Package-DeprecationManager
 perl-Package-Generator
+perl-Package-New
 perl-Package-Pkg
 perl-Package-Stash
 perl-Package-Stash-XS
@@ -10570,6 +10575,7 @@ perl-String-Format
 perl-String-Formatter
 perl-String-Interpolate-Named
 perl-String-License
+perl-String-MkPasswd
 perl-String-Print
 perl-String-Random
 perl-String-RewritePrefix
@@ -10960,6 +10966,7 @@ perl-Text-Template-Simple
 perl-Text-Template
 perl-Text-Textile
 perl-Text-Tree
+perl-Text-Trim
 perl-Text-Unidecode
 perl-Text-VCardFast
 perl-Text-vCard
@@ -11239,6 +11246,7 @@ pgmodeler
 pgn-extract
 pgrouting
 pgsphere
+pg_top
 phd2
 phoc
 phonon-backend-vlc
@@ -11758,6 +11766,7 @@ psfex
 psftools
 psiconv
 psimd
+psi-plus
 ps_mem
 psmisc
 psmoveapi
@@ -11825,6 +11834,7 @@ pylint
 PyMca
 pymilia
 pymodbus
+pymol
 pyodbc
 pyOpenSSL
 pyosmium
@@ -12241,6 +12251,7 @@ python-debrepo
 python-debtcollector
 python-decopatch
 python-decorator
+python-deepmerge
 python-defusedxml
 python-demjson
 python-dependency-groups
@@ -12541,6 +12552,7 @@ python-hid-parser
 python-hid
 python-hiredis
 python-hjson
+python-hl7
 python-housekeeping
 python-hpilo
 python-hsluv
@@ -12838,6 +12850,7 @@ python-mkdocs-minify-plugin
 python-mkdocs-monorepo-plugin
 python-mkdocs-rss-plugin
 python-mkdocs-static-i18n
+python-mkdocs-test
 python-mmtf
 python-mne-bids
 python-mne
@@ -16145,6 +16158,8 @@ rust-gstreamer-rtp
 rust-gstreamer-rtp-sys
 rust-gstreamer
 rust-gstreamer-sys
+rust-gstreamer-tag
+rust-gstreamer-tag-sys
 rust-gstreamer-utils
 rust-gstreamer-video
 rust-gstreamer-video-sys
@@ -16589,6 +16604,7 @@ rust-lz4
 rust-lz4-sys
 rust-mac_address
 rust-macro_rules_attribute-proc_macro
+rust-macro_rules_attribute
 rust-mac
 rust-mailparse
 rust-man
@@ -18130,6 +18146,7 @@ rust-yeslogic-fontconfig-sys4
 rust-yoke-derive
 rust-yoke
 rust-yubibomb
+rust-yuv
 rust-yuvutils-rs
 rust-y4m
 rust-z-base-32
@@ -19098,11 +19115,23 @@ trayscale
 treeland-protocols
 treelayout
 tree-pkg
+tree-sitter-bash
+tree-sitter-cmake
+tree-sitter-c-sharp
+tree-sitter-c
+tree-sitter-css
 tree-sitter-elixir
+tree-sitter-html
+tree-sitter-javascript
 tree-sitter-java
+tree-sitter-jsdoc
 tree-sitter-json
+tree-sitter-python
 tree-sitter
 tree-sitter-srpm-macros
+tree-sitter-toml
+tree-sitter-typescript
+tree-sitter-yaml
 trelby
 tremulous
 trend
