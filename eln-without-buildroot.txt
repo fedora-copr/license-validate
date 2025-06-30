@@ -614,6 +614,7 @@ inih
 iniparser
 initscripts
 insights-client
+insights-core-selinux
 intel-cmt-cat
 intel-lpmd
 iotop-c
@@ -1577,7 +1578,6 @@ python-websockets
 python-wheel
 python-xkbregistry
 python-yubico
-python3.13
 python3.14
 pyusb
 pyxdg
@@ -1905,7 +1905,7 @@ wayland-utils
 waypipe
 webrtc-audio-processing
 weldr-client
-wget2
+wget1
 which
 whois
 wireguard-tools
