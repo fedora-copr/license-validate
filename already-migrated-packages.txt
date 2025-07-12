@@ -269,6 +269,7 @@ apt-cacher-ng
 apt
 apvlv
 aqbanking
+aqlprofile
 aqualung
 aquamarine
 aqute-bnd
@@ -437,6 +438,7 @@ autorandr
 autorestic
 auto
 autotrace
+autowrap
 avahi
 avgtime
 avra
@@ -449,19 +451,10 @@ awesfx
 awf-gtk2
 awf-gtk3
 awf-gtk4
-aws-c-auth
 aws-c-cal
 aws-c-common
-aws-c-compression
-aws-c-event-stream
-aws-c-http
-aws-c-io
 awscli2
-aws-c-mqtt
-aws-c-sdkutils
-aws-c-s3
 aw-server-rust
-aws-checksums
 aws
 awstats
 axel
@@ -823,6 +816,7 @@ centos-packager
 centpkg-minimal
 centpkg
 cepces
+ceph
 cereal
 ceres-solver
 certbot
@@ -977,6 +971,7 @@ compiz-bcop
 compiz-manager
 compiz-plugins-experimental
 compiz-plugins-main
+complyctl
 composefs
 composer-generators
 composer
@@ -1246,6 +1241,7 @@ dbus
 dbus-test-runner
 dcap
 dcmtk
+dcm2niix
 dconf-editor
 dconf
 dcraw
@@ -1510,6 +1506,7 @@ dt-schema
 dtv-scan-tables
 dualscreen-mouse-utils
 duc
+du-dust
 duf
 duktape
 dummy-package-canary
@@ -1561,7 +1558,6 @@ ecdsautils
 ecolier-court-fonts
 ecryptfs-utils
 ec2-hibinit-agent
-ec2-instance-connect
 edac-utils
 edflib
 edg-gridftp-client
@@ -1602,6 +1598,8 @@ elementary-mail
 elementary-music
 elementary-notifications
 elementary-onboarding
+elementary-photos
+elementary-screenshot
 elementary-xfce-icon-theme
 elfutils
 elinks
@@ -2297,6 +2295,7 @@ gap-pkg-smallgrp
 gap-pkg-smallsemi
 gap-pkg-sonata
 gap-pkg-sophus
+gap-pkg-sotgrps
 gap-pkg-spinsym
 gap-pkg-standardff
 gap-pkg-tomlib
@@ -2378,6 +2377,7 @@ gencolormap
 genders
 general-purpose-preprocessor
 generic-release
+genext2fs
 gengetopt
 genchemlab
 GENie
@@ -3361,6 +3361,7 @@ godot
 godot3
 goffice
 gogextract
+gojq
 golang-aead-minisign
 golang-ariga-atlas
 golang-bitbucket-creachadair-shell
@@ -3386,6 +3387,7 @@ golang-cloud-google
 golang-cloud-google-storage
 golang-cloud-google-trace
 golang-codeberg-gbcox-beetbrainz
+golang-codeberg-gbcox-mpris-webhook
 golang-code-cloudfoundry-bytefmt
 golang-code-cloudfoundry-clock
 golang-code-rocketnine-tslocum-cbind
@@ -3399,6 +3401,7 @@ golang-deepin-go-lib
 golang-entgo-ent
 golang-filippo-edwards25519
 golang-github-abbot-http-auth
+golang-github-acme-lego
 golang-github-adamslevy-jsonrpc2_14
 golang-github-agext-levenshtein
 golang-github-agnivade-levenshtein
@@ -3660,7 +3663,6 @@ golang-github-haproxytech-logger
 golang-github-hashicorp-cleanhttp
 golang-github-hashicorp-envparse
 golang-github-hashicorp-errwrap
-golang-github-hashicorp-hc-install
 golang-github-hashicorp-hcl
 golang-github-hashicorp-hcl-2
 golang-github-hashicorp-checkpoint
@@ -4135,7 +4137,6 @@ golang-gorgonia-vecf64
 golang-gotest
 golang-go4
 golang-go4-unsafe-assume-no-moving-gc
-golang-gvisor
 golang-hein-version
 golang-honnef-tools
 golang-howett-plist
@@ -4510,6 +4511,7 @@ heaptrack
 hedgewars
 hedley
 heffte
+heimdal
 helix
 hello
 helm
@@ -4550,6 +4552,7 @@ hipify
 hiprand
 hiprt
 hipsolver
+hipsparselt
 hipsparse
 hitori
 hivex
@@ -4885,6 +4888,7 @@ ideviceinstaller
 idevicerestore
 idle3-tools
 idris
+idris2
 id3v2
 iec16022
 ifm
@@ -5492,7 +5496,6 @@ kglobalacceld
 kgpg
 kgrab
 kgraphviewer
-kguitar
 khangman
 khard
 khealthcertificate
@@ -7479,7 +7482,6 @@ netrate
 netsed
 netsniff-ng
 net-snmp
-netstat-monitor
 netstat-nat
 netsurf-buildsystem
 netsurf
@@ -7557,6 +7559,7 @@ nodejs-undici
 nodejs18
 nodejs20
 nodejs22
+nodejs24
 nogravity-data
 nogravity
 noip
@@ -7591,7 +7594,6 @@ NsCDE
 nsdiff
 nsd
 nsnake
-nsntrace
 nss-altfiles
 nss-mdns
 nss-pam-ldapd
@@ -7747,7 +7749,6 @@ ocaml-ocp-indent
 ocaml-ocplib-endian
 ocaml-ocplib-simplex
 ocaml-octavius
-ocaml-odoc
 ocaml-omake
 ocaml-omd
 ocaml-opam-file-format
@@ -11819,6 +11820,7 @@ pydot
 pyelftools
 pygame
 pygobject3
+PyGreSQL
 pygrib
 pygsl
 pyhoca-cli
@@ -12267,7 +12269,6 @@ python-diff-match-patch
 python-digitalocean
 python-dijitso
 python-dill
-python-dingz
 python-dipy
 python-dirhash
 python-dirq
@@ -12469,7 +12470,6 @@ python-furo
 python-futurist
 python-fvs
 python-fypp
-python-gammu
 python-gast
 python-gatspy
 python-gattlib
@@ -12638,7 +12638,6 @@ python-isal
 python-isodate
 python-isoduration
 python-isort
-python-iso-639
 python-iso639
 python-itsdangerous
 python-jaconv
@@ -12762,6 +12761,7 @@ python-llvmlite
 python-localzone
 python-logbook
 python-logdetective
+python-logfury
 python-loguru
 python-looseversion
 python-lqrt
@@ -13003,7 +13003,6 @@ python-oslotest
 python-oslo-utils
 python-osrf-pycommon
 python-os-service-types
-python-os-testr
 python-outcome
 python-overpy
 python-ovh
@@ -13011,6 +13010,7 @@ python-ovirt-engine-sdk4
 python-OWSLib
 python-packageurl-python
 python-packaging
+python-packbits
 python-packvers
 python-paginate
 python-pagure-messages
@@ -13076,6 +13076,7 @@ python-pkginfo
 python-pkginfo2
 python-plac
 python-platformio
+python-playsound3
 python-plotly
 python-plotnine
 python-pluggy
@@ -13129,7 +13130,6 @@ python-pwntools
 python-pyABF
 python-pyahocorasick
 python-pyaib
-python-py-algorand-sdk
 python-pyarlo
 python-pyasn
 python-pyasn1
@@ -13272,6 +13272,7 @@ python-pyrad
 python-pyramid-mako
 python-pyramid_sawing
 python-pyramid
+python-pyrankvote
 python-pyrate-limiter
 python-pyrdfa3
 python-pyregion
@@ -13410,7 +13411,6 @@ python-radexreader
 python-railroad-diagrams
 python-rak811
 python-ramalama
-python-random2
 python-rangehttpserver
 python-rapidfuzz
 python-rasterio
@@ -13476,6 +13476,7 @@ python-ROPGadget
 python-rosdistro
 python-rospkg
 python-roundrobin
+python-rpdb
 python-rpds-py
 python-rpi-gpio2
 python-rpmautospec-core
@@ -13638,7 +13639,6 @@ python-sphinx-theme-alabaster
 python-sphinx-theme-builder
 python-sphinx-typlog-theme
 python-sphinxygen
-python-spnego
 python-sport-activities-features
 python-spotipy
 python-spur
@@ -13711,8 +13711,6 @@ python-tensile
 python-term-background
 python-terminado
 python-teslajsonpy
-python-testing.common.database
-python-testing.postgresql
 python-testpath
 python-testrepository
 python-testresources
@@ -13754,7 +13752,6 @@ python-torch
 python-torchtext
 python-torchvision
 python-tornado
-python-tosca-parser
 python-tox
 python-tox-uv
 python-tpm2-pytss
@@ -13781,6 +13778,7 @@ python-tubes
 python-tvb-data
 python-tvb-gdist
 python-twine
+python-twomemo
 python-txredisapi
 python-txzmq
 python-typecode-libmagic
@@ -13964,7 +13962,6 @@ python-zuul-sphinx
 python3-cangjie
 python3-discid
 python3-docs
-python3-exiv2
 python3-gssapi
 python3-mypy
 python3-openid
@@ -14211,6 +14208,7 @@ radvd
 raft
 rakarrack
 rakudo
+ramalama
 rancid
 randomx
 ranger
@@ -15043,6 +15041,7 @@ rubygem-timers
 rubygem-tins
 rubygem-tk
 rubygem-tomlrb
+rubygem-track_open_instances
 rubygem-treetop
 rubygem-ttfunk
 rubygem-tty-color
@@ -16582,6 +16581,7 @@ rust-lopdf
 rust-lru-cache
 rust-lru
 rust-lru0.12
+rust-lru0.13
 rust-lscolors
 rust-lscolors0.13
 rust-lsd
@@ -17068,8 +17068,6 @@ rust-protobuf-codegen-pure
 rust-protobuf-codegen
 rust-protobuf
 rust-protox-parse
-rust-psa-crypto
-rust-psa-crypto-sys
 rust-psl
 rust-psl-types
 rust-psm
@@ -17703,6 +17701,7 @@ rust-thread_local
 rust-threadpool
 rust-thread-tree
 rust-tiff
+rust-tikv-jemallocator
 rust-tikv-jemalloc-sys
 rust-timeago
 rust-time-core
@@ -18054,6 +18053,7 @@ rust-vm-allocator
 rust-vm-fdt
 rust-vm-memory
 rust-vmm-sys-util
+rust-vmm-sys-util0.12
 rust-vm-superio
 rust-vmw_backdoor
 rust-vsimd
@@ -18547,6 +18547,7 @@ slimdata
 slim
 slingshot
 slirp4netns
+slitherer
 sloccount
 slock
 SLOF
@@ -18762,6 +18763,7 @@ stressapptest
 stress-ng
 stress
 string-template-maven-plugin
+stringtemplate
 stringtemplate4
 stripesnoop
 strongswan
@@ -18890,7 +18892,6 @@ system-switch-mail
 systemtap
 system76-keyboard-configurator
 sysusage
-s2n-tls
 s3cmd
 s3fs-fuse
 s390utils
@@ -19142,6 +19143,7 @@ tree-sitter-yaml
 trelby
 tremulous
 trend
+tre
 trezor-common
 tripwire
 trivy
@@ -19304,6 +19306,7 @@ usbmuxd
 usbredir
 usbrelay
 usbsniff
+usbtop
 usbutils
 usbview
 usd
@@ -19424,6 +19427,7 @@ vips
 virglrenderer
 virt-backup
 virt-bootstrap
+virt-firmware-rs
 virtiofsd
 virt-lightning
 virt-manager
@@ -19512,6 +19516,7 @@ wavbreaker
 wavemon
 wavextract
 wavpack
+wayback
 waybar
 waydroid
 waycheck
@@ -19855,11 +19860,13 @@ xorg-x11-drivers
 xorg-x11-drv-dummy
 xorg-x11-drv-evdev
 xorg-x11-drv-libinput
+xorg-x11-drv-synaptics
 xorg-x11-drv-vmware
 xorg-x11-drv-wacom
 xorg-x11-fonts
 xorg-x11-font-utils
 xorg-x11-proto-devel
+xorg-x11-server
 xorg-x11-server-Xwayland
 xorg-x11-util-macros
 xorg-x11-xauth
@@ -19877,6 +19884,7 @@ xpilot-ng
 xplanet
 xprop
 xpsk31
+xq
 xrandr
 xrdb
 xreader
@@ -19901,7 +19909,6 @@ xtb
 xteddy
 xterm
 xtideuniversalbios
-x-tile
 xtl
 xtrkcad
 xtrlock

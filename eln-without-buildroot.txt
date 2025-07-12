@@ -52,7 +52,6 @@ appstream
 appstream-data
 apr
 apr-util
-asciidoc
 assertj-core
 at
 at-spi2-core
@@ -208,7 +207,6 @@ dotconf
 dotnet8.0
 dotnet9.0
 dovecot
-doxygen
 dpdk
 dracut
 driverctl
@@ -247,7 +245,7 @@ fapolicyd
 fcoe-utils
 fdk-aac-free
 fedora-eln-backgrounds
-fedora-logos
+fedora-eln-logos
 fedora-release
 fedora-repos
 fence-agents
@@ -690,6 +688,7 @@ keylime
 keylime-agent-rust
 keyutils
 kmod
+kojan-parent
 kojan-xml
 kpatch
 krb5
@@ -702,7 +701,6 @@ kyotocabinet
 lame
 langpacks
 langtable
-latex2html
 lato-fonts
 lcms2
 ldapjdk
@@ -1338,11 +1336,9 @@ perl-Tie-RefHash
 perl-Time-HiRes
 perl-Time-Local
 perl-TimeDate
-perl-Tk
 perl-Try-Tiny
 perl-URI
 perl-Unicode-Collate
-perl-Unicode-EastAsianWidth
 perl-Unicode-Normalize
 perl-Unix-Syslog
 perl-WWW-RobotRules
@@ -1362,7 +1358,6 @@ perl-constant
 perl-experimental
 perl-generators
 perl-inc-latest
-perl-libintl-perl
 perl-libnet
 perl-libwww-perl
 perl-local-lib
@@ -1425,7 +1420,6 @@ postgresql16-decoderbufs
 postgresql16-pg_repack
 postgresql16-pgaudit
 postgresql16-pgvector
-potrace
 powerpc-utils
 powertop
 ppc64-diag
@@ -1571,10 +1565,10 @@ python-trove-classifiers
 python-typing-extensions
 python-urllib-gssapi
 python-urllib3
-python-urwid
 python-virt-firmware
 python-wcwidth
 python-websockets
+python-werkzeug
 python-wheel
 python-xkbregistry
 python-yubico
@@ -1678,7 +1672,9 @@ rubygem-rspec-support
 rubygem-thread_order
 rust
 rust-afterburn
+rust-bindgen-cli
 rust-bootupd
+rust-cbindgen
 rust-coreos-installer
 rust-gst-plugin-gtk4
 rust-prefixdevname
@@ -1737,6 +1733,7 @@ shim-unsigned-aarch64
 shim-unsigned-x64
 sil-nuosu-fonts
 sil-padauk-fonts
+simdutf
 sisu
 skopeo
 slang
@@ -1812,7 +1809,6 @@ tecla
 telnet
 tesseract
 tesseract-tessdata
-texi2html
 texinfo
 texlive
 tftp
