@@ -305,6 +305,8 @@ flac
 flashrom
 flatpak
 flatpak-builder
+flatpak-rpm-macros
+flatpak-runtime-config
 flatpak-xdg-utils
 flex
 flexiblas
@@ -777,7 +779,6 @@ langpacks
 langtable
 lapack
 latex2html
-latexmk
 lato-fonts
 lcms2
 ldapjdk
@@ -1582,6 +1583,7 @@ perl-Tie-RefHash
 perl-Time-HiRes
 perl-Time-Local
 perl-TimeDate
+perl-Tk
 perl-Try-Tiny
 perl-Types-Serialiser
 perl-URI

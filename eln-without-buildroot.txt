@@ -52,6 +52,7 @@ appstream
 appstream-data
 apr
 apr-util
+asciidoc
 assertj-core
 at
 at-spi2-core
@@ -207,6 +208,7 @@ dotconf
 dotnet8.0
 dotnet9.0
 dovecot
+doxygen
 dpdk
 dracut
 driverctl
@@ -260,6 +262,8 @@ firewalld
 flac
 flatpak
 flatpak-builder
+flatpak-rpm-macros
+flatpak-runtime-config
 flatpak-xdg-utils
 flex
 flexiblas
@@ -656,6 +660,7 @@ jaxb-istack-commons
 jbig2dec
 jbigkit
 jdepend
+jdom2
 jitterentropy
 jline
 jna
@@ -701,6 +706,7 @@ kyotocabinet
 lame
 langpacks
 langtable
+latex2html
 lato-fonts
 lcms2
 ldapjdk
@@ -1043,6 +1049,7 @@ mkfontscale
 mksh
 mlxbf-bootctl
 mobile-broadband-provider-info
+mockito
 mod_auth_gssapi
 mod_auth_openidc
 mod_authnz_pam
@@ -1112,6 +1119,7 @@ numpy
 nvme-cli
 nvmetcli
 objectweb-asm
+objenesis
 ocaml-srpm-macros
 oci-seccomp-bpf-hook
 ocl-icd
@@ -1336,9 +1344,11 @@ perl-Tie-RefHash
 perl-Time-HiRes
 perl-Time-Local
 perl-TimeDate
+perl-Tk
 perl-Try-Tiny
 perl-URI
 perl-Unicode-Collate
+perl-Unicode-EastAsianWidth
 perl-Unicode-Normalize
 perl-Unix-Syslog
 perl-WWW-RobotRules
@@ -1358,6 +1368,7 @@ perl-constant
 perl-experimental
 perl-generators
 perl-inc-latest
+perl-libintl-perl
 perl-libnet
 perl-libwww-perl
 perl-local-lib
@@ -1420,6 +1431,7 @@ postgresql16-decoderbufs
 postgresql16-pg_repack
 postgresql16-pgaudit
 postgresql16-pgvector
+potrace
 powerpc-utils
 powertop
 ppc64-diag
@@ -1809,6 +1821,7 @@ tecla
 telnet
 tesseract
 tesseract-tessdata
+texi2html
 texinfo
 texlive
 tftp
