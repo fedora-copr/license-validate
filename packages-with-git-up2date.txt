@@ -9782,10 +9782,12 @@ nodejs-bash-language-server
 nodejs-buble
 nodejs-cjs-module-lexer
 nodejs-colors
+nodejs-cssnano
 nodejs-linefix
 nodejs-nodemon
 nodejs-packaging
 nodejs-pnpm
+nodejs-postcss-url
 nodejs-replace-require-self
 nodejs-underscore
 nodejs-undici
@@ -10417,7 +10419,6 @@ paho-cpp
 paho-c
 pachi
 painless-password-rotation
-pakchois
 paktype-naqsh-fonts
 paktype-naskh-basic-fonts
 paktype-tehreer-fonts
@@ -14269,6 +14270,7 @@ porcupine
 portaudio
 portmidi
 portreserve
+postcss-cli
 poster
 postfix-mta-sts-resolver
 postfix
@@ -17573,6 +17575,7 @@ python3-openid
 python3-poppler-qt5
 python3-postgresql
 python3-prctl
+python3-pydo
 python3-py3dns
 python3-saml
 python3-simpletal
@@ -18623,7 +18626,9 @@ rubygem-puma
 rubygem-puppet-resource_api
 rubygem-rabbit
 rubygem-racc
+rubygem-rack-session
 rubygem-rack
+rubygem-rackup
 rubygem-rb-readline
 rubygem-rdiscount
 rubygem-rdoc
@@ -19566,7 +19571,6 @@ rust-glutin
 rust-glycin
 rust-glycin-utils
 rust-glycin-utils3
-rust-glycin2
 rust-gobject-sys0.18
 rust-goblin0.5
 rust-goblin0.9
@@ -19646,7 +19650,6 @@ rust-gufo-webp
 rust-gufo-webp0.2
 rust-gufo-xmp
 rust-gufo-xmp0.2
-rust-gufo0.2
 rust-gvdb-macros
 rust-gvdb
 rust-gweather-sys
@@ -19741,14 +19744,11 @@ rust-chunked_transfer
 rust-iai
 rust-iana-time-zone
 rust-icu_collections
-rust-icu_locid
-rust-icu_locid_transform_data
-rust-icu_locid_transform
+rust-icu_locale_core
 rust-icu_normalizer_data
 rust-icu_normalizer
 rust-icu_properties_data
 rust-icu_properties
-rust-icu_provider_macros
 rust-icu_provider
 rust-idea
 rust-ident_case
@@ -20334,6 +20334,7 @@ rust-portpicker
 rust-postcard-derive
 rust-postcard
 rust-postmark
+rust-potential_utf
 rust-powerfmt-macros
 rust-powerfmt
 rust-ppv-lite86

@@ -145,6 +145,7 @@ chrpath
 cifs-utils
 cim-schema
 cjose
+clang18
 classloader-leak-test-framework
 cldr-emoji-annotation
 clevis
@@ -268,7 +269,6 @@ emacs-filesystem
 enchant2
 enscript
 environment-modules
-ephemeral-port-reserve
 erofs-utils
 espeak-ng
 ethtool
@@ -300,6 +300,7 @@ file
 filesystem
 findutils
 fio
+fips-provider-next
 firewalld
 flac
 flashrom
@@ -667,6 +668,7 @@ icu
 ignition
 iio-sensor-proxy
 ima-evm-utils
+image-builder
 imath
 inih
 iniparser
@@ -786,7 +788,6 @@ ldns
 ledmon
 leptonica
 less
-lftp
 libICE
 libSM
 libX11
@@ -1050,6 +1051,7 @@ lldpad
 lldpd
 llhttp
 llvm
+llvm18
 lm_sensors
 lmdb
 localsearch
@@ -1718,7 +1720,6 @@ pyparted
 pyproject-rpm-macros
 pyserial
 pytest
-python-Pallets-Sphinx-Themes
 python-PyMySQL
 python-alembic
 python-argcomplete
@@ -1743,13 +1744,12 @@ python-dbus-python-client-gen
 python-dbus-signature-pyparsing
 python-dbusmock
 python-decorator
-python-defusedxml
 python-distro
 python-dns
 python-docutils
 python-drgn
 python-enchant
-python-flaky
+python-fastjsonschema
 python-flit-core
 python-gssapi
 python-hatch-fancy-pypi-readme
@@ -1786,7 +1786,6 @@ python-markdown
 python-markupsafe
 python-meh
 python-meson-python
-python-mypy_extensions
 python-netaddr
 python-networkx
 python-nihtest
@@ -1802,6 +1801,7 @@ python-pkgconfig
 python-pluggy
 python-ply
 python-podman
+python-poetry-core
 python-prettytable
 python-productmd
 python-prompt-toolkit
@@ -1821,7 +1821,6 @@ python-pyproject-hooks
 python-pyproject-metadata
 python-pyqt6
 python-pyqt6-sip
-python-pytest-rerunfailures
 python-pytest-subtests
 python-pyudev
 python-qrcode
@@ -1850,32 +1849,27 @@ python-simpleline
 python-six
 python-smartypants
 python-sphinx
-python-sphinx-notfound-page
 python-sphinx-theme-alabaster
 python-sphinx_rtd_theme
 python-sphinxcontrib-jquery
-python-sphinxcontrib-log-cabinet
 python-sqlalchemy
 python-systemd
 python-testpath
 python-tornado
 python-tpm2-pytss
 python-trove-classifiers
-python-types-pyyaml
 python-typing-extensions
 python-typogrify
 python-urllib-gssapi
 python-urllib3
 python-virt-firmware
-python-watchdog
 python-wcwidth
 python-websockets
-python-werkzeug
 python-wheel
 python-xkbregistry
 python-yubico
 python3-mallard-ducktype
-python3-mypy
+python3.13
 python3.14
 pyusb
 pyxattr
@@ -2221,7 +2215,6 @@ virtio-win
 virtiofsd
 voikko-fi
 volume_key
-vsftpd
 vte291
 vulkan-headers
 vulkan-loader
@@ -2240,7 +2233,6 @@ web-assets
 webrtc-audio-processing
 weldr-client
 wget1
-wget2
 which
 whois
 wireguard-tools

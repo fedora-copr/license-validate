@@ -1377,6 +1377,7 @@ DirectX-Headers
 direwolf
 dirvish
 diskimage-builder
+diskscan
 disktype
 dislocker
 disomaster
@@ -6132,6 +6133,7 @@ libnss-mysql
 libntirpc
 libntlm
 libnumbertext
+libnuml
 libnvme
 libnxt
 libnxz
@@ -7233,6 +7235,7 @@ mojo-executor
 mojo-parent
 mokutil
 mold
+molequeue
 molsketch
 monado-vulkan-layers
 mongo-c-driver
@@ -7561,8 +7564,10 @@ nnpack
 node-exporter
 nodejs-aw-webui
 nodejs-cjs-module-lexer
+nodejs-cssnano
 nodejs-nodemon
 nodejs-pnpm
+nodejs-postcss-url
 nodejs-undici
 nodejs18
 nodejs20
@@ -11689,6 +11694,7 @@ popub
 porcupine
 portmidi
 portreserve
+postcss-cli
 poster
 postfix
 postfwd
@@ -11865,6 +11871,7 @@ PyQt4
 py-radix
 pyserial
 pyshp
+pysnmp
 PySolFC-cardsets
 PySolFC-music
 PySolFC
@@ -12180,6 +12187,7 @@ python-collectd_puppet
 python-colorama
 python-colored
 python-colormath2
+python-colour
 python-columnar
 python-commoncode
 python-comm
@@ -13978,6 +13986,7 @@ python3-mypy
 python3-openid
 python3-poppler-qt5
 python3-prctl
+python3-pydo
 python3.10
 python3.11
 python3.11-testpath-epel
@@ -14951,7 +14960,10 @@ rubygem-rack-cache
 rubygem-rack-cors
 rubygem-rack-protection
 rubygem-rack-restful_submit
+rubygem-rack-session
+rubygem-rack
 rubygem-rack-test
+rubygem-rackup
 rubygem-rails-controller-testing
 rubygem-rails-dom-testing
 rubygem-rails-html-sanitizer
@@ -16094,7 +16106,6 @@ rust-glutin
 rust-glycin
 rust-glycin-utils
 rust-glycin-utils3
-rust-glycin2
 rust-gobject-sys
 rust-gobject-sys0.18
 rust-goblin
@@ -16191,7 +16202,6 @@ rust-gufo-webp
 rust-gufo-webp0.2
 rust-gufo-xmp
 rust-gufo-xmp0.2
-rust-gufo0.2
 rust-gvdb-macros
 rust-gvdb
 rust-gweather-sys
@@ -16298,14 +16308,11 @@ rust-chunked_transfer
 rust-iai
 rust-iana-time-zone
 rust-icu_collections
-rust-icu_locid
-rust-icu_locid_transform_data
-rust-icu_locid_transform
+rust-icu_locale_core
 rust-icu_normalizer_data
 rust-icu_normalizer
 rust-icu_properties_data
 rust-icu_properties
-rust-icu_provider_macros
 rust-icu_provider
 rust-idea
 rust-ident_case
@@ -17012,6 +17019,7 @@ rust-portpicker
 rust-postcard-derive
 rust-postcard
 rust-postmark
+rust-potential_utf
 rust-powerfmt-macros
 rust-powerfmt
 rust-ppv-lite86
