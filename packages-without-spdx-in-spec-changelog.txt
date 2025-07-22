@@ -463,7 +463,6 @@ atomix
 atomorun
 atool
 atop
-ATpy
 atril
 at
 at-spi2-core
@@ -5734,6 +5733,7 @@ gpgme
 gpgverify
 gphotoframe
 gphotofs
+gphotosdl
 gphoto2
 gpick
 gpicview
@@ -5917,6 +5917,7 @@ guestfs-tools
 gucharmap
 guidelines-support-library
 guichan
+guile-commonmark
 guile-gnutls
 guile-reader
 guile22
@@ -5978,6 +5979,7 @@ haskell-platform
 hatari
 hatch
 hatools
+haunt
 haveged
 hawknl
 hawtjni
@@ -9273,7 +9275,6 @@ mingw-spirv-headers
 mingw-spirv-tools
 mingw-sqlite
 mingw-srvany
-mingw-taglib
 mingw-tcl
 mingw-termcap
 mingw-tk
@@ -9966,6 +9967,7 @@ obs-studio-plugin-vaapi
 obs-studio-plugin-vkcapture
 obs-studio-plugin-webkitgtk
 obs-studio
+ocaml-afl-persistent
 ocaml-alcotest
 ocaml-astring
 ocaml-atd
@@ -15172,7 +15174,6 @@ python-dbusmock
 python-dbus-next
 python-dbus-python-client-gen
 python-dbus-signature-pyparsing
-python-dcrpm
 python-ddt
 python-deap
 python-debianbts
@@ -15268,7 +15269,6 @@ python-django-tastypie
 python-django-threadedcomments
 python-django-timezone-field
 python-django-uuslug
-python-django4.2
 python-django5
 python-dkimpy
 python-dmidecode
@@ -15531,6 +15531,7 @@ python-gelidum
 python-gemfileparser2
 python-genshi
 python-geodatasets
+python-geographiclib
 python-GeoIP
 python-geoip2
 python-geojson
@@ -19198,6 +19199,7 @@ rust-assert-impl
 rust-assert-json-diff
 rust-assert_matches
 rust-assert-str
+rust-assert2-macros
 rust-associative-cache
 rust-astral-tokio-tar
 rust-async-attributes
@@ -20067,7 +20069,6 @@ rust-glutin_glx_sys
 rust-glutin
 rust-glycin
 rust-glycin-utils
-rust-glycin-utils3
 rust-gobject-sys
 rust-gobject-sys0.18
 rust-goblin
@@ -20150,20 +20151,13 @@ rust-gtk4-sys
 rust-gtk4-sys0.7
 rust-gtk4_0.7
 rust-gufo-common
-rust-gufo-common0.2
 rust-gufo-exif
-rust-gufo-exif0.2
 rust-gufo-jpeg
-rust-gufo-jpeg0.2
 rust-gufo-png
-rust-gufo-png0.2
 rust-gufo
 rust-gufo-tiff
-rust-gufo-tiff0.2
 rust-gufo-webp
-rust-gufo-webp0.2
 rust-gufo-xmp
-rust-gufo-xmp0.2
 rust-gvdb-macros
 rust-gvdb
 rust-gweather-sys
@@ -23347,6 +23341,7 @@ tree-sitter-lua
 tree-sitter-php
 tree-sitter-python
 tree-sitter-ruby
+tree-sitter-rust
 tree-sitter
 tree-sitter-srpm-macros
 tree-sitter-toml
