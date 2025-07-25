@@ -961,6 +961,7 @@ colorgcc
 colorscad
 colossus
 ColPack
+combblas
 compat-gdbm
 compat-guile18
 compat-readline6
@@ -1560,6 +1561,7 @@ ecdsautils
 ecolier-court-fonts
 ecryptfs-utils
 ec2-hibinit-agent
+ec2-instance-connect
 edac-utils
 edflib
 edg-gridftp-client
@@ -2116,12 +2118,12 @@ freexl
 freeze
 free42
 frei0r-plugins
+frescobaldi
 fribidi
 fritzing
 frobby
 frog-protocols
 frogr
-fros
 frotz
 frozen-bubble
 frozen
@@ -3749,7 +3751,6 @@ golang-github-joshuarubin-sway
 golang-github-jouyouyun-hardware
 golang-github-jsonnet-bundler
 golang-github-jtolio-eventkit
-golang-github-juju-ansiterm
 golang-github-juju-gnuflag
 golang-github-juju-ratelimit
 golang-github-junegunn-shellwords
@@ -3874,7 +3875,6 @@ golang-github-nwaples-rardecode2
 golang-github-nytimes-gziphandler
 golang-github-nzdjb-metaname
 golang-github-oklog-run
-golang-github-oklog
 golang-github-oklog-ulid
 golang-github-oneofone-xxhash
 golang-github-onsi-ginkgo-2
@@ -4191,7 +4191,6 @@ golang-modernc-scannertest
 golang-modernc-sortutil
 golang-modernc-sqlite
 golang-modernc-strutil
-golang-modernc-tcl
 golang-modernc-token
 golang-modernc-xc
 golang-modernc-y
@@ -4215,7 +4214,6 @@ golang-sigs-k8s-structured-merge-diff
 golang-sigs-k8s-yaml
 golang-software-sslmate-src-pkcs12
 golang
-golang-sr-emersion-gqlclient
 golang-sr-emersion-scfg
 golang-sr-nelsam-hel
 golang-sr-sircmpwn-getopt
@@ -6256,12 +6254,14 @@ libsamplerate
 libsass
 libsavitar
 libsbml
+libsbw
 libscfg
 libscn
 libsearpc
 libseccomp
 libsecp256k1-abc
 libsecret
+libsedml
 libselinux
 libsemanage
 libsemigroups
@@ -6754,6 +6754,7 @@ mariadb-connector-c
 mariadb-connector-odbc
 mariadb-java-client
 mariadb10.11
+mariadb11.8
 marisa
 markdownpart
 marker
@@ -6858,7 +6859,6 @@ mcabber
 mce-inject
 mcelog
 mcomix3
-mcpanel
 mcrcon
 mcrypt
 mc
@@ -7013,6 +7013,7 @@ mingw-librsvg2
 mingw-libsigc++30
 mingw-libsigsegv
 mingw-libsoup
+mingw-libssh2
 mingw-libtasn1
 mingw-libtheora
 mingw-libunistring
@@ -7355,7 +7356,6 @@ mutt
 mvfst
 mxml
 mx5000tools
-mygnuhealth
 mypaint-brushes
 mypaint2-brushes
 MyPasswordSafe
@@ -7704,6 +7704,7 @@ ocaml-camomile
 ocaml-cinaps
 ocaml-compiler-libs-janestreet
 ocaml-cppo
+ocaml-crowbar
 ocaml-crunch
 ocaml-cryptokit
 ocaml-csexp
@@ -7772,6 +7773,7 @@ ocaml-opam-0install-cudf
 ocaml-ounit
 ocaml-parmap
 ocaml-parsexp
+ocaml-patch
 ocaml-pcre
 ocaml-pcre2
 ocaml-perl4caml
@@ -7944,7 +7946,6 @@ opencore-amr
 opencryptoki
 opencsd
 opencsg
-OpenCTM
 opencv
 opendbx
 opendkim
@@ -11524,6 +11525,7 @@ php-zmq
 phytool
 pianobar
 picard
+picasso
 piccata
 pick
 picocli
@@ -11711,6 +11713,7 @@ postgresql16-pg_repack
 postgresql16-pgvector
 postgresql16
 postgresql17
+postgresql18
 postgrey
 postproof
 potrace
@@ -12244,6 +12247,7 @@ python-cymruwhois
 python-cytoolz
 python-daemon
 python-daikin
+python-daiquiri
 python-damo
 python-dandischema
 python-danfossair
@@ -12981,11 +12985,11 @@ python-omlmd
 python-omsdk
 python-onionbalance
 python-opcodes
+python-openai
 python-openapi-core
 python-openapi-schema-validator
 python-openapi-spec-validator
 python-opencensus-proto
-python-openctm
 python-openneuro
 python-openoffice
 python-openpaperwork-core
@@ -13432,7 +13436,6 @@ python-qudida
 python-radexreader
 python-railroad-diagrams
 python-rak811
-python-ramalama
 python-rangehttpserver
 python-rapidfuzz
 python-rasterio
@@ -13640,7 +13643,6 @@ python-sphinxcontrib-serializinghtml
 python-sphinxcontrib-websupport
 python-sphinx-copybutton
 python-sphinx-design
-python-sphinx-documatt-theme
 python-sphinx-epytext
 python-sphinx-gallery
 python-sphinx-inline-tabs
@@ -13672,6 +13674,7 @@ python-sqlalchemy_schemadisplay
 python-sqlalchemy1.4
 python-sqlglot
 python-sqlmodel
+python-sqlparse
 python-sql
 python-ssdeep
 python-sseclient-py
@@ -14100,10 +14103,13 @@ qtile
 qtilitools
 qt-jdenticon
 qtkeychain
+qtlockedfile
 qtl866
+qt-mobility
 qtpass
 qtractor
 qtscriptgenerator
+qtsingleapplication
 qtspell
 qtwaifu2x
 qtxdg-tools
@@ -14258,6 +14264,7 @@ rasterview
 ratools
 ratpoison
 rats
+rauc
 R-AUC
 ravada
 rawtherapee
@@ -14345,6 +14352,7 @@ redland
 rednotebook
 redshift
 redsocks
+redwax-tool
 rEFInd
 reflection-cpp
 regexp
@@ -14672,7 +14680,6 @@ R-tesseract
 R-testit
 rteval-loads
 rteval
-rtfilter
 R-TH-data
 R-tikzDevice
 R-timeDate
@@ -14963,7 +14970,6 @@ rubygem-rack-accept
 rubygem-rack-cache
 rubygem-rack-cors
 rubygem-rack-protection
-rubygem-rack-restful_submit
 rubygem-rack-session
 rubygem-rack
 rubygem-rack-test
@@ -15029,7 +15035,6 @@ rubygem-settingslogic
 rubygem-shellany
 rubygem-shindo
 rubygem-shoulda-context
-rubygem-shoulda-matchers
 rubygem-simplecov-html
 rubygem-simplecov
 rubygem-simpleidn
@@ -15397,7 +15402,6 @@ rust-brotli
 rust-brownstone
 rust-bstr
 rust-btf-rs
-rust-btoi
 rust-btrd
 rust-buffered-reader
 rust-buf-min
@@ -15509,6 +15513,7 @@ rust-cipher0.3
 rust-circular-buffer
 rust-claims
 rust-clang-ast
+rust-clang
 rust-clang-sys
 rust-clang-tidy-sarif
 rust-clap_builder
@@ -15631,7 +15636,6 @@ rust-crossfont
 rust-crosstermion
 rust-crossterm
 rust-crossterm0.25
-rust-crossterm0.26
 rust-crossterm0.27
 rust-crunchy
 rust-crypto-auditing-agent
@@ -15859,7 +15863,6 @@ rust-equator
 rust-equivalent
 rust-erased-serde
 rust-erased-serde0.3
-rust-erdtree
 rust-err-derive
 rust-errno
 rust-errno0.2
@@ -16341,8 +16344,6 @@ rust-indenter
 rust-indent_write
 rust-indexmap
 rust-indexmap1
-rust-indextree-macros
-rust-indextree
 rust-indicatif
 rust-indicatif0.16
 rust-indoc
@@ -16508,7 +16509,6 @@ rust-libbz2-rs-sys
 rust-libcramjam
 rust-libcryptsetup-rs
 rust-libcryptsetup-rs-sys
-rust-libcryptsetup-rs0.11
 rust-libc
 rust-libcst_derive
 rust-libcst
@@ -16685,6 +16685,7 @@ rust-mockall_derive
 rust-mockall_double
 rust-mockall
 rust-mock_instant
+rust-mock_instant0.3
 rust-mockito
 rust-monitord-exporter
 rust-monitord
@@ -16866,6 +16867,7 @@ rust-os_display
 rust-os_info
 rust-os_pipe
 rust-os_str_bytes
+rust-os_str_bytes6
 rust-ouroboros_macro
 rust-ouroboros
 rust-outref
@@ -17232,6 +17234,7 @@ rust-remain
 rust-remoteprocess
 rust-remove_dir_all
 rust-remove_dir_all0.7
+rust-rename-item
 rust-rend
 rust-rend0.4
 rust-reqwest-middleware
@@ -17551,6 +17554,7 @@ rust-snphost
 rust-socketpair
 rust-socket2
 rust-socket2_0.4
+rust-socket2_0.5
 rust-socks
 rust-sop
 rust-spake2
@@ -17662,7 +17666,6 @@ rust-target-lexicon0.12
 rust-target
 rust-target-triple
 rust-tar
-rust-taskchampion
 rust-tealdeer
 rust-temp-env
 rust-tempfile
@@ -17912,10 +17915,12 @@ rust-unicode-ident
 rust-unicode-linebreak
 rust-unicode_names2_generator
 rust-unicode_names2
+rust-unicode-normalization-alignments
 rust-unicode-normalization
 rust-unicode-properties
 rust-unicode-segmentation
 rust-unicode-truncate
+rust-unicode-truncate1
 rust-unicode-width
 rust-unicode-width0.1
 rust-unicode-xid
@@ -17928,6 +17933,7 @@ rust-unic-ucd-segment
 rust-unic-ucd-version
 rust-unindent
 rust-unindent0.1
+rust-unit-prefix
 rust-universal-hash
 rust-unix_socket
 rust-unsafe-libyaml
@@ -18171,6 +18177,7 @@ rust-yuvutils-rs
 rust-y4m
 rust-z-base-32
 rust-zbase32
+rust-zbus-lockstep
 rust-zbus_macros
 rust-zbus_macros4
 rust-zbus_names
@@ -18585,6 +18592,7 @@ smc-tools
 smem
 smf-spf
 smokeping
+smoldyn
 smplayer
 smp_utils
 smtpping
@@ -19200,7 +19208,6 @@ tuxpuck
 tuxtype2
 tvlsim
 tvtime
-tweeny
 twinkle
 twirssi
 twlog

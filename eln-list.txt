@@ -145,7 +145,6 @@ chrpath
 cifs-utils
 cim-schema
 cjose
-clang18
 classloader-leak-test-framework
 cldr-emoji-annotation
 clevis
@@ -674,6 +673,7 @@ inih
 iniparser
 initscripts
 insights-client
+insights-core
 insights-core-selinux
 intel-cmt-cat
 intel-lpmd
@@ -825,6 +825,7 @@ libatomic_ops
 libblkio
 libblockdev
 libbpf
+libbsd
 libburn
 libbytesize
 libcamera
@@ -916,6 +917,7 @@ liblouis
 libmad
 libmaxminddb
 libmbim
+libmd
 libmicrohttpd
 libmng
 libmnl
@@ -965,6 +967,7 @@ librdkafka
 librelp
 librepo
 libreswan
+libretls
 librhsm
 librsvg2
 librtas
@@ -988,6 +991,7 @@ libspelling
 libspiro
 libsrtp
 libssh
+libssh2
 libstoragemgmt
 libtalloc
 libtasn1
@@ -1051,7 +1055,6 @@ lldpad
 lldpd
 llhttp
 llvm
-llvm18
 lm_sensors
 lmdb
 localsearch
@@ -1207,6 +1210,7 @@ mutt
 mutter
 mysql-selinux
 mysql8.0
+mysql8.4
 mythes-eo
 nano
 nasm
@@ -1218,6 +1222,7 @@ ndctl
 net-snmp
 net-tools
 netavark
+netcat
 netlabel_tools
 netpbm
 nettle
@@ -1236,6 +1241,7 @@ nodejs-nodemon
 nodejs-packaging
 nodejs-undici
 nodejs22
+nodejs24
 npth
 nss
 nss-altfiles
@@ -1677,14 +1683,9 @@ poppler
 poppler-data
 popt
 postfix
-postgis
 postgresql-jdbc
 postgresql-odbc
-postgresql16
-postgresql16-decoderbufs
-postgresql16-pg_repack
-postgresql16-pgaudit
-postgresql16-pgvector
+postgresql18
 potrace
 powerpc-utils
 powertop
@@ -2205,6 +2206,7 @@ vdo
 velocity
 vhostmd
 vim
+virt-firmware-rs
 virt-manager
 virt-p2v
 virt-top
