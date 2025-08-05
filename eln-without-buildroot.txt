@@ -284,7 +284,6 @@ freetype
 fribidi
 frr
 fstrm
-ftp
 fuse
 fuse-overlayfs
 fuse3
@@ -1085,7 +1084,6 @@ munge
 mutt
 mutter
 mysql-selinux
-mysql8.0
 mysql8.4
 mythes-eo
 nano
@@ -1206,7 +1204,6 @@ perl-App-cpanminus
 perl-Archive-Tar
 perl-Archive-Zip
 perl-Authen-SASL
-perl-Bit-Vector
 perl-CGI
 perl-CPAN
 perl-CPAN-DistnameInfo
@@ -1215,7 +1212,6 @@ perl-CPAN-Meta-Check
 perl-CPAN-Meta-Requirements
 perl-CPAN-Meta-YAML
 perl-Carp
-perl-Carp-Clan
 perl-Clone
 perl-Compress-Bzip2
 perl-Compress-Raw-Bzip2
@@ -1233,7 +1229,6 @@ perl-Data-Dump
 perl-Data-Dumper
 perl-Data-OptList
 perl-Data-Section
-perl-Date-Calc
 perl-Date-Manip
 perl-Devel-PPPort
 perl-Devel-Size
@@ -1430,9 +1425,14 @@ poppler
 poppler-data
 popt
 postfix
+postgis
 postgresql-jdbc
 postgresql-odbc
 postgresql18
+postgresql18-decoderbufs
+postgresql18-pg_repack
+postgresql18-pgaudit
+postgresql18-pgvector
 potrace
 powerpc-utils
 powertop
@@ -1472,6 +1472,7 @@ python-attrs
 python-augeas
 python-awscrt
 python-blivet
+python-build
 python-cffi
 python-charset-normalizer
 python-colorama
@@ -1582,7 +1583,6 @@ python-urllib3
 python-virt-firmware
 python-wcwidth
 python-websockets
-python-wheel
 python-xkbregistry
 python-yubico
 python3.14
@@ -1690,6 +1690,7 @@ rust-bootupd
 rust-cbindgen
 rust-coreos-installer
 rust-gst-plugin-gtk4
+rust-podman-sequoia
 rust-prefixdevname
 rust-rpm-sequoia
 rust-sequoia-sq

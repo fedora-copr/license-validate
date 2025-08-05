@@ -2,14 +2,13 @@ Maintainers by package:
 avogadro2-libs       sagitter
 clementine           eclipseo
 fcitx5-mozc          music yanqiyu
+g2clib               jdekloe orion
 gstreamer1-doc       limb wtaymans
 jbosscache-support   orphan
-julia                nalimilan
 julius               spot
 kcbench              thl
 kernel               acaringi airlied ajax jcline jforbes jwboyer jwrdegoede kernel-maint linville myoung patrickt sandeen steved
 kf5-kirigami2        farchord
-kicad                avigne lkundrak stevenfalco
 lazarus              suve
 libwebp              smani
 lincity-ng           spot
@@ -21,7 +20,6 @@ ruby                 mtasaka vondruch
 rubygem-rdoc         vondruch
 rust-rpick           bowlofeggs
 sssd                 abbra asn atikhonov pbrezina sbose simo
-tachyon              rathann
 texlive              jnovy spot than
 tkimg                spot
 webkitgtk            catanzaro
@@ -33,7 +31,6 @@ airlied    kernel
 ajax       kernel
 asn        sssd
 atikhonov  sssd
-avigne     kicad
 bowlofeggs rust-rpick
 catanzaro  webkitgtk
 churchyard pypy
@@ -41,6 +38,7 @@ eclipseo   clementine
 farchord   kf5-kirigami2
 fcami      openal-soft
 jcline     kernel
+jdekloe    g2clib
 jforbes    kernel
 jnovy      texlive
 jwboyer    kernel
@@ -49,17 +47,15 @@ kernel-maint kernel
 limb       gstreamer1-doc
 linville   kernel
 ljavorsk   man-pages-l10n
-lkundrak   kicad
 mfabian    man-pages-l10n
 mtasaka    ruby
 music      fcitx5-mozc
 myoung     kernel
-nalimilan  julia
 nforro     man-pages-l10n
+orion      g2clib
 orphan     jbosscache-support
 patrickt   kernel
 pbrezina   sssd
-rathann    tachyon
 sagitter   avogadro2-libs
 sandeen    kernel
 sbose      sssd
@@ -67,7 +63,6 @@ simo       sssd
 smani      libwebp
 spot       julius lincity-ng texlive tkimg
 steved     kernel
-stevenfalco kicad
 suve       lazarus
 tdawson    openal-soft
 than       texlive

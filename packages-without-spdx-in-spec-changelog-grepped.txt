@@ -308,7 +308,6 @@ apvlv
 apx
 aqbanking
 aqlprofile
-aqsis
 aqualung
 aquamarine
 aquatone
@@ -1051,6 +1050,7 @@ clinfo
 clingo
 clipit
 clipman
+clipper2
 clips
 cliquer
 clisp
@@ -1578,7 +1578,6 @@ device-mapper-persistent-data
 DevIL
 devio
 devscripts
-devtodo
 dev86
 dex-autostart
 dfc
@@ -3583,6 +3582,7 @@ gifsicle
 gifticlib
 gif2png
 gigolo
+gi-loadouts
 gimagereader
 gimgtools
 gimp-data-extras
@@ -3657,7 +3657,6 @@ glances
 glava
 glaxium
 glaxnimate
-GLC_lib
 GLee
 gle
 glew
@@ -4582,7 +4581,6 @@ golang-github-hooklift-assert
 golang-github-hsiafan-glow
 golang-github-hsiafan-vlog
 golang-github-huandu-xstrings
-golang-github-hub
 golang-github-hudl-fargo
 golang-github-hugelgupf-socketpair
 golang-github-hydrogen18-memlistener
@@ -5269,7 +5267,6 @@ golang-github-ssgelm-cookiejarparser
 golang-github-ssor-bom
 golang-github-stack
 golang-github-stathat
-golang-github-stefanberger-pkcs11uri
 golang-github-stoewer-strcase
 golang-github-stomp
 golang-github-stomp-3
@@ -5682,6 +5679,7 @@ gopass
 gopls
 gops
 go-rpm-macros
+gosec
 gotags
 gotcha
 gotify-desktop
@@ -5743,6 +5741,7 @@ GraphicsMagick
 graphite2
 graphlcd-base
 graphviz
+grass-compiler
 grass
 gravity-beams-and-evaporating-stars
 grc
@@ -6282,7 +6281,6 @@ chafa
 chan
 charliecloud
 CharLS
-chatterino2
 chatty
 chayang
 cheat
@@ -6779,6 +6777,7 @@ kaddressbook
 kaffeine
 kafs-client
 kaidan
+kaichat
 kajongg
 kakasi
 kakoune
@@ -6916,7 +6915,6 @@ keydb
 keychain
 keychecker
 keylime-agent-rust
-keylime
 keyring-ima-signer
 keyrings-filesystem
 keysmith
@@ -7340,6 +7338,7 @@ kurdit-unikurd-web-fonts
 kurchu
 kuserfeedback
 kuser
+kustomize
 kvantum
 kvirc
 kwalletmanager
@@ -7556,7 +7555,6 @@ libcorrect
 libcouchbase
 libcpuid
 libcryptui
-libcrystalhd
 libcss
 libcsv
 libcue
@@ -7749,6 +7747,7 @@ libica
 libICE
 libicns
 libicu74
+libicu76
 libideviceactivation
 libIDL
 libidn
@@ -8080,7 +8079,6 @@ libsavitar
 libsbml
 libsbw
 libscfg
-libscn
 libscrypt
 libsearpc
 libseccomp
@@ -8220,7 +8218,6 @@ libva-nvidia-driver
 libvarlink
 libva
 libva-utils
-libva-vdpau-driver
 libva-v4l2-request
 libvdpau
 libvdpau-va-gl
@@ -8265,7 +8262,6 @@ libwvstreams
 libXau
 libXaw
 libxcb
-libXcm
 libXcomposite
 libxcrypt
 libxc
@@ -8660,7 +8656,6 @@ maatkit
 Macaulay2
 macchanger
 mac-robber
-macromilter
 mac
 mactel-boot
 madan-fonts
@@ -8710,6 +8705,7 @@ manedit
 mangohud
 manchu-fonts
 manifest-tool
+mankalaengine
 man-pages-ja
 man-pages-l10n
 man-pages
@@ -10265,6 +10261,7 @@ openmpi
 openms
 openmsx
 open-mtools
+openmw
 openni-primesense
 openni
 openobex
@@ -11606,6 +11603,7 @@ perl-File-ShareDir-PAR
 perl-File-ShareDir-ProjectDistDir
 perl-File-ShareDir
 perl-File-Share
+perl-File-ShouldUpdate
 perl-File-Slurper
 perl-File-Slurp
 perl-File-Slurp-Tiny
@@ -12124,6 +12122,7 @@ perl-Mail-DMARC
 perl-Mail-IMAPClient
 perl-Mail-IMAPTalk
 perl-Mail-JMAPTalk
+perl-Mail-ListDetector
 perl-Mail-Mbox-MessageParser
 perl-Mail-MboxParser
 perl-Mail-Message
@@ -13297,6 +13296,7 @@ perl-Test-Type
 perl-Test-Unit-Lite
 perl-Test-Unit-Runner-Xml
 perl-Test-Unit
+perl-Test-UNIXSock
 perl-Test-UseAllModules
 perl-Test-utf8
 perl-Test-Valgrind
@@ -14287,6 +14287,10 @@ postgresql16-pg_repack
 postgresql16-pgvector
 postgresql16
 postgresql17
+postgresql18-decoderbufs
+postgresql18-pgaudit
+postgresql18-pg_repack
+postgresql18-pgvector
 postgresql18
 postgrey
 postproof
@@ -14841,6 +14845,7 @@ python-blessed
 python-blessings
 python-blinker
 python-blivet
+python-blobfile
 python-blosc
 python-blosc2
 python-blowfish
@@ -15600,7 +15605,6 @@ python-httpsig-cffi
 python-httptools
 python-httpx-socks
 python-httpx
-python-hudman
 python-huggingface-hub
 python-humanfriendly
 python-humanize
@@ -16425,6 +16429,7 @@ python-pydantic-extra-types
 python-pydantic-settings
 python-pydantic
 python-pydapsys
+python-pydaraja
 python-pydata-sphinx-theme
 python-pydbus
 python-pydepsdev
@@ -16653,6 +16658,7 @@ python-pytest-flake8-path
 python-pytest-forked
 python-pytest-freezegun
 python-pytest-freezer
+python-pytest-gitconfig
 python-pytest-github-actions-annotate-failures
 python-pytest-golden
 python-pytest-harvest
@@ -16842,6 +16848,7 @@ python-rfc3339-validator
 python-rfc3986
 python-rfc3986-validator
 python-rfc3987
+python-rich-click
 python-rich
 python-rich-toolkit
 python-ring-doorbell
@@ -17433,7 +17440,6 @@ python-winacl
 python-winrm
 python-winsspi
 python-wled
-python-wloc
 python-wordcloud
 python-wrapt
 python-wsgidav
@@ -18985,7 +18991,6 @@ rust-bytesize
 rust-bytesize1
 rust-byte-slice-cast
 rust-bytestring
-rust-bytes-utils
 rust-byte-unit4
 rust-bzip2-rs
 rust-bzip2
@@ -19085,6 +19090,7 @@ rust-cmake
 rust-cmd_lib_macros
 rust-cmd_lib
 rust-cobs
+rust-codemap
 rust-codepage
 rust-codespan-reporting
 rust-codespan-reporting0.11
@@ -19278,6 +19284,7 @@ rust-dissimilar
 rust-dlopen2_derive
 rust-dlopen2
 rust-dlv-list0.3
+rust-dlwrap
 rust-dns-lookup
 rust-dns-lookup1
 rust-docker_credential
@@ -19364,6 +19371,7 @@ rust-errno
 rust-errno0.2
 rust-error-code
 rust-error-chain
+rust-esaxx-rs
 rust-escape8259
 rust-escargot
 rust-etcetera
@@ -19877,13 +19885,16 @@ rust-krun-sys
 rust-krunvm
 rust-kstring
 rust-kvm-bindings
+rust-kvm-bindings0.11
 rust-kvm-ioctls
+rust-kvm-ioctls0.21
 rust-k256
 rust-k8s-openapi
 rust-lalrpop
 rust-lalrpop-util
 rust-lalr
 rust-language-tags
+rust-lasso
 rust-lazycell
 rust-lazy_static
 rust-lcms2
@@ -20215,7 +20226,6 @@ rust-os_str_bytes
 rust-os_str_bytes6
 rust-ouroboros_macro
 rust-ouroboros
-rust-outref
 rust-owned_ttf_parser
 rust-owo-colors3
 rust-pager
@@ -20309,6 +20319,7 @@ rust-pnet_packet
 rust-pnet_sys
 rust-png
 rust-podlet
+rust-podman-sequoia
 rust-polling
 rust-polling2
 rust-pollster-macro
@@ -20383,6 +20394,7 @@ rust-prost-reflect
 rust-prost
 rust-prost-types
 rust-protox-parse
+rust-protox
 rust-psl
 rust-psl-types
 rust-psm
@@ -20564,8 +20576,10 @@ rust-rsa
 rust-rsconf
 rust-rspec
 rust-rstest_macros
+rust-rstest_macros0.23
 rust-rstest_reuse
 rust-rstest
+rust-rstest0.23
 rust-rtoolbox
 rust-rublk
 rust-run_script
@@ -20691,6 +20705,7 @@ rust-serde_regex
 rust-serde_repr
 rust-serde-sarif
 rust-serde_spanned
+rust-serde_spanned0.6
 rust-serde
 rust-serde_stacker
 rust-serde_test
@@ -20958,14 +20973,19 @@ rust-tokio-serde
 rust-tokio-tfo
 rust-tokio-uring
 rust-toml_datetime
+rust-toml_datetime0.6
 rust-toml_edit
 rust-toml_edit0.19
 rust-toml_edit0.20
+rust-toml_edit0.22
+rust-toml_parser
 rust-toml-span
 rust-toml
+rust-toml_writer
 rust-toml_write
 rust-toml0.5
 rust-toml0.7
+rust-toml0.8
 rust-tonic-build
 rust-tonic
 rust-tonic-types
@@ -20992,6 +21012,7 @@ rust-tracing-tree
 rust-tracker-macros
 rust-tracker
 rust-transpose
+rust-tree-house-bindings
 rust-tree_magic_db
 rust-tree_magic_mini
 rust-tree-sitter-bash
@@ -21236,7 +21257,9 @@ rust-v_htmlescape
 rust-virtio-bindings
 rust-virtio-queue
 rust-virtio-vsock
+rust-virtual-terminal
 rust-virtue
+rust-visibility
 rust-vm-allocator
 rust-vm-fdt
 rust-vm-memory
@@ -21244,7 +21267,6 @@ rust-vmm-sys-util
 rust-vmm-sys-util0.12
 rust-vm-superio
 rust-vmw_backdoor
-rust-vsimd
 rust-vsort
 rust-vte_generate_state_changes
 rust-vte
@@ -21957,7 +21979,6 @@ squidclamav
 squidGuard
 squid
 squirrel
-srain
 sratom
 srcpd
 src
@@ -22532,7 +22553,6 @@ trunk
 trurl
 trustedqsl
 trustee-guest-components
-tse3
 tslib
 tsl-sparse-map
 tss2
@@ -23006,7 +23026,6 @@ webanalyze
 web-assets
 web-eid
 webkitgtk
-webkit2gtk4.0
 webkit2-sharp
 webp-pixbuf-loader
 webrtc-audio-processing
@@ -23190,7 +23209,6 @@ xbsql
 xbyak_aarch64
 xbyak
 xcalc
-xcalib
 xca
 xcat
 xcb-imdkit

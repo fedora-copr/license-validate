@@ -230,7 +230,6 @@ docbook-style-xsl
 docbook-utils
 docbook5-schemas
 docbook5-style-xsl
-doctest
 dogtag-pki
 dola
 dola-gleaner
@@ -281,12 +280,10 @@ expect
 extra-enforcer-rules
 fabtests
 fapolicyd
-fast_float
 fcoe-utils
 fdk-aac-free
 fedora-eln-backgrounds
 fedora-eln-logos
-fedora-logos
 fedora-release
 fedora-repos
 felix-parent
@@ -329,7 +326,6 @@ freetype
 fribidi
 frr
 fstrm
-ftp
 fuse
 fuse-overlayfs
 fuse3
@@ -991,7 +987,6 @@ libspelling
 libspiro
 libsrtp
 libssh
-libssh2
 libstoragemgmt
 libtalloc
 libtasn1
@@ -1209,7 +1204,6 @@ munge
 mutt
 mutter
 mysql-selinux
-mysql8.0
 mysql8.4
 mythes-eo
 nano
@@ -1354,7 +1348,6 @@ perl-Archive-Zip
 perl-Authen-SASL
 perl-B-COW
 perl-BSD-Resource
-perl-Bit-Vector
 perl-CGI
 perl-CPAN
 perl-CPAN-DistnameInfo
@@ -1365,7 +1358,6 @@ perl-CPAN-Meta-YAML
 perl-Canary-Stability
 perl-Capture-Tiny
 perl-Carp
-perl-Carp-Clan
 perl-Class-Inspector
 perl-Class-Method-Modifiers
 perl-Class-XSAccessor
@@ -1388,13 +1380,11 @@ perl-Data-Dumper
 perl-Data-OptList
 perl-Data-Section
 perl-Data-UUID
-perl-Date-Calc
 perl-Date-Manip
 perl-Devel-CheckLib
 perl-Devel-GlobalDestruction
 perl-Devel-PPPort
 perl-Devel-Size
-perl-Devel-StackTrace
 perl-Devel-Symdump
 perl-Digest
 perl-Digest-CRC
@@ -1514,7 +1504,6 @@ perl-Net-SMTP-SSL
 perl-Net-SNMP
 perl-Net-SSLeay
 perl-Net-Server
-perl-Object-Deadly
 perl-Package-Generator
 perl-Params-Check
 perl-Params-Util
@@ -1683,9 +1672,14 @@ poppler
 poppler-data
 popt
 postfix
+postgis
 postgresql-jdbc
 postgresql-odbc
 postgresql18
+postgresql18-decoderbufs
+postgresql18-pg_repack
+postgresql18-pgaudit
+postgresql18-pgvector
 potrace
 powerpc-utils
 powertop
@@ -1730,6 +1724,7 @@ python-augeas
 python-awscrt
 python-blivet
 python-breathe
+python-build
 python-cffi
 python-charset-normalizer
 python-colorama
@@ -1810,12 +1805,9 @@ python-psutil
 python-psycopg2
 python-ptyprocess
 python-pyasn1
-python-pyasynchat
-python-pyasyncore
 python-pycdio
 python-pycotap
 python-pycparser
-python-pyftpdlib
 python-pyghmi
 python-pygments
 python-pyproject-hooks
@@ -1987,6 +1979,7 @@ rust-bootupd
 rust-cbindgen
 rust-coreos-installer
 rust-gst-plugin-gtk4
+rust-podman-sequoia
 rust-prefixdevname
 rust-rpm-sequoia
 rust-sequoia-sq
