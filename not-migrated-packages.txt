@@ -58,7 +58,6 @@ aspell-en
 aspell-ru
 aspell-sk
 assetfinder
-assimp
 asterisk-sounds-core
 ast
 atf
@@ -70,7 +69,6 @@ auditwheel
 automoc
 autossh
 avl
-avogadro2-libs
 avogadro2
 avoision
 awesome
@@ -444,7 +442,6 @@ fedora-third-party
 fedora-workstation-repositories
 feh
 fennel
-ffuf
 fgrun
 fido
 figlet
@@ -454,7 +451,6 @@ firewalk
 fishbowl
 five-or-more
 fixedptc
-flamerobin
 flann
 flatpak-module-tools
 flatpak-rpm-macros
@@ -518,7 +514,6 @@ gedit-plugin-editorconfig
 generic-logos
 genesis-simulator
 GeographicLib
-geomview
 gflags
 ggz-base-libs
 ghasher
@@ -951,7 +946,6 @@ golang-github-jackc-puddle
 golang-github-jarcoal-httpmock
 golang-github-jawher-mow-cli
 golang-github-jbenet-context
-golang-github-jdkato-prose
 golang-github-jedisct1-clocksmith
 golang-github-jedisct1-dlog
 golang-github-jedisct1-dnsstamps
@@ -1070,7 +1064,6 @@ golang-github-mdlayher-genetlink
 golang-github-mdlayher-netlink
 golang-github-mdlayher-raw
 golang-github-mdlayher-wifi
-golang-github-mesos
 golang-github-mgutz-ansi
 golang-github-mgutz-logxi
 golang-github-miekg-pkcs11
@@ -1258,7 +1251,6 @@ golang-github-schollz-pake-3
 golang-github-schollz-peerdiscovery
 golang-github-schollz-progressbar-2
 golang-github-schollz-progressbar-3
-golang-github-siddontang-rdb
 golang-github-siddontang-snappy
 golang-github-siddontang
 golang-github-sirupsen-logrus
@@ -1425,7 +1417,6 @@ golang-x-arch
 golang-x-debug
 golang-x-image
 golang-x-lint
-golang-x-mobile
 golang-xorm-builder
 golang-x-term
 golang-x-tools
@@ -1480,7 +1471,6 @@ gupnp-av
 gupnp-dlna
 gwenview
 gxemul
-g2clib
 hakrevdns
 halibut
 hawknl
@@ -1580,7 +1570,6 @@ java-latest-openjdk-portable
 java-latest-openjdk
 java-packaging-howto
 jaxen
-jbosscache-support
 jc
 jemalloc
 jericho-html
@@ -1608,7 +1597,6 @@ json-table
 js-responsive-elements
 jtc
 jtidy
-julius
 jwm
 jxrlib
 kactivities
@@ -1626,7 +1614,6 @@ kbounce
 kbrickbuster
 kBuild
 kcachegrind
-kcbench
 kcolorchooser
 kdb
 kde-baseapps
@@ -1678,7 +1665,6 @@ kmplayer
 knavalbattle
 knetwalk
 knotes
-koffice-kivio
 koji-containerbuild
 koko
 kolf
@@ -1903,7 +1889,6 @@ libvirt-java
 libvirt-python
 libvirt-sandbox
 libvterm
-libwebp
 libwebsockets
 libwfut
 libwnck
@@ -1931,7 +1916,6 @@ lib765
 lightdm-autologin-greeter
 lightdm
 lilv
-lincity-ng
 linode-cli
 linux-firmware
 linux-firmware
@@ -2081,7 +2065,6 @@ mingw-expat
 mingw-fcgi
 mingw-fontconfig
 mingw-freeglut
-mingw-GConf2
 mingw-glew
 mingw-goocanvas2
 mingw-graphene
@@ -2090,6 +2073,7 @@ mingw-gsl
 mingw-gsm
 mingw-gtkmm24
 mingw-gtksourceview3
+mingw-g2clib
 mingw-hamlib
 mingw-harfbuzz
 mingw-id3lib
@@ -2254,7 +2238,6 @@ netatalk
 netbsd-iscsi
 netcdf4-python
 nethack-vultures
-netresolve
 netscanner
 newsbeuter
 newtonsoft-json
@@ -2595,9 +2578,7 @@ php-seld-cli-prompt
 php-seld-phar-utils
 php-swaggest-json-diff
 php-swaggest-json-schema
-php-symfony-contracts
 php-symfony-contracts2
-php-symfony-polyfill
 php-symfony-requirements-checker
 php-twig
 php-webimpress-http-middleware-compatibility
@@ -2659,7 +2640,6 @@ prosody
 proxytunnel
 prwd
 psi-notify
-psi
 psi4
 pslib
 pspg
@@ -2701,7 +2681,6 @@ python-acoustid
 python-adafruit-board-toolkit
 python-adafruit-platformdetect
 python-adafruit-pureio
-python-aenum
 python-agate-dbf
 python-agate-excel
 python-agate
@@ -3327,14 +3306,12 @@ python-pycec
 python-pyclipper
 python-pycodestyle
 python-pycoingecko
-python-pycomfoair
 python-pycomm3
 python-pycosat
 python-pydbus
 python-pydispatcher
 python-pydotplus
 python-pyemby
-python-pyemd
 python-pyfim
 python-pygments-better-html
 python-pygments-markdown-lexer
@@ -3472,7 +3449,6 @@ python-sentry-sdk
 python-serpent
 python-service-identity
 python-setproctitle
-python-setuptools_git
 python-shamir-mnemonic
 python-shelly
 python-shodan
@@ -3578,7 +3554,6 @@ python-tw2-forms
 python-txaio
 python-txws
 python-typedecorator
-python-typish
 python-tzlocal
 python-u-msgpack-python
 python-unipath
@@ -3707,7 +3682,6 @@ qt-assistant-adp
 qtbrowserplugin
 qtcurve
 qtchooser
-qtiocompressor
 qt
 qtwebkit
 qt4-style-fusion
@@ -3725,8 +3699,6 @@ quesoglc
 quisk
 qvge
 qwtplot3d
-qwt
-qwt5
 qxmledit
 qxtglobalshortcut
 R-abind
@@ -4019,7 +3991,6 @@ sdl12-compat
 SDL2_image
 SDL2_net
 sdrpp
-seaview
 sen
 serd
 sfxr
@@ -4050,7 +4021,6 @@ slibtool
 slic3r
 slowloris
 smcalc
-smesh
 smokegen
 sms_ntsc
 sndfile-tools
@@ -4173,12 +4143,10 @@ tinyexr
 tinyobjloader
 tinyows
 tinyxml
-tinyxml2
 tinyxpath
 tipcutils
 tipl
 tkdnd
-tkimg
 tklib
 tktray
 tldr

@@ -291,6 +291,7 @@ fwupd
 fwupd-efi
 fxload
 galera
+gap-srpm-macros
 gawk
 gcc
 gcr
@@ -766,6 +767,7 @@ libcpuid
 libcupsfilters
 libdaemon
 libdatrie
+libdb
 libdecor
 libdeflate
 libdex
@@ -817,6 +819,7 @@ libhangul
 libi2cd
 libica
 libical
+libicu76
 libidn2
 libieee1284
 libijs
@@ -1220,11 +1223,13 @@ perl-Compress-Raw-Zlib
 perl-Config-Perl-V
 perl-Convert-ASN1
 perl-Crypt-DES
+perl-Crypt-URandom
 perl-DBD-MariaDB
 perl-DBD-MySQL
 perl-DBD-Pg
 perl-DBD-SQLite
 perl-DBI
+perl-DB_File
 perl-Data-Dump
 perl-Data-Dumper
 perl-Data-OptList
