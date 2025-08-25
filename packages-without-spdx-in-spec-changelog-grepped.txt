@@ -3536,6 +3536,7 @@ ghc8.10
 ghc9.0
 ghc9.10
 ghc9.12
+ghc9.14
 ghc9.2
 ghc9.4
 ghc9.6
@@ -14410,6 +14411,7 @@ pythia8
 python-aaargh
 python-abimap
 python-absl-py
+python-accelerate
 python-accept-types
 python-accessible-pygments
 python-acoustid
@@ -14956,6 +14958,7 @@ python-dataclassy
 python-datalad
 python-datanommer-commands
 python-datanommer-models
+python-datasets
 python-dateparser
 python-datetimerange
 python-dateutil
@@ -18647,9 +18650,7 @@ rust-cachedir
 rust-cached_proc_macro
 rust-cached_proc_macro_types
 rust-cached
-rust-cairo-rs0.18
 rust-cairo-rs0.20
-rust-cairo-sys-rs0.18
 rust-cairo-sys-rs0.20
 rust-calamine
 rust-calloop-wayland-source
@@ -19093,9 +19094,7 @@ rust-four-cc
 rust-fragile
 rust-freedesktop_entry_parser
 rust-freedesktop-icons
-rust-freetype-rs0.32
 rust-freetype
-rust-freetype-sys0.17
 rust-freetype-sys0.20
 rust-fs_at
 rust-fs-err
@@ -19126,11 +19125,8 @@ rust-futures-time
 rust-futures-util
 rust-fxhash
 rust-gcd
-rust-gdk-pixbuf-sys0.18
 rust-gdk-pixbuf-sys0.20
-rust-gdk-pixbuf0.18
 rust-gdk-pixbuf0.20
-rust-gdk4-sys0.7
 rust-gdk4-sys0.9
 rust-gdk4-wayland
 rust-gdk4-wayland-sys
@@ -19140,7 +19136,6 @@ rust-gdk4-x11
 rust-gdk4-x11-sys
 rust-gdk4-x11-sys0.9
 rust-gdk4-x11_0.9
-rust-gdk4_0.7
 rust-gdk4_0.9
 rust-gengo-bin
 rust-gengo
@@ -19155,9 +19150,7 @@ rust-ghash
 rust-gif
 rust-gimli
 rust-gimoji
-rust-gio-sys0.18
 rust-gio-sys0.20
-rust-gio0.18
 rust-gio0.20
 rust-git-absorb
 rust-git-interactive-rebase-tool
@@ -19226,20 +19219,17 @@ rust-gix-worktree-state
 rust-gix-worktree-stream
 rust-gl_generator
 rust-glib-build-tools
-rust-glib-macros0.18
 rust-glib-macros0.20
-rust-glib-sys0.18
 rust-glib-sys0.20
-rust-glib0.18
 rust-glib0.20
 rust-globset
 rust-glob
 rust-glutin_egl_sys
 rust-glutin_glx_sys
 rust-glutin
+rust-glycin-common
 rust-glycin
 rust-glycin-utils
-rust-gobject-sys0.18
 rust-gobject-sys0.20
 rust-goblin0.5
 rust-goblin0.9
@@ -19251,9 +19241,7 @@ rust-googletest_macro
 rust-googletest
 rust-gptman
 rust-gpt
-rust-graphene-rs0.18
 rust-graphene-rs0.20
-rust-graphene-sys0.18
 rust-graphene-sys0.20
 rust-greetd_ipc
 rust-grep-cli
@@ -19264,9 +19252,7 @@ rust-grep-regex
 rust-grep-searcher
 rust-grep
 rust-group
-rust-gsk4-sys0.7
 rust-gsk4-sys0.9
-rust-gsk4_0.7
 rust-gsk4_0.9
 rust-gst-plugin-dav1d
 rust-gst-plugin-fallbackswitch
@@ -19315,11 +19301,8 @@ rust-gstreamer-video
 rust-gstreamer-video-sys0.23
 rust-gstreamer-video0.23
 rust-gstreamer0.23
-rust-gtk4-macros0.7
 rust-gtk4-macros0.9
-rust-gtk4-sys0.7
 rust-gtk4-sys0.9
-rust-gtk4_0.7
 rust-gtk4_0.9
 rust-gufo-common
 rust-gufo-exif
@@ -19588,9 +19571,7 @@ rust-lexical-util
 rust-lexiclean
 rust-libadwaita
 rust-libadwaita-sys
-rust-libadwaita-sys0.5
 rust-libadwaita-sys0.7
-rust-libadwaita0.5
 rust-libadwaita0.7
 rust-libblkid-rs
 rust-libblkid-rs-sys
@@ -19616,8 +19597,6 @@ rust-libflate1
 rust-libgit2-sys
 rust-libgit2-sys0.17
 rust-libgweather
-rust-libhandy
-rust-libhandy-sys
 rust-libheif-rs
 rust-libheif-sys
 rust-libloading0.7
@@ -19801,6 +19780,7 @@ rust-nix0.28
 rust-nix0.29
 rust-nohash-hasher
 rust-noisy_float
+rust-nom_locate
 rust-nom-supreme
 rust-nom7
 rust-no-panic
@@ -19920,13 +19900,9 @@ rust-palette
 rust-palette0.6
 rust-pam
 rust-pam-sys
-rust-pangocairo-sys0.18
 rust-pangocairo-sys0.20
-rust-pangocairo0.18
 rust-pangocairo0.20
-rust-pango-sys0.18
 rust-pango-sys0.20
-rust-pango0.18
 rust-pango0.20
 rust-papergrid
 rust-paris
@@ -20134,7 +20110,6 @@ rust-quickcheck
 rust-quickcheck0.9
 rust-quick-junit
 rust-quick-xml0.17
-rust-quick-xml0.30
 rust-quick-xml0.31
 rust-quick-xml0.36
 rust-quick-xml0.37
@@ -20164,6 +20139,7 @@ rust-rand_xorshift0.3
 rust-rand_xoshiro
 rust-rand0.7
 rust-rand0.8
+rust-rangemap
 rust-range_map_vec
 rust-ratatui
 rust-ratatui0.26
@@ -20973,6 +20949,7 @@ rust-wayland-protocols-misc
 rust-wayland-protocols-plasma
 rust-wayland-protocols-wlr
 rust-weak-table
+rust-web_atoms
 rust-webbrowser
 rust-webextension-native-messaging
 rust-web-ext-native-messaging
@@ -21880,7 +21857,6 @@ s3cmd
 s3fs-fuse
 s390utils
 tabbed
-tacacs
 tack
 taginfo
 taglib-extras
