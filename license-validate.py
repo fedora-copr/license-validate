@@ -42,6 +42,7 @@ class T(Transformer):
     def __default_token__(self, token):
         global VALID
         if token.value in LICENSES and "not-allowed" in LICENSES[token.value]["status"]:
+            import pdb; pdb.set_trace()
             print("Warning: {} is not-allowed license".format(token.value))
             if "usage" in LICENSES[token.value]:
                 print("{0} can be used under this condition:\n{1}\n".format(token.value, LICENSES[token.value]["usage"]))
@@ -52,6 +53,7 @@ class T(Transformer):
                 else:
                     VALID = False
             else:
+                import pdb; pdb.set_trace()
                 VALID = False
         if token.value in LICENSES:
             pass
@@ -95,7 +97,8 @@ if opts.package:
 LICENSES = load_licenses()
 
 lark_parser = Lark(grammar)  # Scannerless Earley is the default
-lark_parser_with_not_allowed = Lark(grammar_with_not_allowed, parser="lalr", keep_all_tokens=True)
+#lark_parser_with_not_allowed = Lark(grammar_with_not_allowed, parser="lalr", keep_all_tokens=True)
+lark_parser_with_not_allowed = Lark(grammar_with_not_allowed, parser="lalr")
 
 try:
     text = opts.license
@@ -105,6 +108,7 @@ try:
         print("Approved license")
 except LarkError as e:
     # not approved license
+    import pdb; pdb.set_trace()
     try:
         tree_with_not_allowed = lark_parser_with_not_allowed.parse(text)
         if opts.verbose > 0:
