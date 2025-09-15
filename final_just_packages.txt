@@ -65,7 +65,6 @@ audacious-plugins
 auditwheel
 automoc
 autossh
-avl
 avogadro2
 avoision
 awesome
@@ -627,7 +626,6 @@ golang-github-antihax-optional
 golang-github-apex-logs
 golang-github-armon-gomdb
 golang-github-armon-metrics
-golang-github-armon-radix
 golang-github-armon-socks5
 golang-github-asaskevich-govalidator
 golang-github-aws-lambda
@@ -641,7 +639,6 @@ golang-github-azure-service-bus
 golang-github-azure-storage-blob
 golang-github-a8m-tree
 golang-github-badoux-checkmail
-golang-github-beevik-ntp
 golang-github-benbjohnson-clock
 golang-github-beorn7-perks
 golang-github-bep-debounce
@@ -666,7 +663,6 @@ golang-github-bradenhilton-cityhash
 golang-github-bradfitz-iter
 golang-github-bruth-assert
 golang-github-bshuster-repo-logrus-logstash-hook
-golang-github-bsphere-le
 golang-github-bugsnag-panicwrap
 golang-github-bugsnag
 golang-github-burntsushi-graphics
@@ -697,7 +693,6 @@ golang-github-cockroachdb-sentry
 golang-github-codegangsta-inject
 golang-github-colinmarc-hdfs-2
 golang-github-coreos-ioprogress
-golang-github-corpix-uarand
 golang-github-cosiner-argv
 golang-github-cpu-goacmedns
 golang-github-cpuguy83-md2man
@@ -716,14 +711,10 @@ golang-github-datadog
 golang-github-data-dog-sqlmock
 golang-github-davecgh-spew
 golang-github-davecgh-xdr
-golang-github-dave-jennifer
 golang-github-daviddengcn-colortext
 golang-github-deckarep-set
-golang-github-delve-liner
 golang-github-denisbrodbeck-machineid
 golang-github-denisenkom-mssqldb
-golang-github-dennwc-varint
-golang-github-derekparker-trie
 golang-github-devigned-tab
 golang-github-dghubble-oauth1
 golang-github-dghubble-sling
@@ -762,7 +753,6 @@ golang-github-edsrzf-mmap
 golang-github-eknkc-amber
 golang-github-elazarl-bindata-assetfs
 golang-github-elithrar-simple-scrypt
-golang-github-ema-qdisc
 golang-github-emersion-imap-sortthread
 golang-github-emersion-imap
 golang-github-emersion-maildir
@@ -867,7 +857,6 @@ golang-github-hexdigest-gowrap
 golang-github-hhrutter-lzw
 golang-github-hhrutter-tiff
 golang-github-hinshun-vt10x
-golang-github-hodgesds-perf-utils
 golang-github-hsiafan-glow
 golang-github-hsiafan-vlog
 golang-github-huandu-xstrings
@@ -1003,7 +992,6 @@ golang-github-mattn-runewidth
 golang-github-mattn-shellwords
 golang-github-mattn-sqlite3
 golang-github-mattn-tty
-golang-github-mattn-xmlrpc
 golang-github-mdlayher-ethernet
 golang-github-mdlayher-genetlink
 golang-github-mdlayher-netlink
@@ -1011,7 +999,6 @@ golang-github-mdlayher-raw
 golang-github-mdlayher-wifi
 golang-github-mgutz-ansi
 golang-github-mgutz-logxi
-golang-github-miekg-pkcs11
 golang-github-michaelklishin-rabbit-hole
 golang-github-mikioh-ipaddr
 golang-github-miolini-datacounter
@@ -1072,7 +1059,6 @@ golang-github-oschwald-geoip2
 golang-github-oschwald-maxminddb
 golang-github-otiai10-copy
 golang-github-otiai10-mint
-golang-github-owenrumney-sarif
 golang-github-pact-foundation
 golang-github-path-network-mmproxy
 golang-github-patrickmn-cache
@@ -1084,7 +1070,6 @@ golang-github-peterbourgon-diskv
 golang-github-peterhellberg-link
 golang-github-peterh-liner
 golang-github-pgaskin-koboutils
-golang-github-phayes-permbits
 golang-github-philhofer-fwd
 golang-github-pierrec-cmdflag
 golang-github-pierrre-geohash
@@ -1103,15 +1088,8 @@ golang-github-powerman-deepequal
 golang-github-powerman-check
 golang-github-pressly-goose
 golang-github-projectdiscovery-blackrock
-golang-github-projectdiscovery-fdmax
-golang-github-projectdiscovery-fileutil
-golang-github-projectdiscovery-goflags
-golang-github-projectdiscovery-gologger
 golang-github-projectdiscovery-hmap
 golang-github-projectdiscovery-reflectutil
-golang-github-projectdiscovery-retryabledns
-golang-github-projectdiscovery-sliceutil
-golang-github-projectdiscovery-stringsutil
 golang-github-puerkitobio-purell
 golang-github-puerkitobio-urlesc
 golang-github-quay-goval-parser
@@ -1137,7 +1115,6 @@ golang-github-rs-xid
 golang-github-rs-zerolog
 golang-github-rubyist-tracerx
 golang-github-rwcarlsen-goexif
-golang-github-ryanuber-columnize
 golang-github-ryanuber-glob
 golang-github-sabhiram-gitignore
 golang-github-saintfish-chardet
@@ -1146,7 +1123,6 @@ golang-github-sanity-io-litter
 golang-github-saracen-walker
 golang-github-sean-seed
 golang-github-segmentio-ksuid
-golang-github-serialx-hashring
 golang-github-sevlyar-daemon
 golang-github-sgreben-flagvar
 golang-github-shiena-ansicolor
@@ -1179,7 +1155,6 @@ golang-github-smartystreets-gunit
 golang-github-snapcore-gettext
 golang-github-sony-gobreaker
 golang-github-sophaskins-efs2tar
-golang-github-soundcloud-runit
 golang-github-sourcegraph-annotate
 golang-github-sourcegraph-jsonrpc2
 golang-github-sourcegraph-syntaxhighlight
@@ -1208,7 +1183,6 @@ golang-github-termie-shutil
 golang-github-test-deep
 golang-github-theupdateframework-notary
 golang-github-thlib-timezone-local
-golang-github-thoas-funk
 golang-github-thoj-ircevent
 golang-github-tchap-patricia
 golang-github-tidwall-pretty
@@ -1218,10 +1192,6 @@ golang-github-tj-buffer
 golang-github-tj-spin
 golang-github-tmc-grpc-websocket-proxy
 golang-github-tomasen-realip
-golang-github-tonistiigi-actions-cache
-golang-github-tonistiigi-fsutil
-golang-github-tonistiigi-units
-golang-github-tonistiigi-vt100
 golang-github-transip-gotransip
 golang-github-tscholl2-siec
 golang-github-ttacon-chalk
@@ -1301,12 +1271,10 @@ golang-gopkg-tylerb-is-1
 golang-gopkg-warnings-0
 golang-gorm
 golang-jaytaylor-html2text
-golang-mozilla-pkcs7
 golang-mvdan-editorconfig
 golang-mvdan-sh-3
 golang-mvdan-xurls
 golang-nhooyr-websocket
-golang-rsc-binaryregexp
 golang-rsc-pdf
 golang-schwanenlied-yawning-bsaes
 golang-sourcegraph-appdash-data
@@ -1454,7 +1422,6 @@ iso-country-flags
 itcl
 itk
 itop
-iv
 ivykis
 iwidgets
 iwyu
@@ -1568,6 +1535,7 @@ kmahjongg
 kmid2
 kmodtool
 kmplayer
+kmscon
 knavalbattle
 knetwalk
 knotes
@@ -1963,7 +1931,6 @@ mingw-cairomm
 mingw-c-ares
 mingw-colord
 mingw-curl
-mingw-dbus-glib
 mingw-drmingw
 mingw-expat
 mingw-fcgi
@@ -2000,7 +1967,6 @@ mingw-libgnurx
 mingw-libgpg-error
 mingw-libgta
 mingw-libcharset
-mingw-libIDL
 mingw-libimagequant
 mingw-libltdl
 mingw-libmicrohttpd
@@ -2060,7 +2026,6 @@ miniupnpc
 miniupnpd
 mint-y-icons
 mirmon
-mirrormanager2
 mISDN
 mkdocs-material
 mk-files
@@ -2086,7 +2051,6 @@ mono-bouncycastle
 mono-cecil-flowanalysis
 mono-cecil
 monocypher
-monodevelop-debugger-gdb
 mono-reflection
 mono-tools
 mono-zeroconf
@@ -2379,7 +2343,6 @@ pgzero
 phodav
 phonon-backend-gstreamer
 phonon-qt4-backend-gstreamer
-phonon-qt4
 phonon
 php-bacon-qr-code2
 php-brick-math
@@ -2681,7 +2644,6 @@ python-azure-mgmt-synapse
 python-azure-mgmt-trafficmanager
 python-azure-mgmt-web
 python-babelfish
-python-backcall
 python-backlash
 python-backoff
 python-basemap
@@ -2756,7 +2718,6 @@ python-cov-core
 python-coverage_pth
 python-coveralls
 python-cpio
-python-cradox
 python-crank
 python-crashtest
 python-crayons
@@ -2853,6 +2814,7 @@ python-feedgenerator
 python-feedparser
 python-fido2
 python-filelock
+python-filetype
 python-firehose
 python-fissix
 python-fixit
@@ -2903,7 +2865,6 @@ python-graphql-core
 python-graphviz
 python-gstreamer1
 python-gunicorn
-python-hdf5storage
 python-hgapi
 python-hglib
 python-hidapi
@@ -2971,10 +2932,8 @@ python-kgb
 python-kitchen
 python-knack
 python-kombu
-python-lazy-ops
 python-leather
 python-libdiscid
-python-libNeuroML
 python-libtmux
 python-linecache2
 python-lmdb
@@ -3027,11 +2986,11 @@ python-munch
 python-musicbrainzngs
 python-mwclient
 python-myhdl
-python-Naked
 python-nashpy
 python-natsort
 python-nbclient
 python-nbformat
+python-netdisco
 python-netmiko
 python-niaaml
 python-niapy
@@ -3056,7 +3015,6 @@ python-openid-cla
 python-openpyxl
 python-op1repacker
 python-op1svg
-python-outdated
 python-owl_rl
 python-paho-mqtt
 python-Pallets-Sphinx-Themes
@@ -3067,7 +3025,6 @@ python-parsimonious
 python-parsley
 python-parver
 python-paste-deploy
-python-pastel
 python-paste-script
 python-paste
 python-patatt
@@ -3095,7 +3052,6 @@ python-plaster-pastedeploy
 python-plaster
 python-platformdirs
 python-pluginbase
-python-plumbum
 python-portend
 python-port-for
 python-precis_i18n
@@ -3108,8 +3064,6 @@ python-publicsuffix2
 python-pudb
 python-pulsectl
 python-pure-eval
-python-pvc
-python-pyactivetwo
 python-pyaes
 python-pybeam
 python-pycares
@@ -3119,7 +3073,6 @@ python-pycodestyle
 python-pycosat
 python-pydbus
 python-pydispatcher
-python-pydotplus
 python-pyfim
 python-pygments-better-html
 python-pygments-markdown-lexer
@@ -3224,7 +3177,6 @@ python-rstr
 python-sanction
 python-sane
 python-scikit-uplift
-python-sciunit
 python-scp
 python-scramp
 python-scrapy
@@ -3271,7 +3223,6 @@ python-sphinx_lv2_theme
 python-sphinx-notfound-page
 python-sphinx-press-theme
 python-sphinx_selective_exclude
-python-sphinx-sitemap
 python-sphinx-theme-py3doc-enhanced
 python-spnego
 python-spyking-circus
@@ -3334,12 +3285,10 @@ python-user-agents
 python-usort
 python-utils
 python-validators
-python-vconnector
 python-vcrpy
 python-vdf
 python-verboselogs
 python-versioneer
-python-vevents
 python-vine
 python-virtualenv-clone
 python-virtualenv
@@ -3347,7 +3296,6 @@ python-virtualenvwrapper
 python-visitor
 python-visvis
 python-volatile
-python-vpoller
 python-vsts-cd-manager
 python-vsts
 python-vulture
@@ -3439,13 +3387,11 @@ qtchooser
 qt
 qtwebkit
 qt4-style-fusion
-qt5ct
 qt5-doc
 qt5-qtaccountsservice
 qt5-qtconfiguration
 qt5-qtstyleplugins
 qt5-qtwebengine
-qt6ct
 quadrapassel
 QuantLib
 quazip
@@ -3673,8 +3619,6 @@ rubygem-narray
 rubygem-ncursesw
 rubygem-ncursesw
 rubygem-open4
-rubygem-rdoc
-rubygem-rdoc
 rubygem-rchardet
 rubygem-rmail
 rubygem-sassc-rails
@@ -3842,7 +3786,6 @@ taglib-sharp
 tagsoup
 tali
 tango-icon-theme-extras
-tango-icon-theme
 tarantool
 taskd
 tasksh
@@ -3966,7 +3909,6 @@ uvw
 uwsgi
 vacation
 vagrant-digitalocean
-vagrant-openstack-provider
 vboot-utils
 vdpauinfo
 vdr-epg-daemon
@@ -4074,7 +4016,6 @@ xfce4-weather-plugin
 xfce4-xkb-plugin
 xfig
 xfoil
-xforms
 xfwm4-themes
 xkbset
 xkeycaps

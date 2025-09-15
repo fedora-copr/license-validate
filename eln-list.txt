@@ -230,6 +230,7 @@ docbook-style-xsl
 docbook-utils
 docbook5-schemas
 docbook5-style-xsl
+doctest
 dogtag-pki
 dola
 dola-gleaner
@@ -277,7 +278,6 @@ exfatprogs
 exiv2
 expat
 expect
-extra-enforcer-rules
 fabtests
 fapolicyd
 fcoe-utils
@@ -430,6 +430,7 @@ graphviz
 greenboot
 grep
 groff
+grpc
 grub2
 grubby
 gsettings-desktop-schemas
@@ -1047,6 +1048,7 @@ lldpad
 lldpd
 llhttp
 llvm
+llvm20
 lm_sensors
 lmdb
 localsearch
@@ -1104,7 +1106,6 @@ maven-compiler-plugin
 maven-dependency-analyzer
 maven-dependency-plugin
 maven-dependency-tree
-maven-enforcer
 maven-file-management
 maven-filtering
 maven-jar-plugin
@@ -1180,7 +1181,7 @@ modulemaker-maven-plugin
 mojo-parent
 mokutil
 mozilla-filesystem
-mozjs128
+mozjs140
 mpdecimal
 mpfr
 mpg123
@@ -1356,8 +1357,6 @@ perl-Canary-Stability
 perl-Capture-Tiny
 perl-Carp
 perl-Class-Inspector
-perl-Class-Method-Modifiers
-perl-Class-XSAccessor
 perl-Clone
 perl-Compress-Bzip2
 perl-Compress-Raw-Bzip2
@@ -1380,7 +1379,6 @@ perl-Data-Section
 perl-Data-UUID
 perl-Date-Manip
 perl-Devel-CheckLib
-perl-Devel-GlobalDestruction
 perl-Devel-PPPort
 perl-Devel-Size
 perl-Devel-Symdump
@@ -1390,7 +1388,6 @@ perl-Digest-HMAC
 perl-Digest-MD5
 perl-Digest-SHA
 perl-Encode
-perl-Encode-EUCJPASCII
 perl-Encode-Locale
 perl-Env
 perl-Error
@@ -1405,14 +1402,10 @@ perl-ExtUtils-ParseXS
 perl-ExtUtils-PkgConfig
 perl-FCGI
 perl-Fedora-VSP
-perl-File-BaseDir
-perl-File-DesktopEntry
 perl-File-Fetch
 perl-File-HomeDir
 perl-File-Listing
-perl-File-MimeInfo
 perl-File-Path
-perl-File-ReadBackwards
 perl-File-Remove
 perl-File-ShareDir
 perl-File-ShareDir-Install
@@ -1435,9 +1428,7 @@ perl-HTTP-Date
 perl-HTTP-Message
 perl-HTTP-Negotiate
 perl-HTTP-Tiny
-perl-IO-All
 perl-IO-Compress
-perl-IO-Compress-Brotli
 perl-IO-Compress-Lzma
 perl-IO-HTML
 perl-IO-Multiplex
@@ -1475,24 +1466,12 @@ perl-Module-Build
 perl-Module-CPANfile
 perl-Module-CoreList
 perl-Module-Install
-perl-Module-Install-AuthorRequires
-perl-Module-Install-AuthorTests
-perl-Module-Install-AutoLicense
-perl-Module-Install-GithubMeta
-perl-Module-Install-ManifestSkip
-perl-Module-Install-ReadmeFromPod
-perl-Module-Install-ReadmeMarkdownFromPod
-perl-Module-Install-Repository
 perl-Module-Load
 perl-Module-Load-Conditional
-perl-Module-Manifest-Skip
 perl-Module-Metadata
-perl-Module-Package
-perl-Module-Package-Au
 perl-Module-Runtime
 perl-Module-ScanDeps
 perl-Module-Signature
-perl-Moo
 perl-Mozilla-CA
 perl-Mozilla-PublicSuffix
 perl-NTLM
@@ -1515,12 +1494,10 @@ perl-PerlIO-via-QuotedPrint
 perl-Pod-Checker
 perl-Pod-Coverage
 perl-Pod-Escapes
-perl-Pod-Markdown
 perl-Pod-Parser
 perl-Pod-Perldoc
 perl-Pod-Simple
 perl-Pod-Usage
-perl-Role-Tiny
 perl-SGMLSpm
 perl-SNMP_Session
 perl-Scalar-List-Utils
@@ -1530,9 +1507,7 @@ perl-Software-License
 perl-Storable
 perl-String-ShellQuote
 perl-Sub-Exporter
-perl-Sub-Exporter-Progressive
 perl-Sub-Install
-perl-Sub-Quote
 perl-Sub-Uplevel
 perl-Syntax-Keyword-Try
 perl-Sys-Syslog
@@ -1546,12 +1521,10 @@ perl-TermReadKey
 perl-Test-CPAN-Meta
 perl-Test-CPAN-Meta-JSON
 perl-Test-Deep
-perl-Test-Differences
 perl-Test-Exception
 perl-Test-FailWarnings
 perl-Test-Fatal
 perl-Test-Harness
-perl-Test-InDistDir
 perl-Test-Inter
 perl-Test-Needs
 perl-Test-NoWarnings
@@ -1599,7 +1572,6 @@ perl-XML-Simple
 perl-XML-TokeParser
 perl-XML-XPath
 perl-XS-Parse-Keyword
-perl-XString
 perl-YAML
 perl-YAML-Tiny
 perl-autodie
@@ -1618,7 +1590,6 @@ perl-parent
 perl-perlfaq
 perl-podlators
 perl-srpm-macros
-perl-strictures
 perl-threads
 perl-threads-shared
 perl-version
@@ -1695,7 +1666,6 @@ prrte
 ps_mem
 psacct
 psmisc
-psutils
 pt-sans-fonts
 ptyxis
 publicsuffix-list
@@ -1714,6 +1684,7 @@ pyproject-rpm-macros
 pyserial
 pytest
 python-PyMySQL
+python-absl-py
 python-alembic
 python-argcomplete
 python-asn1crypto
@@ -1906,6 +1877,7 @@ quota
 radvd
 rasdaemon
 rdma-core
+re2
 readline
 realmd
 realtime-setup
@@ -2285,6 +2257,7 @@ xprop
 xrandr
 xrdb
 xrestop
+xsimd
 xterm
 xwayland-run
 xxhash
