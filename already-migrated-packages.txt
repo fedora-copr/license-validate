@@ -3356,6 +3356,7 @@ golang-aead-minisign
 golang-ariga-atlas
 golang-bitbucket-creachadair-shell
 golang-bug-serial-1
+golangci-lint
 golang-cloud-google-auth
 golang-cloud-google-bigquery
 golang-cloud-google-cloudtasks
@@ -4435,6 +4436,7 @@ hiprt
 hipsolver
 hipsparselt
 hipsparse
+hip-tests
 hitori
 hivex
 hledger
@@ -7802,6 +7804,7 @@ openapi-python-client
 openapv
 openarena
 openbabel
+openbao
 openbgpd
 openbios
 openblas
@@ -7838,6 +7841,7 @@ openhantek
 openhmd
 openh264
 OpenImageIO
+OpenImageIO2.5
 OpenIPMI
 openjade
 openjdk-asmtools
@@ -11372,6 +11376,7 @@ php-sebastian-version6
 php-simplepie
 php-smarty-gettext
 php-Smarty
+php-smarty4
 php-smbclient
 php
 php-splitbrain-lesserphp
@@ -14328,7 +14333,6 @@ roc-toolkit
 roctracer
 rocwmma
 rofi-themes-base16
-rofi-wayland
 rogue
 rootfiles
 rootsh
@@ -15219,6 +15223,7 @@ rust-calloop-wayland-source
 rust-calloop0.13
 rust-camellia
 rust-camino
+rust-canon-json
 rust-capng
 rust-capnpc
 rust-capnp-futures
@@ -15241,6 +15246,7 @@ rust-cargo-options
 rust-cargo-platform
 rust-cargo-platform0.1
 rust-cargo-readme
+rust-cargo-rpmstatus
 rust-cargo
 rust-cargo_toml
 rust-cargo-util-schemas
@@ -15932,12 +15938,8 @@ rust-gstreamer-app
 rust-gstreamer-app-sys
 rust-gstreamer-audio
 rust-gstreamer-audio-sys
-rust-gstreamer-audio-sys0.23
-rust-gstreamer-audio0.23
 rust-gstreamer-base
 rust-gstreamer-base-sys
-rust-gstreamer-base-sys0.23
-rust-gstreamer-base0.23
 rust-gstreamer-gl-egl
 rust-gstreamer-gl-egl-sys
 rust-gstreamer-gl
@@ -15952,21 +15954,15 @@ rust-gstreamer-net
 rust-gstreamer-net-sys
 rust-gstreamer-pbutils
 rust-gstreamer-pbutils-sys
-rust-gstreamer-pbutils-sys0.23
-rust-gstreamer-pbutils0.23
 rust-gstreamer-rtp
 rust-gstreamer-rtp-sys
 rust-gstreamer
 rust-gstreamer-sys
-rust-gstreamer-sys0.23
 rust-gstreamer-tag
 rust-gstreamer-tag-sys
 rust-gstreamer-utils
 rust-gstreamer-video
 rust-gstreamer-video-sys
-rust-gstreamer-video-sys0.23
-rust-gstreamer-video0.23
-rust-gstreamer0.23
 rust-gtk4-macros
 rust-gtk4-macros0.9
 rust-gtk4
@@ -16025,7 +16021,9 @@ rust-hex
 rust-hexyl
 rust-hickory-client
 rust-hickory-proto
+rust-hickory-proto0.24
 rust-hickory-resolver
+rust-hickory-resolver0.24
 rust-hidapi
 rust-histo
 rust-hkdf
@@ -16096,6 +16094,7 @@ rust-icu_properties_data
 rust-icu_properties
 rust-icu_provider
 rust-icu_segmenter_data
+rust-icu_segmenter
 rust-idea
 rust-ident_case
 rust-idna_adapter
@@ -16469,10 +16468,12 @@ rust-mockall
 rust-mock_instant
 rust-mock_instant0.3
 rust-mockito
+rust-moka
 rust-monitord-exporter
 rust-monitord
 rust-monostate-impl
 rust-monostate
+rust-moxcms
 rust-mpsc_requests
 rust-mptcp-pm
 rust-mp4parse
@@ -16505,7 +16506,6 @@ rust-neli
 rust-netlink-packet-core
 rust-netlink-packet-generic
 rust-netlink-packet-route
-rust-netlink-packet-utils
 rust-netlink-proto
 rust-netlink-sys
 rust-netmap_sys
@@ -16577,6 +16577,7 @@ rust-num-integer
 rust-num-iter
 rust-num-modular
 rust-num-prime
+rust-numpy
 rust-num-rational
 rust-num-rational0.3
 rust-num
@@ -16886,6 +16887,7 @@ rust-pulldown-cmark0.11
 rust-punycode
 rust-pure-rust-locales
 rust-pwd
+rust-pxfm
 rust-pyo3-build-config
 rust-pyo3-build-config0.23
 rust-pyo3-build-config0.24
@@ -16954,6 +16956,7 @@ rust-rand_isaac
 rust-rand_pcg
 rust-rand_pcg0.2
 rust-rand_pcg0.3
+rust-rand_regex
 rust-rand
 rust-rand_xorshift
 rust-rand_xorshift0.2
@@ -17209,6 +17212,7 @@ rust-serde-big-array
 rust-serde-big-array0.4
 rust-serde_bytes
 rust-serde_cbor
+rust-serde_core
 rust-serdect
 rust-serde_default
 rust-serde_derive_internals
@@ -17442,6 +17446,7 @@ rust-tabled_derive
 rust-tabled
 rust-table_formatter
 rust-tabwriter
+rust-tagptr
 rust-take_mut
 rust-tame-index
 rust-tap
@@ -17649,7 +17654,6 @@ rust-tss-esapi
 rust-tss-esapi-sys
 rust-ttf-parser
 rust-tui-input
-rust-tuikit
 rust-tui-react
 rust-tui-textarea
 rust-tungstenite
@@ -17871,6 +17875,7 @@ rust-vmm-sys-util
 rust-vmm-sys-util0.12
 rust-vm-superio
 rust-vmw_backdoor
+rust-vsock
 rust-vsort
 rust-vsprintf
 rust-vte_generate_state_changes
