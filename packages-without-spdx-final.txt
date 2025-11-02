@@ -161,7 +161,6 @@ ClanLib1 warning: valid as old and new and no changelong entry, please check
 classified-ads contains LicenseRef-Callaway, needs to be manually converted
 clatd warning: valid as old and new and no changelong entry, please check
 clearlooks-compact-gnome-theme contains LicenseRef-Callaway, needs to be manually converted
-clementine warning: not valid neither as Callaway nor as SPDX, please check
 clitest warning: valid as old and new and no changelong entry, please check
 clojure-core-specs-alpha warning: valid as old and new and no changelong entry, please check
 clojure-maven-plugin warning: valid as old and new and no changelong entry, please check
@@ -664,7 +663,6 @@ golang-github-clickhouse contains LicenseRef-Callaway, needs to be manually conv
 golang-github-client9-plaintext warning: valid as old and new and no changelong entry, please check
 golang-github-cli-shurcool-graphql warning: valid as old and new and no changelong entry, please check
 golang-github-cmd warning: valid as old and new and no changelong entry, please check
-golang-github-cnf-structhash warning: valid as old and new and no changelong entry, please check
 golang-github-cockroachdb-pebble contains LicenseRef-Callaway, needs to be manually converted
 golang-github-cockroachdb-sentry contains LicenseRef-Callaway, needs to be manually converted
 golang-github-codegangsta-inject warning: valid as old and new and no changelong entry, please check
@@ -701,7 +699,6 @@ golang-github-disintegration-imaging warning: valid as old and new and no change
 golang-github-djherbis-atime warning: valid as old and new and no changelong entry, please check
 golang-github-djherbis-buffer warning: valid as old and new and no changelong entry, please check
 golang-github-djherbis-nio warning: valid as old and new and no changelong entry, please check
-golang-github-djherbis-times warning: valid as old and new and no changelong entry, please check
 golang-github-dlclark-regexp2 warning: valid as old and new and no changelong entry, please check
 golang-github-dnaeon-vcr contains LicenseRef-Callaway, needs to be manually converted
 golang-github-dnsimple warning: valid as old and new and no changelong entry, please check
@@ -1056,16 +1053,12 @@ golang-github-posener-complete-2 warning: valid as old and new and no changelong
 golang-github-powerman-deepequal contains LicenseRef-Callaway, needs to be manually converted
 golang-github-powerman-check warning: valid as old and new and no changelong entry, please check
 golang-github-pressly-goose warning: valid as old and new and no changelong entry, please check
-golang-github-projectdiscovery-blackrock warning: valid as old and new and no changelong entry, please check
-golang-github-projectdiscovery-hmap warning: valid as old and new and no changelong entry, please check
-golang-github-projectdiscovery-reflectutil warning: valid as old and new and no changelong entry, please check
 golang-github-puerkitobio-purell contains LicenseRef-Callaway, needs to be manually converted
 golang-github-puerkitobio-urlesc contains LicenseRef-Callaway, needs to be manually converted
 golang-github-quay-goval-parser contains LicenseRef-Callaway, needs to be manually converted
 golang-github-racingmars-go3270 warning: valid as old and new and no changelong entry, please check
 golang-github-rasky-xdr warning: valid as old and new and no changelong entry, please check
 golang-github-rcrowley-metrics contains LicenseRef-Callaway, needs to be manually converted
-golang-github-remeh-sizedwaitgroup warning: valid as old and new and no changelong entry, please check
 golang-github-remyoudompheng-bigfft contains LicenseRef-Callaway, needs to be manually converted
 golang-github-restic-chunker contains LicenseRef-Callaway, needs to be manually converted
 golang-github-revel-log15 contains LicenseRef-Callaway, needs to be manually converted
@@ -2282,12 +2275,10 @@ pg_auto_failover
 pgpdump warning: valid as old and new and no changelong entry, please check
 pgp-tools contains LicenseRef-Callaway, needs to be manually converted
 pg-semver warning: valid as old and new and no changelong entry, please check
-pgzero contains LicenseRef-Callaway, needs to be manually converted
 phodav contains LicenseRef-Callaway, needs to be manually converted
 phonon-backend-gstreamer contains LicenseRef-Callaway, needs to be manually converted
 phonon contains LicenseRef-Callaway, needs to be manually converted
 php-bacon-qr-code2 contains LicenseRef-Callaway, needs to be manually converted
-php-brick-math warning: valid as old and new and no changelong entry, please check
 php-brick-varexporter warning: valid as old and new and no changelong entry, please check
 php-cache-integration-tests warning: valid as old and new and no changelong entry, please check
 php-cache-tag-interop warning: valid as old and new and no changelong entry, please check
@@ -2480,12 +2471,7 @@ pysysbot contains LicenseRef-Callaway, needs to be manually converted
 python-aaargh contains LicenseRef-Callaway, needs to be manually converted
 python-accept-types warning: valid as old and new and no changelong entry, please check
 python-acoustid warning: valid as old and new and no changelong entry, please check
-python-adafruit-board-toolkit warning: valid as old and new and no changelong entry, please check
 python-adafruit-platformdetect warning: valid as old and new and no changelong entry, please check
-python-agate-dbf warning: valid as old and new and no changelong entry, please check
-python-agate-excel warning: valid as old and new and no changelong entry, please check
-python-agate warning: valid as old and new and no changelong entry, please check
-python-agate-sql warning: valid as old and new and no changelong entry, please check
 python-ailment contains LicenseRef-Callaway, needs to be manually converted
 python-aiodns warning: valid as old and new and no changelong entry, please check
 python-aiohttp-negotiate contains LicenseRef-Callaway, needs to be manually converted
@@ -2518,6 +2504,10 @@ python-audioread warning: valid as old and new and no changelong entry, please c
 python-autobahn warning: valid as old and new and no changelong entry, please check
 python-Automat warning: valid as old and new and no changelong entry, please check
 python-autopep8 warning: valid as old and new and no changelong entry, please check
+python-avocado - can be trivially converted to GPL-2.0-or-later
+python-avocado - can be trivially converted to GPL-2.0-or-later AND GPL-2.0-only
+python-avocado
+python-avocado
 python-awesomeversion warning: valid as old and new and no changelong entry, please check
 python-azure-mgmt-advisor warning: valid as old and new and no changelong entry, please check
 python-azure-mgmt-apimanagement warning: valid as old and new and no changelong entry, please check
@@ -2664,7 +2654,6 @@ python-cro warning: valid as old and new and no changelong entry, please check
 python-cson warning: valid as old and new and no changelong entry, please check
 python-cssmin contains LicenseRef-Callaway, needs to be manually converted
 python-cssselect contains LicenseRef-Callaway, needs to be manually converted
-python-csvkit warning: valid as old and new and no changelong entry, please check
 python-curtsies warning: valid as old and new and no changelong entry, please check
 python-cwcwidth warning: valid as old and new and no changelong entry, please check
 python-cycler contains LicenseRef-Callaway, needs to be manually converted
@@ -2911,7 +2900,6 @@ python-mongoengine warning: valid as old and new and no changelong entry, please
 python-mongomock contains LicenseRef-Callaway, needs to be manually converted
 python-more-itertools warning: valid as old and new and no changelong entry, please check
 python-moreorless warning: valid as old and new and no changelong entry, please check
-python-moss contains LicenseRef-Callaway, needs to be manually converted
 python-mplcairo warning: valid as old and new and no changelong entry, please check
 python-mplcursors warning: valid as old and new and no changelong entry, please check
 python-multi_key_dict warning: valid as old and new and no changelong entry, please check
@@ -3100,7 +3088,6 @@ python-retask warning: valid as old and new and no changelong entry, please chec
 python-rmtest contains LicenseRef-Callaway, needs to be manually converted
 python-rosinstall_generator contains LicenseRef-Callaway, needs to be manually converted
 python-routes warning: valid as old and new and no changelong entry, please check
-python-rply contains LicenseRef-Callaway, needs to be manually converted
 python-rpyc warning: valid as old and new and no changelong entry, please check
 python-rstcheck warning: valid as old and new and no changelong entry, please check
 python-rst-linker warning: valid as old and new and no changelong entry, please check
@@ -3365,7 +3352,6 @@ reprepro contains LicenseRef-Callaway, needs to be manually converted
 reproc warning: valid as old and new and no changelong entry, please check
 reptyr warning: valid as old and new and no changelong entry, please check
 R-errors warning: valid as old and new and no changelong entry, please check
-resalloc-aws - can be trivially converted to GPL-2.0-or-later
 rescene warning: valid as old and new and no changelong entry, please check
 restool contains LicenseRef-Callaway, needs to be manually converted
 restsharp contains LicenseRef-Callaway, needs to be manually converted
@@ -3520,7 +3506,6 @@ rubygem-http_parser.rb warning: valid as old and new and no changelong entry, pl
 rubygem-idn contains LicenseRef-Callaway, needs to be manually converted
 rubygem-launchy warning: valid as old and new and no changelong entry, please check
 rubygem-macaddr contains LicenseRef-Callaway, needs to be manually converted
-rubygem-marcel contains LicenseRef-Callaway, needs to be manually converted
 rubygem-narray contains LicenseRef-Callaway, needs to be manually converted
 rubygem-ncursesw contains LicenseRef-Callaway, needs to be manually converted
 rubygem-ncursesw contains LicenseRef-Callaway, needs to be manually converted
@@ -3706,6 +3691,8 @@ tcptrack contains LicenseRef-Callaway, needs to be manually converted
 tcputils contains LicenseRef-Callaway, needs to be manually converted
 tcp_wrappers contains LicenseRef-Callaway, needs to be manually converted
 tdom contains LicenseRef-Callaway, needs to be manually converted
+teem warning: not valid neither as Callaway nor as SPDX, please check
+teem warning: not valid neither as Callaway nor as SPDX, please check
 teeworlds contains LicenseRef-Callaway, needs to be manually converted
 tegrarcm contains LicenseRef-Callaway, needs to be manually converted
 telepathy-gabble contains LicenseRef-Callaway, needs to be manually converted

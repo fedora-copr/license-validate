@@ -205,7 +205,6 @@ dola-transformer
 dos2unix
 dosfstools
 dotconf
-dotnet8.0
 dotnet9.0
 dovecot
 doxygen
@@ -1464,6 +1463,7 @@ pyproject-rpm-macros
 pyserial
 pytest
 python-PyMySQL
+python-SecretStorage
 python-alembic
 python-argcomplete
 python-asn1crypto
@@ -1504,6 +1504,10 @@ python-inotify
 python-installer
 python-into-dbus-python
 python-iso639
+python-jaraco-classes
+python-jaraco-context
+python-jaraco-functools
+python-jeepney
 python-jinja2
 python-jmespath
 python-jsonpatch
@@ -1514,6 +1518,7 @@ python-justbases
 python-justbytes
 python-jwcrypto
 python-kdcproxy
+python-keyring
 python-kmod
 python-lark
 python-ldap
@@ -1523,6 +1528,7 @@ python-lxml
 python-mako
 python-markupsafe
 python-meh
+python-more-itertools
 python-netaddr
 python-networkx
 python-oauthlib
@@ -1767,6 +1773,7 @@ sos
 sound-theme-freedesktop
 soundtouch
 source-highlight
+spandsp
 spausedd
 speech-dispatcher
 speex

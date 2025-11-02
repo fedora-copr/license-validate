@@ -71,6 +71,7 @@ aspell
 assertj-core
 at
 at-spi2-core
+atkmm
 attr
 audit
 augeas
@@ -126,6 +127,7 @@ c2esp
 ca-certificates
 cachefilesd
 cairo
+cairomm
 cairomm1.16
 capnproto
 capstone
@@ -199,7 +201,9 @@ cyrus-sasl
 dblatex
 dbus
 dbus-broker
+dbus-glib
 dbus-python
+dbus-test-runner
 dconf
 dconf-editor
 dcraw
@@ -236,7 +240,6 @@ dola-transformer
 dos2unix
 dosfstools
 dotconf
-dotnet8.0
 dotnet9.0
 dovecot
 doxygen
@@ -358,6 +361,7 @@ gjs
 glib-networking
 glib2
 glibc
+glibmm2.4
 glibmm2.68
 glslang
 glycin
@@ -446,6 +450,7 @@ gtk-doc
 gtk-vnc
 gtk3
 gtk4
+gtkmm3.0
 gtkmm4.0
 gtksourceview5
 guava
@@ -971,6 +976,7 @@ libsepol
 libserf
 libservicelog
 libshout
+libsigc++20
 libsigc++30
 libslirp
 libsmi
@@ -1311,6 +1317,7 @@ paktype-naskh-basic-fonts
 pam
 pam_wrapper
 pango
+pangomm
 pangomm2.48
 papers
 papi
@@ -1677,6 +1684,7 @@ pyproject-rpm-macros
 pyserial
 pytest
 python-PyMySQL
+python-SecretStorage
 python-alembic
 python-argcomplete
 python-asn1crypto
@@ -1688,6 +1696,8 @@ python-breathe
 python-build
 python-cffi
 python-charset-normalizer
+python-click
+python-coherent-licensed
 python-colorama
 python-configobj
 python-configshell
@@ -1720,6 +1730,10 @@ python-inotify
 python-installer
 python-into-dbus-python
 python-iso639
+python-jaraco-classes
+python-jaraco-context
+python-jaraco-functools
+python-jeepney
 python-jinja2
 python-jmespath
 python-jsonpatch
@@ -1730,6 +1744,7 @@ python-justbases
 python-justbytes
 python-jwcrypto
 python-kdcproxy
+python-keyring
 python-kmod
 python-lark
 python-ldap
@@ -1742,6 +1757,7 @@ python-markdown
 python-markupsafe
 python-meh
 python-meson-python
+python-more-itertools
 python-netaddr
 python-networkx
 python-nihtest
@@ -1757,6 +1773,7 @@ python-pkgconfig
 python-pluggy
 python-ply
 python-podman
+python-portend
 python-prettytable
 python-productmd
 python-prompt-toolkit
@@ -1767,12 +1784,14 @@ python-pyasn1
 python-pycdio
 python-pycotap
 python-pycparser
+python-pyfakefs
 python-pyghmi
 python-pygments
 python-pyproject-hooks
 python-pyproject-metadata
 python-pyqt6
 python-pyqt6-sip
+python-pytest-asyncio
 python-pytest-subtests
 python-pyudev
 python-qrcode
@@ -1797,6 +1816,7 @@ python-semantic_version
 python-setuptools
 python-setuptools-rust
 python-setuptools_scm
+python-shtab
 python-simpleline
 python-six
 python-smartypants
@@ -1806,7 +1826,9 @@ python-sphinx_rtd_theme
 python-sphinxcontrib-jquery
 python-sqlalchemy
 python-systemd
+python-tempora
 python-testpath
+python-tomli-w
 python-tornado
 python-tpm2-pytss
 python-trove-classifiers
@@ -2024,6 +2046,7 @@ sos
 sound-theme-freedesktop
 soundtouch
 source-highlight
+spandsp
 spausedd
 speech-dispatcher
 speex
@@ -2101,6 +2124,7 @@ tog-pegasus
 tokyocabinet
 tomcat
 tomcat-jakartaee-migration
+tomcli
 toml11
 toolbox
 tpm2-abrmd

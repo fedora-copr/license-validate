@@ -1,5 +1,4 @@
 Maintainers by package:
-clementine           eclipseo
 fcitx5-mozc          music yanqiyu
 gstreamer1-doc       limb wtaymans
 kernel               acaringi airlied ajax jcline jforbes jwboyer jwrdegoede kernel-maint linville myoung patrickt sandeen steved
@@ -13,6 +12,7 @@ pypy                 churchyard thrnciar
 ruby                 mtasaka vondruch
 rust-rpick           bowlofeggs
 sssd                 abbra asn atikhonov pbrezina sbose simo
+teem                 music
 texlive              jnovy spot than
 webkitgtk            catanzaro
 
@@ -26,7 +26,6 @@ atikhonov  sssd
 bowlofeggs rust-rpick
 catanzaro  webkitgtk
 churchyard pypy
-eclipseo   clementine
 farchord   kf5-kirigami2
 fcami      openal-soft
 jcline     kernel
@@ -40,7 +39,7 @@ linville   kernel
 ljavorsk   man-pages-l10n
 mfabian    man-pages-l10n
 mtasaka    ruby
-music      fcitx5-mozc
+music      fcitx5-mozc teem
 myoung     kernel
 nforro     man-pages-l10n
 patrickt   kernel
