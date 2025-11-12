@@ -1,18 +1,18 @@
 Maintainers by package:
 fcitx5-mozc          music yanqiyu
+gmm                  sagitter
 gstreamer1-doc       limb wtaymans
 kernel               acaringi airlied ajax jcline jforbes jwboyer jwrdegoede kernel-maint linville myoung patrickt sandeen steved
 kf5-kirigami2        farchord
 lazarus              suve
 lmms                 thm
 man-pages-l10n       ljavorsk mfabian nforro
-mingw-g2clib         smani
 openal-soft          fcami jwrdegoede tdawson
+plasma-settings      farchord
 pypy                 churchyard thrnciar
 ruby                 mtasaka vondruch
 rust-rpick           bowlofeggs
 sssd                 abbra asn atikhonov pbrezina sbose simo
-teem                 music
 texlive              jnovy spot than
 webkitgtk            catanzaro
 
@@ -26,7 +26,7 @@ atikhonov  sssd
 bowlofeggs rust-rpick
 catanzaro  webkitgtk
 churchyard pypy
-farchord   kf5-kirigami2
+farchord   kf5-kirigami2 plasma-settings
 fcami      openal-soft
 jcline     kernel
 jforbes    kernel
@@ -39,15 +39,15 @@ linville   kernel
 ljavorsk   man-pages-l10n
 mfabian    man-pages-l10n
 mtasaka    ruby
-music      fcitx5-mozc teem
+music      fcitx5-mozc
 myoung     kernel
 nforro     man-pages-l10n
 patrickt   kernel
 pbrezina   sssd
+sagitter   gmm
 sandeen    kernel
 sbose      sssd
 simo       sssd
-smani      mingw-g2clib
 spot       texlive
 steved     kernel
 suve       lazarus

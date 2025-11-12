@@ -36,7 +36,6 @@ alsa-utils
 anaconda
 annobin
 ansible-collection-microsoft-sql
-ansible-collection-redhat-rhel_mgmt
 ansible-core
 ansible-freeipa
 ansible-pcp
@@ -48,7 +47,6 @@ apache-commons-beanutils
 apache-commons-cli
 apache-commons-codec
 apache-commons-collections
-apache-commons-collections4
 apache-commons-compress
 apache-commons-io
 apache-commons-jxpath
@@ -71,7 +69,6 @@ aspell
 assertj-core
 at
 at-spi2-core
-atkmm
 attr
 audit
 augeas
@@ -93,7 +90,6 @@ bcc
 bcel
 bdftopcf
 beust-jcommander
-bfscripts
 bind
 bind-dyndb-ldap
 binutils
@@ -127,7 +123,6 @@ c2esp
 ca-certificates
 cachefilesd
 cairo
-cairomm
 cairomm1.16
 capnproto
 capstone
@@ -312,7 +307,6 @@ fmt
 foma
 fontawesome4-fonts
 fontconfig
-fontforge
 fonts-rpm-macros
 fonttools
 foomatic
@@ -361,7 +355,6 @@ gjs
 glib-networking
 glib2
 glibc
-glibmm2.4
 glibmm2.68
 glslang
 glycin
@@ -450,7 +443,6 @@ gtk-doc
 gtk-vnc
 gtk3
 gtk4
-gtkmm3.0
 gtkmm4.0
 gtksourceview5
 guava
@@ -673,7 +665,6 @@ iniparser
 initscripts
 insights-client
 insights-core
-insights-core-selinux
 intel-cmt-cat
 intel-lpmd
 intltool
@@ -948,6 +939,7 @@ libpciaccess
 libpfm
 libpinyin
 libpipeline
+libpkgmanifest
 libpng
 libportal
 libppd
@@ -976,7 +968,6 @@ libsepol
 libserf
 libservicelog
 libshout
-libsigc++20
 libsigc++30
 libslirp
 libsmi
@@ -984,7 +975,6 @@ libsndfile
 libsolv
 libsoup3
 libspelling
-libspiro
 libsrtp
 libssh
 libstoragemgmt
@@ -1161,7 +1151,6 @@ mingw-zlib
 minicom
 mkfontscale
 mksh
-mlxbf-bootctl
 mm-common
 mobile-broadband-provider-info
 mockito
@@ -1224,7 +1213,6 @@ nfs4-acl-tools
 nftables
 nghttp2
 nginx
-ngtcp2
 ninja-build
 nmap
 nmstate
@@ -1295,7 +1283,6 @@ openssl
 openssl-fips-provider
 openssl-ibmca
 opentelemetry-collector
-opentelemetry-collector-cloudwatch-config
 opentest4j
 openwsman
 opus
@@ -1317,7 +1304,6 @@ paktype-naskh-basic-fonts
 pam
 pam_wrapper
 pango
-pangomm
 pangomm2.48
 papers
 papi
@@ -1416,7 +1402,6 @@ perl-File-Which
 perl-File-pushd
 perl-Filter
 perl-Filter-Simple
-perl-Font-TTF
 perl-GSSAPI
 perl-Getopt-Long
 perl-HTML-Parser
@@ -1435,7 +1420,6 @@ perl-IO-Multiplex
 perl-IO-Socket-INET6
 perl-IO-Socket-IP
 perl-IO-Socket-SSL
-perl-IO-String
 perl-IO-Tty
 perl-IO-Zlib
 perl-IO-stringy
@@ -1761,6 +1745,7 @@ python-more-itertools
 python-netaddr
 python-networkx
 python-nihtest
+python-nose2
 python-oauthlib
 python-packaging
 python-pam
@@ -1785,13 +1770,11 @@ python-pycdio
 python-pycotap
 python-pycparser
 python-pyfakefs
-python-pyghmi
 python-pygments
 python-pyproject-hooks
 python-pyproject-metadata
 python-pyqt6
 python-pyqt6-sip
-python-pytest-asyncio
 python-pytest-subtests
 python-pyudev
 python-qrcode
@@ -1821,6 +1804,7 @@ python-simpleline
 python-six
 python-smartypants
 python-sphinx
+python-sphinx-issues
 python-sphinx-theme-alabaster
 python-sphinx_rtd_theme
 python-sphinxcontrib-jquery
@@ -2219,7 +2203,6 @@ wireguard-tools
 wireless-regdb
 wireplumber
 wireshark
-woff2
 woodstox-core
 words
 wpa_supplicant
@@ -2278,6 +2261,7 @@ xwayland-run
 xxhash
 xz
 xz-java
+yaml-cpp
 yara
 yelp-tools
 yelp-xsl

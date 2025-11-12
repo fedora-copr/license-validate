@@ -70,7 +70,6 @@ awesome
 awesome-vim-colorschemes
 ax25-apps
 badchars
-badwolf
 ballz
 bam
 bash-argsparse
@@ -139,7 +138,6 @@ cdparanoia
 cdparanoia
 cegui06
 cekit
-celt051
 CFR
 cgreen
 c++-gtk-utils
@@ -419,7 +417,6 @@ feh
 fennel
 fgrun
 fido
-figlet
 figtoipe
 firefox
 firewalk
@@ -547,6 +544,7 @@ glues
 glyphicons-halflings-fonts
 glyph-keeper
 gmime
+gmm
 gnat-srpm-macros
 gnome-bluetooth3.34
 gnome-builder
@@ -583,7 +581,6 @@ golang-github-afex-hystrix
 golang-github-akamensky-argparse
 golang-github-akavel-rsrc
 golang-github-alecaivazis-survey-2
-golang-github-alecthomas-assert
 golang-github-alecthomas-colour
 golang-github-alecthomas-chroma
 golang-github-alecthomas-kong-hcl
@@ -636,7 +633,6 @@ golang-github-blang-semver
 golang-github-bmatcuk-doublestar-3
 golang-github-bmizerany-assert
 golang-github-boombuler-barcode
-golang-github-bradenhilton-cityhash
 golang-github-bradfitz-iter
 golang-github-bruth-assert
 golang-github-bshuster-repo-logrus-logstash-hook
@@ -668,7 +664,6 @@ golang-github-cockroachdb-sentry
 golang-github-codegangsta-inject
 golang-github-colinmarc-hdfs-2
 golang-github-coreos-ioprogress
-golang-github-cosiner-argv
 golang-github-cpu-goacmedns
 golang-github-cpuguy83-md2man
 golang-github-creack-goselect
@@ -708,7 +703,6 @@ golang-github-docker-slim-uilive
 golang-github-docker-slim-uiprogress
 golang-github-docker-slim-update
 golang-github-docopt
-golang-github-dpotapov-spnego
 golang-github-dropbox-sdk-unofficial
 golang-github-droundy-goopt
 golang-github-dsnet-golib
@@ -769,8 +763,6 @@ golang-github-gin-contrib-sse
 golang-github-gin-gonic
 golang-github-git-gcfg
 golang-github-git-lfs-gitobj-2
-golang-github-git-lfs-netrc
-golang-github-git-lfs-pktline
 golang-github-git-lfs-wildmatch-2
 golang-github-glendc-gopher-json
 golang-github-globalsign-mgo
@@ -827,8 +819,6 @@ golang-github-hexdigest-gowrap
 golang-github-hhrutter-lzw
 golang-github-hhrutter-tiff
 golang-github-hinshun-vt10x
-golang-github-hsiafan-glow
-golang-github-hsiafan-vlog
 golang-github-huandu-xstrings
 golang-github-hudl-fargo
 golang-github-hugelgupf-socketpair
@@ -1081,7 +1071,6 @@ golang-github-sabhiram-gitignore
 golang-github-saintfish-chardet
 golang-github-samuel-zookeeper
 golang-github-sanity-io-litter
-golang-github-saracen-walker
 golang-github-sean-seed
 golang-github-segmentio-ksuid
 golang-github-sevlyar-daemon
@@ -1120,10 +1109,8 @@ golang-github-sourcegraph-jsonrpc2
 golang-github-sourcegraph-syntaxhighlight
 golang-github-spf13-cast
 golang-github-spf13-fsync
-golang-github-spf13-jwalterweatherman
 golang-github-spf13-viper
 golang-github-spyzhov-ajson
-golang-github-ssgelm-cookiejarparser
 golang-github-ssor-bom
 golang-github-stack
 golang-github-stathat
@@ -1344,7 +1331,6 @@ icc-profiles-basiccolor-printing2009
 icc-profiles-openicc
 icestorm
 id3lib
-igt-gpu-tools
 iguanaIR
 ImageMagick
 imapsync
@@ -1512,11 +1498,9 @@ kspaceduel
 ksquares
 kstart
 ksudoku
-ktikz
 kubrick
 kuserfeedback
 kuser
-kvirc
 kwave
 kwave
 kwayland-server
@@ -1700,7 +1684,6 @@ libu2f-host
 libu2f-server
 libva-utils
 libva-v4l2-request
-libvdpau-va-gl
 libvidcap
 libvirt-java
 libvirt-python
@@ -1885,7 +1868,6 @@ mingw-gsl
 mingw-gsm
 mingw-gtkmm24
 mingw-gtksourceview3
-mingw-g2clib
 mingw-hamlib
 mingw-harfbuzz
 mingw-id3lib
@@ -2267,7 +2249,6 @@ perl-XML-Atom-OWL
 perl-XML-LibXML-Debugging
 perl-XML-LibXML-Devel-SetLineNumber
 perl-XML-LibXML-PrettyPrint
-perl-YUM-RepoQuery
 pew
 pfstools
 pg_activity
@@ -2493,7 +2474,6 @@ python-AppTools
 python-APScheduler
 python-apypie
 python-archinfo
-python-arpeggio
 python-arpy
 python-asciitree
 python-ase
@@ -2678,7 +2658,6 @@ python-django-crispy-forms
 python-django-database-url
 python-django-debreach
 python-django-debug-toolbar
-python-django-email-url
 python-django-formtools
 python-django-gravatar2
 python-django-health-check
@@ -2910,7 +2889,6 @@ python-mwclient
 python-myhdl
 python-nashpy
 python-natsort
-python-nbclient
 python-nbformat
 python-netdisco
 python-netmiko
@@ -2945,7 +2923,6 @@ python-pam
 python-parse_type
 python-parsimonious
 python-parsley
-python-parver
 python-paste-deploy
 python-paste-script
 python-paste
@@ -3495,12 +3472,10 @@ rttr
 R-tweenr
 rubygem-ansi
 rubygem-bcrypt_pbkdf
-rubygem-bcrypt
 rubygem-cookiejar
 rubygem-curb
 rubygem-haml
 rubygem-hashery
-rubygem-hiredis
 rubygem-hitimes
 rubygem-http_parser.rb
 rubygem-idn
@@ -3691,8 +3666,6 @@ tcptrack
 tcputils
 tcp_wrappers
 tdom
-teem
-teem
 teeworlds
 tegrarcm
 telepathy-gabble
@@ -3868,7 +3841,6 @@ xbanish
 xbar
 xbg
 xblas
-xbsql
 xcalc
 xca
 xcat
@@ -3954,7 +3926,6 @@ youtube-dl
 yubikey-personalization-gui
 yubikey-val
 zaz
-zezere
 zfp
 zipios++
 znc-push

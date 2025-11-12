@@ -470,7 +470,6 @@ BackupPC
 BackupPC-XS
 bacula
 badchars
-badwolf
 baekmuk-bdf-fonts
 baekmuk-ttf-fonts
 ballbuster
@@ -806,7 +805,6 @@ cdw
 cegui06
 cekit
 cellwriter
-celt051
 centerim
 centos-packager
 centpkg
@@ -1443,7 +1441,6 @@ dogtag-pki
 dogtail
 doh
 dokuwiki
-dolfin
 dolphin-connector
 dolphin-emu
 dolphin-plugins
@@ -3230,6 +3227,7 @@ gmailctl
 gmic
 gmime
 gmime30
+gmm
 gmp-ecm
 gmp
 gmsh
@@ -3431,7 +3429,6 @@ golang-github-akamai-akamaiopen-edgegrid
 golang-github-akamensky-argparse
 golang-github-akavel-rsrc
 golang-github-alecaivazis-survey-2
-golang-github-alecthomas-assert
 golang-github-alecthomas-colour
 golang-github-alecthomas-chroma
 golang-github-alecthomas-kong-hcl
@@ -3502,7 +3499,6 @@ golang-github-blang-semver
 golang-github-bmatcuk-doublestar-3
 golang-github-bmizerany-assert
 golang-github-boombuler-barcode
-golang-github-bradenhilton-cityhash
 golang-github-bradfitz-gomemcache
 golang-github-bradfitz-iter
 golang-github-briandowns-spinner
@@ -3566,7 +3562,6 @@ golang-github-coreos-pkg
 golang-github-coreos-semver
 golang-github-coreos-systemd
 golang-github-cornelk-hashmap
-golang-github-cosiner-argv
 golang-github-cpu-goacmedns
 golang-github-cpuguy83-md2man
 golang-github-creack-goselect
@@ -3623,7 +3618,6 @@ golang-github-docker-slim-uiprogress
 golang-github-docker-slim-update
 golang-github-docker-units
 golang-github-docopt
-golang-github-dpotapov-spnego
 golang-github-dreamacro-shadowsocks2
 golang-github-dropbox-sdk-unofficial
 golang-github-droundy-goopt
@@ -3711,8 +3705,6 @@ golang-github-git-billy-5
 golang-github-git-fixtures-4
 golang-github-git-gcfg
 golang-github-git-lfs-gitobj-2
-golang-github-git-lfs-netrc
-golang-github-git-lfs-pktline
 golang-github-git-lfs-wildmatch-2
 golang-github-glendc-gopher-json
 golang-github-gliderlabs-ssh
@@ -3833,8 +3825,6 @@ golang-github-hhrutter-lzw
 golang-github-hhrutter-tiff
 golang-github-hinshun-vt10x
 golang-github-hooklift-assert
-golang-github-hsiafan-glow
-golang-github-hsiafan-vlog
 golang-github-huandu-xstrings
 golang-github-hudl-fargo
 golang-github-hugelgupf-socketpair
@@ -4216,7 +4206,6 @@ golang-github-safchain-ethtool
 golang-github-saintfish-chardet
 golang-github-samuel-zookeeper
 golang-github-sanity-io-litter
-golang-github-saracen-walker
 golang-github-seandolphin-bqschema
 golang-github-sean-seed
 golang-github-seccomp-libseccomp
@@ -4265,13 +4254,11 @@ golang-github-spf13-afero
 golang-github-spf13-cast
 golang-github-spf13-cobra
 golang-github-spf13-fsync
-golang-github-spf13-jwalterweatherman
 golang-github-spf13-pflag
 golang-github-spf13-viper
 golang-github-spyzhov-ajson
 golang-github-sql-civil
 golang-github-sql-driver-mysql
-golang-github-ssgelm-cookiejarparser
 golang-github-ssor-bom
 golang-github-stack
 golang-github-stathat
@@ -4414,10 +4401,8 @@ golang-gopkg-inf-0
 golang-gopkg-ini-1
 golang-gopkg-jcmturner-aescts-1
 golang-gopkg-jcmturner-dnsutils-1
-golang-gopkg-jcmturner-goidentity-2
 golang-gopkg-jcmturner-goidentity-3
 golang-gopkg-jcmturner-gokrb5-7
-golang-gopkg-jcmturner-rpc-0
 golang-gopkg-jcmturner-rpc-1
 golang-gopkg-logex-1
 golang-gopkg-macaron-1
@@ -6184,7 +6169,6 @@ libfabric
 libfakekey
 libfaketime
 libfastjson
-libfc14audiodecoder
 libfep
 libffado
 libffi
@@ -6500,6 +6484,7 @@ libptytty
 libpwquality
 libqalculate
 libqb
+libQGLViewer
 libqmi
 libqrtr-glib
 libqtxdg
@@ -6687,7 +6672,6 @@ libva
 libva-utils
 libva-v4l2-request
 libvdpau
-libvdpau-va-gl
 libvidcap
 libvirt-dbus
 libvirt-glib
@@ -7205,7 +7189,6 @@ maxima
 Mayavi
 mbedtls
 mbox-importer
-mbpfan
 mbuffer
 mb2md
 mcabber
@@ -7254,7 +7237,6 @@ memtailor
 memtester
 memtest86+
 menu-cache
-menulibre
 mercurial
 merkaartor
 mesa-demos
@@ -7737,7 +7719,6 @@ mpich
 mpi4py
 mplus-fonts
 mpop
-mppenc
 mpqc
 mpris-scrobbler
 mpsolve
@@ -8045,7 +8026,6 @@ nordugrid-arc
 normaliz
 nosync
 notcurses
-notekit
 notification-daemon
 notify-sharp
 notify-sharp3
@@ -12398,6 +12378,7 @@ python-alembic
 python-allpairspy
 python-alsa
 python-amqp
+python-ana
 python-animatplot
 python-aniso8601
 python-annexremote
@@ -12422,7 +12403,6 @@ python-argcomplete
 python-argon2-cffi
 python-argopt
 python-archinfo
-python-arpeggio
 python-arpy
 python-arrow
 python-arviz
@@ -12877,6 +12857,7 @@ python-django-uuslug
 python-dkimpy
 python-dmidecode
 python-dns-lexicon
+python-dnslib
 python-dns
 python-dockerfile-parse
 python-dockerpty
@@ -12898,6 +12879,7 @@ python-drgn
 python-dropbox
 python-dtopt
 python-ducc0
+python-duecredit
 python-dulwich
 python-d2to1
 python-easyargs
@@ -12961,7 +12943,6 @@ python-fauxquests
 python-feedgenerator
 python-feedgen
 python-feedparser
-python-ffc
 python-fido2
 python-fields
 python-filecheck
@@ -13554,7 +13535,6 @@ python-parsimonious
 python-parsley
 python-parso
 python-partd
-python-parver
 python-passlib
 python-paste-deploy
 python-paste-script
@@ -15262,7 +15242,6 @@ rubygem-hashery
 rubygem-hashicorp-checkpoint
 rubygem-hiera-vault
 rubygem-highline
-rubygem-hiredis
 rubygem-hitimes
 rubygem-hocon
 rubygem-httpclient
@@ -17871,7 +17850,6 @@ xblas
 xblast-data
 xblast
 xboard
-xbsql
 xcalc
 xca
 xcat
@@ -18229,7 +18207,6 @@ zenon
 zerofree
 zeromq-ada
 zeromq
-zezere
 zfp
 zfstream
 zchunk
