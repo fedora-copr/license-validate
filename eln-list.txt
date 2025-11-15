@@ -196,9 +196,7 @@ cyrus-sasl
 dblatex
 dbus
 dbus-broker
-dbus-glib
 dbus-python
-dbus-test-runner
 dconf
 dconf-editor
 dcraw
@@ -1668,7 +1666,6 @@ pyproject-rpm-macros
 pyserial
 pytest
 python-PyMySQL
-python-SecretStorage
 python-alembic
 python-argcomplete
 python-asn1crypto
@@ -1680,8 +1677,6 @@ python-breathe
 python-build
 python-cffi
 python-charset-normalizer
-python-click
-python-coherent-licensed
 python-colorama
 python-configobj
 python-configshell
@@ -1714,10 +1709,6 @@ python-inotify
 python-installer
 python-into-dbus-python
 python-iso639
-python-jaraco-classes
-python-jaraco-context
-python-jaraco-functools
-python-jeepney
 python-jinja2
 python-jmespath
 python-jsonpatch
@@ -1728,7 +1719,6 @@ python-justbases
 python-justbytes
 python-jwcrypto
 python-kdcproxy
-python-keyring
 python-kmod
 python-lark
 python-ldap
@@ -1741,11 +1731,9 @@ python-markdown
 python-markupsafe
 python-meh
 python-meson-python
-python-more-itertools
 python-netaddr
 python-networkx
 python-nihtest
-python-nose2
 python-oauthlib
 python-packaging
 python-pam
@@ -1758,7 +1746,6 @@ python-pkgconfig
 python-pluggy
 python-ply
 python-podman
-python-portend
 python-prettytable
 python-productmd
 python-prompt-toolkit
@@ -1769,7 +1756,6 @@ python-pyasn1
 python-pycdio
 python-pycotap
 python-pycparser
-python-pyfakefs
 python-pygments
 python-pyproject-hooks
 python-pyproject-metadata
@@ -1799,20 +1785,16 @@ python-semantic_version
 python-setuptools
 python-setuptools-rust
 python-setuptools_scm
-python-shtab
 python-simpleline
 python-six
 python-smartypants
 python-sphinx
-python-sphinx-issues
 python-sphinx-theme-alabaster
 python-sphinx_rtd_theme
 python-sphinxcontrib-jquery
 python-sqlalchemy
 python-systemd
-python-tempora
 python-testpath
-python-tomli-w
 python-tornado
 python-tpm2-pytss
 python-trove-classifiers
@@ -1826,6 +1808,7 @@ python-websockets
 python-wheel
 python-xkbregistry
 python-yubico
+python-zstandard
 python3-mallard-ducktype
 python3.13
 python3.14
@@ -2108,7 +2091,6 @@ tog-pegasus
 tokyocabinet
 tomcat
 tomcat-jakartaee-migration
-tomcli
 toml11
 toolbox
 tpm2-abrmd
