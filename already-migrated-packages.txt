@@ -113,6 +113,7 @@ alexandria
 alex
 alexvsbus
 alex4
+alglib
 algobox
 algol68g
 alienarena
@@ -250,7 +251,6 @@ apiguardian
 api-sanity-checker
 apk-tools
 APLpy
-appeditor
 applet-window-buttons
 appliance-tools
 appmenu-qt5
@@ -1272,7 +1272,6 @@ deepin-account-faces
 deepin-api
 deepin-calculator
 deepin-calendar
-deepin-daemon
 deepin-desktop-base
 deepin-desktop-schemas
 deepin-draw
@@ -1296,6 +1295,7 @@ deepin-shortcut-viewer
 deepin-sound-theme
 deepin-system-monitor
 deepin-terminal
+deepin-tray-loader
 deepin-util-dfm
 deepin-wallpapers
 deepin-wayland-protocols
@@ -1322,6 +1322,7 @@ d-feet
 dftd4
 dfu-util
 dfuzzer
+dfx-mgr
 dgae
 dgit
 dhall-json
@@ -1604,6 +1605,7 @@ elementary-notifications
 elementary-onboarding
 elementary-photos
 elementary-screenshot
+elementary-settings-daemon
 elementary-xfce-icon-theme
 elfutils
 elinks
@@ -1806,6 +1808,7 @@ evolution-ews
 evolution-rspam
 evolution
 evtest
+evtgen
 exaile
 exec-maven-plugin
 execstack
@@ -3473,7 +3476,6 @@ golang-github-buger-goterm
 golang-github-bwesterb-ristretto
 golang-github-casbin-2
 golang-github-cenkalti-backoff4
-golang-github-cenkalti-backoff5
 golang-github-census-instrumentation-opencensus-proto
 golang-github-census-instrumentation-opencensus-proto-0.2
 golang-github-cespare-xxhash2
@@ -4431,6 +4433,7 @@ hunspell-af
 hunspell-ak
 hunspell-am
 hunspell-ar
+hunspell-as
 hunspell-ast
 hunspell-az
 hunspell-ber
@@ -4718,7 +4721,6 @@ iftop
 ifuse
 ignition
 igraph
-igsc
 igt-gpu-tools
 igvm
 iio-sensor-proxy
@@ -4778,6 +4780,7 @@ inspektor-gadget
 intel-clear-sans-fonts
 intel-cmt-cat
 intel-gmmlib
+intel-gsc
 intel-ipp-crypto-mb
 intel-ipsec-mb
 intel-level-zero-gpu-raytracing
@@ -5027,6 +5030,7 @@ kaidan
 kaichat
 kajongg
 kakasi
+kalamine
 kalarm
 kalgebra
 kalk
@@ -5065,6 +5069,7 @@ kcolorpicker
 kcov
 kcron
 kdbg
+KDBindings
 kddockwidgets
 kdebase3
 kde-cli-tools
@@ -5676,6 +5681,7 @@ libdecor
 libdeflate
 libdex
 libdfp
+libdfx
 libdicom
 libdiscid
 libdispatch
@@ -7928,7 +7934,6 @@ padthv1
 pageedit
 pagmo2
 pagure-cli
-pagure-dist-git
 pagure-exporter
 paho-cpp
 paho-c
@@ -8782,6 +8787,7 @@ perl-DateTime-TimeZone-Tzfile
 perl-DateTime-Tiny
 perl-DateTimeX-Easy
 perl-Date-Tiny
+perl-DBD-Cassandra
 perl-DBD-CSV
 perl-DBD-Firebird
 perl-DBD-MariaDB
@@ -9339,6 +9345,11 @@ perl-HTTP-Tiny
 perl-Chart
 perl-Chatbot-Eliza
 perl-Check-ISA
+perl-Chemistry-Bond-Find
+perl-Chemistry-Canonicalize
+perl-Chemistry-Isotope
+perl-Chemistry-Mol
+perl-Chemistry-Pattern
 perl-Child
 perl-CHI
 perl-iCal-Parser
@@ -9558,6 +9569,7 @@ perl-Log-Log4perl-Appender-Socket-UNIX
 perl-Log-Log4perl
 perl-Log-Message-Simple
 perl-Log-Message
+perl-Log-Report-Lexicon
 perl-Log-Report-Optional
 perl-Log-Report
 perl-Log-TraceMessages
@@ -9643,6 +9655,7 @@ perl-Math-Spline
 perl-Math-Symbolic
 perl-Math-Utils
 perl-Math-Vec
+perl-Math-VectorReal
 perl-match-simple
 perl-match-simple-XS
 perl-MaxMind-DB-Common
@@ -10412,6 +10425,7 @@ perl-Statistics-CaseResampling
 perl-Statistics-Contingency
 perl-Statistics-Descriptive
 perl-Statistics-ChiSquare
+perl-Statistics-Regression
 perl-STD
 perl-Storable
 perl-Storm
@@ -11163,7 +11177,6 @@ php-pear-Image-Text
 php-pear-Mail-Mime
 php-pear-Mail
 php-pear-Net-IMAP
-php-pear-Net-Sieve
 php-pear-Net-SMTP
 php-pear-Net-Socket
 php-pear-OLE
@@ -11396,6 +11409,7 @@ pipepanic
 piper
 pipewalker
 pipewire-media-session
+pipewire
 pipx
 pisg
 pitivi
@@ -11835,7 +11849,9 @@ python-aw-qt
 python-awscrt
 python-axolotl-curve25519
 python-axolotl
+python-azure-ai-agents
 python-azure-ai-formrecognizer
+python-azure-ai-projects
 python-azure-ai-textanalytics
 python-azure-appconfiguration
 python-azure-batch
@@ -12378,6 +12394,7 @@ python-grpc-google-iam-v1
 python-grpcio-gcp
 python-gsd
 python-gssapi
+python-gsw
 python-guessit
 python-hacking
 python-hamcrest
@@ -12600,6 +12617,7 @@ python-listparser
 python-littleutils
 python-llama-cpp-python
 python-llfuse
+python-llm-echo
 python-llm
 python-llvmlite
 python-localzone
@@ -12929,6 +12947,7 @@ python-pretty-yaml
 python-productmd
 python-progressbar2
 python-prometheus_client
+python-promptml
 python-prompt-toolkit
 python-propcache
 python-protego
@@ -14082,7 +14101,6 @@ rdma-core
 R-docopt
 R-doMC
 R-doParallel
-rdopkg
 RdRand
 R-DT
 R-DynDoc
@@ -14991,10 +15009,12 @@ rust-assert2
 rust-associative-cache
 rust-astral_async_http_range_reader
 rust-astral_async_zip
+rust-astral-pubgrub
 rust-astral-reqwest-middleware
 rust-astral-reqwest-retry
 rust-astral-tl
 rust-astral-tokio-tar
+rust-astral-version-ranges
 rust-async-attributes
 rust-async-broadcast
 rust-async-compression
@@ -15380,6 +15400,7 @@ rust-crc16
 rust-crc32fast
 rust-crc64
 rust-critical-section
+rust-croner
 rust-crossbeam-deque
 rust-crossbeam-epoch
 rust-crossbeam-channel
@@ -15445,7 +15466,6 @@ rust-darling
 rust-darling0.13
 rust-dary_heap
 rust-dashmap
-rust-dashmap4
 rust-dashmap5
 rust-databake-derive
 rust-databake
@@ -15644,7 +15664,7 @@ rust-fallible-iterator
 rust-fallible-streaming-iterator
 rust-fancy-regex
 rust-fancy-regex0.11
-rust-fancy-regex0.7
+rust-fastbloom
 rust-faster-hex
 rust-fastrand
 rust-fastrand1
@@ -16193,6 +16213,7 @@ rust-i18n-config
 rust-i18n-embed-fl
 rust-i18n-embed-impl
 rust-i18n-embed
+rust-jaarg
 rust-jiff
 rust-jiter
 rust-jiter0.11
@@ -16376,6 +16397,7 @@ rust-lv2-units
 rust-lv2-urid
 rust-lv2-worker
 rust-lzma-rs
+rust-lzma-rust2
 rust-lzma-sys
 rust-lz4
 rust-lz4-sys
@@ -16422,6 +16444,7 @@ rust-memoffset
 rust-memoffset0.6
 rust-memoffset0.7
 rust-memsec
+rust-mesa3d_util
 rust-metrics-exporter-prometheus
 rust-metrics
 rust-metrics-util
@@ -16634,6 +16657,7 @@ rust-orion
 rust-os_display
 rust-os_info
 rust-os_pipe
+rust-ossl
 rust-os_str_bytes
 rust-os_str_bytes6
 rust-ouroboros_macro
@@ -16921,6 +16945,7 @@ rust-qapi
 rust-qapi-spec
 rust-qemu-display
 rust-qemu-rdp
+rust-qlog
 rust-qoi
 rust-qstring
 rust-quanta
@@ -17048,8 +17073,6 @@ rust-resctl-demo
 rust-resctrlfs
 rust-resize
 rust-resolv-conf
-rust-result-like-derive
-rust-result-like
 rust-retry-policies
 rust-retry
 rust-revision-derive
@@ -17086,6 +17109,7 @@ rust-rpassword5
 rust-rpds
 rust-rpki
 rust-rpm-sequoia
+rust-rprompt
 rust-rqrr
 rust-rsa
 rust-rsconf
@@ -17134,6 +17158,7 @@ rust-rustls-pemfile
 rust-rustls-pemfile1
 rust-rustls-pki-types
 rust-rustls-platform-verifier
+rust-rustls-platform-verifier0.5
 rust-rustls
 rust-rustls-webpki
 rust-rustls-webpki0.101
@@ -17373,6 +17398,7 @@ rust-speedate
 rust-spin_on
 rust-spin_sleep
 rust-spin
+rust-spin0.9
 rust-spki
 rust-spm_precompiled
 rust-sptr
@@ -17552,7 +17578,6 @@ rust-tinyvec
 rust-titlecase
 rust-tl
 rust-tokei
-rust-tokei12
 rust-tokenizers
 rust-tokio-macros
 rust-tokio-native-tls
@@ -19089,6 +19114,7 @@ ulauncher
 ultimarc
 ultimatestunts
 umbrello
+umoci
 umockdev
 unbound
 un-core-fonts
@@ -19518,6 +19544,7 @@ xaos
 xapian-bindings
 xapian-core
 xapps
+xapp-symbolic-icons
 xarchiver
 xa
 xastir
