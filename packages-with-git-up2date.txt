@@ -1309,6 +1309,7 @@ cri-tools1.31
 cri-tools1.32
 cri-tools1.33
 cri-tools1.34
+cri-tools1.35
 criu
 cr-marcstevens-snippets
 crm114
@@ -1343,6 +1344,7 @@ cryfs
 cryptlib
 cryptobone
 cryptominisat
+cryptopant
 crypto-policies
 cryptopp
 cryptsetup
@@ -1661,6 +1663,7 @@ dnf-plugins-extras
 dnf-repo
 dnf
 dnf5
+dnscap
 DNS-Compliance-Testing
 dnsconfd
 dnscrypt-proxy
@@ -2151,6 +2154,7 @@ etckeeper
 eterm
 etherape
 ethos
+ethq
 ethtool
 eth-tools
 ETL
@@ -13569,6 +13573,7 @@ php-tecnickcom-tc-lib-color
 php-theseer-autoload
 php-theseer-directoryscanner
 php-theseer-tokenizer
+php-theseer-tokenizer2
 php-twig
 phpunit10
 phpunit11
@@ -15124,6 +15129,7 @@ python-invoke
 python-iowait
 python-ipcqueue
 python-ipfshttpclient
+python-iplotx
 python-ipmi
 python-ipuz
 python-ipykernel
@@ -15334,7 +15340,6 @@ python-markdown-include
 python-markdown-it-py
 python-markdown-math
 python-markdown
-python-markdown_2
 python-markdown2
 python-markupsafe
 python-Mastodon
@@ -15544,6 +15549,7 @@ python-opcodes
 python-openai
 python-openant
 python-openapi-core
+python-openapi-pydantic
 python-openapi-schema-validator
 python-openapi-spec-validator
 python-opencensus-proto
@@ -17870,11 +17876,9 @@ rubygem-sqlite3
 rubygems
 rubygem-stomp
 rubygem-sugarjar
-rubygem-sync
 rubygem-sys-filesystem
 rubygem-systemu
 rubygem-sys-uname
-rubygem-term-ansicolor
 rubygem-test-unit-notify
 rubygem-test-unit-rr
 rubygem-test-unit-ruby-core
@@ -17951,7 +17955,6 @@ rust-alacritty_config
 rust-alacritty
 rust-alacritty_terminal
 rust-alga_derive
-rust-alga
 rust-aligned-vec
 rust-allocator-api2
 rust-alloc-no-stdlib
@@ -17977,7 +17980,6 @@ rust-anyhow
 rust-appdirs
 rust-app_dirs2
 rust-appendlist
-rust-append-only-vec
 rust-apple-bom
 rust-apple-bundles
 rust-apple-dmg
@@ -18181,6 +18183,7 @@ rust-blsctl
 rust-bmart-derive
 rust-bmart
 rust-bootupd
+rust-borrow-or-share
 rust-boxcar
 rust-bpaf_derive
 rust-bpaf
@@ -18307,11 +18310,8 @@ rust-clap3
 rust-clearscreen
 rust-clippy-sarif
 rust-clircle
-rust-cli-table-derive
-rust-cli-table
 rust-clock-steering
 rust-clru
-rust-cluFlock
 rust-cmac
 rust-cmake
 rust-cmd_lib_macros
@@ -18340,7 +18340,6 @@ rust-compare
 rust-compose_spec_macros
 rust-compose_spec
 rust-compress-tools
-rust-concat-idents
 rust-concolor-override
 rust-concolor-query
 rust-concolor
@@ -18354,7 +18353,6 @@ rust-confy
 rust-constant_time_eq
 rust-constcat
 rust-const-cstr
-rust-const_fn
 rust-const-oid
 rust-const-random-macro
 rust-const-random
@@ -18440,6 +18438,7 @@ rust-cxxbridge-macro
 rust-cxx-build
 rust-cxx-gen
 rust-cxx
+rust-cyclonedx-bom-macros
 rust-daemonize
 rust-darling_core0.13
 rust-darling_macro0.13
@@ -18564,6 +18563,7 @@ rust-encoding_rs_io
 rust-encoding_rs
 rust-endian-num
 rust-endi
+rust-entropy
 rust-enum-as-inner
 rust-enumber
 rust-enum_dispatch
@@ -18658,6 +18658,7 @@ rust-fluent-bundle
 rust-fluent-langneg
 rust-fluent
 rust-fluent-syntax
+rust-fluent-uri
 rust-flume
 rust-fnv
 rust-foldhash
@@ -18881,7 +18882,6 @@ rust-gufo-xmp
 rust-gvdb-macros
 rust-gvdb
 rust-gweather-sys
-rust-gzip-header
 rust-gzp
 rust-g2gen
 rust-g2poly
@@ -18910,7 +18910,6 @@ rust-heapsize
 rust-heck
 rust-heck0.3
 rust-heck0.4
-rust-hexf-parse
 rust-hex-literal-impl
 rust-hex-literal
 rust-hex-literal0.2
@@ -19208,7 +19207,6 @@ rust-libz-rs-sys
 rust-libz-sys
 rust-lifeguard
 rust-line-numbers
-rust-line-wrap
 rust-linicon
 rust-linicon-theme
 rust-link-cplusplus
@@ -19274,7 +19272,6 @@ rust-manyhow
 rust-maplit
 rust-markup5ever
 rust-markup5ever0.11
-rust-match_cfg
 rust-matchers
 rust-matchit
 rust-matchit0.7
@@ -19665,6 +19662,7 @@ rust-pulldown-cmark-escape
 rust-pulldown-cmark0.11
 rust-punycode
 rust-pure-rust-locales
+rust-purl
 rust-pwd
 rust-pxfm
 rust-pyo3-async-runtimes-macros
@@ -20005,7 +20003,6 @@ rust-serde_tuple
 rust-serde_tuple0.5
 rust-serde-untagged
 rust-serde_urlencoded
-rust-serde_url_params
 rust-serde_with_macros
 rust-serde_with_macros1
 rust-serde_with
@@ -20619,7 +20616,6 @@ rust-xdg2
 rust-xi-unicode
 rust-xkbcommon-dl
 rust-xkeysym
-rust-xmlparser
 rust-xml5ever
 rust-xml5ever0.17
 rust-xterm-query
@@ -20675,6 +20671,7 @@ rust-zip2
 rust-zlib-rs
 rust-zlink-core
 rust-zlink-macros
+rust-zlink-smol
 rust-zlink
 rust-zlink-tokio
 rust-zopfli
@@ -21251,6 +21248,7 @@ spoofdpi
 spor
 spread-sheet-widget
 springlobby
+sprout
 spyder
 sqlcipher
 sqlgrey
@@ -21748,7 +21746,6 @@ tor
 tortoisehg
 totem-pl-parser
 totem
-totpcgi
 touchcal
 touchegg
 toxcore

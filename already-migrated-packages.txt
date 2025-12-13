@@ -1111,6 +1111,7 @@ cri-tools1.31
 cri-tools1.32
 cri-tools1.33
 cri-tools1.34
+cri-tools1.35
 criu
 cr-marcstevens-snippets
 crm114
@@ -1142,6 +1143,7 @@ cryfs
 cryptlib
 cryptobone
 cryptominisat
+cryptopant
 crypto-policies
 cryptopp
 cryptsetup
@@ -1413,6 +1415,7 @@ dnf-plugins-extras
 dnf-repo
 dnf
 dnf5
+dnscap
 DNS-Compliance-Testing
 dnsconfd
 dnscrypt-proxy
@@ -1794,6 +1797,7 @@ etcd
 etckeeper
 etherape
 ethos
+ethq
 ethtool
 eth-tools
 ETL
@@ -2459,6 +2463,7 @@ gfs2-utils
 gftp
 gfxstream
 gf2x
+ggz-base-libs
 ghc-abstract-deque
 ghc-abstract-par
 ghc-adjunctions
@@ -11357,6 +11362,7 @@ php-tecnickcom-tc-lib-color
 php-theseer-autoload
 php-theseer-directoryscanner
 php-theseer-tokenizer
+php-theseer-tokenizer2
 phpunit10
 phpunit11
 phpunit12
@@ -12491,6 +12497,7 @@ python-invoke
 python-iowait
 python-ipcqueue
 python-ipfshttpclient
+python-iplotx
 python-ipuz
 python-ipykernel
 python-ipyparallel
@@ -12652,7 +12659,6 @@ python-markdown-exec
 python-markdown-include
 python-markdown-it-py
 python-markdown
-python-markdown_2
 python-markupsafe
 python-marshmallow
 python-Mastodon
@@ -12809,6 +12815,7 @@ python-onionbalance
 python-opcodes
 python-openai
 python-openapi-core
+python-openapi-pydantic
 python-openapi-schema-validator
 python-openapi-spec-validator
 python-opencensus-proto
@@ -14348,6 +14355,7 @@ rpi-imager
 R-pkgbuild
 R-pkgload
 rpkg-macros
+rpkg
 rpkg-util
 rpki-client
 rpld
@@ -14623,15 +14631,8 @@ rubygem-ipaddress
 rubygem-isolate
 rubygem-i18n
 rubygem-jbuilder
-rubygem-jekyll-asciidoc
 rubygem-jekyll-email-protect
-rubygem-jekyll-feed
 rubygem-jekyll-git-authors
-rubygem-jekyll-sass-converter
-rubygem-jekyll-seo-tag
-rubygem-jekyll
-rubygem-jekyll-toc
-rubygem-jekyll-watch
 rubygem-jmespath
 rubygem-json
 rubygem-json_spec
@@ -14639,7 +14640,6 @@ rubygem-kramdown-parser-gfm
 rubygem-kramdown
 rubygem-kramdown-syntax-coderay
 rubygem-levenshtein
-rubygem-liquid
 rubygem-listen
 rubygem-locale
 rubygem-logstash-event
@@ -14657,12 +14657,10 @@ rubygem-method_source
 rubygem-mime-types-data
 rubygem-mime-types
 rubygem-mini_magick
-rubygem-minima
 rubygem-mini_mime
 rubygem-mini_portile
 rubygem-mini_portile2
 rubygem-minitest-around
-rubygem-minitest-profile
 rubygem-minitest
 rubygem-minitest-stub-const
 rubygem-minitest4
@@ -14816,11 +14814,9 @@ rubygem-stomp
 rubygem-stringex
 rubygem-sugarjar
 rubygem-syck
-rubygem-sync
 rubygem-sys-filesystem
 rubygem-sys-uname
 rubygem-temple
-rubygem-term-ansicolor
 rubygem-test_construct
 rubygem-test_declarative
 rubygem-test-unit-notify
@@ -14835,7 +14831,6 @@ rubygem-timecop
 rubygem-timers
 rubygem-tins
 rubygem-tk
-rubygem-tomlrb
 rubygem-track_open_instances
 rubygem-treetop
 rubygem-ttfunk
@@ -14915,7 +14910,6 @@ rust-alacritty_config
 rust-alacritty
 rust-alacritty_terminal
 rust-alga_derive
-rust-alga
 rust-aliasable
 rust-aligned-vec
 rust-allocator-api2
@@ -14946,7 +14940,6 @@ rust-app_dirs
 rust-appdirs
 rust-app_dirs2
 rust-appendlist
-rust-append-only-vec
 rust-apple-bom
 rust-apple-bundles
 rust-apple-dmg
@@ -15161,6 +15154,7 @@ rust-blsctl
 rust-bmart-derive
 rust-bmart
 rust-bootupd
+rust-borrow-or-share
 rust-boxcar
 rust-box_drawing
 rust-bpaf_derive
@@ -15262,7 +15256,6 @@ rust-cdylib-link-lines
 rust-cedarwood
 rust-cexpr
 rust-cfb-mode
-rust-cfb
 rust-cfg_aliases
 rust-cfg_aliases0.1
 rust-cfg-expr
@@ -15304,11 +15297,8 @@ rust-clap3
 rust-clearscreen
 rust-clippy-sarif
 rust-clircle
-rust-cli-table-derive
-rust-cli-table
 rust-clock-steering
 rust-clru
-rust-cluFlock
 rust-cmac
 rust-cmake
 rust-cmd_lib_macros
@@ -15342,7 +15332,6 @@ rust-compare
 rust-compose_spec_macros
 rust-compose_spec
 rust-compress-tools
-rust-concat-idents
 rust-concolor-override
 rust-concolor-query
 rust-concolor
@@ -15357,7 +15346,6 @@ rust-console
 rust-constant_time_eq
 rust-constcat
 rust-const-cstr
-rust-const_fn
 rust-const_format_proc_macros
 rust-const_format
 rust-const-oid
@@ -15457,6 +15445,7 @@ rust-cxxbridge-macro
 rust-cxx-build
 rust-cxx-gen
 rust-cxx
+rust-cyclonedx-bom-macros
 rust-daemonize
 rust-darling_core
 rust-darling_core0.13
@@ -15602,6 +15591,7 @@ rust-endian-num
 rust-endian-type
 rust-endi
 rust-enquote
+rust-entropy
 rust-enum-as-inner
 rust-enumber
 rust-enum_dispatch
@@ -15707,6 +15697,7 @@ rust-fluent-bundle
 rust-fluent-langneg
 rust-fluent
 rust-fluent-syntax
+rust-fluent-uri
 rust-flume
 rust-fnv
 rust-foldhash
@@ -15973,7 +15964,6 @@ rust-gufo-xmp
 rust-gvdb-macros
 rust-gvdb
 rust-gweather-sys
-rust-gzip-header
 rust-gzp
 rust-g2gen
 rust-g2poly
@@ -16006,7 +15996,6 @@ rust-heatseeker
 rust-heck
 rust-heck0.3
 rust-heck0.4
-rust-hexf-parse
 rust-hex-literal-impl
 rust-hex-literal
 rust-hex-literal0.2
@@ -16342,7 +16331,6 @@ rust-libz-rs-sys
 rust-libz-sys
 rust-lifeguard
 rust-line-numbers
-rust-line-wrap
 rust-linicon
 rust-linicon-theme
 rust-link-cplusplus
@@ -16411,7 +16399,6 @@ rust-manyhow
 rust-maplit
 rust-markup5ever
 rust-markup5ever0.11
-rust-match_cfg
 rust-matchers
 rust-matches
 rust-matchit
@@ -16898,6 +16885,7 @@ rust-pulldown-cmark
 rust-pulldown-cmark0.11
 rust-punycode
 rust-pure-rust-locales
+rust-purl
 rust-pwd
 rust-pxfm
 rust-pyo3-async-runtimes-macros
@@ -17071,7 +17059,6 @@ rust-resctl-bench-intf
 rust-resctl-bench
 rust-resctl-demo
 rust-resctrlfs
-rust-resize
 rust-resolv-conf
 rust-retry-policies
 rust-retry
@@ -17279,7 +17266,6 @@ rust-serde_tuple
 rust-serde_tuple0.5
 rust-serde-untagged
 rust-serde_urlencoded
-rust-serde_url_params
 rust-serde-value
 rust-serde_with_macros
 rust-serde_with_macros1
@@ -17990,7 +17976,6 @@ rust-xi-unicode
 rust-xkbcommon-dl
 rust-xkbcommon
 rust-xkeysym
-rust-xmlparser
 rust-xml-rs
 rust-xmlwriter
 rust-xml5ever
@@ -18055,6 +18040,7 @@ rust-zip2
 rust-zlib-rs
 rust-zlink-core
 rust-zlink-macros
+rust-zlink-smol
 rust-zlink
 rust-zlink-tokio
 rust-zopfli
@@ -18554,6 +18540,7 @@ spoofdpi
 spor
 spread-sheet-widget
 springlobby
+sprout
 spyder
 sqlcipher
 sqlgrey
@@ -18947,7 +18934,6 @@ torrent-file-editor
 torsocks
 tor
 tortoisehg
-totpcgi
 touchcal
 touchegg
 toxcore

@@ -1404,6 +1404,7 @@ dnf-plugin-perfmetrics
 dnf-plugins-core
 dnf-plugins-extras
 dnf
+dnscap
 dnscrypt-proxy
 dnsdist
 dnsenum
@@ -13218,7 +13219,6 @@ python-markdown-include
 python-markdown-it-py
 python-markdown-math
 python-markdown
-python-markdown_2
 python-markdown2
 python-markupsafe
 python-Mastodon
@@ -15200,10 +15200,8 @@ rubygem-sqlite3
 rubygems
 rubygem-stomp
 rubygem-sugarjar
-rubygem-sync
 rubygem-systemu
 rubygem-sys-uname
-rubygem-term-ansicolor
 rubygem-test-unit-notify
 rubygem-test-unit-rr
 rubygem-test-unit
@@ -15266,7 +15264,6 @@ rust-alacritty_config_derive
 rust-alacritty
 rust-alacritty_terminal
 rust-alga_derive
-rust-alga
 rust-alloc-no-stdlib
 rust-alloc-stdlib
 rust-alsa
@@ -15412,7 +15409,6 @@ rust-config
 rust-confy
 rust-constant_time_eq
 rust-const-cstr
-rust-const_fn
 rust-const-oid
 rust-const-random-macro
 rust-const-random
@@ -15613,7 +15609,6 @@ rust-gstreamer-base
 rust-gstreamer-pbutils
 rust-gstreamer
 rust-gstreamer-video
-rust-gzip-header
 rust-half
 rust-hamcrest2
 rust-hashbrown
@@ -15716,7 +15711,6 @@ rust-libseccomp-sys
 rust-libssh2-sys
 rust-libsystemd
 rust-libz-sys
-rust-line-wrap
 rust-link-cplusplus
 rust-linked-hash-map
 rust-linux_proc
@@ -15738,7 +15732,6 @@ rust-mac_address
 rust-mac
 rust-maplit
 rust-markup5ever
-rust-match_cfg
 rust-matrixmultiply
 rust-mbrman
 rust-md-5
@@ -15992,7 +15985,6 @@ rust-serde
 rust-serde_stacker
 rust-serde_test
 rust-serde_urlencoded
-rust-serde_url_params
 rust-serde_with_macros
 rust-serde_with
 rust-serde_yaml
@@ -16184,7 +16176,6 @@ rust-winit
 rust-xattr
 rust-xdg
 rust-xi-unicode
-rust-xmlparser
 rust-xml5ever
 rust-xxhash-c-sys
 rust-xxhash-rust
@@ -17134,7 +17125,6 @@ tor
 tortoisehg
 totem-pl-parser
 totem
-totpcgi
 touchcal
 touchegg
 toxcore
