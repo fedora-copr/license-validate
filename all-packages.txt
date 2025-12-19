@@ -742,6 +742,7 @@ bowtie
 bowtie2
 boxed-cpp
 boxes
+boxfort
 Box2D
 box64
 bpfilter
@@ -797,7 +798,6 @@ budgie-desktop-services
 budgie-desktop
 budgie-desktop-view
 budgie-display-configurator
-budgie-screensaver
 budgie-session
 buffer
 bugzilla
@@ -2939,7 +2939,6 @@ gfs2-utils
 gftp
 gfxstream
 gf2x
-ggz-base-libs
 ghasher
 ghc-abstract-deque
 ghc-abstract-par
@@ -3600,7 +3599,6 @@ gio-qt
 gio-sharp
 gip
 girara
-gir-to-d
 git-annex
 git-archive-all
 git-autofixup
@@ -3975,7 +3973,6 @@ golang-code-cloudfoundry-bytefmt
 golang-code-cloudfoundry-clock
 golang-contrib-opencensus-exporter-aws
 golang-contrib-opencensus-exporter-ocagent
-golang-contrib-opencensus-exporter-stackdriver
 golang-contrib-opencensus-integrations-ocsql
 golang-contrib-opencensus-resource
 golang-dario-mergo
@@ -3992,7 +3989,6 @@ golang-github-afex-hystrix
 golang-github-agext-levenshtein
 golang-github-agnivade-levenshtein
 golang-github-ahmetb-linq-3
-golang-github-akamensky-argparse
 golang-github-akavel-rsrc
 golang-github-akosmarton-papipes
 golang-github-alecthomas-assert-2
@@ -4023,7 +4019,6 @@ golang-github-andybalholm-cascadia
 golang-github-anmitsu-shlex
 golang-github-antchfx-htmlquery
 golang-github-antchfx-xmlquery
-golang-github-antchfx-xpath
 golang-github-antihax-optional
 golang-github-apache-arrow15
 golang-github-apache-beam-2
@@ -4092,7 +4087,6 @@ golang-github-bmatcuk-doublestar
 golang-github-bmatcuk-doublestar-4
 golang-github-bmizerany-assert
 golang-github-boombuler-barcode
-golang-github-bradfitz-gomemcache
 golang-github-bradfitz-iter
 golang-github-briandowns-spinner
 golang-github-brunoscheufler-aws-ecs-metadata
@@ -4107,15 +4101,12 @@ golang-github-burntsushi-toml-test
 golang-github-burntsushi-xgb
 golang-github-bwesterb-ristretto
 golang-github-cactus-statsd-client
-golang-github-casbin-2
 golang-github-caspr-io-yamlpath
 golang-github-c-bata-prompt
-golang-github-cenkalti-backoff
 golang-github-cenkalti-backoff4
 golang-github-census-instrumentation-opencensus-proto
 golang-github-census-instrumentation-opencensus-proto-0.2
 golang-github-cention-sany-utf7
-golang-github-cespare-xxhash
 golang-github-cespare-xxhash2
 golang-github-cilium-ebpf
 golang-github-circonus-labs-apiclient
@@ -4241,7 +4232,6 @@ golang-github-emersion-smtp
 golang-github-emersion-textwrapper
 golang-github-emicklei-proto
 golang-github-emicklei-restful
-golang-github-emirpasic-gods
 golang-github-emirpasic-gods2
 golang-github-envoyproxy-control-plane
 golang-github-envoyproxy-protoc-gen-validate
@@ -4312,9 +4302,6 @@ golang-github-gobuffalo-logger
 golang-github-gobuffalo-packd
 golang-github-gobuffalo-packr
 golang-github-gobwas-glob
-golang-github-gobwas-httphead
-golang-github-gobwas-pool
-golang-github-gobwas-ws
 golang-github-goccy-json
 golang-github-goccy-yaml
 golang-github-gocolly-colly-2
@@ -4418,12 +4405,10 @@ golang-github-hashicorp-lru-2
 golang-github-hashicorp-memdb
 golang-github-hashicorp-msgpack
 golang-github-hashicorp-multierror
-golang-github-hashicorp-raft
 golang-github-hashicorp-retryablehttp
 golang-github-hashicorp-serf
 golang-github-hashicorp-sockaddr
 golang-github-hashicorp-syslog
-golang-github-hashicorp-terraform-exec
 golang-github-hashicorp-terraform-json
 golang-github-hashicorp-uuid
 golang-github-hashicorp-version
@@ -4492,7 +4477,6 @@ golang-github-jamesruan-rfc1924
 golang-github-jarcoal-httpmock
 golang-github-jawher-mow-cli
 golang-github-jba-templatecheck
-golang-github-jbenet-context
 golang-github-jcmturner-aescts
 golang-github-jcmturner-dnsutils
 golang-github-jcmturner-gofork
@@ -4520,7 +4504,6 @@ golang-github-josharian-native
 golang-github-joshuarubin-lifecycle
 golang-github-joshuarubin-sway
 golang-github-jouyouyun-hardware
-golang-github-jpillora-backoff
 golang-github-jsimonetti-pwscheme
 golang-github-jsimonetti-rtnetlink
 golang-github-json-iterator
@@ -4543,13 +4526,11 @@ golang-github-kballard-shellquote
 golang-github-kelseyhightower-envconfig
 golang-github-kelvins-sunrisesunset
 golang-github-kennygrant-sanitize
-golang-github-kevinburke-ssh-config
 golang-github-kisielk-sqlstruct
 golang-github-kit-log
 golang-github-kit
 golang-github-kjk-lzmadec
 golang-github-klauspost-compress
-golang-github-klauspost-cpuid
 golang-github-klauspost-pgzip
 golang-github-knetic-govaluate
 golang-github-kolo-xmlrpc
@@ -4617,7 +4598,6 @@ golang-github-masterminds-semver-1
 golang-github-masterminds-sprig3
 golang-github-masterminds-vcs
 golang-github-matrix-org-gomatrixserverlib
-golang-github-matrix-org-gomatrix
 golang-github-matrix-org-util
 golang-github-matryer-try
 golang-github-mattn-colorable
@@ -4663,7 +4643,6 @@ golang-github-mmcloughlin-avo
 golang-github-mndrix-tap
 golang-github-moby-locker
 golang-github-moby-spdystream
-golang-github-moby-sys
 golang-github-moby-term
 golang-github-mock
 golang-github-modern-concurrent
@@ -4696,9 +4675,6 @@ golang-github-nathanaelle-syslog5424-2
 golang-github-nathan-osman-sunrise
 golang-github-nats-io-nkeys
 golang-github-nats-io-nuid
-golang-github-nats-io
-golang-github-nats-io-stan
-golang-github-nats-io-streaming-server
 golang-github-ncruces-strftime
 golang-github-ncw-swift
 golang-github-need-being-tree
@@ -4826,7 +4802,6 @@ golang-github-rcrowley-metrics
 golang-github-remind101-migrate
 golang-github-remyoudompheng-bigfft
 golang-github-restic-chunker
-golang-github-resty2
 golang-github-revel-config
 golang-github-revel-log15
 golang-github-revel-pathtree
@@ -4849,10 +4824,8 @@ golang-github-rwcarlsen-goexif
 golang-github-sabhiram-gitignore
 golang-github-sacloud-api-client
 golang-github-sacloud-http
-golang-github-sacloud-packages
 golang-github-safchain-ethtool
 golang-github-sagikazarmark-slog-shim
-golang-github-saintfish-chardet
 golang-github-samber-lo
 golang-github-sanity-io-litter
 golang-github-seancfoley-bintree
@@ -4911,7 +4884,6 @@ golang-github-spf13-cast
 golang-github-spf13-cobra
 golang-github-spf13-fsync
 golang-github-spf13-pflag
-golang-github-spf13-viper
 golang-github-spkg-bom
 golang-github-spyzhov-ajson
 golang-github-sql-civil
@@ -4939,7 +4911,6 @@ golang-github-tdewolff-minify
 golang-github-tdewolff-parse
 golang-github-tdewolff-test
 golang-github-teambition-rrule
-golang-github-temoto-robotstxt
 golang-github-tenox7-wrp
 golang-github-termie-shutil
 golang-github-test-deep
@@ -4982,10 +4953,8 @@ golang-github-urfave-negroni
 golang-github-u-root-iscsinl
 golang-github-u-root-uio
 golang-github-valyala-bytebufferpool
-golang-github-valyala-fasthttp
 golang-github-valyala-fastjson
 golang-github-valyala-fasttemplate
-golang-github-valyala-tcplisten
 golang-github-vbatts-tar-split
 golang-github-viant-toolbox
 golang-github-vincent-petithory-dataurl
@@ -5064,7 +5033,6 @@ golang-gonum-1
 golang-google-api
 golang-google-appengine
 golang-google-genproto
-golang-google-grpc
 golang-google-protobuf
 golang-gopkg-alecthomas-kingpin-2
 golang-gopkg-errgo-2
@@ -5173,8 +5141,6 @@ golang-mvdan-xurls
 golang-nhooyr-websocket
 golang-opencensus
 golang-opentelemetry-contrib
-golang-opentelemetry-contrib-0.20
-golang-opentelemetry-otel
 golang-opentelemetry-otel-0.20
 golang-opentelemetry-proto
 golang-opentelemetry-proto-0.7
@@ -5203,7 +5169,6 @@ golang-uber-automaxprocs
 golang-uber-config
 golang-uber-dig
 golang-uber-fx
-golang-uber-goleak
 golang-uber-mock
 golang-uber-multierr
 golang-uber-ratelimit
@@ -5234,6 +5199,7 @@ goldendict
 GoldenCheetah
 golist
 golly
+go-l2tp
 gom
 goocanvas
 goocanvas2
@@ -5413,6 +5379,7 @@ gstreamer1
 gstreamer1-vaapi
 gstream
 gst
+gst-thumbnailers
 gst-vosk
 gst123
 gtengine
@@ -6484,6 +6451,7 @@ keditbookmarks
 keepalived
 keepass
 keepassxc
+keepsecret
 kefir
 kemie-bellota-fonts
 kernel-headers
@@ -8292,6 +8260,7 @@ manedit
 mangohud
 manchu-fonts
 manifest-tool
+manifold
 mankalaengine
 man-pages-ja
 man-pages-l10n
@@ -13309,7 +13278,6 @@ php-composer-xdebug-handler2
 phpcov
 phpcpd
 php-cs-fixer
-php-cssjanus
 php-dasprid-enum
 php-doctrine-collections
 php-doctrine-deprecations
@@ -14646,7 +14614,6 @@ python-dandischema
 python-daphne
 python-dasbus
 python-dask
-python-dataclassy
 python-datalad
 python-datanommer-commands
 python-datanommer-models
@@ -14721,7 +14688,6 @@ python-django-formtools
 python-django-gravatar2
 python-django-haystack
 python-django-health-check
-python-django-ipware
 python-django-js-asset
 python-django-macros
 python-django-mailman3
@@ -14739,7 +14705,6 @@ python-django-redis
 python-django-rest-framework
 python-django-reversion
 python-django-rq
-python-django-rules
 python-django-search-url
 python-django-storages
 python-django-tables2
@@ -14803,6 +14768,7 @@ python-editables
 python-editorconfig
 python-editor
 python-einops
+python-eip712
 python-elasticsearch
 python-elastic-transport
 python-elementpath
@@ -14833,6 +14799,7 @@ python-eth-event
 python-eth-hash
 python-eth-keyfile
 python-eth-keys
+python-eth-pydantic-types
 python-eth-rlp
 python-eth-stdlib
 python-eth-tester
@@ -15351,6 +15318,7 @@ python-linux-procfs
 python-lion-pytorch
 python-listparser
 python-littleutils
+python-livereload
 python-llama-cpp-python
 python-llfuse
 python-llm-echo
@@ -15725,7 +15693,6 @@ python-pdfrw
 python-pdf2image
 python-pdir2
 python-pdm-backend
-python-pdm-pep517
 python-peachpy
 python-pebble
 python-pecan
@@ -16409,6 +16376,7 @@ python-sphinx-autoapi
 python-sphinx-autobuild
 python-sphinx-autodoc-typehints
 python-sphinx-basic-ng
+python-sphinx-book-theme
 python-sphinx-bootstrap-theme
 python-sphinx-click
 python-sphinxcontrib-apidoc
@@ -16652,7 +16620,6 @@ python-twiggy
 python-twilio
 python-twine
 python-twisted
-python-twomemo
 python-tw2-core
 python-tw2-forms
 python-txaio
@@ -16696,6 +16663,7 @@ python-ujson
 python-ukkonen
 python-u-msgpack-python
 python-unicodedata2
+python-unicode-segmentation-rs
 python-unidecode
 python-unidiff
 python-unipath
@@ -18272,6 +18240,7 @@ rust-actix
 rust-actix-tls
 rust-actix-utils
 rust-actix-web-codegen
+rust-actix-web-httpauth
 rust-actix-web
 rust-adblock
 rust-add-determinism
@@ -18617,6 +18586,7 @@ rust-cargo-lock
 rust-cargo_metadata
 rust-cargo_metadata0.15
 rust-cargo_metadata0.18
+rust-cargo_metadata0.19
 rust-cargo-options
 rust-cargo-platform
 rust-cargo-platform0.1
@@ -18635,6 +18605,7 @@ rust-cbc
 rust-cbindgen
 rust-cbindgen0.24
 rust-cbindgen0.26
+rust-cbor-codec
 rust-cc
 rust-cdylib-link-lines
 rust-cedarwood
@@ -18759,6 +18730,7 @@ rust-core_maths
 rust-coreos-installer
 rust-coreutils
 rust-core2
+rust-cose-rust
 rust-countme
 rust-count-zeroes
 rust-cpio-archive
@@ -18831,6 +18803,7 @@ rust-cxx-build
 rust-cxx-gen
 rust-cxx
 rust-cyclonedx-bom-macros
+rust-cyclonedx-bom
 rust-daemonize
 rust-darling_core
 rust-darling_core0.13
@@ -18910,6 +18883,7 @@ rust-dirs4
 rust-dir-test-macros
 rust-dir-test
 rust-diskonaut
+rust-diskus
 rust-displaydoc
 rust-dissimilar
 rust-dlib
@@ -19682,6 +19656,8 @@ rust-libflate
 rust-libflate1
 rust-libgit2-sys
 rust-libgit2-sys0.17
+rust-libglycin-rebind
+rust-libglycin-rebind-sys
 rust-libgweather
 rust-libheif-rs
 rust-libheif-sys
@@ -20437,6 +20413,7 @@ rust-reqsign-file-read-tokio
 rust-reqsign-google
 rust-reqsign-http-send-reqwest
 rust-reqsign-huaweicloud-obs
+rust-reqsign-oracle
 rust-reqsign
 rust-reqsign-tencent-cos
 rust-reqwest-middleware
@@ -20570,6 +20547,8 @@ rust-sarif-fmt
 rust-scan_fmt
 rust-sccache
 rust-scc
+rust-scientific-macro
+rust-scientific
 rust-scoped_threadpool
 rust-scoped-tls
 rust-scopeguard
@@ -22948,6 +22927,7 @@ vim-taglist
 vim-trailing-whitespace
 vinagre
 vinci
+vipr
 vips
 virglrenderer
 virt-backup
