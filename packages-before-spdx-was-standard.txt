@@ -1436,7 +1436,6 @@ doctl
 doge
 dogtag-pki
 dogtail
-doh
 dokuwiki
 dolphin-connector
 dolphin-emu
@@ -3388,6 +3387,7 @@ gnutls
 goaccess
 gobi_loader
 gobject-introspection
+gobuster
 gocr
 goddard-backgrounds
 goddard-kde-theme
@@ -3678,6 +3678,7 @@ golang-github-gobuffalo-logger
 golang-github-gobuffalo-packd
 golang-github-gobuffalo-packr
 golang-github-gobwas-glob
+golang-github-gobwas-ws
 golang-github-goccy-json
 golang-github-gocolly-colly-2
 golang-github-gocql
@@ -5765,6 +5766,7 @@ kubernetes1.31
 kubernetes1.32
 kubernetes1.33
 kubernetes1.34
+kubernetes1.35
 kubrick
 kurdit-unikurd-web-fonts
 kuserfeedback
@@ -12231,7 +12233,6 @@ python-aiosmtpd
 python-aiosqlite
 python-aiostream
 python-aiounifi
-python-aiounittest
 python-ajsonrpc
 python-alembic
 python-allpairspy
@@ -12244,7 +12245,6 @@ python-annexremote
 python-ansible-runner
 python-ansicolor
 python-ansi2html
-python-anyio
 python-anyjson
 python-anykeystore
 python-anytree
@@ -12294,7 +12294,6 @@ python-authlib
 python-authres
 python-autobahn
 python-automaton
-python-Automat
 python-autopage
 python-autopep8
 python-avocado
@@ -12456,7 +12455,6 @@ python-btchip
 python-btrfs
 python-bucky
 python-bugzilla
-python-build
 python-b2sdk
 python-b4
 python-CacheControl
@@ -12559,7 +12557,6 @@ python-colorama
 python-colorclass
 python-coloredlogs
 python-colored-traceback
-python-colorful
 python-colorlog
 python-colorspacious
 python-colorzero
@@ -12599,7 +12596,6 @@ python-crank
 python-crashtest
 python-crayons
 python-crcmod
-python-crochet
 python-croniter
 python-cro
 python-cryptography
@@ -12721,7 +12717,6 @@ python-dockerpty
 python-docker-pycreds
 python-docker
 python-docker-squash
-python-docopt
 python-docs-theme
 python-docutils
 python-dogpile-cache
@@ -12739,7 +12734,6 @@ python-ducc0
 python-duecredit
 python-dulwich
 python-d2to1
-python-easyargs
 python-easygui
 python-easyprocess
 python-eccodes
@@ -12981,7 +12975,6 @@ python-hyperkitty
 python-hyperlink
 python-hypothesis
 python-hypothesmith
-python-h11
 python-h2
 python-h5io
 python-chai
@@ -13038,7 +13031,6 @@ python-isodate
 python-isoduration
 python-isort
 python-iso3166
-python-iso8601
 python-itemadapter
 python-itemloaders
 python-itsdangerous
@@ -13053,7 +13045,6 @@ python-jaraco-text
 python-javaproperties
 python-jcconv
 python-jdcal
-python-jedi
 python-jeepney
 python-jellyfish
 python-jenkins-job-builder
@@ -13093,7 +13084,6 @@ python-jupyter-polymake
 python-justbases
 python-justbytes
 python-jwcrypto
-python-jwt
 python-kadmin
 python-kafka
 python-kajiki
@@ -13209,7 +13199,6 @@ python-metakernel
 python-metar
 python-micawber
 python-migen
-python-mimeparse
 python-mimerender
 python-minidb
 python-minikerberos
@@ -13253,7 +13242,6 @@ python-multidict
 python-multi_key_dict
 python-multilib
 python-MultipartPostHandler2
-python-multipart
 python-multiprocess
 python-multitasking
 python-munch
@@ -13335,7 +13323,6 @@ python-onionbalance
 python-openant
 python-openapi-schema-validator
 python-opencensus-proto
-python-openidc-client
 python-openid-cla
 python-openid-teams
 python-openoffice
@@ -13444,7 +13431,6 @@ python-pkgconfig
 python-pkginfo
 python-plaster-pastedeploy
 python-plaster
-python-platformdirs
 python-pluggy
 python-pluginbase
 python-pluginlib
@@ -13466,7 +13452,6 @@ python-ppft
 python-precis_i18n
 python-prefixed
 python-pretend
-python-prettyprinter
 python-prettytable
 python-priority
 python-process-tests
@@ -13731,7 +13716,6 @@ python-regex
 python-relatorio
 python-rencode
 python-reno
-python-repomd
 python-reportlab
 python-repoze-lru
 python-repoze-sphinx-autointerface
@@ -13747,7 +13731,6 @@ python-requests-exoscale-auth
 python-requests-file
 python-requests-ftp
 python-requests-futures
-python-requests-kerberos
 python-requests-mock
 python-requests-oauthlib
 python-requests-pkcs12
@@ -13826,7 +13809,6 @@ python-sentinels
 python-sentry-sdk
 python-sep
 python-serpent
-python-service-identity
 python-setproctitle
 python-setuptools
 python-sexpdata
@@ -13837,7 +13819,6 @@ python-shellingham
 python-shortuuid
 python-should_dsl
 python-show-in-file-manager
-python-sh
 python-shtab
 python-schedutils
 python-schema
@@ -13868,7 +13849,6 @@ python-snaptime
 python-sniffio
 python-social-auth-core
 python-socketio
-python-socksio
 python-socks
 python-sortedcontainers
 python-soupsieve
@@ -13920,7 +13900,6 @@ python-sphinxtesters
 python-sphinx-theme-alabaster
 python-sphinx-theme-builder
 python-sphinx-theme-py3doc-enhanced
-python-spnego
 python-sport-activities-features
 python-spur
 python-spyder-kernels
@@ -13997,7 +13976,6 @@ python-texext
 python-textdistance
 python-textfsm
 python-textile
-python-texttable
 python-text-unidecode
 python-tftpy
 python-threadpoolctl
@@ -14148,7 +14126,6 @@ python-wikitcms
 python-winrm
 python-wrapt
 python-WSGIProxy2
-python-wsproto
 python-wtforms
 python-wtf-peewee
 python-wurlitzer
@@ -17410,7 +17387,6 @@ vim-command-t
 vim-commentary
 vim-ctrlp
 vim-fugitive-pagure
-vim-fugitive
 vim-gitgutter
 vim-go
 vim-gtk-syntax
@@ -17419,7 +17395,6 @@ vimiv-qt
 vimiv
 vim-javabrowser
 vim-jedi
-vim-jellybeans
 vim-mediawiki
 vim-nerdtree
 vim-omnicppcomplete
@@ -17899,7 +17874,6 @@ xosview
 xournalpp
 xournal
 xpad
-xpanes
 xpa
 xpdf
 xpenguins

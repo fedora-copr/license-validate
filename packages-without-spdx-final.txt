@@ -130,7 +130,6 @@ cava warning: valid as old and new and no changelong entry, please check
 cbios contains LicenseRef-Callaway, needs to be manually converted
 cc1541 warning: valid as old and new and no changelong entry, please check
 cc65 warning: valid as old and new and no changelong entry, please check
-cdk warning: not valid neither as Callaway nor as SPDX, please check
 cdlabelgen contains LicenseRef-Callaway, needs to be manually converted
 cdogs-sdl contains LicenseRef-Callaway, needs to be manually converted
 cdparanoia contains LicenseRef-Callaway, needs to be manually converted
@@ -230,7 +229,6 @@ dahdi-tools contains LicenseRef-Callaway, needs to be manually converted
 dapl contains LicenseRef-Callaway, needs to be manually converted
 daq contains LicenseRef-Callaway, needs to be manually converted
 darkhttpd contains LicenseRef-Callaway, needs to be manually converted
-darkman warning: valid as old and new and no changelong entry, please check
 dbus-c++ contains LicenseRef-Callaway, needs to be manually converted
 dbus-sharp-glib warning: valid as old and new and no changelong entry, please check
 dbus-sharp warning: valid as old and new and no changelong entry, please check
@@ -269,7 +267,6 @@ doclifter contains LicenseRef-Callaway, needs to be manually converted
 docopt-cpp contains LicenseRef-Callaway, needs to be manually converted
 docparser contains LicenseRef-Callaway, needs to be manually converted
 doge warning: valid as old and new and no changelong entry, please check
-doh warning: valid as old and new and no changelong entry, please check
 dolphin-connector contains LicenseRef-Callaway, needs to be manually converted
 domoticz contains LicenseRef-Callaway, needs to be manually converted
 dom4j contains LicenseRef-Callaway, needs to be manually converted
@@ -744,6 +741,7 @@ golang-github-gobuffalo-logger warning: valid as old and new and no changelong e
 golang-github-gobuffalo-packd warning: valid as old and new and no changelong entry, please check
 golang-github-gobuffalo-packr warning: valid as old and new and no changelong entry, please check
 golang-github-gobwas-glob warning: valid as old and new and no changelong entry, please check
+golang-github-gobwas-ws warning: valid as old and new and no changelong entry, please check
 golang-github-goccy-json warning: valid as old and new and no changelong entry, please check
 golang-github-gocql contains LicenseRef-Callaway, needs to be manually converted
 golang-github-gofrs-uuid warning: valid as old and new and no changelong entry, please check
@@ -2371,12 +2369,10 @@ python-aioresponses warning: valid as old and new and no changelong entry, pleas
 python-aiorpcx contains LicenseRef-Callaway, needs to be manually converted
 python-aiosqlite warning: valid as old and new and no changelong entry, please check
 python-aiounifi warning: valid as old and new and no changelong entry, please check
-python-aiounittest warning: valid as old and new and no changelong entry, please check
 python-ajsonrpc warning: valid as old and new and no changelong entry, please check
 python-allpairspy warning: valid as old and new and no changelong entry, please check
 python-amqp contains LicenseRef-Callaway, needs to be manually converted
 python-animatplot warning: valid as old and new and no changelong entry, please check
-python-anyio warning: valid as old and new and no changelong entry, please check
 python-anykeystore warning: valid as old and new and no changelong entry, please check
 python-apipkg warning: valid as old and new and no changelong entry, please check
 python-AppTools contains LicenseRef-Callaway, needs to be manually converted
@@ -2391,7 +2387,6 @@ python-ast-monitor warning: valid as old and new and no changelong entry, please
 python-asysocks warning: valid as old and new and no changelong entry, please check
 python-audioread warning: valid as old and new and no changelong entry, please check
 python-autobahn warning: valid as old and new and no changelong entry, please check
-python-Automat warning: valid as old and new and no changelong entry, please check
 python-autopep8 warning: valid as old and new and no changelong entry, please check
 python-avocado - can be trivially converted to GPL-2.0-or-later
 python-avocado - can be trivially converted to GPL-2.0-or-later AND GPL-2.0-only
@@ -2486,7 +2481,6 @@ python-bowler warning: valid as old and new and no changelong entry, please chec
 python-box warning: valid as old and new and no changelong entry, please check
 python-branca warning: valid as old and new and no changelong entry, please check
 python-btrfs contains LicenseRef-Callaway, needs to be manually converted
-python-build warning: valid as old and new and no changelong entry, please check
 python-b2sdk warning: valid as old and new and no changelong entry, please check
 python-CacheControl warning: valid as old and new and no changelong entry, please check
 python-caja contains LicenseRef-Callaway, needs to be manually converted
@@ -2520,7 +2514,6 @@ python-collectd_systemd warning: valid as old and new and no changelong entry, p
 python-colorclass warning: valid as old and new and no changelong entry, please check
 python-coloredlogs warning: valid as old and new and no changelong entry, please check
 python-colored-traceback warning: valid as old and new and no changelong entry, please check
-python-colorful warning: valid as old and new and no changelong entry, please check
 python-colorlog warning: valid as old and new and no changelong entry, please check
 python-colorspacious warning: valid as old and new and no changelong entry, please check
 python-colorzero contains LicenseRef-Callaway, needs to be manually converted
@@ -2537,7 +2530,6 @@ python-crank warning: valid as old and new and no changelong entry, please check
 python-crashtest warning: valid as old and new and no changelong entry, please check
 python-crayons warning: valid as old and new and no changelong entry, please check
 python-crcmod warning: valid as old and new and no changelong entry, please check
-python-crochet warning: valid as old and new and no changelong entry, please check
 python-croniter warning: valid as old and new and no changelong entry, please check
 python-cro warning: valid as old and new and no changelong entry, please check
 python-cson warning: valid as old and new and no changelong entry, please check
@@ -2595,14 +2587,12 @@ python-dkimpy warning: valid as old and new and no changelong entry, please chec
 python-dns-lexicon warning: valid as old and new and no changelong entry, please check
 python-dockerfile-parse contains LicenseRef-Callaway, needs to be manually converted
 python-docker-squash warning: valid as old and new and no changelong entry, please check
-python-docopt warning: valid as old and new and no changelong entry, please check
 python-dogpile-cache warning: valid as old and new and no changelong entry, please check
 python-doit warning: valid as old and new and no changelong entry, please check
 python-dotmap warning: valid as old and new and no changelong entry, please check
 python-doubleratchet warning: valid as old and new and no changelong entry, please check
 python-dpkt contains LicenseRef-Callaway, needs to be manually converted
 python-dtopt warning: valid as old and new and no changelong entry, please check
-python-easyargs warning: valid as old and new and no changelong entry, please check
 python-ecdsa warning: valid as old and new and no changelong entry, please check
 python-elementpath warning: valid as old and new and no changelong entry, please check
 python-empy contains LicenseRef-Callaway, needs to be manually converted
@@ -2691,7 +2681,6 @@ python-humanize warning: valid as old and new and no changelong entry, please ch
 python-hupper warning: valid as old and new and no changelong entry, please check
 python-hyperframe warning: valid as old and new and no changelong entry, please check
 python-hyperlink contains LicenseRef-Callaway, needs to be manually converted
-python-h11 warning: valid as old and new and no changelong entry, please check
 python-h2 warning: valid as old and new and no changelong entry, please check
 python-chai contains LicenseRef-Callaway, needs to be manually converted
 python-chameleon contains LicenseRef-Callaway, needs to be manually converted
@@ -2708,7 +2697,6 @@ python-interrogate warning: valid as old and new and no changelong entry, please
 python-ipmi contains LicenseRef-Callaway, needs to be manually converted
 python-IPy contains LicenseRef-Callaway, needs to be manually converted
 python-iso3166 warning: valid as old and new and no changelong entry, please check
-python-iso8601 warning: valid as old and new and no changelong entry, please check
 python-itemadapter contains LicenseRef-Callaway, needs to be manually converted
 python-itemloaders contains LicenseRef-Callaway, needs to be manually converted
 python-i3ipc contains LicenseRef-Callaway, needs to be manually converted
@@ -2720,7 +2708,6 @@ python-jaraco-packaging warning: valid as old and new and no changelong entry, p
 python-jaraco-path warning: valid as old and new and no changelong entry, please check
 python-jaraco-text warning: valid as old and new and no changelong entry, please check
 python-jcconv warning: valid as old and new and no changelong entry, please check
-python-jedi contains LicenseRef-Callaway, needs to be manually converted
 python-jeepney warning: valid as old and new and no changelong entry, please check
 python-jellyfish contains LicenseRef-Callaway, needs to be manually converted
 python-jinja2-cli contains LicenseRef-Callaway, needs to be manually converted
@@ -2732,7 +2719,6 @@ python-json-logger contains LicenseRef-Callaway, needs to be manually converted
 python-json-minify warning: valid as old and new and no changelong entry, please check
 python-jsonref warning: valid as old and new and no changelong entry, please check
 python-jupyter-c-kernel warning: valid as old and new and no changelong entry, please check
-python-jwt warning: valid as old and new and no changelong entry, please check
 python-kajiki warning: valid as old and new and no changelong entry, please check
 python-kanboard warning: valid as old and new and no changelong entry, please check
 python-kaptan contains LicenseRef-Callaway, needs to be manually converted
@@ -2768,7 +2754,6 @@ python-memcached contains LicenseRef-Callaway, needs to be manually converted
 python-mergedeep warning: valid as old and new and no changelong entry, please check
 python-micawber warning: valid as old and new and no changelong entry, please check
 python-migen contains LicenseRef-Callaway, needs to be manually converted
-python-mimeparse warning: valid as old and new and no changelong entry, please check
 python-mimerender warning: valid as old and new and no changelong entry, please check
 python-minidb warning: valid as old and new and no changelong entry, please check
 python-minikerberos warning: valid as old and new and no changelong entry, please check
@@ -2789,7 +2774,6 @@ python-moreorless warning: valid as old and new and no changelong entry, please 
 python-mplcairo warning: valid as old and new and no changelong entry, please check
 python-mplcursors warning: valid as old and new and no changelong entry, please check
 python-multi_key_dict warning: valid as old and new and no changelong entry, please check
-python-multipart warning: valid as old and new and no changelong entry, please check
 python-munch warning: valid as old and new and no changelong entry, please check
 python-musicbrainzngs contains LicenseRef-Callaway, needs to be manually converted
 python-mwclient warning: valid as old and new and no changelong entry, please check
@@ -2817,7 +2801,6 @@ python-odata-query warning: valid as old and new and no changelong entry, please
 python-oletools contains LicenseRef-Callaway, needs to be manually converted
 python-omemo warning: valid as old and new and no changelong entry, please check
 python-openant warning: valid as old and new and no changelong entry, please check
-python-openidc-client warning: valid as old and new and no changelong entry, please check
 python-openid-cla contains LicenseRef-Callaway, needs to be manually converted
 python-openpyxl contains LicenseRef-Callaway, needs to be manually converted
 python-op1repacker warning: valid as old and new and no changelong entry, please check
@@ -2842,7 +2825,6 @@ python-pdfkit warning: valid as old and new and no changelong entry, please chec
 python-pdfrw warning: valid as old and new and no changelong entry, please check
 python-pdir2 warning: valid as old and new and no changelong entry, please check
 python-pecan contains LicenseRef-Callaway, needs to be manually converted
-python-peewee warning: valid as old and new and no changelong entry, please check
 python-pendulum warning: valid as old and new and no changelong entry, please check
 python-pep8-naming warning: valid as old and new and no changelong entry, please check
 python-persist-queue contains LicenseRef-Callaway, needs to be manually converted
@@ -2856,13 +2838,11 @@ python-pivy warning: valid as old and new and no changelong entry, please check
 python-pkgconfig warning: valid as old and new and no changelong entry, please check
 python-plaster-pastedeploy warning: valid as old and new and no changelong entry, please check
 python-plaster warning: valid as old and new and no changelong entry, please check
-python-platformdirs warning: valid as old and new and no changelong entry, please check
 python-pluginbase contains LicenseRef-Callaway, needs to be manually converted
 python-plumbum warning: valid as old and new and no changelong entry, please check
 python-portend warning: valid as old and new and no changelong entry, please check
 python-port-for warning: valid as old and new and no changelong entry, please check
 python-precis_i18n warning: valid as old and new and no changelong entry, please check
-python-prettyprinter warning: valid as old and new and no changelong entry, please check
 python-priority warning: valid as old and new and no changelong entry, please check
 python-process-tests contains LicenseRef-Callaway, needs to be manually converted
 python-progress warning: valid as old and new and no changelong entry, please check
@@ -2955,7 +2935,6 @@ python-recommonmark warning: valid as old and new and no changelong entry, pleas
 python-redis warning: valid as old and new and no changelong entry, please check
 python-regex contains LicenseRef-Callaway, needs to be manually converted
 python-rencode contains LicenseRef-Callaway, needs to be manually converted
-python-repomd warning: valid as old and new and no changelong entry, please check
 python-repoze-lru contains LicenseRef-Callaway, needs to be manually converted
 python-repoze-tm2 contains LicenseRef-Callaway, needs to be manually converted
 python-repoze-who-plugins-sa contains LicenseRef-Callaway, needs to be manually converted
@@ -2964,7 +2943,6 @@ python-represent warning: valid as old and new and no changelong entry, please c
 python-requests-cache contains LicenseRef-Callaway, needs to be manually converted
 python-requests-download warning: valid as old and new and no changelong entry, please check
 python-requests-exoscale-auth contains LicenseRef-Callaway, needs to be manually converted
-python-requests-kerberos warning: valid as old and new and no changelong entry, please check
 python-requests-pkcs12 warning: valid as old and new and no changelong entry, please check
 python-respx contains LicenseRef-Callaway, needs to be manually converted
 python-restructuredtext-lint warning: valid as old and new and no changelong entry, please check
@@ -2986,10 +2964,8 @@ python-scrapy contains LicenseRef-Callaway, needs to be manually converted
 python-scripttest warning: valid as old and new and no changelong entry, please check
 python-sentry-sdk warning: valid as old and new and no changelong entry, please check
 python-serpent warning: valid as old and new and no changelong entry, please check
-python-service-identity warning: valid as old and new and no changelong entry, please check
 python-shamir-mnemonic warning: valid as old and new and no changelong entry, please check
 python-show-in-file-manager warning: valid as old and new and no changelong entry, please check
-python-sh warning: valid as old and new and no changelong entry, please check
 python-schema warning: valid as old and new and no changelong entry, please check
 python-sievelib warning: valid as old and new and no changelong entry, please check
 python-sieve warning: valid as old and new and no changelong entry, please check
@@ -3001,7 +2977,6 @@ python-sly contains LicenseRef-Callaway, needs to be manually converted
 python-smbprotocol warning: valid as old and new and no changelong entry, please check
 python-snappy contains LicenseRef-Callaway, needs to be manually converted
 python-snaptime warning: valid as old and new and no changelong entry, please check
-python-socksio warning: valid as old and new and no changelong entry, please check
 python-speaklater contains LicenseRef-Callaway, needs to be manually converted
 python-speg warning: valid as old and new and no changelong entry, please check
 python-sphinx-argparse warning: valid as old and new and no changelong entry, please check
@@ -3024,7 +2999,6 @@ python-sphinx-notfound-page warning: valid as old and new and no changelong entr
 python-sphinx-press-theme contains LicenseRef-Callaway, needs to be manually converted
 python-sphinx_selective_exclude contains LicenseRef-Callaway, needs to be manually converted
 python-sphinx-theme-py3doc-enhanced contains LicenseRef-Callaway, needs to be manually converted
-python-spnego warning: valid as old and new and no changelong entry, please check
 python-spyking-circus contains LicenseRef-Callaway, needs to be manually converted
 python-sqlacodegen warning: valid as old and new and no changelong entry, please check
 python-sqlalchemy-collectd warning: valid as old and new and no changelong entry, please check
@@ -3050,7 +3024,6 @@ python-terminaltables warning: valid as old and new and no changelong entry, ple
 python-testfixtures warning: valid as old and new and no changelong entry, please check
 python-TestSlide warning: valid as old and new and no changelong entry, please check
 python-textile contains LicenseRef-Callaway, needs to be manually converted
-python-texttable warning: valid as old and new and no changelong entry, please check
 python-tftpy warning: valid as old and new and no changelong entry, please check
 python-tidy warning: valid as old and new and no changelong entry, please check
 python-timeout-decorator warning: valid as old and new and no changelong entry, please check
@@ -3109,7 +3082,6 @@ python-whoosh contains LicenseRef-Callaway, needs to be manually converted
 python-wikipedia warning: valid as old and new and no changelong entry, please check
 python-winrm warning: valid as old and new and no changelong entry, please check
 python-WSGIProxy2 warning: valid as old and new and no changelong entry, please check
-python-wsproto warning: valid as old and new and no changelong entry, please check
 python-wtforms contains LicenseRef-Callaway, needs to be manually converted
 python-wtf-peewee warning: valid as old and new and no changelong entry, please check
 python-wurlitzer warning: valid as old and new and no changelong entry, please check
@@ -3677,15 +3649,12 @@ vigra warning: valid as old and new and no changelong entry, please check
 vim-ale contains LicenseRef-Callaway, needs to be manually converted
 vim-commentary warning: valid as old and new and no changelong entry, please check
 vim-ctrlp warning: valid as old and new and no changelong entry, please check
-vim-fugitive warning: valid as old and new and no changelong entry, please check
 vim-gitgutter warning: valid as old and new and no changelong entry, please check
 vim-go contains LicenseRef-Callaway, needs to be manually converted
 vim-gtk-syntax contains LicenseRef-Callaway, needs to be manually converted
 vim-gv warning: valid as old and new and no changelong entry, please check
 vimiv warning: valid as old and new and no changelong entry, please check
 vim-javabrowser warning: valid as old and new and no changelong entry, please check
-vim-jellybeans warning: valid as old and new and no changelong entry, please check
-vim-mediawiki contains LicenseRef-Callaway, needs to be manually converted
 vim-nerdtree warning: valid as old and new and no changelong entry, please check
 vim-pathogen warning: valid as old and new and no changelong entry, please check
 vim-rhubarb warning: valid as old and new and no changelong entry, please check
@@ -3791,7 +3760,6 @@ xorg-x11-drv-openchrome warning: valid as old and new and no changelong entry, p
 xorg-x11-drv-qxl warning: valid as old and new and no changelong entry, please check
 xorg-x11-xdm warning: valid as old and new and no changelong entry, please check
 xorsearch contains LicenseRef-Callaway, needs to be manually converted
-xpanes warning: valid as old and new and no changelong entry, please check
 xpa warning: valid as old and new and no changelong entry, please check
 xqc contains LicenseRef-Callaway, needs to be manually converted
 xrdp contains LicenseRef-Callaway, needs to be manually converted

@@ -437,6 +437,8 @@ atari++
 atari800
 atasm
 atf
+atkinson-hyperlegible-mono-fonts
+atkinson-hyperlegible-next-fonts
 atkmm
 atkmm2.36
 atlantik
@@ -1391,6 +1393,7 @@ curlftpfs
 curlpp
 curl
 cutecom
+cutecosmic
 cutter-re
 cvc5
 CVector
@@ -1502,6 +1505,7 @@ deco-archive
 deco
 deepin-account-faces
 deepin-api
+deepin-application-manager
 deepin-calculator
 deepin-calendar
 deepin-desktop-base
@@ -1703,7 +1707,6 @@ doctl
 doge
 dogtag-pki
 dogtail
-doh
 dokuwiki
 dola-gleaner
 dola
@@ -3916,6 +3919,7 @@ goaccess
 goarrange
 gobi_loader
 gobject-introspection
+gobuster
 gocr
 gocryptfs
 goddard-backgrounds
@@ -4281,6 +4285,7 @@ golang-github-gobuffalo-logger
 golang-github-gobuffalo-packd
 golang-github-gobuffalo-packr
 golang-github-gobwas-glob
+golang-github-gobwas-ws
 golang-github-goccy-json
 golang-github-gocolly-colly-2
 golang-github-gocql
@@ -6855,6 +6860,7 @@ kubernetes1.31
 kubernetes1.32
 kubernetes1.33
 kubernetes1.34
+kubernetes1.35
 kubrick
 kunifiedpush
 kurdit-unikurd-web-fonts
@@ -14058,7 +14064,6 @@ python-aiosmtpd
 python-aiosqlite
 python-aiostream
 python-aiounifi
-python-aiounittest
 python-ajsonrpc
 python-alembic
 python-alembic1.14
@@ -14077,7 +14082,6 @@ python-ansible-pylibssh
 python-ansible-runner
 python-ansicolor
 python-ansi2html
-python-anyio
 python-anyjson
 python-anykeystore
 python-anytree
@@ -14141,7 +14145,6 @@ python-authres
 python-autobahn
 python-autocommand
 python-automaton
-python-Automat
 python-autopage
 python-autopep8
 python-avalara
@@ -14345,7 +14348,6 @@ python-btrfs
 python-bucky
 python-bugzilla
 python-buildman
-python-build
 python-b2sdk
 python-b4
 python-CacheControl
@@ -14471,7 +14473,6 @@ python-colorclass
 python-coloredlogs
 python-colored
 python-colored-traceback
-python-colorful
 python-colorlog
 python-colormath2
 python-colorspacious
@@ -14527,7 +14528,6 @@ python-crayons
 python-crcmod
 python-crc32c
 python-crick
-python-crochet
 python-cron-converter
 python-croniter
 python-cro
@@ -14596,6 +14596,7 @@ python-dependency-groups
 python-deprecated
 python-deprecation
 python-detect-secrets
+python-diagnostic
 python-dialog
 python-dictdiffer
 python-dict-sorted
@@ -14675,7 +14676,6 @@ python-docker-pycreds
 python-docker
 python-docker-squash
 python-docopt-ng
-python-docopt
 python-docs-theme
 python-docstring-parser
 python-docstring-to-markdown
@@ -14704,7 +14704,6 @@ python-dulwich
 python-dunamai
 python-durationpy
 python-d2to1
-python-easyargs
 python-easydict
 python-easygui
 python-easyprocess
@@ -15034,7 +15033,6 @@ python-hyperkitty
 python-hyperlink
 python-hypothesis
 python-hypothesmith
-python-h11
 python-h2
 python-h5io
 python-h5netcdf
@@ -15113,7 +15111,6 @@ python-isodate
 python-isoduration
 python-isort
 python-iso3166
-python-iso8601
 python-itemadapter
 python-itemloaders
 python-itsdangerous
@@ -15134,7 +15131,6 @@ python-jaraco-text
 python-javaproperties
 python-jcconv
 python-jdcal
-python-jedi
 python-jeepney
 python-jellyfish
 python-jenkins-job-builder
@@ -15190,7 +15186,6 @@ python-jupytext
 python-justbases
 python-justbytes
 python-jwcrypto
-python-jwt
 python-kadmin
 python-kafka
 python-kajiki
@@ -15345,7 +15340,6 @@ python-mf2py
 python-micawber
 python-microsoft-security-utilities-secret-masker
 python-migen
-python-mimeparse
 python-mimerender
 python-minidb
 python-minikerberos
@@ -15416,7 +15410,6 @@ python-multihash
 python-multi_key_dict
 python-multilib
 python-MultipartPostHandler2
-python-multipart
 python-multiprocess
 python-multitasking
 python-munch
@@ -15521,7 +15514,6 @@ python-openapi-pydantic
 python-openapi-schema-validator
 python-openapi-spec-validator
 python-opencensus-proto
-python-openidc-client
 python-openid-cla
 python-openid-teams
 python-openneuro
@@ -15663,7 +15655,6 @@ python-pkg-depgraph
 python-pkginfo
 python-plaster-pastedeploy
 python-plaster
-python-platformdirs
 python-platformio
 python-playsound3
 python-pluggy
@@ -15693,7 +15684,6 @@ python-precis_i18n
 python-prefixed
 python-presets
 python-pretend
-python-prettyprinter
 python-prettytable
 python-pretty-yaml
 python-priority
@@ -16084,7 +16074,6 @@ python-regex
 python-relatorio
 python-rencode
 python-reno
-python-repomd
 python-reportlab
 python-repoze-lru
 python-repoze-sphinx-autointerface
@@ -16100,7 +16089,6 @@ python-requests-exoscale-auth
 python-requests-file
 python-requests-ftp
 python-requests-futures
-python-requests-kerberos
 python-requests-mock
 python-requests-oauthlib
 python-requests-pkcs12
@@ -16204,7 +16192,6 @@ python-sentinels
 python-sentry-sdk
 python-sep
 python-serpent
-python-service-identity
 python-setproctitle
 python-setupmeta
 python-setuptools-gettext
@@ -16220,7 +16207,6 @@ python-shellingham
 python-shortuuid
 python-should_dsl
 python-show-in-file-manager
-python-sh
 python-shtab
 python-schedutils
 python-schema
@@ -16279,7 +16265,6 @@ python-snaptime
 python-sniffio
 python-social-auth-core
 python-socketio
-python-socksio
 python-socks
 python-solc-ast
 python-solcx
@@ -16355,7 +16340,6 @@ python-sphinx-theme-builder
 python-sphinx-theme-py3doc-enhanced
 python-sphinx-typlog-theme
 python-sphinxygen
-python-spnego
 python-sport-activities-features
 python-spotipy
 python-spur
@@ -16461,7 +16445,6 @@ python-texext
 python-textdistance
 python-textfsm
 python-textile
-python-texttable
 python-textual
 python-text-unidecode
 python-tftpy
@@ -16679,7 +16662,6 @@ python-wordcloud
 python-wrapt
 python-wsgidav
 python-WSGIProxy2
-python-wsproto
 python-wtforms
 python-wtf-peewee
 python-wurlitzer
@@ -16805,6 +16787,7 @@ pytz
 pyusb
 pywbem
 pywebdav
+pywhispercpp
 pyxattr
 pyxdg
 PyX
@@ -17785,6 +17768,7 @@ rubygem-logstash-event
 rubygem-log4r
 rubygem-macaddr
 rubygem-marcel
+rubygem-minitest-mock
 rubygem-mixlib-cli
 rubygem-mixlib-config
 rubygem-mixlib-log
@@ -18372,6 +18356,7 @@ rust-crossbeam-utils
 rust-crossfont
 rust-crossterm0.25
 rust-crossterm0.27
+rust-crossterm0.28
 rust-crypto-auditing-agent
 rust-crypto-auditing-client
 rust-crypto-auditing-event-broker
@@ -18512,6 +18497,7 @@ rust-dummy
 rust-dunce
 rust-dutree
 rust-dyn-clone
+rust-ear
 rust-easy-cast
 rust-easy-parallel
 rust-eax
@@ -18871,7 +18857,9 @@ rust-hashbrown0.13
 rust-hashbrown0.14
 rust-hashbrown0.15
 rust-hashlink
+rust-hashlink0.10
 rust-hashlink0.8
+rust-hashlink0.9
 rust-hash32-derive
 rust-hash32
 rust-hash32_0.2
@@ -19174,6 +19162,7 @@ rust-libseccomp-sys
 rust-libspa-sys0.8
 rust-libspa0.8
 rust-libsqlite3-sys0.25
+rust-libsqlite3-sys0.28
 rust-libssh2-sys
 rust-libsystemd
 rust-libtest-mimic
@@ -19766,6 +19755,7 @@ rust-regex
 rust-regex-syntax
 rust-regex-syntax0.6
 rust-regex-test
+rust-regorus
 rust-reis
 rust-relative-luminance
 rust-relative-path
@@ -19793,6 +19783,7 @@ rust-reqsign
 rust-reqsign-tencent-cos
 rust-reqwest-middleware
 rust-reqwest-retry
+rust-reqwest-retry0.7
 rust-reqwest
 rust-reqwest0.11
 rust-resctl-bench-intf
@@ -19801,6 +19792,7 @@ rust-resctl-demo
 rust-resctrlfs
 rust-resolv-conf
 rust-retry-policies
+rust-retry-policies0.4
 rust-revision-derive
 rust-rfc2047-decoder
 rust-rfc6979
@@ -19844,6 +19836,7 @@ rust-run_script
 rust-runtime-format
 rust-rusb
 rust-rusqlite0.28
+rust-rusqlite0.31
 rust-rustc-demangle-capi
 rust-rustc-demangle
 rust-rustc-hash
@@ -19883,6 +19876,8 @@ rust-rusttype
 rust-rustversion
 rust-rusty-forkfork
 rust-rusty-fork
+rust-rustyline-derive0.10
+rust-rustyline14
 rust-rusty_paserk
 rust-rusty_paseto
 rust-rutabaga_gfx
@@ -19965,6 +19960,7 @@ rust-serde_derive
 rust-serde_ignored
 rust-serde-json-core
 rust-serde_json
+rust-serde_norway
 rust-serde_path_to_error
 rust-serde_plain
 rust-serde-prefix-all
@@ -20289,15 +20285,25 @@ rust-tree-house-bindings
 rust-tree-house
 rust-tree_magic_db
 rust-tree_magic_mini
+rust-tree-sitter-ada
 rust-tree-sitter-bash
+rust-tree-sitter-cmake
 rust-tree-sitter-cpp
 rust-tree-sitter-c-sharp
 rust-tree-sitter-c
 rust-tree-sitter-css
+rust-tree-sitter-dart-orchard
+rust-tree-sitter-devicetree
+rust-tree-sitter-elisp
 rust-tree-sitter-elixir
+rust-tree-sitter-elm
+rust-tree-sitter-erlang
+rust-tree-sitter-fsharp
 rust-tree-sitter-generate
+rust-tree-sitter-gleam
 rust-tree-sitter-go
 rust-tree-sitter-haskell
+rust-tree-sitter-hcl
 rust-tree-sitter-html
 rust-tree-sitter-javascript
 rust-tree-sitter-java
@@ -20306,19 +20312,33 @@ rust-tree-sitter-julia
 rust-tree-sitter-language
 rust-tree-sitter-lua
 rust-tree-sitter-make
+rust-tree-sitter-newick
 rust-tree-sitter-nix
 rust-tree-sitter-objc
 rust-tree-sitter-ocaml
+rust-tree-sitter-pascal
 rust-tree-sitter-php
+rust-tree-sitter-proto
 rust-tree-sitter-python
+rust-tree-sitter-qmljs
+rust-tree-sitter-racket
+rust-tree-sitter-r
 rust-tree-sitter-ruby
+rust-tree-sitter-rust-orchard
 rust-tree-sitter-rust
 rust-tree-sitter-scala
+rust-tree-sitter-sequel
+rust-tree-sitter-sfapex
+rust-tree-sitter-scheme
+rust-tree-sitter-solidity
 rust-tree-sitter
+rust-tree-sitter-swift
 rust-tree-sitter-toml-ng
 rust-tree-sitter-typescript
+rust-tree-sitter-verilog
 rust-tree-sitter-xml
 rust-tree-sitter-yaml
+rust-tree-sitter-zig
 rust-tree-sitter0.23
 rust-tree-sitter0.24
 rust-triforce-lv2
@@ -20530,6 +20550,8 @@ rust-vhost-device-vsock
 rust-vhost
 rust-vhost-user-backend
 rust-v_htmlescape
+rust-virglrenderer
+rust-virglrenderer-sys
 rust-virtio-bindings
 rust-virtio-queue
 rust-virtio-vsock
@@ -22118,7 +22140,6 @@ vim-commentary
 vim-ctrlp
 vim-fugitive-gitlab
 vim-fugitive-pagure
-vim-fugitive
 vim-gitgutter
 vim-go
 vim-gtk-syntax
@@ -22127,7 +22148,6 @@ vimiv-qt
 vimiv
 vim-javabrowser
 vim-jedi
-vim-jellybeans
 vim-mediawiki
 vim-nerdtree
 vim-omnicppcomplete
@@ -22681,7 +22701,6 @@ xosview
 xournalpp
 xournal
 xpad
-xpanes
 xpa
 xpdf
 xpenguins

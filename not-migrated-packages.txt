@@ -130,7 +130,6 @@ cava
 cbios
 cc1541
 cc65
-cdk
 cdlabelgen
 cdogs-sdl
 cdparanoia
@@ -230,7 +229,6 @@ dahdi-tools
 dapl
 daq
 darkhttpd
-darkman
 dbus-c++
 dbus-sharp-glib
 dbus-sharp
@@ -269,7 +267,6 @@ doclifter
 docopt-cpp
 docparser
 doge
-doh
 dolphin-connector
 domoticz
 dom4j
@@ -744,6 +741,7 @@ golang-github-gobuffalo-logger
 golang-github-gobuffalo-packd
 golang-github-gobuffalo-packr
 golang-github-gobwas-glob
+golang-github-gobwas-ws
 golang-github-goccy-json
 golang-github-gocql
 golang-github-gofrs-uuid
@@ -2371,12 +2369,10 @@ python-aioresponses
 python-aiorpcx
 python-aiosqlite
 python-aiounifi
-python-aiounittest
 python-ajsonrpc
 python-allpairspy
 python-amqp
 python-animatplot
-python-anyio
 python-anykeystore
 python-apipkg
 python-AppTools
@@ -2391,7 +2387,6 @@ python-ast-monitor
 python-asysocks
 python-audioread
 python-autobahn
-python-Automat
 python-autopep8
 python-avocado
 python-avocado
@@ -2486,7 +2481,6 @@ python-bowler
 python-box
 python-branca
 python-btrfs
-python-build
 python-b2sdk
 python-CacheControl
 python-caja
@@ -2520,7 +2514,6 @@ python-collectd_systemd
 python-colorclass
 python-coloredlogs
 python-colored-traceback
-python-colorful
 python-colorlog
 python-colorspacious
 python-colorzero
@@ -2537,7 +2530,6 @@ python-crank
 python-crashtest
 python-crayons
 python-crcmod
-python-crochet
 python-croniter
 python-cro
 python-cson
@@ -2595,14 +2587,12 @@ python-dkimpy
 python-dns-lexicon
 python-dockerfile-parse
 python-docker-squash
-python-docopt
 python-dogpile-cache
 python-doit
 python-dotmap
 python-doubleratchet
 python-dpkt
 python-dtopt
-python-easyargs
 python-ecdsa
 python-elementpath
 python-empy
@@ -2691,7 +2681,6 @@ python-humanize
 python-hupper
 python-hyperframe
 python-hyperlink
-python-h11
 python-h2
 python-chai
 python-chameleon
@@ -2708,7 +2697,6 @@ python-interrogate
 python-ipmi
 python-IPy
 python-iso3166
-python-iso8601
 python-itemadapter
 python-itemloaders
 python-i3ipc
@@ -2720,7 +2708,6 @@ python-jaraco-packaging
 python-jaraco-path
 python-jaraco-text
 python-jcconv
-python-jedi
 python-jeepney
 python-jellyfish
 python-jinja2-cli
@@ -2732,7 +2719,6 @@ python-json-logger
 python-json-minify
 python-jsonref
 python-jupyter-c-kernel
-python-jwt
 python-kajiki
 python-kanboard
 python-kaptan
@@ -2768,7 +2754,6 @@ python-memcached
 python-mergedeep
 python-micawber
 python-migen
-python-mimeparse
 python-mimerender
 python-minidb
 python-minikerberos
@@ -2789,7 +2774,6 @@ python-moreorless
 python-mplcairo
 python-mplcursors
 python-multi_key_dict
-python-multipart
 python-munch
 python-musicbrainzngs
 python-mwclient
@@ -2817,7 +2801,6 @@ python-odata-query
 python-oletools
 python-omemo
 python-openant
-python-openidc-client
 python-openid-cla
 python-openpyxl
 python-op1repacker
@@ -2842,7 +2825,6 @@ python-pdfkit
 python-pdfrw
 python-pdir2
 python-pecan
-python-peewee
 python-pendulum
 python-pep8-naming
 python-persist-queue
@@ -2856,13 +2838,11 @@ python-pivy
 python-pkgconfig
 python-plaster-pastedeploy
 python-plaster
-python-platformdirs
 python-pluginbase
 python-plumbum
 python-portend
 python-port-for
 python-precis_i18n
-python-prettyprinter
 python-priority
 python-process-tests
 python-progress
@@ -2955,7 +2935,6 @@ python-recommonmark
 python-redis
 python-regex
 python-rencode
-python-repomd
 python-repoze-lru
 python-repoze-tm2
 python-repoze-who-plugins-sa
@@ -2964,7 +2943,6 @@ python-represent
 python-requests-cache
 python-requests-download
 python-requests-exoscale-auth
-python-requests-kerberos
 python-requests-pkcs12
 python-respx
 python-restructuredtext-lint
@@ -2986,10 +2964,8 @@ python-scrapy
 python-scripttest
 python-sentry-sdk
 python-serpent
-python-service-identity
 python-shamir-mnemonic
 python-show-in-file-manager
-python-sh
 python-schema
 python-sievelib
 python-sieve
@@ -3001,7 +2977,6 @@ python-sly
 python-smbprotocol
 python-snappy
 python-snaptime
-python-socksio
 python-speaklater
 python-speg
 python-sphinx-argparse
@@ -3024,7 +2999,6 @@ python-sphinx-notfound-page
 python-sphinx-press-theme
 python-sphinx_selective_exclude
 python-sphinx-theme-py3doc-enhanced
-python-spnego
 python-spyking-circus
 python-sqlacodegen
 python-sqlalchemy-collectd
@@ -3050,7 +3024,6 @@ python-terminaltables
 python-testfixtures
 python-TestSlide
 python-textile
-python-texttable
 python-tftpy
 python-tidy
 python-timeout-decorator
@@ -3109,7 +3082,6 @@ python-whoosh
 python-wikipedia
 python-winrm
 python-WSGIProxy2
-python-wsproto
 python-wtforms
 python-wtf-peewee
 python-wurlitzer
@@ -3677,15 +3649,12 @@ vigra
 vim-ale
 vim-commentary
 vim-ctrlp
-vim-fugitive
 vim-gitgutter
 vim-go
 vim-gtk-syntax
 vim-gv
 vimiv
 vim-javabrowser
-vim-jellybeans
-vim-mediawiki
 vim-nerdtree
 vim-pathogen
 vim-rhubarb
@@ -3791,7 +3760,6 @@ xorg-x11-drv-openchrome
 xorg-x11-drv-qxl
 xorg-x11-xdm
 xorsearch
-xpanes
 xpa
 xqc
 xrdp
