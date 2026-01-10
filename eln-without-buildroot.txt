@@ -39,7 +39,6 @@ ansible-pcp
 ant
 anthy-unicode
 antlr
-aom
 aopalliance
 apache-commons-cli
 apache-commons-codec
@@ -136,6 +135,7 @@ color-filesystem
 colord
 colord-gtk
 command-line-assistant
+compat-gpgme124
 composefs
 conmon
 conntrack-tools
@@ -167,7 +167,6 @@ cups-pk-helper
 curl
 cyrus-imapd
 cyrus-sasl
-dav1d
 dbus
 dbus-broker
 dbus-python
@@ -357,6 +356,8 @@ gnu-efi
 gnulib-l10n
 gnupg2
 gnutls
+go-fdo-client
+go-fdo-server
 go-rpm-macros
 gobject-introspection
 golang
@@ -381,7 +382,7 @@ grafana-pcp
 graphene
 graphite2
 graphviz
-greenboot
+greenboot-rs
 grep
 groff
 grub2
@@ -812,7 +813,6 @@ libgweather
 libgxps
 libhandy
 libhangul
-libheif
 libi2cd
 libica
 libical
@@ -1105,7 +1105,6 @@ nodejs-nodemon
 nodejs-packaging
 nodejs22
 nodejs24
-noopenh264
 npth
 nss
 nss-altfiles
@@ -1139,7 +1138,6 @@ opendnssec
 openexr
 openjade
 openjpeg
-openjph
 openldap
 openmpi
 openoffice-lv
@@ -1420,7 +1418,6 @@ poppler
 poppler-data
 popt
 postfix
-postgis
 postgresql-jdbc
 postgresql-odbc
 postgresql18
@@ -1428,6 +1425,7 @@ postgresql18-decoderbufs
 postgresql18-pg_repack
 postgresql18-pgaudit
 postgresql18-pgvector
+postgresql18-postgis
 potrace
 powerpc-utils
 powertop
@@ -1539,6 +1537,7 @@ python-ptyprocess
 python-pyasn1
 python-pycdio
 python-pycparser
+python-pycurl
 python-pygments
 python-pyproject-hooks
 python-pyqt6
@@ -1668,15 +1667,28 @@ rteval-loads
 rtkit
 rtrlib
 ruby
+rubygem-backports
+rubygem-childprocess
 rubygem-diff-lcs
+rubygem-ethon
+rubygem-ffi
+rubygem-mustermann
 rubygem-mysql2
+rubygem-nio4r
 rubygem-pg
+rubygem-puma
+rubygem-rack
+rubygem-rack-protection
+rubygem-rack-session
+rubygem-rackup
 rubygem-rspec
 rubygem-rspec-core
 rubygem-rspec-expectations
 rubygem-rspec-mocks
 rubygem-rspec-support
+rubygem-sinatra
 rubygem-thread_order
+rubygem-tilt
 rust
 rust-afterburn
 rust-bindgen-cli
@@ -1686,7 +1698,6 @@ rust-coreos-installer
 rust-gst-plugin-gtk4
 rust-podman-sequoia
 rust-prefixdevname
-rust-rav1e
 rust-rpm-sequoia
 rust-sequoia-sq
 rust-sequoia-sqv
@@ -1792,7 +1803,6 @@ subscription-manager-rhsm-certificates
 subversion
 sudo
 supermin
-svt-av1
 swig
 switcheroo-control
 swtpm
@@ -1896,7 +1906,6 @@ virt-what
 virt-who
 virtio-win
 virtiofsd
-vmaf
 volume_key
 vte291
 vulkan-headers
@@ -1924,6 +1933,7 @@ words
 wpa_supplicant
 wsdd
 wsl-setup
+wslay
 wsmancli
 x3270
 xalan-j2
