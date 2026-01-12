@@ -696,6 +696,8 @@ golang-github-gobuffalo-logger warning: valid as old and new and no changelong e
 golang-github-gobuffalo-packd warning: valid as old and new and no changelong entry, please check
 golang-github-gobuffalo-packr warning: valid as old and new and no changelong entry, please check
 golang-github-gobwas-glob warning: valid as old and new and no changelong entry, please check
+golang-github-gobwas-httphead warning: valid as old and new and no changelong entry, please check
+golang-github-gobwas-pool warning: valid as old and new and no changelong entry, please check
 golang-github-gobwas-ws warning: valid as old and new and no changelong entry, please check
 golang-github-goccy-json warning: valid as old and new and no changelong entry, please check
 golang-github-gocql contains LicenseRef-Callaway, needs to be manually converted
@@ -805,7 +807,6 @@ golang-github-lestrrat-envload warning: valid as old and new and no changelong e
 golang-github-lestrrat-strftime warning: valid as old and new and no changelong entry, please check
 golang-github-leveldb contains LicenseRef-Callaway, needs to be manually converted
 golang-github-lib-pq warning: valid as old and new and no changelong entry, please check
-golang-github-lofanmi-pinyin warning: valid as old and new and no changelong entry, please check
 golang-github-logfmt warning: valid as old and new and no changelong entry, please check
 golang-github-lucasb-eyer-colorful warning: valid as old and new and no changelong entry, please check
 golang-github-lunixbochs-vtclean warning: valid as old and new and no changelong entry, please check
@@ -847,7 +848,6 @@ golang-github-mndrix-tap warning: valid as old and new and no changelong entry, 
 golang-github-mohae-deepcopy warning: valid as old and new and no changelong entry, please check
 golang-github-montanaflynn-stats warning: valid as old and new and no changelong entry, please check
 golang-github-morikuni-aec warning: valid as old and new and no changelong entry, please check
-golang-github-mozillazg-pinyin warning: valid as old and new and no changelong entry, please check
 golang-github-mreiferson-httpclient warning: valid as old and new and no changelong entry, please check
 golang-github-mroach-rom64 warning: valid as old and new and no changelong entry, please check
 golang-github-mr-tron-base58 warning: valid as old and new and no changelong entry, please check
@@ -1343,6 +1343,7 @@ libbonoboui contains LicenseRef-Callaway, needs to be manually converted
 libbs2b warning: valid as old and new and no changelong entry, please check
 libcacard contains LicenseRef-Callaway, needs to be manually converted
 libcaca warning: valid as old and new and no changelong entry, please check
+libcap-ng - can be trivially converted to GPL-2.0-or-later
 libcerf warning: valid as old and new and no changelong entry, please check
 libcgif warning: valid as old and new and no changelong entry, please check
 libcgi contains LicenseRef-Callaway, needs to be manually converted
@@ -1798,7 +1799,6 @@ multitail warning: valid as old and new and no changelong entry, please check
 multiwatch warning: valid as old and new and no changelong entry, please check
 mum-hash warning: valid as old and new and no changelong entry, please check
 MUMPS warning: valid as old and new and no changelong entry, please check
-muParser warning: valid as old and new and no changelong entry, please check
 mupen64plus contains LicenseRef-Callaway, needs to be manually converted
 mup warning: valid as old and new and no changelong entry, please check
 muse contains LicenseRef-Callaway, needs to be manually converted
@@ -1860,7 +1860,6 @@ ns-bola-fonts contains LicenseRef-Callaway, needs to be manually converted
 nsca-ng contains LicenseRef-Callaway, needs to be manually converted
 nss_nis contains LicenseRef-Callaway, needs to be manually converted
 ns-tiza-chalk-fonts contains LicenseRef-Callaway, needs to be manually converted
-nulib2 contains LicenseRef-Callaway, needs to be manually converted
 numlockx warning: valid as old and new and no changelong entry, please check
 nunit contains LicenseRef-Callaway, needs to be manually converted
 nunit2 contains LicenseRef-Callaway, needs to be manually converted
@@ -3197,8 +3196,6 @@ srmio warning: valid as old and new and no changelong entry, please check
 sshexport contains LicenseRef-Callaway, needs to be manually converted
 sslscan contains LicenseRef-Callaway, needs to be manually converted
 sslsplit contains LicenseRef-Callaway, needs to be manually converted
-sssd warning: not valid neither as Callaway nor as SPDX, please check
-sssd warning: not valid neither as Callaway nor as SPDX, please check
 staden-io_lib warning: valid as old and new and no changelong entry, please check
 stargz-snapshotter contains LicenseRef-Callaway, needs to be manually converted
 statsd warning: valid as old and new and no changelong entry, please check

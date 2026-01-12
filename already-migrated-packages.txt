@@ -908,6 +908,7 @@ clpeak
 clustal-omega
 clustershell
 clusterssh
+cmake-extras
 cmake-fedora
 cmakelang
 cmake
@@ -1598,7 +1599,6 @@ efifs
 efi-rpm-macros
 efitools
 efivar
-efs-utils
 eggdrop
 eglexternalplatform
 egl-wayland
@@ -3841,11 +3841,8 @@ golang-github-xhit-str2duration2
 golang-github-xtgo-set
 golang-github-xwb1989-sqlparser
 golang-github-x448-float16
-golang-github-youpy-riff
-golang-github-youpy-wav
 golang-github-yuin-goldmark-meta
 golang-github-yvasiyarov-metrics
-golang-github-zaf-g711
 golang-github-zcalusic-sysinfo
 golang-github-zclconf-cty-debug
 golang-github-zeebo-assert
@@ -4238,7 +4235,6 @@ hatools
 haunt
 haveged
 haxe
-hcloud
 hcxtools
 hddfancontrol
 hddtemp
@@ -5563,7 +5559,6 @@ libcamera
 libcanberra
 libcangjie
 libcanlock
-libcap-ng
 libcap
 libcbor
 libccd
@@ -7108,6 +7103,7 @@ mumble
 munge
 munin
 muon-meson
+muParser
 mupdf
 musescore
 MUSIC
@@ -7387,6 +7383,7 @@ ntpsec
 ntpstat
 nudoku
 nuget
+nulib2
 numactl
 numad
 numatop
@@ -12918,6 +12915,7 @@ python-proto-plus
 python-psutil
 python-psycopg2
 python-psycopg3
+python-psygnal
 python-ptrace
 python-ptyprocess
 python-pulp-glue
@@ -16410,7 +16408,6 @@ rust-libspa-sys
 rust-libspa-sys0.8
 rust-libspa0.8
 rust-libsqlite3-sys
-rust-libsqlite3-sys0.25
 rust-libsqlite3-sys0.28
 rust-libssh2-sys
 rust-libsystemd
@@ -17127,7 +17124,6 @@ rust-remain
 rust-remoteprocess
 rust-remove_dir_all
 rust-remove_dir_all0.7
-rust-rename-item
 rust-rend
 rust-rend0.4
 rust-reqsign-aliyun-oss
@@ -17203,7 +17199,6 @@ rust-run_script
 rust-runtime-format
 rust-rusb
 rust-rusqlite
-rust-rusqlite0.28
 rust-rusqlite0.31
 rust-rustbus_derive
 rust-rustbus
@@ -18130,8 +18125,6 @@ rust-yuv
 rust-yuvutils-rs
 rust-y4m
 rust-z-base-32
-rust-zbus-lockstep-macros
-rust-zbus-lockstep
 rust-zbus_macros
 rust-zbus_macros4
 rust-zbus_names
@@ -18711,6 +18704,7 @@ sshuttle
 ssldump
 sslh
 ssmtp
+sssd
 ssss
 sstp-client
 stack
@@ -18763,6 +18757,7 @@ stringtemplate4
 stripesnoop
 strongswan
 st
+stubble
 stubby
 s-tui
 stunnel

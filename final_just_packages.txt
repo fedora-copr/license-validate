@@ -697,6 +697,8 @@ golang-github-gobuffalo-logger
 golang-github-gobuffalo-packd
 golang-github-gobuffalo-packr
 golang-github-gobwas-glob
+golang-github-gobwas-httphead
+golang-github-gobwas-pool
 golang-github-gobwas-ws
 golang-github-goccy-json
 golang-github-gocql
@@ -806,7 +808,6 @@ golang-github-lestrrat-envload
 golang-github-lestrrat-strftime
 golang-github-leveldb
 golang-github-lib-pq
-golang-github-lofanmi-pinyin
 golang-github-logfmt
 golang-github-lucasb-eyer-colorful
 golang-github-lunixbochs-vtclean
@@ -848,7 +849,6 @@ golang-github-mndrix-tap
 golang-github-mohae-deepcopy
 golang-github-montanaflynn-stats
 golang-github-morikuni-aec
-golang-github-mozillazg-pinyin
 golang-github-mreiferson-httpclient
 golang-github-mroach-rom64
 golang-github-mr-tron-base58
@@ -1349,6 +1349,7 @@ libbonoboui
 libbs2b
 libcacard
 libcaca
+libcap-ng
 libcerf
 libcgif
 libcgi
@@ -1807,7 +1808,6 @@ multitail
 multiwatch
 mum-hash
 MUMPS
-muParser
 mupen64plus
 mup
 muse
@@ -1869,7 +1869,6 @@ ns-bola-fonts
 nsca-ng
 nss_nis
 ns-tiza-chalk-fonts
-nulib2
 numlockx
 nunit
 nunit2
@@ -3212,10 +3211,6 @@ srmio
 sshexport
 sslscan
 sslsplit
-sssd
-sssd
-sssd
-sssd
 staden-io_lib
 stargz-snapshotter
 statsd
@@ -3542,19 +3537,3 @@ zsh-syntax-highlighting
 0ad
 2048-cli
 3dprinter-udev-rules
-sssd
-sssd
-sssd
-sssd
-sssd
-sssd
-sssd
-sssd
-sssd
-sssd
-sssd
-sssd
-sssd
-sssd
-sssd
-sssd

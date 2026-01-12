@@ -1074,6 +1074,7 @@ clutter-gtk
 cluttermm
 clutter
 clxclient
+cmake-extras
 cmake-fedora
 cmakelang
 cmake
@@ -1897,7 +1898,6 @@ efitools
 efivar
 efl
 efont-unicode-bdf
-efs-utils
 egd
 eggdrop
 eglexternalplatform
@@ -4242,6 +4242,8 @@ golang-github-gobuffalo-logger
 golang-github-gobuffalo-packd
 golang-github-gobuffalo-packr
 golang-github-gobwas-glob
+golang-github-gobwas-httphead
+golang-github-gobwas-pool
 golang-github-gobwas-ws
 golang-github-goccy-json
 golang-github-goccy-yaml
@@ -4468,7 +4470,6 @@ golang-github-leveldb
 golang-github-lib-pq
 golang-github-linkedin-goavro
 golang-github-linuxdeepin-go-x11-client
-golang-github-lofanmi-pinyin
 golang-github-logfmt
 golang-github-logr
 golang-github-logr-stdr
@@ -4534,7 +4535,6 @@ golang-github-modern-reflect2
 golang-github-mohae-deepcopy
 golang-github-montanaflynn-stats
 golang-github-morikuni-aec
-golang-github-mozillazg-pinyin
 golang-github-mreiferson-httpclient
 golang-github-mroach-rom64
 golang-github-mr-tron-base58
@@ -4826,15 +4826,12 @@ golang-github-xrash-smetrics
 golang-github-xtgo-set
 golang-github-xwb1989-sqlparser
 golang-github-x448-float16
-golang-github-youpy-riff
-golang-github-youpy-wav
 golang-github-yuin-goldmark-meta
 golang-github-yuin-goldmark
 golang-github-yuin-gopher-lua
 golang-github-yvasiyarov-gorelic
 golang-github-yvasiyarov-metrics
 golang-github-yvasiyarov-newrelic-platform
-golang-github-zaf-g711
 golang-github-zcalusic-sysinfo
 golang-github-zclconf-cty-debug
 golang-github-zclconf-cty
@@ -5329,7 +5326,6 @@ haveged
 hawknl
 hawtjni
 haxe
-hcloud
 hcxtools
 hddfancontrol
 hddtemp
@@ -15616,6 +15612,7 @@ python-prov
 python-psutil
 python-psycopg2
 python-psycopg3
+python-psygnal
 python-ptrace
 python-ptyprocess
 python-publicsuffix2
@@ -19484,7 +19481,6 @@ rust-libspa-sys
 rust-libspa-sys0.8
 rust-libspa0.8
 rust-libsqlite3-sys
-rust-libsqlite3-sys0.25
 rust-libsqlite3-sys0.28
 rust-libssh2-sys
 rust-libsystemd
@@ -20202,7 +20198,6 @@ rust-remain
 rust-remoteprocess
 rust-remove_dir_all
 rust-remove_dir_all0.7
-rust-rename-item
 rust-rend
 rust-rend0.4
 rust-reqsign-aliyun-oss
@@ -20279,7 +20274,6 @@ rust-run_script
 rust-runtime-format
 rust-rusb
 rust-rusqlite
-rust-rusqlite0.28
 rust-rusqlite0.31
 rust-rustbus_derive
 rust-rustbus
@@ -21207,8 +21201,6 @@ rust-yuv
 rust-yuvutils-rs
 rust-y4m
 rust-z-base-32
-rust-zbus-lockstep-macros
-rust-zbus-lockstep
 rust-zbus_macros
 rust-zbus_macros4
 rust-zbus_names
@@ -21926,6 +21918,7 @@ stringtemplate4
 stripesnoop
 strongswan
 st
+stubble
 stubby
 s-tui
 stunnel
