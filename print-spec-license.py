@@ -9,7 +9,7 @@ logger.setLevel(logging.CRITICAL)
 # this is dump, but do the work
 filename = sys.argv[1]
 specfile = Specfile(filename, force_parse=True)
-print('dbg\n')
+#print('dbg\n')
 with specfile.sections() as sections:
     for section in sections:
         if section.name.startswith("package"):
