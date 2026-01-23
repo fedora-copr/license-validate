@@ -102,6 +102,7 @@ bolt
 boom-boot
 boost
 bootc
+booth
 bpftool
 bpftrace
 brasero
@@ -140,7 +141,6 @@ chrpath
 cifs-utils
 cim-schema
 cjose
-classloader-leak-test-framework
 cldr-emoji-annotation
 clevis
 clevis-pin-tpm2
@@ -158,7 +158,6 @@ color-filesystem
 colord
 colord-gtk
 command-line-assistant
-compat-gpgme124
 composefs
 conmon
 conntrack-tools
@@ -169,6 +168,8 @@ container-tools
 containers-common
 convmv
 coreutils
+corosync
+corosync-qdevice
 corrosion
 cpio
 cppunit
@@ -281,6 +282,7 @@ fedora-release
 fedora-repos
 felix-parent
 felix-utils
+fence-agents
 fetchmail
 fftw
 fido-device-onboard
@@ -678,6 +680,7 @@ ipset
 iptables
 iptraf-ng
 iputils
+ipvsadm
 ipxe
 irqbalance
 irssi
@@ -742,6 +745,7 @@ kbd
 kdump-anaconda-addon
 kdump-utils
 kea
+keepalived
 kernel
 kernel-srpm-macros
 kernelshark
@@ -755,6 +759,7 @@ kojan-parent
 kojan-xml
 kpatch
 krb5
+kronosnet
 ksc
 ksh
 ksmtuned
@@ -1171,7 +1176,6 @@ mpdecimal
 mpfr
 mpg123
 mpich
-mpitests
 mptcpd
 mrtg
 msitools
@@ -1247,6 +1251,7 @@ ocaml-srpm-macros
 oci-seccomp-bpf-hook
 ocl-icd
 oddjob
+omping
 ongres-scram
 ongres-stringprep
 oniguruma
@@ -1291,6 +1296,7 @@ osinfo-db
 osinfo-db-tools
 ostree
 p11-kit
+pacemaker
 package-notes
 paktype-naskh-basic-fonts
 pam
@@ -1313,6 +1319,7 @@ pciutils
 pcm
 pcp
 pcre2
+pcs
 pcsc-lite
 pcsc-lite-ccid
 perftest
@@ -1915,7 +1922,6 @@ rubygem-rspec-core
 rubygem-rspec-expectations
 rubygem-rspec-mocks
 rubygem-rspec-support
-rubygem-rubyzip
 rubygem-thread_order
 rust
 rust-afterburn
@@ -1944,6 +1950,7 @@ sap-cluster-connector
 sap-hana-ha
 sassc
 sbc
+sbd
 sblim-cmpi-base
 sblim-cmpi-devel
 sblim-indication_helper
@@ -2008,6 +2015,7 @@ sound-theme-freedesktop
 soundtouch
 source-highlight
 spandsp
+spausedd
 speech-dispatcher
 speex
 speexdsp
@@ -2182,7 +2190,6 @@ words
 wpa_supplicant
 wsdd
 wsl-setup
-wslay
 wsmancli
 x3270
 xalan-j2

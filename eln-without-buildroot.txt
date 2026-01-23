@@ -86,6 +86,7 @@ bolt
 boom-boot
 boost
 bootc
+booth
 bpftool
 bpftrace
 brasero
@@ -134,7 +135,6 @@ color-filesystem
 colord
 colord-gtk
 command-line-assistant
-compat-gpgme124
 composefs
 conmon
 conntrack-tools
@@ -144,6 +144,8 @@ container-tools
 containers-common
 convmv
 coreutils
+corosync
+corosync-qdevice
 cpio
 cracklib
 crash
@@ -245,6 +247,7 @@ fedora-eln-backgrounds
 fedora-eln-logos
 fedora-release
 fedora-repos
+fence-agents
 fetchmail
 fftw
 fido-device-onboard
@@ -405,6 +408,7 @@ gvfs
 gvisor-tap-vsock
 gzip
 hamcrest
+haproxy
 harfbuzz
 hdparm
 help2man
@@ -628,6 +632,7 @@ ipset
 iptables
 iptraf-ng
 iputils
+ipvsadm
 ipxe
 irqbalance
 irssi
@@ -678,6 +683,7 @@ kbd
 kdump-anaconda-addon
 kdump-utils
 kea
+keepalived
 kernel
 kernel-srpm-macros
 kernelshark
@@ -691,6 +697,7 @@ kojan-parent
 kojan-xml
 kpatch
 krb5
+kronosnet
 ksc
 ksh
 ksmtuned
@@ -1058,7 +1065,6 @@ mpdecimal
 mpfr
 mpg123
 mpich
-mpitests
 mptcpd
 mrtg
 mstflint
@@ -1114,6 +1120,7 @@ ocaml-srpm-macros
 oci-seccomp-bpf-hook
 ocl-icd
 oddjob
+omping
 ongres-scram
 ongres-stringprep
 oniguruma
@@ -1155,6 +1162,7 @@ osinfo-db
 osinfo-db-tools
 ostree
 p11-kit
+pacemaker
 package-notes
 paktype-naskh-basic-fonts
 pam
@@ -1176,6 +1184,7 @@ pciutils
 pcm
 pcp
 pcre2
+pcs
 pcsc-lite
 pcsc-lite-ccid
 perftest
@@ -1690,6 +1699,7 @@ sanlock
 sap-cluster-connector
 sap-hana-ha
 sbc
+sbd
 sblim-cmpi-base
 sblim-cmpi-devel
 sblim-indication_helper
@@ -1740,12 +1750,14 @@ smc-tools
 snapm
 snappy
 snapshot
+socat
 softhsm
 sos
 sound-theme-freedesktop
 soundtouch
 source-highlight
 spandsp
+spausedd
 speech-dispatcher
 speex
 speexdsp
@@ -1905,7 +1917,6 @@ words
 wpa_supplicant
 wsdd
 wsl-setup
-wslay
 wsmancli
 x3270
 xalan-j2

@@ -1030,6 +1030,7 @@ cld2
 cleanfeed
 clean-rpm-gpg-pubkey
 clearlooks-compact-gnome-theme
+clearsilver
 clementine
 clevis
 clibs-list
@@ -2212,6 +2213,7 @@ e2tools
 e3
 faad2
 fabtests
+facebook-time
 facter
 fail2ban
 fakechroot
@@ -2228,6 +2230,7 @@ fapolicyd
 farstream02
 fastapi-cli
 fastapi-cloud-cli
+fastapi-new
 fastback
 fastbit
 fast-cdr
@@ -2253,9 +2256,7 @@ fbida
 fbreader
 fbrnch
 fbterm
-fbthrift
 fbzx
-fb303
 fcft
 fcgi
 fcgiwrap
@@ -2396,7 +2397,6 @@ fish
 fityk
 five-or-more
 fixedptc
-fizz
 flacon
 flac
 flac123
@@ -2413,7 +2413,6 @@ flatbuffers
 flatpak-builder
 flatpak-kcm
 flatpak-module-tools
-flatpak-rpm-macros
 flatpak
 flatpak-xdg-utils
 flatseal
@@ -2426,7 +2425,6 @@ flexiblas
 flexmark-java
 flex
 flickcurl
-FlightCrew
 FlightGear-Atlas
 FlightGear-data
 FlightGear
@@ -2448,6 +2446,7 @@ flpsed
 flrig
 flterm
 fltk
+fltk1.3
 fluent-bit
 fluid-soundfont
 fluid
@@ -2471,7 +2470,6 @@ foliate
 folio
 folks
 folly-rpm-macros
-folly
 foma
 fontaine
 fontawesome-fonts
@@ -3910,7 +3908,6 @@ gnulib-l10n
 gnulib
 gnumeric
 gnupg-pkcs11-scd
-gnupg1
 gnupg2
 gnuplot
 gnuradio
@@ -5033,6 +5030,7 @@ gopls
 gops
 go-rpm-macros
 gosec
+goss
 gotags
 gotcha
 gotify-desktop
@@ -5291,6 +5289,7 @@ hashcat
 hash-o-matic
 hash-slinger
 haskell-platform
+hasktags
 hatari
 hatch
 hatools
@@ -5299,6 +5298,7 @@ haveged
 hawknl
 hawtjni
 haxe
+hcloud
 hcxtools
 hddfancontrol
 hddtemp
@@ -6474,7 +6474,6 @@ khelpcenter
 khmer-os-fonts
 kcharselect
 kcheckers
-kchmviewer
 kicad
 kiconedit
 kidentitymanagement
@@ -8843,7 +8842,6 @@ mussh
 mustache
 mutter
 mutt
-mvfst
 mxml
 mxparser
 mx5000tools
@@ -9256,6 +9254,7 @@ ocaml-camlp-streams
 ocaml-camlp5-buildscripts
 ocaml-camlp5
 ocaml-camomile
+ocaml-capitalization
 ocaml-cinaps
 ocaml-cmdliner
 ocaml-compiler-libs-janestreet
@@ -9851,6 +9850,7 @@ pdfarranger
 pdfbox
 pdfcrack
 pdfgrep
+pdfio
 pdfmerge
 pdfmixtool
 pdfpc
@@ -10414,7 +10414,6 @@ perl-Crypt-ECB
 perl-Crypt-Eksblowfish
 perl-Crypt-GCrypt
 perl-Crypt-GeneratePassword
-perl-Crypt-GPG
 perl-Crypt-IDEA
 perl-Crypt-JWT
 perl-Crypt-MySQL
@@ -13057,6 +13056,7 @@ php-doctrine-event-manager
 php-doctrine-inflector
 php-doctrine-inflector2
 php-doctrine-instantiator
+php-doctrine-instantiator2
 php-doctrine-lexer
 php-doctrine-sql-formatter
 php-domxml-php4-php5
@@ -13389,6 +13389,7 @@ php-zmq
 php-zordius-lightncandy
 php-zstd
 php-zumba-json-serializer
+phrog
 physfs
 phytool
 pianobar
@@ -13469,7 +13470,6 @@ plasma-firewall
 plasma-integration
 plasma-keyboard
 plasma-login-manager
-plasma-mediacenter
 plasma-milou
 plasma-mobile-sounds
 plasma-mobile
@@ -13824,7 +13824,6 @@ pyp2rpm
 pyp2spec
 PyQt-builder
 pyqtwebengine
-PyQt4
 py-radix
 pyscard
 pyserial
@@ -13886,6 +13885,7 @@ python-alembic
 python-alembic1.14
 python-allpairspy
 python-alsa
+python-amd-debug-tools
 python-amqp
 python-ana
 python-androguard
@@ -14151,7 +14151,6 @@ python-bottle
 python-bottle-sqlite
 python-boutdata
 python-boxsdk
-python-box
 python-bracex
 python-branca
 python-bravado-core
@@ -14406,6 +14405,7 @@ python-debtcollector
 python-decopatch
 python-decorator
 python-deepdiff
+python-deepl
 python-deepmerge
 python-defcon
 python-defusedxml
@@ -14745,6 +14745,7 @@ python-gerritlib
 python-gertty
 python-getmac
 python-gettext
+python-gevent-eventemitter
 python-gevent
 python-ghp-import
 python-giacpy
@@ -14935,6 +14936,7 @@ python-itemadapter
 python-itemloaders
 python-itsdangerous
 python-i3ipc
+python-jack-client
 python-jaconv
 python-janus-swi
 python-jaraco-classes
@@ -14987,7 +14989,6 @@ python-junitparser
 python-junitxml
 python-jupymake
 python-jupyter-cache
-python-jupyter-c-kernel
 python-jupyter-client
 python-jupyter-console
 python-jupyter-core
@@ -15281,7 +15282,6 @@ python-niapy
 python-nibabel
 python-nifti-mrs
 python-nihtest
-python-nikola
 python-nine
 python-nitime
 python-nitrate
@@ -15400,7 +15400,6 @@ python-pandas
 python-pandocfilters
 python-paperwork-backend
 python-parameter-expansion-patched
-python-parameterized
 python-paramiko
 python-pari-jupyter
 python-parsedatetime
@@ -15626,6 +15625,7 @@ python-pykcs11
 python-pykdtree
 python-pykdumpfile
 python-pykeepass
+python-py-key-value
 python-pykmip
 python-pykwalify
 python-pylero
@@ -16296,7 +16296,6 @@ python-tld
 python-tmuxp
 python-token-bucket
 python-tokenize-rt
-python-toml-adapt
 python-toml-cli
 python-tomli
 python-tomlkit
@@ -16475,6 +16474,7 @@ python-webtest
 python-werkzeug
 python-whatthepatch
 python-wheel
+python-wheel0.37
 python-whisper
 python-whitenoise
 python-whois
@@ -16685,7 +16685,6 @@ qmplay2
 QMsgBox
 qm
 qm-vamp-plugins
-qoauth
 qoi
 qownnotes
 qpdf
@@ -16918,6 +16917,7 @@ R-AUC
 ravada
 rawtherapee
 raylib
+raysession
 R-backports
 rbanffy-3270-fonts
 R-base64enc
@@ -17127,6 +17127,7 @@ R-gtable
 R-gtools
 rhash
 rhbzquery
+rhc
 rhdb-utils
 R-here
 R-hexbin
@@ -17255,6 +17256,7 @@ rocm-rpp
 rocm-runtime
 rocm-smi
 rocm
+rocm-transferbench
 rocm-validation-suite
 rocprim
 rocprofiler-register
@@ -17597,7 +17599,6 @@ rubygem-ruby-dbus
 rubygem-ruby-libvirt
 rubygem-ruby-shadow
 rubygem-rubyzip
-rubygem-sassc-rails
 rubygem-scanf
 rubygem-selenium-webdriver
 rubygem-semantic_puppet
@@ -17809,7 +17810,6 @@ rust-atomic_refcell
 rust-atomic
 rust-atomic-waker
 rust-atomic0.5
-rust-atspi-common
 rust-attribute-derive-macro
 rust-attribute-derive
 rust-audiopus_sys
@@ -17820,6 +17820,7 @@ rust-av-data
 rust-average
 rust-avif-parse
 rust-avif-serialize
+rust-av-scenechange
 rust-avt
 rust-av1-grain
 rust-aws-nitro-enclaves-cose
@@ -18179,6 +18180,7 @@ rust-cxx-gen
 rust-cxx
 rust-cyclonedx-bom-macros
 rust-cyclonedx-bom
+rust-daemonix
 rust-daemonize
 rust-darling_core0.20
 rust-darling_macro0.20
@@ -19567,6 +19569,7 @@ rust-reqwest-middleware
 rust-reqwest-retry
 rust-reqwest
 rust-reqwest0.11
+rust-reqwest0.12
 rust-resctl-bench-intf
 rust-resctl-bench
 rust-resctl-demo
@@ -20025,6 +20028,7 @@ rust-toml_datetime0.6
 rust-toml_edit
 rust-toml_edit0.19
 rust-toml_edit0.22
+rust-toml_edit0.23
 rust-toml_parser
 rust-toml-span
 rust-toml
@@ -20453,8 +20457,10 @@ rust-zopfli
 rust-zstd-safe
 rust-zstd-sys
 rust-zune-core
+rust-zune-core0.4
 rust-zune-inflate
 rust-zune-jpeg
+rust-zune-jpeg0.4
 rust-zvariant_derive4
 rust-zvariant_utils
 rust-zvariant_utils2
@@ -20620,7 +20626,6 @@ sdcv
 sddm-conf
 sddm-kcm
 sddm
-sdformat
 sdl-crypto
 sdl-decnumber
 SDL_gfx
@@ -21383,6 +21388,12 @@ texinfo
 texi2html
 texlive-acrotex
 texlive-base
+texlive-collection-basic
+texlive-collection-fontutils
+texlive-collection-formatsextra
+texlive-collection-humanities
+texlive-collection-langczechslovak
+texlive-collection-langchinese
 texlive-eq-save
 texlive-mathtime-ltx
 texlive-scheme-basic
@@ -21515,7 +21526,6 @@ tomcat
 tomcat-taglibs-parent
 tomcli
 tomlplusplus
-toml11
 tomoe-gtk
 tomoe
 tomsfastmath
@@ -21898,6 +21908,7 @@ vectorscan
 velocity
 vemana2000-fonts
 verbiste
+vercel-geist-fonts
 verilator
 veristat
 verne-backgrounds
@@ -22045,7 +22056,6 @@ wagyu
 waifu2x-converter-cpp
 WALinuxAgent
 wallpapoz
-wangle
 warble
 warmux
 warsow-data
@@ -22456,7 +22466,6 @@ xnvme
 xonotic-data
 xonotic
 xonsh
-xoo
 xorgxrdp
 xorg-x11-drivers
 xorg-x11-drv-amdgpu
