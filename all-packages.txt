@@ -9598,8 +9598,6 @@ opengl-games-utils
 opengrm-ngram
 openhantek
 openhmd
-openhpi
-openhpi-subagent
 openh264
 openigtlink
 openiked
@@ -16299,6 +16297,7 @@ python-stdlib-list
 python-stdlibs
 python-stdnum
 python-steampunk-spotter
+python-steam
 python-stem
 python-steps
 python-stestr
@@ -18257,7 +18256,6 @@ rust-bincode
 rust-bincode1
 rust-bindgen-cli
 rust-bindgen
-rust-bindgen0.68
 rust-bindgen0.69
 rust-bindgen0.71
 rust-binfmt-dispatcher
@@ -18274,7 +18272,6 @@ rust-bitreader
 rust-bit-set
 rust-bit-set0.5
 rust-bitstream-io
-rust-bitstream-io2
 rust-bitstring
 rust-bitvec_helpers
 rust-bit-vec
@@ -18828,7 +18825,6 @@ rust-fd-lock
 rust-fd-lock3
 rust-fend-core
 rust-fern
-rust-fern0.6
 rust-ff
 rust-fiat-crypto
 rust-field-offset
@@ -19141,7 +19137,6 @@ rust-hashbrown0.14
 rust-hashbrown0.15
 rust-hashlink
 rust-hashlink0.10
-rust-hashlink0.8
 rust-hashlink0.9
 rust-hash32-derive
 rust-hash32
@@ -19282,6 +19277,7 @@ rust-indoc1
 rust-inferno
 rust-inflate
 rust-Inflector
+rust-ingredients
 rust-ini_core
 rust-inlinable_string
 rust-inotify
@@ -19440,6 +19436,7 @@ rust-libbpf-cargo0.23
 rust-libbpf-rs
 rust-libbpf-rs0.22
 rust-libbpf-rs0.23
+rust-libbpf-rs0.24
 rust-libbpf-sys
 rust-libbz2-rs-sys
 rust-libcramjam
@@ -19998,8 +19995,6 @@ rust-privdrop
 rust-probe
 rust-procfs-core
 rust-procfs
-rust-procfs0.12
-rust-procfs0.15
 rust-proc-macro-crate
 rust-proc-macro-error-attr
 rust-proc-macro-error-attr2
@@ -20215,7 +20210,9 @@ rust-reqsign-oracle
 rust-reqsign
 rust-reqsign-tencent-cos
 rust-reqwest-middleware
+rust-reqwest-middleware0.4
 rust-reqwest-retry
+rust-reqwest-retry0.8
 rust-reqwest
 rust-reqwest0.11
 rust-reqwest0.12
@@ -20225,7 +20222,6 @@ rust-resctl-demo
 rust-resctrlfs
 rust-resolv-conf
 rust-retry-policies
-rust-retry-policies0.4
 rust-retry
 rust-revision-derive
 rust-rfc2047-decoder
@@ -22079,9 +22075,9 @@ s390utils
 tabbed
 tack
 taginfo
-taglib-extras
 taglib-sharp
 taglib
+taglib1
 tagsoup
 tachyon
 taigo
@@ -22189,11 +22185,22 @@ texi2html
 texlive-acrotex
 texlive-base
 texlive-collection-basic
+texlive-collection-bibtexextra
+texlive-collection-binextra
+texlive-collection-fontsextra
+texlive-collection-fontsrecommended
 texlive-collection-fontutils
 texlive-collection-formatsextra
+texlive-collection-games
 texlive-collection-humanities
+texlive-collection-langarabic
+texlive-collection-langcjk
+texlive-collection-langcyrillic
 texlive-collection-langczechslovak
+texlive-collection-langenglish
 texlive-collection-langchinese
+texlive-collection-latex
+texlive-collection-luatex
 texlive-eq-save
 texlive-mathtime-ltx
 texlive-scheme-basic
@@ -22771,6 +22778,7 @@ vim
 vim-syntastic
 vim-taglist
 vim-trailing-whitespace
+vim-vala
 vinagre
 vinci
 vipr
