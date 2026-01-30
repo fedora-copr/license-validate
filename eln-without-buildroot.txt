@@ -361,7 +361,6 @@ go-fdo-server
 go-rpm-macros
 gobject-introspection
 golang
-golang-github-openprinting-ipp-usb
 google-carlito-fonts
 google-crosextra-caladea-fonts
 google-droid-fonts
@@ -627,6 +626,7 @@ ipa-healthcheck
 ipcalc
 iperf3
 ipmitool
+ipp-usb
 iproute
 iprutils
 ipset
@@ -829,6 +829,8 @@ libjpeg-turbo
 libkcapi
 libkdumpfile
 libkeepalive
+libkrun
+libkrunfw
 libksba
 liblc3
 libldac
@@ -966,7 +968,6 @@ linuxdoc-tools
 linuxptp
 lksctp-tools
 lldpad
-lldpd
 llhttp
 llvm
 lm_sensors
@@ -1526,7 +1527,6 @@ python-pexpect
 python-pid
 python-pip
 python-pluggy
-python-ply
 python-podman
 python-productmd
 python-prompt-toolkit
@@ -1688,8 +1688,6 @@ rust-sequoia-sqv
 rust-sevctl
 rust-snpguest
 rust-snphost
-rust-ssh-key-dir
-rust-zram-generator
 s-nail
 s390utils
 samba
@@ -1880,6 +1878,7 @@ vazirmatn-fonts
 vdo
 vhostmd
 vim
+virglrenderer
 virt-firmware-rs
 virt-manager
 virt-p2v
@@ -1969,6 +1968,7 @@ zaf
 zenity
 zip
 zlib-ng
+zram-generator
 zsh
 zstd
 zziplib

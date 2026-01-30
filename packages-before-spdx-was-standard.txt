@@ -1024,7 +1024,6 @@ containernetworking-plugins
 containers-common
 container-selinux
 container-storage-setup
-contractor
 conu
 converseen
 convmv
@@ -2093,7 +2092,6 @@ flwkey
 flxmlrpc
 flyingsaucersattack
 fmf
-fmidi
 fmit
 fmtools
 fmt-ptrn
@@ -3134,7 +3132,6 @@ glibmm2.68
 glib-networking
 glib
 glib2
-glide
 glimmer
 gliv
 gl-manpages
@@ -3910,7 +3907,6 @@ golang-github-opencontainers-runtime-spec
 golang-github-opencontainers-runtime-tools
 golang-github-opencontainers-selinux
 golang-github-openprinting-goipp
-golang-github-openprinting-ipp-usb
 golang-github-opentracing-basictracer
 golang-github-opentracing
 golang-github-openzipkin-zipkin
@@ -4276,7 +4272,6 @@ gopass-hibp
 gopass-jsonapi
 gopass
 go-rpm-macros
-gotags
 gotun
 gource
 goverlay
@@ -4822,7 +4817,6 @@ chmlib
 chntpw
 chocolate-doom
 choqok
-chordii
 chordpro
 chromaprint
 chromium-bsu
@@ -4975,6 +4969,7 @@ ipe
 ipmctl
 ipmitool
 ipmiutil
+ipp-usb
 iproute
 iprutils
 ip-sentinel
@@ -5772,7 +5767,6 @@ libbluray
 libbonobo
 libbonoboui
 libbpf
-libbraiding
 libbsd
 libbs2b
 libbtbb
@@ -6137,6 +6131,8 @@ libnl3
 libnma
 libnotify
 libnova
+libnsbmp
+libnsgif
 libnsl2
 libnss-mysql
 libntirpc
@@ -6374,6 +6370,7 @@ libudfread
 libuecc
 libuev
 libuInputPlus
+libultrahdr
 libunarr
 libunibreak
 libuninameslist
@@ -7829,7 +7826,6 @@ objectweb-asm
 objenesis
 obs-build
 observable
-obserware
 obs-service-download_files
 obs-service-extract_file
 obs-service-recompress
@@ -12727,7 +12723,6 @@ python-fypp
 python-gast
 python-gatspy
 python-gattlib
-python-gcsfs
 python-gearbox
 python-gelidum
 python-genshi
@@ -13118,7 +13113,6 @@ python-nbconvert
 python-nbformat
 python-nbsphinx
 python-nbxmpp
-python-ncclient
 python-ndjson-testrunner
 python-neo
 python-neovim
@@ -13427,7 +13421,6 @@ python-pyro
 python-pyroute2
 python-pyrpmmd
 python-pyrpm
-python-pyrsistent
 python-PyRSS2Gen
 python-pyrtlsdr
 python-pysam
@@ -13779,7 +13772,6 @@ python-stone
 python-straight-plugin
 python-streamlink
 python-strict-rfc3339
-python-strictyaml
 python-string_utils
 python-stripe
 python-stuf
@@ -15005,7 +14997,6 @@ rust-aho-corasick
 rust-alacritty_config_derive
 rust-alacritty
 rust-alacritty_terminal
-rust-alga_derive
 rust-alloc-no-stdlib
 rust-alloc-stdlib
 rust-alsa
@@ -15775,7 +15766,6 @@ rust
 rust-spin_on
 rust-spin_sleep
 rust-spki
-rust-ssh-key-dir
 rust-stable_deref_trait
 rust-stacker
 rust-static_assertions
@@ -15819,7 +15809,6 @@ rust-thread_local
 rust-threadpool
 rust-thread-tree
 rust-time-macros
-rust-timer
 rust-time
 rust-time0.1
 rust-tiny_http
@@ -15902,7 +15891,6 @@ rust-virtio-queue
 rust-vm-memory
 rust-vmm-sys-util
 rust-vmw_backdoor
-rust-vte_generate_state_changes
 rust-vte
 rust-wait-timeout
 rust-waker-fn
@@ -17844,6 +17832,7 @@ zonefs-tools
 zopfli
 zork
 zpaq
+zram-generator
 zram
 zsh-autosuggestions
 zsh

@@ -713,6 +713,7 @@ bsfilter
 bsf
 bsh
 bsp
+bstring
 btbuilder
 btop
 btrbk
@@ -1087,7 +1088,6 @@ containers-common
 container-selinux
 container-storage-setup
 contour-terminal
-contractor
 conu
 converseen
 convmv
@@ -2230,7 +2230,6 @@ fluxbox
 flxmlrpc
 fmf-jinja
 fmf
-fmidi
 fmtools
 fmt-ptrn
 fmt
@@ -3388,7 +3387,6 @@ glibmm2.68
 glib-networking
 glib
 glib2
-glide
 glimmer
 glimpse
 glinf
@@ -4214,7 +4212,6 @@ golang-github-opencontainers-runtime-spec
 golang-github-opencontainers-runtime-tools
 golang-github-opencontainers-selinux
 golang-github-openprinting-goipp
-golang-github-openprinting-ipp-usb
 golang-github-opentracing-basictracer
 golang-github-opentracing
 golang-github-openzipkin-zipkin
@@ -4624,7 +4621,6 @@ gops
 go-rpm-macros
 gosec
 goss
-gotags
 gotcha
 gotify-desktop
 gotun
@@ -5197,7 +5193,6 @@ chmlib
 chntpw
 chocolate-doom
 choqok
-chordii
 chordpro
 chromaprint
 chromium-bsu
@@ -5370,6 +5365,7 @@ ipcgull
 iperf
 iperf3
 ipmitool
+ipp-usb
 iproute
 iprutils
 ip-sentinel
@@ -5478,8 +5474,6 @@ java-runtime-decompiler
 java-scrypt
 javassist
 Java-WebSocket
-java-21-openjdk-portable
-java-21-openjdk
 java-25-openjdk-portable
 java-25-openjdk
 jaxb-api
@@ -6203,7 +6197,6 @@ libaccounts-qt
 libadwaita
 libad9361-iio
 libAfterImage
-libaiff
 libaio
 libao
 libappstream-glib
@@ -6230,7 +6223,6 @@ libblkio
 libblockdev
 libbluray
 libbpf
-libbraiding
 libbsd
 libbs2b
 libbtbb
@@ -6580,6 +6572,8 @@ libnitrokey
 libnl3
 libnma
 libnotify
+libnsbmp
+libnsgif
 libnsl2
 libnss-mysql
 libntirpc
@@ -6825,6 +6819,7 @@ libudfread
 libuecc
 libuev
 libuInputPlus
+libultrahdr
 libunarr
 libunibreak
 libunicode
@@ -8296,7 +8291,6 @@ nvmetcli
 nvml
 nvtop
 nwg-bar
-nwg-dock-hyprland
 nwg-dock
 nwg-drawer
 nwg-launchers
@@ -8318,7 +8312,6 @@ objfw
 obs-build
 obsctl
 observable
-obserware
 obs-service-download_files
 obs-service-extract_file
 obs-service-go_modules
@@ -9510,6 +9503,7 @@ perl-Dancer-Session-Cookie
 perl-Dancer
 perl-Dancer2-Plugin-Database
 perl-Dancer2-Plugin-DBIC
+perl-Dancer2-Plugin-LogReport
 perl-Dancer2-Plugin-REST
 perl-Dancer2
 perl-Danga-Socket
@@ -10430,6 +10424,7 @@ perl-Log-Message
 perl-Log-Report-Lexicon
 perl-Log-Report-Optional
 perl-Log-Report
+perl-Log-Report-Template
 perl-Log-TraceMessages
 perl-Log-Trace
 perl-Log-Trivial
@@ -13052,7 +13047,6 @@ python-bravado
 python-breathe
 python-brukerapi
 python-bsddb3
-python-bsmschema
 python-btchip
 python-bucky
 python-bugzilla
@@ -13563,7 +13557,6 @@ python-gatspy
 python-gattlib
 python-gbinder
 python-gbulb
-python-gcsfs
 python-gearbox
 python-gelidum
 python-gemfileparser2
@@ -14072,7 +14065,6 @@ python-nbconvert
 python-nbdime
 python-nbsphinx
 python-nbxmpp
-python-ncclient
 python-ndindex
 python-ndjson-testrunner
 python-neo
@@ -14324,6 +14316,7 @@ python-proton-vpn-api-core
 python-proton-vpn-network-manager
 python-proto-plus
 python-prov
+python-pskc
 python-psutil
 python-psycopg2
 python-psycopg3
@@ -14497,7 +14490,6 @@ python-pyro
 python-pyroute2
 python-pyrpmmd
 python-pyrpm
-python-pyrsistent
 python-pyrtlsdr
 python-pysam
 python-pysb
@@ -14714,6 +14706,7 @@ python-robosignatory
 python-robot-detection
 python-robotframework
 python-roman-numerals-py
+python-roman-numerals
 python-roman
 python-rope
 python-ROPGadget
@@ -14937,6 +14930,7 @@ python-sqlite-utils
 python-sqlparse
 python-sql
 python-ssdeep
+python-sse-starlette
 python-ssh-python
 python-sshtunnel
 python-stack-data
@@ -14955,7 +14949,6 @@ python-stone
 python-stravalib
 python-streamlink
 python-strict-rfc3339
-python-strictyaml
 python-string_utils
 python-stripe
 python-subliminal
@@ -14968,6 +14961,7 @@ python-supersmoother
 python-sure
 python-surt
 python-sushy
+python-svgelements
 python-svg-path
 python-svg
 python-svgwrite
@@ -15340,6 +15334,7 @@ pytz
 pyusb
 pywbem
 pywhispercpp
+pyxattr
 pyxdg
 PyX
 PyYAML
@@ -16243,7 +16238,6 @@ rubygem-ejs
 rubygem-em-http-request
 rubygem-em-socksify
 rubygem-em-websocket-client
-rubygem-em-websocket
 rubygem-ensure_valid_encoding
 rubygem-erubi
 rubygem-ethon
@@ -16313,7 +16307,6 @@ rubygem-isolate
 rubygem-i18n
 rubygem-jbuilder
 rubygem-jekyll-email-protect
-rubygem-jekyll-git-authors
 rubygem-jmespath
 rubygem-json
 rubygem-json_spec
@@ -16599,7 +16592,6 @@ rust-alacritty_config_derive
 rust-alacritty_config
 rust-alacritty
 rust-alacritty_terminal
-rust-alga_derive
 rust-aliasable
 rust-aligned
 rust-aligned-vec
@@ -16998,6 +16990,7 @@ rust-cmac
 rust-cmake
 rust-cmd_lib_macros
 rust-cmd_lib
+rust-cms
 rust-cobs
 rust-codemap
 rust-codepage
@@ -17912,6 +17905,7 @@ rust-i18n-embed-fl
 rust-i18n-embed-impl
 rust-i18n-embed
 rust-jaarg
+rust-jid
 rust-jiff
 rust-jiter
 rust-jiter0.11
@@ -18488,7 +18482,6 @@ rust-plex
 rust-plist
 rust-plotlib
 rust-pmac
-rust-pmutil
 rust-pnet_base
 rust-pnet_datalink
 rust-pnet_macros
@@ -18682,7 +18675,6 @@ rust-rand_isaac
 rust-rand_pcg
 rust-rand_pcg0.2
 rust-rand_pcg0.3
-rust-rand_regex
 rust-rand
 rust-rand_xorshift
 rust-rand_xorshift0.2
@@ -19120,7 +19112,6 @@ rust-sscanf_macro
 rust-sscanf
 rust-ssh-cipher
 rust-ssh-encoding
-rust-ssh-key-dir
 rust-ssh-key
 rust-sspi
 rust-stability
@@ -19266,7 +19257,6 @@ rust-time-core
 rust-time-humanize
 rust-time-macros
 rust-timerfd
-rust-timer
 rust-time
 rust-timestamped-socket
 rust-time0.1
@@ -19280,7 +19270,6 @@ rust-tinystr
 rust-tinyvec_macros
 rust-tinyvec
 rust-titlecase
-rust-tl
 rust-tokei
 rust-tokenizers
 rust-tokio-macros
@@ -19337,7 +19326,6 @@ rust-tracing-futures
 rust-tracing-glog
 rust-tracing-chrome
 rust-tracing_chromium
-rust-tracing-indicatif
 rust-tracing-journald
 rust-tracing-log
 rust-tracing-serde
@@ -19631,6 +19619,7 @@ rust-version
 rust-version-sync
 rust-version-track
 rust-v_frame
+rust-v_frame0.3
 rust-vhost-device-gpu
 rust-vhost-device-scmi
 rust-vhost-device-sound
@@ -19656,7 +19645,6 @@ rust-vmw_backdoor
 rust-vsock
 rust-vsort
 rust-vsprintf
-rust-vte_generate_state_changes
 rust-vte
 rust-vte4
 rust-vte4-sys
@@ -19685,7 +19673,6 @@ rust-weak-table
 rust-web_atoms
 rust-webbrowser
 rust-webextension-native-messaging
-rust-web-ext-native-messaging
 rust-webpki-roots
 rust-webpki-roots0.25
 rust-webpki-roots0.26
@@ -19708,6 +19695,7 @@ rust-wmidi
 rust-writeable
 rust-write16
 rust-wu-diff
+rust-wycheproof
 rust-wyz
 rust-xattr
 rust-xattr0.2
@@ -19785,7 +19773,6 @@ rust-zlink-tokio
 rust-zmij
 rust-zopfli
 rust-zoxide
-rust-zram-generator
 rust-zstd-safe
 rust-zstd
 rust-zstd-sys
@@ -20649,6 +20636,7 @@ texlive-base
 texlive-collection-basic
 texlive-collection-bibtexextra
 texlive-collection-binextra
+texlive-collection-context
 texlive-collection-fontsextra
 texlive-collection-fontsrecommended
 texlive-collection-fontutils
@@ -20660,7 +20648,10 @@ texlive-collection-langcjk
 texlive-collection-langcyrillic
 texlive-collection-langczechslovak
 texlive-collection-langenglish
+texlive-collection-langeuropean
+texlive-collection-langfrench
 texlive-collection-langchinese
+texlive-collection-latexrecommended
 texlive-collection-latex
 texlive-collection-luatex
 texlive-eq-save
@@ -21081,6 +21072,7 @@ vala
 valeronoi
 valgrind
 valijson
+vali
 valkey
 valkyrie
 vamp-plugin-sdk
@@ -21862,6 +21854,7 @@ zork
 zpaqfranz
 zpaq
 zps
+zram-generator
 zram
 zsh-autosuggestions
 zsh

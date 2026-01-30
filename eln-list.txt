@@ -403,7 +403,6 @@ go-rpm-macros
 gobject-introspection
 golang
 golang-github-cpuguy83-md2man
-golang-github-openprinting-ipp-usb
 google-carlito-fonts
 google-crosextra-caladea-fonts
 google-droid-fonts
@@ -675,6 +674,7 @@ ipa-healthcheck
 ipcalc
 iperf3
 ipmitool
+ipp-usb
 iproute
 iprutils
 ipset
@@ -897,6 +897,8 @@ libjpeg-turbo
 libkcapi
 libkdumpfile
 libkeepalive
+libkrun
+libkrunfw
 libksba
 liblc3
 libldac
@@ -1037,7 +1039,6 @@ linuxdoc-tools
 linuxptp
 lksctp-tools
 lldpad
-lldpd
 llhttp
 llvm
 llvm20
@@ -1926,6 +1927,7 @@ rubygem-rspec-support
 rubygem-thread_order
 rust
 rust-afterburn
+rust-askalono-cli
 rust-bindgen-cli
 rust-bootupd
 rust-cbindgen
@@ -1939,8 +1941,6 @@ rust-sequoia-sqv
 rust-sevctl
 rust-snpguest
 rust-snphost
-rust-ssh-key-dir
-rust-zram-generator
 s-nail
 s390utils
 samba
@@ -2151,6 +2151,7 @@ vdo
 velocity
 vhostmd
 vim
+virglrenderer
 virt-firmware-rs
 virt-manager
 virt-p2v
@@ -2253,6 +2254,7 @@ zaf
 zenity
 zip
 zlib-ng
+zram-generator
 zsh
 zstd
 zziplib
