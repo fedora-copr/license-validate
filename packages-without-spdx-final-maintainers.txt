@@ -73,7 +73,6 @@ am-utils             iankent
 aml                  ngompa wef
 ampy                 churchyard
 android-tools        van
-angband              dherrera
 angelscript          limb
 ansible-bender       gordonmessmer
 ansible-collection-kubernetes-core gotmax23 kevin
@@ -106,7 +105,6 @@ atril                raveit65 robert
 attica               marcdeop
 audacious-plugins    danfruehauf mschwendt robert
 auditwheel           churchyard
-automoc              than
 autossh              abo fale
 avoision             spot
 awesome              thm
@@ -239,7 +237,6 @@ cowsay-beefymiracle  ndim wwoods
 cpdup                salimma
 cpp-httplib          orion pemensik
 cppcodec             aekoroglu
-cpphs                petersen
 cpprest              c72578
 cpptest              fcami
 cpputest             salimma
@@ -350,7 +347,6 @@ elfio                ignatenkobrain orion
 elisa-player         tripledes vascom
 emacs-irsim-mode     sagarun
 emacs-json-reformat  melmorabity
-enblend              bpostle
 enchant              limb
 endless-sky          linkdupont
 endlessh             mikelo2
@@ -1079,8 +1075,6 @@ gst123               siddhesh
 gstream              jwrdegoede
 gstreamer-plugins-espeak chimosky wtaymans
 gstreamer1-doc       limb wtaymans
-gstreamer1-plugins-bad-free limb uraeus wtaymans yselkowitz
-gstreamer1-rtsp-server limb wtaymans
 gstreamer1-vaapi     farnz wtaymans
 gstreamermm          rathann robert
 gti                  ib54003
@@ -1427,6 +1421,8 @@ libmygpo-qt          marcdeop
 libmypaint           nphilipp
 libnetfilter_acct    hushan
 libnova              huzaifas
+libnsbmp             alebastr
+libnsgif             alebastr
 liboauth             salimma
 liboil               ajax alexl rhughes rstrode trawets
 libopkele            kevin
@@ -1455,7 +1451,6 @@ libsafec             aekoroglu
 libscrypt            dfateyev
 libsecp256k1         jonny peter slaanesh
 libsexy              spot
-libshout             jskarvad ngompa
 libsoundio           jskarvad
 libspf2              bojan
 libspnav             hobbes1069
@@ -1463,7 +1458,6 @@ libsqlite3x          sailer tachoknight
 libtar               huzaifas kdudka
 libtermkey           asn salimma
 libtoml              jeckersb
-libtool              fberat fjanus jakub kasal praiskup
 libtree              fnux
 libtree-ldd          mikelo2
 libtwin              dwmw2
@@ -1481,7 +1475,6 @@ libva-utils          kwizart
 libva-v4l2-request   kwizart rathann
 libvidcap            spot
 libvirt-java         trawets
-libvirt-python       berrange
 libvirt-sandbox      jonathanspw
 libvterm             asn salimma
 libwebsockets        fab pbrobinson
@@ -1641,7 +1634,6 @@ mingw-expat          rjones smani
 mingw-fcgi           smani
 mingw-fontconfig     rjones smani
 mingw-freeglut       rjones
-mingw-glew           smani
 mingw-goocanvas2     kalev smani
 mingw-graphene       elmarco
 mingw-graphite2      smani
@@ -3180,7 +3172,6 @@ tcpcrypt             pwouters
 tcptrack             jonathanspw rebus
 tcputils             limb
 tdom                 krege
-teem                 music
 teeworlds            ignatenkobrain limb lkundrak
 tegrarcm             jkastner kwizart
 telepathy-gabble     aperezbios
@@ -3453,7 +3444,7 @@ airwave    c++-gtk-utils
 ajax       cdparanoia coan dxpc glew kernel libFS libXfont libXvMC libXxf86dga libXxf86misc libgle liboil libupnp luit waffle xev xlsatoms xlsclients xlsfonts xorg-x11-drv-ati xorg-x11-drv-intel xorg-x11-drv-nouveau xvinfo xwud
 alciregi   bwping dicomanonymizer http_ping libuev ophcrack python-parsimonious uredir
 aleasto    koko kongress kreport
-alebastr   fuzzel imv python-i3ipc
+alebastr   fuzzel imv libnsbmp libnsgif python-i3ipc
 alexl      dbus-sharp echo-icon-theme firefox gconf-editor gmime gnome-nettool gtk2 libFS libXfont libXvMC libXxf86dga libXxf86misc libart_lgpl libbonobo libbonoboui libglade2 libgnome libgnomecanvas libgpod liboil libwnck rhythmbox spice tomboy totem xorg-x11-drv-ati yelp
 alexlan    pilot-link
 alexsaezm  go2rpm golang-github-afex-hystrix golang-github-andybalholm-brotli golang-github-bgentry-speakeasy golang-github-bugsnag golang-github-bugsnag-panicwrap golang-github-cactus-statsd-client golang-github-cilium-ebpf golang-github-cockroachdb-sentry golang-github-creack-pty golang-github-d2g-dhcp4 golang-github-datadog golang-github-dgrijalva-jwt golang-github-dnaeon-vcr golang-github-edsrzf-mmap golang-github-emicklei-restful golang-github-errors golang-github-fernet golang-github-form3tech-oss-jwt golang-github-frankban-quicktest golang-github-gin-gonic golang-github-globalsign-mgo golang-github-gofrs-uuid golang-github-gorilla-schema golang-github-grpc-ecosystem-gateway golang-github-hashicorp-hclog golang-github-hudl-fargo golang-github-hydrogen18-memlistener golang-github-iancoleman-strcase golang-github-jmhodges-clock golang-github-jmoiron-sqlx golang-github-jwt-4 golang-github-kit golang-github-kit-log golang-github-knetic-govaluate golang-github-kr-pretty golang-github-kr-text golang-github-logfmt golang-github-martini golang-github-mitchellh-copystructure golang-github-mitchellh-reflectwalk golang-github-mohae-deepcopy golang-github-morikuni-aec golang-github-ncw-swift golang-github-performancecopilot-speed golang-github-pingcap-errors golang-github-playground-validator-10 golang-github-posener-complete golang-github-puerkitobio-purell golang-github-puerkitobio-urlesc golang-github-rcrowley-metrics golang-github-revel golang-github-revel-log15 golang-github-revel-pathtree golang-github-rogpeppe-fastuuid golang-github-rs-cors golang-github-shopify-logrus-bugsnag golang-github-shopify-sarama golang-github-shopspring-decimal golang-github-shurcool-httpfs golang-github-shurcool-httpgzip golang-github-shurcool-vfsgen golang-github-sirupsen-logrus golang-github-smartystreets-goconvey golang-github-sony-gobreaker golang-github-stathat golang-github-stoewer-strcase golang-github-streadway-handy golang-github-theupdateframework-notary golang-github-tinylib-msgp golang-github-tmc-grpc-websocket-proxy golang-github-tomasen-realip golang-github-ttacon-chalk golang-github-twinj-uuid golang-github-uber-tally golang-github-ugorji golang-github-urfave-cli golang-github-urfave-negroni golang-github-valyala-bytebufferpool golang-github-valyala-fasttemplate golang-github-vividcortex-gohistogram golang-github-xeonx-timeago golang-github-xiang90-probing golang-github-xlab-treeprint golang-github-yvasiyarov-gorelic golang-github-yvasiyarov-newrelic-platform golang-github-zookeeper-zk golang-gonum-1 golang-gopkg-cheggaaa-pb-1 golang-gopkg-gcfg-1 golang-gopkg-natefinch-lumberjack-2 golang-gopkg-readline-1 golang-gopkg-redis-6 golang-gopkg-russross-blackfriday-1 golang-gopkg-russross-blackfriday-2 golang-mvdan-xurls golang-starlark golang-x-arch golang-x-debug golang-x-image golang-x-lint golang-x-term golang-x-xerrors
@@ -3482,7 +3473,6 @@ belegdol   SOIL gnome-subtitles mednafen python-sphinxcontrib-svg2pdfconverter
 bellet     fgrun
 bentiss    libFS libXfont libXvMC libXxf86dga libXxf86misc
 benzea     fwts libusb-compat-0.1 libusb1
-berrange   libvirt-python
 besser82   2048-cli GarminPlugin arpack arprec cc1541 cc65 fedorainfinity-backgrounds fido git-extras libjoedog liblinear libpqxx python-ase python-django-angular python-jcconv python-sphinx-bootstrap-theme rubygem-narray sshexport textcat tinydir
 bevhost    wide-dhcpv6
 bfields    nfs-utils
@@ -3494,7 +3484,7 @@ bojan      grimmer-proggy-squaresz-fonts grimmer-proggy-tinysz-fonts libspf2 pyt
 bookwar    minetest
 bowlofeggs erlang-base64url erlang-eradius erlang-goldrush erlang-idna erlang-jiffy erlang-p1_oauth2 js-jquery-mousewheel js-responsive-elements python-kaptan rust-rpick
 bpeck      shairport-sync
-bpostle    enblend vigra
+bpostle    vigra
 brandfbb   rubygem-scanf
 brejoc     python-urlgrabber
 bruno      0ad-data ballz blobwars cegui06 dahdi-tools enet floppy-support joystick-support libwfut lordsawar nethack-vultures ois raidem scorched3d warmux
@@ -3547,7 +3537,7 @@ defolos    doclifter i3-gaps i3lock jtc rofi
 devos      archivemount
 devrim     check_postgres libgeotiff mapserver postgresql-ip4r postgresql-pgpool-II python-flask-gravatar python-flask-mail python-flask-paranoid
 dfateyev   abduco freecolor golang-github-burntsushi-toml golang-github-cpuguy83-md2man golang-github-ianbruene-difflib golang-github-termie-shutil golang-gitlab-esr-fqme golang-gopkg-russross-blackfriday-2 libscrypt mimetic mlmmj opensmtpd perl-Sort-MergeSort perl-Time-Moment prwd rtorrent
-dherrera   angband opentoonz python-pytest-runner tinyexr
+dherrera   opentoonz python-pytest-runner tinyexr
 dhowells   isl
 didiksupriadi41 dirgra fishbowl hawtjni jacoco jakarta-saaj jakarta-xml-ws jfreechart jmock mxparser reflections rhino xmlpull xmlstreambuffer xstream
 diehlpk    blaze
@@ -3586,7 +3576,6 @@ fangq      octave-zmat wqy-bitmap-fonts
 farchord   gamescope kdsoap kf5-baloo kf5-kblog kf5-kdelibs4support kf5-kdesignerplugin kf5-kdewebkit kf5-khtml kf5-kirigami kf5-kirigami2 kf5-kjs kf5-kjsembed kf5-libkcddb libalkimia plasma-mobile-sounds
 farnz      gstreamer1-vaapi python-gstreamer1
 faxguy     hylafax+
-fberat     libtool
 fcami      SDL2_image cpptest enet openal-soft
 fed500     NLopt ektype-mukta-fonts lua-coxpcall msimonson-anonymouspro-fonts python-colorspacious python-doubleratchet python-omemo python-slixmpp python-tablib python-x3dh python-xeddsa xsd
 fedepell   bumpversion dropbear python-aiosqlite python-asysocks python-bottle python-bottle-sqlite python-jinja2-time python-memcached python-minikerberos python-pluginbase python-pyshark python-pytest-datafiles python-pytest-isort python-slugify python-yapsy urlwatch wafw00f
@@ -3594,7 +3583,7 @@ felixonmars golang-github-alecthomas-repr golang-github-alecthomas-units golang-
 fepitre    python-rstr
 ferdnyc    gedit-plugin-editorconfig python-webscrapbook
 filiperosset bbkeys blackbox coan colm curlpp darkhttpd detox ghasher mdk metapixel nsca-ng parallel python-empy python-myhdl sdlhack
-fjanus     libdbi libdbi-drivers libtool nss_nis openrdate orafce pg_auto_failover postgresql-ip4r postgresql-pgpool-II tcl-pgtcl
+fjanus     libdbi libdbi-drivers nss_nis openrdate orafce pg_auto_failover postgresql-ip4r postgresql-pgpool-II tcl-pgtcl
 fkooman    json-parser minisign php-oauth php-paragonie-constant-time-encoding
 flatcap    neomutt
 flo        itop lis
@@ -3641,7 +3630,7 @@ ingvar     clatd ebtree hitch jemalloc mpssh vmod-uuid
 ixs        GraphicsMagick mm perl-ConfigReader perl-Mail-RFC822-Address
 iztokf     python-batalgorithm python-contextualbandits python-cro python-cssmin python-dotmap python-interrogate python-nashpy python-niaaml python-niapy python-openant python-scikit-uplift python-snaptime python-tcxparser uARMSolver
 jackorp    rubygem-xmlrpc
-jakub      isl libtool
+jakub      isl
 jamatos    grace libcerf python-blinker python-cpio python-doit python-markdown-math python-micawber python-natsort python-nltk python-phpserialize python-piexif python-sphinx-press-theme t1lib t1utils
 james      python-urlgrabber ustr
 jandrlik   java-latest-openjdk-portable swing-layout
@@ -3683,7 +3672,7 @@ jpena      python-django-debreach python-django-formtools python-flask-httpauth 
 jplesnik   perl-Best perl-Config-Model-CursesUI perl-Config-Model-Itself perl-FCGI-ProcManager perl-Gnome2-GConf perl-Gtk2-Ex-Utils perl-Gtk2-GladeXML perl-Gtk2-Notify perl-Gtk2-Sexy perl-Gtk2-Spell perl-Gtk2-TrayIcon perl-HTML-HTML5-Entities perl-Icon-FamFamFam-Silk perl-Module-Install-Contributors perl-Module-Install-Copyright perl-Module-Install-TrustMetaYml perl-MooseX-ArrayRef perl-MooseX-AttributeShortcuts perl-MooseX-MarkAsMethods perl-MooseX-Meta-TypeConstraint-Mooish perl-MooseX-Role-Tempdir perl-MooseX-Role-XMLRPC-Client perl-PSGI perl-RDF-Prefixes perl-RDF-TriN3 perl-Reply perl-Statistics-Basic perl-TAP-SimpleOutput perl-Test-Moose-More perl-Test-Run perl-Test-Run-CmdLine perl-Text-Sprintf-Named perl-Text-Table perl-Unix-Process perl-XML-LibXML-Devel-SetLineNumber perl-XML-LibXML-PrettyPrint perl-autobox-Junctions
 jruzicka   lua-basexx lua-binaryheap lua-bitop lua-compat53 lua-cqueues lua-fifo lua-http lua-lpeg-patterns lua-luaossl lua-mmdb lua-psl python-lmdb
 js         electrum python-pathtools
-jskarvad   bltk compiz compiz-plugins-extra compizconfig-python gqrx halibut hpl kalibrate-rtl libcompizconfig libesmtp libshout libsoundio libwvstreams pidgin pptpd preeny putty python-pyobd python-visvis quisk squeak-image squeak-vm t1lib tcl-html tclx vlfrx-tools vmmlib wvdial
+jskarvad   bltk compiz compiz-plugins-extra compizconfig-python gqrx halibut hpl kalibrate-rtl libcompizconfig libesmtp libsoundio libwvstreams pidgin pptpd preeny putty python-pyobd python-visvis quisk squeak-image squeak-vm t1lib tcl-html tclx vlfrx-tools vmmlib wvdial
 jsmith     asterisk-sounds-core dahdi-tools libresample nodejs-acorn-object-spread nodejs-buble nodejs-colors nodejs-linefix nodejs-replace-require-self
 jstanek    nodejs-packaging
 jsteffan   python-twisted
@@ -3697,7 +3686,7 @@ jwboyer    kernel linux-firmware
 jwrdegoede AllegroOGG ClanLib ClanLib06 ClanLib1 DevIL Hermes MagicPoint SAASound SDL_sound SILLY adime alfont allegro5 ballz cbios cdogs-sdl cegui06 coldet compat-lua compat-tolua++ cortado dom4j drehatlas-widelands-fonts duel3 dumb dynamite enet envytools flyingsaucersattack freealut funguloids glyph-keeper gstream hawknl jaxen kernel libcacard libglpng libmikmod libusb1 mdbtools mikmod mingw-usbredir ogre openal-soft openlierox plee-the-bear plib portaudio quesoglc scorched3d scorchwentbonkers sdljava sfxr sjasm spice tolua++ upslug2 vecmath1.2 wordwarvi xfig xorg-x11-drv-qxl
 kalev      0ad 0ad-data ImageMagick accerciser atkmm2.36 clutter clutter-gtk cogl firefox five-or-more flatpak-module-tools gdlmm glade gnome-klotski gnome-music gnome-nettool gnome-tetravex gssdp gtkmm2.4 gupnp-av gupnp-dlna ldc libchamplain libgepub libgit2-glib libglib-testing mingw-SDL_image mingw-atk mingw-goocanvas2 mingw-gtksourceview3 mingw-harfbuzz mingw-libepoxy mingw-libvorbis mingw-libxslt mono-bouncycastle nvidia-texture-tools pkcs11-dump quadrapassel rest0.7 sassc tali totem totem-pl-parser
 kanitha    libxo
-kasal      libtool qt
+kasal      qt
 kashyapc   multitail
 kb1000     renderdoc
 kdudka     enum libtar
@@ -3733,7 +3722,7 @@ leigh123linux akmods cinnamon cinnamon-control-center cinnamon-desktop cinnamon-
 lenkaseg   python-pyopencl python-pytools
 leoleovich disciplining-minipod ubloxcfg
 levined    nmh
-limb       0ad 0ad-data angelscript clucene enchant freealut gnome-bluetooth3.34 gstreamer1-doc gstreamer1-plugins-bad-free gstreamer1-rtsp-server libdbi libdbi-drivers libgpod libupnp minetest motif nvidia-texture-tools pycanberra python-aiodns python-basemap python-cherrypy python-logutils python-minimock python-pecan python-pycares python-pytest-cov python-repoze-lru python-timeout-decorator python-vcrpy rust-crc-any rust-debug-helper tcputils teeworlds tremulous-data warsow-data warzone2100
+limb       0ad 0ad-data angelscript clucene enchant freealut gnome-bluetooth3.34 gstreamer1-doc libdbi libdbi-drivers libgpod libupnp minetest motif nvidia-texture-tools pycanberra python-aiodns python-basemap python-cherrypy python-logutils python-minimock python-pecan python-pycares python-pytest-cov python-repoze-lru python-timeout-decorator python-vcrpy rust-crc-any rust-debug-helper tcputils teeworlds tremulous-data warsow-data warzone2100
 linkdupont abduco endless-sky golang-github-jackc-chunkreader-2 rcm
 linville   can-utils kernel pimd toolshed unzoo
 ljavorsk   aspell-en aspell-ru man-pages-l10n mysql-connector-odbc
@@ -3799,7 +3788,7 @@ mspacek    dnssec-tools lookup
 msrb       pg-semver
 mtasaka    efont-unicode-bdf gabedit monafont mpqc ngspice ochusha rubygem-minitest5 rubygems skf skkdic wvs-data xscreensaver xtide
 muep       glm rtmidi
-music      fcitx5-mozc python-defcon teem
+music      fcitx5-mozc python-defcon
 musuruan   gcompris-qt libicns oflb-dignas-handwriting-fonts ogr2osm whichwayisup zaz
 mvadkert   tmt
 myoung     kernel xen
@@ -3813,7 +3802,7 @@ neelc      python-tqdm
 neil       aria2 mapserver python-etcd thc-ipv6 tinyows
 netvor     python-kanboard
 nforro     aspell-en aspell-ru libcgroup libpng libpng12 libpng15 man-pages-l10n pilot-link uClibc vim-go
-ngompa     SDL2_image SDL2_net aml asahi-scripts atf brightnessctl capnproto comps-extras d-din-fonts ddnet debconf debootstrap dnf-plugin-cow dpkg dxvk-native egl-gbm fakechroot fakeroot fortune-mod gamescope generic-logos gtksourceview4 kBuild kwave ladspa libappindicator libass libevdevPlus libgit2-glib libinjection libmatroska libphonenumber libprojectM libshout libuInputPlus libyui libyui-gtk libyui-mga libyui-mga-gtk libyui-mga-ncurses libyui-mga-qt lightdm-autologin-greeter linux-system-roles mingw-jsoncpp mlt mock-centos-sig-configs mozilla-zilla-slab-fonts mupen64plus musl nginx-mod-vts noggin nwg-panel obs-service-rust2rpm openbox-theme-mistral-thin openbox-theme-mistral-thin-dark openssh-ldap-authkeys perl-Diff-LibXDiff php-libvirt python-celery python-cerberus python-click-completion python-django-allauth python-django-gravatar2 python-django-picklefield python-django-q python-dkimpy python-flask-healthz python-flask-mail python-freeipa python-gettext python-gunicorn python-kombu python-manatools python-noggin-messages python-npyscreen python-pudb python-pytest-services python-translitcodec python-trololio python-urlgrabber python-vine python-whitenoise qbs reprepro sassc sdl12-compat slibtool surf swappy triehash wayvnc websocketpp wl-gammactl wlogout wlr-sunclock wob
+ngompa     SDL2_image SDL2_net aml asahi-scripts atf brightnessctl capnproto comps-extras d-din-fonts ddnet debconf debootstrap dnf-plugin-cow dpkg dxvk-native egl-gbm fakechroot fakeroot fortune-mod gamescope generic-logos gtksourceview4 kBuild kwave ladspa libappindicator libass libevdevPlus libgit2-glib libinjection libmatroska libphonenumber libprojectM libuInputPlus libyui libyui-gtk libyui-mga libyui-mga-gtk libyui-mga-ncurses libyui-mga-qt lightdm-autologin-greeter linux-system-roles mingw-jsoncpp mlt mock-centos-sig-configs mozilla-zilla-slab-fonts mupen64plus musl nginx-mod-vts noggin nwg-panel obs-service-rust2rpm openbox-theme-mistral-thin openbox-theme-mistral-thin-dark openssh-ldap-authkeys perl-Diff-LibXDiff php-libvirt python-celery python-cerberus python-click-completion python-django-allauth python-django-gravatar2 python-django-picklefield python-django-q python-dkimpy python-flask-healthz python-flask-mail python-freeipa python-gettext python-gunicorn python-kombu python-manatools python-noggin-messages python-npyscreen python-pudb python-pytest-services python-translitcodec python-trololio python-urlgrabber python-vine python-whitenoise qbs reprepro sassc sdl12-compat slibtool surf swappy triehash wayvnc websocketpp wl-gammactl wlogout wlr-sunclock wob
 nikromen   python-XStatic-Bootstrap-SCSS python-backoff
 nonamedotc argtable exo garcon greybird gsequencer ipe keepassxc libxfce4ui libxfce4util python-nmrglue thunar-archive-plugin tumbler xfce4-diskperf-plugin xfce4-fsguard-plugin xfce4-genmon-plugin xfce4-mpc-plugin xfce4-panel xfce4-screensaver xfce4-systemload-plugin xfce4-wavelan-plugin xfce4-weather-plugin xfce4-xkb-plugin xfwm4-themes
 noon       python-mockito
@@ -3848,7 +3837,7 @@ pcullen    disciplining-minipod ubloxcfg
 pemensik   cpp-httplib openresolv uvw
 perex      tinycompress
 peter      common-lisp-controller dmg2img electron-cash erlang-base64url erlang-bbmustache erlang-chronos erlang-cl erlang-cowboy erlang-eflame erlang-egeoip erlang-eradius erlang-erlsyslog erlang-erlware_commons erlang-erlydtl erlang-esasl erlang-fuse erlang-gettext erlang-goldrush erlang-gtknode erlang-hyper erlang-idna erlang-jiffy erlang-jose erlang-jsx erlang-kvc erlang-mochiweb erlang-mustache erlang-neotoma erlang-oauth erlang-oauth2 erlang-p1_oauth2 erlang-ranch erlang-rebar erlang-rpm-macros erlang-sd_notify erlang-ssl_verify_fun expatpp flite freeradius-client leveldb libsecp256k1 opal portaudio ptlib python-hidapi python-pbkdf2 python-pybeam python-shamir-mnemonic rocksdb rply unar unshield
-petersen   Agda-stdlib clang13 cpphs ghc-base-compat ghc-base-compat-batteries ghc-bower-json ghc-call-stack ghc-conduit ghc-conduit-extra ghc-cookie ghc-hoauth2 ghc-hslua-module-text ghc-hspec ghc-hspec-core ghc-hspec-discover ghc-http-client-openssl ghc-monad-logger ghc-protolude ghc-relude ghc-repline ghc-rio ghc-shakespeare ghc-streaming-commons ghc-typed-process ghc-unliftio ghc-yesod ghc-yesod-core ghc-yesod-form ghc-yesod-persistent hugs98 lld13 llvm11 llvm12 llvm13 php-gettext-gettext python-tinydb
+petersen   Agda-stdlib clang13 ghc-base-compat ghc-base-compat-batteries ghc-bower-json ghc-call-stack ghc-conduit ghc-conduit-extra ghc-cookie ghc-hoauth2 ghc-hslua-module-text ghc-hspec ghc-hspec-core ghc-hspec-discover ghc-http-client-openssl ghc-monad-logger ghc-protolude ghc-relude ghc-repline ghc-rio ghc-shakespeare ghc-streaming-commons ghc-typed-process ghc-unliftio ghc-yesod ghc-yesod-core ghc-yesod-form ghc-yesod-persistent hugs98 lld13 llvm11 llvm12 llvm13 php-gettext-gettext python-tinydb
 pfilipen   nodejs-bash-language-server oddjob-gpupdate
 pfrields   opal python-pulsectl
 pghmcfc    milter-greylist perl-Geography-Countries
@@ -3868,7 +3857,7 @@ pmazzini   disciplining-minipod ubloxcfg
 pmikova    java-latest-openjdk java-latest-openjdk-portable swing-layout system-switch-java
 poetinha   dolphin-connector
 ppisar     llconf nas ooo2txt open-mtools pcsc-lite-asekey perl-Best perl-FCGI-ProcManager perl-GStreamer1 perl-Gnome2-GConf perl-Gnome2-Vte perl-Gtk2-Ex-FormFactory perl-Gtk2-Ex-Utils perl-Gtk2-GladeXML perl-Gtk2-Notify perl-Gtk2-Sexy perl-Gtk2-Spell perl-Gtk2-TrayIcon perl-HTTP-Link-Parser perl-Icon-FamFamFam-Silk perl-JSON-Create perl-Module-Install-Contributors perl-Module-Install-Copyright perl-Module-Install-TrustMetaYml perl-Module-Package-RDF perl-MooX-Role-Parameterized perl-MooseX-Role-Tempdir perl-MooseX-Role-XMLRPC-Client perl-Net-UPnP perl-NetPacket perl-PSGI perl-PerlX-Maybe-XS perl-RDF-Prefixes perl-RDF-TriN3 perl-Reply perl-Statistics-Basic perl-TAP-SimpleOutput perl-Test-Moose-More perl-Test-Run perl-Test-Run-CmdLine perl-Text-Sprintf-Named perl-Text-Table perl-Unix-Process perl-XML-Atom-OWL perl-XML-LibXML-Debugging perl-XML-LibXML-Devel-SetLineNumber perl-XML-LibXML-PrettyPrint perl-autobox-Junctions perl-libwhisker2 ramond
-praiskup   gc libtool orafce pax postgresql-ip4r postgresql-pgpool-II pspg python-backoff python-progress python-retask tcl-pgtcl vim-ale vim-rhubarb
+praiskup   gc orafce pax postgresql-ip4r postgresql-pgpool-II pspg python-backoff python-progress python-retask tcl-pgtcl vim-ale vim-rhubarb
 prgutier   openarc
 proski     xorgxrdp xrdp
 psabata    dmenu dvtm lsw wmname xssstate
@@ -3938,7 +3927,7 @@ slaanesh   AMF YafaRay akmods asdcplib bitcoin-core daala dpkg egl-gbm kmodtool 
 slankes    detox docbook2X sj-fonts xdotool
 slp        libkrunfw
 smallorange libusb-compat-0.1 libusb1
-smani      GeographicLib apitrace commoncpp2 jxrlib leptonica libbatch libgeotiff liblbfgs mapserver mingw-SDL_image mingw-angleproject mingw-atk mingw-expat mingw-fcgi mingw-fontconfig mingw-glew mingw-goocanvas2 mingw-graphite2 mingw-gtksourceview3 mingw-harfbuzz mingw-jansson mingw-libepoxy mingw-libgta mingw-libimagequant mingw-libvorbis mingw-libxslt mingw-llvm mingw-python-affine mingw-python-chardet mingw-python-charset-normalizer mingw-python-ephem mingw-python-pyparsing mingw-python-pyproj mingw-python-pytz mingw-python-pyyaml mingw-python-setuptools mingw-python-six mingw-python-tomli mingw-python-urllib3 mingw-qextserialport mingw-qt5-qtscript mingw-spatialindex mingw-spirv-headers mingw-tk mingw-twaindsm mingw-yaml-cpp python-ephem python-flask-compress python-flask-gravatar python-flask-login python-flask-paranoid python-flask-principal python-flask-security-too python-httpagentparser python-lunr python-mergedeep python-mongoengine python-mongomock python-pillow python-pyyaml-env-tag python-sane python-user-agents qbs qhexedit2 qt4-style-fusion scotch svg2svgt virtualpg xfoil xrotor
+smani      GeographicLib apitrace commoncpp2 jxrlib leptonica libbatch libgeotiff liblbfgs mapserver mingw-SDL_image mingw-angleproject mingw-atk mingw-expat mingw-fcgi mingw-fontconfig mingw-goocanvas2 mingw-graphite2 mingw-gtksourceview3 mingw-harfbuzz mingw-jansson mingw-libepoxy mingw-libgta mingw-libimagequant mingw-libvorbis mingw-libxslt mingw-llvm mingw-python-affine mingw-python-chardet mingw-python-charset-normalizer mingw-python-ephem mingw-python-pyparsing mingw-python-pyproj mingw-python-pytz mingw-python-pyyaml mingw-python-setuptools mingw-python-six mingw-python-tomli mingw-python-urllib3 mingw-qextserialport mingw-qt5-qtscript mingw-spatialindex mingw-spirv-headers mingw-tk mingw-twaindsm mingw-yaml-cpp python-ephem python-flask-compress python-flask-gravatar python-flask-login python-flask-paranoid python-flask-principal python-flask-security-too python-httpagentparser python-lunr python-mergedeep python-mongoengine python-mongomock python-pillow python-pyyaml-env-tag python-sane python-user-agents qbs qhexedit2 qt4-style-fusion scotch svg2svgt virtualpg xfoil xrotor
 snirkel    rhythmbox
 somlo      icestorm iodine nextpnr python-logzero python-migen trellis wmx yosys
 souryogurt cgreen
@@ -3972,7 +3961,7 @@ tdecacqu   python-sphinx-autodoc-typehints
 terjeros   bpython e16 e16-docs e16-epplets e16-keyedit e16-themes editres esound eterm ganglia grace grin h5py jericho-html libast libuninum mathomatic mycli orangefs php-pear-Net-IDNA2 pssh python-acoustid python-audioread python-beautifulsoup4 python-cli-helpers python-construct python-curtsies python-cwcwidth python-exif python-hglib python-httpsig-cffi python-terminaltables python-tidy python-unipath sqliteman t1lib
 teuf       libcacard libgpod libmusicbrainz5 mingw-libepoxy mingw-libgcrypt mingw-libgpg-error mingw-openssl mingw-spice-gtk mingw-spice-protocol mingw-usbredir phodav rest0.7 spice totem xorg-x11-drv-qxl
 tflink     python-flask-sqlalchemy python-wtforms
-than       ark automoc gwenview kactivities kapman katomic kblackbox kblocks kbounce kbrickbuster kcolorchooser kde-baseapps kde-i18n kde-l10n kde-runtime kdegames3 kdepimlibs kdialog kdiamond keditbookmarks kf5-baloo kf5-kdelibs4support kf5-kdesignerplugin kf5-kdewebkit kf5-khtml kf5-kjs kf5-libkcddb kfind kfourinline kget kgoldrunner kigo killbots kiriki kjumpingcube klickety klines kmahjongg knavalbattle knetwalk knotes kolf kollision kolourpaint konqueror konquest kontact kpat krdc kreversi kshisen ksirk ksnakeduel kspaceduel ksquares ksudoku kubrick kwebkitpart laughlin-kde-theme leonidas-kde-theme libkcddb libkdegames lovelock-kde-theme lskat migrationtools okteta oxygen-fonts palapeli phonon phonon-backend-gstreamer picmi plasma-workspace qimageblitz qt qt-assistant-adp qt5-qtaccountsservice qt5-qtconfiguration qtchooser sip smokegen solar-kde-theme soprano sparsehash sweeper texlive texlive-base verne-kde-theme
+than       ark gwenview kactivities kapman katomic kblackbox kblocks kbounce kbrickbuster kcolorchooser kde-baseapps kde-i18n kde-l10n kde-runtime kdegames3 kdepimlibs kdialog kdiamond keditbookmarks kf5-baloo kf5-kdelibs4support kf5-kdesignerplugin kf5-kdewebkit kf5-khtml kf5-kjs kf5-libkcddb kfind kfourinline kget kgoldrunner kigo killbots kiriki kjumpingcube klickety klines kmahjongg knavalbattle knetwalk knotes kolf kollision kolourpaint konqueror konquest kontact kpat krdc kreversi kshisen ksirk ksnakeduel kspaceduel ksquares ksudoku kubrick kwebkitpart laughlin-kde-theme leonidas-kde-theme libkcddb libkdegames lovelock-kde-theme lskat migrationtools okteta oxygen-fonts palapeli phonon phonon-backend-gstreamer picmi plasma-workspace qimageblitz qt qt-assistant-adp qt5-qtaccountsservice qt5-qtconfiguration qtchooser sip smokegen solar-kde-theme soprano sparsehash sweeper texlive texlive-base verne-kde-theme
 thebeanogamer flite postfix-mta-sts-resolver python-click-spinner python-netdisco python-pyaes
 thm        awesome botan geary httperf lmms lua-ldoc lua-lgi lua-lxc lua-markdown lua-penlight lxc pycmd python-apipkg python-execnet python-markdown2 python-py python-regex python-sphinxcontrib-trio python-textile python3-lxc python3-simpletal stk tomboy waf xcb-util-xrm
 thofmann   tinyxml
@@ -4001,7 +3990,7 @@ turboben   pgpdump python-cloudflare python-dns-lexicon
 twaugh     osbs-client pyppd python-dockerfile-parse
 twoerner   motif
 ueno       cocot libfep
-uraeus     farstream02 gstreamer1-plugins-bad-free
+uraeus     farstream02
 valtri     log4c mingw-c-ares mingw-gsm mingw-log4c mingw-opus rubygem-macaddr rubygem-uuid
 van        android-tools python-crcmod
 vanessakris python-git-changelog
@@ -4021,7 +4010,7 @@ walters    clojure clutter fsverity-utils git-evtag
 wart       tcl-tclnagios
 wef        aml libevdevPlus libuInputPlus swappy wayvnc wl-gammactl wlogout wlr-sunclock wob
 whot       xorg-x11-drv-ati
-wtaymans   gstreamer-plugins-espeak gstreamer1-doc gstreamer1-plugins-bad-free gstreamer1-rtsp-server gstreamer1-vaapi ladspa pipewire0.2 python-gstreamer1
+wtaymans   gstreamer-plugins-espeak gstreamer1-doc gstreamer1-vaapi ladspa pipewire0.2 python-gstreamer1
 wwoods     cowsay-beefymiracle plymouth-theme-hot-dog
 wzzrd      libyubikey pam_yubico ykclient ykpers yubikey-personalization-gui
 xavierb    alchemyquest drraw foundation-icons-fonts libass libcaca libclaw libicns multiwatch nv-codec-headers perl-Encode-HanExtra perl-Image-Base perl-Image-Size perl-Net-UPnP perl-Sentry-Raven perl-Term-ShellUI perl-Tk-TableMatrix perl-WWW-Search php-feedcreator php-pear-Crypt-Blowfish php-pear-Crypt-CHAP python-lockfile xorg-x11-drv-openchrome
@@ -4031,7 +4020,7 @@ yangrr     otf2bdf
 yanqiyu    checksec fcitx-m17n fcitx-qt5 fcitx5 fcitx5-chewing fcitx5-chinese-addons fcitx5-gtk fcitx5-hangul fcitx5-lua fcitx5-m17n fcitx5-mozc fcitx5-qt fcitx5-rime fcitx5-unikey libime xcb-imdkit
 yarek      disciplining-minipod ubloxcfg
 ykarel     python-incremental python-treq
-yselkowitz caribou flatpak-module-tools gnome-panel gstreamer1-plugins-bad-free gummi libart_lgpl libglade2 libgnomecanvas libkcddb multimarkdown mypaint slashem
+yselkowitz caribou flatpak-module-tools gnome-panel gummi libart_lgpl libglade2 libgnomecanvas libkcddb multimarkdown mypaint slashem
 zawertun   kuserfeedback python-sphinxext-opengraph
 zbyszek    mathjax
 zsun       golang-github-alecthomas-repr golang-github-alecthomas-units golang-github-axgle-mahonia golang-github-cheekybits-is golang-github-disintegration-imaging golang-github-fogleman-gg golang-github-nfnt-resize libdbusextended-qt5 liblxqt libmpris-qt5 libqtxdg
