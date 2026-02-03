@@ -943,6 +943,7 @@ clean-rpm-gpg-pubkey
 clearsilver
 clementine
 clevis-pin-tpm2
+clevis-pin-trustee
 clevis
 clibs-list
 clide
@@ -3382,6 +3383,7 @@ glances
 glaxium
 glaxnimate
 gle
+glew
 glfw
 glglobe
 glibc
@@ -6264,6 +6266,7 @@ libcomps
 libconfig
 libconfuse
 libcouchbase
+libcpucycles
 libcpuid
 libcss
 libcsv
@@ -6383,6 +6386,7 @@ libgeopmd
 libgeopm
 libgeotiff
 libgexiv2
+libgexiv2_0.14
 libghemical
 libgit2_1.8
 libglibutil
@@ -6840,6 +6844,7 @@ libunwind
 liburing
 libusbg
 libusbmuxd
+libusb1
 libuser
 libutempter
 libuvc
@@ -7442,7 +7447,6 @@ megapixels
 megatools
 meld
 memcached
-memkind
 memstomp
 memstrack
 memtailor
@@ -8165,6 +8169,7 @@ nfoview
 nfs-ganesha
 nfsometer
 NFStest
+nfs-utils
 nfs4-acl-tools
 nftables
 nghttp2
@@ -8331,6 +8336,7 @@ obs-service-set_version
 obs-service-tar_scm
 obs-signd
 obs-studio-plugin-droidcam
+obs-studio-plugin-pwvideo
 obs-studio-plugin-vaapi
 obs-studio-plugin-vkcapture
 obs-studio-plugin-webkitgtk
@@ -8442,6 +8448,7 @@ ocaml-pprint
 ocaml-pp
 ocaml-ppx-assert
 ocaml-ppx-base
+ocaml-ppx-bench
 ocaml-ppx-cold
 ocaml-ppx-compare
 ocaml-ppx-custom-printf
@@ -12730,6 +12737,7 @@ pypolicyd-spf
 pyppd
 pyproject-rpm-macros
 pyproj
+pypy
 pypy3.10
 pypy3.11
 pyp2rpm
@@ -14422,6 +14430,7 @@ python-pygraphviz
 python-pygtkspellcheck
 python-pyhcl
 python-pyinfra
+python-pyjson5
 python-pyjwkest
 python-pykcs11
 python-pykdtree
@@ -14622,6 +14631,7 @@ python-pyvirtualdisplay
 python-pyvlx
 python-pyvmomi
 python-pyvo
+python-py-walk
 python-pywayland
 python-pywizlight
 python-pywlroots
@@ -14721,6 +14731,7 @@ python-rope
 python-ROPGadget
 python-rosdep
 python-rosdistro
+python-rosinstall_generator
 python-rospkg
 python-roundrobin
 python-routes
@@ -14893,6 +14904,7 @@ python-sphinxcontrib-serializinghtml
 python-sphinxcontrib-websupport
 python-sphinx-copybutton
 python-sphinx-design
+python-sphinxemoji
 python-sphinx-epytext
 python-sphinx-favicon
 python-sphinx-gallery
@@ -14925,6 +14937,7 @@ python-sport-activities-features
 python-spotipy
 python-spur
 python-spyder-kernels
+python-spyking-circus
 python-sqlacodegen
 python-sqlalchemy-collectd
 python-sqlalchemy-filters
@@ -18224,7 +18237,6 @@ rust-new_debug_unreachable
 rust-newtype-uuid
 rust-nibble_vec
 rust-nix
-rust-nix0.23
 rust-nix0.26
 rust-nix0.27
 rust-nix0.28
@@ -20660,6 +20672,7 @@ texlive-collection-langeuropean
 texlive-collection-langfrench
 texlive-collection-langgerman
 texlive-collection-langchinese
+texlive-collection-latexextra
 texlive-collection-latexrecommended
 texlive-collection-latex
 texlive-collection-luatex
@@ -21606,6 +21619,7 @@ xmag
 xmakemol
 xmake
 xmbdfed
+xmedcon
 xmessage
 xmlada
 xml-commons-apis
