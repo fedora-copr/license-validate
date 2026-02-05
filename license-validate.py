@@ -5,12 +5,14 @@ import os.path
 import sys
 from lark import Lark, Transformer
 from lark.exceptions import LarkError
+from specfile import Specfile
 
 parser = argparse.ArgumentParser(description='Validate Fedora RPM license string.')
-parser.add_argument('license', help='license string')
+parser.add_argument('license', help='license string', nargs='?')
 parser.add_argument('--file', help='read the grammar from this file (default /usr/share/license-validate/grammar.lark)')
 parser.add_argument('--old', action='store_true', help="validate using old Fedora's shortnames")
 parser.add_argument('--package', help='name of the package - can return "valid" for not-allowed license if package is known exception')
+parser.add_argument('--spec', help="read the license strings from SPEC file")
 parser.add_argument('--verbose', '-v', action='count', default=0)
 opts = parser.parse_args()
 VALID = True
@@ -25,6 +27,18 @@ def load_licenses():
             spdx = license_item["expression"]
             LICENSES[spdx]=license_item
     return LICENSES
+
+def read_from_spec(filename):
+    """ Reads licensens from SPEC file and return list of strings. One for each license tag. """
+    specfile = Specfile(filename, force_parse=True)
+    result = []
+    with specfile.sections() as sections:
+        for section in sections:
+            if section.name.startswith("package"):
+                with specfile.tags(section) as tags:
+                    if 'License' in tags:
+                        result.append(tags.license.value)
+    return result
 
 class T(Transformer):
     def license_item(self, s):
@@ -42,7 +56,6 @@ class T(Transformer):
     def __default_token__(self, token):
         global VALID
         if token.value in LICENSES and "not-allowed" in LICENSES[token.value]["status"]:
-            import pdb; pdb.set_trace()
             print("Warning: {} is not-allowed license".format(token.value))
             if "usage" in LICENSES[token.value]:
                 print("{0} can be used under this condition:\n{1}\n".format(token.value, LICENSES[token.value]["usage"]))
@@ -53,7 +66,6 @@ class T(Transformer):
                 else:
                     VALID = False
             else:
-                import pdb; pdb.set_trace()
                 VALID = False
         if token.value in LICENSES:
             pass
@@ -67,6 +79,9 @@ class T(Transformer):
         return token.value
 
 
+if not opts.license and not opts.spec:
+    print("Error: you either have to specify license as a string or use --spec")
+    sys.exit(2)
 
 if opts.file:
     filename = opts.file
@@ -100,32 +115,41 @@ lark_parser = Lark(grammar)  # Scannerless Earley is the default
 #lark_parser_with_not_allowed = Lark(grammar_with_not_allowed, parser="lalr", keep_all_tokens=True)
 lark_parser_with_not_allowed = Lark(grammar_with_not_allowed, parser="lalr")
 
-try:
-    text = opts.license
-    tree = lark_parser.parse(text)
-    # approved license
-    if opts.verbose > 0:
-        print("Approved license")
-except LarkError as e:
-    # not approved license
-    import pdb; pdb.set_trace()
+if opts.spec:
+    licenses = read_from_spec(opts.spec)
+else:
+    licenses = [opts.license]
+
+VALID_ALL = True
+for text in licenses:
+    VALID = True
     try:
-        tree_with_not_allowed = lark_parser_with_not_allowed.parse(text)
+        tree = lark_parser.parse(text)
+        # approved license
         if opts.verbose > 0:
-            T(visit_tokens=True).transform(tree_with_not_allowed)
-        if VALID and PACKAGE:
-            print("Uses not-allowed license, but package is known to be exception.")
-        else: 
-            print("Uses not-allowed license.")
+            print(text)
+            print("Approved license")
+    except LarkError as e:
+        # not approved license
+        try:
+            tree_with_not_allowed = lark_parser_with_not_allowed.parse(text)
+            if opts.verbose > 0:
+                T(visit_tokens=True).transform(tree_with_not_allowed)
+            if VALID and PACKAGE:
+                print("Uses not-allowed license, but package is known to be exception.")
+            else: 
+                print("Uses not-allowed license.")
+                VALID = False
+        except LarkError as ee:
             VALID = False
-    except LarkError as ee:
-        VALID = False
-        if opts.verbose > 0:
-            print(e)
-        print("Not a valid license string")
-        if opts.verbose > 0:
-            print("Please check https://docs.fedoraproject.org/en-US/legal/all-allowed/")
-    if not opts.verbose:
-        print("Run with -v option to see more information.")
-if not VALID:
+            if opts.verbose > 0:
+                print(e)
+            print("Not a valid license string")
+            if opts.verbose > 0:
+                print("Please check https://docs.fedoraproject.org/en-US/legal/all-allowed/")
+        if not opts.verbose:
+            print("Run with -v option to see more information.")
+    VALID_ALL = VALID_ALL and VALID
+
+if not VALID_ALL:
     sys.exit(1)
