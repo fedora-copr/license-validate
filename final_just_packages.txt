@@ -457,7 +457,6 @@ geany-themes
 gearhead1
 gears-backgrounds
 geary
-gecode
 gedit-plugin-editorconfig
 generic-logos
 GeographicLib
@@ -554,8 +553,6 @@ golang-github-alecthomas-repr
 golang-github-alecthomas-units
 golang-github-alexflint-filemutex
 golang-github-aliyun-oss-sdk
-golang-github-aliyun-ossutil
-golang-github-alyu-configparser
 golang-github-andreyvit-diff
 golang-github-andybalholm-brotli
 golang-github-andybalholm-cascadia
@@ -563,7 +560,6 @@ golang-github-anmitsu-shlex
 golang-github-antchfx-htmlquery
 golang-github-antchfx-xmlquery
 golang-github-antihax-optional
-golang-github-armon-metrics
 golang-github-armon-socks5
 golang-github-asaskevich-govalidator
 golang-github-aws-lambda
@@ -630,14 +626,12 @@ golang-github-dlclark-regexp2
 golang-github-dnaeon-vcr
 golang-github-docker-go
 golang-github-docopt
-golang-github-droundy-goopt
 golang-github-dustin-humanize
 golang-github-dvsekhvalnov-jose2go
 golang-github-d2g-dhcp4
 golang-github-eapache-queue
 golang-github-eapache-resiliency
 golang-github-eapache-xerial-snappy
-golang-github-eclipse-paho-mqtt
 golang-github-edsrzf-mmap
 golang-github-eknkc-amber
 golang-github-elazarl-bindata-assetfs
@@ -785,14 +779,11 @@ golang-github-labstack-echo-4
 golang-github-labstack-gommon
 golang-github-lann-ps
 golang-github-leodido-urn
-golang-github-lestrrat-envload
-golang-github-lestrrat-strftime
 golang-github-leveldb
 golang-github-lib-pq
 golang-github-logfmt
 golang-github-lucasb-eyer-colorful
 golang-github-lunixbochs-vtclean
-golang-github-magiconair-properties
 golang-github-mailru-easyjson
 golang-github-manifoldco-promptui
 golang-github-marcinbor85-gohex
@@ -889,7 +880,6 @@ golang-github-revel-log15
 golang-github-revel-pathtree
 golang-github-revel
 golang-github-rivo-uniseg
-golang-github-rjeczalik-notify
 golang-github-robertkrimen-otto
 golang-github-rogpeppe-fastuuid
 golang-github-rs-cors
@@ -897,7 +887,6 @@ golang-github-rs-xid
 golang-github-rs-zerolog
 golang-github-rwcarlsen-goexif
 golang-github-segmentio-ksuid
-golang-github-sgreben-flagvar
 golang-github-shiena-ansicolor
 golang-github-shopify-logrus-bugsnag
 golang-github-shopify-sarama
@@ -1235,8 +1224,6 @@ kf5-kdesignerplugin
 kf5-kdewebkit
 kf5-khtml
 kf5-kirigami
-kf5-kirigami2
-kf5-kirigami2
 kf5-kjsembed
 kf5-kjs
 kf5-libkcddb
@@ -1391,7 +1378,6 @@ libjoedog
 libkcddb
 libkdegames
 libkeduvocdocument
-libkrunfw
 liblbfgs
 liblinear
 liblo
@@ -1707,7 +1693,6 @@ mingw-rest
 mingw-SDL_image
 mingw-sparsehash
 mingw-spatialindex
-mingw-speexdsp
 mingw-spice-gtk
 mingw-spice-protocol
 mingw-spirv-headers
@@ -1777,7 +1762,6 @@ mum-hash
 MUMPS
 mupen64plus
 mup
-muse
 musl
 mxparser
 mycli
@@ -1823,7 +1807,6 @@ nodejs-colors
 nodejs-linefix
 nodejs-packaging
 nodejs-replace-require-self
-nodejs-underscore
 noggin
 nomacs
 notify-sharp
@@ -2167,7 +2150,6 @@ postfix-mta-sts-resolver
 postgresql-ip4r
 postgresql-pgpool-II
 pothana2000-fonts
-povray
 powerline
 pptpd
 preeny
@@ -2216,7 +2198,6 @@ python-acoustid
 python-adafruit-platformdetect
 python-ailment
 python-aiodns
-python-aiohttp-negotiate
 python-aioitertools
 python-aiomysql
 python-aioresponses
@@ -2242,10 +2223,6 @@ python-asysocks
 python-audioread
 python-autobahn
 python-autopep8
-python-avocado
-python-avocado
-python-avocado
-python-avocado
 python-awesomeversion
 python-azure-mgmt-advisor
 python-azure-mgmt-apimanagement
@@ -2517,6 +2494,7 @@ python-gunicorn
 python-hgapi
 python-hglib
 python-hidapi
+python-holidays
 python-howdoi
 python-hpack
 python-html5lib
@@ -2911,6 +2889,7 @@ python-vsts-cd-manager
 python-vsts
 python-vulture
 python-walkdir
+python-wand
 python-webencodings
 python-webob
 python-webscrapbook
@@ -2991,8 +2970,6 @@ raidem-music
 raidem
 ramond
 raptor2
-rb_libtorrent
-rb_libtorrent
 rclone-browser
 rcm
 rcssmonitor
@@ -3048,7 +3025,6 @@ rubygem-rchardet
 rubygem-rmail
 rubygem-scanf
 rubygems
-rubygem-systemu
 rubygem-unicode
 rubygem-uuid
 rubygem-xmlrpc
