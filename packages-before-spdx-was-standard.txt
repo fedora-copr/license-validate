@@ -1258,8 +1258,6 @@ debootstrap
 debugbreak
 debugedit
 decentxml
-deco-archive
-deco
 deepin-account-faces
 deepin-api
 deepin-calculator
@@ -1958,7 +1956,6 @@ fcitx5-unikey
 fcitx5-zhuyin
 fcode-utils
 fcoe-utils
-fctxpd
 fdk-aac-free
 fdr
 featherpad
@@ -2415,7 +2412,6 @@ geany-themes
 gearhead1
 gears-backgrounds
 geary
-gecode
 gedit-plugin-editorconfig
 gedit-plugins
 gedit
@@ -3412,14 +3408,8 @@ golang-github-alecthomas-kong
 golang-github-alecthomas-repr
 golang-github-alecthomas-units
 golang-github-alexflint-filemutex
-golang-github-alibabacloud-debug
-golang-github-alibabacloud-tea
 golang-github-aliyun-alibaba-cloud-sdk
-golang-github-aliyun-cli
-golang-github-aliyun-credentials
 golang-github-aliyun-oss-sdk
-golang-github-aliyun-ossutil
-golang-github-alyu-configparser
 golang-github-andreyvit-diff
 golang-github-andybalholm-brotli
 golang-github-andybalholm-cascadia
@@ -3432,7 +3422,6 @@ golang-github-apache-thrift
 golang-github-appc-docker2aci
 golang-github-appc-spec
 golang-github-armon-consul-api
-golang-github-armon-metrics
 golang-github-armon-socks5
 golang-github-asaskevich-govalidator
 golang-github-atotto-clipboard
@@ -3547,9 +3536,7 @@ golang-github-docker-metrics
 golang-github-docker-units
 golang-github-docopt
 golang-github-dreamacro-shadowsocks2
-golang-github-droundy-goopt
 golang-github-dustin-humanize
-golang-github-dustinkirkland-petname
 golang-github-dvsekhvalnov-jose2go
 golang-github-d2g-dhcp4client
 golang-github-d2g-dhcp4server
@@ -3557,7 +3544,6 @@ golang-github-d2g-dhcp4
 golang-github-eapache-queue
 golang-github-eapache-resiliency
 golang-github-eapache-xerial-snappy
-golang-github-eclipse-paho-mqtt
 golang-github-edsrzf-mmap
 golang-github-eknkc-amber
 golang-github-elazarl-bindata-assetfs
@@ -3665,7 +3651,6 @@ golang-github-google-shlex
 golang-github-google-subcommands
 golang-github-google-trillian
 golang-github-google-uuid
-golang-github-google-wire
 golang-github-gorhill-cronexpr
 golang-github-gorilla-csrf
 golang-github-gorilla-css
@@ -3685,9 +3670,6 @@ golang-github-grpc-ecosystem-middleware
 golang-github-grpc-ecosystem-prometheus
 golang-github-gucumber
 golang-github-hailocab-hostpool
-golang-github-haproxytech-client-native
-golang-github-haproxytech-config-parser
-golang-github-haproxytech-logger
 golang-github-hashicorp-cleanhttp
 golang-github-hashicorp-errwrap
 golang-github-hashicorp-hclog
@@ -3798,8 +3780,6 @@ golang-github-labstack-gommon
 golang-github-lann-ps
 golang-github-leodido-urn
 golang-github-leonelquinteros-gotext
-golang-github-lestrrat-envload
-golang-github-lestrrat-strftime
 golang-github-letsencrypt-challtestsrv
 golang-github-letsencrypt-pebble
 golang-github-leveldb
@@ -3814,7 +3794,6 @@ golang-github-lucasb-eyer-colorful
 golang-github-lunixbochs-vtclean
 golang-github-lyft-protoc-gen-star
 golang-github-macaron-inject
-golang-github-magiconair-properties
 golang-github-mailru-easyjson
 golang-github-manifoldco-promptui
 golang-github-marcinbor85-gohex
@@ -3874,7 +3853,6 @@ golang-github-mvo5-uboot
 golang-github-mwitkow-conntrack
 golang-github-mxk-flowrate
 golang-github-nats-io-nkeys
-golang-github-nats-io-nuid
 golang-github-ncw-swift
 golang-github-networkplumbing-nft
 golang-github-nfnt-resize
@@ -3921,7 +3899,6 @@ golang-github-pelletier-toml
 golang-github-pelletier-toml-2
 golang-github-performancecopilot-speed
 golang-github-peterbourgon-diskv
-golang-github-peterbourgon-ff-3
 golang-github-peterh-liner
 golang-github-petermattis-goid
 golang-github-pgaskin-koboutils
@@ -3976,7 +3953,6 @@ golang-github-revel
 golang-github-rickb777-date
 golang-github-rickb777-plural
 golang-github-rivo-uniseg
-golang-github-rjeczalik-notify
 golang-github-robertkrimen-otto
 golang-github-rogpeppe-fastuuid
 golang-github-rogpeppe-internal
@@ -3988,14 +3964,12 @@ golang-github-safchain-ethtool
 golang-github-seccomp-libseccomp
 golang-github-segmentio-ksuid
 golang-github-sergi-diff
-golang-github-sgreben-flagvar
 golang-github-shiena-ansicolor
 golang-github-shirou-gopsutil
 golang-github-shopify-logrus-bugsnag
 golang-github-shopify-sarama
 golang-github-shopify-toxiproxy
 golang-github-shopspring-decimal
-golang-github-shulhan-bindata
 golang-github-shurcool-httpfs
 golang-github-shurcool-httpgzip
 golang-github-shurcool-vfsgen
@@ -4993,7 +4967,6 @@ irqbalance
 irrlicht
 irsim
 irssi
-irstlm
 iscan-firmware
 iscsi-initiator-utils
 is-it-in-rhel
@@ -5239,7 +5212,6 @@ kawa
 kbackup
 kbdd
 kbd
-kbibtex
 kbilliards
 kblackbox
 kblocks
@@ -6747,7 +6719,6 @@ lxqt-wallet
 lxrandr
 lxsession
 lxshortcut
-lxsplit
 lxtask
 lxterminal
 lynis
@@ -7245,7 +7216,6 @@ mingw-SDL2_ttf
 mingw-sip
 mingw-sparsehash
 mingw-spatialindex
-mingw-speexdsp
 mingw-speex
 mingw-spice-gtk
 mingw-spice-protocol
@@ -7493,7 +7463,6 @@ muParser
 mupdf
 mupen64plus
 mup
-muse
 MUSIC
 musl
 mussh
@@ -7728,7 +7697,6 @@ nodejs-linefix
 nodejs-nodemon
 nodejs-packaging
 nodejs-replace-require-self
-nodejs-underscore
 nodejs20
 nodejs22
 noggin
@@ -8406,7 +8374,6 @@ perl-Alien-cmake3
 perl-Alien-FFI
 perl-Alien-LibGumbo
 perl-Alien-Libxml2
-perl-Alien-Packages
 perl-Alien-PCRE2
 perl-Alien-pkgconf
 perl-Alien-ProtoBuf
@@ -10156,7 +10123,6 @@ perl-MooX-Log-Any
 perl-MooX-Options
 perl-MooX-Role-Logger
 perl-MooX-Role-Parameterized
-perl-MooX-Roles-Pluggable
 perl-MooX-Singleton
 perl-MooX
 perl-MooX-StrictConstructor
@@ -10274,7 +10240,6 @@ perl-Net-Statsd
 perl-Net-Stomp
 perl-Net-Telnet
 perl-Net-Twitter-Lite
-perl-Net-Twitter
 perl-Net-UPnP
 perl-Net-Whois-Raw
 perl-Net-Works
@@ -11223,7 +11188,6 @@ perl-UNIVERSAL-require
 perl-Unix-Groups-FFI
 perl-Unix-Mknod
 perl-Unix-Process
-perl-Unix-Statgrab
 perl-Unix-Syslog
 perl-URI-cpan
 perl-URI-db
@@ -11285,7 +11249,6 @@ perl-WWW-Pastebin-PastebinCom-Create
 perl-WWW-RobotRules
 perl-WWW-Salesforce
 perl-WWW-Search
-perl-WWW-Shorten
 perl-WWW-Splunk
 perl-WWW-Twilio-API
 perl-WWW-Twilio-TwiML
@@ -13138,7 +13101,6 @@ python-noiseprotocol
 python-nose2
 python-notebook
 python-notify2
-python-novaclient-os-networks
 python-novaclient-os-virtual-interfaces
 python-novaclient
 python-npyscreen
@@ -14877,17 +14839,13 @@ rubygem-log4r
 rubygem-macaddr
 rubygem-marcel
 rubygem-minitest5
-rubygem-mixlib-cli
-rubygem-mixlib-config
 rubygem-mixlib-log
-rubygem-mixlib-shellout
 rubygem-mocha
 rubygem-msgpack
 rubygem-narray
 rubygem-native-package-installer
 rubygem-ncursesw
 rubygem-net-irc
-rubygem-nifti
 rubygem-nio4r
 rubygem-nokogiri
 rubygem-opennebula
@@ -14931,7 +14889,6 @@ rubygem-sqlite3
 rubygems
 rubygem-stomp
 rubygem-sugarjar
-rubygem-systemu
 rubygem-sys-uname
 rubygem-test-unit-notify
 rubygem-test-unit-rr
@@ -16117,7 +16074,6 @@ sepolicy_analysis
 seqan3
 sequeler
 sequence-library
-serafettin-cartoon-fonts
 serdisplib
 serd
 sergueis-destiny
@@ -16289,7 +16245,6 @@ slowloris
 slrn
 sl
 slurm
-smaclient
 smartmontools
 smbcmp
 smbldap-tools
@@ -16927,7 +16882,6 @@ tvtime
 twa
 tweak
 twinkle
-twirssi
 twitter-twemoji-fonts
 twlog
 twolame
@@ -17397,7 +17351,6 @@ wqy-microhei-fonts
 wqy-unibit-fonts
 wqy-zenhei-fonts
 writerperfect
-ws-commons-util
 wsdlpull
 wsdl4j
 wshowkeys
