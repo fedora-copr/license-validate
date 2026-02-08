@@ -320,6 +320,7 @@ arc-theme
 ardour6
 ardour7
 ardour8
+ardour9
 arduino-listSerialPortsC
 argbash
 argon2
@@ -587,6 +588,7 @@ bcm283x-firmware
 bcm43xx-fwcutter
 bcrypt
 bc
+bcvk
 bdftopcf
 bdii
 bdsync
@@ -873,6 +875,7 @@ calligraplan
 calligra
 calls
 calypso
+cambalache
 cambozola
 camorama
 campivisivi-titillium-fonts
@@ -2060,7 +2063,6 @@ erlang-erlsom
 erlang-erlsyslog
 erlang-erlware_commons
 erlang-erlydtl
-erlang-esasl
 erlang-esip
 erlang-eunit_formatters
 erlang-exometer_core
@@ -2076,7 +2078,6 @@ erlang-gettext
 erlang-goldrush
 erlang-gpb
 erlang-gproc
-erlang-gtknode
 erlang-gun
 erlang-hamcrest
 erlang-hex_core
@@ -4690,8 +4691,6 @@ golang-github-syndtr-goleveldb
 golang-github-task-slim-sprig3
 golang-github-task
 golang-github-tdewolff-argp
-golang-github-tdewolff-minify
-golang-github-tdewolff-parse
 golang-github-tdewolff-test
 golang-github-tenox7-wrp
 golang-github-termie-shutil
@@ -5633,6 +5632,7 @@ chromium-bsu
 chromium
 chrony
 chrpath
+chunkah
 chunkfs
 iagno
 iaito
@@ -8141,6 +8141,7 @@ mb2md
 mcabber
 mce-inject
 mcelog
+mcjoin
 mcomix3
 mcrcon
 mcrouter
@@ -14823,6 +14824,7 @@ python-charset-normalizer
 python-cheetah
 python-cheroot
 python-cherrypy
+python-chevron
 python-chm
 python-ibm-cloud-sdk-core
 python-ibm-vpc
@@ -14937,6 +14939,7 @@ python-jsonpatch
 python-jsonpickle
 python-jsonpointer
 python-jsonref
+python-json-repair
 python-jsonrpclib
 python-jsonschema-path
 python-jsonschema-specifications
@@ -17212,6 +17215,7 @@ rocm-cmake
 rocm-compilersupport
 rocm-core
 rocm-examples
+rocm-filesystem
 rocminfo
 rocm-omp
 rocm-origami
@@ -17655,7 +17659,6 @@ rust-ambient-id
 rust-ammonia
 rust-annotate-snippets
 rust-annotate-snippets0.11
-rust-annotate-snippets0.9
 rust-ansi_colours
 rust-ansi-parser
 rust-ansi-str
@@ -18221,6 +18224,7 @@ rust-dolby_vision
 rust-domain
 rust-dotenvy
 rust-downcast-rs
+rust-downcast-rs1
 rust-dpi
 rust-drm-ffi
 rust-drm-fourcc
@@ -18322,7 +18326,7 @@ rust-fake
 rust-fallible_collections
 rust-fallible-iterator
 rust-fallible-streaming-iterator
-rust-fancy-regex0.11
+rust-fancy-regex0.13
 rust-fastbloom
 rust-faster-hex
 rust-fastrand
@@ -18864,7 +18868,7 @@ rust-libblkid-rs
 rust-libblkid-rs-sys
 rust-libbpf-cargo
 rust-libbpf-cargo0.22
-rust-libbpf-cargo0.23
+rust-libbpf-cargo0.24
 rust-libbpf-rs
 rust-libbpf-rs0.22
 rust-libbpf-rs0.23
@@ -18952,7 +18956,6 @@ rust-lru
 rust-lru0.12
 rust-lru0.13
 rust-lscolors
-rust-lscolors0.13
 rust-lsd
 rust-lsp-server
 rust-lsp-types
@@ -19003,7 +19006,6 @@ rust-memmap2
 rust-memmap2_0.5
 rust-memmap2_0.7
 rust-memmem
-rust-memoffset0.6
 rust-memoffset0.7
 rust-mesa3d_util
 rust-metrics-exporter-prometheus
@@ -19140,6 +19142,7 @@ rust-nu-system
 rust-nu-table
 rust-nu-term-grid
 rust-nu-test-support
+rust-object-rewrite
 rust-object
 rust-object0.36
 rust-ocb3
@@ -19734,7 +19737,6 @@ rust-sha1-checked
 rust-sha1_smol
 rust-sha-1
 rust-sha1
-rust-sha1_0.6
 rust-sha-1_0.9
 rust-sha2-asm
 rust-sha2
@@ -20348,8 +20350,8 @@ rust-xdg2
 rust-xi-unicode
 rust-xkbcommon-dl
 rust-xkeysym
+rust-xml
 rust-xml5ever
-rust-xml5ever0.17
 rust-xterm-query
 rust-xxhash-c-sys
 rust-xxhash-rust
@@ -21369,6 +21371,10 @@ texlive-collection-latex
 texlive-collection-luatex
 texlive-collection-mathscience
 texlive-collection-metapost
+texlive-collection-music
+texlive-collection-pictures
+texlive-collection-plaingeneric
+texlive-collection-pstricks
 texlive-eq-save
 texlive-mathtime-ltx
 texlive-scheme-basic
@@ -21602,6 +21608,7 @@ trunk
 trurl
 trustedqsl
 trustee-guest-components
+trustee
 tslib
 tsl-sparse-map
 tss2
