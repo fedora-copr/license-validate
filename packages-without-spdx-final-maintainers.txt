@@ -229,7 +229,7 @@ compizconfig-python  jskarvad
 comps-extras         ngompa
 console-image-viewer jvanek
 corectrl             atim
-corsix-th            atim orphan
+corsix-th            atim
 cortado              jwrdegoede
 cowpatty             sagarun
 cowsay-beefymiracle  ndim wwoods
@@ -2115,7 +2115,7 @@ pnglite              lkundrak
 poedit               c72578
 polari               aekoroglu
 poly2tri             churchyard cottsay
-polybar              atim orphan
+polybar              orphan
 portaudio            jwrdegoede peter salimma
 postfix-mta-sts-resolver thebeanogamer
 postgresql-ip4r      devrim fjanus praiskup
@@ -2274,7 +2274,7 @@ python-azure-mgmt-subscription jcline
 python-azure-mgmt-synapse jcline
 python-azure-mgmt-trafficmanager jcline
 python-azure-mgmt-web jcline
-python-b2sdk         jonny limb
+python-b2sdk         jonny limb supakeen
 python-babelfish     jorti
 python-backlash      kevin ondrejj
 python-backoff       abompard nikromen praiskup
@@ -3129,7 +3129,6 @@ tcptrack             jonathanspw rebus
 tcputils             limb
 tdom                 krege
 teeworlds            ignatenkobrain limb lkundrak
-tegrarcm             jkastner kwizart
 telepathy-gabble     aperezbios
 telepathy-mission-control chimosky
 telepathy-salut      chimosky
@@ -3415,7 +3414,7 @@ aradchen   nodejs-packaging
 asn        libtermkey libvterm lua-bit32 lua-bitop lua-lpeg lua-mpack luajit nodejs-bash-language-server rust-ar rust-size tmate
 astra      bugzilla python-click-threading
 athoscr    douceur godotenv golang-github-alecthomas-chroma golang-github-andybalholm-cascadia golang-github-dlclark-regexp2 golang-github-eknkc-amber golang-github-fortytw2-leaktest golang-github-gobuffalo-envy golang-github-gobwas-glob golang-github-gorilla-css golang-github-kyokomi-emoji golang-github-montanaflynn-stats python-booleanoperations python-firehose python-fontMath
-atim       corectrl corsix-th daggy fuzzel gnome-panel kakoune libretro-gw libretro-handy libretro-pcsx-rearmed mangohud polybar python-gevent-eventemitter python-pyotp python-steam python-vdf vim-gitgutter vim-gv vim-pathogen vim-trailing-whitespace wayfire wayfire-config-manager wf-config wf-shell yaru-theme
+atim       corectrl corsix-th daggy fuzzel gnome-panel kakoune libretro-gw libretro-handy libretro-pcsx-rearmed mangohud python-gevent-eventemitter python-pyotp python-steam python-vdf vim-gitgutter vim-gv vim-pathogen vim-trailing-whitespace wayfire wayfire-config-manager wf-config wf-shell yaru-theme
 ausil      cm_rgb uboot-tools
 aviso      python-blessed python-sphinx-argparse python-sphinxcontrib-spelling
 bajertom   tmt
@@ -3606,7 +3605,7 @@ jforbes    kernel linux-firmware spice xen
 jgrulich   firefox kbrickbuster kcachegrind kde-runtime kdepimlibs kf5-baloo kf5-kdelibs4support kf5-kdesignerplugin kf5-kdewebkit kf5-khtml kf5-kjs kf5-kjsembed kwayland-server maliit-keyboard okteta oxygen-fonts plasma-workspace qt5-doc qt5-qtaccountsservice qt5-qtconfiguration qt5-qtstyleplugins qt5-qtwebengine sparsehash
 jjames     fontawesome-fonts python-wurlitzer
 jjelen     libcacard pcsc-lite-acsccid snotes tcp_wrappers
-jkastner   can-utils mongoose openni tegrarcm tinyxml
+jkastner   can-utils mongoose openni tinyxml
 jkonecny   kakoune
 jkraehemann gsequencer
 jkucera    gnuplot kget libgta sox
@@ -3657,7 +3656,7 @@ ktdreyer   kstart luarocks pam_afs_session python-apipkg python-cmd2 python-exec
 ktock      stargz-snapshotter
 kushal     clojure pycolumnize python-retask python-walkdir uflash vagrant-digitalocean
 kvolny     comic-neue-fonts game-music-emu horai-ume-fonts libbs2b librcd mp3gain
-kwizart    afflib akmods asdcplib bcd bitstream cmrt daala icc-profiles-basiccolor-printing2009 icc-profiles-openicc kmodtool libmatroska libupnp libva-utils libva-v4l2-request nv-codec-headers nvidia-query-resource-opengl rttr schroedinger tegrarcm vdpauinfo
+kwizart    afflib akmods asdcplib bcd bitstream cmrt daala icc-profiles-basiccolor-printing2009 icc-profiles-openicc kmodtool libmatroska libupnp libva-utils libva-v4l2-request nv-codec-headers nvidia-query-resource-opengl rttr schroedinger vdpauinfo
 lachmanfrantisek python-click-man
 landgraf   global gnat-srpm-macros
 larsks     cava
@@ -3772,7 +3771,7 @@ ondrejj    TurboGears2 aspell-sk libirman python-WSGIProxy2 python-backlash pyth
 onemorebyte swayidle
 orange-kao python-accept-types python-executing python-exoscale python-folium python-gnupg python-google-i18n-address python-odata-query python-pytest-localserver python-requests-exoscale-auth python-sentry-sdk python-sly python-stripe python-twilio python-xml2rfc python-zxcvbn
 orion      Mayavi ast catalyst cpp-httplib elfio flow-tools ftnchek garcon glm h5py hdf hiredis irrlicht itcl itk iwidgets jchardet js-jquery kstart lasi libaesgm libgeotiff libpgf libxfce4ui lua-bitop lua-json lua-lunitx lua-posix lua-term mingw-libtiff mingw-libxslt ncl netcdf4-python octave-general octave-interval octave-io openmpi openspecfun pcfi perl-ConfigReader plplot pslib pyotherside pyscard python-AppTools python-cftime python-ecdsa python-enthought-sphinx-theme python-entrypoints python-fido2 python-frozendict python-gevent python-locket python-lz4 python-nbformat python-pamela python-pkgconfig python-process-tests python-pycodestyle python-pycosat python-pytest-benchmark python-pytest-isort python-pytest-mpi python-rencode python-schema python-virtualenv python-winrm python-xlib qtbrowserplugin reproc rhash rust-crc-any rust-debug-helper superlu_dist tcp_wrappers udunits2 vtable-dumper xdotool ykclient zfp
-orphan     corsix-th elementary gnome-panel golang-github-adrg-xdg golang-github-circonus-labs-gometrics golang-github-gocql golang-github-jarcoal-httpmock golang-github-kr-pty golang-github-mattn-ieproxy golang-github-vividcortex-ewma ipmiutil lis mimic opal polybar ptlib python-catkin_lint python-fissix python-pdir2 vim-gitgutter vim-gv vim-pathogen vim-trailing-whitespace zola
+orphan     elementary gnome-panel golang-github-adrg-xdg golang-github-circonus-labs-gometrics golang-github-gocql golang-github-jarcoal-httpmock golang-github-kr-pty golang-github-mattn-ieproxy golang-github-vividcortex-ewma ipmiutil lis mimic opal polybar ptlib python-catkin_lint python-fissix python-pdir2 vim-gitgutter vim-gv vim-pathogen vim-trailing-whitespace zola
 osloup     docbook5-style-xsl nss_nis orafce pg_auto_failover postgresql-pgpool-II
 osoukup    vim-ctrlp
 otaylor    fedora-flathub-remote fedora-third-party flatpak-module-tools
@@ -3895,7 +3894,7 @@ stingray   flow-tools
 stransky   firefox yelp
 suanand    php-gettext-gettext python-tinydb
 sumantrom  python-pytest-httpx python-pytest-xprocess
-supakeen   python-pygments-better-html
+supakeen   python-b2sdk python-pygments-better-html
 suraia     adobe-source-serif-pro-fonts ibm-plex-fonts python-precis_i18n zsh-autosuggestions zsh-syntax-highlighting
 survient   freight
 suve       dumb-init gearhead1 gravity-beams-and-evaporating-stars jc lazarus php-phpseclib prettyping python-whois rmlint spectrographic twa
