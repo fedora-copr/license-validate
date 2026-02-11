@@ -127,7 +127,7 @@ for text in licenses:
         tree = lark_parser.parse(text)
         # approved license
         if opts.verbose > 0:
-            print(text)
+            print(f"License: {text}")
             print("Approved license")
     except LarkError as e:
         # not approved license
@@ -143,7 +143,8 @@ for text in licenses:
         except LarkError as ee:
             VALID = False
             if opts.verbose > 0:
-                print(e)
+                print(f"License: {text}")
+                print(str(e).split("Expected one of")[0])
             print("Not a valid license string")
             if opts.verbose > 0:
                 print("Please check https://docs.fedoraproject.org/en-US/legal/all-allowed/")
