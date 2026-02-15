@@ -22,7 +22,7 @@ def test_license_validate_and_success():
     assert exit_code == 0, f"Expected 0 but got {exit_code}"
 
 def test_license_validate_complex_success():
-    exit_code = run_validator("AGPL-3.0-only AND BSD-3-Clause AND 0BSD AND Apache-2.0 AND (Apache-2.0 OR BSL-1.0) AND (Apache-2.0 WITH LLVM-exception OR Apache-2.0 OR MIT) AND (BSD-2-Clause OR Apache-2.0 OR MIT) AND BSD-3-Clause AND ISC AND MIT AND MPL-2.0 AND (Unlicense OR MIT) AND (Zlib OR Apache-2.0 OR MIT) AND (ISC AND MIT AND OpenSSL")
+    exit_code = run_validator("AGPL-3.0-only AND BSD-3-Clause AND 0BSD AND Apache-2.0 AND (Apache-2.0 OR BSL-1.0) AND (Apache-2.0 WITH LLVM-exception OR Apache-2.0 OR MIT) AND (BSD-2-Clause OR Apache-2.0 OR MIT) AND BSD-3-Clause AND ISC AND MIT AND MPL-2.0 AND (Unlicense OR MIT) AND (Zlib OR Apache-2.0 OR MIT) AND (ISC AND MIT AND OpenSSL)")
     assert exit_code == 0, f"Expected 0 but got {exit_code}"
 
 
