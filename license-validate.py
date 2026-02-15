@@ -40,28 +40,43 @@ def read_from_spec(filename):
                         result.append(tags.license.value)
     return result
 
-# lalr callback
-def on_license_match(token):
-    global VALID
-    global LICENSES
-    global PACKAGE
-    global VERBOSE
-    if token.value in LICENSES and "not-allowed" in LICENSES[token.value]["status"]:
-        print("Warning: {} is not-allowed license".format(token.value))
-        if "usage" in LICENSES[token.value]:
-            if VERBOSE:
+class T(Transformer):
+    def license_item(self, s):
+        return str(s[0])
+    def license(self, s):
+        return " ".join(s)
+    def start(self, s):
+        return s[0]
+    def left_parenthesis(self, s):
+        return '('
+    def right_parenthesis(self, s):
+        return ')'
+    def operator(self, s):
+        return str(s[0]) 
+    def __default_token__(self, token):
+        global VALID
+        if token.value in LICENSES and "not-allowed" in LICENSES[token.value]["status"]:
+            print("Warning: {} is not-allowed license".format(token.value))
+            if "usage" in LICENSES[token.value]:
                 print("{0} can be used under this condition:\n{1}\n".format(token.value, LICENSES[token.value]["usage"]))
-        if "packages_with_exceptions" in LICENSES[token.value]:
-            if VERBOSE:
-                print("These packages are known to use this {} license as an exception: {}".format(token.value, '. '.join(LICENSES[token.value]["packages_with_exceptions"])))
-            if PACKAGE in LICENSES[token.value]["packages_with_exceptions"]:
-                pass
+            if "packages_with_exceptions" in LICENSES[token.value]:
+                print("These packages are known to use this {} license as an exception: {}".format(token.value, LICENSES[token.value]["packages_with_exceptions"]))
+                if PACKAGE in LICENSES[token.value]["packages_with_exceptions"]:
+                    pass
+                else:
+                    VALID = False
             else:
                 VALID = False
+        if token.value in LICENSES:
+            pass
+        elif token in ["(", ")"]:                                                                                                                                                
+            pass
+        elif token in ["AND", "OR"]:
+            pass
         else:
             VALID = False
-    if token.value in LICENSES:
-        return token
+            print("Warning: we do not have SPDX identifier for {}".format(token))
+        return token.value
 
 
 if not opts.license and not opts.spec:
@@ -97,17 +112,13 @@ if opts.package:
 LICENSES = load_licenses()
 
 lark_parser = Lark(grammar)  # Scannerless Earley is the default
-# must be lalr
-lark_parser_with_not_allowed = Lark(grammar_with_not_allowed, start="start", parser="lalr", keep_all_tokens=True, lexer_callbacks={'LICENSE_ITEM': on_license_match})
+#lark_parser_with_not_allowed = Lark(grammar_with_not_allowed, parser="lalr", keep_all_tokens=True)
+lark_parser_with_not_allowed = Lark(grammar_with_not_allowed, parser="lalr")
 
 if opts.spec:
     licenses = read_from_spec(opts.spec)
 else:
     licenses = [opts.license]
-
-VERBOSE = False
-if opts.verbose > 0:
-    VERBOSE = True
 
 VALID_ALL = True
 for text in licenses:
@@ -121,8 +132,9 @@ for text in licenses:
     except LarkError as e:
         # not approved license
         try:
-            VALID = True
             tree_with_not_allowed = lark_parser_with_not_allowed.parse(text)
+            if opts.verbose > 0:
+                T(visit_tokens=True).transform(tree_with_not_allowed)
             if VALID and PACKAGE:
                 print("Uses not-allowed license, but package is known to be exception.")
             else: 
