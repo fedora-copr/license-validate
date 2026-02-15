@@ -29,9 +29,14 @@ def test_license_validate_complex_success():
     exit_code = run_validator("AGPL-3.0-only AND BSD-3-Clause AND 0BSD AND Apache-2.0 AND (Apache-2.0 OR BSL-1.0) AND (Apache-2.0 WITH LLVM-exception OR Apache-2.0 OR MIT) AND (BSD-2-Clause OR Apache-2.0 OR MIT) AND BSD-3-Clause AND ISC AND MIT AND MPL-2.0 AND (Unlicense OR MIT) AND (Zlib OR Apache-2.0 OR MIT) AND (ISC AND MIT AND OpenSSL)")
     assert exit_code == 0, f"Expected 0 but got {exit_code}"
 
-def test_license_validate_failure_BSD3Clear_without_package():
+def test_license_validate_success_BSD3Clear_with_package():
     """Test that 'BAR' returns a non-zero exit code (Failure)."""
     exit_code = run_validator("BSD-3-Clause-Clear", ['--package', 'kernel'])
+    assert exit_code == 0, f"Expected 0 but got {exit_code}"
+
+def test_license_validate_success_BSD3Clear_comples_with_package():
+    """Test that 'BAR' returns a non-zero exit code (Failure)."""
+    exit_code = run_validator("BSD-3-Clause-Clear AND (GPL-1.0-or-later OR BSD-3-Clause)", ['--package', 'kernel'])
     assert exit_code == 0, f"Expected 0 but got {exit_code}"
 
 

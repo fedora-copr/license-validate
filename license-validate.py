@@ -60,7 +60,7 @@ class T(Transformer):
         global VERBOSE
         if token.value in LICENSES and "not-allowed" in LICENSES[token.value]["status"]:
             print("Warning: {} is not-allowed license".format(token.value))
-            if ("usage" in LICENSES[token.value]) AND VERBOSE:
+            if ("usage" in LICENSES[token.value]) and VERBOSE:
                 print("{0} can be used under this condition:\n{1}\n".format(token.value, LICENSES[token.value]["usage"]))
             if "packages_with_exceptions" in LICENSES[token.value] :
                 if VERBOSE:
