@@ -117,7 +117,7 @@ LICENSES = load_licenses()
 
 lark_parser = Lark(grammar)  # Scannerless Earley is the default
 #lark_parser_with_not_allowed = Lark(grammar_with_not_allowed, parser="lalr", keep_all_tokens=True)
-lark_parser_with_not_allowed = Lark(grammar_with_not_allowed, parser="lalr", keep_all_tokens=True)
+lark_parser_with_not_allowed = Lark(grammar_with_not_allowed, keep_all_tokens=True)
 
 if opts.spec:
     licenses = read_from_spec(opts.spec)
