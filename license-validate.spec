@@ -23,7 +23,7 @@ BuildRequires:  libxslt
 BuildRequires:  (python3dist(lark) or python3dist(lark-parser))
 Requires:       (python3dist(lark) or python3dist(lark-parser))
 BuildRequires:  %{py3_dist pytest}
-
+BuildRequires:  python3dist(specfile)
 
 %description
 Validate whether the license string conforms to Fedora Licensing.
