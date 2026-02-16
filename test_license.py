@@ -39,6 +39,11 @@ def test_license_validate_success_BSD3Clear_comples_with_package():
     exit_code = run_validator("BSD-3-Clause-Clear AND (GPL-1.0-or-later OR BSD-3-Clause)", ['--package', 'kernel'])
     assert exit_code == 0, f"Expected 0 but got {exit_code}"
 
+def test_license_validate_success_BSD3Clear_comples_with_package_with_v():
+    """Test that 'BAR' returns a non-zero exit code (Failure)."""
+    exit_code = run_validator("BSD-3-Clause-Clear AND (GPL-1.0-or-later OR BSD-3-Clause)", ['-v', '--package', 'kernel'])
+    assert exit_code == 0, f"Expected 0 but got {exit_code}"
+
 
 # FAILURE
 

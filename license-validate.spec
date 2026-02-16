@@ -22,6 +22,7 @@ BuildRequires:  libxslt
 # for test
 BuildRequires:  (python3dist(lark) or python3dist(lark-parser))
 Requires:       (python3dist(lark) or python3dist(lark-parser))
+BuildRequires:  %{py3_dist pytest}
 
 
 %description
@@ -54,6 +55,7 @@ install -m644 license-fedora2spdx.1 %{buildroot}/%{_mandir}/man1/
 
 %check
 ./validate-grammar.py full-grammar-shortnames.lark
+%{pytest} test_license.py
 
 %files
 %license LICENSE

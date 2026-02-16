@@ -41,46 +41,27 @@ def read_from_spec(filename):
     return result
 
 class T(Transformer):
-    def license_item(self, s):
-        return str(s[0])
-    def license(self, s):
-        return " ".join(s)
-    def start(self, s):
-        return s[0]
-    def left_parenthesis(self, s):
-        return '('
-    def right_parenthesis(self, s):
-        return ')'
-    def operator(self, s):
-        return str(s[0]) 
-    def __default_token__(self, token):
+    def license_item(self, token):
         global VALID
         global LICENSES
         global PACKAGE
         global VERBOSE
-        if token.value in LICENSES and "not-allowed" in LICENSES[token.value]["status"]:
-            print("Warning: {} is not-allowed license".format(token.value))
-            if ("usage" in LICENSES[token.value]) and VERBOSE:
-                print("{0} can be used under this condition:\n{1}\n".format(token.value, LICENSES[token.value]["usage"]))
-            if "packages_with_exceptions" in LICENSES[token.value] :
+        item = token[0]
+        if item in LICENSES and "not-allowed" in LICENSES[item]["status"]:
+            print("Warning: {} is not-allowed license".format(item))
+            if ("usage" in LICENSES[item]) and VERBOSE:
+                print("{0} can be used under this condition:\n{1}\n".format(item, LICENSES[item]["usage"]))
+            if "packages_with_exceptions" in LICENSES[item] :
                 if VERBOSE:
-                    print("These packages are known to use this {} license as an exception: {}".format(token.value, LICENSES[token.value]["packages_with_exceptions"]))
-                if PACKAGE in LICENSES[token.value]["packages_with_exceptions"]:
+                    print("These packages are known to use this {} license as an exception: {}".format(item, LICENSES[item]["packages_with_exceptions"]))
+                if PACKAGE in LICENSES[item]["packages_with_exceptions"]:
                     pass
                 else:
                     VALID = False
             else:
                 VALID = False
-        if token.value in LICENSES:
-            pass
-        elif token in ["(", ")"]:                                                                                                                                                
-            pass
-        elif token in ["AND", "OR"]:
-            pass
-        else:
-            VALID = False
-            print("Warning: we do not have SPDX identifier for {}".format(token))
-        return token.value
+        if item in LICENSES:
+            return token
 
 
 if not opts.license and not opts.spec:
@@ -140,6 +121,7 @@ for text in licenses:
     except LarkError as e:
         # not approved license
         try:
+            VALID = True
             tree_with_not_allowed = lark_parser_with_not_allowed.parse(text)
             if opts.verbose > 0:
                 T(visit_tokens=True).transform(tree_with_not_allowed)
