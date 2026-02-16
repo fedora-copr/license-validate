@@ -1,5 +1,5 @@
 Name:           license-validate
-Version:        26
+Version:        27
 Release:        1%{?dist}
 Summary:        Validate SPEC license string
 
@@ -68,6 +68,9 @@ install -m644 license-fedora2spdx.1 %{buildroot}/%{_mandir}/man1/
 
 
 %changelog
+* Mon Feb 16 2026 Miroslav Suchý <msuchy@redhat.com> 27-1
+- add BR python3-specfile
+
 * Mon Feb 16 2026 Miroslav Suchý <msuchy@redhat.com> 26-1
 - in verbose mode always print the text of license
 - finally make transformer work
