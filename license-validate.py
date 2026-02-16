@@ -113,10 +113,11 @@ VALID_ALL = True
 for text in licenses:
     VALID = True
     try:
+        if VERBOSE:
+            print(f"License: {text}")
         tree = lark_parser.parse(text)
         # approved license
-        if opts.verbose > 0:
-            print(f"License: {text}")
+        if VERBOSE:
             print("Approved license")
     except LarkError as e:
         # not approved license
