@@ -451,6 +451,7 @@ guestfs-tools
 gutenprint
 gvfs
 gvisor-tap-vsock
+gweather-locations
 gzip
 hamcrest
 haproxy
@@ -890,7 +891,6 @@ libieee1284
 libijs
 libinput
 libipt
-libiptcdata
 libisoburn
 libisofs
 libjcat
@@ -1016,7 +1016,6 @@ libvpd
 libvpx
 libwacom
 libwebp
-libwnck3
 libxcb
 libxcrypt
 libxcvt
@@ -1043,7 +1042,6 @@ lldpad
 lldpd
 llhttp
 llvm
-llvm20
 lm_sensors
 lmdb
 localsearch
@@ -1243,6 +1241,7 @@ ocaml
 ocaml-augeas
 ocaml-calendar
 ocaml-cppo
+ocaml-csexp
 ocaml-curses
 ocaml-dune
 ocaml-fileutils
@@ -1251,6 +1250,7 @@ ocaml-gettext
 ocaml-labltk
 ocaml-libvirt
 ocaml-ocamlbuild
+ocaml-pp
 ocaml-re
 ocaml-srpm-macros
 oci-seccomp-bpf-hook
@@ -1777,7 +1777,7 @@ python-requests-gssapi
 python-requests-oauthlib
 python-resolvelib
 python-rjsmin
-python-roman-numerals-py
+python-roman-numerals
 python-rpds-py
 python-rpm-generators
 python-rpm-macros
@@ -1786,6 +1786,7 @@ python-rpmautospec-core
 python-rtslib
 python-ruamel-yaml
 python-ruamel-yaml-clib
+python-scikit-build-core
 python-semantic_version
 python-setuptools
 python-setuptools-rust
@@ -1815,7 +1816,6 @@ python-xkbregistry
 python-yubico
 python-zstandard
 python3-mallard-ducktype
-python3.13
 python3.14
 pyusb
 pyxattr
@@ -1868,7 +1868,6 @@ realmd
 realtime-setup
 realtime-tests
 rear
-recode
 redfish-finder
 redhat-bookmarks
 redhat-cloud-client-configuration
@@ -2069,7 +2068,6 @@ targetcli
 tbb
 tboot
 tcl
-tcl8
 tcpdump
 tcsh
 teckit
@@ -2081,6 +2079,8 @@ testng
 texi2html
 texinfo
 texlive
+texlive-base
+texlive-collection-formatsextra
 texlive-collection-latexextra
 tftp
 thermald
@@ -2088,7 +2088,6 @@ time
 tinycdb
 tinysparql
 tk
-tk8
 tlog
 tmpwatch
 tmux

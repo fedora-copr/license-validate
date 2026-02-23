@@ -41,7 +41,6 @@ args4j
 argtable
 archivemount
 aria2
-ark
 arm-none-eabi-binutils-cs
 arpack
 ArpON
@@ -146,7 +145,6 @@ cjs
 ckeditor
 clang13
 ClanLib
-ClanLib06
 ClanLib1
 classified-ads
 clatd
@@ -167,6 +165,8 @@ cminpack
 cm_rgb
 cmrt
 coan
+cockpit
+cockpit
 cocot
 code2html
 cogl
@@ -191,7 +191,6 @@ console-image-viewer
 corectrl
 corsix-th
 cortado
-cowpatty
 cowsay-beefymiracle
 cpdup
 cppcodec
@@ -218,7 +217,6 @@ cxxtools
 daala
 daggy
 dahdi-tools
-dapl
 daq
 darkhttpd
 dbus-c++
@@ -344,7 +342,6 @@ erlang-oauth
 erlang-oauth2
 erlang-p1_oauth2
 erlang-ranch
-erlang-rebar
 erlang-rpm-macros
 erlang-sd_notify
 erlang-ssl_verify_fun
@@ -353,7 +350,6 @@ esound
 eterm
 eventlog
 exo
-expatpp
 extra-cmake-modules
 e16-docs
 e16-epplets
@@ -394,7 +390,6 @@ fedora-third-party
 fedora-workstation-repositories
 feh
 fennel
-fgrun
 fido
 figtoipe
 firefox
@@ -442,7 +437,6 @@ ganglia
 garcon
 GarminPlugin
 ga
-gau2grid
 gbdfed
 gcompris-qt
 gconf-editor
@@ -508,8 +502,6 @@ gkeyfile-sharp
 glade
 GLee
 glm
-global
-glog
 glues
 glyphicons-halflings-fonts
 glyph-keeper
@@ -538,7 +530,6 @@ godotenv
 golang-bazil-fuse
 golang-bitbucket-ww-goautoneg
 golang-etcd-bbolt
-golang-github-adrg-xdg
 golang-github-afex-hystrix
 golang-github-akavel-rsrc
 golang-github-alecthomas-chroma
@@ -656,7 +647,6 @@ golang-github-fvbommel-util
 golang-github-geertjohan-incremental
 golang-github-getkin-kin-openapi
 golang-github-ghodss-yaml
-golang-github-gin-contrib-cors
 golang-github-gin-contrib-sse
 golang-github-gin-gonic
 golang-github-git-gcfg
@@ -735,7 +725,6 @@ golang-github-jackc-pgservicefile
 golang-github-jackc-pgtype
 golang-github-jackc-pgx
 golang-github-jackc-puddle
-golang-github-jarcoal-httpmock
 golang-github-jawher-mow-cli
 golang-github-jessevdk-flags
 golang-github-jinzhu-gorm
@@ -766,7 +755,6 @@ golang-github-klauspost-pgzip
 golang-github-knetic-govaluate
 golang-github-kr-fs
 golang-github-kr-pretty
-golang-github-kr-pty
 golang-github-kr-text
 golang-github-kyokomi-emoji
 golang-github-k0kubun-ansi
@@ -793,7 +781,6 @@ golang-github-masterminds-semver-1
 golang-github-masterminds-vcs
 golang-github-matryer-try
 golang-github-mattn-colorable
-golang-github-mattn-ieproxy
 golang-github-mattn-isatty
 golang-github-mattn-runewidth
 golang-github-mattn-shellwords
@@ -946,7 +933,6 @@ golang-github-u-root-iscsinl
 golang-github-valyala-bytebufferpool
 golang-github-valyala-fasttemplate
 golang-github-vincent-petithory-dataurl
-golang-github-vividcortex-ewma
 golang-github-vividcortex-gohistogram
 golang-github-weppos-publicsuffix
 golang-github-x-cray-logrus-prefixed-formatter
@@ -1052,11 +1038,9 @@ gtts
 gtts-token
 gudev-sharp
 guile30
-guitarix
 gummi
 gupnp-av
 gupnp-dlna
-gwenview
 gxemul
 halibut
 hawknl
@@ -1382,7 +1366,6 @@ libmateweather
 libmatroska
 libmcrypt
 libmikmod
-libmodbus
 libmodman
 libmpris-qt5
 libmp4v2
@@ -1523,7 +1506,6 @@ lua-inotify
 luajit
 lua-json
 lua-ldap
-lua-ldoc
 lua-lgi
 lua-loop
 lua-lpeg-patterns
@@ -1598,7 +1580,6 @@ megaglest-data
 memchan
 metapixel
 micronucleus
-micro
 miglayout
 migrationtools
 mikmod
@@ -1735,6 +1716,7 @@ mosquitto
 motif
 mousetweaks
 mozilla-ublock-origin
+mozilla-ublock-origin
 mozilla-zilla-slab-fonts
 mozo
 mplus-fonts
@@ -1860,8 +1842,6 @@ openiked
 openlibm
 openlierox
 openmeeg
-OpenMolcas
-openmpi
 open-mtools
 openni
 openrdate
@@ -2434,7 +2414,6 @@ python-fido2
 python-filelock
 python-filetype
 python-firehose
-python-fissix
 python-fixit
 python-flake8-polyfill
 python-flake8
@@ -2477,7 +2456,6 @@ python-github3py
 python-git-changelog
 python-glob2
 python-gmqtt
-python-gnupg
 python-google-i18n-address
 python-graphql-core
 python-graphviz
@@ -2722,7 +2700,6 @@ python-pytest-mpi
 python-pytest-mpl
 python-pytest-ordering
 python-pytest-randomly
-python-pytest-runner
 python-pytest-services
 python-pytest-shutil
 python-pytest-smartcov
@@ -2882,7 +2859,6 @@ python-vsts
 python-vulture
 python-walkdir
 python-wand
-python-webencodings
 python-webob
 python-webscrapbook
 python-webtest
@@ -2897,7 +2873,6 @@ python-wtf-peewee
 python-wurlitzer
 python-xapp
 python-xeddsa
-python-xlib
 python-xlrd
 python-xlwt
 python-xmlsec
@@ -2927,7 +2902,6 @@ python3.6
 python3.9
 pywebdav
 p11-remote
-p7zip
 qbs
 qdigidoc
 qevercloud
@@ -2984,11 +2958,8 @@ rmlint
 robin-map
 roca-detect
 rocksdb
-rocminfo
-rocm-runtime
 rofimoji
 rofi
-rpcsvc-proto
 rply
 R-rpm-macros
 rsyntaxtextarea
@@ -3027,10 +2998,6 @@ rust-crc-any
 rust-debug-helper
 rust-libm
 rust-lipsum
-rust-rpick
-rust-rpick
-rust-rpick
-rust-rpick
 rust-size
 rwall
 rwho
@@ -3308,7 +3275,6 @@ webvfx
 wemux
 wf-config
 wf-shell
-wgctrl
 whichwayisup
 wide-dhcpv6
 wl-gammactl

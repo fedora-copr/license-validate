@@ -407,6 +407,7 @@ guestfs-tools
 gutenprint
 gvfs
 gvisor-tap-vsock
+gweather-locations
 gzip
 hamcrest
 haproxy
@@ -822,7 +823,6 @@ libieee1284
 libijs
 libinput
 libipt
-libiptcdata
 libisoburn
 libisofs
 libjcat
@@ -875,6 +875,7 @@ libpciaccess
 libpfm
 libpinyin
 libpipeline
+libpkgmanifest
 libpng
 libportal
 libppd
@@ -940,12 +941,12 @@ libvirt-dbus
 libvirt-glib
 libvirt-python
 libvma
+libvoikko
 libvorbis
 libvpd
 libvpx
 libwacom
 libwebp
-libwnck3
 libxcb
 libxcrypt
 libxcvt
@@ -1126,8 +1127,6 @@ oci-seccomp-bpf-hook
 ocl-icd
 oddjob
 omping
-ongres-scram
-ongres-stringprep
 oniguruma
 open-sans-fonts
 open-vm-tools
@@ -1517,6 +1516,7 @@ python-libevdev
 python-linux-procfs
 python-lxml
 python-mako
+python-markdown
 python-markupsafe
 python-meh
 python-netaddr
@@ -1552,7 +1552,7 @@ python-requests-ftp
 python-requests-gssapi
 python-requests-oauthlib
 python-resolvelib
-python-roman-numerals-py
+python-roman-numerals
 python-rpds-py
 python-rpm-generators
 python-rpm-macros
@@ -1808,7 +1808,6 @@ targetcli
 tbb
 tboot
 tcl
-tcl8
 tcpdump
 tcsh
 teckit
@@ -1895,6 +1894,7 @@ virt-what
 virt-who
 virtio-win
 virtiofsd
+voikko-fi
 volume_key
 vte291
 vulkan-headers
@@ -1967,6 +1967,7 @@ xwayland-run
 xxhash
 xz
 xz-java
+yaml-cpp
 yara
 yggdrasil
 yggdrasil-worker-package-manager

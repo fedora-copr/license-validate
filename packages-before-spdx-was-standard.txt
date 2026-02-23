@@ -448,7 +448,6 @@ awf-gtk3
 awf-gtk4
 aws-c-common
 aws
-awstats
 axel
 axmail
 ax25-apps
@@ -1191,7 +1190,6 @@ daemonize
 daggy
 dahdi-tools
 danmaq
-dapl
 daq
 darcs
 darkgarden-fonts
@@ -1790,7 +1788,6 @@ erlang-p1_oauth2
 erlang-p1_pgsql
 erlang-p1_utils
 erlang-ranch
-erlang-rebar
 erlang-rebar3
 erlang-relx
 erlang-riak_client
@@ -3393,7 +3390,6 @@ golang-entgo-ent
 golang-etcd-bbolt
 golang-filippo-edwards25519
 golang-github-acme-lego
-golang-github-adrg-xdg
 golang-github-afex-hystrix
 golang-github-agext-levenshtein
 golang-github-akavel-rsrc
@@ -3464,7 +3460,6 @@ golang-github-clbanning-mxj
 golang-github-clbanning-x2j
 golang-github-clickhouse
 golang-github-client9-plaintext
-golang-github-cli-safeexec
 golang-github-cloudflare-backoff
 golang-github-cloudflare-cfssl
 golang-github-cloudflare-redoctober
@@ -3487,7 +3482,6 @@ golang-github-containernetworking-cni
 golang-github-containernetworking-plugins
 golang-github-coreos-ioprogress
 golang-github-coreos-iptables
-golang-github-coreos-oidc
 golang-github-coreos-pkg
 golang-github-coreos-semver
 golang-github-coreos-systemd
@@ -3585,7 +3579,6 @@ golang-github-geertjohan-rice
 golang-github-getkin-kin-openapi
 golang-github-ghemawat-stream
 golang-github-ghodss-yaml
-golang-github-gin-contrib-cors
 golang-github-gin-contrib-sse
 golang-github-gin-gonic
 golang-github-git-billy-5
@@ -3722,7 +3715,6 @@ golang-github-jackc-pgx
 golang-github-jackc-puddle
 golang-github-jacobsa-oglematchers
 golang-github-jacobsa-ogletest
-golang-github-jarcoal-httpmock
 golang-github-jawher-mow-cli
 golang-github-jcmturner-aescts
 golang-github-jcmturner-dnsutils
@@ -3765,7 +3757,6 @@ golang-github-knetic-govaluate
 golang-github-kr-fs
 golang-github-krishicks-yaml-patch
 golang-github-kr-pretty
-golang-github-kr-pty
 golang-github-kr-text
 golang-github-kylelemons-godebug
 golang-github-kyokomi-emoji
@@ -3804,7 +3795,6 @@ golang-github-masterminds-semver-1
 golang-github-masterminds-vcs
 golang-github-matryer-try
 golang-github-mattn-colorable
-golang-github-mattn-ieproxy
 golang-github-mattn-isatty
 golang-github-mattn-runewidth
 golang-github-mattn-shellwords
@@ -4047,7 +4037,6 @@ golang-github-viant-toolbox
 golang-github-vincent-petithory-dataurl
 golang-github-vishvananda-netlink
 golang-github-vishvananda-netns
-golang-github-vividcortex-ewma
 golang-github-vividcortex-gohistogram
 golang-github-weppos-publicsuffix
 golang-github-xaionaro-atomicmap
@@ -4174,7 +4163,6 @@ golang-sigs-k8s-yaml
 golang-sourcegraph-appdash-data
 golang-sourcegraph-appdash
 golang
-golang-sr-spc-log
 golang-starlark
 golang-tinygo-x-llvm
 golang-torproject-pluggable-transports-goptlib
@@ -6519,7 +6507,6 @@ litecli
 litehtml
 livecd-tools
 livesys-scripts
-lizardfs
 lklug-fonts
 lksctp-tools
 llconf
@@ -12601,7 +12588,6 @@ python-filetype
 python-fiona
 python-fireflyalgorithm
 python-firehose
-python-fissix
 python-fisx
 python-fitsio
 python-fixit
@@ -13021,7 +13007,6 @@ python-ModulemdTranslationHelpers
 python-molmass
 python-mongoengine
 python-mongomock
-python-monotonic
 python-more-executors
 python-more-itertools
 python-moreorless
@@ -13440,7 +13425,6 @@ python-pytest-relaxed
 python-pytest-remotedata
 python-pytest-repeat
 python-pytest-rerunfailures
-python-pytest-runner
 python-pytest-services
 python-pytest-shutil
 python-pytest-smartcov
@@ -14030,7 +14014,6 @@ p0f
 p0rn-comfort
 p11-kit
 p11-remote
-p7zip
 qaccessibilityclient
 qalculate-gtk
 qalculate-qt
@@ -14833,6 +14816,7 @@ rubygem-macaddr
 rubygem-marcel
 rubygem-minitest5
 rubygem-mixlib-log
+rubygem-mixlib-shellout
 rubygem-mocha
 rubygem-msgpack
 rubygem-narray
@@ -15261,6 +15245,7 @@ rust-getch
 rust-getopts
 rust-getrandom
 rust-getrandom0.1
+rust-getrandom0.3
 rust-ghash
 rust-gif
 rust-gimli
@@ -15351,7 +15336,6 @@ rust-ipnetwork0.17
 rust-is_debug
 rust-is_executable
 rust-itertools
-rust-itertools0.8
 rust-itoa
 rust-ivf
 rust-jobserver
@@ -15706,6 +15690,7 @@ rust-smallvec
 rust-smol_str
 rust-snafu-derive
 rust-snafu
+rust-snapbox0.6
 rust-socket2
 rust
 rust-spin_on
@@ -15755,7 +15740,6 @@ rust-threadpool
 rust-thread-tree
 rust-time-macros
 rust-time
-rust-time0.1
 rust-tiny_http
 rust-tiny-keccak
 rust-tiny-skia
@@ -16237,6 +16221,7 @@ slowloris
 slrn
 sl
 slurm
+smaclient
 smartmontools
 smbcmp
 smbldap-tools
