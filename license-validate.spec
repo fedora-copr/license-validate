@@ -4,9 +4,9 @@ Release:        1%{?dist}
 Summary:        Validate SPEC license string
 
 License:        MIT
-URL:            https://pagure.io/copr/license-validate/
+URL:            https://github.com/fedora-copr/license-validate
 # source is created by:
-# git clone https://pagure.io/copr/license-validate.git
+# git clone https://github.com/fedora-copr/license-validate.git
 # cd license-validate; tito build --tgz
 Source0:        %{name}-%{version}.tar.gz
 BuildArch:      noarch
