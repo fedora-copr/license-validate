@@ -1,5 +1,5 @@
 Name:           license-validate
-Version:        27
+Version:        28
 Release:        1%{?dist}
 Summary:        Validate SPEC license string
 
@@ -69,6 +69,10 @@ install -m644 license-fedora2spdx.1 %{buildroot}/%{_mandir}/man1/
 
 
 %changelog
+* Thu Feb 26 2026 Miroslav Suchý <msuchy@redhat.com> 28-1
+- require python3-specfile
+- update homepage URL
+
 * Mon Feb 16 2026 Miroslav Suchý <msuchy@redhat.com> 27-1
 - add BR python3-specfile
 
