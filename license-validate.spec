@@ -11,6 +11,7 @@ URL:            https://github.com/fedora-copr/license-validate
 Source0:        %{name}-%{version}.tar.gz
 BuildArch:      noarch
 
+Requires:       python3dist(specfile)
 Requires:       fedora-license-data >= 1.18
 BuildRequires:  fedora-license-data >= 1.18
 BuildRequires:  python3-devel
