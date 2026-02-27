@@ -570,6 +570,7 @@ berusky
 berusky2-data
 berusky2
 beteckna-fonts
+betterleaks
 beust-jcommander
 bfs
 bgpq3
@@ -979,7 +980,6 @@ clustal-omega
 clustershell
 clusterssh
 cmake-extras
-cmake-fedora
 cmakelang
 cmake
 cmark
@@ -1621,7 +1621,6 @@ DSDP
 dsniff
 dsp
 d-spy
-dssp
 dtach
 dtc
 dtkcommon
@@ -2275,6 +2274,7 @@ fooyin
 foo2zjs
 fop
 foremost
+forgejo-runner
 forgejo
 forge-parent
 forge-srpm-macros
@@ -2743,7 +2743,6 @@ ghc-bv-sized
 ghc-byteable
 ghc-byteorder
 ghc-bytes
-ghc-bytestring-nums
 ghc-bytestring-trie
 ghc-cabal-doctest
 ghc-cabal-file-th
@@ -3557,6 +3556,7 @@ gnome-nibbles
 gnome-online-accounts-gtk
 gnome-online-accounts
 gnome-packagekit
+gnome-panel
 gnome-password-generator
 gnome-phone-manager
 gnome-photos
@@ -3726,7 +3726,6 @@ golang-github-apache-beam-2
 golang-github-apache-thrift
 golang-github-apapsch-jsonmerge-2
 golang-github-apparentlymart-textseg-15
-golang-github-appc-docker2aci
 golang-github-appc-spec
 golang-github-armon-consul-api
 golang-github-armon-socks5
@@ -3828,12 +3827,10 @@ golang-github-dchest-siphash
 golang-github-dimchansky-utfbom
 golang-github-disintegration-imaging
 golang-github-distribution-reference
-golang-github-distribution-3
 golang-github-djherbis-atime
 golang-github-dlasky-gotk3-layershell
 golang-github-dlclark-regexp2
 golang-github-docker-connections
-golang-github-docker-distribution
 golang-github-docker-events
 golang-github-docker-libtrust
 golang-github-docker-metrics
@@ -3913,7 +3910,6 @@ golang-github-gobwas-ws
 golang-github-goccy-json
 golang-github-goccy-yaml
 golang-github-gocolly-colly-2
-golang-github-gocql
 golang-github-godbus-dbus
 golang-github-gofiber-fiber-2
 golang-github-gofrs-flock
@@ -4248,7 +4244,6 @@ golang-github-prometheus-client
 golang-github-prometheus-common
 golang-github-prometheus-procfs
 golang-github-prometheus-prom2json
-golang-github-prometheus
 golang-github-protobuf
 golang-github-protonmail-crypto
 golang-github-puerkitobio-goquery
@@ -4265,7 +4260,6 @@ golang-github-rickb777-plural
 golang-github-rivo-uniseg
 golang-github-robertkrimen-otto
 golang-github-rogpeppe-internal
-golang-github-rootless-containers-rootlesskit
 golang-github-rs-cors
 golang-github-rs-xid
 golang-github-rs-zerolog
@@ -4380,7 +4374,6 @@ golang-github-xaionaro-atomicmap
 golang-github-xaionaro-metrics
 golang-github-xaionaro-spinlock
 golang-github-xaionaro-unsafetools
-golang-github-xanzy-gitlab
 golang-github-xanzy-ssh-agent
 golang-github-x-cray-logrus-prefixed-formatter
 golang-github-xdg-scram
@@ -4712,6 +4705,7 @@ gssntlmssp
 gssproxy
 gst-devtools
 gst-editing-services
+gstreamer1-doc
 gstreamer1-plugin-libav
 gstreamer1-plugins-bad-free
 gstreamer1-plugins-base
@@ -6354,7 +6348,6 @@ libgbinder
 libgcroots
 libgcrypt
 libgda
-libgdata
 libgda5
 libgdiplus
 libgdither
@@ -6374,7 +6367,6 @@ libgit2_1.8
 libglibutil
 libglpng
 libglvnd
-libgnome-games-support
 libgnome-games-support1
 libgnomekbd
 libgnomeui
@@ -7016,6 +7008,7 @@ llvm17
 llvm18
 llvm19
 llvm20
+llvm21
 lmdb
 lmdbxx
 Lmod
@@ -7509,6 +7502,7 @@ mingw-crt
 mingw-curl
 mingw-Cython
 mingw-dbus
+mingw-devcon
 mingw-directxmath
 mingw-djvulibre
 mingw-dlfcn
@@ -7885,6 +7879,7 @@ mozilla-filesystem
 mozilla-https-everywhere
 mozilla-noscript
 mozilla-privacy-badger
+mozilla-ublock-origin
 mozjs115
 mozjs128
 mozjs140
@@ -7972,6 +7967,7 @@ mussh
 mustache
 mutter
 mutt
+mxdatagenerator
 mxml
 mxparser
 mx5000tools
@@ -8123,7 +8119,6 @@ netrate
 netsed
 netsniff-ng
 net-snmp
-netstat-nat
 netsurf-buildsystem
 netsurf
 nettle
@@ -8179,7 +8174,6 @@ nicstat
 nifticlib
 nilfs-utils
 ninja-build
-nipy-data
 nip2
 niri-settings
 niri
@@ -11330,6 +11324,7 @@ perl-Sub-Exporter-Lexical
 perl-Sub-Exporter-Progressive
 perl-Sub-Exporter
 perl-Sub-HandlesVia
+perl-Sub-HandlesVia-XS
 perl-Sub-Identify
 perl-Sub-Infix
 perl-Sub-Info
@@ -12621,6 +12616,7 @@ progress
 projecteur
 proj
 prometheus-podman-exporter
+prometheus
 prooftree
 proselint
 prosody
@@ -13825,7 +13821,6 @@ python-jsonfeed-util
 python-jsonformatter
 python-json-minify
 python-jsonpath-ng
-python-jsonpath-rw
 python-jsonpatch
 python-jsonpickle
 python-jsonpointer
@@ -14519,7 +14514,6 @@ python-pyqt6-webengine
 python-pyquery
 python-pyrad
 python-pyramid-mako
-python-pyramid_sawing
 python-pyramid
 python-pyrankvote
 python-pyrate-limiter
@@ -14655,7 +14649,6 @@ python-pyvo
 python-py-walk
 python-pywayland
 python-pywizlight
-python-pywlroots
 python-pywt
 python-pyxdameraulevenshtein
 python-pyxlsb2
@@ -16006,6 +15999,7 @@ rofi
 rofi-themes-base16
 rogue
 rootfiles
+rootlesskit
 rootsh
 root
 root-tail
@@ -16355,7 +16349,6 @@ rubygem-introspection
 rubygem-isolate
 rubygem-i18n
 rubygem-jbuilder
-rubygem-jekyll-email-protect
 rubygem-jmespath
 rubygem-json
 rubygem-json_spec
@@ -16760,7 +16753,6 @@ rust-async-process
 rust-async-recursion
 rust-async-session
 rust-async-signal
-rust-async-std-resolver
 rust-async-std
 rust-async-stream-impl
 rust-async-stream
@@ -17750,6 +17742,8 @@ rust-heatseeker
 rust-heck
 rust-heck0.3
 rust-heck0.4
+rust-hecs-macros
+rust-hecs
 rust-hex-literal-impl
 rust-hex-literal
 rust-hex-literal0.2
@@ -19518,6 +19512,7 @@ rust-uguid
 rust-ulid
 rust-uluru
 rust-umask
+rust-uname
 rust-unarray
 rust-uncased
 rust-unicase_serde
@@ -20131,6 +20126,7 @@ shotcut
 shotwell
 showcert
 showtime
+shrinkpdf
 shyaml
 shybrid
 schedtool
@@ -20905,6 +20901,7 @@ translate-shell
 translate-toolkit
 transmission-remote-gtk
 transmission
+trantor
 trash-cli
 travelccm
 traverso
@@ -21794,6 +21791,8 @@ xssstate
 xstdcmap
 xtb
 xteddy
+xtensor-python
+xtensor
 xterm-console
 xterm
 xtideuniversalbios
