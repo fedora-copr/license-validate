@@ -18,8 +18,9 @@ while read -r LICENSE; do
                                 # valid as old and new but has dist-git changelog entry
                                 true
                         else
-                                echo "$SPEC warning: valid as old and new and no changelong entry, please check"
-                                echo "${SPEC}" >> $FILENAME_ALL_PACKAGES
+                                true
+                                #echo "$SPEC warning: valid as old and new and no changelong entry, please check"
+                                #echo "${SPEC}" >> $FILENAME_ALL_PACKAGES
                         fi
                 fi
         else
