@@ -37,7 +37,7 @@ def read_from_spec(filename):
             if section.name.startswith("package"):
                 with specfile.tags(section) as tags:
                     if 'License' in tags:
-                        result.append(tags.license.value)
+                        result.append(tags.license.value.expanded_value)
     return result
 
 class T(Transformer):
