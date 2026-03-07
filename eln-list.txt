@@ -25,7 +25,6 @@ adcli
 adobe-mappings-cmap
 adobe-mappings-pdf
 adwaita-icon-theme
-afflib
 aide
 alsa-firmware
 alsa-lib
@@ -111,7 +110,6 @@ brasero
 brltty
 brotli
 bsf
-btrfs-progs
 bubblewrap
 build-helper-maven-plugin
 buildah
@@ -348,7 +346,6 @@ geoclue2
 geocode-glib
 geos
 gettext
-gfs2-utils
 ghostscript
 gi-docgen
 giflib
@@ -462,7 +459,6 @@ harfbuzz
 hdparm
 help2man
 hexedit
-hfsplus-tools
 hicolor-icon-theme
 highlight
 hivex
@@ -859,7 +855,6 @@ libestr
 libev
 libevdev
 libevent
-libewf
 libexif
 libfabric
 libfaketime
@@ -908,7 +903,6 @@ libkrunfw
 libksba
 liblc3
 libldac
-libldm
 liblerc
 liblognorm
 liblouis
@@ -1048,6 +1042,7 @@ lldpad
 lldpd
 llhttp
 llvm
+llvm21
 lm_sensors
 lmdb
 localsearch
@@ -1080,7 +1075,6 @@ lzop
 m17n-db
 m17n-lib
 m4
-mac-robber
 madan-fonts
 mailcap
 make
@@ -1234,8 +1228,6 @@ npth
 nss
 nss-altfiles
 nss_wrapper
-ntfs-3g
-ntfs-3g-system-compression
 ntpstat
 numactl
 numad
@@ -1355,7 +1347,11 @@ perl-CPAN-Meta-YAML
 perl-Canary-Stability
 perl-Capture-Tiny
 perl-Carp
+perl-Class-Accessor
+perl-Class-DBI
+perl-Class-Data-Inheritable
 perl-Class-Inspector
+perl-Class-Trigger
 perl-Clone
 perl-Compress-Bzip2
 perl-Compress-Raw-Bzip2
@@ -1371,12 +1367,15 @@ perl-DBD-MySQL
 perl-DBD-Pg
 perl-DBD-SQLite
 perl-DBI
+perl-DBIx-ContextualFetch
 perl-Data-Dump
 perl-Data-Dumper
 perl-Data-OptList
 perl-Data-Section
 perl-Data-UUID
 perl-Date-Manip
+perl-Date-Simple
+perl-Devel-CheckBin
 perl-Devel-CheckLib
 perl-Devel-PPPort
 perl-Devel-Size
@@ -1390,7 +1389,6 @@ perl-Encode
 perl-Encode-Locale
 perl-Env
 perl-Error
-perl-Expect
 perl-Exporter
 perl-Exporter-Tiny
 perl-ExtUtils-CBuilder
@@ -1441,6 +1439,7 @@ perl-IPC-Run
 perl-IPC-Run3
 perl-IPC-SysV
 perl-IPC-System-Simple
+perl-Ima-DBI
 perl-Import-Into
 perl-JSON
 perl-JSON-PP
@@ -1448,6 +1447,7 @@ perl-JSON-XS
 perl-LDAP
 perl-LWP-MediaTypes
 perl-LWP-Protocol-https
+perl-Lingua-EN-Inflect
 perl-List-MoreUtils
 perl-List-MoreUtils-XS
 perl-Locale-Maketext
@@ -1503,6 +1503,7 @@ perl-Storable
 perl-String-ShellQuote
 perl-Sub-Exporter
 perl-Sub-Install
+perl-Sub-Name
 perl-Sub-Uplevel
 perl-Syntax-Keyword-Try
 perl-Sys-Syslog
@@ -1545,10 +1546,12 @@ perl-Tie-IxHash
 perl-Tie-RefHash
 perl-Time-HiRes
 perl-Time-Local
+perl-Time-Piece-MySQL
 perl-TimeDate
 perl-Tk
 perl-Try-Tiny
 perl-Types-Serialiser
+perl-UNIVERSAL-moniker
 perl-URI
 perl-Unicode-Collate
 perl-Unicode-EastAsianWidth
@@ -1937,6 +1940,7 @@ rubygem-rspec-support
 rubygem-thread_order
 rust
 rust-afterburn
+rust-askalono-cli
 rust-bindgen-cli
 rust-bootupd
 rust-cbindgen
@@ -2008,7 +2012,6 @@ sisu
 skopeo
 slang
 slapi-nis
-sleuthkit
 slf4j
 slf4j2
 slirp4netns
@@ -2264,7 +2267,6 @@ yggdrasil
 yggdrasil-worker-package-manager
 zaf
 zenity
-zerofree
 zip
 zlib-ng
 zram-generator

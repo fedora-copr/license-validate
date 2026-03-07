@@ -346,6 +346,7 @@ asciiquarium
 ascii
 asc-music
 asc
+asdcplib
 asio-grpc
 asio
 asl
@@ -1309,6 +1310,7 @@ c4core
 c4fs
 c4log
 c4project
+daala
 daa2iso
 daemonize
 daggy
@@ -1595,6 +1597,7 @@ dovecot
 doxygen
 doxy2man
 dpdk
+dpkg
 dqlite
 draco
 dracut
@@ -1911,6 +1914,7 @@ erlang-chronos
 erlang-ibrowse
 erlang-iconv
 erlang-idna
+erlang-jiffy
 erlang-jose
 erlang-jsx
 erlang-kvc
@@ -1944,6 +1948,7 @@ erlang-rebar3-pc
 erlang-rebar3-riak_pb_msgcodegen
 erlang-rebar3
 erlang-relx
+erlang-riak_api
 erlang-riak_client
 erlang-riak_core
 erlang-riak_dt
@@ -1963,6 +1968,7 @@ erlang-snappy
 erlang
 erlang-ssl_verify_fun
 erlang-stdlib2
+erlang-stringprep
 erlang-stun
 erlang-triq
 erlang-webmachine
@@ -2194,7 +2200,6 @@ flameshot
 flamethrower
 flamp
 flam3
-flang
 flare-engine
 flare
 flashrom
@@ -2280,6 +2285,7 @@ forgejo
 forge-parent
 forge-srpm-macros
 fortune-firefly
+fortune-mod
 fossil
 fotocx
 foundation-icons-fonts
@@ -2569,7 +2575,7 @@ gbrainy
 gcab
 gcal
 gcc
-gcc14
+gcc15
 gcg
 gcl
 gcolor2
@@ -4452,7 +4458,6 @@ golang-gotest
 golang-go4
 golang-go4-unsafe-assume-no-moving-gc
 golang-hein-version
-golang-honnef-tools
 golang-jaytaylor-html2text
 golang-k8s-apimachinery
 golang-k8s-api
@@ -4601,6 +4606,7 @@ gotun
 gource
 go-vendor-tools
 goverlay
+govulncheck
 go2rpm
 gpac
 gparted
@@ -4616,6 +4622,7 @@ gphotoframe
 gphotofs
 gphotosdl
 gphoto2
+gpick
 gpicview
 gplugin
 gpm
@@ -4633,6 +4640,7 @@ gpxsee
 gpx-viewer
 gp2c
 gq
+grace
 grafana-pcp
 grafana
 grafx2
@@ -5397,6 +5405,7 @@ iwd
 iwidgets
 iw
 iwyu
+i2c-display
 i2c-tools
 i3blocks
 i3lock
@@ -5615,6 +5624,7 @@ kawa
 kbackup
 kbdd
 kbd
+kbibtex
 kbilliards
 kbruch
 kcalc
@@ -6003,7 +6013,6 @@ koverartist
 kover
 kpcli
 kpeoplevcard
-kpilot
 kpimtextedit
 kpipewire
 kpkpass
@@ -6409,6 +6418,7 @@ libIDL
 libidn
 libidn2
 libid3tag
+libiec61883
 libieee1284
 libifp
 libigloo
@@ -6818,6 +6828,7 @@ libunistring
 libunistring1.0
 libunity
 libunwind
+libupnp
 liburing
 libusbg
 libusbmuxd
@@ -7113,6 +7124,7 @@ lua-luarepl
 lua-luautf8
 lua-lunitx
 lua-luv
+lua-lxc
 lua-markdown
 lua-md5
 lua-mmdb
@@ -7146,6 +7158,7 @@ luminance-hdr
 lunasvg
 lunchbox
 lusol
+lutok
 lutris
 luv-icon-theme
 luxcorerender
@@ -7733,6 +7746,7 @@ mininet
 minipro
 minisat2
 minisign
+miniupnpc
 minizip-ng
 miniz
 mintlocale
@@ -8702,6 +8716,7 @@ openxr-simple-playground
 openxr
 openzwave
 open62541
+opkssh
 optee_client
 optee_os
 optiimage
@@ -8906,6 +8921,7 @@ pdns-recursor
 pdns
 pdqsort
 pdsh
+peazip
 pe-bear
 PEGTL
 pekwm
@@ -8953,7 +8969,6 @@ perl-Alien-Brotli
 perl-Alien-Build-MB
 perl-Alien-Build-Plugin-Download-GitLab
 perl-Alien-Build
-perl-Alien-cmake3
 perl-Alien-FFI
 perl-Alien-Font-Uni
 perl-Alien-LibGumbo
@@ -12549,7 +12564,9 @@ postgresqltuner
 postgresql16-anonymizer
 postgresql16-decoderbufs
 postgresql16-pgaudit
+postgresql16-pg_cron
 postgresql16-pg_repack
+postgresql16-pg_tle
 postgresql16-pgvector
 postgresql16-postgis
 postgresql16
@@ -13325,6 +13342,7 @@ python-dill
 python-dirhash
 python-dirq
 python-dirty-equals
+python-discovery
 python-diskcache
 python-distributed
 python-distroinfo
@@ -13357,8 +13375,10 @@ python-django-pipeline
 python-djangoql
 python-django-q
 python-django-q2
+python-django-redis
 python-django-rest-framework
 python-django-rq
+python-django-search-url
 python-django-tagging
 python-django-uuslug
 python-django5
@@ -13495,6 +13515,7 @@ python-fedora-image-uploader-messages
 python-fedora-sig-onboard
 python-feedgenerator
 python-feedgen
+python-fido2
 python-fields
 python-filecheck
 python-filelock
@@ -14039,7 +14060,6 @@ python-mkdocs-test
 python-mmtf
 python-mnemonic
 python-mockito
-python-mock
 python-mock-ssh-server
 python-moddb
 python-ModulemdTranslationHelpers
@@ -14577,6 +14597,7 @@ python-pytest-cov
 python-pytest-datadir
 python-pytest-datafiles
 python-pytest-dependency
+python-pytest-django
 python-pytest-doctestplus
 python-pytest-env
 python-pytest-expect
@@ -14737,6 +14758,7 @@ python-rfc3339-validator
 python-rfc3986
 python-rfc3986-validator
 python-rfc3987
+python-rfc3987-syntax
 python-rignore
 python-rich-click
 python-rich-rst
@@ -15121,6 +15143,7 @@ python-trololio
 python-trove-classifiers
 python-troveclient
 python-trustme
+python-truststore
 python-trx-python
 python-ttfautohint-py
 python-ttystatus
@@ -15409,6 +15432,7 @@ qatzip
 qat-zstd-plugin
 qbe
 qbittorrent
+qbootctl
 qcad
 qca
 qcas
@@ -16772,7 +16796,6 @@ rust-atomic-waker
 rust-atomic0.5
 rust-attribute-derive-macro
 rust-attribute-derive
-rust-atty
 rust-audiopus_sys
 rust-authenticode
 rust-autocfg
@@ -16932,8 +16955,10 @@ rust-cached_proc_macro_types
 rust-cached
 rust-cairo-rs
 rust-cairo-rs0.20
+rust-cairo-rs0.21
 rust-cairo-sys-rs
 rust-cairo-sys-rs0.20
+rust-cairo-sys-rs0.21
 rust-calamine
 rust-calloop
 rust-calloop-wayland-source
@@ -17142,6 +17167,7 @@ rust-crunchy
 rust-crypto-auditing-agent
 rust-crypto-auditing-client
 rust-crypto-auditing-event-broker
+rust-crypto-auditing-event-monitor
 rust-crypto-auditing-log-parser
 rust-crypto-auditing
 rust-crypto-bigint
@@ -17157,6 +17183,7 @@ rust-crypto
 rust-csscolorparser
 rust-cssparser-macros
 rust-cssparser
+rust-cssparser0.31
 rust-csv-core
 rust-csv
 rust-ct-codecs
@@ -17359,6 +17386,7 @@ rust-enumset
 rust-env_filter
 rust-env_home
 rust-environment
+rust-env-lock
 rust-env_logger
 rust-env_logger0.10
 rust-env_logger0.8
@@ -17505,18 +17533,26 @@ rust-gcd
 rust-gdk-pixbuf
 rust-gdk-pixbuf-sys
 rust-gdk-pixbuf-sys0.20
+rust-gdk-pixbuf-sys0.21
 rust-gdk-pixbuf0.20
+rust-gdk-pixbuf0.21
 rust-gdk4
 rust-gdk4-sys
+rust-gdk4-sys0.10
 rust-gdk4-sys0.9
 rust-gdk4-wayland
 rust-gdk4-wayland-sys
+rust-gdk4-wayland-sys0.10
 rust-gdk4-wayland-sys0.9
+rust-gdk4-wayland0.10
 rust-gdk4-wayland0.9
 rust-gdk4-x11
 rust-gdk4-x11-sys
+rust-gdk4-x11-sys0.10
 rust-gdk4-x11-sys0.9
+rust-gdk4-x11_0.10
 rust-gdk4-x11_0.9
+rust-gdk4_0.10
 rust-gdk4_0.9
 rust-generic-array
 rust-generic-array0.12
@@ -17545,7 +17581,9 @@ rust-gimoji
 rust-gio
 rust-gio-sys
 rust-gio-sys0.20
+rust-gio-sys0.21
 rust-gio0.20
+rust-gio0.21
 rust-gir-format-check
 rust-git-delta
 rust-git-interactive-rebase-tool
@@ -17617,10 +17655,13 @@ rust-gl_generator
 rust-glib-build-tools
 rust-glib-macros
 rust-glib-macros0.20
+rust-glib-macros0.21
 rust-glib
 rust-glib-sys
 rust-glib-sys0.20
+rust-glib-sys0.21
 rust-glib0.20
+rust-glib0.21
 rust-globset
 rust-glob
 rust-globwalk
@@ -17632,6 +17673,7 @@ rust-glycin
 rust-glycin-utils
 rust-gobject-sys
 rust-gobject-sys0.20
+rust-gobject-sys0.21
 rust-goblin
 rust-goblin0.5
 rust-goblin0.9
@@ -17641,8 +17683,10 @@ rust-gptman
 rust-gpt
 rust-graphene-rs
 rust-graphene-rs0.20
+rust-graphene-rs0.21
 rust-graphene-sys
 rust-graphene-sys0.20
+rust-graphene-sys0.21
 rust-greetd_ipc
 rust-grep-cli
 rust-grep-matcher
@@ -17654,7 +17698,9 @@ rust-grep
 rust-group
 rust-gsk4
 rust-gsk4-sys
+rust-gsk4-sys0.10
 rust-gsk4-sys0.9
+rust-gsk4_0.10
 rust-gsk4_0.9
 rust-gst-plugin-dav1d
 rust-gst-plugin-fallbackswitch
@@ -17699,10 +17745,13 @@ rust-gstreamer-utils
 rust-gstreamer-video
 rust-gstreamer-video-sys
 rust-gtk4-macros
+rust-gtk4-macros0.10
 rust-gtk4-macros0.9
 rust-gtk4
 rust-gtk4-sys
+rust-gtk4-sys0.10
 rust-gtk4-sys0.9
+rust-gtk4_0.10
 rust-gtk4_0.9
 rust-gufo-common
 rust-gufo-exif
@@ -18025,7 +18074,9 @@ rust-lexopt
 rust-libadwaita
 rust-libadwaita-sys
 rust-libadwaita-sys0.7
+rust-libadwaita-sys0.8
 rust-libadwaita0.7
+rust-libadwaita0.8
 rust-libblkid-rs
 rust-libblkid-rs-sys
 rust-libbpf-cargo
@@ -18265,6 +18316,7 @@ rust-nettle-sys
 rust-new_debug_unreachable
 rust-newtype-uuid
 rust-nibble_vec
+rust-nitro-enclaves
 rust-nix
 rust-nix0.26
 rust-nix0.27
@@ -18424,11 +18476,15 @@ rust-pancurses
 rust-pangocairo
 rust-pangocairo-sys
 rust-pangocairo-sys0.20
+rust-pangocairo-sys0.21
 rust-pangocairo0.20
+rust-pangocairo0.21
 rust-pango
 rust-pango-sys
 rust-pango-sys0.20
+rust-pango-sys0.21
 rust-pango0.20
+rust-pango0.21
 rust-papergrid
 rust-paris
 rust-parking_lot_core
@@ -18993,6 +19049,7 @@ rust-send_wrapper
 rust-sequoia-autocrypt
 rust-sequoia-cert-store
 rust-sequoia-directories
+rust-sequoia-git
 rust-sequoia-gpg-agent
 rust-sequoia-chameleon-gnupg
 rust-sequoia-ipc
@@ -19191,7 +19248,6 @@ rust-statistical
 rust-statrs
 rust-stats_alloc
 rust-stderrlog
-rust-stderrlog0.5
 rust-stfu8
 rust-streaming-iterator
 rust-streaming-stats
@@ -19299,6 +19355,7 @@ rust-test-log
 rust-testresult
 rust-test-tag
 rust-text-block-macros
+rust-textdistance
 rust-text_placeholder
 rust-textwrap
 rust-textwrap0.11
@@ -19382,6 +19439,7 @@ rust-tower-http0.5
 rust-tower-layer
 rust-tower-service
 rust-tower
+rust-tower-test
 rust-tower0.4
 rust-tpm2-policy
 rust-tracing-appender
@@ -19765,6 +19823,7 @@ rust-write16
 rust-wu-diff
 rust-wycheproof
 rust-wyz
+rust-xara
 rust-xattr
 rust-xattr0.2
 rust-xcursor
@@ -20435,6 +20494,7 @@ starplot-yale5
 star
 startup-notification
 sta
+staticcheck
 statsd
 statserial
 stax2-api
@@ -20456,6 +20516,7 @@ stk
 stlink
 stlsplit
 stockfish
+stoken
 stomppy
 stormbaancoureur
 stow
@@ -20600,6 +20661,7 @@ sysstat
 system-config-language
 system-config-printer
 system-config-rootpassword
+systemd-bootchart
 systemd-boot
 systemd-coredump-python
 systemd
@@ -21468,7 +21530,6 @@ wlopm
 wlrctl
 wlroots
 wlroots0.15
-wlroots0.17
 wlroots0.18
 wlroots0.19
 wlr-protocols
