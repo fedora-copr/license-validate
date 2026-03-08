@@ -127,6 +127,7 @@ aldo
 alef-fonts
 alembic
 alerque-libertinus-fonts
+alertmanager
 alexandria
 alex
 alexvsbus
@@ -4310,7 +4311,6 @@ golang-github-hashicorp-uuid
 golang-github-hashicorp-version
 golang-github-hdrhistogram
 golang-github-hebcal-greg
-golang-github-heistp-irtt
 golang-github-hexdigest-gowrap
 golang-github-hexops-gotextdiff
 golang-github-hhrutter-lzw
@@ -4599,7 +4599,6 @@ golang-github-prashantv-gostub
 golang-github-pressly-goose
 golang-github-projectdiscovery-chaos-client
 golang-github-projectdiscovery-mapcidr
-golang-github-prometheus-alertmanager
 golang-github-prometheus-client-model
 golang-github-prometheus-client
 golang-github-prometheus-common
@@ -5847,6 +5846,7 @@ irqbalance
 irrlicht
 irsim
 irssi
+irtt
 isa-l
 iscan-firmware
 iscsi-initiator-utils
@@ -14397,6 +14397,7 @@ python-cvss
 python-cvxopt
 python-cwcwidth
 python-cycler
+python-cyclopts
 python-cymruwhois
 python-cyseq
 python-cytoolz
@@ -15239,6 +15240,7 @@ python-mkdocs-git-committers-plugin-2
 python-mkdocs-git-revision-date-localized-plugin
 python-mkdocs-include-markdown-plugin
 python-mkdocs-literate-nav
+python-mkdocs-macros-plugin
 python-mkdocs-macros-test
 python-mkdocs-material-extensions
 python-mkdocs-minify-plugin
@@ -18326,6 +18328,7 @@ rust-cairo-sys-rs
 rust-cairo-sys-rs0.20
 rust-cairo-sys-rs0.21
 rust-calamine
+rust-calendrical_calculations
 rust-calloop
 rust-calloop-wayland-source
 rust-calloop0.13
@@ -19238,6 +19241,7 @@ rust-chrono-tz
 rust-chumsky
 rust-chunked_transfer
 rust-iana-time-zone
+rust-icu_calendar_data
 rust-icu_collator_data
 rust-icu_collator
 rust-icu_collections
@@ -19367,6 +19371,7 @@ rust-itertools0.13
 rust-itoap
 rust-itoa
 rust-ivf
+rust-ixdtf
 rust-i18n-config
 rust-i18n-embed-fl
 rust-i18n-embed-impl
@@ -19656,7 +19661,9 @@ rust-munge
 rust-mutate_once
 rust-muvm
 rust-nalgebra-macros
+rust-nalgebra-macros0.2
 rust-nalgebra
+rust-nalgebra0.33
 rust-names
 rust-nanoid
 rust-nanorand
@@ -19825,6 +19832,7 @@ rust-os_str_bytes
 rust-os_str_bytes6
 rust-ouroboros_macro
 rust-ouroboros
+rust-outref
 rust-overload
 rust-ovs-unixctl
 rust-owned_ttf_parser
@@ -20406,6 +20414,7 @@ rust-secrecy0.8
 rust-secret-service
 rust-sec1
 rust-selectors
+rust-selectors0.25
 rust-self_cell
 rust-selinux
 rust-selinux-sys
@@ -20480,6 +20489,7 @@ rust-serial_test
 rust-serial_test0.5
 rust-serial_test2
 rust-servo_arc
+rust-servo_arc0.3
 rust-sevctl
 rust-sev
 rust-shadow-rs
@@ -20624,6 +20634,7 @@ rust-strict-num
 rust-str_indices
 rust-string_cache_codegen
 rust-string_cache
+rust-string_cache0.8
 rust-stringprep
 rust-strip-ansi-escapes
 rust-strip-ansi-escapes0.1
@@ -21564,6 +21575,7 @@ shell-color-prompt
 shelldap
 ShellCheck
 shellinabox
+shell-timeout
 sherlock-project
 shigofumi
 shim
@@ -21734,6 +21746,7 @@ snapraid
 snapshot
 sndfile-tools
 snes_ntsc
+sngrep
 sng
 snip
 snmpcheck
