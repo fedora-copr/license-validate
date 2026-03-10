@@ -1421,6 +1421,7 @@ cxsc
 cxxopts
 cxxtest
 cxxtools
+cxxurl
 cylindrix
 cyrus-imapd
 cyrus-sasl
@@ -8409,7 +8410,6 @@ mingw-python-OWSLib
 mingw-python-packaging
 mingw-python-pep517
 mingw-python-pip
-mingw-python-ply
 mingw-python-psycopg2
 mingw-python-pyparsing
 mingw-python-pyproject-hooks
@@ -15717,6 +15717,7 @@ python-pysrt
 python-pystemd
 python-pystitch
 python-pystray
+python-pysubnettree
 python-pyswip
 python-pysword
 python-pytaglib
@@ -17718,7 +17719,6 @@ rust-arboard
 rust-arcstr
 rust-arc-swap
 rust-argfile
-rust-argfile0.2
 rust-argh_derive
 rust-argh_shared
 rust-argh
@@ -18995,7 +18995,6 @@ rust-linked-hash-map
 rust-linux-loader
 rust-linux_proc
 rust-linux-raw-sys
-rust-linux-raw-sys0.11
 rust-linux-raw-sys0.3
 rust-linux-raw-sys0.4
 rust-linux-raw-sys0.6
@@ -19855,6 +19854,7 @@ rust-signal-hook-registry
 rust-signal-hook
 rust-signal-hook-tokio
 rust-signal-hook0.1
+rust-signal-hook0.3
 rust-signature_derive
 rust-signature
 rust-siguldry
@@ -19963,8 +19963,10 @@ rust-struct-patch
 rust-strum_macros0.24
 rust-strum_macros0.25
 rust-strum_macros0.26
+rust-strum_macros0.27
 rust-strum0.25
 rust-strum0.26
+rust-strum0.27
 rust-subtle
 rust-sudo
 rust-suggest

@@ -21,7 +21,6 @@ accountsservice
 acl
 acpica-tools
 acpid
-adcli
 adobe-mappings-cmap
 adobe-mappings-pdf
 adwaita-icon-theme
@@ -92,7 +91,6 @@ bcel
 bdftopcf
 beust-jcommander
 bind
-bind-dyndb-ldap
 binutils
 biosdevname
 bison
@@ -155,7 +153,6 @@ cockpit-files
 cockpit-image-builder
 cockpit-machines
 cockpit-podman
-cockpit-session-recording
 color-filesystem
 colord
 colord-gtk
@@ -228,7 +225,6 @@ docbook-style-xsl
 docbook-utils
 docbook5-schemas
 docbook5-style-xsl
-dogtag-pki
 dola
 dola-gleaner
 dola-transformer
@@ -672,7 +668,6 @@ intel-lpmd
 intltool
 iotop-c
 ipa
-ipa-healthcheck
 ipcalc
 iperf3
 ipmitool
@@ -737,7 +732,6 @@ json-c
 json-glib
 jsoup
 jsr-305
-jss
 junit
 junit5
 jurand
@@ -775,7 +769,6 @@ lapack
 latex2html
 lato-fonts
 lcms2
-ldapjdk
 ldns
 ledmon
 leptonica
@@ -1261,7 +1254,6 @@ omping
 ongres-scram
 ongres-stringprep
 oniguruma
-open-sans-fonts
 open-vm-tools
 openblas
 openblas-srpm-macros
@@ -1269,7 +1261,6 @@ opencl-filesystem
 opencl-headers
 opencryptoki
 opencsd
-opendnssec
 openexr
 openjade
 openjpeg
@@ -1704,7 +1695,6 @@ python-hatch-fancy-pypi-readme
 python-hatch-vcs
 python-hatchling
 python-idna
-python-ifaddr
 python-imagesize
 python-iniconfig
 python-iniparse
@@ -1720,8 +1710,6 @@ python-jsonschema
 python-jsonschema-specifications
 python-justbases
 python-justbytes
-python-jwcrypto
-python-kdcproxy
 python-kmod
 python-lark
 python-ldap
@@ -1766,7 +1754,6 @@ python-pyqt6
 python-pyqt6-sip
 python-pytest-subtests
 python-pyudev
-python-qrcode
 python-referencing
 python-requests
 python-requests-file
@@ -1811,11 +1798,9 @@ python-wcwidth
 python-websockets
 python-wheel
 python-xkbregistry
-python-yubico
 python-zstandard
 python3-mallard-ducktype
 python3.14
-pyusb
 pyxattr
 pyxdg
 qat-zstd-plugin
@@ -1998,7 +1983,6 @@ sip6
 sisu
 skopeo
 slang
-slapi-nis
 slf4j
 slf4j2
 slirp4netns
@@ -2087,7 +2071,6 @@ time
 tinycdb
 tinysparql
 tk
-tlog
 tmpwatch
 tmux
 tog-pegasus

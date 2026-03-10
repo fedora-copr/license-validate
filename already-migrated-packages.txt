@@ -1300,6 +1300,7 @@ cwdaemon
 cxsc
 cxxopts
 cxxtest
+cxxurl
 cylindrix
 cyrus-imapd
 cyrus-sasl
@@ -2582,6 +2583,7 @@ gcg
 gcl
 gcolor2
 gcolor3
+gcompris-qt
 gconfmm26
 GConf2
 gcovr
@@ -5651,6 +5653,7 @@ kde-dev-scripts
 kde-dev-utils
 kdeedu-data
 kde-filesystem
+kdegames3
 kdegraphics-mobipocket
 kdegraphics-thumbnailers
 kde-gtk-config
@@ -6195,6 +6198,7 @@ libaio
 libao
 libappstream-glib
 libapreq2
+libarcus
 libarchive
 libaribcaption
 libarrow
@@ -6386,6 +6390,7 @@ libgovirt
 libgpg-error
 libgphoto2
 libgpiod
+libgpod
 libgravatar
 libgringotts
 libgrss
@@ -6756,6 +6761,7 @@ libspatialite
 libspectre
 libspectrum
 libspelling
+libspf2
 libspiro
 libspng
 libsqlite3x
@@ -6932,6 +6938,7 @@ libx86
 libyaml
 libyang
 libykneomgr
+libyui
 libyuv
 libzbd
 libzdnn
@@ -7024,6 +7031,7 @@ llvm20
 llvm21
 lmdb
 lmdbxx
+lmms
 Lmod
 lm_sensors
 localsearch
@@ -7636,7 +7644,6 @@ mingw-python-OWSLib
 mingw-python-packaging
 mingw-python-pep517
 mingw-python-pip
-mingw-python-ply
 mingw-python-psycopg2
 mingw-python-pyparsing
 mingw-python-pyproject-hooks
@@ -14579,6 +14586,7 @@ python-pysrt
 python-pystemd
 python-pystitch
 python-pystray
+python-pysubnettree
 python-pyswip
 python-pysword
 python-pytaglib
@@ -16710,7 +16718,6 @@ rust-arcstr
 rust-arc-swap
 rust-arg_enum_proc_macro
 rust-argfile
-rust-argfile0.2
 rust-argh_derive
 rust-argh_shared
 rust-argh
@@ -18154,7 +18161,6 @@ rust-linreg
 rust-linux-loader
 rust-linux_proc
 rust-linux-raw-sys
-rust-linux-raw-sys0.11
 rust-linux-raw-sys0.3
 rust-linux-raw-sys0.4
 rust-linux-raw-sys0.6
@@ -19162,6 +19168,7 @@ rust-signal-hook-registry
 rust-signal-hook
 rust-signal-hook-tokio
 rust-signal-hook0.1
+rust-signal-hook0.3
 rust-signature_derive
 rust-signature
 rust-siguldry
@@ -19286,10 +19293,12 @@ rust-strum_macros0.21
 rust-strum_macros0.24
 rust-strum_macros0.25
 rust-strum_macros0.26
+rust-strum_macros0.27
 rust-strum
 rust-strum0.21
 rust-strum0.25
 rust-strum0.26
+rust-strum0.27
 rust-subtle
 rust-sudo
 rust-suggest
