@@ -746,7 +746,6 @@ buffer
 buildah
 buildbot
 buildbox
-build-constraints-rpm-macros
 build-helper-maven-plugin
 buildstream-plugins
 buildstream
@@ -910,6 +909,7 @@ cim-schema
 cinfo
 cinnamon-translations
 civetweb
+cjdns
 cjkuni-ukai-fonts
 cjkuni-uming-fonts
 cjose
@@ -1050,6 +1050,7 @@ colossus
 ColPack
 combblas
 common-lisp-controller
+compat-flex
 compat-gdbm
 compat-gpgme124
 compat-guile18
@@ -1481,6 +1482,7 @@ diffuse
 diffutils
 digdoc
 digger
+digikam-gmic-qt
 digikam
 digitemp
 dillo
@@ -2334,7 +2336,6 @@ freeipa-fas
 freeipa-healthcheck
 freeipa
 freeipmi
-freeopcua
 freeradius
 freerdp
 freerdp2
@@ -3786,6 +3787,7 @@ golang-github-census-instrumentation-opencensus-proto
 golang-github-census-instrumentation-opencensus-proto-0.2
 golang-github-cespare-xxhash2
 golang-github-cilium-ebpf
+golang-github-clbanning-mxj
 golang-github-client9-plaintext
 golang-github-cloudflare-backoff
 golang-github-cloudflare-cfssl
@@ -3825,12 +3827,14 @@ golang-github-cyberdotgent-route3270
 golang-github-cyphar-filepath-securejoin
 golang-github-daaku-zipexe
 golang-github-datadog
+golang-github-data-dog-sqlmock
 golang-github-davecgh-spew
 golang-github-daviddengcn-algs
 golang-github-daviddengcn-assert
 golang-github-daviddengcn-villa
 golang-github-deepmap-oapi-codegen
 golang-github-denisbrodbeck-machineid
+golang-github-denisenkom-mssqldb
 golang-github-denverdino-aliyungo
 golang-github-devigned-tab
 golang-github-dgrijalva-jwt
@@ -3959,6 +3963,7 @@ golang-github-google-s2a
 golang-github-google-trillian
 golang-github-google-uuid
 golang-github-gorhill-cronexpr
+golang-github-gorilla-csrf
 golang-github-gorilla-mux
 golang-github-gorilla-websocket
 golang-github-gosexy-gettext
@@ -3966,6 +3971,7 @@ golang-github-gosuri-uilive
 golang-github-gotk3
 golang-github-gregjones-httpcache
 golang-github-groupcache
+golang-github-grpc-ecosystem-gateway-2
 golang-github-grpc-ecosystem-middleware
 golang-github-grpc-ecosystem-prometheus
 golang-github-gucumber
@@ -4038,6 +4044,7 @@ golang-github-jcmturner-goidentity
 golang-github-jcmturner-gokrb5
 golang-github-jcmturner-rpc
 golang-github-jedib0t-pretty-6
+golang-github-jessevdk-flags
 golang-github-jinzhu-gorm
 golang-github-jinzhu-inflection
 golang-github-jinzhu-now
@@ -4216,6 +4223,7 @@ golang-github-otiai10-mint
 golang-github-pact-foundation
 golang-github-patrickmn-cache
 golang-github-pbnjay-memory
+golang-github-pborman-getopt
 golang-github-pdfcpu
 golang-github-pelletier-toml
 golang-github-pelletier-toml-2
@@ -4230,6 +4238,7 @@ golang-github-pierrec-lz4
 golang-github-pierrre-geohash
 golang-github-pion-randutil
 golang-github-pjbgf-sha1cd
+golang-github-pkg-diff
 golang-github-pkg-errors
 golang-github-pkg-profile
 golang-github-pkg-sftp
@@ -4237,6 +4246,7 @@ golang-github-playground-assert-2
 golang-github-playground-locales
 golang-github-playground-universal-translator
 golang-github-playground-validator-10
+golang-github-pmezard-difflib
 golang-github-posener-autogen
 golang-github-posener-complete
 golang-github-posener-complete-2
@@ -4261,6 +4271,7 @@ golang-github-rackspace-gophercloud
 golang-github-rakyll-statik
 golang-github-ravenox-jsoncommentstrip
 golang-github-ravenox-jsonmerge
+golang-github-rcrowley-metrics
 golang-github-revel-config
 golang-github-revel-pathtree
 golang-github-revel
@@ -4422,12 +4433,15 @@ golang-github-zyedidia-tcell
 golang-github-zyedidia-terminal
 golang-gitlab-ianbruene-kommandant
 golang-gitlab-yawning-edwards25519-extra
+golang-gonum-1
 golang-google-api
 golang-google-appengine
 golang-google-genproto
 golang-google-protobuf
 golang-gopkg-alecthomas-kingpin-2
 golang-gopkg-h2non-gock-1
+golang-gopkg-check-1
+golang-gopkg-inf-0
 golang-gopkg-ini-1
 golang-gopkg-jcmturner-aescts-1
 golang-gopkg-jcmturner-dnsutils-1
@@ -4437,11 +4451,13 @@ golang-gopkg-jcmturner-rpc-1
 golang-gopkg-logex-1
 golang-gopkg-macaron-1
 golang-gopkg-macaroon2
+golang-gopkg-mgo-2
 golang-gopkg-natefinch-lumberjack-2
 golang-gopkg-neurosnap-sentences-1
 golang-gopkg-readline-1
 golang-gopkg-rethinkdb-6
 golang-gopkg-retry-1
+golang-gopkg-russross-blackfriday-2
 golang-gopkg-seborama-govcr-4
 golang-gopkg-sourcemap-1
 golang-gopkg-square-jose-2
@@ -4507,6 +4523,7 @@ golang-modernc-y
 golang-modernc-z
 golang-mongodb-mongo-driver
 golang-mvdan-gofumpt
+golang-mvdan-sh-3
 golang-nhooyr-websocket
 golang-opencensus
 golang-opentelemetry-contrib
@@ -4551,7 +4568,6 @@ golang-x-telemetry
 golang-x-text
 golang-x-time
 golang-x-tools-expect
-golang-x-vuln
 goldendict-ng
 goldendict
 GoldenCheetah
@@ -4594,6 +4610,7 @@ google-roboto-mono-fonts
 google-roboto-slab-fonts
 googler
 google-rubik-fonts
+goose
 gopass-hibp
 gopass-jsonapi
 gopass
@@ -5152,6 +5169,7 @@ h3
 chafa
 chan
 chapel
+charliecloud
 CharLS
 chatterino2
 chatty
@@ -5255,6 +5273,7 @@ ifuse
 ignition
 igraph
 igt-gpu-tools
+iguanaIR
 igvm
 iio-sensor-proxy
 iir1
@@ -5724,6 +5743,7 @@ kf5-akonadi-notes
 kf5-akonadi-search
 kf5-akonadi-server
 kf5-attica
+kf5-baloo
 kf5-bluez-qt
 kf5-calendarsupport
 kf5-eventviews
@@ -6175,7 +6195,6 @@ lemonldap-ng
 lem
 leonidas-backgrounds
 leptonica
-less
 lest
 levmar
 lexertl14
@@ -6464,6 +6483,7 @@ libkdcraw
 libkdepim
 libkdtree++
 libkdumpfile
+libkeduvocdocument
 libkeepalive
 libkexiv2-qt5
 libkexiv2
@@ -7246,6 +7266,7 @@ macchanger
 mac-robber
 mac
 mactel-boot
+mactelnet
 madan-fonts
 Maelstrom
 maeparser
@@ -8597,6 +8618,7 @@ onnxruntime
 onnx
 oomd
 opal-prd
+opal
 opam
 opari2
 openambit
@@ -11177,7 +11199,6 @@ perl-Readonly-XS
 perl-Reaper
 perl-Redis-Fast
 perl-Redis
-perl-re-engine-PCRE
 perl-re-engine-RE2
 perl-Ref-Util
 perl-Ref-Util-XS
@@ -12346,6 +12367,7 @@ php-theseer-autoload
 php-theseer-directoryscanner
 php-theseer-tokenizer
 php-theseer-tokenizer2
+php-twig
 phpunit10
 phpunit11
 phpunit12
@@ -12393,6 +12415,7 @@ pie
 pigeonascent
 pigz
 pihpsdr
+pilotlog
 pimcommon
 pim-data-exporter
 pim-sieve-editor
@@ -12683,6 +12706,7 @@ pt-astra-sans-fonts
 pt-astra-serif-fonts
 ptex
 pthreadpool
+ptlib
 ptl
 ptouch-driver
 ptpython
@@ -15918,6 +15942,7 @@ R-import
 R-ini
 R-inline
 rinutils
+ripgrep-edit
 ripmime
 R-IRanges
 R-IRdisplay
@@ -16012,6 +16037,7 @@ rocm-compilersupport
 rocm-core
 rocm-examples
 rocm-filesystem
+rocm-filesystem7.2
 rocminfo
 rocm-omp
 rocm-origami
@@ -16699,6 +16725,7 @@ rust-anstyle
 rust-anstyle-svg
 rust-anstyle-svg0.1
 rust-anyhow
+rust-apfs
 rust-app_dirs
 rust-appdirs
 rust-app_dirs2
@@ -17456,6 +17483,7 @@ rust-fdeflate
 rust-fd-find
 rust-fd-lock
 rust-fd-lock3
+rust-fearless_simd
 rust-fend-core
 rust-fern
 rust-ff
@@ -17796,6 +17824,7 @@ rust-hashlink0.9
 rust-hash32-derive
 rust-hash32
 rust-hash32_0.2
+rust-hayro-jpeg2000
 rust-hdrhistogram
 rust-headers-core
 rust-headers-core0.2
@@ -17884,6 +17913,7 @@ rust-chumsky
 rust-chunked_transfer
 rust-iana-time-zone
 rust-icu_calendar_data
+rust-icu_calendar
 rust-icu_collator_data
 rust-icu_collator
 rust-icu_collections
@@ -17899,6 +17929,8 @@ rust-icu_properties
 rust-icu_provider
 rust-icu_segmenter_data
 rust-icu_segmenter
+rust-icu_time_data
+rust-icu_time
 rust-idea
 rust-ident_case
 rust-idna_adapter
@@ -20043,6 +20075,7 @@ scamp
 scancode-toolkit
 scanmem
 scannotation
+scanssh
 scantailor
 scap-security-guide
 scapy
@@ -20948,6 +20981,7 @@ toml11
 tomoe-gtk
 tomoe
 toolbox
+toolshed
 toot
 TOPCOM
 topgit

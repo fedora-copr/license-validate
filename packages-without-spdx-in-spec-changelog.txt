@@ -812,7 +812,6 @@ bugzilla
 buildah
 buildbot
 buildbox
-build-constraints-rpm-macros
 build-helper-maven-plugin
 buildstream-plugins
 buildstream
@@ -1626,6 +1625,7 @@ diffuse
 diffutils
 digdoc
 digger
+digikam-gmic-qt
 digikam
 digitemp
 dillo
@@ -2563,7 +2563,6 @@ freeipa-fas
 freeipa-healthcheck
 freeipa
 freeipmi
-freeopcua
 freeradius-client
 freeradius
 freerdp
@@ -4950,7 +4949,6 @@ golang-x-text
 golang-x-time
 golang-x-tools-expect
 golang-x-tools
-golang-x-vuln
 golang-x-xerrors
 goldendict-ng
 goldendict
@@ -4994,6 +4992,7 @@ google-roboto-mono-fonts
 google-roboto-slab-fonts
 googler
 google-rubik-fonts
+goose
 gopass-hibp
 gopass-jsonapi
 gopass
@@ -7979,6 +7978,7 @@ macchanger
 mac-robber
 mac
 mactel-boot
+mactelnet
 madan-fonts
 Maelstrom
 maeparser
@@ -12162,7 +12162,6 @@ perl-Readonly-XS
 perl-Reaper
 perl-Redis-Fast
 perl-Redis
-perl-re-engine-PCRE
 perl-re-engine-RE2
 perl-Ref-Util
 perl-Ref-Util-XS
@@ -13430,6 +13429,7 @@ pigeonascent
 pigz
 pihpsdr
 pilot-link
+pilotlog
 pimcommon
 pim-data-exporter
 pimd
@@ -17255,6 +17255,7 @@ R-import
 R-ini
 R-inline
 rinutils
+ripgrep-edit
 ripmime
 R-IRanges
 R-IRdisplay
@@ -17351,6 +17352,7 @@ rocm-compilersupport
 rocm-core
 rocm-examples
 rocm-filesystem
+rocm-filesystem7.2
 rocminfo
 rocm-omp
 rocm-origami
@@ -18057,6 +18059,7 @@ rust-anstyle
 rust-anstyle-svg
 rust-anstyle-svg0.1
 rust-anyhow
+rust-apfs
 rust-app_dirs
 rust-appdirs
 rust-app_dirs2
@@ -18814,6 +18817,7 @@ rust-fdeflate
 rust-fd-find
 rust-fd-lock
 rust-fd-lock3
+rust-fearless_simd
 rust-fend-core
 rust-fern
 rust-ff
@@ -19154,6 +19158,7 @@ rust-hashlink0.9
 rust-hash32-derive
 rust-hash32
 rust-hash32_0.2
+rust-hayro-jpeg2000
 rust-hdrhistogram
 rust-headers-core
 rust-headers-core0.2
@@ -19242,6 +19247,7 @@ rust-chumsky
 rust-chunked_transfer
 rust-iana-time-zone
 rust-icu_calendar_data
+rust-icu_calendar
 rust-icu_collator_data
 rust-icu_collator
 rust-icu_collections
@@ -19257,6 +19263,8 @@ rust-icu_properties
 rust-icu_provider
 rust-icu_segmenter_data
 rust-icu_segmenter
+rust-icu_time_data
+rust-icu_time
 rust-idea
 rust-ident_case
 rust-idna_adapter
