@@ -156,7 +156,6 @@ d-din-fonts          ngompa
 dSFMT                laxathom nalimilan
 dahdi-tools          bruno jsmith
 daq                  marcindulak
-darkhttpd            cicku filiperosset
 dbus-c++             drago01
 dcfldd               rebus
 ddnet                ngompa rffontenelle
@@ -164,7 +163,6 @@ ddpt                 sharkcz
 debconf              ngompa
 decentxml            mbooth mizdebsk mkoncek
 deluge               mooninite
-detox                filiperosset slankes
 dev86                jnovy lkundrak
 diff-pdf             vascom
 dionaea              rebus
@@ -435,7 +433,6 @@ h5py                 orion stevetraylen terjeros
 hawknl               jwrdegoede
 hawtjni              didiksupriadi41 mizdebsk mkoncek
 hdf                  orion sagitter
-hexer                jvanek orphan
 hiredis              bugant cicku kevin orion
 hitch                ingvar
 hpl                  jskarvad
@@ -621,7 +618,6 @@ libftdi              hobbes1069 robert sharkcz
 libgadu              rathann
 libgdamm             spot
 libgepub             kalev mclasen rishi
-libgit2              decathorpe sgallagh
 libgit2-glib         ignatenkobrain kalev ngompa
 libglade2            alexl rhughes rstrode yselkowitz
 libgle               ajax
@@ -1241,7 +1237,7 @@ python-sphinx-theme-py3doc-enhanced jujens
 python-sphinx_selective_exclude salimma
 python-sphinxcontrib-apidoc lbalhar
 python-sphinxcontrib-autoprogram maha
-python-sphinxcontrib-spelling aviso
+python-sphinxcontrib-spelling aviso fedepell
 python-sphinxcontrib-svg2pdfconverter belegdol
 python-sphinxcontrib-trio jcaratzas thm
 python-sphinxext-opengraph zawertun
@@ -1598,7 +1594,7 @@ cheeselee  fcitx-m17n fcitx-qt5 kmid2 libmpris-qt5 vmtouch xe-guest-utilities-la
 chimosky   gstreamer-plugins-espeak maliit-framework sugar-deducto sugar-dimensions sugar-toolkit-gtk3 telepathy-mission-control telepathy-salut
 chkr       scummvm scummvm-tools
 churchyard act admeshgui lmfit poly2tri python-utils python3.6 python3.9 slic3r
-cicku      darkhttpd enlightenment extra-cmake-modules fakechroot figtoipe florence hiredis hxtools libqtxdg libzdb lnav mpqc netatalk qt5-qtaccountsservice qt5-qtconfiguration terminology xar yapet
+cicku      enlightenment extra-cmake-modules fakechroot figtoipe florence hiredis hxtools libqtxdg libzdb lnav mpqc netatalk qt5-qtaccountsservice qt5-qtconfiguration terminology xar yapet
 clalance   oz
 cn137      awesome-vim-colorschemes
 corsepiu   fakechroot
@@ -1617,7 +1613,6 @@ dcavalca   btrfs-fuse disciplining-minipod flopgen gflags golang-github-clickhou
 dchen      efl enlightenment terminology
 ddd        recorder
 deamn      maven-native
-decathorpe libgit2
 defolos    doclifter i3-gaps
 devos      archivemount
 devrim     check_postgres postgresql-ip4r postgresql-pgpool-II python-flask-gravatar python-flask-mail
@@ -1662,10 +1657,10 @@ farnz      gstreamer1-vaapi python-gstreamer1
 faxguy     hylafax+
 fcami      SDL2_image cpptest openal-soft
 fed500     NLopt ektype-mukta-fonts guile30 msimonson-anonymouspro-fonts xsd
-fedepell   guile30 libcgroup python-memcached python-pluginbase python-pytest-isort python-slugify python-yapsy urlwatch wafw00f
+fedepell   guile30 libcgroup python-memcached python-pluginbase python-pytest-isort python-slugify python-sphinxcontrib-spelling python-yapsy urlwatch wafw00f
 fepitre    python-rstr
 ferdnyc    gedit-plugin-editorconfig
-filiperosset coan colm darkhttpd detox ghasher lis mdk metapixel nsca-ng parallel python-empy python-myhdl sdlhack
+filiperosset coan colm ghasher lis mdk metapixel nsca-ng parallel python-empy python-myhdl sdlhack
 fjanus     libdbi libdbi-drivers nss_nis openrdate orafce pg_auto_failover postgresql-ip4r postgresql-pgpool-II
 fkooman    json-parser
 flatcap    neomutt
@@ -1737,7 +1732,7 @@ jtaylor    colm python-idstools ragel
 jujens     libzdb python-CommonMark python-dbf python-glob2 python-jinja2-cli python-openpyxl python-snappy python-sphinx-intl python-sphinx-theme-py3doc-enhanced unifrakturmaguntia-fonts
 junghans   libaec libcircle lmfit tng
 jussilehtola IQmol QsLog arpack json-fortran libcint libefp psi4 python-qcelemental test-drive
-jvanek     CardManager hexer java-latest-openjdk java-latest-openjdk-portable jigawatts jpanoramamaker rsyntaxtextarea system-switch-java tagsoup
+jvanek     CardManager java-latest-openjdk java-latest-openjdk-portable jigawatts jpanoramamaker rsyntaxtextarea system-switch-java tagsoup
 jwboyer    linux-firmware
 jwrdegoede AllegroOGG DevIL Hermes MagicPoint SAASound SDL_sound ballz cbios cdogs-sdl cegui06 coldet cortado dom4j drehatlas-widelands-fonts duel3 flyingsaucersattack freealut hawknl jaxen libcacard libmikmod mdbtools mikmod mingw-usbredir ogre openal-soft openlierox plee-the-bear plib quesoglc scorched3d sdljava sjasm spice wordwarvi
 kalev      0ad 0ad-data accerciser atkmm2.36 clutter clutter-gtk cogl firefox five-or-more gdlmm glade gnome-klotski gnome-music gnome-nettool gnome-tetravex gssdp gtkmm2.4 gupnp-av gupnp-dlna libchamplain libgepub libgit2-glib libglib-testing mingw-SDL_image mingw-atk mingw-goocanvas2 mingw-gtksourceview3 mingw-libvorbis mono-bouncycastle nvidia-texture-tools pkcs11-dump quadrapassel rest0.7 tali totem totem-pl-parser
@@ -1842,7 +1837,7 @@ ondrejj    aspell-sk libirman python-chameleon python-formencode python-paste py
 onemorebyte swayidle
 orange-kao python-google-i18n-address python-requests-exoscale-auth python-sly python-xml2rfc
 orion      Mayavi ast catalyst flow-tools garcon h5py hdf hiredis jchardet lasi libaesgm libpgf libxfce4ui ncl octave-general octave-interval octave-io openspecfun pcfi perl-ConfigReader plplot pslib pyscard python-AppTools python-cftime python-enthought-sphinx-theme python-locket python-lz4 python-nbformat python-process-tests python-pytest-benchmark python-pytest-isort python-pytest-mpi python-rencode qtbrowserplugin superlu_dist tcp_wrappers vtable-dumper xdotool ykclient zfp
-orphan     elementary golang-bitbucket-ww-goautoneg golang-github-circonus-labs-gometrics golang-github-cockroachdb-sentry golang-github-dnaeon-vcr golang-github-docker-go golang-github-erikstmartin-testdb golang-github-globalsign-mgo golang-github-google-querystring golang-github-gorilla-sessions golang-github-grpc-ecosystem-gateway golang-github-mxk-flowrate golang-github-yvasiyarov-gorelic golang-gopkg-cheggaaa-pb-1 hexer ipmiutil kwayland-server mimic polybar vim-trailing-whitespace zola
+orphan     elementary golang-bitbucket-ww-goautoneg golang-github-circonus-labs-gometrics golang-github-cockroachdb-sentry golang-github-dnaeon-vcr golang-github-docker-go golang-github-erikstmartin-testdb golang-github-globalsign-mgo golang-github-google-querystring golang-github-gorilla-sessions golang-github-grpc-ecosystem-gateway golang-github-mxk-flowrate golang-github-yvasiyarov-gorelic golang-gopkg-cheggaaa-pb-1 ipmiutil kwayland-server mimic polybar vim-trailing-whitespace zola
 osloup     docbook5-style-xsl nss_nis orafce pg_auto_failover postgresql-pgpool-II
 ovasik     docbook5-style-xsl enum pax
 patrikp    monocypher
@@ -1911,14 +1906,14 @@ sdgathman  dom4j dump1090 mp3fs thttpd
 seanyoung  lirc
 sergiopr   python-statsmodels
 sfaulken   lxqt-about lxqt-openssh-askpass
-sgallagh   argbash libgit2 python-memcached python-tqdm python-whoosh
+sgallagh   argbash python-memcached python-tqdm python-whoosh
 sharkcz    bullet ddpt dmtx-utils firefox libftdi ogdi pywebdav sigil uboot-tools
 shlomif    black-hole-solver perl-Math-Random-MT
 sic        nexus python-sphinx-bootstrap-theme
 siddhesh   gst123
 siwinski   ckeditor php-PHPParser php-webimpress-safe-writer
 slaanesh   YafaRay gamescope libibcommon meanwhile python-urlgrabber qperf
-slankes    detox sj-fonts xdotool
+slankes    sj-fonts xdotool
 smallorange libusb-compat-0.1
 smani      commoncpp2 jxrlib libbatch mingw-SDL_image mingw-angleproject mingw-atk mingw-goocanvas2 mingw-graphite2 mingw-gtksourceview3 mingw-libgta mingw-libimagequant mingw-libvorbis mingw-python-affine mingw-python-chardet mingw-qt5-qtscript mingw-twaindsm python-flask-gravatar python-mongomock qbs qhexedit2 qt4-style-fusion quazip svg2svgt virtualpg xfoil xrotor
 snirkel    rhythmbox
