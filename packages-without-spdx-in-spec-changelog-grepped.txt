@@ -170,6 +170,7 @@ amavisd-milter
 amavis
 amazon-ec2-utils
 amdsmi
+amdsmi7.2
 american-fuzzy-lop
 AMF
 amg4psblas
@@ -426,6 +427,7 @@ asterisk-sounds-core
 asterisk
 astigmatic-grand-hotel-fonts
 astral
+astroid
 astromenace
 astrometry
 astronomy-menus
@@ -782,6 +784,7 @@ btrbk
 btrfs-assistant
 btrfs-backup-ng
 btrfsd
+btrfs-dump
 btrfs-efi
 btrfs-fuse
 btrfs-heatmap
@@ -1303,14 +1306,12 @@ credcheck
 creds
 crest
 cri-o
-cri-o1.31
 cri-o1.32
 cri-o1.33
 cri-o1.34
 cri-o1.35
 CriticalMass
 cri-tools
-cri-tools1.31
 cri-tools1.32
 cri-tools1.33
 cri-tools1.34
@@ -2104,6 +2105,7 @@ erlang-parse_trans
 erlang-pkix
 erlang-poolboy
 erlang-proper
+erlang-provider_asn1
 erlang-providers
 erlang-p1_acme
 erlang-p1_mysql
@@ -3634,7 +3636,6 @@ glib-networking
 glib
 glib2
 glimmer
-glimpse
 glinf
 gliv
 gl-manpages
@@ -3833,6 +3834,7 @@ gnome-shell-extension-gsconnect
 gnome-shell-extension-ibus-font
 gnome-shell-extension-just-perfection
 gnome-shell-extension-kimpanel
+gnome-shell-extension-logo-menu
 gnome-shell-extension-netspeed
 gnome-shell-extension-no-overview
 gnome-shell-extension-pidgin
@@ -4092,7 +4094,6 @@ golang-github-d2g-dhcp4client
 golang-github-d2g-dhcp4server
 golang-github-d2g-dhcp4
 golang-github-d2g-hardwareaddr
-golang-github-d4l3k-bfloat16
 golang-github-eapache-queue
 golang-github-eapache-resiliency
 golang-github-eapache-xerial-snappy
@@ -4105,7 +4106,6 @@ golang-github-emersion-sasl
 golang-github-emersion-textwrapper
 golang-github-emicklei-proto
 golang-github-emicklei-restful
-golang-github-emirpasic-gods2
 golang-github-envoyproxy-protoc-gen-validate
 golang-github-erikstmartin-testdb
 golang-github-erkexzcx-valetudopng
@@ -4245,7 +4245,6 @@ golang-github-h2non-parth
 golang-github-chai2010-gettext
 golang-github-chappjc-logrus-prefix
 golang-github-charlievieth-fastwalk
-golang-github-chewxy-math32
 golang-github-chris-ramon-douceur
 golang-github-chromedp-cdproto
 golang-github-chromedp
@@ -4626,7 +4625,6 @@ golang-github-xo-terminfo
 golang-github-xrash-smetrics
 golang-github-xtgo-set
 golang-github-xwb1989-sqlparser
-golang-github-x448-float16
 golang-github-yuin-goldmark-meta
 golang-github-yuin-goldmark
 golang-github-yvasiyarov-gorelic
@@ -4690,7 +4688,6 @@ golang-gorgonia-vecf32
 golang-gorgonia-vecf64
 golang-gorm
 golang-gotest
-golang-go4-unsafe-assume-no-moving-gc
 golang-hein-version
 golang-jaytaylor-html2text
 golang-k8s-api
@@ -6424,6 +6421,7 @@ kronometer
 kronosnet
 krop
 kruler
+krun-awsnitro-eif-ctl
 krusader
 kryoptic
 ksanecore
@@ -6465,7 +6463,6 @@ ktp-desktop-applets
 ktrip
 ktuberling
 kturtle
-kubernetes1.31
 kubernetes1.32
 kubernetes1.33
 kubernetes1.34
@@ -6485,7 +6482,6 @@ kwalletmanager5
 kwallet
 kwave
 kwayland-integration
-kwayland-server
 kwayland
 kweathercore
 kweather
@@ -9210,6 +9206,7 @@ ocspd
 octave-brain2mesh
 octave-communications
 octave-control
+octave-datatypes
 octave-dicom
 octave-doctest
 octave-flexiblas
@@ -9289,7 +9286,6 @@ onnxruntime
 onnx
 oomd
 ooo2txt
-opae
 opal-prd
 opam
 opari2
@@ -13975,6 +13971,7 @@ python-btrfs
 python-bucky
 python-bugzilla
 python-buildman
+python-bytecode
 python-b2sdk
 python-b4
 python-CacheControl
@@ -14423,6 +14420,7 @@ python-fastavro
 python-fastbencode
 python-fasteners
 python-fastjsonschema
+python-fastmcp
 python-fastprogress
 python-fastpurge
 python-fastrand
@@ -14580,6 +14578,7 @@ python-gmpy2
 python-gmqtt
 python-gnocchiclient
 python-gnupg
+python-goocalendar
 python-google-api-core
 python-googleapis-common-protos
 python-google-auth-oauthlib
@@ -15186,6 +15185,7 @@ python-orjson
 python-osa
 python-osc-lib
 python-os-client-config
+python-oscrypto
 python-oslo-concurrency
 python-oslo-config
 python-oslo-context
@@ -15403,6 +15403,7 @@ python-pydicom-data
 python-pydicom
 python-pydiffx
 python-pydispatcher
+python-pydocket
 python-pydocstyle
 python-pydoctor
 python-pydo
@@ -17000,6 +17001,7 @@ rit-panmana-fonts
 rit-rachana-fonts
 rit-sundar-fonts
 rit-tn-joy-fonts
+river-classic
 river
 rizin
 R-jose
@@ -17077,6 +17079,7 @@ rocksdb
 rocksndiamonds
 rocm-bandwidth-test
 rocm-cmake
+rocm-cmake7.2
 rocm-compilersupport
 rocm-core
 rocm-examples
@@ -17679,6 +17682,7 @@ rust-base16ct
 rust-base2048
 rust-base32
 rust-base64ct
+rust-base64-simd
 rust-base64
 rust-base64-url
 rust-base64_0.12
@@ -17747,6 +17751,8 @@ rust-block-padding0.2
 rust-block-padding0.3
 rust-blowfish
 rust-blsctl
+rust-bon-macros
+rust-bon
 rust-bootupd
 rust-borrow-or-share
 rust-boxcar
@@ -18206,6 +18212,7 @@ rust-expect-test
 rust-exr
 rust-extreme
 rust-eyre
+rust-eza
 rust-failure_derive
 rust-failure
 rust-fake
@@ -18951,6 +18958,7 @@ rust-minidom
 rust-minijinja
 rust-minimal-lexical
 rust-miniz_oxide
+rust-miniz_oxide0.8
 rust-minreq
 rust-minspan
 rust-minus
@@ -19806,6 +19814,8 @@ rust-str_indices
 rust-string_cache_codegen
 rust-string_cache
 rust-string_cache0.8
+rust-string-cases
+rust-string-interner
 rust-stringprep
 rust-strip-ansi-escapes
 rust-strip-ansi-escapes0.1
@@ -19839,6 +19849,7 @@ rust-sysinfo0.29
 rust-sysinfo0.30
 rust-sysinfo0.33
 rust-sys-locale
+rust-sys-mount
 rust-system-deps
 rust-system-deps6
 rust-szip
@@ -20980,6 +20991,7 @@ sslh
 sslscan
 sslsplit
 ssmtp
+sso-mib
 sssd
 ssss
 sstp-client
@@ -21175,6 +21187,7 @@ system-config-rootpassword
 systemd-bootchart
 systemd-boot
 systemd-coredump-python
+systemd-nitro-enclaves
 systemd
 systemd-swap
 system-rules
@@ -21915,6 +21928,7 @@ virtiofsd
 virt-lightning
 virt-manager
 virtme-ng
+virtnbdbackup
 virt-p2v
 virt-top
 virtualbox-guest-additions
@@ -22252,6 +22266,7 @@ xdg-desktop-portal-lxqt
 xdg-desktop-portal
 xdg-desktop-portal-wlr
 xdg-desktop-portal-xapp
+xdg-native-messaging-proxy
 xdg-terminal-exec
 xdg-user-dirs-gtk
 xdg-user-dirs
