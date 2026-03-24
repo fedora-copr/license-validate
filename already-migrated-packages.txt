@@ -1113,7 +1113,6 @@ copr-messaging
 copr-rpmbuild
 copr-selinux
 copyq
-coq
 coreutils
 corkscrew
 corosync-qdevice
@@ -2311,6 +2310,7 @@ fractal
 fragments
 frama-c
 francis
+freealut
 freecell-solver
 freeciv
 freecolor
@@ -3643,6 +3643,7 @@ gnugo
 gnuchess
 gnujump
 gnulib-l10n
+gnulib
 gnumeric
 gnupg-pkcs11-scd
 gnupg2
@@ -4117,9 +4118,6 @@ golang-github-niklasfasching-org
 golang-github-nilslice-protolock
 golang-github-nkovacs-streamquote
 golang-github-nsf-termbox
-golang-github-nvidia-container-toolkit
-golang-github-nvidia-nvlib
-golang-github-nvidia-nvml
 golang-github-nwidger-jsoncolor
 golang-github-nxadm-tail
 golang-github-nytimes-gziphandler
@@ -4311,6 +4309,7 @@ golang-github-zyedidia-glob
 golang-github-zyedidia-pty
 golang-github-zyedidia-tcell
 golang-github-zyedidia-terminal
+golang-gitlab-esr-fqme
 golang-gitlab-ianbruene-kommandant
 golang-gitlab-yawning-edwards25519-extra
 golang-google-appengine
@@ -4341,8 +4340,6 @@ golang-gopkg-vmihailenco-msgpack-2
 golang-gopkg-yaml-1
 golang-gopkg-yaml-2
 golang-gopkg-yaml-3
-golang-gorgonia-vecf32
-golang-gorgonia-vecf64
 golang-gorm
 golang-gotest
 golang-hein-version
@@ -4398,7 +4395,6 @@ golang-sourcegraph-appdash-data
 golang-sourcegraph-appdash
 golang
 golang-sr-nelsam-hel
-golang-tags-cncf-container-device-interface
 golang-tinygo-x-llvm
 golang-torproject-pluggable-transports-goptlib
 golang-uber-atomic
@@ -5231,7 +5227,6 @@ ipcalc
 ipcgull
 iperf
 iperf3
-ipe
 ipmitool
 ipp-usb
 iproute
@@ -5681,6 +5676,7 @@ kf5-kwindowsystem
 kf5-kxmlgui
 kf5-kxmlrpcclient
 kf5-libgravatar
+kf5-libkcddb
 kf5-libkdcraw
 kf5-libkdepim
 kf5-libkgapi
@@ -5847,6 +5843,7 @@ kmbox
 kmenuedit
 kmetronome
 kmidimon
+kmid2
 kmime
 kmines
 kmix
@@ -6526,6 +6523,7 @@ libportal
 libppd
 libpq
 libpri
+libprojectM
 libproxy
 libpsl
 libpst
@@ -6595,6 +6593,7 @@ libsavitar
 libsbml
 libsbw
 libscfg
+libscrypt
 libsearpc
 libseccomp
 libsecp256k1-abc
@@ -6723,6 +6722,7 @@ libuser
 libutempter
 libuvc
 libuv
+libu2f-host
 libva-nvidia-driver
 libvarlink
 libva
@@ -6758,6 +6758,7 @@ libwiimote
 libwmf
 libwnck3
 libwpd
+libwpg
 libwps
 libXau
 libXaw
@@ -8372,6 +8373,7 @@ ocaml-ssl
 ocaml-stdcompat
 ocaml-stdio
 ocaml-stdlib-random
+ocaml-store
 ocaml-swhid-core
 ocaml-time-now
 ocaml-topkg
@@ -11934,7 +11936,6 @@ php-geshi
 php-getid3
 php-gettext-gettext
 php-gettext-languages
-php-google-recaptcha
 php-guzzlehttp-promises
 php-hamcrest2
 php-htmLawed
@@ -14675,6 +14676,7 @@ python-routes
 python-rpdb
 python-rpds-py
 python-rpi-gpio2
+python-rply
 python-rpmautospec-core
 python-rpmautospec
 python-rpmfluff
@@ -15523,9 +15525,7 @@ qzxing
 q4wine
 rabbitmq-server
 rabbitsign
-R-abind
 raceintospace
-R-acepack
 racket
 radare2
 radcli
@@ -15537,7 +15537,6 @@ radiotray-ng
 radius-engine
 radsecproxy
 radvd
-R-affyio
 raft
 raidem
 rakarrack
@@ -15601,7 +15600,6 @@ R-brio
 R-broom
 R-bslib
 RBTools
-R-BufferedMatrix
 R-cachem
 R-Cairo
 R-callr
@@ -15632,7 +15630,6 @@ R-curl
 R-cyclocomp
 R-data.table
 R-date
-R-DBI
 R-dbplyr
 R-debugme
 R-deldir
@@ -15641,7 +15638,6 @@ rdesktop
 rdfind
 rdiff-backup
 R-diffobj
-R-digest
 R-dichromat
 R-discretization
 R-disposables
@@ -15803,7 +15799,6 @@ R-inline
 rinutils
 ripgrep-edit
 ripmime
-R-IRanges
 R-IRdisplay
 R-IRkernel
 R-isoband
@@ -15908,11 +15903,14 @@ rocm-rpm-macros
 rocm-rpp
 rocm-runtime
 rocm-smi
+rocm-smi7.2
 rocm
 rocm-transferbench
 rocm-validation-suite
 rocprim
 rocprofiler-register
+rocq
+rocq-stdlib
 rocrand
 rocsolver
 rocsparse
@@ -15988,7 +15986,6 @@ R-polyclip
 R-polynom
 rp-pppoe
 R-praise
-R-preprocessCore
 R-prettycode
 R-prettyunits
 R-processx
@@ -16003,7 +16000,6 @@ R-qpdf
 R-qtl
 R-quadprog
 R-quantities
-R-qvalue
 R-ragg
 R-randomForest
 R-rappdirs
@@ -16014,7 +16010,6 @@ R-RcppCCTZ
 R-RcppDate
 R-Rcpp
 R-RcppTOML
-R-RCurl
 R-R.devices
 rrdtool
 R-readxl
@@ -16049,7 +16044,6 @@ R-rprintf
 R-rprojroot
 R-R.rsp
 rr
-R-RSQLite
 R-rstudioapi
 R-rsvg
 R-RUnit
@@ -17780,6 +17774,7 @@ rust-chrono-tz
 rust-chumsky
 rust-chunked_transfer
 rust-iana-time-zone
+rust-icns
 rust-icu_calendar_data
 rust-icu_calendar
 rust-icu_collator_data
@@ -18072,7 +18067,6 @@ rust-linux_proc
 rust-linux-raw-sys
 rust-linux-raw-sys0.3
 rust-linux-raw-sys0.4
-rust-linux-raw-sys0.6
 rust-lipsum
 rust-listenfd
 rust-litemap
@@ -18794,7 +18788,6 @@ rust-reqsign
 rust-reqsign-tencent-cos
 rust-reqwest-middleware
 rust-reqwest-middleware0.4
-rust-reqwest-retry
 rust-reqwest-retry0.8
 rust-reqwest
 rust-reqwest0.11
@@ -19867,7 +19860,6 @@ R-whisker
 R-whoami
 rwhoisd
 rwho
-R-widgetTools
 R-winch
 R-withr
 R-xfun

@@ -1223,7 +1223,6 @@ copr-messaging
 copr-rpmbuild
 copr-selinux
 copyq
-coq
 corectrl
 coreutils
 corkscrew
@@ -4448,9 +4447,6 @@ golang-github-niklasfasching-org
 golang-github-nilslice-protolock
 golang-github-nkovacs-streamquote
 golang-github-nsf-termbox
-golang-github-nvidia-container-toolkit
-golang-github-nvidia-nvlib
-golang-github-nvidia-nvml
 golang-github-nwidger-jsoncolor
 golang-github-nxadm-tail
 golang-github-nytimes-gziphandler
@@ -4709,8 +4705,6 @@ golang-gopkg-warnings-0
 golang-gopkg-yaml-1
 golang-gopkg-yaml-2
 golang-gopkg-yaml-3
-golang-gorgonia-vecf32
-golang-gorgonia-vecf64
 golang-gorm
 golang-gotest
 golang-hein-version
@@ -4770,7 +4764,6 @@ golang-sourcegraph-appdash
 golang
 golang-sr-nelsam-hel
 golang-starlark
-golang-tags-cncf-container-device-interface
 golang-tinygo-x-llvm
 golang-torproject-pluggable-transports-goptlib
 golang-uber-atomic
@@ -9214,6 +9207,7 @@ ocaml-ssl
 ocaml-stdcompat
 ocaml-stdio
 ocaml-stdlib-random
+ocaml-store
 ocaml-swhid-core
 ocaml-time-now
 ocaml-topkg
@@ -12903,7 +12897,6 @@ php-geshi
 php-getid3
 php-gettext-gettext
 php-gettext-languages
-php-google-recaptcha
 php-guzzlehttp-promises
 php-hamcrest2
 php-htmLawed
@@ -15878,6 +15871,7 @@ python-routes
 python-rpdb
 python-rpds-py
 python-rpi-gpio2
+python-rply
 python-rpmautospec-core
 python-rpmautospec
 python-rpmfluff
@@ -17206,11 +17200,14 @@ rocm-rpm-macros
 rocm-rpp
 rocm-runtime
 rocm-smi
+rocm-smi7.2
 rocm
 rocm-transferbench
 rocm-validation-suite
 rocprim
 rocprofiler-register
+rocq
+rocq-stdlib
 rocrand
 rocsolver
 rocsparse
@@ -19096,6 +19093,7 @@ rust-chrono-tz
 rust-chumsky
 rust-chunked_transfer
 rust-iana-time-zone
+rust-icns
 rust-icu_calendar_data
 rust-icu_calendar
 rust-icu_collator_data
@@ -19388,7 +19386,6 @@ rust-linux_proc
 rust-linux-raw-sys
 rust-linux-raw-sys0.3
 rust-linux-raw-sys0.4
-rust-linux-raw-sys0.6
 rust-lipsum
 rust-listenfd
 rust-litemap
@@ -20110,7 +20107,6 @@ rust-reqsign
 rust-reqsign-tencent-cos
 rust-reqwest-middleware
 rust-reqwest-middleware0.4
-rust-reqwest-retry
 rust-reqwest-retry0.8
 rust-reqwest
 rust-reqwest0.11
