@@ -21,6 +21,7 @@ abseil-cpp
 academic-admin
 accel-config
 accel-ppp
+accerciser
 accessibility-inspector
 accounts-qml-module
 accountsservice
@@ -102,6 +103,7 @@ airrac
 airspyhf
 airspyone_host
 airtsp
+aisleriot
 akmods
 akonadi-calendar
 akonadiconsole
@@ -415,6 +417,7 @@ atasm
 atkinson-hyperlegible-mono-fonts
 atkinson-hyperlegible-next-fonts
 atkmm
+atkmm2.36
 atlantik
 atlas
 atmel-firmware
@@ -1681,7 +1684,6 @@ dymo-cups-drivers-lw5xx
 dymo-cups-drivers
 dynaconf
 dynamic-hibernate
-dynamic-wallpaper-editor
 dynamite
 dyninst
 d2
@@ -1860,7 +1862,6 @@ ergo
 eric
 erlang-amf
 erlang-base64url
-erlang-basho_metrics
 erlang-basho_stats
 erlang-bbmustache
 erlang-bear
@@ -2193,6 +2194,7 @@ firmitas
 fishbowl
 fish
 fityk
+five-or-more
 flacon
 flac
 flac123
@@ -2616,6 +2618,7 @@ gd
 gdu
 geany-plugins
 gearhead2
+geary
 gedit-plugins
 gedit
 geeqie
@@ -3511,6 +3514,7 @@ gnome-bluetooth3.34
 gnome-boxes
 gnome-break-timer
 gnome-browser-connector
+gnome-builder
 gnome-calculator
 gnome-calendar
 gnome-clocks
@@ -3543,6 +3547,7 @@ gnome-initial-setup
 gnome-keyring-sharp
 gnome-keyring
 gnome-kiosk
+gnome-klotski
 gnome-kra-ora-thumbnailer
 gnome-logs
 gnome-mahjongg
@@ -3553,6 +3558,7 @@ gnome-mime-data
 gnome-mines
 gnome-monitor-config
 gnome-multi-writer
+gnome-music
 gnome-network-displays
 gnome-nibbles
 gnome-online-accounts-gtk
@@ -3612,6 +3618,7 @@ gnome-sudoku
 gnome-system-monitor
 gnome-taquin
 gnome-terminal
+gnome-tetravex
 gnome-text-editor
 gnome-todo
 gnome-tour
@@ -3782,6 +3789,7 @@ golang-github-cockroachdb-datadriven
 golang-github-cockroachdb-errors
 golang-github-cockroachdb-logtags
 golang-github-cockroachdb-redact
+golang-github-cockroachdb-sentry
 golang-github-codegangsta-inject
 golang-github-coder-websocket
 golang-github-colinmarc-hdfs-2
@@ -3926,6 +3934,7 @@ golang-github-gosuri-uilive
 golang-github-gotk3
 golang-github-gregjones-httpcache
 golang-github-groupcache
+golang-github-grpc-ecosystem-gateway
 golang-github-hailocab-hostpool
 golang-github-hamba-avro2
 golang-github-hanwen-fuse-2
@@ -4191,6 +4200,7 @@ golang-github-rogpeppe-internal
 golang-github-rs-cors
 golang-github-rs-xid
 golang-github-rs-zerolog
+golang-github-rwcarlsen-goexif
 golang-github-sacloud-http
 golang-github-safchain-ethtool
 golang-github-seancfoley-bintree
@@ -4544,6 +4554,7 @@ gr-funcube
 grhino
 gr-hpsdr
 gridsite
+grilo-plugins
 grilo
 grimmer-proggy-squaresz-fonts
 grimmer-proggy-tinysz-fonts
@@ -4580,6 +4591,7 @@ gsm
 gsoap
 gsound
 gspell
+gssdp
 gssntlmssp
 gssproxy
 gst-devtools
@@ -4660,6 +4672,8 @@ gulrak-filesystem
 gumbo-parser
 gummi
 gum
+gupnp-av
+gupnp-dlna
 gupnp-igd
 gupnp
 gupnp-tools
@@ -4713,6 +4727,7 @@ hcloud
 hcxtools
 hddfancontrol
 hddtemp
+hdf
 hdf5
 hdhomerun
 hd-idle
@@ -4810,6 +4825,7 @@ html2ps
 html401-dtds
 htop
 htppu
+htslib
 httpcomponents-client
 httpcomponents-core
 httpcomponents-project
@@ -5062,6 +5078,7 @@ chrony
 chrpath
 chunkah
 chunkfs
+iagno
 iaito
 iapetal
 iaxclient
@@ -6144,6 +6161,7 @@ libdatachannel
 libdatovka
 libdatrie
 libdazzle
+libdbi-drivers
 libdb
 libdbusmenu-lxqt
 libdbusmenu
@@ -6250,9 +6268,11 @@ libgee
 libgeopmd
 libgeopm
 libgeotiff
+libgepub
 libgexiv2
 libgexiv2_0.14
 libghemical
+libgit2-glib
 libgit2
 libgit2_1.8
 libglibutil
@@ -6890,6 +6910,7 @@ live555
 lklug-fonts
 lksctp-tools
 llama-cpp
+llconf
 lldpad
 lldpd
 lld15
@@ -8475,6 +8496,7 @@ onionshare
 onnxruntime
 onnx
 oomd
+ooo2txt
 opal-prd
 opam
 opari2
@@ -8782,6 +8804,7 @@ pcp2pdf
 pcre
 pcre2
 pcsc-cyberjack
+pcsc-lite-asekey
 pcsc-lite-ccid
 pcsc-lite
 pcsc-perl
@@ -9939,6 +9962,7 @@ perl-Glib
 perl-Gnome2-Canvas
 perl-Gnome2
 perl-Gnome2-VFS
+perl-Gnome2-Vte
 perl-GnuPG-Interface
 perl-Goo-Canvas
 perl-GooCanvas2-CairoTypes
@@ -9961,12 +9985,15 @@ perl-Gravatar-URL
 perl-Growl-GNTP
 perl-grpc-xs
 perl-GSSAPI
+perl-GStreamer1
 perl-Gtk2-AppIndicator
 perl-Gtk2-Ex-CalendarButton
 perl-Gtk2-Ex-Carp
 perl-Gtk2-Ex-Dialogs
+perl-Gtk2-Ex-FormFactory
 perl-Gtk2-Ex-PodViewer
 perl-Gtk2-Ex-Simple-List
+perl-Gtk2-Ex-Utils
 perl-Gtk2-ImageView
 perl-Gtk2-SourceView2
 perl-Gtk3-ImageView
@@ -12413,6 +12440,7 @@ poetry
 poezio-omemo
 pogo
 poke
+polari
 polarsys-b612-fonts
 policycoreutils
 polkit-kde
@@ -12680,6 +12708,7 @@ python-aeidon
 python-aenum
 python-aexpect
 python-affine
+python-ailment
 python-aiodns
 python-aiofiles
 python-aioftp
@@ -12741,6 +12770,7 @@ python-argon2-cffi-bindings
 python-argon2-cffi
 python-argopt
 python-argparse-dataclass
+python-archinfo
 python-archspec
 python-array-api-strict
 python-arrow
@@ -13022,6 +13052,7 @@ python-circuitbreaker
 python-ciso8601
 python-citeproc-py
 python-ckzg
+python-claripy
 python-cleo
 python-click-completion
 python-click-didyoumean
@@ -13964,7 +13995,6 @@ python-mpd2
 python-mplcairo
 python-mplcursors
 python-mpmath
-python-mrcfile
 python-mrtparse
 python-msal-extensions
 python-msal
@@ -13989,7 +14019,6 @@ python-multiregex
 python-multitasking
 python-munch
 python-munkres
-python-murano-pkg-check
 python-murmurhash
 python-music21
 python-mutagen
@@ -14182,7 +14211,6 @@ python-pdfkit
 python-pdfminer
 python-pdfrw
 python-pdf2image
-python-pdir2
 python-pdm-backend
 python-peachpy
 python-pebble
@@ -15278,6 +15306,7 @@ python3-cangjie
 python3-discid
 python3-docs
 python3-gssapi
+python3-iep
 python3-mallard-ducktype
 python3-mypy
 python3-openid
@@ -15494,6 +15523,7 @@ qt6-qtwebview
 qt6-qt3d
 qt6-qt5compat
 qt6
+quadrapassel
 quake2
 quake3
 quantum-espresso
@@ -15785,6 +15815,7 @@ R-httr
 R-hunspell
 rhythmbox-alternative-toolbar
 rhythmbox-ampache
+rhythmbox
 R-chron
 R-ica
 ricochet
@@ -18788,7 +18819,7 @@ rust-reqsign
 rust-reqsign-tencent-cos
 rust-reqwest-middleware
 rust-reqwest-middleware0.4
-rust-reqwest-retry0.8
+rust-reqwest-retry
 rust-reqwest
 rust-reqwest0.11
 rust-reqwest0.12
@@ -20305,6 +20336,7 @@ source-foundry-hack-fonts
 source-highlight-qt
 source-highlight
 source-to-image
+sourcextractor++
 soxr
 spacebar
 spacefm
@@ -20608,6 +20640,7 @@ taglib
 tachyon
 taigo
 tailscale
+tali
 talk
 tangerine
 tango-icon-theme
@@ -20864,6 +20897,8 @@ torrent-file-editor
 torsocks
 tor
 tortoisehg
+totem-pl-parser
+totem
 touchcal
 touchegg
 toxcore
@@ -20919,6 +20954,7 @@ tree-sitter-java
 tree-sitter-jsdoc
 tree-sitter-json
 tree-sitter-lua
+tree-sitter-phpdoc
 tree-sitter-php
 tree-sitter-python
 tree-sitter-ruby
@@ -21237,7 +21273,6 @@ vim-fugitive-gitlab
 vim-fugitive-pagure
 vim-fugitive
 vim-gitgutter
-vim-gv
 vimiv-qt
 vimiv
 vim-javabrowser
@@ -21248,7 +21283,6 @@ vim-mediawiki
 vim-nerdtree
 vim-omnicppcomplete
 vimpal
-vim-pathogen
 vim-perl-support
 vim-rhubarb
 vim
@@ -21856,6 +21890,7 @@ yawn
 yaz
 ydiff
 ydotool
+yelp
 yelp-tools
 yelp-xsl
 yggdrasil
