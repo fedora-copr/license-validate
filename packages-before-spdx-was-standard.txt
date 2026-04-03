@@ -1801,6 +1801,7 @@ erlang-stun
 erlang-triq
 erlang-webmachine
 erlang-xmlrpc
+erlang-xmpp
 erlang-yconf
 erofs-utils
 esc
@@ -3358,7 +3359,6 @@ golang-bitbucket-creachadair-shell
 golang-bitbucket-ww-goautoneg
 golang-bug-serial-1
 golang-code-cloudfoundry-bytefmt
-golang-code-cloudfoundry-clock
 golang-contrib-opencensus-resource
 golang-etcd-bbolt
 golang-filippo-edwards25519
@@ -3411,7 +3411,6 @@ golang-github-bshuster-repo-logrus-logstash-hook
 golang-github-bugsnag-panicwrap
 golang-github-bugsnag
 golang-github-burntsushi-toml
-golang-github-burntsushi-toml-test
 golang-github-burntsushi-xgb
 golang-github-cactus-statsd-client
 golang-github-c-bata-prompt
@@ -3425,13 +3424,11 @@ golang-github-client9-plaintext
 golang-github-cloudflare-backoff
 golang-github-cloudflare-redoctober
 golang-github-cmd
-golang-github-cockroachdb-cockroach-go
 golang-github-cockroachdb-datadriven
 golang-github-cockroachdb-logtags
 golang-github-cockroachdb-pebble
 golang-github-cockroachdb-redact
 golang-github-codegangsta-inject
-golang-github-colinmarc-hdfs-2
 golang-github-containerd-console
 golang-github-containerd-continuity
 golang-github-containernetworking-cni
@@ -3444,7 +3441,6 @@ golang-github-cornelk-hashmap
 golang-github-cpu-goacmedns
 golang-github-creack-goselect
 golang-github-creack-pty
-golang-github-crossdock
 golang-github-cucumber-godog
 golang-github-cucumber-messages
 golang-github-cyphar-filepath-securejoin
@@ -3469,7 +3465,6 @@ golang-github-docker-events
 golang-github-docker-go
 golang-github-docker-libtrust
 golang-github-docker-metrics
-golang-github-docker-units
 golang-github-docopt
 golang-github-dreamacro-shadowsocks2
 golang-github-dustin-humanize
@@ -3659,7 +3654,6 @@ golang-github-kit-log
 golang-github-kit
 golang-github-klauspost-compress
 golang-github-klauspost-pgzip
-golang-github-knetic-govaluate
 golang-github-kr-fs
 golang-github-krishicks-yaml-patch
 golang-github-kr-pretty
@@ -3673,7 +3667,6 @@ golang-github-lann-ps
 golang-github-leodido-urn
 golang-github-leonelquinteros-gotext
 golang-github-letsencrypt-challtestsrv
-golang-github-letsencrypt-pebble
 golang-github-leveldb
 golang-github-lib-pq
 golang-github-linuxdeepin-go-x11-client
@@ -3796,7 +3789,6 @@ golang-github-posener-complete-2
 golang-github-posener-script
 golang-github-powerman-deepequal
 golang-github-pquerna-ffjson
-golang-github-pquerna-otp
 golang-github-projectdiscovery-chaos-client
 golang-github-projectdiscovery-mapcidr
 golang-github-prometheus-client-model
@@ -3880,7 +3872,6 @@ golang-github-tv42-httpunix
 golang-github-twinj-uuid
 golang-github-twmb-murmur3
 golang-github-twpayne-waypoint
-golang-github-uber-jaeger-client
 golang-github-uber-jaeger-lib
 golang-github-uber-tally
 golang-github-urfave-cli
@@ -3964,7 +3955,6 @@ golang-gopkg-yaml-1
 golang-gopkg-yaml-2
 golang-gopkg-yaml-3
 golang-gorm
-golang-gotest
 golang-hein-version
 golang-jaytaylor-html2text
 golang-k8s-api
@@ -8084,7 +8074,6 @@ pcmanx-gtk2
 pcm
 pcp
 pcp2pdf
-pcre
 pcre2
 pcsc-cyberjack
 pcsc-lite-acsccid
@@ -13667,7 +13656,6 @@ python-walkdir
 python-wand
 python-warlock
 python-watchdog
-python-wavio
 python-wcag-contrast-ratio
 python-wcmatch
 python-wcwidth
@@ -15975,7 +15963,6 @@ sisu
 six
 sjasm
 sj-fonts
-sjinn
 skanlite
 skanpage
 skf
@@ -16093,7 +16080,6 @@ spdlog
 spdrs60
 spectacle
 spectre-meltdown-checker
-spectrographic
 spec-version-maven-plugin
 speedcrunch
 speed-dreams
@@ -17039,7 +17025,6 @@ why3
 wicked
 wide-dhcpv6
 widelands
-wiggle
 wiiuse
 wike
 wildmagic5
@@ -17496,7 +17481,6 @@ zathura-ps
 zathura
 zaz
 zbar
-zd1211-firmware
 zeal
 zegrapher
 zeitgeist
