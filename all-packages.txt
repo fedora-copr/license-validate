@@ -1371,7 +1371,6 @@ CSFML
 csmith
 csmock
 csnappy
-csslint
 cstream
 cswrap
 ctags
@@ -8296,7 +8295,6 @@ mingw-qt6-qtwebsockets
 mingw-qt6-qt3d
 mingw-qt6-qt5compat
 mingw-quazip
-mingw-qwt
 mingw-readline
 mingw-rest
 mingw-SDL_image
@@ -9385,6 +9383,7 @@ openssl-ibmca
 openssl-pkcs11-sign-provider
 openssl-pkcs11
 openssl
+openssl3
 OpenStego
 opensubdiv
 opensurge
@@ -10116,6 +10115,7 @@ perl-constant-defer
 perl-constant
 perl-constant-tiny
 perl-Const-Fast
+perl-Consumer-NonBlock
 perl-Context-Preserve
 perl-Contextual-Return
 perl-Convert-Age
@@ -12992,7 +12992,7 @@ php-phpunitgoodpractices-polyfill
 php-phpunit-php-code-coverage10
 php-phpunit-php-code-coverage11
 php-phpunit-php-code-coverage12
-php-phpunit-php-code-coverage13
+php-phpunit-php-code-coverage14
 php-phpunit-php-code-coverage7
 php-phpunit-php-code-coverage9
 php-phpunit-php-file-iterator2
@@ -13083,6 +13083,7 @@ php-sebastian-exporter5
 php-sebastian-exporter6
 php-sebastian-exporter7
 php-sebastian-exporter8
+php-sebastian-git-state1
 php-sebastian-global-state3
 php-sebastian-global-state5
 php-sebastian-global-state6
@@ -16301,6 +16302,7 @@ python-vascpy
 python-vatnumber
 python-vcrpy
 python-vcstool
+python-vcs-versioning
 python-vcs2l
 python-vdf
 python-vedo
@@ -17372,7 +17374,6 @@ rtorrent
 rtpproxy
 rtrlib
 rt
-rttr
 R-tweenr
 rubberband
 rubber
@@ -18645,6 +18646,7 @@ rust-flume
 rust-fnv
 rust-foldhash
 rust-foldhash0.1
+rust-fontdue
 rust-font-kit
 rust-font-types
 rust-foreign-types-macros
@@ -19221,6 +19223,7 @@ rust-keyframe
 rust-keyvalues-parser
 rust-keyvalues-serde
 rust-khronos_api
+rust-kirmes
 rust-konst_macro_rules
 rust-konst_proc_macros
 rust-konst
@@ -20190,6 +20193,7 @@ rust-same-file
 rust-sanitize-filename
 rust-sarif-fmt
 rust-scan_fmt
+rust-scanlex
 rust-sccache
 rust-scc
 rust-scientific-macro
