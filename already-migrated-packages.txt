@@ -1928,6 +1928,7 @@ erlang-meck
 erlang-merge_index
 erlang-mimetypes
 erlang-mochiweb
+erlang-mozjs
 erlang-mqtree
 erlang-mustache
 erlang-neotoma
@@ -2103,6 +2104,7 @@ fcitx5-zhuyin
 fcode-utils
 fcoe-utils
 fdk-aac-free
+fdkaac
 fdr
 fdupes
 featherpad
@@ -3838,7 +3840,6 @@ golang-github-facebookincubator-dhcplb
 golang-github-facebookincubator-flog
 golang-github-facebookincubator-go2chef
 golang-github-facebookincubator-nvdtools
-golang-github-facebook-time
 golang-github-fatih-color
 golang-github-felixge-httpsnoop
 golang-github-fernet
@@ -7158,6 +7159,7 @@ mariadb-connector-odbc
 mariadb-java-client
 mariadb10.11
 mariadb11.8
+mariadb12.3
 marisa
 markdownpart
 marked
@@ -7444,7 +7446,6 @@ mingw-LibRaw
 mingw-librsvg2
 mingw-libsigc++30
 mingw-libsigsegv
-mingw-libsoup
 mingw-libsqlite3x
 mingw-libssh2
 mingw-libtasn1
@@ -8350,6 +8351,7 @@ ocaml-stdio
 ocaml-stdlib-random
 ocaml-store
 ocaml-swhid-core
+ocaml-testo
 ocaml-time-now
 ocaml-topkg
 ocaml-trie
@@ -9538,6 +9540,7 @@ perl-DBIx-Class-DeploymentHandler
 perl-DBIx-Class-DynamicDefault
 perl-DBIx-Class-EncodedColumn
 perl-DBIx-Class-Helpers
+perl-DBIx-Class-InflateColumn-Serializer
 perl-DBIx-Class-IntrospectableM2M
 perl-DBIx-Class-OptimisticLocking
 perl-DBIx-Class-Schema-Config
@@ -9903,6 +9906,7 @@ perl-Getopt-Long
 perl-Getopt-Lucid
 perl-Getopt-Tabular
 perl-Getopt-Usaginator
+perl-Getopt-Yath
 perl-gettext
 perl-GIS-Distance-Fast
 perl-GIS-Distance
@@ -12823,6 +12827,7 @@ python-azure-mgmt-compute
 python-azure-mgmt-consumption
 python-azure-mgmt-containerinstance
 python-azure-mgmt-containerregistry
+python-azure-mgmt-containerregistrytasks
 python-azure-mgmt-containerservice
 python-azure-mgmt-core
 python-azure-mgmt-cosmosdb
@@ -14359,6 +14364,7 @@ python-pygraphviz
 python-pygtkspellcheck
 python-pyhcl
 python-pyinfra
+python-pyinotify
 python-pyjson5
 python-pyjwkest
 python-pykcs11
@@ -14648,6 +14654,7 @@ python-rfc3986-validator
 python-rfc3987
 python-rfc3987-syntax
 python-rignore
+python-rich-argparse
 python-rich-click
 python-rich-rst
 python-rich
@@ -15243,6 +15250,7 @@ python-zaqarclient
 python-zarr-checksum
 python-zarr
 python-zc-lockfile
+python-zeep
 python-zeroconf
 python-zhon
 python-zict
@@ -15332,6 +15340,7 @@ qca
 qcas
 qcint
 qclib
+qcom-firmware-extract
 qcoro
 qcustomplot
 qdbm
@@ -16148,6 +16157,7 @@ rubygem-addressable
 rubygem-afm
 rubygem-allison
 rubygem-ammeter
+rubygem-ansi
 rubygem-apipie-rails
 rubygem-aruba
 rubygem-asciidoctor-pdf
@@ -16615,6 +16625,10 @@ rust-ariadne
 rust-arraydeque
 rust-arrayref
 rust-arrayvec
+rust-arrow-array
+rust-arrow-buffer
+rust-arrow-data
+rust-arrow-schema
 rust-ar
 rust-asahi-bless
 rust-asahi-btsync
@@ -16670,7 +16684,6 @@ rust-async-global-executor2
 rust-async-channel
 rust-async-channel1
 rust-async-io
-rust-async-io1
 rust-async-lock
 rust-async-lock2
 rust-async-native-tls
@@ -17370,6 +17383,7 @@ rust-fixedbitset0.4
 rust-fixed_decimal
 rust-fixed
 rust-flagset
+rust-flatbuffers
 rust-flate2
 rust-float-cmp
 rust-float-cmp0.9
@@ -17774,6 +17788,7 @@ rust-chardetng
 rust-charset
 rust-choosier
 rust-chromaterm
+rust-chrono-english
 rust-chrono-humanize
 rust-chrono
 rust-chrono-tz-build
@@ -17980,6 +17995,7 @@ rust-lalrpop
 rust-lalrpop-util
 rust-lalr
 rust-language-tags
+rust-lapp
 rust-lasso
 rust-lazycell
 rust-lazy_static
@@ -17992,6 +18008,8 @@ rust-lev_distance
 rust-lexical-parse-float
 rust-lexical-parse-integer
 rust-lexical-util
+rust-lexical-write-float
+rust-lexical-write-integer
 rust-lexiclean
 rust-lexopt
 rust-libadwaita
@@ -18244,7 +18262,6 @@ rust-newtype-uuid
 rust-nibble_vec
 rust-nitro-enclaves
 rust-nix
-rust-nix0.26
 rust-nix0.27
 rust-nix0.28
 rust-nix0.29
@@ -20211,6 +20228,7 @@ sil-mondulkiri-extra-fonts
 sil-mondulkiri-fonts
 sil-namdhinggo-fonts
 sil-nuosu-fonts
+Silo
 sil-padauk-fonts
 sil-shimenkan-fonts
 sil-scheherazade-fonts
@@ -21399,7 +21417,9 @@ wagyu
 WALinuxAgent
 wallpapoz
 warble
+warsow-data
 warsow
+warzone2100
 wasi-libc
 wasmedge
 watchdog

@@ -172,7 +172,7 @@ deluge               mooninite
 dev86                jnovy lkundrak
 diff-pdf             vascom
 dionaea              rebus
-disciplining-minipod abulimov dcavalca leoleovich pcullen pmazzini salimma vfedorenko
+disciplining-minipod abulimov dcavalca esoapw leoleovich pawo2500 pcullen pmazzini salimma vfedorenko
 discount             tdawson
 dmg2img              peter
 dmtx-utils           sharkcz
@@ -1209,7 +1209,6 @@ python-xlrd          ondrejj pingou
 python-xlwt          leamas
 python-xml2rfc       orange-kao pwouters rominf rommell
 python-yapsy         fedepell
-python-zeep          gsauthof
 python3-lxc          thm
 python3-py3dns       bojan kevin
 python3-simpletal    thm
@@ -1255,7 +1254,6 @@ rsyntaxtextarea      jvanek
 rtklib               vascom
 rtl-wmbus            dwrobel
 rtorrent             dfateyev konradm verdurin
-rubygem-ansi         stevetraylen
 rubygem-cookiejar    pvalena vondruch
 rubygem-hashery      pvalena vondruch
 rubygem-idn          spstarr tdawson
@@ -1404,8 +1402,6 @@ waf                  salimma thm
 wafw00f              fedepell
 waifu2x-converter-cpp eclipseo
 warmux               bruno
-warsow-data          limb
-warzone2100          limb
 waylandpp            melmorabity
 webkitgtk            catanzaro
 websocketpp          c72578 ngompa
@@ -1571,6 +1567,7 @@ elmarco    libcacard mingw-bzip2 mingw-gtkmm24 mingw-libgcrypt mingw-libgpg-erro
 encukou    python-flask-admin
 ertzing    uwsgi
 eseyman    bugzilla perl-CGI-Struct perl-Catalyst-Plugin-Cache perl-Config-Model-CursesUI perl-Config-Model-Itself perl-EBook-EPUB perl-Eval-LineNumbers perl-FCGI-ProcManager perl-HTML-HTML5-Entities perl-HTML-HTML5-Sanity perl-HTML-Template-Pro perl-HTTP-Soup perl-Library-CallNumber-LC perl-Math-Random-ISAAC perl-Math-Random-ISAAC-XS perl-Mojo-RabbitMQ-Client perl-MooseX-ArrayRef perl-MooseX-AttributeShortcuts perl-MooseX-MarkAsMethods perl-MooseX-Meta-TypeConstraint-Mooish perl-MooseX-Role-XMLRPC-Client perl-MooseX-TraitFor-Meta-Class-BetterAnonClassNames perl-MooseX-Util perl-PSGI perl-PatchReader perl-Tk-TableMatrix t-prot
+esoapw     disciplining-minipod
 etrunko    mingw-bzip2 mingw-libgcrypt mingw-libgpg-error mingw-rest mingw-spice-gtk mingw-spice-protocol
 evgeni     freight
 ework      gtkdatabox
@@ -1601,7 +1598,6 @@ goeran     ttf2pt1
 golfu      parallel
 gotmax23   ansible-collection-kubernetes-core python-respx
 grahamwhiteuk lensfun
-gsauthof   python-zeep
 hanecak    miglayout tipcutils
 hannes     gretl python-musicbrainzngs tilda
 hedayat    obfs4 rcssmonitor rcssserver
@@ -1687,7 +1683,7 @@ leigh123linux cinnamon cinnamon-control-center cinnamon-desktop cinnamon-menus c
 lenkaseg   python-pyopencl
 leoleovich disciplining-minipod
 levined    nmh
-limb       enchant libdbi minetest motif nvidia-texture-tools python-basemap python-cherrypy python-repoze-lru teeworlds warsow-data warzone2100
+limb       enchant libdbi minetest motif nvidia-texture-tools python-basemap python-cherrypy python-repoze-lru teeworlds
 linkdupont rcm
 linville   can-utils
 lkundrak   GLee clearlooks-compact-gnome-theme dev86 extra-cmake-modules fakeroot fluid insight jfreechart kBuild libclaw libdrm-armada libqtxdg netbsd-iscsi nextpnr p11-remote perl-HTML-Template-Pro pgp-tools qt5-qtaccountsservice qt5-qtconfiguration teeworlds
@@ -1758,6 +1754,7 @@ orion      Mayavi ast catalyst flow-tools garcon h5py hiredis jchardet lasi liba
 orphan     elementary golang-bitbucket-ww-goautoneg golang-github-aws-lambda golang-github-circonus-labs-apiclient golang-github-circonus-labs-circonusllhist golang-github-dnaeon-vcr golang-github-docker-go golang-github-erikstmartin-testdb golang-github-ghodss-yaml golang-github-git-gcfg golang-github-globalsign-mgo golang-github-google-pprof golang-github-google-querystring golang-github-gorilla-sessions golang-github-mxk-flowrate golang-github-syndtr-goleveldb golang-github-yvasiyarov-gorelic golang-gopkg-cheggaaa-pb-1 ipmiutil kwebkitpart log4cpp rubygem-macaddr zola
 ovasik     enum pax
 patrikp    monocypher
+pawo2500   disciplining-minipod
 pbiering   tcp_wrappers
 pbrobinson can-utils intelhex libcoap libopusenc libwebsockets linux-firmware opus-tools restool uboot-tools vboot-utils
 pcahyna    linux-system-roles
@@ -1838,7 +1835,7 @@ spstarr    rubygem-idn
 stefanb    farstream02
 steve      altermime neomutt
 steved     libibcommon
-stevetraylen h5py leveldb liblzf log4c python-django-tastypie rubygem-ansi rubygem-rchardet
+stevetraylen h5py leveldb liblzf log4c python-django-tastypie rubygem-rchardet
 stingray   flow-tools
 stransky   firefox
 supakeen   python-pygments-better-html
