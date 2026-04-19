@@ -2377,6 +2377,7 @@ fillets-ng
 findutils
 finger
 fio
+fips-provider
 fips
 fira-code-fonts
 firebird
@@ -2399,6 +2400,7 @@ flameshot
 flamethrower
 flamp
 flam3
+flann
 flare-engine
 flare
 flashrom
@@ -8132,7 +8134,6 @@ mingw-libtasn1
 mingw-libtheora
 mingw-libtiff
 mingw-libunistring
-mingw-libvorbis
 mingw-libxml++
 mingw-libxml2
 mingw-libxslt
@@ -8151,7 +8152,6 @@ mingw-opencv
 mingw-openexr
 mingw-openssl
 mingw-opusfile
-mingw-opus
 mingw-orc
 mingw-pangomm
 mingw-pango
@@ -9122,6 +9122,7 @@ ocaml-xml-light
 ocaml-xmlm
 ocaml-xmlrpc-light
 ocaml-yaml
+ocaml-yamlx
 ocaml-yojson
 ocaml-zarith
 ocaml-zed
@@ -12884,6 +12885,7 @@ php-pecl-apcu
 php-pecl-apfd
 php-pecl-dio
 php-pecl-ds
+php-pecl-ds2
 php-pecl-event
 php-pecl-fann
 php-pecl-geoip
@@ -13573,6 +13575,7 @@ PyQt-builder
 pyqtwebengine
 py-radix
 pyscard
+pyserial-asyncio
 pyserial
 pyshp
 pysnmp
@@ -15314,6 +15317,7 @@ python-pybeam
 python-pybtex-docutils
 python-pybtex
 python-pycares
+python-pycayennelpp
 python-pycdio
 python-pycdlib
 python-pycec
@@ -15904,6 +15908,7 @@ python-sphinxemoji
 python-sphinx-epytext
 python-sphinxext-opengraph
 python-sphinx-favicon
+python-sphinx-feature-classification
 python-sphinx-gallery
 python-sphinx-inline-tabs
 python-sphinx-intl
@@ -17528,10 +17533,20 @@ rust-ariadne
 rust-arraydeque
 rust-arrayref
 rust-arrayvec
+rust-arrow-arith
 rust-arrow-array
 rust-arrow-buffer
+rust-arrow-cast
+rust-arrow-csv
 rust-arrow-data
+rust-arrow-ipc
+rust-arrow-json
+rust-arrow-ord
+rust-arrow-row
+rust-arrow-select
 rust-arrow-schema
+rust-arrow
+rust-arrow-string
 rust-ar
 rust-asahi-bless
 rust-asahi-btsync
@@ -17771,6 +17786,7 @@ rust-captur
 rust-cargo-config2
 rust-cargo-credential-libsecret
 rust-cargo-credential
+rust-cargo-cyclonedx
 rust-cargo-deny
 rust-cargo-insta
 rust-cargo-lock
@@ -18110,6 +18126,7 @@ rust-either
 rust-elasticlunr-rs
 rust-elf
 rust-elliptic-curve
+rust-emojis
 rust-ena
 rust-encode_unicode
 rust-encoding_rs_io
@@ -18650,6 +18667,7 @@ rust-intl_pluralrules
 rust-in-toto
 rust-intrusive-collections
 rust-inventory
+rust-iobuffer
 rust-io-close
 rust-iocuddle
 rust-io-extras
@@ -18752,6 +18770,7 @@ rust-lcms2-sys
 rust-lddtree
 rust-lebe
 rust-leb128
+rust-lexical-core
 rust-lexical-parse-float
 rust-lexical-parse-integer
 rust-lexical-util
@@ -18828,7 +18847,6 @@ rust-linked-hash-map
 rust-linux-loader
 rust-linux_proc
 rust-linux-raw-sys
-rust-linux-raw-sys0.3
 rust-linux-raw-sys0.4
 rust-lipsum
 rust-listenfd
@@ -18906,7 +18924,6 @@ rust-memmap2
 rust-memmap2_0.5
 rust-memmap2_0.7
 rust-memmem
-rust-memoffset0.7
 rust-mesa3d_util
 rust-metrics-exporter-prometheus
 rust-metrics
@@ -19197,7 +19214,6 @@ rust-png0.17
 rust-podlet
 rust-podman-sequoia
 rust-polling
-rust-polling2
 rust-pollster-macro
 rust-pollster
 rust-polyval
@@ -19512,7 +19528,6 @@ rust-rusticata-macros
 rust-rust-ini0.18
 rust-rustix-openpty
 rust-rustix
-rust-rustix0.37
 rust-rustix0.38
 rust-rustls-native-certs
 rust-rustls-native-certs0.6
@@ -19696,6 +19711,7 @@ rust-simd-adler32
 rust-simdutf8
 rust-similar-asserts
 rust-similar
+rust-similar2
 rust-simple-file-manifest
 rust-simple_logger1
 rust-simplelog
@@ -19925,6 +19941,8 @@ rust-toml0.5
 rust-toml0.8
 rust-toml0.9
 rust-tonic-build
+rust-tonic-prost-build
+rust-tonic-prost
 rust-tonic
 rust-tonic-types
 rust-topological-sort
@@ -20232,6 +20250,8 @@ rust-uu_who
 rust-uu_yes
 rust-uzers
 rust-uzers0.11
+rust-validator_derive
+rust-validator
 rust-varlink-cli
 rust-varlink_parser
 rust-varlink
