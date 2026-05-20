@@ -35,9 +35,14 @@ def read_from_spec(filename):
     with specfile.sections() as sections:
         for section in sections:
             if section.name.startswith("package"):
-                with specfile.tags(section) as tags:
-                    if 'License' in tags:
-                        result.append(tags.license.expanded_value)
+                # Workaround for conditionals spanning multiple sections:
+                # https://github.com/packit/specfile/issues/365
+                try:
+                    with specfile.tags(section) as tags:
+                        if 'License' in tags:
+                            result.append(tags.license.expanded_value)
+                except Exception:
+                    print(f"Warning: Could not parse section '{section.id}', skipping.")
     return result
 
 class T(Transformer):
