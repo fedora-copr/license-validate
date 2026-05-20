@@ -41,7 +41,7 @@ def read_from_spec(filename):
                     with specfile.tags(section) as tags:
                         if 'License' in tags:
                             result.append(tags.license.expanded_value)
-                except Exception:
+                except IndexError:
                     print(f"Warning: Could not parse section '{section.id}', skipping.")
     return result
 
