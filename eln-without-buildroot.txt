@@ -14,6 +14,7 @@ WALinuxAgent
 Xaw3d
 a52dec
 aardvark-dns
+abseil-cpp
 accel-config
 accountsservice
 acl
@@ -168,6 +169,7 @@ cups-pk-helper
 curl
 cyrus-imapd
 cyrus-sasl
+dblatex
 dbus
 dbus-broker
 dbus-python
@@ -252,7 +254,6 @@ fedora-repos
 fence-agents
 fetchmail
 fftw
-fido-device-onboard
 file
 filesystem
 findutils
@@ -348,6 +349,7 @@ gnome-shell-extension-dash-to-panel
 gnome-shell-extension-no-overview
 gnome-shell-extensions
 gnome-software
+gnome-srpm-macros
 gnome-system-monitor
 gnome-text-editor
 gnome-tour
@@ -374,7 +376,6 @@ google-noto-serif-cjk-vf-fonts
 google-roboto-slab-fonts
 gperf
 gpgme
-gpgmepp
 gpgmepy
 gpgverify
 gpsd
@@ -698,6 +699,7 @@ keylime
 keylime-agent-rust
 keyutils
 kmod
+kmscon
 kojan-parent
 kojan-xml
 kpatch
@@ -821,13 +823,11 @@ libi2cd
 libica
 libical
 libidn2
-libieee1284
 libijs
 libinput
 libipt
 libisoburn
 libisofs
-libjcat
 libjpeg-turbo
 libkcapi
 libkdumpfile
@@ -926,6 +926,7 @@ libtpms
 libtracecmd
 libtraceevent
 libtracefs
+libtsm
 libunistring
 libunwind
 liburing
@@ -1127,6 +1128,8 @@ oci-seccomp-bpf-hook
 ocl-icd
 oddjob
 omping
+ongres-scram
+ongres-stringprep
 oniguruma
 open-sans-fonts
 open-vm-tools
@@ -1442,7 +1445,7 @@ procmail
 procps-ng
 proj
 protobuf
-protobuf-c
+protobuf3-c
 prrte
 ps_mem
 psacct
@@ -1536,6 +1539,7 @@ python-pluggy
 python-podman
 python-productmd
 python-prompt-toolkit
+python-protobuf
 python-psutil
 python-psycopg2
 python-ptyprocess
@@ -1583,6 +1587,7 @@ python-websockets
 python-xkbregistry
 python-yubico
 python3.14
+python3.15
 pyusb
 pyxdg
 qat-zstd-plugin
@@ -1739,6 +1744,7 @@ setup
 sg3_utils
 sgml-common
 sgpio
+sgx-pccs
 shadow-utils
 shared-mime-info
 shell-color-prompt
@@ -1917,7 +1923,6 @@ wayland
 wayland-utils
 waypipe
 webrtc-audio-processing
-weldr-client
 wget1
 which
 whois

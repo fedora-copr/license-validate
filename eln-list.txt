@@ -16,6 +16,7 @@ WALinuxAgent
 Xaw3d
 a52dec
 aardvark-dns
+abseil-cpp
 accel-config
 accountsservice
 acl
@@ -287,7 +288,6 @@ felix-utils
 fence-agents
 fetchmail
 fftw
-fido-device-onboard
 file
 filesystem
 findutils
@@ -295,7 +295,6 @@ fio
 fips-provider-next
 firewalld
 flac
-flashrom
 flatpak
 flatpak-builder
 flatpak-rpm-macros
@@ -389,6 +388,7 @@ gnome-shell-extension-dash-to-panel
 gnome-shell-extension-no-overview
 gnome-shell-extensions
 gnome-software
+gnome-srpm-macros
 gnome-system-monitor
 gnome-text-editor
 gnome-tour
@@ -416,7 +416,6 @@ google-noto-serif-cjk-vf-fonts
 google-roboto-slab-fonts
 gperf
 gpgme
-gpgmepp
 gpgmepy
 gpgverify
 gpsd
@@ -760,6 +759,7 @@ keylime
 keylime-agent-rust
 keyutils
 kmod
+kmscon
 kojan-parent
 kojan-xml
 kpatch
@@ -889,13 +889,11 @@ libi2cd
 libica
 libical
 libidn2
-libieee1284
 libijs
 libinput
 libipt
 libisoburn
 libisofs
-libjcat
 libjpeg-turbo
 libkcapi
 libkdumpfile
@@ -995,6 +993,7 @@ libtpms
 libtracecmd
 libtraceevent
 libtracefs
+libtsm
 libunistring
 libunwind
 liburing
@@ -1343,6 +1342,7 @@ perl-CPAN-Meta
 perl-CPAN-Meta-Check
 perl-CPAN-Meta-Requirements
 perl-CPAN-Meta-YAML
+perl-CPAN-Requirements-Dynamic
 perl-Canary-Stability
 perl-Capture-Tiny
 perl-Carp
@@ -1385,7 +1385,11 @@ perl-Exporter
 perl-Exporter-Tiny
 perl-ExtUtils-CBuilder
 perl-ExtUtils-CChecker
+perl-ExtUtils-Config
+perl-ExtUtils-HasCompiler
+perl-ExtUtils-Helpers
 perl-ExtUtils-Install
+perl-ExtUtils-InstallPaths
 perl-ExtUtils-MakeMaker
 perl-ExtUtils-Manifest
 perl-ExtUtils-ParseXS
@@ -1450,6 +1454,7 @@ perl-Math-BigInt
 perl-Math-BigInt-FastCalc
 perl-Math-BigInt-GMP
 perl-Module-Build
+perl-Module-Build-Tiny
 perl-Module-CPANfile
 perl-Module-CoreList
 perl-Module-Install
@@ -1646,6 +1651,8 @@ procps-ng
 proj
 protobuf
 protobuf-c
+protobuf3
+protobuf3-c
 prrte
 ps_mem
 psacct
@@ -1752,6 +1759,7 @@ python-podman
 python-prettytable
 python-productmd
 python-prompt-toolkit
+python-protobuf
 python-psutil
 python-psycopg2
 python-ptyprocess
@@ -1788,6 +1796,7 @@ python-scikit-build-core
 python-semantic_version
 python-setuptools
 python-setuptools-rust
+python-setuptools80
 python-setuptools_scm
 python-simpleline
 python-six
@@ -1814,8 +1823,8 @@ python-wheel
 python-xkbregistry
 python-yubico
 python-zstandard
-python3-mallard-ducktype
 python3.14
+python3.15
 pyusb
 pyxattr
 pyxdg
@@ -1987,6 +1996,7 @@ setup
 sg3_utils
 sgml-common
 sgpio
+sgx-pccs
 sgx-rpm-macros
 shaderc
 shadow-utils
@@ -2084,6 +2094,8 @@ testng
 texi2html
 texinfo
 texlive
+texlive-collection-langgerman
+texlive-collection-latexextra
 tftp
 thermald
 time
@@ -2186,7 +2198,6 @@ wayland-utils
 waypipe
 web-assets
 webrtc-audio-processing
-weldr-client
 wget1
 which
 whois
