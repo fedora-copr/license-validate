@@ -69,7 +69,7 @@ avahi
 awscli2
 azure-vm-utils
 babel
-babeltrace
+babeltrace2
 baobab
 bash
 bash-completion
@@ -169,7 +169,6 @@ cups-pk-helper
 curl
 cyrus-imapd
 cyrus-sasl
-dblatex
 dbus
 dbus-broker
 dbus-python
@@ -803,7 +802,6 @@ libfyaml
 libgcrypt
 libgee
 libgexiv2
-libgit2
 libglvnd
 libgpg-error
 libgphoto2
@@ -985,7 +983,6 @@ logwatch
 lorax
 lorax-templates-rhel
 loupe
-low-memory-monitor
 lprint
 lrzsz
 lshw
@@ -1015,7 +1012,7 @@ man-pages
 mariadb-connector-c
 mariadb-connector-odbc
 mariadb-java-client
-mariadb11.8
+mariadb12.3
 marshalparser
 maven
 maven-archiver
@@ -1063,6 +1060,8 @@ mod_intercept_form_submit
 mod_lookup_identity
 mod_md
 mod_proxy_cluster
+mod_security
+mod_security_crs
 mod_wsgi
 mokutil
 mozilla-filesystem
@@ -1083,7 +1082,7 @@ munge
 mutt
 mutter
 mysql-selinux
-mysql8.4
+mysql9.7
 mythes-eo
 nano
 nautilus
@@ -1097,6 +1096,7 @@ netavark
 netlabel_tools
 netpbm
 nettle
+nettle3.10
 network-manager-applet
 newt
 nfs-utils
@@ -1108,7 +1108,7 @@ nmap
 nmstate
 nodejs-nodemon
 nodejs-packaging
-nodejs24
+nodejs26
 npth
 nss
 nss-altfiles
@@ -1124,6 +1124,7 @@ nvmetcli
 objectweb-asm
 objenesis
 ocaml-srpm-macros
+oci-delta
 oci-seccomp-bpf-hook
 ocl-icd
 oddjob
@@ -1156,6 +1157,7 @@ openssh
 openssl
 openssl-fips-provider
 openssl-ibmca
+openssl3
 opentelemetry-collector
 opentest4j
 openwsman
@@ -1164,7 +1166,7 @@ orc
 orca
 os-prober
 osbuild
-osbuild-composer
+osci-internal-test-package
 osinfo-db
 osinfo-db-tools
 ostree
@@ -1194,6 +1196,7 @@ pcre2
 pcs
 pcsc-lite
 pcsc-lite-ccid
+pdfio
 perftest
 perl
 perl-Algorithm-Diff
@@ -1348,7 +1351,6 @@ perl-Tie-RefHash
 perl-Time-HiRes
 perl-Time-Local
 perl-TimeDate
-perl-Tk
 perl-Try-Tiny
 perl-URI
 perl-Unicode-Collate
@@ -1564,7 +1566,6 @@ python-roman-numerals
 python-rpds-py
 python-rpm-generators
 python-rpm-macros
-python-rpmautospec
 python-rtslib
 python-ruamel-yaml
 python-ruamel-yaml-clib
@@ -1583,10 +1584,8 @@ python-urllib-gssapi
 python-urllib3
 python-virt-firmware
 python-wcwidth
-python-websockets
 python-xkbregistry
 python-yubico
-python3.14
 python3.15
 pyusb
 pyxdg
@@ -1597,7 +1596,6 @@ qatzip
 qclib
 qdox
 qemu-kvm
-qpdf
 qt6
 qt6-qt3d
 qt6-qt5compat
@@ -1696,6 +1694,8 @@ rust-bindgen-cli
 rust-bootupd
 rust-cbindgen
 rust-coreos-installer
+rust-crypto-auditing-agent
+rust-crypto-auditing-log-parser
 rust-gst-plugin-gtk4
 rust-podman-sequoia
 rust-prefixdevname
@@ -1983,7 +1983,6 @@ xz-java
 yaml-cpp
 yara
 yggdrasil
-yggdrasil-worker-package-manager
 zaf
 zenity
 zip

@@ -83,7 +83,7 @@ avahi
 awscli2
 azure-vm-utils
 babel
-babeltrace
+babeltrace2
 baobab
 bash
 bash-completion
@@ -401,6 +401,7 @@ go-fdo-client
 go-fdo-server
 go-md2man
 go-rpm-macros
+go-vendor-tools
 gobject-introspection
 golang
 google-carlito-fonts
@@ -869,7 +870,7 @@ libfyaml
 libgcrypt
 libgee
 libgexiv2
-libgit2
+libgit2_1.9
 libglvnd
 libgpg-error
 libgphoto2
@@ -961,7 +962,6 @@ librhsm
 librsvg2
 librtas
 libsamplerate
-libsass
 libseccomp
 libsecret
 libselinux
@@ -1052,7 +1052,6 @@ logwatch
 lorax
 lorax-templates-rhel
 loupe
-low-memory-monitor
 lprint
 lrzsz
 lshw
@@ -1084,7 +1083,7 @@ mandoc
 mariadb-connector-c
 mariadb-connector-odbc
 mariadb-java-client
-mariadb11.8
+mariadb12.3
 marshalparser
 maturin
 maven
@@ -1165,6 +1164,8 @@ mod_intercept_form_submit
 mod_lookup_identity
 mod_md
 mod_proxy_cluster
+mod_security
+mod_security_crs
 mod_wsgi
 modello
 moditect
@@ -1192,7 +1193,7 @@ munge
 mutt
 mutter
 mysql-selinux
-mysql8.4
+mysql9.7
 mythes-eo
 nano
 nasm
@@ -1208,6 +1209,7 @@ netavark
 netlabel_tools
 netpbm
 nettle
+nettle3.10
 network-manager-applet
 newt
 nfs-utils
@@ -1220,7 +1222,7 @@ nmap
 nmstate
 nodejs-nodemon
 nodejs-packaging
-nodejs24
+nodejs26
 npth
 nss
 nss-altfiles
@@ -1252,6 +1254,7 @@ ocaml-ocamlbuild
 ocaml-pp
 ocaml-re
 ocaml-srpm-macros
+oci-delta
 oci-seccomp-bpf-hook
 ocl-icd
 oddjob
@@ -1284,15 +1287,17 @@ openssh
 openssl
 openssl-fips-provider
 openssl-ibmca
+openssl3
 opentelemetry-collector
 opentest4j
 openwsman
 opus
+opusfile
 orc
 orca
 os-prober
 osbuild
-osbuild-composer
+osci-internal-test-package
 osgi-annotation
 osgi-compendium
 osgi-core
@@ -1326,6 +1331,7 @@ pcre2
 pcs
 pcsc-lite
 pcsc-lite-ccid
+pdfio
 perftest
 perl
 perl-Algorithm-Diff
@@ -1342,7 +1348,6 @@ perl-CPAN-Meta
 perl-CPAN-Meta-Check
 perl-CPAN-Meta-Requirements
 perl-CPAN-Meta-YAML
-perl-CPAN-Requirements-Dynamic
 perl-Canary-Stability
 perl-Capture-Tiny
 perl-Carp
@@ -1386,7 +1391,6 @@ perl-Exporter-Tiny
 perl-ExtUtils-CBuilder
 perl-ExtUtils-CChecker
 perl-ExtUtils-Config
-perl-ExtUtils-HasCompiler
 perl-ExtUtils-Helpers
 perl-ExtUtils-Install
 perl-ExtUtils-InstallPaths
@@ -1507,8 +1511,6 @@ perl-Term-Size-Any
 perl-Term-Size-Perl
 perl-Term-Table
 perl-TermReadKey
-perl-Test-CPAN-Meta
-perl-Test-CPAN-Meta-JSON
 perl-Test-Deep
 perl-Test-Exception
 perl-Test-FailWarnings
@@ -1540,7 +1542,6 @@ perl-Tie-RefHash
 perl-Time-HiRes
 perl-Time-Local
 perl-TimeDate
-perl-Tk
 perl-Try-Tiny
 perl-Types-Serialiser
 perl-URI
@@ -1683,6 +1684,7 @@ python-attrs
 python-augeas
 python-awscrt
 python-blivet
+python-boolean.py
 python-breathe
 python-build
 python-cffi
@@ -1734,6 +1736,7 @@ python-lark
 python-ldap
 python-lesscpy
 python-libevdev
+python-license-expression
 python-linux-procfs
 python-lxml
 python-mako
@@ -1763,12 +1766,14 @@ python-protobuf
 python-psutil
 python-psycopg2
 python-ptyprocess
+python-puremagic
 python-pyasn1
 python-pycdio
 python-pycotap
 python-pycparser
 python-pygments
 python-pyinotify
+python-pypdf
 python-pyproject-hooks
 python-pyproject-metadata
 python-pyqt6
@@ -1796,7 +1801,6 @@ python-scikit-build-core
 python-semantic_version
 python-setuptools
 python-setuptools-rust
-python-setuptools80
 python-setuptools_scm
 python-simpleline
 python-six
@@ -1823,7 +1827,6 @@ python-wheel
 python-xkbregistry
 python-yubico
 python-zstandard
-python3.14
 python3.15
 pyusb
 pyxattr
@@ -1835,7 +1838,6 @@ qatzip
 qclib
 qdox
 qemu-kvm
-qpdf
 qt6
 qt6-qt3d
 qt6-qt5compat
@@ -1941,11 +1943,12 @@ rubygem-rspec-support
 rubygem-thread_order
 rust
 rust-afterburn
-rust-askalono-cli
 rust-bindgen-cli
 rust-bootupd
 rust-cbindgen
 rust-coreos-installer
+rust-crypto-auditing-agent
+rust-crypto-auditing-log-parser
 rust-gst-plugin-gtk4
 rust-podman-sequoia
 rust-prefixdevname
@@ -1963,7 +1966,6 @@ sane-backends
 sanlock
 sap-cluster-connector
 sap-hana-ha
-sassc
 sbc
 sbd
 sblim-cmpi-base
@@ -2094,8 +2096,6 @@ testng
 texi2html
 texinfo
 texlive
-texlive-collection-langgerman
-texlive-collection-latexextra
 tftp
 thermald
 time
@@ -2120,7 +2120,6 @@ tpm2-tss
 trace-cmd
 traceroute
 tree-pkg
-tree-sitter
 tree-sitter0.25
 trustee
 trustee-guest-components
@@ -2267,7 +2266,6 @@ yara
 yelp-tools
 yelp-xsl
 yggdrasil
-yggdrasil-worker-package-manager
 zaf
 zenity
 zip
