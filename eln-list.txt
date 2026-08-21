@@ -409,7 +409,7 @@ google-crosextra-caladea-fonts
 google-droid-fonts
 google-gson
 google-guice
-google-noto-emoji-fonts
+google-noto-color-emoji-fonts
 google-noto-fonts
 google-noto-sans-cjk-fonts
 google-noto-sans-cjk-vf-fonts
@@ -979,6 +979,7 @@ libsoup3
 libspelling
 libsrtp
 libssh
+libssh2
 libstoragemgmt
 libtalloc
 libtasn1
@@ -1652,8 +1653,6 @@ procps-ng
 proj
 protobuf
 protobuf-c
-protobuf3
-protobuf3-c
 prrte
 ps_mem
 psacct
@@ -1679,7 +1678,6 @@ pytest
 python-PyMySQL
 python-alembic
 python-argcomplete
-python-asn1crypto
 python-attrs
 python-augeas
 python-awscrt
@@ -1689,7 +1687,6 @@ python-breathe
 python-build
 python-cffi
 python-charset-normalizer
-python-cmarkgfm
 python-colorama
 python-configobj
 python-configshell
@@ -1945,6 +1942,7 @@ rust
 rust-afterburn
 rust-bindgen-cli
 rust-bootupd
+rust-cargo-c
 rust-cbindgen
 rust-coreos-installer
 rust-crypto-auditing-agent
@@ -2120,7 +2118,7 @@ tpm2-tss
 trace-cmd
 traceroute
 tree-pkg
-tree-sitter0.25
+tree-sitter
 trustee
 trustee-guest-components
 tss2

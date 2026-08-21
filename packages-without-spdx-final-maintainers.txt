@@ -104,7 +104,6 @@ chisholm-to-be-continued-fonts aekoroglu
 ckeditor             siwinski
 classified-ads       costello
 clearlooks-compact-gnome-theme lkundrak
-clisp                jjames
 clthreads            tartina
 clutter              fmuellner kalev mclasen walters
 clutter-gst3         amigadave
@@ -178,7 +177,6 @@ egd                  spot
 eiskaltdcpp          vascom
 ektype-mukta-fonts   fed500
 elisa-player         tripledes vascom
-enchant              limb
 engrampa             raveit65 robert
 enlightenment        cicku dchen spot
 entypo-fonts         leamas
@@ -238,7 +236,7 @@ gearhead1            suve
 gears-backgrounds    q5sys
 gflags               dcavalca
 ghasher              filiperosset
-ghdl                 sailer
+ghdl                 sailer tollsimy
 git-evtag            ignatenkobrain walters
 gkeyfile-sharp       tpokorra
 glade                kalev mclasen
@@ -284,7 +282,6 @@ golang-github-kennygrant-sanitize eclipseo
 golang-github-leveldb eclipseo
 golang-github-manifoldco-promptui eclipseo
 golang-github-mikioh-ipaddr eclipseo
-golang-github-mmarkdown-mmark orphan
 golang-github-multiformats-base32 eclipseo
 golang-github-multiformats-base36 eclipseo
 golang-github-op-logging orphan
@@ -396,7 +393,6 @@ jgoodies-common      melmorabity
 jgoodies-forms       melmorabity
 jgoodies-looks       melmorabity
 jigawatts            jvanek
-jmock                didiksupriadi41
 jpanoramamaker       jvanek
 jpcre2               rathann
 js-jquery-ui-touch-punch ellert
@@ -938,7 +934,6 @@ python-django-markdownx lbazan
 python-django-pytest aekoroglu mrunge
 python-django-reversion aekoroglu mrunge
 python-django-storages aekoroglu
-python-django-tables2 aekoroglu ignatenkobrain mrunge
 python-django-taggit aekoroglu
 python-django-taggit-serializer aekoroglu
 python-dockerfile-parse cverna lslebodn maxamillion ttomecek twaugh
@@ -1128,7 +1123,6 @@ rubygem-ncursesw     dcallagh
 rubygem-open4        tdawson vondruch
 rubygem-rmail        dcallagh
 rubygem-scanf        brandfbb ekohl
-rubygem-uuid         orphan
 rubygem-xmlrpc       jackorp pvalena
 rundoc               leamas
 safetyblanket        mystro256
@@ -1314,7 +1308,7 @@ abompard   python-celery python-paste python-pylibmc python-pylons-sphinx-themes
 aconole    Simple-Fuzzer
 adamwill   python-PyRSS2Gen
 adrian     id3lib xlockmore
-aekoroglu  alef-fonts apanov-heuristica-fonts chisholm-to-be-continued-fonts ctan-cm-lgc-fonts ctan-kerkis-fonts json-parser labiryntowy-fonts lector libmikmod mikmod ns-bola-fonts ns-tiza-chalk-fonts pothana2000-fonts python-django-authority python-django-debug-toolbar python-django-js-asset python-django-pytest python-django-reversion python-django-storages python-django-tables2 python-django-taggit python-django-taggit-serializer tarantool thibault-fonts tlomt-league-gothic-fonts vemana2000-fonts xfce4-diskperf-plugin
+aekoroglu  alef-fonts apanov-heuristica-fonts chisholm-to-be-continued-fonts ctan-cm-lgc-fonts ctan-kerkis-fonts json-parser labiryntowy-fonts lector libmikmod mikmod ns-bola-fonts ns-tiza-chalk-fonts pothana2000-fonts python-django-authority python-django-debug-toolbar python-django-js-asset python-django-pytest python-django-reversion python-django-storages python-django-taggit python-django-taggit-serializer tarantool thibault-fonts tlomt-league-gothic-fonts vemana2000-fonts xfce4-diskperf-plugin
 ahughes    java-latest-openjdk java-latest-openjdk-portable
 airwave    c++-gtk-utils
 ajax       cdparanoia coan dxpc libgle liboil
@@ -1378,7 +1372,7 @@ devos      archivemount
 devrim     check_postgres postgresql-ip4r postgresql-pgpool-II python-flask-gravatar python-flask-mail
 dfateyev   golang-github-ianbruene-difflib perl-Sort-MergeSort perl-Time-Moment rtorrent
 dherrera   tinyexr
-didiksupriadi41 hawtjni jakarta-saaj jakarta-xml-ws jfreechart jmock rhino xmlpull xmlstreambuffer xstream
+didiksupriadi41 hawtjni jakarta-saaj jakarta-xml-ws jfreechart rhino xmlpull xmlstreambuffer xstream
 diehlpk    blaze
 divius     python-netmiko
 dmalcolm   python-firehose
@@ -1440,7 +1434,7 @@ hushan     libnetfilter_acct shunit2
 huzaifas   firewalk gtk-v4l libnova
 hvad       perl-Config-Model-CursesUI perl-Config-Model-Itself php-pear-HTML-Template-IT
 iankent    am-utils
-ignatenkobrain git-evtag minetest python-cheroot python-cherrypy python-django-debug-toolbar python-django-tables2 python-github3py ragel teeworlds
+ignatenkobrain git-evtag minetest python-cheroot python-cherrypy python-django-debug-toolbar python-github3py ragel teeworlds
 imcinerney arpack cminpack
 ingvar     ebtree hitch jemalloc mpssh vmod-uuid
 ixs        mm perl-ConfigReader
@@ -1460,7 +1454,6 @@ jerboaa    java-latest-openjdk java-latest-openjdk-portable
 jexposit   motif
 jforbes    linux-firmware spice xen
 jgrulich   firefox kbrickbuster kcachegrind kde-runtime kdepimlibs kf5-kdelibs4support kf5-kdesignerplugin kf5-kdewebkit kf5-khtml kf5-kjsembed maliit-keyboard okteta oxygen-fonts plasma-workspace qt5-doc qt5-qtaccountsservice qt5-qtconfiguration qt5-qtstyleplugins qt5-qtwebengine sparsehash
-jjames     clisp
 jjelen     libcacard pcsc-lite-acsccid tcp_wrappers
 jkraehemann gsequencer
 jkucera    kget libgta sox
@@ -1507,7 +1500,7 @@ lbazan     greybird python-django-ajax-selects python-django-markdownx svn2cl
 leamas     entypo-fonts libirman lirc python-xlwt rundoc snip
 lenkaseg   python-pyopencl
 levined    nmh
-limb       enchant libdbi minetest motif nvidia-texture-tools python-cherrypy python-repoze-lru teeworlds
+limb       libdbi minetest motif nvidia-texture-tools python-cherrypy python-repoze-lru teeworlds
 linkdupont rcm
 linville   can-utils
 lkundrak   GLee clearlooks-compact-gnome-theme dev86 fakeroot fluid insight jfreechart kBuild libdrm-armada netbsd-iscsi nextpnr p11-remote perl-HTML-Template-Pro pgp-tools qt5-qtaccountsservice qt5-qtconfiguration teeworlds
@@ -1542,7 +1535,7 @@ moceap     fakeroot inkscape-psd kmplayer xar
 mohanboddu python-mechanize
 monnerat   insight python-caja xca
 mooninite  deluge domoticz mingw-libarchive mingw-libmicrohttpd mingw-orc mingw-wine-gecko miniupnpd vkd3d
-mrunge     eventlog python-celery python-django-authority python-django-debug-toolbar python-django-pytest python-django-reversion python-django-tables2 python-kombu python-py
+mrunge     eventlog python-celery python-django-authority python-django-debug-toolbar python-django-pytest python-django-reversion python-kombu python-py
 mruprich   pimd
 mschorm    mysql-connector-net mysql-connector-odbc
 mschwendt  audacious-plugins
@@ -1570,7 +1563,7 @@ omajid     beansbinding system-switch-java
 ondrejj    aspell-sk libirman python-chameleon python-formencode python-paste python-pylons-sphinx-themes python-repoze-tm2 python-repoze-who python-repoze-who-plugins-sa python-speaklater python-xlrd
 onemorebyte swayidle
 orion      Mayavi ast flow-tools garcon h5py hiredis jchardet lasi libaesgm libpgf libxfce4ui ncl octave-general octave-interval openspecfun pcfi perl-ConfigReader plplot pslib pyscard python-AppTools python-cftime python-enthought-sphinx-theme python-locket python-lz4 python-process-tests python-pytest-benchmark python-pytest-isort python-pytest-mpi python-rencode qtbrowserplugin tcp_wrappers vtable-dumper xdotool ykclient
-orphan     golang-github-golangci-lint-1 golang-github-mmarkdown-mmark golang-github-op-logging grantlee-qt5 kf5-kblog kf5-kdelibs4support kf5-kdesignerplugin kf5-kdewebkit kf5-khtml kf5-kirigami kf5-kjsembed rubygem-uuid soprano zola
+orphan     golang-github-golangci-lint-1 golang-github-op-logging grantlee-qt5 kf5-kblog kf5-kdelibs4support kf5-kdesignerplugin kf5-kdewebkit kf5-khtml kf5-kirigami kf5-kjsembed soprano zola
 ovasik     enum pax
 patrikp    monocypher
 pbiering   tcp_wrappers
@@ -1671,6 +1664,7 @@ till       hxtools libHX linux-system-roles xkbset
 timj       altermime bind-to-tinydns
 tjikkun    python-raven tkdnd
 tkorbar    tomsfastmath
+tollsimy   ghdl
 torsava    python3.6
 tpokorra   gkeyfile-sharp gnome-desktop-sharp gnome-sharp gtk-sharp-beans gtk-sharp2 gtk-sharp3 gudev-sharp libappindicator mono-basic mysql-connector-net newtonsoft-json nunit nunit2 restsharp sharpziplib taglib-sharp
 tpopela    firefox
