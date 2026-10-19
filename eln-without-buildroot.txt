@@ -205,7 +205,7 @@ dola-transformer
 dos2unix
 dosfstools
 dotconf
-dotnet10.0
+dotnet11.0
 dovecot
 doxygen
 dpdk
@@ -950,6 +950,7 @@ libxcvt
 libxkbcommon
 libxkbfile
 libxml2
+libxml2_2.13
 libxmlb
 libxshmfence
 libxslt
@@ -970,6 +971,7 @@ lldpad
 lldpd
 llhttp
 llvm
+llvm22
 lm_sensors
 lmdb
 localsearch
@@ -1040,6 +1042,7 @@ memtest86+
 mesa
 mesa-demos
 mesa-libGLU
+meson
 microcode_ctl
 micropipenv
 mingw-qemu-ga-win
@@ -1094,7 +1097,6 @@ netavark
 netlabel_tools
 netpbm
 nettle
-nettle3.10
 network-manager-applet
 newt
 nfs-utils
@@ -1156,7 +1158,6 @@ openssh
 openssl
 openssl-fips-provider
 openssl-ibmca
-openssl3
 opentelemetry-collector
 opentest4j
 openwsman
@@ -1309,7 +1310,7 @@ perl-Net-SSLeay
 perl-Net-Server
 perl-Package-Generator
 perl-Params-Check
-perl-Params-Util
+perl-Params-SomeUtil
 perl-Parse-PMFile
 perl-PathTools
 perl-Perl-OSType
@@ -1390,7 +1391,6 @@ php
 php-pear
 php-pecl-apcu
 php-pecl-redis6
-php-pecl-rrd
 php-pecl-xdebug3
 php-pecl-zip
 picocli
@@ -1567,7 +1567,6 @@ python-rpm-generators
 python-rpm-macros
 python-rtslib
 python-ruamel-yaml
-python-ruamel-yaml-clib
 python-setuptools
 python-simpleline
 python-six
@@ -1575,6 +1574,7 @@ python-sphinx
 python-sphinx-theme-alabaster
 python-sqlalchemy
 python-systemd
+python-tomlkit
 python-tornado
 python-tpm2-pytss
 python-trove-classifiers

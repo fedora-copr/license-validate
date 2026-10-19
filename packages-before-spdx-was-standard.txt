@@ -572,7 +572,6 @@ bless
 blinken
 blis
 bliss
-blitz
 blivet-gui
 blktrace
 bloaty
@@ -821,7 +820,6 @@ cim-schema
 cinnamon-control-center
 cinnamon-desktop
 cinnamon-menus
-cinnamon-screensaver
 cinnamon-session
 cinnamon-settings-daemon
 cinnamon
@@ -1390,6 +1388,7 @@ dosfstools
 dos2unix
 dotconf
 dotnet10.0
+dotnet11.0
 dot2tex
 doublecmd
 double-conversion
@@ -1519,6 +1518,7 @@ echo-icon-theme
 eiciel
 eigen3
 eiskaltdcpp
+ejabberd
 ektype-mukta-fonts
 ElectricFence
 electron-cash
@@ -1890,11 +1890,11 @@ fedora-repo-zdicts
 fedora-review-plugin-java
 fedora-review
 fedora-rpm-macros
+fedora-third-party-repos
 fedora-third-party
 fedora-upgrade
 fedorawaves-kdm-theme
 fedora-workstation-backgrounds
-fedora-workstation-repositories
 fedpkg-minimal
 fedpkg
 feedbackd
@@ -2070,7 +2070,6 @@ freeipmi
 freeradius-client
 freeradius
 freerdp
-freerdp2
 freerouting
 FreeSOLID
 freetalk
@@ -3281,7 +3280,6 @@ golang-github-akavel-rsrc
 golang-github-alecthomas-kong
 golang-github-alecthomas-repr
 golang-github-alecthomas-units
-golang-github-aliyun-oss-sdk
 golang-github-andybalholm-brotli
 golang-github-andybalholm-cascadia
 golang-github-apache-thrift
@@ -3315,7 +3313,6 @@ golang-github-cmd
 golang-github-cockroachdb-logtags
 golang-github-cockroachdb-redact
 golang-github-codegangsta-inject
-golang-github-containernetworking-cni
 golang-github-coreos-ioprogress
 golang-github-coreos-iptables
 golang-github-coreos-semver
@@ -3442,7 +3439,6 @@ golang-github-jackc-pgpassfile
 golang-github-jackc-pgproto3
 golang-github-jackc-pgservicefile
 golang-github-jackc-pgtype
-golang-github-jackc-pgx
 golang-github-jackc-puddle
 golang-github-jacobsa-oglematchers
 golang-github-jacobsa-ogletest
@@ -3522,16 +3518,12 @@ golang-github-nats-io-nkeys
 golang-github-networkplumbing-nft
 golang-github-nfnt-resize
 golang-github-nightlyone-lockfile
-golang-github-niklasfasching-org
 golang-github-nkovacs-streamquote
 golang-github-nsf-termbox
 golang-github-nwidger-jsoncolor
 golang-github-oneofone-xxhash
-golang-github-openapi-analysis
 golang-github-openapi-inflect
-golang-github-openapi-jsonpointer
 golang-github-openapi-jsonreference
-golang-github-openapi-spec
 golang-github-opencontainers-selinux
 golang-github-openprinting-goipp
 golang-github-otiai10-copy
@@ -4284,7 +4276,6 @@ chkrootkit
 chmlib
 chntpw
 chocolate-doom
-choqok
 chordpro
 chromaprint
 chromium-bsu
@@ -4876,7 +4867,6 @@ kita
 kiten
 kitty
 kitutuki
-kiwi-boxed-plugin
 kiwi
 kiwix-desktop
 kiwix-tools
@@ -5171,7 +5161,6 @@ libcint
 libcircle
 libclastfm
 libclaw
-libclc
 libcli
 libcloudproviders
 libcmis
@@ -5903,7 +5892,6 @@ LinLog
 linpsk
 linsim
 linsmith
-linux-atm
 linuxconsoletools
 linuxdoc-tools
 linux-firmware
@@ -6274,6 +6262,7 @@ mcabber
 mcelog
 mcomix3
 mcrcon
+mcrouter
 mcrypt
 mc
 mcstrans
@@ -6325,7 +6314,6 @@ meshlab
 meson
 messiggy
 metacity
-metamath
 metapixel
 meterbridge
 methane
@@ -6994,7 +6982,6 @@ netsurf
 nettle
 net-tools
 network-manager-applet
-NetworkManager-fortisslvpn
 NetworkManager-iodine
 NetworkManager-libreswan
 NetworkManager-l2tp
@@ -7005,7 +6992,6 @@ NetworkManager
 NetworkManager-ssh
 NetworkManager-sstp
 NetworkManager-strongswan
-NetworkManager-vpnc
 neverball
 newlisp
 newscache
@@ -11295,8 +11281,8 @@ pyppd
 pyproject-rpm-macros
 pyproj
 pypy
-pypy3.10
 pypy3.11
+pypy3.12
 pyp2spec
 PyQt-builder
 pyqtwebengine
@@ -11591,7 +11577,6 @@ python-cclib
 python-celery
 python-cerberus
 python-cerealizer
-python-certbot-dns-luadns
 python-certbot-dns-plesk
 python-certifi
 python-cffi
@@ -12773,7 +12758,6 @@ python-qtsass
 python-qt5
 python-quantities
 python-queuelib
-python-qutepart
 python-radexreader
 python-railroad-diagrams
 python-rangehttpserver
@@ -12973,6 +12957,7 @@ python-sphinxtesters
 python-sphinx-theme-alabaster
 python-sphinx-theme-builder
 python-sphinx-theme-py3doc-enhanced
+python-sphobjinv
 python-sport-activities-features
 python-spur
 python-spyder-kernels
@@ -13281,6 +13266,7 @@ python3.13-flit-core
 python3.13
 python3.14
 python3.15
+python3.16
 python3.6
 python38-toml-epel
 python3.9
@@ -14708,6 +14694,7 @@ rust-numtoa
 rust-num-traits
 rust-num0.3
 rust-object
+rust-obj
 rust-oid
 rust-once_cell
 rust-opaque-debug
@@ -15515,7 +15502,6 @@ sorkintype-merriweather-sans-fonts
 sos
 soundconverter
 sound-juicer
-soundkonverter
 soundmodem
 sound-theme-freedesktop
 soundtouch
@@ -16325,7 +16311,6 @@ vim-gitgutter
 vim-go
 vim-gtk-syntax
 vimiv-qt
-vimiv
 vim-jedi
 vim-mediawiki
 vim-nerdtree
@@ -16414,6 +16399,7 @@ wagyu
 waifu2x-converter-cpp
 WALinuxAgent
 wallpapoz
+wannier90
 warmux
 warsow-data
 warsow

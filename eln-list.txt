@@ -235,7 +235,7 @@ dola-transformer
 dos2unix
 dosfstools
 dotconf
-dotnet10.0
+dotnet11.0
 dovecot
 doxygen
 dpdk
@@ -976,7 +976,6 @@ libsoup3
 libspelling
 libsrtp
 libssh
-libssh2
 libstoragemgmt
 libtalloc
 libtasn1
@@ -1019,6 +1018,7 @@ libxcvt
 libxkbcommon
 libxkbfile
 libxml2
+libxml2_2.13
 libxmlb
 libxshmfence
 libxslt
@@ -1039,6 +1039,7 @@ lldpad
 lldpd
 llhttp
 llvm
+llvm22
 lm_sensors
 lmdb
 localsearch
@@ -1207,7 +1208,6 @@ netavark
 netlabel_tools
 netpbm
 nettle
-nettle3.10
 network-manager-applet
 newt
 nfs-utils
@@ -1287,7 +1287,6 @@ openssh
 openssl
 openssl-fips-provider
 openssl-ibmca
-openssl3
 opentelemetry-collector
 opentest4j
 openwsman
@@ -1479,6 +1478,7 @@ perl-Net-SSLeay
 perl-Net-Server
 perl-Package-Generator
 perl-Params-Check
+perl-Params-SomeUtil
 perl-Params-Util
 perl-Parse-PMFile
 perl-Parse-Yapp
@@ -1588,7 +1588,6 @@ php
 php-pear
 php-pecl-apcu
 php-pecl-redis6
-php-pecl-rrd
 php-pecl-xdebug3
 php-pecl-zip
 picocli
@@ -1793,7 +1792,6 @@ python-rpmautospec
 python-rpmautospec-core
 python-rtslib
 python-ruamel-yaml
-python-ruamel-yaml-clib
 python-scikit-build-core
 python-semantic_version
 python-setuptools
@@ -1809,6 +1807,7 @@ python-sphinxcontrib-jquery
 python-sqlalchemy
 python-systemd
 python-testpath
+python-tomlkit
 python-tornado
 python-tpm2-pytss
 python-trove-classifiers
@@ -1819,7 +1818,7 @@ python-urllib3
 python-vcs-versioning
 python-virt-firmware
 python-wcwidth
-python-websockets
+python-wheel
 python-xkbregistry
 python-yubico
 python-zstandard
@@ -2037,6 +2036,7 @@ speexdsp
 spice-protocol
 spice-vdagent
 spirv-headers
+spirv-llvm-translator
 spirv-tools
 splix
 sqlite
